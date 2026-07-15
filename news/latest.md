@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-15 21:51_
+_Updated: 2026-07-15 23:37_
 
 - Watch Live: Todd Blanche, Trump's Attorney General Pick, Answers Questions at Confirmation Hearing - The New York Times
-- US launches new strikes on Iran - Politico
 - Live updates: Trump says ICE should do traffic stops, despite new suspension after shootings - AP News
-- Trump's DNI pick Jay Clayton won't tell senators Biden won the 2020 election - CNBC
+- The U.S. launches another wave of strikes on Iran as the Hormuz standoff intensifies - NPR
+- Trump's pick to head national intelligence, Jay Clayton, won't tell senators Biden won the 2020 election - CNBC
+- 1 Dead, Search Continues for 3 Missing After Boat Sinks Near Alcatraz - KQED
 - Exclusive: Officials asked to turn over phones at the White House as Wiles, Patel lead intensifying leak probe - CNN
-- House Republicans push for $90 billion for Iran war, election measures and farm aid - NBC News
-- 1 dead, 3 missing after boat capsizes near Alcatraz in San Francisco Bay - NBC News
 - New York's AI data center pause sparks warnings US could lose ground to China - Fox Business
-- Wildfires expose millions in Midwest, Northeast to dangerous smoke: "Perfect storm for really dry conditions" - CBS News
-- The downside of making Daylight Saving Time permanent - CNN
-- Strait of Hormuz-style crisis looms for Russia as Ukraine forces shutdown of a key waterway - CNN
+- Wildfire smoke from Canada will soon spread across the Midwest and East - The Washington Post
+- ‘Shark Tank’ Star Is Sued by Opponents He Claimed Were Foreign Agents - The New York Times
+- Capitol agenda: Vance, Johnson try to rally House GOP - Politico
+- Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea - The New York Times
 - Hong Kong booksellers arrested for allegedly selling seditious books - NPR
+- More people around the world now favour China over the US, Pew study suggests - BBC
 - Midnight social media curfew and limits to infinite scrolling proposed for older UK teens - CNBC
-- Senior defense officials looking at Cuba military options - CBS News
 - US producer prices post largest drop in 14 months; inflation risks still tilted to the upside - Reuters
-- China’s Economy Grows at Slowest Pace in Years - The New York Times
-- Warren Buffett calls Bill Gates' actions with Epstein 'distasteful' but says people make mistakes - CNBC
-- SpaceX stock on watch after hitting all-time low, dips below IPO price - Yahoo Finance
+- Why one airline thinks you’ll pay extra just to keep the middle seat empty - NBC News
+- SpaceX stock hits all-time low, dips below IPO price - Yahoo Finance
+- Lucid’s bankruptcy rumor is a bad sign for the EV future - The Verge
 - Google releases first Pixel 11 teaser and shows Pixel Glow [Video] - 9to5Google
-- Valve is "starting to sunset" replacement Steam Deck batteries, says iFixit, as it turns attention to alternatives - PC Guide
+- Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra full specs leak - GSMArena.com news - GSMArena.com
