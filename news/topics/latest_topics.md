@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-16 02:56_
+_Updated: 2026-07-16 06:38_
 
 ## Top Stories
 
-- Trump: Iran vill nå en uppgörelse – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Vrede efter branden utanför Paris: ”De skyldiga borde kastas in i elden” - Dagens Nyheter
-- Man gripen efter misstänkt våldtäkt - Aftonbladet
-- Stickskadad man har avlidit – misstänkt mord i Sköndal - Sveriges Radio
-- Explosioner i Kuwait efter iranska motattacker - Västerbottens-Kuriren
-- Chips och sill – så klarar de äldre på Vidala hettan - Vimmerby Tidning
-- Pendeltågsstationen på T-centralen utryms - omni.se
+- Man gripen efter misstänkt våldtäkt - omni.se
+- Tidning tar strid mot Trump-stämning - Västerbottens-Kuriren
+- Över 30 grader – så förberedde sig äldreboendena - Borlänge Tidning
+- Iran: Utför motattacker mot amerikanska mål - Västerbottens-Kuriren
+- ”Moralisk kollaps – och ekonomiskt vansinne” - Svenska Dagbladet
+- Explosioner i Iran efter nya amerikanska attacker - Dagens Nyheter
+- Svensk oro för skogen med ändrad utsläppshandel - Västerbottens-Kuriren
+- Larm skapade strul för pendeltåg vid T-centralen - Expressen
 - Gul varning för höga temperaturer i Uppsala län - UNT
 - Efter dödsmisshandel i Mölnlycke – två häktade men inte för mord - Göteborgs-Posten
-- Nu slår hettan till – Trafikverket varnar - Göteborgs-Posten
-- Ukrainas drönarchef: ”Nu tar vi Svarta havet” - Hufvudstadsbladet – HBL
 - Ukraina under attack – flera explosioner - Västerbottens-Kuriren
-- Franska parlamentet röstar ja till dödshjälp - Göteborgs-Posten
-- Förvirringen: Trump går emot egna administrationen om ICE-besked - Göteborgs-Posten
+- Trump: Fängslad amerikan frigiven i Iran - Göteborgs-Posten
+- Ryska spioner jagar vapenteknik i Japan - Västerbottens-Kuriren
+- Offrets son om spanska storbranden: Fick ingen information om hur de skulle fly - Göteborgs-Posten
+- Färre varslas om uppsägning - Svenska Dagbladet
+- Så mycket tjänar ungdomar – ålder för ålder - Dagens Nyheter
 - Space X föll för första gången under teckningskursen - omni.se
-- Höjt prisbasbelopp 2027: så påverkas din plånbok - Via TT
-- Avvaktande handel på Wall Street - EFN
-- Börsen backade svagt – becksvart för Axfood - Göteborgs-Posten
+- 28-åringens gruvjobb lönar sig: ”Väldigt attraktivt för unga” - Dagens Nyheter
 - Playstations framtidsplan skakar spelvärlden - Aftonbladet
 - Googles aptitretare för Pixel 11 visar nya aviseringslampan - Swedroid
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Google Deepmind-chefen vill se global AI-myndighet ledd av USA - Computer Sweden
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
@@ -58,33 +58,34 @@ _Updated: 2026-07-16 02:56_
 - Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - omni.se
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Få digital tillgång till Fortune India - November 2013-numret - Magzter
+- Få digital tillgång till Fortune India - November 2014-numret - Magzter
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
+- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -92,30 +93,29 @@ _Updated: 2026-07-16 02:56_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Vi presenterar ChatGPT Health - OpenAI
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
 
