@@ -1,37 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-16 16:32_
+_Updated: 2026-07-16 17:59_
 
 ## Top Stories
 
-- Starmer: Miljardinvestering i Gripen till Ukraina - Västerbottens-Kuriren
-- Ytterligare en begärd häktad efter misshandeln i Mölnlycke - Göteborgs-Posten
 - M-ministern: Fick veta om anteckningsboken när jag läste i tidningen - Dagens Nyheter
 - Ukrainas ÖB anklagas: ”Sovjetisk” ledarstil - Hufvudstadsbladet – HBL
-- Ny översvämning i Texas – fem meter på 30 minuter - Göteborgs-Posten
 - Kommunens dricksvatten uppfyller krav gällande PFAS - Höörs kommun
-- Allvarlig psykisk störning hos misstänkt spion - Aftonbladet
+- Fotbolls-VM: Skogsbränder och värmebölja oroar inför finalen – Fotbolls-VM 2026: Senaste nytt - SVT Nyheter
+- Rejält väderomslag till helgen: ”Stor mängd regn” - Borås Tidning
+- Ukrainska attacker i Svarta havet - Expressen
 - Här tar de äldre ett svalkande dopp under värmen - Dagens Nyheter
 - Brandrisk i stora delar av landet - SVT Nyheter
-- Eldningsförbud i Västerås - Expressen
-- Bomberna slog ner – innan flyglarmet ljöd i Kiev - Dagens Nyheter
-- Genuabron kollapsade – vd döms till fängelse - SVT Nyheter
-- Iran: Kommer slå mot ”all infrastruktur” - Västerbottens-Kuriren
-- DN Direkt – Tsunamivarning i Nya Zeeland efter skalv - Dagens Nyheter
+- Busch: Stoppa nedläggningen av kvinnojourer - Västerbottens-Kuriren
+- Världens blickar riktas mot socialen i Hässleholm - Norra Skåne
+- Fortsatta amerikanska attacker mot Iran under natten - Dagens Nyheter
+- Ny översvämning i Texas – fem meter på 30 minuter - Göteborgs-Posten
+- Nya nattliga attacker mot Ukraina – flera döda - Västerbottens-Kuriren
+- Vd döms till fängelse efter olyckan som krävde 43 liv - Omni – Alla nyheter. Alla perspektiv.
 - Green Power Sweden välkomnar ja till ny havsvindkraft – men varnar för konsekvenserna av de många avslagen - Cision News
 - Martin Blomgren: Högtryck i storverkstan - EFN
 - Uber köper Foodora-ägaren Delivery Hero - Västerbottens-Kuriren
-- Mips: Vips så va tillväxten tillbaka - Affärsvärlden
+- Mips öppnar för fler förvärv: "Går lite utanför hjälmen" - Affärsvärlden
 - Open AI-avhopparens nya bolag släpper öppen modell - Omni – Alla nyheter. Alla perspektiv.
-- Patchtisdag juli 2026 – samlad information om månadens säkerhetsuppdateringar - CERT-SE
+- Microsoft täpper till 622 säkerhetsbrister – två utnyttjas redan i attacker - Aktuell Säkerhet
 
 ## World News
 
-- Esports World Cup 2026: Fyra lag är redan bekräftade för MLBB Women's International Playoffs - Gamereactor
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -43,10 +42,11 @@ _Updated: 2026-07-16 16:32_
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -58,18 +58,18 @@ _Updated: 2026-07-16 16:32_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
 
@@ -79,11 +79,12 @@ _Updated: 2026-07-16 16:32_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
+- Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2026-07-16 16:32_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
