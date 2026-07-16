@@ -1,34 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-16 06:38_
+_Updated: 2026-07-16 09:35_
 
 ## Top Stories
 
-- Man gripen efter misstänkt våldtäkt - omni.se
-- Tidning tar strid mot Trump-stämning - Västerbottens-Kuriren
-- Över 30 grader – så förberedde sig äldreboendena - Borlänge Tidning
-- Iran: Utför motattacker mot amerikanska mål - Västerbottens-Kuriren
+- Fortsatta amerikanska attacker mot Iran under natten - Dagens Nyheter
+- En gripen efter skott mot hus i Norrköping - Västerbottens-Kuriren
+- Försvaret tvingar bort Marianne – förlorar miljoner - Sveriges Radio
+- Trafikverket om värmen: ”Utmanande dygn väntar” - Omni – Alla nyheter. Alla perspektiv.
 - ”Moralisk kollaps – och ekonomiskt vansinne” - Svenska Dagbladet
-- Explosioner i Iran efter nya amerikanska attacker - Dagens Nyheter
-- Svensk oro för skogen med ändrad utsläppshandel - Västerbottens-Kuriren
-- Larm skapade strul för pendeltåg vid T-centralen - Expressen
-- Gul varning för höga temperaturer i Uppsala län - UNT
-- Efter dödsmisshandel i Mölnlycke – två häktade men inte för mord - Göteborgs-Posten
-- Ukraina under attack – flera explosioner - Västerbottens-Kuriren
-- Trump: Fängslad amerikan frigiven i Iran - Göteborgs-Posten
-- Ryska spioner jagar vapenteknik i Japan - Västerbottens-Kuriren
+- M-toppens kritik efter raset: Ledningen famlar - Dagens Nyheter
+- DN Direkt – Man gripen efter misstänkt våldtäkt i park - Dagens Nyheter
+- Svensk oro för skogen med ändrad utsläppshandel - Corren
+- Erik Magnusson Därför blir höga elpriser en valfråga främst i Skåne - Sydsvenskan
+- Ny lag ska stoppa mordannonserna - Nya Wermlands-Tidningen
+- Bomberna slog ner – innan flyglarmet ljöd i Kiev - Dagens Nyheter
+- FN: Över 500 befaras döda i båtolyckor - SVT Nyheter
 - Offrets son om spanska storbranden: Fick ingen information om hur de skulle fly - Göteborgs-Posten
-- Färre varslas om uppsägning - Svenska Dagbladet
-- Så mycket tjänar ungdomar – ålder för ålder - Dagens Nyheter
-- Space X föll för första gången under teckningskursen - omni.se
-- 28-åringens gruvjobb lönar sig: ”Väldigt attraktivt för unga” - Dagens Nyheter
-- Playstations framtidsplan skakar spelvärlden - Aftonbladet
-- Googles aptitretare för Pixel 11 visar nya aviseringslampan - Swedroid
+- Tidning tar strid mot Trump-stämning - Västerbottens-Kuriren
+- Börsen backar efter tunga delår – Mips rusar - Omni – Alla nyheter. Alla perspektiv.
+- Uber köper Foodora-ägaren Delivery Hero - Västerbottens-Kuriren
+- Nedåt på Asiens börser – SK Hynix och Samsung rasade - Privata Affärer
+- ABB gör miljardaffär med Rotork - Svenska Dagbladet
+- Sommarrean i PlayStation-affären har startat. Battlefield 6 och Clair Obscur: Expedition 33 kostar nu lite mindre. - Feber
+- Hela: Of Mice & Magic lanseras i Q4 2026 - Cision News
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
@@ -41,6 +40,7 @@ _Updated: 2026-07-16 06:38_
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
@@ -55,44 +55,44 @@ _Updated: 2026-07-16 06:38_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Kina utökar övervakning i realtid av invånarna - omni.se
-- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
-- Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Få digital tillgång till Fortune India - November 2014-numret - Magzter
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -154,11 +154,11 @@ _Updated: 2026-07-16 06:38_
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Miljöprisade Bjursås Lantbruk satsar på cirkulärt jordbruk - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Miljöprisade Bjursås Lantbruk satsar på cirkulärt jordbruk - Land.se
