@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-16 14:01_
+_Updated: 2026-07-16 16:32_
 
 ## Top Stories
 
-- Flera hemsidor ligger nere – större globalt avbrott - Aftonbladet
-- Fortsatta amerikanska attacker mot Iran under natten - Dagens Nyheter
-- Han är Ukrainas nye premiärminister - Västerbottens-Kuriren
-- Ämnet sprids i grundvattnet och kan skada foster - ETC.se
-- Tsunamivarning i Nya Zeeland - SVT Nyheter
-- Ukrainska attacker i Svarta havet - Expressen
-- Allvarlig psykisk störning hos misstänkt spion - SVT Nyheter
-- Utvisades efter knivattack – kom tillbaka och gömde sig hos frun - Expressen
-- Brå: Färre bedrägerier men fler våldsbrott i år - Sveriges Radio
-- Är en ny väg eller järnväg lönsam – regeringen efterlyser bättre svar - Dagens Nyheter
+- Starmer: Miljardinvestering i Gripen till Ukraina - Västerbottens-Kuriren
+- Ytterligare en begärd häktad efter misshandeln i Mölnlycke - Göteborgs-Posten
+- M-ministern: Fick veta om anteckningsboken när jag läste i tidningen - Dagens Nyheter
+- Ukrainas ÖB anklagas: ”Sovjetisk” ledarstil - Hufvudstadsbladet – HBL
+- Ny översvämning i Texas – fem meter på 30 minuter - Göteborgs-Posten
+- Kommunens dricksvatten uppfyller krav gällande PFAS - Höörs kommun
+- Allvarlig psykisk störning hos misstänkt spion - Aftonbladet
+- Här tar de äldre ett svalkande dopp under värmen - Dagens Nyheter
+- Brandrisk i stora delar av landet - SVT Nyheter
+- Eldningsförbud i Västerås - Expressen
 - Bomberna slog ner – innan flyglarmet ljöd i Kiev - Dagens Nyheter
-- Iran: ”Hormuz är en röd linje” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Vattenspegeln i Washington åter tömd på vatten – Trump skyller på sabotage - Dagens Nyheter
-- Elva barn döda efter brand på barnhem i Algeriet - Göteborgs-Posten
-- DEBATT: Regeringen säger ja till ny havsbaserad vindkraft - Expressen
-- Kepler Cheuvreux sänker riktkursen för Axfood till 250 kronor (315), upprepar behåll - Placera.se
+- Genuabron kollapsade – vd döms till fängelse - SVT Nyheter
+- Iran: Kommer slå mot ”all infrastruktur” - Västerbottens-Kuriren
+- DN Direkt – Tsunamivarning i Nya Zeeland efter skalv - Dagens Nyheter
+- Green Power Sweden välkomnar ja till ny havsvindkraft – men varnar för konsekvenserna av de många avslagen - Cision News
+- Martin Blomgren: Högtryck i storverkstan - EFN
 - Uber köper Foodora-ägaren Delivery Hero - Västerbottens-Kuriren
-- Färre varslas och färre är inskrivna som arbetslösa - Omni – Alla nyheter. Alla perspektiv.
-- Microsoft stoppar uppdatering för vissa Dell-datorer - Computer Sweden
-- Kritisk sårbarhet upptäckt i Zoom - Computer Sweden
+- Mips: Vips så va tillväxten tillbaka - Affärsvärlden
+- Open AI-avhopparens nya bolag släpper öppen modell - Omni – Alla nyheter. Alla perspektiv.
+- Patchtisdag juli 2026 – samlad information om månadens säkerhetsuppdateringar - CERT-SE
 
 ## World News
 
@@ -31,20 +31,20 @@ _Updated: 2026-07-16 14:01_
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Google Deepmind-chefen vill se global AI-myndighet ledd av USA - Computer Sweden
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
@@ -62,7 +62,6 @@ _Updated: 2026-07-16 14:01_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
@@ -70,6 +69,7 @@ _Updated: 2026-07-16 14:01_
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
 
@@ -79,12 +79,11 @@ _Updated: 2026-07-16 14:01_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
+- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2026-07-16 14:01_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
