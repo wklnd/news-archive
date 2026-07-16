@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-16 14:08_
+_Updated: 2026-07-16 16:36_
 
-- US expands strikes into northern Iran and disables ship trying to run blockade - AP News
-- Ukrainians take to the streets after Zelenskyy ousts defense minister in surprise shake-up - CNBC
+- Hundreds protest in Kyiv over Zelenskyy’s dismissal of defence minister - Al Jazeera
+- Strait of Hormuz: US fires at oil tanker as new Iran blockade begins - BBC
+- Todd Blanche’s chances of becoming attorney general could hinge on John Cornyn - Politico
+- Why Trump’s Hormuz toll wasn’t only unpopular, it was likely to be unenforceable - NBC News
+- Trump speech gives TV networks a tough choice - Axios
 - Wildfire smoke will worsen in the Northeast and Mid-Atlantic through Friday - The Washington Post
-- How a fuming Trump reversed ICE's pause on vehicle stops - Axios
-- ‘Scared s–tless’: Republicans brace for Trump’s primetime speech - Politico
-- The use of force has become a 'default tool' for ICE officers, a new report finds - NPR
-- Blanche faces questions on DOJ fund, Epstein files at attorney general confirmation hearing - CBS News
-- US announces new 25% tariffs on Brazil for ‘unfair’ trade practices - CNN
 - Deadly boat capsize on San Francisco Bay: Search efforts end for 3 missing boaters - San Francisco Chronicle
-- Trump immediately fires the new court-appointed top prosecutor in Seattle - NBC News
-- The band playing when a Bangkok bar caught fire mourns its members among the 33 dead - NPR
-- Hong Kong police raid two bookstores, arrest five people - DW.com
-- Protests over ousted Ukraine defence chief cloud government vote - Reuters
-- Two killed in Russian missile fire on Kyiv after Ukraine-EU drone deal - Al Jazeera
-- TSMC Q2 profit jumps 77% to record, far surpasses expectations - Reuters
-- UnitedHealth blows past estimates, hikes earnings outlook as it reins in costs - CNBC
-- Stock Market Today: Nasdaq Set for Lower Open as Chip Stocks Come Under Pressure — Live Updates - WSJ
-- SpaceX stock hits all-time low, dips below IPO price - Yahoo Finance
-- OnePlus officially gives up on the US and Europe - The Verge
-- Skullcandy’s New Wireless Headphones Have So Much Bose in Them - Gizmodo
+- Trump fires new Seattle prosecutor less than an hour after appointment - The Hill
+- How a fuming Trump reversed ICE's pause on vehicle stops - Axios
+- Family of Black teen found dead after boat trip agrees to inspect his cellphone with DA - AP News
+- Hong Kong Police Raid Independent Bookstores and Arrest 5 People - The New York Times
+- UK urges FIFA to investigate Argentina over Falklands banner at World Cup - AP News
+- Ukraine's Zelenskiy endorses energy boss as PM, will change his defence minister, lawmakers say - Reuters
+- To Catch Europe’s Most Elusive Criminals, Police Look to U.S. DNA Tactics - WSJ
+- TSMC Stock Falls After Earnings. Taiwan Semi Ramps Up U.S. Investment Amid Intel Threat. - Barron's
+- S&P 500 and Nasdaq futures fall as semiconductors slide: Live updates - CNBC
+- UnitedHealth Results Handily Beat Wall Street Expectations - WSJ
+- Retail sales last month rose less than expected - CNN
+- OnePlus, the ‘Flagship-Killer’ Smartphone Brand, Is All but Dead - WIRED
+- Google teases gold Pixel 11 with mysterious Pixel Glow in action - Android Police
