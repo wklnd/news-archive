@@ -1,46 +1,46 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-16 17:59_
+_Updated: 2026-07-16 19:46_
 
 ## Top Stories
 
+- Vädret gör en u-sväng: ”Som höst” - Expressen
+- Zelenskyj utnämner ny försvarsminister i turbulens - Göteborgs-Posten
+- Fotbolls-VM: Över 700 drönare beslagtagna under VM – Fotbolls-VM 2026: Senaste nytt - SVT Nyheter
 - M-ministern: Fick veta om anteckningsboken när jag läste i tidningen - Dagens Nyheter
-- Ukrainas ÖB anklagas: ”Sovjetisk” ledarstil - Hufvudstadsbladet – HBL
-- Kommunens dricksvatten uppfyller krav gällande PFAS - Höörs kommun
-- Fotbolls-VM: Skogsbränder och värmebölja oroar inför finalen – Fotbolls-VM 2026: Senaste nytt - SVT Nyheter
-- Rejält väderomslag till helgen: ”Stor mängd regn” - Borås Tidning
-- Ukrainska attacker i Svarta havet - Expressen
+- Anna-Lena Laurén: Skrupelfria rekryteringen är både Putinregimens själ och dess stötesten - Dagens Nyheter
+- Mopedsadlar proppfulla med cannabis – far och son åtalas - Göteborgs-Posten
+- Kedjekrock med polisbil på Södermalm - Sveriges Radio
 - Här tar de äldre ett svalkande dopp under värmen - Dagens Nyheter
 - Brandrisk i stora delar av landet - SVT Nyheter
 - Busch: Stoppa nedläggningen av kvinnojourer - Västerbottens-Kuriren
-- Världens blickar riktas mot socialen i Hässleholm - Norra Skåne
-- Fortsatta amerikanska attacker mot Iran under natten - Dagens Nyheter
+- Iranska medier: USA har attackerat Qeshm - Västerbottens-Kuriren
 - Ny översvämning i Texas – fem meter på 30 minuter - Göteborgs-Posten
-- Nya nattliga attacker mot Ukraina – flera döda - Västerbottens-Kuriren
-- Vd döms till fängelse efter olyckan som krävde 43 liv - Omni – Alla nyheter. Alla perspektiv.
-- Green Power Sweden välkomnar ja till ny havsvindkraft – men varnar för konsekvenserna av de många avslagen - Cision News
+- Trump skärper visumregler för utländska journalister - Sveriges Radio
+- Bomberna slog ner – innan flyglarmet ljöd i Kiev - Dagens Nyheter
 - Martin Blomgren: Högtryck i storverkstan - EFN
-- Uber köper Foodora-ägaren Delivery Hero - Västerbottens-Kuriren
-- Mips öppnar för fler förvärv: "Går lite utanför hjälmen" - Affärsvärlden
+- Uber köper Foodora-ägaren Delivery Hero - Market.se
+- Mips: Vips så va tillväxten tillbaka - Affärsvärlden
+- Ryanair-olyckan: Därför sprack fönstret på planet - Dagens PS
+- Uppgifter: Svenskgrundade mobilbolaget lämnar USA och Europa - Breakit
 - Open AI-avhopparens nya bolag släpper öppen modell - Omni – Alla nyheter. Alla perspektiv.
-- Microsoft täpper till 622 säkerhetsbrister – två utnyttjas redan i attacker - Aktuell Säkerhet
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Google Deepmind-chefen vill se global AI-myndighet ledd av USA - Computer Sweden
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
@@ -64,27 +64,26 @@ _Updated: 2026-07-16 17:59_
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
+- Få digital tillgång till Fortune India - November 2014-numret - Magzter
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2026-07-16 17:59_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -148,8 +148,8 @@ _Updated: 2026-07-16 17:59_
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbrukspolitik - Naturvårdsverket
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
@@ -161,4 +161,4 @@ _Updated: 2026-07-16 17:59_
 - Kan agroekologi mätta världen? - SLU
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Miljöprisade Bjursås Lantbruk satsar på cirkulärt jordbruk - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
