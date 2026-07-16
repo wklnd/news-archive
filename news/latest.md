@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-16 21:44_
+_Updated: 2026-07-16 22:35_
 
-- Canadian wildfire smoke returns to NYC, Tri-State: Air quality alerts and live updates - ABC7 New York
-- Todd Blanche defends Trump relationship and new audio in Nolan Wells case: Morning Rundown - NBC News
+- Wildfire smoke will worsen in the Northeast and Mid-Atlantic through Friday - The Washington Post
+- Todd Blanche roasts Adam Schiff in heated hearing: 'You're a lawyer, you know the rules' - Fox News
 - Live updates: At least 1 dead as flooding hits Texas Hill Country again - CNN
-- Trump is expected to make election conspiracies a focus of his national address - AP News
-- Iran and US step up attacks, though release of American may signal path to climbdown - Reuters
-- Reflecting Pool peeling likely caused by application flaws, experts say - The Washington Post
-- Substance FBI agent saw in van of man fatally shot by ICE in Houston was salt, family attorney says - NBC News
-- ICE agent who shot man in Biddeford identified as former Maine law enforcement officer - The Portland Press Herald
-- GPS data tracks boat movement before Nolan Wells’ disappearance and death - WLOX
-- Zelensky's removal of popular defence minister sparks protests in Ukraine - BBC
+- Broadcast Networks Have Yet To Say If They'll Carry Trump Speech - Deadline
+- Drained Reflecting Pool shows liner more gray than blue - The Hill
+- Trump fires U.S. attorney in Washington, Roger Rogoff, on heels of court appointment - CBS News
+- House Democrat: Hegseth testosterone screenings indicative of ‘homoeroticism’ - The Hill
+- America already tried permanent daylight saving time. It lasted less than a year. Could it work now? - AP News
+- Iran vows to 'crush' regional infrastructure if US strikes escalate - Euronews.com
+- Hegseth Says ‘Flyovers Will Continue Until Morale Improves’ After Blue Angels Rip Past Beachgoers - Forbes
+- Hundreds protest in Kyiv over Zelenskyy’s dismissal of defence minister - Al Jazeera
 - Blazes Continue in Ontario as Officials Brace for More Evacuations - The New York Times
-- Hong Kong official warns booksellers on security risks after raids - NPR
 - US designates 2 new Mexican cartels as foreign terrorist organizations - AP News
+- Hong Kong official warns booksellers on security risks after raids - NPR
+- Netflix Revenue, Profit Grow Despite Concerns About Keeping Subscribers Hooked - WSJ
+- S&P 500 falls as chip stocks weigh on market again: Live updates - CNBC
 - TSMC Stock Falls After Earnings. Taiwan Semi Ramps Up U.S. Investment Amid Intel Threat. - Barron's
-- S&P 500 tries to fight higher on solid earnings, but chip stocks are weighing on market again: Live updates - CNBC
-- FDA approves new kind of cholesterol pill - NBC News
-- Here's what to expect when Netflix reports earnings after the bell - CNBC
-- Google is renaming NotebookLM to Gemini Notebook - The Verge
+- The F.D.A. Approves a New Pill to Slash Cholesterol Levels - The New York Times
 - OnePlus will continue software updates, all devices move to ColorOS with Android 17 - 9to5Google
-- 1Password now lets Claude sign in to websites without seeing your passwords - 9to5Mac
+- Google’s AI Mode now lets you link and interact with select apps - TechCrunch
