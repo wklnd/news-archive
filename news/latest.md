@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-16 06:43_
+_Updated: 2026-07-16 09:09_
 
-- Blanche faces questions on DOJ fund, Epstein files at attorney general confirmation hearing - CBS News
-- US launches fresh strikes on Iran as Trump warns Tehran it 'better behave' - BBC
-- ICE lifts pause on vehicle stops after Trump criticism - The Washington Post
-- Almost Half of House Democrats Vote to End Aid to Israel - The New York Times
-- New York Times fights Trump administration subpoenas for reporters’ testimony - CNN
+- July 15, 2026 — US says new strikes on Iran aimed at protecting vessels in Strait of Hormuz - CNN
+- House vote exposes Democrats’ widening divide over Israel - The Washington Post
 - Canadian wildfire smoke returns to NYC, Tri-State: Air quality alerts and live updates - ABC7 New York
-- FBI affidavit alleges drugs found in van involved in Houston ICE shooting - CNN
-- Trump Administration to Impose New 25% Tariff on Brazil - The New York Times
-- Deadly boat capsize near Alcatraz: Family had gathered to scatter loved one’s ashes - San Francisco Chronicle
-- Judges appoint Roger Rogoff as US attorney Wednesday morning. Trump fires him less than an hour later - KING5.com
-- China and Xi Jinping seen more favourably than the US and Trump in poll of major countries - The Guardian
-- Kyiv under fire from Russian missiles after EU-Ukraine sign drone deal - Al Jazeera
-- France’s National Assembly gives final approval to assisted-dying bill after years of debate - AP News
-- Argentina risks FIFA punishment for Falkland Islands flag during England win celebrations - The New York Times
-- SpaceX shares slide below IPO price for the first time as blistering rally unravels - Reuters
-- China’s economy grows 4.3% in Q2, slowest since late 2022 - NPR
-- United earnings top estimates but airline expects $6 billion in added fuel costs - CNBC
-- Warren Buffett excludes Gates Foundation from his annual donations of Berkshire stock - Fox Business
-- Skullcandy Crusher 1080 Review: Haptic Bass Meets Whisper-Quiet ANC - Engadget
+- New York Times files motion to quash subpoenas served on journalists over Air Force One coverage - AP News
+- Todd Blanche’s chances of becoming attorney general could hinge on John Cornyn - Politico
+- Houston ICE shooting shows likely law enforcement policy violations - The Texas Tribune
+- Deadly boat capsize on San Francisco Bay: Family had gathered to scatter loved one’s ashes - San Francisco Chronicle
+- ICE should keep making traffic stops despite recent shootings, Trump says - AP News
+- U.S. slaps 25% tariff on most Brazilian goods over 'unfair trade practices' - CNBC
+- Iranian American Woman Held in Iran on Spying Charges Is Released - The New York Times
+- Police round up Hong Kong booksellers as China widens crackdown - The Washington Post
+- The band playing when a Bangkok bar caught fire mourns its members among the 33 dead - AP News
+- Two killed in Russian missile fire on Kyiv after Ukraine-EU drone deal - Al Jazeera
+- UK's incoming prime minister Burnham to name Mahmood as finance minister, FT reports - Reuters
+- United Airlines anticipates $6 billion in added fuel costs this year - CBS News
+- Asian shares slump on chipmaker drag, bonds cheer cooler inflation - Reuters
+- SpaceX shares slide below IPO price for first time as surge fizzles - The Guardian
+- Stripe-PayPal deal could accelerate shift to blockchain-based money, Polygon exec says - The Block
+- Skullcandy’s New Wireless Headphones Have So Much Bose in Them - Gizmodo
 - Android 17 QPR1 Beta 7 rolling out for Pixel - 9to5Google
