@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-16 19:46_
+_Updated: 2026-07-16 21:41_
 
 ## Top Stories
 
+- DN Direkt – Tågstopp mellan Norrköping och Mjölby - Dagens Nyheter
 - Vädret gör en u-sväng: ”Som höst” - Expressen
 - Zelenskyj utnämner ny försvarsminister i turbulens - Göteborgs-Posten
-- Fotbolls-VM: Över 700 drönare beslagtagna under VM – Fotbolls-VM 2026: Senaste nytt - SVT Nyheter
-- M-ministern: Fick veta om anteckningsboken när jag läste i tidningen - Dagens Nyheter
-- Anna-Lena Laurén: Skrupelfria rekryteringen är både Putinregimens själ och dess stötesten - Dagens Nyheter
-- Mopedsadlar proppfulla med cannabis – far och son åtalas - Göteborgs-Posten
+- Fotbolls-VM: Skogsbränder och värmebölja oroar inför finalen – Fotbolls-VM 2026: Senaste nytt - SVT Nyheter
+- Här byggs världens högsta broar i ett rasande tempo - Dagens Nyheter
+- Iranska medier: USA har attackerat Qeshm - Västerbottens-Kuriren
+- Kristersson KU-anmäls av V för kvarglömda boken - Dagens Nyheter
 - Kedjekrock med polisbil på Södermalm - Sveriges Radio
 - Här tar de äldre ett svalkande dopp under värmen - Dagens Nyheter
-- Brandrisk i stora delar av landet - SVT Nyheter
-- Busch: Stoppa nedläggningen av kvinnojourer - Västerbottens-Kuriren
-- Iranska medier: USA har attackerat Qeshm - Västerbottens-Kuriren
-- Ny översvämning i Texas – fem meter på 30 minuter - Göteborgs-Posten
-- Trump skärper visumregler för utländska journalister - Sveriges Radio
-- Bomberna slog ner – innan flyglarmet ljöd i Kiev - Dagens Nyheter
+- Ytterligare en släppt efter dödsmisshandeln vid sjön - Göteborgs-Posten
+- DN Direkt – Skärpta villkor väntar för studentvisum i USA - Dagens Nyheter
+- Katz: Vi stannar i Gaza, Libanon och Syrien - Aftonbladet
+- Ny primat upptäckt i Afrika - Västerbottens-Kuriren
+- Ny amerikansk attackvåg mot Iran - Dagens Nyheter
 - Martin Blomgren: Högtryck i storverkstan - EFN
+- Green Power Sweden välkomnar ja till ny havsvindkraft – men varnar för konsekvenserna av de många avslagen - Cision News
 - Uber köper Foodora-ägaren Delivery Hero - Market.se
-- Mips: Vips så va tillväxten tillbaka - Affärsvärlden
-- Ryanair-olyckan: Därför sprack fönstret på planet - Dagens PS
+- Hettan hotar Italiens parmesanost - Aftonbladet
+- Första jordlika planeten med atmosfär – rätt förhållanden för liv - Dagens Nyheter
 - Uppgifter: Svenskgrundade mobilbolaget lämnar USA och Europa - Breakit
-- Open AI-avhopparens nya bolag släpper öppen modell - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
@@ -37,12 +37,12 @@ _Updated: 2026-07-16 19:46_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Google Deepmind-chefen vill se global AI-myndighet ledd av USA - Computer Sweden
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Visual Art köper Global Agencies - Dagens Media
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
@@ -67,16 +67,16 @@ _Updated: 2026-07-16 19:46_
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 
 ## Business
 
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
-- Få digital tillgång till Fortune India - November 2014-numret - Magzter
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
+- Få digital tillgång till Fortune India - November 2014-numret - Magzter
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
@@ -129,12 +129,12 @@ _Updated: 2026-07-16 19:46_
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Implementering av resolution 57 genom ett avancerat produktionsforskningscenter. - Vietnam.vn
 - Forskning och Vetenskap - umb.edu.pl
-- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
@@ -144,16 +144,16 @@ _Updated: 2026-07-16 19:46_
 
 - Genom att odla ekologiskt ris under sommar-höstskörden 2026 kommer jordbrukare i An Giang-provinsen att tjäna ytterligare 11 miljoner VND per hektar. - Vietnam.vn
 - Sveriges förändrade lantbruk - SLU
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
