@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-16 12:27_
+_Updated: 2026-07-16 14:01_
 
 ## Top Stories
 
+- Flera hemsidor ligger nere – större globalt avbrott - Aftonbladet
 - Fortsatta amerikanska attacker mot Iran under natten - Dagens Nyheter
-- DN Direkt – Trafikverkets larm i värmen: ”Utmanande dygn” - Dagens Nyheter
-- DANIEL ÅKERMAN: Sverige ensamt om minusutsläpp – tack vare skogsbruket - Corren
-- Skogsbränder och värmebölja oroar inför VM-finalen - Aftonbladet
-- Försvaret tvingar bort Marianne – förlorar miljoner - Sveriges Radio
-- Nya nattliga attacker mot Ukraina – flera döda - Västerbottens-Kuriren
+- Han är Ukrainas nye premiärminister - Västerbottens-Kuriren
+- Ämnet sprids i grundvattnet och kan skada foster - ETC.se
+- Tsunamivarning i Nya Zeeland - SVT Nyheter
+- Ukrainska attacker i Svarta havet - Expressen
 - Allvarlig psykisk störning hos misstänkt spion - SVT Nyheter
-- Fler skadegörelsebrott - Skillingaryd
-- En gripen efter skott mot hus i Norrköping - Västerbottens-Kuriren
-- M-toppens kritik efter väljartappet: Ledningen famlar - Dagens Nyheter
+- Utvisades efter knivattack – kom tillbaka och gömde sig hos frun - Expressen
+- Brå: Färre bedrägerier men fler våldsbrott i år - Sveriges Radio
+- Är en ny väg eller järnväg lönsam – regeringen efterlyser bättre svar - Dagens Nyheter
+- Bomberna slog ner – innan flyglarmet ljöd i Kiev - Dagens Nyheter
 - Iran: ”Hormuz är en röd linje” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Vattenspegeln i Washington åter tömd på vatten – Trump skyller på sabotage - Dagens Nyheter
-- FN: Över 500 befaras döda i båtolyckor - Göteborgs-Posten
 - Elva barn döda efter brand på barnhem i Algeriet - Göteborgs-Posten
 - DEBATT: Regeringen säger ja till ny havsbaserad vindkraft - Expressen
 - Kepler Cheuvreux sänker riktkursen för Axfood till 250 kronor (315), upprepar behåll - Placera.se
 - Uber köper Foodora-ägaren Delivery Hero - Västerbottens-Kuriren
-- Nedåt i Asien – Kospi rasar igen - Dagens industri
+- Färre varslas och färre är inskrivna som arbetslösa - Omni – Alla nyheter. Alla perspektiv.
 - Microsoft stoppar uppdatering för vissa Dell-datorer - Computer Sweden
 - Kritisk sårbarhet upptäckt i Zoom - Computer Sweden
 
@@ -33,6 +33,7 @@ _Updated: 2026-07-16 12:27_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -46,7 +47,6 @@ _Updated: 2026-07-16 12:27_
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -62,37 +62,37 @@ _Updated: 2026-07-16 12:27_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
-- Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilken framtid arbetar du för? - EY
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 
 ## Health
 
@@ -120,25 +120,25 @@ _Updated: 2026-07-16 12:27_
 ## Science
 
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
-- Ministeriet för vetenskap och teknik samarbetar i utvecklingen av Vietnams avancerade forsknings- och produktionscenter. - Vietnam.vn
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Implementering av resolution 57 genom ett avancerat produktionsforskningscenter. - Vietnam.vn
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Sherry Nakhaeizadeh - Uppsala universitet
+- Ministeriet för vetenskap och teknik samarbetar i utvecklingen av Vietnams avancerade forsknings- och produktionscenter. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Implementering av resolution 57 genom ett avancerat produktionsforskningscenter. - Vietnam.vn
+- Forskning och Vetenskap - umb.edu.pl
+- Olika slutsatser från samma data - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Olika slutsatser från samma data - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Simple math behind major bison blunder - Forskning & Framsteg
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
