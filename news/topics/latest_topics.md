@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-16 21:41_
+_Updated: 2026-07-16 23:33_
 
 ## Top Stories
 
-- DN Direkt – Tågstopp mellan Norrköping och Mjölby - Dagens Nyheter
-- Vädret gör en u-sväng: ”Som höst” - Expressen
-- Zelenskyj utnämner ny försvarsminister i turbulens - Göteborgs-Posten
-- Fotbolls-VM: Skogsbränder och värmebölja oroar inför finalen – Fotbolls-VM 2026: Senaste nytt - SVT Nyheter
-- Här byggs världens högsta broar i ett rasande tempo - Dagens Nyheter
-- Iranska medier: USA har attackerat Qeshm - Västerbottens-Kuriren
+- Klart: Ny premiärminister i Ukraina - Dagens Nyheter
+- Brand orsakar stopp i tågtrafiken Mjölby–Linköping - SVT Nyheter
+- Två personer till sjukhus efter olycka på E4 vid Fittja - Sveriges Radio
+- Hundratals skogsbränder – röken drar in över USA - Västerbottens-Kuriren
+- Oroligt hos Republikanerna inför Trumps tal: ”Skiträdda” - Omni – Alla nyheter. Alla perspektiv.
+- Snart blir det mycket kallare: ”Som höst” - Expressen
 - Kristersson KU-anmäls av V för kvarglömda boken - Dagens Nyheter
-- Kedjekrock med polisbil på Södermalm - Sveriges Radio
 - Här tar de äldre ett svalkande dopp under värmen - Dagens Nyheter
-- Ytterligare en släppt efter dödsmisshandeln vid sjön - Göteborgs-Posten
+- Nya lagen fångar osynligt våld – första anmälan i länet - Mitt i
+- Trafikverket: ”Ett utmanade dygn framför oss” - Nya Wermlands-Tidningen
+- Vita huset: Trump är alltid öppen för diplomati - Göteborgs-Posten
+- Italiensk polis i tillslag mot lyxmärken - Västerbottens-Kuriren
 - DN Direkt – Skärpta villkor väntar för studentvisum i USA - Dagens Nyheter
-- Katz: Vi stannar i Gaza, Libanon och Syrien - Aftonbladet
-- Ny primat upptäckt i Afrika - Västerbottens-Kuriren
-- Ny amerikansk attackvåg mot Iran - Dagens Nyheter
+- Här byggs världens högsta broar i ett rasande tempo - Dagens Nyheter
 - Martin Blomgren: Högtryck i storverkstan - EFN
-- Green Power Sweden välkomnar ja till ny havsvindkraft – men varnar för konsekvenserna av de många avslagen - Cision News
+- Regeringen säger nej till havsbaserad vindkraft - Sveriges Radio
 - Uber köper Foodora-ägaren Delivery Hero - Market.se
 - Hettan hotar Italiens parmesanost - Aftonbladet
 - Första jordlika planeten med atmosfär – rätt förhållanden för liv - Dagens Nyheter
-- Uppgifter: Svenskgrundade mobilbolaget lämnar USA och Europa - Breakit
+- ”Det gör ont i själen”: Bild på spelhylla väcker farhågor om en dyster framtid - notebookcheck.se
 
 ## World News
 
@@ -64,25 +64,24 @@ _Updated: 2026-07-16 21:41_
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
-- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - Få digital tillgång till Fortune India - November 2014-numret - Magzter
+- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2026-07-16 21:41_
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
 ## Health
 
@@ -104,8 +104,8 @@ _Updated: 2026-07-16 21:41_
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
