@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-17 20:33_
+_Updated: 2026-07-17 21:41_
 
 ## Top Stories
 
 - Flera radhus i lågor – storbrand utanför Oslo - Göteborgs-Posten
 - DN Direkt – Fjärde person häktad för mord på badplats - Dagens Nyheter
-- Regionen agerar efter Palestinamanifestation - Svenska Dagbladet
-- Så många har klagat på temperaturen hos Västtrafik - Göteborgs-Posten
-- Skjutningar störtdyker: ”Vi är klara i Sverige” - Svenska Dagbladet
 - DN Direkt – Andy Burnham vald till partiledare för Labour - Dagens Nyheter
-- Kraftigt regn och översvämning i norra Skåne - HD
+- Trots Trumps valsågning – inga nyheter i släppta dokument - SVT Nyheter
+- Från värmebölja till skyfall – här vänder sommarvädret - Hällekiskuriren
+- Trumps nya mål i Iran: underjordiska anläggningen Pickaxe Mountain - Dagens Nyheter
 - Påhittade frågor sprids inför medborgarskapsprov - Västerbottens-Kuriren
-- DN Direkt – SMHI varnar för skyfall i helgen - Dagens Nyheter
-- EU-kommissionen vill minska klimatkraven på industrin - SVT Nyheter
-- Trump anklagar Kina för valpåverkan i USA - Corren
+- Översvämningar i södra Sverige - Expressen
+- Två män hittade döda i Härjedalen - SVT Nyheter
+- Förslag: EU lättar på utsläppskraven – styr om klimatpengar till industrin - Europaportalen
 - Michael Winiarski: Petandet av Fedorov ses som seger för Putin - Dagens Nyheter
-- Nya attacker mellan USA och Iran – flera dödade - Göteborgs-Posten
-- Tsunamivarning efter jordskalv vid Mexikos kust - Västerbottens-Kuriren
+- Tsunamivarning utfärdad efter kraftig jordbävning - SVT Nyheter
+- Flera dödade i ryska attacker - Västerbottens-Kuriren
+- Öresundsbron stängd för tågtrafik i helgen - Sveriges Radio
 - Öppnar för kinesiska bilar i Volvos fabriker - Svenska Dagbladet
 - CAE och Saab tecknar avsiktsförklaring om Gripen-träning i Kanada - Investing.com Sverige
 - Oregelbundet på Stockholmsbörsen – OMXS30 ned 0,1% - Affärsvärlden
-- Skogman slutar med börsen – 12 kronor avgjorde - Dagens industri
+- Bitcoins värde har halverats – kryptovintern kan bli långvarig - Dagens PS
 - Netflix: Runt 300 titlar har använt generativ AI - Computer Sweden
-- Fortnite får AI-röster - Aftonbladet
+- Microsoft använder AI-verktyg för att hitta sårbarheter - PC för Alla
 
 ## World News
 
@@ -34,6 +34,7 @@ _Updated: 2026-07-17 20:33_
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Google Deepmind-chefen vill se global AI-myndighet ledd av USA - Computer Sweden
 - Saab: Vi behöver tillverka fler Global Eye - Omni – Alla nyheter. Alla perspektiv.
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
@@ -44,7 +45,6 @@ _Updated: 2026-07-17 20:33_
 - Visual Art köper Global Agencies - Dagens Media
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
@@ -97,25 +97,25 @@ _Updated: 2026-07-17 20:33_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
+- Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
 - Vi presenterar HealthBench - OpenAI
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
@@ -143,21 +143,21 @@ _Updated: 2026-07-17 20:33_
 ## Jordbruk
 
 - Genom att odla ekologiskt ris under sommar-höstskörden 2026 kommer jordbrukare i An Giang-provinsen att tjäna ytterligare 11 miljoner VND per hektar. - Vietnam.vn
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
