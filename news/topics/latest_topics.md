@@ -1,35 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-17 06:41_
+_Updated: 2026-07-17 09:33_
 
 ## Top Stories
 
-- Trump anklagar Kina för att ha påverkat valet i USA - SVT Nyheter
-- Zelenskyj utnämner ny försvarsminister i turbulens - Göteborgs-Posten
-- Misstänkt våldtäkt i Ystad – två gärningsmän gripna - Sydsvenskan
-- Stort missnöje med psykiatrin: ”Sorgligt” - Svenska Dagbladet
-- Ny natt av attacker mellan USA och Iran - Västerbottens-Kuriren
+- Trump anklagar Kina för valpåverkan i USA - Göteborgs-Posten
+- Explosion av båt vid ö i Vättern under morgonen - Sydnärkenytt
+- Förnyade amerikanska attacker mot Iran - Dagens Nyheter
+- Strypvåld i var tredje våldtäktsdom - Västerbottens-Kuriren
 - Malmöbon Sara avvisades från psykakuten: ”De kunde visa mer medmänsklighet” - Sydsvenskan
+- Stort missnöje med psykiatrin: ”Sorgligt” - Svenska Dagbladet
 - Stopp i tågtrafiken efter brand - Västerbottens-Kuriren
 - Kristersson KU-anmäls av V för kvarglömda boken - Dagens Nyheter
 - Kraftigt väderomslag väntar – temperaturen kan halveras - NT
-- Här tar de äldre ett svalkande dopp under värmen - Dagens Nyheter
-- Flera döda i bussolycka i Peru - Göteborgs-Posten
-- Direkt – Kriget i Ukraina – Flygbas träffad i ukrainsk attack - Dagens Nyheter
-- Snabbast växande ebolautbrottet hittills - SVT Nyheter
-- Polis slår till mot lyxmärken som Chanel och Moncler - Omni – Alla nyheter. Alla perspektiv.
-- Politikerns besvikelse: Regeringen stoppar vindkraft i Kalix - Sveriges Radio
-- Stockholmsbörsen stängde oregelbundet på rapportintensiv dag, OMXS30-index oförändrat (Finwire News) - Aktiellt
+- Misstänkt våldtäkt mot barn i Ystad – två anhållna - Göteborgs-Posten
+- Krasch med skolbuss – 20 barn döda - Sydsvenskan
+- Två dödade i rysk robotattack - Västerbottens-Kuriren
+- Över 2 000 fall av ebola bekräftas i Kongo-Kinshasa - Omni – Alla nyheter. Alla perspektiv.
+- Flera döda i bussolycka i Peru - Aftonbladet
+- Magisk rapport – och det kommer bara bli bättre - EFN
 - Ned i Asien i takt med växande oro för AI-aktier - Västerbottens-Kuriren
-- Fed-topp vill höja styrräntan i USA - Aftonbladet
+- Saabs resultat Kv2 2026: Hög orderingång stärker marknadspositionen - Cision News
+- Swedbank: ”Bolånemarginalen historiskt lägsta” - Folkbladet
 - Marknadsföringen av GTA 6 till PS5 kan vara i farozonen, eftersom allt fler utvecklare klagar över den negativa reaktionen mot PlayStation - notebookcheck.se
-- Första jordlika planeten med atmosfär – rätt förhållanden för liv - Dagens Nyheter
+- Atmosfär har upptäckts på jordliknande planet - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
-- Google Deepmind-chefen vill se global AI-myndighet ledd av USA - Computer Sweden
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
@@ -37,16 +35,18 @@ _Updated: 2026-07-17 06:41_
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- Google Deepmind-chefen vill se global AI-myndighet ledd av USA - Computer Sweden
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Visual Art köper Global Agencies - Dagens Media
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -66,79 +66,79 @@ _Updated: 2026-07-17 06:41_
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
-- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Få digital tillgång till Fortune India - November 2014-numret - Magzter
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
-- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Vi presenterar ChatGPT Health - OpenAI
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
+- Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
+- Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
+- Vi presenterar HealthBench - OpenAI
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 
 ## Science
 
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Ministeriet för vetenskap och teknik samarbetar i utvecklingen av Vietnams avancerade forsknings- och produktionscenter. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
-- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
-- Implementering av resolution 57 genom ett avancerat produktionsforskningscenter. - Vietnam.vn
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- 5 myter om öppen vetenskap - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
@@ -146,19 +146,19 @@ _Updated: 2026-07-17 06:41_
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - ATL
-- Jord, kor och klimat - SLU
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Lantbrukslogik – nu och i framtiden - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Här är världens största jordbruk - ATL
+- Jord, kor och klimat - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Kan agroekologi mätta världen? - SLU
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Kan agroekologi mätta världen? - SLU
