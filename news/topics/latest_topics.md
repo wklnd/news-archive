@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-17 16:57_
+_Updated: 2026-07-17 18:40_
 
 ## Top Stories
 
-- Dansk polis: Tre personer skottskadade i Ålborg - SVT Nyheter
-- Från värmebölja till skyfall – här vänder sommarvädret - Hällekiskuriren
-- Fjärde person häktad för mord på badplats - Aftonbladet
-- EU:s nya besked kan slå hårt mot gröna stålet i norr - Dagens Nyheter
-- Brand i Järfälla spreds till två villor från garage - Sveriges Radio
-- Trump anklagar Kina för valpåverkan i USA - Hufvudstadsbladet – HBL
+- Kraftig brand i Drammen utanför Oslo – lågorna sprider sig - Göteborgs-Posten
+- Dansk polis: En död efter skjutningen i Ålborg - SVT Nyheter
+- Michael Winiarski: Petandet av Fedorov ses som seger för Putin - Dagens Nyheter
+- Fjärde person häktad för mord på badplats - Västerbottens-Kuriren
+- Våldsam brand i villaområde - Aftonbladet
+- DN Direkt – Andy Burnham vald till partiledare för Labour - Dagens Nyheter
 - Två män hittade döda i Härjedalen - SVT Nyheter
-- Äldre man död i Örebro – påkörd på cykel - Västerbottens-Kuriren
-- Krav på förbud mot strypvåld – men sexolog tror på mer sexualundervisning - Dagens Nyheter
-- Just nu: En stillastående lastbil orsakar ett körfält blockerat på E4 - PT.se
-- Nya attacker mellan USA och Iran – flera dödade - Västerbottens-Kuriren
+- SMHI utfärdar en gul varning för skyfall under lördagen. - Göteborgs-Posten
+- Påhittade frågor sprids inför medborgarskapsprov - Aftonbladet
+- Förslag: EU lättar på utsläppskraven – styr om klimatpengar till industrin - Europaportalen
+- Tsunamivarning efter jordskalv vid Mexikos kust - Västerbottens-Kuriren
+- Iran: Sju personer döda efter attack – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Trump anklagar Kina för valpåverkan i USA - Hufvudstadsbladet – HBL
 - Direkt – Kriget i Ukraina – Fyra döda i rysk robotattack - Dagens Nyheter
-- Zelenskyj utnämner ny försvarsminister i turbulens - Hufvudstadsbladet – HBL
-- DN Direkt – Spanien: Tusentals hektar ödelagda i storbrand - Dagens Nyheter
-- Volvo Cars VD och finanschef köper aktier efter kursfall - Affärsvärlden
-- Oron: Elpriset kan bli dyrare i vinter - Expressen
+- Öppnar för kinesiska bilar i Volvos fabriker - Svenska Dagbladet
 - Bitcoins värde har halverats – kryptovintern kan bli långvarig - Dagens PS
-- Oregelbundet på Stockholmsbörsen efter tung rapportmorgon - Placera.se
+- Oron: Elpriset kan bli dyrare i vinter - Expressen
+- Saab och EQT mot strömmen när börsen backar - Affärsvärlden
 - Netflix: Runt 300 titlar har använt generativ AI - Computer Sweden
 - Microsoft använder AI-verktyg för att hitta sårbarheter - PC för Alla
 
 ## World News
 
+- Kina tar täten för global kontroll av AI - Dagens Nyheter
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
@@ -35,14 +36,13 @@ _Updated: 2026-07-17 16:57_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Google Deepmind-chefen vill se global AI-myndighet ledd av USA - Computer Sweden
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Saab: Vi behöver tillverka fler Global Eye - Omni – Alla nyheter. Alla perspektiv.
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Visual Art köper Global Agencies - Dagens Media
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
@@ -81,18 +81,18 @@ _Updated: 2026-07-17 16:57_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
 ## Health
 
