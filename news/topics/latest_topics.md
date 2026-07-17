@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-17 23:21_
+_Updated: 2026-07-18 00:22_
 
 ## Top Stories
 
-- Trumps hotar Kanada med strafftullar – efter skogsbränder - Expressen
 - Flera radhus i lågor – storbrand utanför Oslo - Göteborgs-Posten
-- Iran hotar besvara attack med ”fullskalig offensiv” - Dagens Nyheter
-- Fjärde person häktad för mord på badplats - Aftonbladet
+- Trumps nya mål i Iran: underjordiska anläggningen Pickaxe Mountain - Dagens Nyheter
 - Nya varningar om ebola – kan vara mer utbredd - Svenska Dagbladet
 - Liberalernas valstuga ska servera alkohol – får kritik - TV4 Nyheterna
-- Påhittade frågor sprids inför medborgarskapsprov - Västerbottens-Kuriren
+- Så många varma dagar har Blekinge haft de senaste 30 åren - Blekinge Läns Tidning
+- Mordet på Hawaii: ”Bråk på sociala medier eskalerade” - Aftonbladet
+- Påhittade frågor sprids inför medborgarskapsprov - Nya Wermlands-Tidningen
 - Storm och översvämningar – SMHI varnar - TV4 Nyheterna
-- Förslag: EU lättar på utsläppskraven – styr om klimatpengar till industrin - Europaportalen
 - Två män hittade döda i Härjedalen - SVT Nyheter
+- Förslag: EU lättar på utsläppskraven – styr om klimatpengar till industrin - Europaportalen
 - Trump anklagar Kina för valpåverkan i USA - corren.se
-- Demonstranter i Kiev: Riv upp beslutet om Fedorov - Göteborgs-Posten
+- Michael Winiarski: Petandet av Fedorov ses som seger för Putin - Dagens Nyheter
 - Flera dödade i ryska attacker - Västerbottens-Kuriren
 - Andy Burnham vald som ny Labour-ledare – väntas ta över som Storbritanniens premiärminister - SVT Nyheter
 - Öppnar för kinesiska bilar i Volvos fabriker - Svenska Dagbladet
-- Saab förbereder möjlig Gripenaffär i Kanada - corren.se
-- Oregelbundet på Stockholmsbörsen – OMXS30 ned 0,1% - Affärsvärlden
+- CAE och Saab tecknar avsiktsförklaring om Gripen-träning i Kanada - Investing.com Sverige
+- Oregelbundet på Stockholmsbörsen på rapportintensiv fredag, OMXS30-index ned 0,1 procent (Finwire News) - Aktiellt
 - Skogman slutar med börsen – 12 kronor avgjorde - Dagens industri
 - Fortnite får AI-röster - Aftonbladet
 - Microsoft använder AI-verktyg för att hitta sårbarheter - PC för Alla
@@ -30,7 +30,6 @@ _Updated: 2026-07-17 23:21_
 - Kina tar täten för global kontroll av AI - Dagens Nyheter
 - Saab: Vi behöver tillverka fler Global Eye - Omni – Alla nyheter. Alla perspektiv.
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Mellan talibanerna, Indien och Irankriget - Kvartal
@@ -42,10 +41,11 @@ _Updated: 2026-07-17 23:21_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
@@ -103,10 +103,9 @@ _Updated: 2026-07-17 23:21_
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
-- Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -115,6 +114,7 @@ _Updated: 2026-07-17 23:21_
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
