@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-18 00:22_
+_Updated: 2026-07-18 01:24_
 
 ## Top Stories
 
 - Flera radhus i lågor – storbrand utanför Oslo - Göteborgs-Posten
-- Trumps nya mål i Iran: underjordiska anläggningen Pickaxe Mountain - Dagens Nyheter
-- Nya varningar om ebola – kan vara mer utbredd - Svenska Dagbladet
+- Nya attacker mot Iran – sjunde natten – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Liberalernas valstuga ska servera alkohol – får kritik - TV4 Nyheterna
-- Så många varma dagar har Blekinge haft de senaste 30 åren - Blekinge Läns Tidning
+- Putinkritikern Garry Kasparov: Nästa mål är Baltikum - Expressen
 - Mordet på Hawaii: ”Bråk på sociala medier eskalerade” - Aftonbladet
+- Trots Trumps valsågning – inga nyheter i släppta dokument - SVT Nyheter
 - Påhittade frågor sprids inför medborgarskapsprov - Nya Wermlands-Tidningen
 - Storm och översvämningar – SMHI varnar - TV4 Nyheterna
+- DN Direkt – SMHI varnar för skyfall i helgen - Dagens Nyheter
 - Två män hittade döda i Härjedalen - SVT Nyheter
-- Förslag: EU lättar på utsläppskraven – styr om klimatpengar till industrin - Europaportalen
-- Trump anklagar Kina för valpåverkan i USA - corren.se
-- Michael Winiarski: Petandet av Fedorov ses som seger för Putin - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Iran: Tankfartyg brinner i Hormuz - Dagens Nyheter
 - Flera dödade i ryska attacker - Västerbottens-Kuriren
-- Andy Burnham vald som ny Labour-ledare – väntas ta över som Storbritanniens premiärminister - SVT Nyheter
-- Öppnar för kinesiska bilar i Volvos fabriker - Svenska Dagbladet
-- CAE och Saab tecknar avsiktsförklaring om Gripen-träning i Kanada - Investing.com Sverige
+- Michael Winiarski: Petandet av Fedorov ses som seger för Putin - Dagens Nyheter
+- DN Direkt – Andy Burnham vald till partiledare för Labour - Dagens Nyheter
+- Saab förbereder möjlig Gripenaffär i Kanada - corren.se
 - Oregelbundet på Stockholmsbörsen på rapportintensiv fredag, OMXS30-index ned 0,1 procent (Finwire News) - Aktiellt
 - Skogman slutar med börsen – 12 kronor avgjorde - Dagens industri
+- Wall Street tyngdes av AI och olja - Aftonbladet
 - Fortnite får AI-röster - Aftonbladet
 - Microsoft använder AI-verktyg för att hitta sårbarheter - PC för Alla
 
@@ -105,16 +105,16 @@ _Updated: 2026-07-18 00:22_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Vi presenterar HealthBench - OpenAI
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
@@ -122,10 +122,10 @@ _Updated: 2026-07-18 00:22_
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
@@ -133,8 +133,8 @@ _Updated: 2026-07-18 00:22_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
