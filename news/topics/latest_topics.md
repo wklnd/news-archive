@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-17 14:42_
+_Updated: 2026-07-17 16:57_
 
 ## Top Stories
 
-- Andy Burnham är ny Labourledare och kollegorna strider om ministerposterna - Dagens Nyheter
-- Efter värmeböljan – SMHI varnar för skyfall - Aftonbladet
-- Brand i garage har spridit sig till två villor - Sveriges Radio
+- Dansk polis: Tre personer skottskadade i Ålborg - SVT Nyheter
+- Från värmebölja till skyfall – här vänder sommarvädret - Hällekiskuriren
+- Fjärde person häktad för mord på badplats - Aftonbladet
+- EU:s nya besked kan slå hårt mot gröna stålet i norr - Dagens Nyheter
+- Brand i Järfälla spreds till två villor från garage - Sveriges Radio
 - Trump anklagar Kina för valpåverkan i USA - Hufvudstadsbladet – HBL
-- Äldre man död efter trafikolycka i Angered - SVT Nyheter
-- Brand i vindkraftverk utanför Mjölby - Göteborgs-Posten
-- EU-kommissionen vill minska klimatkraven på industrin - SVT Nyheter
-- Larm om drunkning i Lerberget - SVT Nyheter
+- Två män hittade döda i Härjedalen - SVT Nyheter
 - Äldre man död i Örebro – påkörd på cykel - Västerbottens-Kuriren
-- Strypvåld i var tredje våldtäktsdom - Göteborgs-Posten
-- Förnyade amerikanska attacker mot Iran - Dagens Nyheter
-- Kryssningsfartyg inpå knuten får Stavangerborna att koka - Dagens Nyheter
-- Två dödade i rysk robotattack - Västerbottens-Kuriren
-- Spanien: Tusentals hektar ödelagda i storbrand - Göteborgs-Posten
+- Krav på förbud mot strypvåld – men sexolog tror på mer sexualundervisning - Dagens Nyheter
+- Just nu: En stillastående lastbil orsakar ett körfält blockerat på E4 - PT.se
+- Nya attacker mellan USA och Iran – flera dödade - Västerbottens-Kuriren
+- Direkt – Kriget i Ukraina – Fyra döda i rysk robotattack - Dagens Nyheter
+- Zelenskyj utnämner ny försvarsminister i turbulens - Hufvudstadsbladet – HBL
+- DN Direkt – Spanien: Tusentals hektar ödelagda i storbrand - Dagens Nyheter
 - Volvo Cars VD och finanschef köper aktier efter kursfall - Affärsvärlden
-- Ned i Asien i takt med växande oro för AI-aktier - Västerbottens-Kuriren
-- Saabs vd efter orderregnet: Inga flaskhalsar - Göteborgs-Posten
 - Oron: Elpriset kan bli dyrare i vinter - Expressen
-- USA vill hindra Apple från att köpa kinesiska minnen - Computer Sweden
+- Bitcoins värde har halverats – kryptovintern kan bli långvarig - Dagens PS
+- Oregelbundet på Stockholmsbörsen efter tung rapportmorgon - Placera.se
 - Netflix: Runt 300 titlar har använt generativ AI - Computer Sweden
+- Microsoft använder AI-verktyg för att hitta sårbarheter - PC för Alla
 
 ## World News
 
@@ -33,16 +33,16 @@ _Updated: 2026-07-17 14:42_
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Google Deepmind-chefen vill se global AI-myndighet ledd av USA - Computer Sweden
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Google Deepmind-chefen vill se global AI-myndighet ledd av USA - Computer Sweden
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Saab: Vi behöver tillverka fler Global Eye - Omni – Alla nyheter. Alla perspektiv.
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Visual Art köper Global Agencies - Dagens Media
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
@@ -107,7 +107,6 @@ _Updated: 2026-07-17 14:42_
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
-- Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -116,6 +115,7 @@ _Updated: 2026-07-17 14:42_
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
@@ -128,17 +128,17 @@ _Updated: 2026-07-17 14:42_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
