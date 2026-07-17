@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-17 11:28_
+_Updated: 2026-07-17 13:05_
 
 ## Top Stories
 
-- Trump anklagar Kina för valpåverkan i USA - Göteborgs-Posten
+- Just nu: Brand i garage har spridit sig till två villor - Sveriges Radio
 - Efter värmeböljan – SMHI varnar för skyfall - Aftonbladet
-- Förnyade amerikanska attacker mot Iran - Dagens Nyheter
-- Båt exploderade på Vättern utanför Askersund – barnfamilj ombord - SVT Nyheter
+- Trump anklagar Kina för valpåverkan i USA - Hufvudstadsbladet – HBL
+- Vindkraftverk brinner utanför Mjölby - SVT Nyheter
+- Explosion av båt vid ö i Vättern under morgonen - Sydnärkenytt
 - Kryssningsfartyg inpå knuten får Stavangerborna att koka - Dagens Nyheter
-- Strypvåld i var tredje våldtäktsdom - Västerbottens-Kuriren
+- EU-kommissionen vill minska klimatkraven på industrin - SVT Nyheter
+- Äldre man död i Örebro – påkörd på cykel - Västerbottens-Kuriren
 - Larm om drunkning i Lerberget - SVT Nyheter
-- Dousa: Ingen känslig information har läckt ut - Corren
-- Obducerade säl utan ansiktsskydd — farlig smitta fanns i varböld - Arbetet
-- Misstänkt våldtäkt mot barn i Ystad – två anhållna - Göteborgs-Posten
+- Strypvåld i var tredje våldtäktsdom - Göteborgs-Posten
+- Förnyade amerikanska attacker mot Iran - Dagens Nyheter
+- Spanien: Tusentals hektar ödelagda i storbrand - Västerbottens-Kuriren
+- Flera dödade i ryska attacker - Göteborgs-Posten
 - Krasch med skolbuss – 20 barn döda - Aftonbladet
-- Två dödade i rysk robotattack - Västerbottens-Kuriren
-- Israels parlament upplöses inför höstens val - Västerbottens-Kuriren
-- Ebolautbrottet fortsätter skörda liv – 800 döda i Kongo-Kinshasa - Sveriges Radio
-- Magisk rapport – och det kommer bara bli bättre - EFN
+- Volvo Cars VD och finanschef köper aktier efter kursfall - Affärsvärlden
 - Ned i Asien i takt med växande oro för AI-aktier - Västerbottens-Kuriren
 - Saabs vd efter orderregnet: Inga flaskhalsar - Göteborgs-Posten
-- Vattenfall-vd anar höga elpriser i vinter - Folkbladet
-- Marknadsföringen av GTA 6 till PS5 kan vara i farozonen, eftersom allt fler utvecklare klagar över den negativa reaktionen mot PlayStation - notebookcheck.se
-- Atmosfär har upptäckts på jordliknande planet - Omni – Alla nyheter. Alla perspektiv.
+- Oron: Elpriset kan bli dyrare i vinter - Expressen
+- Netflix: Runt 300 titlar har använt generativ AI - Computer Sweden
+- USA vill hindra Apple från att köpa kinesiska minnen - Computer Sweden
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Google Deepmind-chefen vill se global AI-myndighet ledd av USA - Computer Sweden
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Visual Art köper Global Agencies - Dagens Media
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Visual Art köper Global Agencies - Dagens Media
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
@@ -152,8 +152,8 @@ _Updated: 2026-07-17 11:28_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Visning av uppkomst efter direktsådd - Land.se
