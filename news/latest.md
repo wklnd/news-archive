@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-17 03:10_
+_Updated: 2026-07-17 06:46_
 
-- Trump to give primetime address on elections after years of false claims - CNN
-- Wildfire Smoke Pushes Air Quality Index in U.S. and Canada to Unhealthy Levels: Live Updates - The New York Times
-- White House teleprompter operator placed on leave after betting on Trump speeches - The Washington Post
-- US expands attacks on Iran, which calls Strait of Hormuz a ‘red line’ as it retaliates - AP News
-- White House says ICE traffic stops will continue after deadly shootings - NPR
-- ‘No Reprimands’ For Blue Angels Flyover That Ripped Past Pensacola Beach, Navy Secretary Says - Forbes
-- Texas flash floods leave at least 2 dead in region devastated a year ago - AP News
-- Substance FBI agent saw in van of man fatally shot by ICE in Houston was salt, family attorney says - NBC News
-- Ahead of Trump speech, DHS says it found thousands of non-citizens on voter rolls - Politico
-- Tillis withholds Blanche vote until AG pick meets Epstein survivors - Axios
-- Ontario seeks federal support for evacuations as wildfires devastate remote Canadian towns - Reuters
-- Hundreds protest in Kyiv over Zelenskyy’s dismissal of defence minister - Al Jazeera
+- Trump Speech Live Updates: President Exaggerates Claims About Election Vulnerabilities - The New York Times
+- Wildfire smoke will worsen in the Northeast and Mid-Atlantic through Friday - The Washington Post
+- Iran says seven killed in latest US strikes, warns war ‘will spread’ - Al Jazeera
+- Airlines warn adjusting to permanent daylight saving time could take up to 2 years - CBS News
+- At least 2 dead in catastrophic flooding in Texas Hill Country - CNN
+- ‘All of a sudden, the boat went over’: The harrowing story of what happened aboard the Volare - San Francisco Chronicle
+- California lettuce supplied to Taco Bell identified as potential cyclospora parasite outbreak source: report - KTLA
+- Tests will find if men in Houston ICE shooting had drugs or salt - The Texas Tribune
+- Sen. Tillis Won’t Back Blanche As Trump AG Unless He Meets With Epstein Victims - Forbes
+- ICE agent who killed man in Biddeford identified as former Maine law enforcement officer - The Portland Press Herald
+- Philippines condemns Chinese media depicting it as monkey in AI video - BBC
+- Zelensky ousts popular defense minister, an architect of Ukraine’s drone program - The Washington Post
 - Hong Kong official warns booksellers on security risks after raids - NPR
-- U.S. designates 2 more Mexican cartels as foreign terrorist organizations, including one on Texas border - CBS News
-- Netflix Q2 Earnings Results In-Line With Expectations, Stock Drops on Lower Q3 Revenue Outlook - Variety
-- SpaceX Starship Flight 13 launch updates: Scrub - Space
-- Iceberg lettuce sold at Taco Bell linked to cyclospora outbreak - CNN
-- Trump media firm plans to sell high speed access to Truth Social posts, possibly Trump's own - AP News
+- Japan’s parliament enshrines male-only succession for the shrinking imperial family - AP News
+- SpaceX scrubs Starship launch after some of its engines didn’t start - Ars Technica
+- Netflix Stock Drops on Revenue Miss, Engagement Update - Barron's
+- Asian Stocks Drop After Chip Selloff, Oil Gains: Markets Wrap - Bloomberg.com
+- Four new TSMC chip factories may be coming to Arizona - AZ Family
 - It’s official: EU will force Google to share search data and open up AI on Android - Ars Technica
 - Google preps letting you customize Gemini voices by Speed, Energy, and more - 9to5Google
