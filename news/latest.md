@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-17 23:30_
+_Updated: 2026-07-18 00:29_
 
+- Trump’s speech offered a preview of his next moves on elections - Politico
 - Wildfire smoke will linger and spread this weekend. See which cities are most affected. - The Washington Post
-- Do declassified files support Trump's election security claims? - BBC
-- Pete Hegseth’s testosterone-screening plan is unusual, not crazy - The Economist
+- FCC commissioner says Trump call to revoke ABC, NBC licenses is unconstitutional - Reuters
 - U.S. strikes bridges around key port in Iran, expanding campaign in battle over Hormuz - NBC News
 - ‘Master yachtsman’ who fled 2005 trial for sexual assault arrested off US coast - The Guardian
-- Andy Burnham is declared leader of UK’s Labour Party, pledges to restore hope - AP News
-- Eanes ISD: Westlake grad identified as victim in Hill Country floods, family says - KXAN Austin
-- Trump DHS using unverified figures to attack election officials on non-citizen voting - CNN
-- Lawmakers demand answers after ‘bombshell’ report about ICE officer shooting in Maine - AP News
+- Live updates: DHS Secretary Mullin says he'll chase voter fraud after Trump revives election claims - AP News
+- Texas flooding: What we know about 2 people killed in Hill Country - FOX 4 News Dallas-Fort Worth
 - Trump endorses Darline Graham for Lindsey Graham's open Senate seat - Politico
+- Lawmakers demand answers after ‘bombshell’ report about ICE officer shooting in Maine - AP News
+- How one moderate Democratic leader is bracing for Israel politics in the next Congress - Politico
 - A 7.3 earthquake hits Mexico-Guatemala border with no immediate damage reported - AP News
-- Israeli attacks on Gaza kill 14, including mourners attending funeral - Al Jazeera
+- Burnham Becomes Labour Leader and Britain’s Incoming Prime Minister - The New York Times
 - Venezuela Earthquakes Force a Grim Homecoming for Migrants - The New York Times
-- Sanctioned tanker is leaking oil near Oman, according to satellite images and experts - Reuters
-- Taylor Farms recalls iceberg lettuce amid cyclosporiasis outbreak - NBC News
+- Israeli attacks on Gaza kill 14, including mourners attending funeral - Al Jazeera
+- Taylor Farms to Remove Products After Lettuce Is Linked to Cyclospora Cases - The New York Times
 - Stock Market Today: Nasdaq Drops as Chip Selloff Deepens — Live Updates - WSJ
-- Semiconductor stocks trim losses as investors buy the dip - Yahoo Finance
-- China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead - The New York Times
+- Trump Media pitched $100,000 monthly fee for fastest feed of US president's posts, sources say - Reuters
+- Semiconductor stocks keep falling as investors go risk-off, Chinese startup releases powerful new AI model - Yahoo Finance
 - Apple Music Hikes Subscription Prices, Citing Rising Licensing Fees - Variety
 - Marketing images of Galaxy Z Fold 8 photos leak right before Galaxy Unpacked [Gallery] - 9to5Google
