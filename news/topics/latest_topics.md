@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-17 18:40_
+_Updated: 2026-07-17 20:33_
 
 ## Top Stories
 
-- Kraftig brand i Drammen utanför Oslo – lågorna sprider sig - Göteborgs-Posten
-- Dansk polis: En död efter skjutningen i Ålborg - SVT Nyheter
-- Michael Winiarski: Petandet av Fedorov ses som seger för Putin - Dagens Nyheter
-- Fjärde person häktad för mord på badplats - Västerbottens-Kuriren
-- Våldsam brand i villaområde - Aftonbladet
+- Flera radhus i lågor – storbrand utanför Oslo - Göteborgs-Posten
+- DN Direkt – Fjärde person häktad för mord på badplats - Dagens Nyheter
+- Regionen agerar efter Palestinamanifestation - Svenska Dagbladet
+- Så många har klagat på temperaturen hos Västtrafik - Göteborgs-Posten
+- Skjutningar störtdyker: ”Vi är klara i Sverige” - Svenska Dagbladet
 - DN Direkt – Andy Burnham vald till partiledare för Labour - Dagens Nyheter
-- Två män hittade döda i Härjedalen - SVT Nyheter
-- SMHI utfärdar en gul varning för skyfall under lördagen. - Göteborgs-Posten
-- Påhittade frågor sprids inför medborgarskapsprov - Aftonbladet
-- Förslag: EU lättar på utsläppskraven – styr om klimatpengar till industrin - Europaportalen
+- Kraftigt regn och översvämning i norra Skåne - HD
+- Påhittade frågor sprids inför medborgarskapsprov - Västerbottens-Kuriren
+- DN Direkt – SMHI varnar för skyfall i helgen - Dagens Nyheter
+- EU-kommissionen vill minska klimatkraven på industrin - SVT Nyheter
+- Trump anklagar Kina för valpåverkan i USA - Corren
+- Michael Winiarski: Petandet av Fedorov ses som seger för Putin - Dagens Nyheter
+- Nya attacker mellan USA och Iran – flera dödade - Göteborgs-Posten
 - Tsunamivarning efter jordskalv vid Mexikos kust - Västerbottens-Kuriren
-- Iran: Sju personer döda efter attack – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Trump anklagar Kina för valpåverkan i USA - Hufvudstadsbladet – HBL
-- Direkt – Kriget i Ukraina – Fyra döda i rysk robotattack - Dagens Nyheter
 - Öppnar för kinesiska bilar i Volvos fabriker - Svenska Dagbladet
-- Bitcoins värde har halverats – kryptovintern kan bli långvarig - Dagens PS
-- Oron: Elpriset kan bli dyrare i vinter - Expressen
-- Saab och EQT mot strömmen när börsen backar - Affärsvärlden
+- CAE och Saab tecknar avsiktsförklaring om Gripen-träning i Kanada - Investing.com Sverige
+- Oregelbundet på Stockholmsbörsen – OMXS30 ned 0,1% - Affärsvärlden
+- Skogman slutar med börsen – 12 kronor avgjorde - Dagens industri
 - Netflix: Runt 300 titlar har använt generativ AI - Computer Sweden
-- Microsoft använder AI-verktyg för att hitta sårbarheter - PC för Alla
+- Fortnite får AI-röster - Aftonbladet
 
 ## World News
 
@@ -34,18 +34,18 @@ _Updated: 2026-07-17 18:40_
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Google Deepmind-chefen vill se global AI-myndighet ledd av USA - Computer Sweden
 - Saab: Vi behöver tillverka fler Global Eye - Omni – Alla nyheter. Alla perspektiv.
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Visual Art köper Global Agencies - Dagens Media
+- WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
@@ -59,10 +59,10 @@ _Updated: 2026-07-17 18:40_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
@@ -122,6 +122,7 @@ _Updated: 2026-07-17 18:40_
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -131,14 +132,13 @@ _Updated: 2026-07-17 18:40_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
