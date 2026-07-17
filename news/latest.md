@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-17 06:46_
+_Updated: 2026-07-17 09:36_
 
 - Trump Speech Live Updates: President Exaggerates Claims About Election Vulnerabilities - The New York Times
+- Blasts reported in Iran as US launches new wave of strikes - BBC
 - Wildfire smoke will worsen in the Northeast and Mid-Atlantic through Friday - The Washington Post
-- Iran says seven killed in latest US strikes, warns war ‘will spread’ - Al Jazeera
-- Airlines warn adjusting to permanent daylight saving time could take up to 2 years - CBS News
-- At least 2 dead in catastrophic flooding in Texas Hill Country - CNN
-- ‘All of a sudden, the boat went over’: The harrowing story of what happened aboard the Volare - San Francisco Chronicle
-- California lettuce supplied to Taco Bell identified as potential cyclospora parasite outbreak source: report - KTLA
-- Tests will find if men in Houston ICE shooting had drugs or salt - The Texas Tribune
-- Sen. Tillis Won’t Back Blanche As Trump AG Unless He Meets With Epstein Victims - Forbes
+- Driver in fatal cyclist crash maneuvered around another vehicle - The Boston Globe
+- SFPD recovers unidentified body from San Francisco Bay - SFGATE
+- Xi Jinping sets out China’s goal to be global AI leader - Financial Times
+- At least 2 dead, hundreds rescued as flooding devastates parts of Texas - Austin American-Statesman
 - ICE agent who killed man in Biddeford identified as former Maine law enforcement officer - The Portland Press Herald
-- Philippines condemns Chinese media depicting it as monkey in AI video - BBC
-- Zelensky ousts popular defense minister, an architect of Ukraine’s drone program - The Washington Post
-- Hong Kong official warns booksellers on security risks after raids - NPR
+- ‘No Reprimands’ For Blue Angels Flyover That Ripped Past Pensacola Beach, Navy Secretary Says - Forbes
+- Houston ICE Shooting: Lawyer Says Bags Held Salt, Not Drugs - The New York Times
 - Japan’s parliament enshrines male-only succession for the shrinking imperial family - AP News
-- SpaceX scrubs Starship launch after some of its engines didn’t start - Ars Technica
-- Netflix Stock Drops on Revenue Miss, Engagement Update - Barron's
-- Asian Stocks Drop After Chip Selloff, Oil Gains: Markets Wrap - Bloomberg.com
-- Four new TSMC chip factories may be coming to Arizona - AZ Family
+- Britain Is About to Get a New Leader. Here’s How the Transition Works. - The New York Times
+- Zelensky ousts popular defense minister, an architect of Ukraine’s drone program - The Washington Post
+- Philippines condemns Chinese media depicting it as monkey in AI video - BBC
+- Parasitic Outbreak Linked to Taylor Farms Lettuce Supplied to Taco Bell - WSJ
+- SpaceX aborts Starship Flight 13 launch attempt - SpaceNews
+- TSMC Just Announced Fantastic News for Nvidia Shareholders - The Motley Fool
+- Why has SpaceX stock continued to fall? Experts explain - Yahoo Finance
 - It’s official: EU will force Google to share search data and open up AI on Android - Ars Technica
-- Google preps letting you customize Gemini voices by Speed, Energy, and more - 9to5Google
+- New spinning drone hides in plain sight: 'Phantom Twist' harnesses motion blur to nearly vanish in flight - Tech Xplore
