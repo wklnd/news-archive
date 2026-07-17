@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-17 13:05_
+_Updated: 2026-07-17 14:42_
 
 ## Top Stories
 
-- Just nu: Brand i garage har spridit sig till två villor - Sveriges Radio
+- Andy Burnham är ny Labourledare och kollegorna strider om ministerposterna - Dagens Nyheter
 - Efter värmeböljan – SMHI varnar för skyfall - Aftonbladet
+- Brand i garage har spridit sig till två villor - Sveriges Radio
 - Trump anklagar Kina för valpåverkan i USA - Hufvudstadsbladet – HBL
-- Vindkraftverk brinner utanför Mjölby - SVT Nyheter
-- Explosion av båt vid ö i Vättern under morgonen - Sydnärkenytt
-- Kryssningsfartyg inpå knuten får Stavangerborna att koka - Dagens Nyheter
+- Äldre man död efter trafikolycka i Angered - SVT Nyheter
+- Brand i vindkraftverk utanför Mjölby - Göteborgs-Posten
 - EU-kommissionen vill minska klimatkraven på industrin - SVT Nyheter
-- Äldre man död i Örebro – påkörd på cykel - Västerbottens-Kuriren
 - Larm om drunkning i Lerberget - SVT Nyheter
+- Äldre man död i Örebro – påkörd på cykel - Västerbottens-Kuriren
 - Strypvåld i var tredje våldtäktsdom - Göteborgs-Posten
 - Förnyade amerikanska attacker mot Iran - Dagens Nyheter
-- Spanien: Tusentals hektar ödelagda i storbrand - Västerbottens-Kuriren
-- Flera dödade i ryska attacker - Göteborgs-Posten
-- Krasch med skolbuss – 20 barn döda - Aftonbladet
+- Kryssningsfartyg inpå knuten får Stavangerborna att koka - Dagens Nyheter
+- Två dödade i rysk robotattack - Västerbottens-Kuriren
+- Spanien: Tusentals hektar ödelagda i storbrand - Göteborgs-Posten
 - Volvo Cars VD och finanschef köper aktier efter kursfall - Affärsvärlden
 - Ned i Asien i takt med växande oro för AI-aktier - Västerbottens-Kuriren
 - Saabs vd efter orderregnet: Inga flaskhalsar - Göteborgs-Posten
 - Oron: Elpriset kan bli dyrare i vinter - Expressen
-- Netflix: Runt 300 titlar har använt generativ AI - Computer Sweden
 - USA vill hindra Apple från att köpa kinesiska minnen - Computer Sweden
+- Netflix: Runt 300 titlar har använt generativ AI - Computer Sweden
 
 ## World News
 
@@ -87,12 +87,12 @@ _Updated: 2026-07-17 13:05_
 - Vilken framtid arbetar du för? - EY
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 
 ## Health
 
