@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-17 09:33_
+_Updated: 2026-07-17 11:28_
 
 ## Top Stories
 
 - Trump anklagar Kina för valpåverkan i USA - Göteborgs-Posten
-- Explosion av båt vid ö i Vättern under morgonen - Sydnärkenytt
+- Efter värmeböljan – SMHI varnar för skyfall - Aftonbladet
 - Förnyade amerikanska attacker mot Iran - Dagens Nyheter
+- Båt exploderade på Vättern utanför Askersund – barnfamilj ombord - SVT Nyheter
+- Kryssningsfartyg inpå knuten får Stavangerborna att koka - Dagens Nyheter
 - Strypvåld i var tredje våldtäktsdom - Västerbottens-Kuriren
-- Malmöbon Sara avvisades från psykakuten: ”De kunde visa mer medmänsklighet” - Sydsvenskan
-- Stort missnöje med psykiatrin: ”Sorgligt” - Svenska Dagbladet
-- Stopp i tågtrafiken efter brand - Västerbottens-Kuriren
-- Kristersson KU-anmäls av V för kvarglömda boken - Dagens Nyheter
-- Kraftigt väderomslag väntar – temperaturen kan halveras - NT
+- Larm om drunkning i Lerberget - SVT Nyheter
+- Dousa: Ingen känslig information har läckt ut - Corren
+- Obducerade säl utan ansiktsskydd — farlig smitta fanns i varböld - Arbetet
 - Misstänkt våldtäkt mot barn i Ystad – två anhållna - Göteborgs-Posten
-- Krasch med skolbuss – 20 barn döda - Sydsvenskan
+- Krasch med skolbuss – 20 barn döda - Aftonbladet
 - Två dödade i rysk robotattack - Västerbottens-Kuriren
-- Över 2 000 fall av ebola bekräftas i Kongo-Kinshasa - Omni – Alla nyheter. Alla perspektiv.
-- Flera döda i bussolycka i Peru - Aftonbladet
+- Israels parlament upplöses inför höstens val - Västerbottens-Kuriren
+- Ebolautbrottet fortsätter skörda liv – 800 döda i Kongo-Kinshasa - Sveriges Radio
 - Magisk rapport – och det kommer bara bli bättre - EFN
 - Ned i Asien i takt med växande oro för AI-aktier - Västerbottens-Kuriren
-- Saabs resultat Kv2 2026: Hög orderingång stärker marknadspositionen - Cision News
-- Swedbank: ”Bolånemarginalen historiskt lägsta” - Folkbladet
+- Saabs vd efter orderregnet: Inga flaskhalsar - Göteborgs-Posten
+- Vattenfall-vd anar höga elpriser i vinter - Folkbladet
 - Marknadsföringen av GTA 6 till PS5 kan vara i farozonen, eftersom allt fler utvecklare klagar över den negativa reaktionen mot PlayStation - notebookcheck.se
 - Atmosfär har upptäckts på jordliknande planet - Omni – Alla nyheter. Alla perspektiv.
 
@@ -88,8 +88,8 @@ _Updated: 2026-07-17 09:33_
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
