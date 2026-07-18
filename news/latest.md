@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-18 16:07_
+_Updated: 2026-07-18 17:36_
 
-- US and Iran trade strikes over Strait of Hormuz. Kuwait suffers infrastructure damage - AP News
-- Where Americans can expect to see air, health impacts from wildfires - NBC News
+- Iran War Updates: U.S. finishes 7th straight night of strikes as traffic freezes up in Strait of Hormuz - CBS News
+- Where Wildfire Smoke Remains—And What To Do About It - Forbes
 - ‘Pulte got really scared’: Inside the White House debate over Trump’s elections speech - Politico
-- Ukrainian Drones Strike Oil Depot in Moscow Region and Logistics Hubs - Kyiv Post
 - Trump says 278,000 noncitizens are on voting rolls. Experts say that’s wrong. - The Washington Post
 - Iran’s hardliners warn of a ‘coup’ as US truce comes under pressure - CNN
-- David Crowley restarts Wisconsin governor bid after Sara Rodriguez quits race over finance problems - AP News
-- ‘The Top Hats Are Saved!’ A Texas Dance Studio Weathers Another Major Flood. - The New York Times
-- Before Nolan Wells’ death, Mississippi island was full of fun, friends and an unspoken danger - NBC News
+- Milwaukee County Executive David Crowley rejoins governor's race - WISN
+- Texas Hill Country floods test new warning systems after last year’s deadly disaster - AP News
 - Sacramento County woman identified as 2nd of 4 victims in deadly boat incident in San Francisco Bay - KCRA
-- Why Britain is getting a new prime minister without a general election - AP News
-- As Trump Scraps With Meloni, His Envoy to Italy Is at Sea - The New York Times
-- Zelenskyy considers sacking commander-in-chief as protests swell - Financial Times
-- Scoop: U.S. sending dozens of refueling planes to Israel as Iran escalation looms - Axios
-- What to know about Taylor Farms, the Taco Bell lettuce supplier linked to the cyclosporiasis outbreak - Business Insider
+- Before Nolan Wells’ death, Mississippi island was full of fun, friends and an unspoken danger - NBC News
+- Ex-wife says ICE agent who killed man in Maine had racist beliefs, violent tendencies - NPR
+- Ukrainian drone attacks kill seven warehouse workers in Russia, spark fire at Moscow region oil depot - Reuters
+- Xi Jinping of China Pitches ‘Openness’ in Push to Shape the Path of A.I. - The New York Times
+- Venezuela Earthquakes Force a Grim Homecoming for Migrants - The New York Times
+- Turkey Aims to Offload Russian Air-Defense System as It Seeks to Buy U.S. F-35s - WSJ
+- Taylor Farms launches recall in 27 states after iceberg lettuce tied to outbreak - The Washington Post
 - SpaceX (SPCX) Is Down 14.7% After Starship Abort and Rising Scrutiny of Its Lofty Valuation - Yahoo Finance
-- Wall St ends lower for the day and week as chip selloff broadens - Reuters
-- China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic - BBC
-- Sony’s flagship RGB LED TV is incredible - The Verge
-- Siri AI vs. Old Siri on Apple Watch: It Wasn't Even Close - CNET
+- Trump Media pitched $100,000 monthly fee for fastest feed of U.S. president's posts, sources say - CNBC
+- Kimi K3 shocked the world. These other AI models could be next - Axios
+- 4 Disadvantages Of Using Microsoft Word Instead Of Google Docs - bgr.com
+- New leak by Evan Blass shows the Z Fold8, Z Fold8 Ultra and Galaxy Watch9, confirms some specs - GSMArena.com news - GSMArena.com
