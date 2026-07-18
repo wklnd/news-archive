@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-18 10:20_
+_Updated: 2026-07-18 11:57_
 
 ## Top Stories
 
-- Storbrand i radhusområde i Norge - SVT Nyheter
-- Tak har rasat in på köpcentrum i Uddevalla - Aftonbladet
-- Stort skyfall drar in i dag – orange varning i Linköping - Omni – Alla nyheter. Alla perspektiv.
+- Storbrand i radhusområde i Norge nu under kontroll - SVT Nyheter
+- SMHI utfärdar orange varning för skyfall - Aftonbladet
+- Tak har rasat in på Torp köpcentrum i Uddevalla - Göteborgs-Posten
 - Nya attacker mellan USA och Iran – sjunde natten - Hufvudstadsbladet – HBL
-- DN Direkt – Fler än 5 000 döda efter skalven i Venezuela - Dagens Nyheter
-- Kvinna föll från balkong – man misstänks för mordförsök - Expressen
+- Direkt – Kriget i Ukraina – Ryssland: 370 drönare mot Moskva i natt - Dagens Nyheter
+- Venezuela tar ut nödpengar från IMF - Västerbottens-Kuriren
+- Stockholmarna älskar och stör sig på ”sommargatorna” - Dagens Nyheter
 - Då vill svenskarna helst bli föräldrar - Dagens Nyheter
-- Grannländernas oväder på ingång - Aftonbladet
 - Fjärde person häktad för mord på badplats - Västerbottens-Kuriren
 - Påhittade frågor sprids inför medborgarskapsprov - Nya Wermlands-Tidningen
 - USA trappar upp ICE-räder – Mexiko rasar - Västerbottens-Kuriren
-- Ryssland: 370 drönare mot Moskva i natt - Corren
 - Demonstranter i Kiev: Riv upp beslutet om Fedorov - Göteborgs-Posten
-- Expert: Trump är orolig för mellanårsvalet - Västerbottens-Kuriren
+- Karl Dalén: Trump pressar kongressen att ändra vallagarna - Dagens Nyheter
+- Andy Burnham vald till ny Labourledare - Dagens Nyheter
+- Nvidias vd:s läderjacka såldes för nästan en miljon dollar - Yle
 - Kina tar täten för global kontroll av AI - Dagens Nyheter
-- Svindyr skinnjacka såld för flera miljoner kronor - Expressen
 - CAE och Saab tecknar avsiktsförklaring om Gripen-träning i Kanada - Investing.com Sverige
 - Oregelbundet på Stockholmsbörsen på rapportintensiv fredag, OMXS30-index ned 0,1 procent (Finwire News) - Aktiellt
-- Bethesda har just släppt det Fallout-tillkännagivande som fansen har väntat på i över ett decennium - notebookcheck.se
-- Läckt reklammaterial för Samsung Z Fold 8 (Ultra) och Z Flip 8 bekräftar batterikapacitet och kameraspecifikationer - notebookcheck.se
+- Socker hittat i gasmoln – i rymden - Svenska Dagbladet
+- Nya spel och remasters är på gång - Feber
 
 ## World News
 
@@ -50,25 +50,25 @@ _Updated: 2026-07-18 10:20_
 
 ## Technology
 
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
@@ -81,7 +81,6 @@ _Updated: 2026-07-18 10:20_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
-- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2026-07-18 10:20_
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 
 ## Health
 
@@ -134,11 +134,11 @@ _Updated: 2026-07-18 10:20_
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
