@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-18 08:27_
+_Updated: 2026-07-18 10:20_
 
 ## Top Stories
 
 - Storbrand i radhusområde i Norge - SVT Nyheter
+- Tak har rasat in på köpcentrum i Uddevalla - Aftonbladet
+- Stort skyfall drar in i dag – orange varning i Linköping - Omni – Alla nyheter. Alla perspektiv.
 - Nya attacker mellan USA och Iran – sjunde natten - Hufvudstadsbladet – HBL
 - DN Direkt – Fler än 5 000 döda efter skalven i Venezuela - Dagens Nyheter
-- ”Har du HS-pistoler inne?” – svaret blir ja - Svenska Dagbladet
-- Direkt – Kriget i Ukraina – Ryssland: 370 drönare mot Moskva i natt - Dagens Nyheter
-- Köpenhamn är Nordens Las Vegas – här erbjuds snabbfil till äktenskap - Sydsvenskan
-- SMHI skärper sin varning: stor risk för skyfall i länet - NT
-- Misstänkt mordförsök – kvinna föll från balkong i Stockholm - SVT Nyheter
-- Storm och översvämningar – SMHI varnar - TV4 Nyheterna
+- Kvinna föll från balkong – man misstänks för mordförsök - Expressen
+- Då vill svenskarna helst bli föräldrar - Dagens Nyheter
+- Grannländernas oväder på ingång - Aftonbladet
+- Fjärde person häktad för mord på badplats - Västerbottens-Kuriren
 - Påhittade frågor sprids inför medborgarskapsprov - Nya Wermlands-Tidningen
 - USA trappar upp ICE-räder – Mexiko rasar - Västerbottens-Kuriren
+- Ryssland: 370 drönare mot Moskva i natt - Corren
 - Demonstranter i Kiev: Riv upp beslutet om Fedorov - Göteborgs-Posten
-- Direkt – Kriget i Ukraina – Fyra döda i rysk robotattack - Dagens Nyheter
 - Expert: Trump är orolig för mellanårsvalet - Västerbottens-Kuriren
-- Nvidias vd:s jacka såld för jättesumma - Expressen
+- Kina tar täten för global kontroll av AI - Dagens Nyheter
+- Svindyr skinnjacka såld för flera miljoner kronor - Expressen
+- CAE och Saab tecknar avsiktsförklaring om Gripen-träning i Kanada - Investing.com Sverige
 - Oregelbundet på Stockholmsbörsen på rapportintensiv fredag, OMXS30-index ned 0,1 procent (Finwire News) - Aktiellt
-- Wall Street tyngdes av AI och olja - Aftonbladet
-- Öppnar för kinesiska bilar i Volvos fabriker - Svenska Dagbladet
-- PlayStation kan komma att använda bots för att motverka protesterna mot att fysiska PS5-skivor fasas ut - notebookcheck.se
-- Atmosfär har upptäckts på jordliknande planet - Omni – Alla nyheter. Alla perspektiv.
+- Bethesda har just släppt det Fallout-tillkännagivande som fansen har väntat på i över ett decennium - notebookcheck.se
+- Läckt reklammaterial för Samsung Z Fold 8 (Ultra) och Z Flip 8 bekräftar batterikapacitet och kameraspecifikationer - notebookcheck.se
 
 ## World News
 
@@ -50,17 +50,17 @@ _Updated: 2026-07-18 08:27_
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
@@ -144,15 +144,15 @@ _Updated: 2026-07-18 08:27_
 
 - Genom att odla ekologiskt ris under sommar-höstskörden 2026 kommer jordbrukare i An Giang-provinsen att tjäna ytterligare 11 miljoner VND per hektar. - Vietnam.vn
 - Sveriges förändrade lantbruk - SLU
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbrukspolitik - Naturvårdsverket
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
