@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-18 18:26_
+_Updated: 2026-07-18 19:31_
 
 ## Top Stories
 
 - "På två timmar hade allt blivit till ett inferno" - Göteborgs-Posten
 - Regnoväder drar in – SMHI varnar för skyfall - Expressen
+- Iran: Inte längre del av ramavtal med USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Venezuela hotas av ny katastrof efter jordbävningarna - Dagens Nyheter
 - Man hittad död efter fisketur i Pajala - Västerbottens-Kuriren
-- Efter jordbävningarna hotas Venezuela av en ny katastrof - Dagens Nyheter
-- Bråk på sociala medier före mord på badplats - Aftonbladet
 - Ryssland: 370 drönare mot Moskva i natt - Corren
 - Bil har kört in i byggnad i Växjö - Expressen
-- Bebis lämnades död i tunnel – mordet olöst i 24 år - Västerbottens-Kuriren
 - Tre personer till sjukhus efter krock på E45 vid Mellerud - SVT Nyheter
+- DN Direkt – Fjärde person häktad för mord på badplats - Dagens Nyheter
 - Tak har rasat in på Torp köpcentrum i Uddevalla - Göteborgs-Posten
-- DN Direkt – Toppolitiker avgår efter surrogatskandal - Dagens Nyheter
-- Demonstranter i Kiev: Riv upp beslutet om Fedorov - Göteborgs-Posten
-- Iran hotar med ”fullskalig offensiv" efter helgen - Västerbottens-Kuriren
-- 48-åring åtalas efter mord och skott mot polis i Ålborg - Sveriges Radio
+- Tysk ex-minister kritiseras för surrogatbarn - Göteborgs-Posten
+- Ukrainas ÖB hänger löst efter protesterna - Dagens Nyheter
+- Efter skottlossningen i Ålborg: Mannen erkänner - Aftonbladet
+- Karl Dalén: Trump pressar kongressen att ändra vallagarna - Dagens Nyheter
 - Nvidias vd:s läderjacka såldes för nästan en miljon dollar - Yle
 - EU slösar energi: Nu ska batterier klara krisen - Dagens PS
+- Produktionsproblem i Karlshamn bidrog till att AAK backade - Sydöstran
 - Oregelbundet på Stockholmsbörsen på rapportintensiv fredag, OMXS30-index ned 0,1 procent (Finwire News) - Aktiellt
-- Kina startar ny AI-organisation – Ryssland är med - Sveriges Radio
 - Socker hittat i gasmoln – i rymden - Nerikes Allehanda
-- Apple och Google tvingas ta ner appar för AI-nakenbilder - Omni – Alla nyheter. Alla perspektiv.
+- Henning Eklund: Nu begraver vi ”magnifika sju” - Svenska Dagbladet
 
 ## World News
 
@@ -56,19 +56,19 @@ _Updated: 2026-07-18 18:26_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
@@ -81,13 +81,13 @@ _Updated: 2026-07-18 18:26_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
-- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
@@ -124,7 +124,7 @@ _Updated: 2026-07-18 18:26_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
@@ -132,13 +132,13 @@ _Updated: 2026-07-18 18:26_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- 5 myter om öppen vetenskap - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
