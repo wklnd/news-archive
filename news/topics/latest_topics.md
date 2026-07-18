@@ -1,38 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-18 19:31_
+_Updated: 2026-07-18 20:27_
 
 ## Top Stories
 
-- "På två timmar hade allt blivit till ett inferno" - Göteborgs-Posten
-- Regnoväder drar in – SMHI varnar för skyfall - Expressen
+- Sågas efter regelbråk: ”Inte särskilt förtjust i honom” - Omni – Alla nyheter. Alla perspektiv.
+- Göteborg erbjöd räddningshjälp till Drammen - Göteborgs-Posten
 - Iran: Inte längre del av ramavtal med USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Venezuela hotas av ny katastrof efter jordbävningarna - Dagens Nyheter
-- Man hittad död efter fisketur i Pajala - Västerbottens-Kuriren
-- Ryssland: 370 drönare mot Moskva i natt - Corren
+- Två amerikanska soldater dödade i iransk attack - Västerbottens-Kuriren
+- Comeback för papper och penna när AI-motståndet växer i USA - Dagens Nyheter
+- Byggnader skadade i skyfallen - Dagens Nyheter
 - Bil har kört in i byggnad i Växjö - Expressen
-- Tre personer till sjukhus efter krock på E45 vid Mellerud - SVT Nyheter
-- DN Direkt – Fjärde person häktad för mord på badplats - Dagens Nyheter
-- Tak har rasat in på Torp köpcentrum i Uddevalla - Göteborgs-Posten
-- Tysk ex-minister kritiseras för surrogatbarn - Göteborgs-Posten
+- Bråk på sociala medier före mord på badplats - Västerbottens-Kuriren
+- Man hittad död efter fisketur i Pajala - Västerbottens-Kuriren
+- DN Direkt – Tysk politiker avgår efter surrogatskandal - Dagens Nyheter
+- Ryssland: Lagerarbetare dödade i Ukraina-attacker - Corren
 - Ukrainas ÖB hänger löst efter protesterna - Dagens Nyheter
 - Efter skottlossningen i Ålborg: Mannen erkänner - Aftonbladet
-- Karl Dalén: Trump pressar kongressen att ändra vallagarna - Dagens Nyheter
 - Nvidias vd:s läderjacka såldes för nästan en miljon dollar - Yle
 - EU slösar energi: Nu ska batterier klara krisen - Dagens PS
 - Produktionsproblem i Karlshamn bidrog till att AAK backade - Sydöstran
 - Oregelbundet på Stockholmsbörsen på rapportintensiv fredag, OMXS30-index ned 0,1 procent (Finwire News) - Aktiellt
 - Socker hittat i gasmoln – i rymden - Nerikes Allehanda
-- Henning Eklund: Nu begraver vi ”magnifika sju” - Svenska Dagbladet
+- Apple och Google tvingas ta ner appar för AI-nakenbilder - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
 - Kina tar täten för global kontroll av AI - Dagens Nyheter
 - Saab: Vi behöver tillverka fler Global Eye - Omni – Alla nyheter. Alla perspektiv.
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
@@ -40,9 +40,9 @@ _Updated: 2026-07-18 19:31_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
@@ -66,9 +66,9 @@ _Updated: 2026-07-18 19:31_
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
@@ -103,9 +103,10 @@ _Updated: 2026-07-18 19:31_
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -115,7 +116,6 @@ _Updated: 2026-07-18 19:31_
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
@@ -124,21 +124,21 @@ _Updated: 2026-07-18 19:31_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
