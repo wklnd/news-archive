@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-18 13:29_
+_Updated: 2026-07-18 14:27_
 
 ## Top Stories
 
-- Norska storbranden under kontroll – brinner på flera ställen - Göteborgs-Posten
-- Efter skottlossningen i Ålborg: Mannen erkänner - Aftonbladet
-- SMHI: gul varning för kraftigt regn i Sörmland - Sveriges Radio
-- Tak har rasat in på Torp Köpcentrum - Bohusläningen
+- ”Största branden i Norge i modern tid” - Göteborgs-Posten
+- Gul varning för skyfallsliknande regn – risk för översvämningar - Sveriges Radio
 - Ryska hämndattacker till havs: ”I huvudsak civila fartyg” - Dagens Nyheter
-- Kvinna föll från balkong – misstänkt mordförsök - Omni – Alla nyheter. Alla perspektiv.
+- Tak har rasat in på Torp Köpcentrum - Bohusläningen
+- Misstänkt mordförsök – kvinna föll från balkong - Aftonbladet
+- Ekonom: Norge har blivit för rikt - Svenska Dagbladet
 - DN Direkt – Flera ladugårdar står i lågor efter åskoväder - Dagens Nyheter
-- Två svårt skadade efter frontalkrock i Djurås - SVT Nyheter
 - Stockholmarna älskar och stör sig på ”sommargatorna” - Dagens Nyheter
-- Fjärde person häktad efter knivmord på badplats - Göteborgs-Posten
+- Två svårt skadade efter frontalkrock i Djurås - SVT Nyheter
+- Bråk på sociala medier före mord på badplats - Västerbottens-Kuriren
 - Ryssland: 370 drönare mot Moskva i natt - Corren
 - Iran hotar med ”fullskalig offensiv" efter helgen - Västerbottens-Kuriren
-- DN Direkt – Fler än 5 000 döda efter skalven i Venezuela - Dagens Nyheter
-- USA trappar upp ICE-räder – Mexiko rasar - Västerbottens-Kuriren
+- Efter skottlossningen i Ålborg: Mannen erkänner - Aftonbladet
+- Dödstalet efter skalven i Venezuela passerar 5 000 - Göteborgs-Posten
 - Nvidias vd:s läderjacka såldes för nästan en miljon dollar - Yle
-- Avtal klart om irakisk oljeledning till Medelhavet - Aftonbladet
-- Senator i USA: Meta vill förgöra visselblåsare - Dagens PS
+- Avtal klart om irakisk oljeledning till Medelhavet - Västerbottens-Kuriren
 - Oregelbundet på Stockholmsbörsen på rapportintensiv fredag, OMXS30-index ned 0,1 procent (Finwire News) - Aktiellt
+- Experten: Kriget kan knäcka Trump politiskt – ”Det finns en gräns” - TV4 Nyheterna
+- Socker hittat i gasmoln – i rymden - Nerikes Allehanda
 - Atmosfär har upptäckts på jordliknande planet - Omni – Alla nyheter. Alla perspektiv.
-- Socker hittat i gasmoln – i rymden - Svenska Dagbladet
 
 ## World News
 
@@ -37,12 +37,12 @@ _Updated: 2026-07-18 13:29_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Google Deepmind-chefen vill se global AI-myndighet ledd av USA - Computer Sweden
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
