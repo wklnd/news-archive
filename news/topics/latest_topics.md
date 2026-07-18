@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-18 06:25_
+_Updated: 2026-07-18 08:27_
 
 ## Top Stories
 
-- Flera radhus i lågor – storbrand utanför Oslo - Göteborgs-Posten
+- Storbrand i radhusområde i Norge - SVT Nyheter
+- Nya attacker mellan USA och Iran – sjunde natten - Hufvudstadsbladet – HBL
 - DN Direkt – Fler än 5 000 döda efter skalven i Venezuela - Dagens Nyheter
-- Iran: Tankfartyg brinner i Hormuzsundet - Västerbottens-Kuriren
+- ”Har du HS-pistoler inne?” – svaret blir ja - Svenska Dagbladet
 - Direkt – Kriget i Ukraina – Ryssland: 370 drönare mot Moskva i natt - Dagens Nyheter
-- Mordet på Hawaii: ”Bråk på sociala medier eskalerade” - Aftonbladet
-- Demonstranter i Kiev: Riv upp beslutet om Fedorov - Göteborgs-Posten
+- Köpenhamn är Nordens Las Vegas – här erbjuds snabbfil till äktenskap - Sydsvenskan
+- SMHI skärper sin varning: stor risk för skyfall i länet - NT
+- Misstänkt mordförsök – kvinna föll från balkong i Stockholm - SVT Nyheter
 - Storm och översvämningar – SMHI varnar - TV4 Nyheterna
 - Påhittade frågor sprids inför medborgarskapsprov - Nya Wermlands-Tidningen
-- Efter värmeböljan – SMHI varnar för skyfall - Göteborgs-Posten
-- Förslag: EU lättar på utsläppskraven – styr om klimatpengar till industrin - Europaportalen
 - USA trappar upp ICE-räder – Mexiko rasar - Västerbottens-Kuriren
-- Flera dödade i ryska attacker - Göteborgs-Posten
-- DN Direkt – Andy Burnham vald till partiledare för Labour - Dagens Nyheter
-- Trump anklagar Kina för valpåverkan i USA - corren.se
+- Demonstranter i Kiev: Riv upp beslutet om Fedorov - Göteborgs-Posten
+- Direkt – Kriget i Ukraina – Fyra döda i rysk robotattack - Dagens Nyheter
+- Expert: Trump är orolig för mellanårsvalet - Västerbottens-Kuriren
+- Nvidias vd:s jacka såld för jättesumma - Expressen
 - Oregelbundet på Stockholmsbörsen på rapportintensiv fredag, OMXS30-index ned 0,1 procent (Finwire News) - Aktiellt
 - Wall Street tyngdes av AI och olja - Aftonbladet
-- Skogman slutar med börsen – 12 kronor avgjorde - Dagens industri
-- Volvos vd: Då är drömmarginalen i sikte - EFN
+- Öppnar för kinesiska bilar i Volvos fabriker - Svenska Dagbladet
 - PlayStation kan komma att använda bots för att motverka protesterna mot att fysiska PS5-skivor fasas ut - notebookcheck.se
 - Atmosfär har upptäckts på jordliknande planet - Omni – Alla nyheter. Alla perspektiv.
 
@@ -31,9 +31,11 @@ _Updated: 2026-07-18 06:25_
 - Saab: Vi behöver tillverka fler Global Eye - Omni – Alla nyheter. Alla perspektiv.
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Google Deepmind-chefen vill se global AI-myndighet ledd av USA - Computer Sweden
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
@@ -41,34 +43,32 @@ _Updated: 2026-07-18 06:25_
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Visual Art köper Global Agencies - Dagens Media
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
 
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
