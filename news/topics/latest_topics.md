@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-18 21:42_
+_Updated: 2026-07-18 23:24_
 
 ## Top Stories
 
 - DN Direkt – Norska polisen om branden: Inget misstänkt - Dagens Nyheter
-- SMHI varnar för skyfallsliknande regn i flera delar av landet - Aftonbladet
-- Iran häver samförståndsavtalet efter nya attacker - Göteborgs-Posten
-- Två amerikanska soldater dödade i iransk attack - Västerbottens-Kuriren
-- Venezuela hotas av ny katastrof efter jordbävningarna - Dagens Nyheter
-- Ryssland: 370 drönare mot Moskva i natt - Corren
-- Bil har kört in i byggnad i Växjö - Expressen
-- Bråk på sociala medier före mord på badplats - Västerbottens-Kuriren
-- DN Direkt – Man hittad död efter fisketur i Pajala - Dagens Nyheter
-- Personbilar i kollision på E45 - TTELA
+- Regnoväder drar in – SMHI varnar för skyfall - Expressen
+- Finland spärrade av efter dödliga anfall i Ryssland - Västerbottens-Kuriren
+- Ungerns president villig att avsätta sig själv - Göteborgs-Posten
+- Direkt – Kriget i Ukraina – Zelenskyj i samtal med petade ministern - Dagens Nyheter
+- Två amerikanska soldater dödade i iransk attack - Aftonbladet
+- DN Direkt – Bråk på sociala medier före mord på badplats - Dagens Nyheter
+- Man hittad död efter fisketur i Pajala - Västerbottens-Kuriren
+- Kronocamping i Lidköping översvämmad efter oväder - Sveriges Radio
+- Tak har rasat in på Torp köpcentrum i Uddevalla - Göteborgs-Posten
 - Direkt – Krisen i Mellanöstern – Israelisk minister vill att krokodiler ska vakta fängelser - Dagens Nyheter
-- Ukrainas ÖB hänger löst efter protesterna - Dagens Nyheter
+- Familj dödad i israelisk attack i Gaza - Aftonbladet
 - Efter skottlossningen i Ålborg: Mannen erkänner - Aftonbladet
 - Karl Dalén: Trump pressar kongressen att ändra vallagarna - Dagens Nyheter
+- Whiskyboomen är över – historisk nedgång - Svenska Dagbladet
 - Nvidias vd:s läderjacka såldes för nästan en miljon dollar - Yle
 - Oregelbundet på Stockholmsbörsen på rapportintensiv fredag, OMXS30-index ned 0,1 procent (Finwire News) - Aktiellt
-- Produktionsproblem i Karlshamn bidrog till att AAK backade - Sydöstran
-- Experten: Kriget kan knäcka Trump politiskt – ”Det finns en gräns” - TV4 Nyheterna
+- Vattenfall-vd anar höga elpriser i vinter - Folkbladet
+- Finns förutsättning för liv: ”Är vi ensamma?” - Svenska Dagbladet
 - Socker hittat i gasmoln – i rymden - Nerikes Allehanda
-- Apple och Google tvingas ta ner appar för AI-nakenbilder - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
@@ -56,8 +56,8 @@ _Updated: 2026-07-18 21:42_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -66,17 +66,17 @@ _Updated: 2026-07-18 21:42_
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -84,7 +84,6 @@ _Updated: 2026-07-18 21:42_
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2026-07-18 21:42_
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -129,15 +129,15 @@ _Updated: 2026-07-18 21:42_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Olika slutsatser från samma data - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
