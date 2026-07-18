@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-18 20:27_
+_Updated: 2026-07-18 21:42_
 
 ## Top Stories
 
-- Sågas efter regelbråk: ”Inte särskilt förtjust i honom” - Omni – Alla nyheter. Alla perspektiv.
-- Göteborg erbjöd räddningshjälp till Drammen - Göteborgs-Posten
-- Iran: Inte längre del av ramavtal med USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Venezuela hotas av ny katastrof efter jordbävningarna - Dagens Nyheter
+- DN Direkt – Norska polisen om branden: Inget misstänkt - Dagens Nyheter
+- SMHI varnar för skyfallsliknande regn i flera delar av landet - Aftonbladet
+- Iran häver samförståndsavtalet efter nya attacker - Göteborgs-Posten
 - Två amerikanska soldater dödade i iransk attack - Västerbottens-Kuriren
-- Comeback för papper och penna när AI-motståndet växer i USA - Dagens Nyheter
-- Byggnader skadade i skyfallen - Dagens Nyheter
+- Venezuela hotas av ny katastrof efter jordbävningarna - Dagens Nyheter
+- Ryssland: 370 drönare mot Moskva i natt - Corren
 - Bil har kört in i byggnad i Växjö - Expressen
 - Bråk på sociala medier före mord på badplats - Västerbottens-Kuriren
-- Man hittad död efter fisketur i Pajala - Västerbottens-Kuriren
-- DN Direkt – Tysk politiker avgår efter surrogatskandal - Dagens Nyheter
-- Ryssland: Lagerarbetare dödade i Ukraina-attacker - Corren
+- DN Direkt – Man hittad död efter fisketur i Pajala - Dagens Nyheter
+- Personbilar i kollision på E45 - TTELA
+- Direkt – Krisen i Mellanöstern – Israelisk minister vill att krokodiler ska vakta fängelser - Dagens Nyheter
 - Ukrainas ÖB hänger löst efter protesterna - Dagens Nyheter
 - Efter skottlossningen i Ålborg: Mannen erkänner - Aftonbladet
+- Karl Dalén: Trump pressar kongressen att ändra vallagarna - Dagens Nyheter
 - Nvidias vd:s läderjacka såldes för nästan en miljon dollar - Yle
-- EU slösar energi: Nu ska batterier klara krisen - Dagens PS
-- Produktionsproblem i Karlshamn bidrog till att AAK backade - Sydöstran
 - Oregelbundet på Stockholmsbörsen på rapportintensiv fredag, OMXS30-index ned 0,1 procent (Finwire News) - Aktiellt
+- Produktionsproblem i Karlshamn bidrog till att AAK backade - Sydöstran
+- Experten: Kriget kan knäcka Trump politiskt – ”Det finns en gräns” - TV4 Nyheterna
 - Socker hittat i gasmoln – i rymden - Nerikes Allehanda
 - Apple och Google tvingas ta ner appar för AI-nakenbilder - Omni – Alla nyheter. Alla perspektiv.
 
@@ -29,10 +29,10 @@ _Updated: 2026-07-18 20:27_
 
 - Kina tar täten för global kontroll av AI - Dagens Nyheter
 - Saab: Vi behöver tillverka fler Global Eye - Omni – Alla nyheter. Alla perspektiv.
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
@@ -40,9 +40,9 @@ _Updated: 2026-07-18 20:27_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
@@ -66,9 +66,9 @@ _Updated: 2026-07-18 20:27_
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
@@ -121,14 +121,14 @@ _Updated: 2026-07-18 20:27_
 
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Kina drar om USA – bäst på forskning - SVT Nyheter
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
+- Olika slutsatser från samma data - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
