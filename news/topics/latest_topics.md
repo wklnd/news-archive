@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-18 14:27_
+_Updated: 2026-07-18 17:29_
 
 ## Top Stories
 
-- ”Största branden i Norge i modern tid” - Göteborgs-Posten
-- Gul varning för skyfallsliknande regn – risk för översvämningar - Sveriges Radio
-- Ryska hämndattacker till havs: ”I huvudsak civila fartyg” - Dagens Nyheter
-- Tak har rasat in på Torp Köpcentrum - Bohusläningen
-- Misstänkt mordförsök – kvinna föll från balkong - Aftonbladet
-- Ekonom: Norge har blivit för rikt - Svenska Dagbladet
-- DN Direkt – Flera ladugårdar står i lågor efter åskoväder - Dagens Nyheter
-- Stockholmarna älskar och stör sig på ”sommargatorna” - Dagens Nyheter
-- Två svårt skadade efter frontalkrock i Djurås - SVT Nyheter
-- Bråk på sociala medier före mord på badplats - Västerbottens-Kuriren
-- Ryssland: 370 drönare mot Moskva i natt - Corren
+- Finländska Östen bor nära storbranden: ”Chockerande” - Hufvudstadsbladet – HBL
+- Regnoväder drar in – SMHI varnar för skyfall - Expressen
+- Populär uteservering i Göteborg ska rivas – efter 9 år - Göteborgs-Posten
+- Tysk toppolitiker avgår efter surrogatbarnkritik - Västerbottens-Kuriren
+- Bråk på sociala medier före mord på badplats - Aftonbladet
+- Direkt – Kriget i Ukraina – Finland spärrar av efter dödliga anfall i Ryssland - Dagens Nyheter
+- Bil har kört in i byggnad i Växjö - Expressen
+- Bebis lämnades död i tunnel – mordet olöst i 24 år - Västerbottens-Kuriren
+- Försvann efter fisketur – man hittad död i Tärendöälven - Norran
+- Tre personer till sjukhus efter krock på E45 vid Mellerud - SVT Nyheter
+- 48-åring åtalas efter mord och skott mot polis i Ålborg - Sveriges Radio
+- Ukrainas ÖB hänger löst efter protesterna - Dagens Nyheter
 - Iran hotar med ”fullskalig offensiv" efter helgen - Västerbottens-Kuriren
-- Efter skottlossningen i Ålborg: Mannen erkänner - Aftonbladet
-- Dödstalet efter skalven i Venezuela passerar 5 000 - Göteborgs-Posten
+- Ryssland bombar till havs: ”I huvudsak civila fartyg” - Dagens Nyheter
 - Nvidias vd:s läderjacka såldes för nästan en miljon dollar - Yle
-- Avtal klart om irakisk oljeledning till Medelhavet - Västerbottens-Kuriren
+- Henning Eklund: Nu begraver vi ”magnifika sju” - Svenska Dagbladet
 - Oregelbundet på Stockholmsbörsen på rapportintensiv fredag, OMXS30-index ned 0,1 procent (Finwire News) - Aktiellt
-- Experten: Kriget kan knäcka Trump politiskt – ”Det finns en gräns” - TV4 Nyheterna
+- Kina startar ny AI-organisation – Ryssland är med - Sveriges Radio
 - Socker hittat i gasmoln – i rymden - Nerikes Allehanda
-- Atmosfär har upptäckts på jordliknande planet - Omni – Alla nyheter. Alla perspektiv.
+- Apple och Google tvingas ta ner appar för AI-deepfake - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
@@ -53,22 +53,22 @@ _Updated: 2026-07-18 14:27_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
@@ -81,13 +81,13 @@ _Updated: 2026-07-18 14:27_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
+- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
@@ -143,21 +143,21 @@ _Updated: 2026-07-18 14:27_
 ## Jordbruk
 
 - Genom att odla ekologiskt ris under sommar-höstskörden 2026 kommer jordbrukare i An Giang-provinsen att tjäna ytterligare 11 miljoner VND per hektar. - Vietnam.vn
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Sveriges förändrade lantbruk - SLU
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbrukspolitik - Naturvårdsverket
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
