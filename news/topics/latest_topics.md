@@ -1,35 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-19 00:23_
+_Updated: 2026-07-19 01:27_
 
 ## Top Stories
 
-- Se bilder: ”Ser ut som en krigszon” - Hufvudstadsbladet – HBL
-- Direkt – Kriget i Ukraina – Ryssland: Lagerarbetare dödade i anfall - Dagens Nyheter
+- DN Direkt – Polis i Drammen: ”Håll er borta från det eldhärjade området” - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Ryssland stärker försvar av skuggflotta - Dagens Nyheter
 - Ungerns president villig att avsätta sig själv - Göteborgs-Posten
-- Familj dödad i israelisk attack i Gaza - Västerbottens-Kuriren
+- Efter dödsfallen – USA anfaller på nytt – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- SMHI varnar för skyfall: ”Matar på” - Expressen
 - Man påkörd av A-traktor – förd till sjukhus - Sveriges Radio
-- Iran: Inte längre del av ramavtal med USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- SMHI skärper varning för skyfall – Polisen: "Kan sluta illa" - NT
-- Man hittad död efter fisketur i Pajala - Västerbottens-Kuriren
+- Fler unga vill fågelskåda: ”Det är supercoolt” - Västerbottens-Kuriren
+- DN Direkt – Man hittad död efter fisketur i Pajala - Dagens Nyheter
 - Fjärde person häktad efter knivmord på badplats - Göteborgs-Posten
-- Översvämningar i södra Sverige - Expressen
+- Kronocamping i Lidköping översvämmad efter oväder - Sveriges Radio
 - Direkt – Krisen i Mellanöstern – Israelisk minister vill att krokodiler ska vakta fängelser - Dagens Nyheter
-- Två amerikanska soldater dödade i iransk attack - Folkbladet
-- Direkt – Kriget i Ukraina – Zelenskyj i samtal med petade ministern - Dagens Nyheter
-- Efter skottlossningen i Ålborg: Mannen erkänner - Aftonbladet
+- Nattliga explosioner i Kiev - Västerbottens-Kuriren
+- Två amerikanska soldater dödade i iransk attack - Göteborgs-Posten
+- Familj dödad i israelisk attack i Gaza - Aftonbladet
 - Whiskyboomen är över – historisk nedgång - Svenska Dagbladet
 - Oregelbundet på Stockholmsbörsen på rapportintensiv fredag, OMXS30-index ned 0,1 procent (Finwire News) - Aktiellt
-- DN Direkt – Nvidias vd:s jacka såld för jättesumma - Dagens Nyheter
 - Vattenfall-vd anar höga elpriser i vinter - Folkbladet
+- Telia ökar vinsten – miljardlyft jämfört med fjolåret - Börskollen
 - Finns förutsättning för liv: ”Är vi ensamma?” - Svenska Dagbladet
-- Socker hittat i gasmoln – i rymden - Nerikes Allehanda
+- Socker hittat i gasmoln – i rymden - Aftonbladet
 
 ## World News
 
 - Kina tar täten för global kontroll av AI - Dagens Nyheter
 - Saab: Vi behöver tillverka fler Global Eye - Omni – Alla nyheter. Alla perspektiv.
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
@@ -40,10 +41,9 @@ _Updated: 2026-07-19 00:23_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
