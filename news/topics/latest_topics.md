@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-18 17:29_
+_Updated: 2026-07-18 18:26_
 
 ## Top Stories
 
-- Finländska Östen bor nära storbranden: ”Chockerande” - Hufvudstadsbladet – HBL
+- "På två timmar hade allt blivit till ett inferno" - Göteborgs-Posten
 - Regnoväder drar in – SMHI varnar för skyfall - Expressen
-- Populär uteservering i Göteborg ska rivas – efter 9 år - Göteborgs-Posten
-- Tysk toppolitiker avgår efter surrogatbarnkritik - Västerbottens-Kuriren
+- Man hittad död efter fisketur i Pajala - Västerbottens-Kuriren
+- Efter jordbävningarna hotas Venezuela av en ny katastrof - Dagens Nyheter
 - Bråk på sociala medier före mord på badplats - Aftonbladet
-- Direkt – Kriget i Ukraina – Finland spärrar av efter dödliga anfall i Ryssland - Dagens Nyheter
+- Ryssland: 370 drönare mot Moskva i natt - Corren
 - Bil har kört in i byggnad i Växjö - Expressen
 - Bebis lämnades död i tunnel – mordet olöst i 24 år - Västerbottens-Kuriren
-- Försvann efter fisketur – man hittad död i Tärendöälven - Norran
 - Tre personer till sjukhus efter krock på E45 vid Mellerud - SVT Nyheter
-- 48-åring åtalas efter mord och skott mot polis i Ålborg - Sveriges Radio
-- Ukrainas ÖB hänger löst efter protesterna - Dagens Nyheter
+- Tak har rasat in på Torp köpcentrum i Uddevalla - Göteborgs-Posten
+- DN Direkt – Toppolitiker avgår efter surrogatskandal - Dagens Nyheter
+- Demonstranter i Kiev: Riv upp beslutet om Fedorov - Göteborgs-Posten
 - Iran hotar med ”fullskalig offensiv" efter helgen - Västerbottens-Kuriren
-- Ryssland bombar till havs: ”I huvudsak civila fartyg” - Dagens Nyheter
+- 48-åring åtalas efter mord och skott mot polis i Ålborg - Sveriges Radio
 - Nvidias vd:s läderjacka såldes för nästan en miljon dollar - Yle
-- Henning Eklund: Nu begraver vi ”magnifika sju” - Svenska Dagbladet
+- EU slösar energi: Nu ska batterier klara krisen - Dagens PS
 - Oregelbundet på Stockholmsbörsen på rapportintensiv fredag, OMXS30-index ned 0,1 procent (Finwire News) - Aktiellt
 - Kina startar ny AI-organisation – Ryssland är med - Sveriges Radio
 - Socker hittat i gasmoln – i rymden - Nerikes Allehanda
-- Apple och Google tvingas ta ner appar för AI-deepfake - Omni – Alla nyheter. Alla perspektiv.
+- Apple och Google tvingas ta ner appar för AI-nakenbilder - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
