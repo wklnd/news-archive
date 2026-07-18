@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-18 11:57_
+_Updated: 2026-07-18 13:29_
 
 ## Top Stories
 
-- Storbrand i radhusområde i Norge nu under kontroll - SVT Nyheter
-- SMHI utfärdar orange varning för skyfall - Aftonbladet
-- Tak har rasat in på Torp köpcentrum i Uddevalla - Göteborgs-Posten
-- Nya attacker mellan USA och Iran – sjunde natten - Hufvudstadsbladet – HBL
-- Direkt – Kriget i Ukraina – Ryssland: 370 drönare mot Moskva i natt - Dagens Nyheter
-- Venezuela tar ut nödpengar från IMF - Västerbottens-Kuriren
+- Norska storbranden under kontroll – brinner på flera ställen - Göteborgs-Posten
+- Efter skottlossningen i Ålborg: Mannen erkänner - Aftonbladet
+- SMHI: gul varning för kraftigt regn i Sörmland - Sveriges Radio
+- Tak har rasat in på Torp Köpcentrum - Bohusläningen
+- Ryska hämndattacker till havs: ”I huvudsak civila fartyg” - Dagens Nyheter
+- Kvinna föll från balkong – misstänkt mordförsök - Omni – Alla nyheter. Alla perspektiv.
+- DN Direkt – Flera ladugårdar står i lågor efter åskoväder - Dagens Nyheter
+- Två svårt skadade efter frontalkrock i Djurås - SVT Nyheter
 - Stockholmarna älskar och stör sig på ”sommargatorna” - Dagens Nyheter
-- Då vill svenskarna helst bli föräldrar - Dagens Nyheter
-- Fjärde person häktad för mord på badplats - Västerbottens-Kuriren
-- Påhittade frågor sprids inför medborgarskapsprov - Nya Wermlands-Tidningen
+- Fjärde person häktad efter knivmord på badplats - Göteborgs-Posten
+- Ryssland: 370 drönare mot Moskva i natt - Corren
+- Iran hotar med ”fullskalig offensiv" efter helgen - Västerbottens-Kuriren
+- DN Direkt – Fler än 5 000 döda efter skalven i Venezuela - Dagens Nyheter
 - USA trappar upp ICE-räder – Mexiko rasar - Västerbottens-Kuriren
-- Demonstranter i Kiev: Riv upp beslutet om Fedorov - Göteborgs-Posten
-- Karl Dalén: Trump pressar kongressen att ändra vallagarna - Dagens Nyheter
-- Andy Burnham vald till ny Labourledare - Dagens Nyheter
 - Nvidias vd:s läderjacka såldes för nästan en miljon dollar - Yle
-- Kina tar täten för global kontroll av AI - Dagens Nyheter
-- CAE och Saab tecknar avsiktsförklaring om Gripen-träning i Kanada - Investing.com Sverige
+- Avtal klart om irakisk oljeledning till Medelhavet - Aftonbladet
+- Senator i USA: Meta vill förgöra visselblåsare - Dagens PS
 - Oregelbundet på Stockholmsbörsen på rapportintensiv fredag, OMXS30-index ned 0,1 procent (Finwire News) - Aktiellt
+- Atmosfär har upptäckts på jordliknande planet - Omni – Alla nyheter. Alla perspektiv.
 - Socker hittat i gasmoln – i rymden - Svenska Dagbladet
-- Nya spel och remasters är på gång - Feber
 
 ## World News
 
@@ -43,32 +43,32 @@ _Updated: 2026-07-18 11:57_
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
