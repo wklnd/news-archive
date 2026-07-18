@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-18 03:03_
+_Updated: 2026-07-18 06:31_
 
-- FactChecking Trump’s Election Security Speech - FactCheck.org
-- Trump says US being 'invaded by filthy air' as he threatens Canada with tariffs over wildfires - BBC
-- Trump’s Homeland Security Chief Threatens Election Officials With Prison Time - The New York Times
+- Trump says China seized 220 million voter files. What the documents say - USA Today
+- Trump wants to impose tariffs on Canada in retaliation for wildfire smoke - The Washington Post
 - Trump’s threats to revoke TV licenses get serious - Politico
-- Airlines warn changing daylight saving time would disrupt scheduling - Fox Business
-- US launches seventh straight night of strikes on Iran - Al Jazeera
-- Wisconsin Lt. Gov. Sara Rodriguez drops out of the governor’s race - NBC News
-- Trump urges Darline Graham to run for full Senate term as funeral scheduled for Lindsey Graham - AP News
-- Wildfire smoke will linger and spread this weekend. See which cities are most affected. - The Washington Post
-- Ex-wife says ICE agent who killed man in Maine had racist beliefs, violent tendencies - NPR
-- Burnham Becomes Labour Leader and Britain’s Incoming Prime Minister - The New York Times
+- Time enough at last: What's next after the House passes bill to do away with Daylight Saving Time? - Fox News
+- Maps show wildfire smoke forecast as air quality worsens in Pittsburgh area - CBS News
+- Trump DHS using unverified figures to attack election officials on non-citizen voting - CNN
+- Sacramento County woman identified as 2nd of 4 victims in deadly boat incident in San Francisco Bay - KCRA
+- Feeding Our Future fraud ring's alleged No. 2 appears in court after Somalia arrest - CBS News
+- Estimated 480 billion gallons of rain fell for parts of Hill Country between July 13 and July 17 - KSAT
+- Trump Endorses Graham for Senate, Scrambling South Carolina Primary - The New York Times
 - A 7.3 earthquake hits Mexico-Guatemala border with no immediate damage reported - AP News
-- Venezuela Earthquakes Force a Grim Homecoming for Migrants - The New York Times
-- Ukrainian soldiers criticise removal of popular defence minister - BBC
-- Lettuce Grower Taylor Farms to Pull Parasite-Linked Products - Bloomberg.com
+- US launches seventh night of Iran strikes as Hormuz conflict escalates - The Guardian
+- Andy Burnham to become U.K.'s prime minister Monday after being declared Labour Party leader - CBS News
+- Iranian strike damages a Kuwait desalination plant, exposing water vulnerability in dry Mideast - AP News
+- Taylor Farms to launch recall after iceberg lettuce is tied to outbreak - The Washington Post
 - Wall St ends lower for the day and week as chip selloff broadens - Reuters
-- Trump Media to sell Wall Street access to market-moving Truth Social posts - MS NOW
 - China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic - BBC
-- Marketing images of Galaxy Z Fold 8 photos leak right before Galaxy Unpacked [Gallery] - 9to5Google
-- Shark’s versatile ChillPill cooling system is back to its best price - The Verge
+- Trump Media to sell Wall Street access to market-moving Truth Social posts - MS NOW
+- Siri AI vs. Old Siri on Apple Watch: It Wasn't Even Close - CNET
+- Samsung's Freestyle+ Projector Is Now Available For $1,200 - Engadget
