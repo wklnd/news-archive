@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-18 01:24_
+_Updated: 2026-07-18 02:56_
 
 ## Top Stories
 
 - Flera radhus i lågor – storbrand utanför Oslo - Göteborgs-Posten
-- Nya attacker mot Iran – sjunde natten – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Liberalernas valstuga ska servera alkohol – får kritik - TV4 Nyheterna
-- Putinkritikern Garry Kasparov: Nästa mål är Baltikum - Expressen
-- Mordet på Hawaii: ”Bråk på sociala medier eskalerade” - Aftonbladet
+- Två tankfartyg brinner i Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- DN Direkt – Fjärde person häktad för mord på badplats - Dagens Nyheter
 - Trots Trumps valsågning – inga nyheter i släppta dokument - SVT Nyheter
-- Påhittade frågor sprids inför medborgarskapsprov - Nya Wermlands-Tidningen
+- Dog i hjärtattack på Disney World - Expressen
+- Demonstranter i Kiev: Riv upp beslutet om Fedorov - Göteborgs-Posten
 - Storm och översvämningar – SMHI varnar - TV4 Nyheterna
+- Påhittade frågor sprids inför medborgarskapsprov - Nya Wermlands-Tidningen
+- Förslag: EU lättar på utsläppskraven – styr om klimatpengar till industrin - Europaportalen
 - DN Direkt – SMHI varnar för skyfall i helgen - Dagens Nyheter
-- Två män hittade döda i Härjedalen - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Iran: Tankfartyg brinner i Hormuz - Dagens Nyheter
+- Iran: Tankfartyg brinner i Hormuz - Aftonbladet
+- Dödstalet efter skalven i Venezuela passerar 5 000 - Göteborgs-Posten
 - Flera dödade i ryska attacker - Västerbottens-Kuriren
-- Michael Winiarski: Petandet av Fedorov ses som seger för Putin - Dagens Nyheter
 - DN Direkt – Andy Burnham vald till partiledare för Labour - Dagens Nyheter
+- Analytikern: Därför faller Skanska - EFN
 - Saab förbereder möjlig Gripenaffär i Kanada - corren.se
 - Oregelbundet på Stockholmsbörsen på rapportintensiv fredag, OMXS30-index ned 0,1 procent (Finwire News) - Aktiellt
 - Skogman slutar med börsen – 12 kronor avgjorde - Dagens industri
-- Wall Street tyngdes av AI och olja - Aftonbladet
+- PlayStation kan komma att använda bots för att motverka protesterna mot att fysiska PS5-skivor fasas ut - notebookcheck.se
 - Fortnite får AI-röster - Aftonbladet
-- Microsoft använder AI-verktyg för att hitta sårbarheter - PC för Alla
 
 ## World News
 
@@ -32,6 +32,7 @@ _Updated: 2026-07-18 01:24_
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
@@ -42,11 +43,10 @@ _Updated: 2026-07-18 01:24_
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -80,6 +80,7 @@ _Updated: 2026-07-18 01:24_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -92,7 +93,6 @@ _Updated: 2026-07-18 01:24_
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 
 ## Health
 
@@ -105,16 +105,16 @@ _Updated: 2026-07-18 01:24_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Vi presenterar HealthBench - OpenAI
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
@@ -143,6 +143,7 @@ _Updated: 2026-07-18 01:24_
 ## Jordbruk
 
 - Genom att odla ekologiskt ris under sommar-höstskörden 2026 kommer jordbrukare i An Giang-provinsen att tjäna ytterligare 11 miljoner VND per hektar. - Vietnam.vn
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
@@ -152,12 +153,11 @@ _Updated: 2026-07-18 01:24_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
