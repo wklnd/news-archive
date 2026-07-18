@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-18 23:24_
+_Updated: 2026-07-19 00:23_
 
 ## Top Stories
 
-- DN Direkt – Norska polisen om branden: Inget misstänkt - Dagens Nyheter
-- Regnoväder drar in – SMHI varnar för skyfall - Expressen
-- Finland spärrade av efter dödliga anfall i Ryssland - Västerbottens-Kuriren
+- Se bilder: ”Ser ut som en krigszon” - Hufvudstadsbladet – HBL
+- Direkt – Kriget i Ukraina – Ryssland: Lagerarbetare dödade i anfall - Dagens Nyheter
 - Ungerns president villig att avsätta sig själv - Göteborgs-Posten
-- Direkt – Kriget i Ukraina – Zelenskyj i samtal med petade ministern - Dagens Nyheter
-- Två amerikanska soldater dödade i iransk attack - Aftonbladet
-- DN Direkt – Bråk på sociala medier före mord på badplats - Dagens Nyheter
+- Familj dödad i israelisk attack i Gaza - Västerbottens-Kuriren
+- Man påkörd av A-traktor – förd till sjukhus - Sveriges Radio
+- Iran: Inte längre del av ramavtal med USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- SMHI skärper varning för skyfall – Polisen: "Kan sluta illa" - NT
 - Man hittad död efter fisketur i Pajala - Västerbottens-Kuriren
-- Kronocamping i Lidköping översvämmad efter oväder - Sveriges Radio
-- Tak har rasat in på Torp köpcentrum i Uddevalla - Göteborgs-Posten
+- Fjärde person häktad efter knivmord på badplats - Göteborgs-Posten
+- Översvämningar i södra Sverige - Expressen
 - Direkt – Krisen i Mellanöstern – Israelisk minister vill att krokodiler ska vakta fängelser - Dagens Nyheter
-- Familj dödad i israelisk attack i Gaza - Aftonbladet
+- Två amerikanska soldater dödade i iransk attack - Folkbladet
+- Direkt – Kriget i Ukraina – Zelenskyj i samtal med petade ministern - Dagens Nyheter
 - Efter skottlossningen i Ålborg: Mannen erkänner - Aftonbladet
-- Karl Dalén: Trump pressar kongressen att ändra vallagarna - Dagens Nyheter
 - Whiskyboomen är över – historisk nedgång - Svenska Dagbladet
-- Nvidias vd:s läderjacka såldes för nästan en miljon dollar - Yle
 - Oregelbundet på Stockholmsbörsen på rapportintensiv fredag, OMXS30-index ned 0,1 procent (Finwire News) - Aktiellt
+- DN Direkt – Nvidias vd:s jacka såld för jättesumma - Dagens Nyheter
 - Vattenfall-vd anar höga elpriser i vinter - Folkbladet
 - Finns förutsättning för liv: ”Är vi ensamma?” - Svenska Dagbladet
 - Socker hittat i gasmoln – i rymden - Nerikes Allehanda
@@ -120,24 +120,24 @@ _Updated: 2026-07-18 23:24_
 ## Science
 
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
+- Implementering av resolution 57 genom ett avancerat produktionsforskningscenter. - Vietnam.vn
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Olika slutsatser från samma data - Läkartidningen
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
