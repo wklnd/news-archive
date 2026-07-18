@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-18 06:31_
+_Updated: 2026-07-18 08:32_
 
-- Trump says China seized 220 million voter files. What the documents say - USA Today
-- Trump wants to impose tariffs on Canada in retaliation for wildfire smoke - The Washington Post
-- Trump’s threats to revoke TV licenses get serious - Politico
+- Trump spares Beijing in probe of alleged Chinese election plot - Politico
+- Wildfire smoke will linger and spread this weekend. See which cities are most affected. - The Washington Post
+- US launches seventh straight night of strikes on Iran - Al Jazeera
+- What to know about the Trump administration's claim that 250K non-citizens are registered to vote in 4 states - CBS News
 - Time enough at last: What's next after the House passes bill to do away with Daylight Saving Time? - Fox News
-- Maps show wildfire smoke forecast as air quality worsens in Pittsburgh area - CBS News
-- Trump DHS using unverified figures to attack election officials on non-citizen voting - CNN
+- Carville criticizes CNN, ABC, NBC for not airing Trump speech - The Hill
+- Milwaukee County Executive David Crowley rejoins governor's race - WISN
 - Sacramento County woman identified as 2nd of 4 victims in deadly boat incident in San Francisco Bay - KCRA
-- Feeding Our Future fraud ring's alleged No. 2 appears in court after Somalia arrest - CBS News
-- Estimated 480 billion gallons of rain fell for parts of Hill Country between July 13 and July 17 - KSAT
-- Trump Endorses Graham for Senate, Scrambling South Carolina Primary - The New York Times
+- Trump urges Darline Graham to run for full Senate term as funeral scheduled for Lindsey Graham - AP News
+- Paul Pelosi Charged With Hit-and-Run in Napa Valley Crash - The New York Times
 - A 7.3 earthquake hits Mexico-Guatemala border with no immediate damage reported - AP News
-- US launches seventh night of Iran strikes as Hormuz conflict escalates - The Guardian
 - Andy Burnham to become U.K.'s prime minister Monday after being declared Labour Party leader - CBS News
 - Iranian strike damages a Kuwait desalination plant, exposing water vulnerability in dry Mideast - AP News
+- Ukrainian soldiers criticise removal of popular defence minister - BBC
 - Taylor Farms to launch recall after iceberg lettuce is tied to outbreak - The Washington Post
+- China’s Powerful New Moonshot AI Model Closes Gap With US Rivals - Bloomberg.com
 - Wall St ends lower for the day and week as chip selloff broadens - Reuters
-- China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic - BBC
-- Trump Media to sell Wall Street access to market-moving Truth Social posts - MS NOW
+- FAA says Boeing can resume self-certifying its jets as airworthy - AP News
 - Siri AI vs. Old Siri on Apple Watch: It Wasn't Even Close - CNET
-- Samsung's Freestyle+ Projector Is Now Available For $1,200 - Engadget
+- Obviously, Bethesda Is Remastering ‘Fallout: New Vegas’ and ‘Fallout 3’ - Gizmodo
