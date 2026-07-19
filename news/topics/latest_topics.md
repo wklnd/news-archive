@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-19 17:31_
+_Updated: 2026-07-19 18:27_
 
 ## Top Stories
 
-- Olycka tros ligga bakom den norska branden - Göteborgs-Posten
-- SMHI: Gul varning för skyfall i delar av Halland - SVT Nyheter
+- Olycka tros ligga bakom den norska branden - Corren
+- Massiv rysk attack mot Kiev under natten - Dagens Nyheter
+- Inställda avgångar över Öresundsbron - Aftonbladet
+- Så blir vädret i veckan: ”Ingen högsommarvärme” - Borås Tidning
 - Bill Pultes skräck inför talet: Hade utsatt tjänstemän för livsfara - Expressen
-- Sandra Stiskalo: Andy Burnham vill bli älskad av alla – men folkets kärlek kan bli kortvarig - Dagens Nyheter
 - Efter misstänkta våldtäkten på Värnhemstorget – man gripen - Sveriges Radio
-- Spårarbete på Öresundsbron drar ut på tiden – få avgångar skapar trängsel - Sydsvenskan
 - Lista: 22 trädgårds- och lantkaféer att besöka i Sverige - Dagens Nyheter
+- Flera bilar i krock på E6 i Varberg och Slöinge - SVT Nyheter
 - Just nu: Stopp i ett körfält på grund av en stillastående fordon på E4 - UNT
-- Man anhållen misstänkt för försök till grov mordbrand - SVT Nyheter
-- DN Direkt – Två personer anhållna för mordförsök efter att man föll från balkong - Dagens Nyheter
+- Polisinsats i centrum efter nytt attentat: "Vi är på helspänn" - NT
 - Fem döda i jordskalv i Peru - Göteborgs-Posten
-- Ukraina: Krigets största robotattack mot Kiev - Hufvudstadsbladet – HBL
 - USA och Iran i nya anfall: ”Snabbt straff” - Corren
-- Israel skyndar på planer för nya bosättningar - Dagens Nyheter
+- Sandra Stiskalo: Andy Burnham vill bli älskad av alla – men folkets kärlek kan bli kortvarig - Dagens Nyheter
+- Tyskland vill ändra regler för söndagsöppet - Sveriges Radio
 - Presidentval: Tillgänglig men "inte redo" - Dagens PS
 - Kinesisk AI-teknik utmanar apparna: ”Allas dröm” - Aftonbladet
 - INSÄNDARE: Replik: Vindkraft såklart och ölservering - Strengnäs Tidning
 - Veckan som kommer: Räntebesked från ECB och Alphabet rapporterar - Dagens industri
-- Socker hittat i gasmoln – i rymden - Aftonbladet
-- Spel på skivor är de bästa fysiska spelen. - FZ.se
+- Socker hittat i gasmoln – i rymden - Hufvudstadsbladet – HBL
+- Apple och Google tvingas ta ner appar för AI-nakenbilder - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
@@ -54,9 +54,9 @@ _Updated: 2026-07-19 17:31_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -65,9 +65,9 @@ _Updated: 2026-07-19 17:31_
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 
