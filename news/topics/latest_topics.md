@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-19 19:31_
+_Updated: 2026-07-19 20:29_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Två döda i Zaporizjzja - Dagens Nyheter
-- Olycka tros ligga bakom den norska branden - Corren
+- Direkt – Kriget i Ukraina – Zelenskyj: ”Viktiga samtal” med militärtoppar - Dagens Nyheter
 - Inställda avgångar över Öresundsbron - Aftonbladet
 - Nya fynd i gruvhålet i Norberg – mordutredning pågår - Expressen
-- Så blir vädret i veckan: ”Ingen högsommarvärme” - Borås Tidning
-- Fullt utvecklad brand i radhus – polisen misstänker brott - Sveriges Radio
-- Lista: 22 trädgårds- och lantkaféer att besöka i Sverige - Dagens Nyheter
+- Rådet till Kristersson: Släpp kollektivtrafiken - Svenska Dagbladet
+- Olycka tros ligga bakom den norska branden - Corren
+- Efter dödsskjutningarna – Trumps ”gränstsar” öppnar för kroppskameror - Omni – Alla nyheter. Alla perspektiv.
+- SMHI: Gul varning för skyfall i delar av Halland - SVT Nyheter
 - Stillastående personbil ger ett körfält blockerat på E4 - Corren
-- En gripen efter misstänkt våldtäkt i Malmö - Göteborgs-Posten
-- Man svårt skadad efter högt fall – två gripna - Västerbottens-Kuriren
+- DN Direkt – Man gripen efter misstänkt våldtäkt i Malmö - Dagens Nyheter
+- Flera bilar i krock på E6 i Varberg och Slöinge - SVT Nyheter
+- Många döda i monsunregn i Indien - Göteborgs-Posten
 - USA och Iran i nya anfall: ”Snabbt straff” - Hufvudstadsbladet – HBL
 - YLVA NILSSON: Trump varnar för Kina, gör samma sak i Europa - Expressen
-- Efter dödsskjutningarna – Trumps ”gränstsar” öppnar för kroppskameror - Omni – Alla nyheter. Alla perspektiv.
-- Dödstalet fortsätter stiga i Venezuela - Göteborgs-Posten
-- Presidentval: Tillgänglig men "inte redo" - Dagens PS
+- Venezuela hotas av ny katastrof efter jordbävningarna - Dagens Nyheter
 - Kinesisk AI-teknik utmanar apparna: ”Allas dröm” - Aftonbladet
 - INSÄNDARE: Replik: Vindkraft såklart och ölservering - Strengnäs Tidning
 - Veckan som kommer: Räntebesked från ECB och Alphabet rapporterar - Dagens industri
+- Glädjebeskedet i katastrofen: Bella är funnen vid liv - Aftonbladet
 - Socker hittat i gasmoln – i rymden - Hufvudstadsbladet – HBL
 - Apple och Google tvingas ta ner appar för AI-nakenbilder - Omni – Alla nyheter. Alla perspektiv.
 
@@ -29,12 +29,12 @@ _Updated: 2026-07-19 19:31_
 
 - Kina tar täten för global kontroll av AI - Dagens Nyheter
 - Saab: Vi behöver tillverka fler Global Eye - Omni – Alla nyheter. Alla perspektiv.
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
@@ -43,10 +43,10 @@ _Updated: 2026-07-19 19:31_
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
