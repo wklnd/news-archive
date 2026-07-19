@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-19 13:36_
+_Updated: 2026-07-19 16:01_
 
 ## Top Stories
 
-- Paus för brandmännen i Drammen: ”Gynnsamt väder” - Hufvudstadsbladet – HBL
-- Massiv rysk attack mot Kiev under natten - Dagens Nyheter
-- Paasikivi: Därför attackerar Ukraina rysk infrastruktur - TV4 Nyheterna
-- ”Helveteslarven” dammsugs och bränns i Köpenhamn - Aftonbladet
-- Blottade hemliga ”Opus Dei” – då ringde påven - Svenska Dagbladet
+- Olycka tros ligga bakom den norska branden - Göteborgs-Posten
+- Sandra Stiskalo: Andy Burnham vill bli älskad av alla – men folkets kärlek kan bli kortvarig - Dagens Nyheter
+- Fortsatta skyfall – gul varning utfärdad - Aftonbladet
+- Bill Pultes skräck: Skulle utsatt tjänstemän för livsfara - Expressen
+- Totalstopp på E6 efter olycka - Omni – Alla nyheter. Alla perspektiv.
+- Efter misstänkta våldtäkten på Värnhemstorget – man gripen - Sveriges Radio
+- Lista: 22 trädgårds- och lantkaféer att besöka i Sverige - Dagens Nyheter
+- Man död efter trafikolycka i Mellbystrand - Göteborgs-Posten
 - De bor i Vårbergs kaoshus: ”Folk förtjänar bättre än det här” - Dagens Nyheter
-- Bil körde genom trädgårdar och in i hus i Mellbystrand – förare omkom - SVT Nyheter
-- Stormskyddet stärks – AI och fruktad insekt i fokus - Nya Wermlands-Tidningen
-- Fortsatta skyfall – gul varning utfärdad - Västerbottens-Kuriren
-- DN Direkt – Två personer anhållna för mordförsök efter att man föll från balkong - Dagens Nyheter
-- USA och Iran i nya anfall: ”Snabbt straff” - Corren
+- Brand i radhuslänga i Norsborg – misstänks vara anlagd - SVT Nyheter
+- Ukraina: Krigets största robotattack mot Kiev - Hufvudstadsbladet – HBL
+- Tyskland vill ändra regler för söndagsöppet - Sveriges Radio
+- USA och Iran i nya anfall: ”Snabbt straff” - Göteborgs-Posten
 - Dna-test avslöjade missen – förväxlades på BB för 38 år sedan - Dagens Nyheter
-- Dödstalet fortsätter stiga i Venezuela - Göteborgs-Posten
-- Ungerns president villig att avsätta sig själv - Aftonbladet
-- Bolånen viker – här är bankernas nya vinstmotor - Dagens industri
 - Presidentval: Tillgänglig men "inte redo" - Dagens PS
-- Bank avslöjar miljonlöner till Foodora-bud - Dagens PS
+- Bolånen viker – här är bankernas nya vinstmotor - Svenska Dagbladet
 - Kinesisk AI-teknik utmanar apparna: ”Allas dröm” - Aftonbladet
-- Spel på skivor är de bästa fysiska spelen. - FZ.se
+- INSÄNDARE: Replik: Vindkraft såklart och ölservering - Strengnäs Tidning
 - Socker hittat i gasmoln – i rymden - Aftonbladet
+- Spel på skivor är de bästa fysiska spelen. - FZ.se
 
 ## World News
 
 - Kina tar täten för global kontroll av AI - Dagens Nyheter
 - Saab: Vi behöver tillverka fler Global Eye - Omni – Alla nyheter. Alla perspektiv.
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- Kina går för första gången om USA i global opinionsmätning - Dagens Nyheter
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
@@ -58,16 +58,16 @@ _Updated: 2026-07-19 13:36_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
-- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 
@@ -101,6 +101,7 @@ _Updated: 2026-07-19 13:36_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Sju life science-trender 2026 - Business Region Göteborg
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
@@ -108,37 +109,36 @@ _Updated: 2026-07-19 13:36_
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 
 ## Science
 
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Olika slutsatser från samma data - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
