@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-19 23:25_
+_Updated: 2026-07-20 00:26_
 
 ## Top Stories
 
-- Man skjuten av polis i Sandviken - Aftonbladet
+- Fotbolls-VM live: Vilka får lyfta VM-bucklan? Nu gör Argentina och Spanien upp om guldet - Yle
+- Det vet vi om branden i Krokstadelva i Drammen - Göteborgs-Posten
 - Minst fem döda i rysk attack mot fraktfartyg - Sveriges Radio
+- Man skjuten av polis i Sandviken - Aftonbladet
 - Ukraina sköt ner tunga robotar i anfallet mot Kiev: ”Fått leverans” - Dagens Nyheter
-- Olycka tros ligga bakom den norska branden - Corren
-- Israel hotar Iran med vedergällningsattacker - Göteborgs-Posten
-- Sommarvärmen förbi – ingen ny värmebölja i sikte - Expressen
+- USA och Iran i nya anfall: ”Snabbt straff” - Corren
+- SMHI: Gul varning för skyfall i delar av Halland - SVT Nyheter
 - Stillastående personbil ger ett körfält blockerat på E4 - Corren
 - DN Direkt – Man gripen efter misstänkt våldtäkt i Malmö - Dagens Nyheter
 - Inställda avgångar över Öresundsbron - Västerbottens-Kuriren
-- Radhusbrand i Botkyrka – misstänks vara anlagd - Göteborgs-Posten
-- DN Direkt – Många döda i monsunregn i Indien - Dagens Nyheter
-- Svensk man ihjälkörd på Mallorca - Folkbladet
+- Många döda i monsunregn i Indien - Göteborgs-Posten
+- DN Direkt – Explosion vid radhus i Södertälje - Dagens Nyheter
 - Direkt – Kriget i Ukraina – Zelenskyj: ”Viktiga samtal” med militärtoppar - Dagens Nyheter
-- Efter dödsskjutningarna – Trumps ”gränstsar” öppnar för kroppskameror - Omni – Alla nyheter. Alla perspektiv.
+- Svensk man ihjälkörd på Mallorca - Västerbottens-Kuriren
 - Kinesisk AI-teknik utmanar apparna: ”Allas dröm” - Aftonbladet
 - Centern vill öppna snabbspår för stoppade vindkraftsparker - Omni – Alla nyheter. Alla perspektiv.
 - Veckan som kommer: Räntebesked från ECB och Alphabet rapporterar - Dagens industri
 - Mips rusar och Wallenbergs bjässe backar - Affärsvärlden
 - Socker hittat i gasmoln – i rymden - Hufvudstadsbladet – HBL
-- GameStops VD: Sonys beslut att sluta med PlayStation-skivor är ”irrelevant” - notebookcheck.se
+- Apple och Google tvingas ta ner appar för AI-nakenbilder - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
