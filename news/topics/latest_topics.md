@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-20 00:26_
+_Updated: 2026-07-20 01:29_
 
 ## Top Stories
 
-- Fotbolls-VM live: Vilka får lyfta VM-bucklan? Nu gör Argentina och Spanien upp om guldet - Yle
-- Det vet vi om branden i Krokstadelva i Drammen - Göteborgs-Posten
-- Minst fem döda i rysk attack mot fraktfartyg - Sveriges Radio
+- Johanna Frändén: Spanien är VM-segraren som ingen kan ifrågasätta - Dagens Nyheter
+- Norska förbundet ställer upp för drabbade i Drammen - Västerbottens-Kuriren
+- Ukraina: Dödlig rysk attack mot fraktfartyg - Folkbladet
 - Man skjuten av polis i Sandviken - Aftonbladet
-- Ukraina sköt ner tunga robotar i anfallet mot Kiev: ”Fått leverans” - Dagens Nyheter
-- USA och Iran i nya anfall: ”Snabbt straff” - Corren
+- Ryska robotangrepp mot Kiev – flera explosioner - Corren
+- Israel hotar Iran med vedergällningsattacker - Göteborgs-Posten
 - SMHI: Gul varning för skyfall i delar av Halland - SVT Nyheter
 - Stillastående personbil ger ett körfält blockerat på E4 - Corren
-- DN Direkt – Man gripen efter misstänkt våldtäkt i Malmö - Dagens Nyheter
+- En gripen efter misstänkt våldtäkt i Malmö - Göteborgs-Posten
 - Inställda avgångar över Öresundsbron - Västerbottens-Kuriren
 - Många döda i monsunregn i Indien - Göteborgs-Posten
-- DN Direkt – Explosion vid radhus i Södertälje - Dagens Nyheter
+- Hundratals förgiftade – epidemi utlyst - Sydsvenskan
 - Direkt – Kriget i Ukraina – Zelenskyj: ”Viktiga samtal” med militärtoppar - Dagens Nyheter
-- Svensk man ihjälkörd på Mallorca - Västerbottens-Kuriren
+- Skogsbrand rasar norr om Madrid - Göteborgs-Posten
 - Kinesisk AI-teknik utmanar apparna: ”Allas dröm” - Aftonbladet
 - Centern vill öppna snabbspår för stoppade vindkraftsparker - Omni – Alla nyheter. Alla perspektiv.
 - Veckan som kommer: Räntebesked från ECB och Alphabet rapporterar - Dagens industri
@@ -61,15 +61,15 @@ _Updated: 2026-07-20 00:26_
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
 
@@ -125,20 +125,20 @@ _Updated: 2026-07-20 00:26_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - 5 myter om öppen vetenskap - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Simple math behind major bison blunder - Forskning & Framsteg
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 
 ## Jordbruk
 
@@ -161,4 +161,4 @@ _Updated: 2026-07-20 00:26_
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Hellre plöjningsfri odling än ekologisk - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
