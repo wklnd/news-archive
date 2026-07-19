@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-19 01:27_
+_Updated: 2026-07-19 03:01_
 
 ## Top Stories
 
-- DN Direkt – Polis i Drammen: ”Håll er borta från det eldhärjade området” - Dagens Nyheter
-- Direkt – Kriget i Ukraina – Ryssland stärker försvar av skuggflotta - Dagens Nyheter
+- Se bilder: ”Ser ut som en krigszon” - Hufvudstadsbladet – HBL
+- Direkt – Kriget i Ukraina – Ryssland: Lagerarbetare dödade i anfall - Dagens Nyheter
 - Ungerns president villig att avsätta sig själv - Göteborgs-Posten
 - Efter dödsfallen – USA anfaller på nytt – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- SMHI varnar för skyfall: ”Matar på” - Expressen
-- Man påkörd av A-traktor – förd till sjukhus - Sveriges Radio
+- Regnoväder i Östergötland – översvämningar i Norrköping - Sveriges Radio
+- Ryska robotangrepp mot Kiev – flera explosioner - Västerbottens-Kuriren
 - Fler unga vill fågelskåda: ”Det är supercoolt” - Västerbottens-Kuriren
-- DN Direkt – Man hittad död efter fisketur i Pajala - Dagens Nyheter
-- Fjärde person häktad efter knivmord på badplats - Göteborgs-Posten
-- Kronocamping i Lidköping översvämmad efter oväder - Sveriges Radio
+- DN Direkt – Bråk på sociala medier före mord på badplats - Dagens Nyheter
+- Försvann efter fisketur – man hittad död i Tärendöälven - Norran
+- ”Gothia-tåg” fast i tre timmar – toaletter trasiga - Expressen
 - Direkt – Krisen i Mellanöstern – Israelisk minister vill att krokodiler ska vakta fängelser - Dagens Nyheter
-- Nattliga explosioner i Kiev - Västerbottens-Kuriren
 - Två amerikanska soldater dödade i iransk attack - Göteborgs-Posten
-- Familj dödad i israelisk attack i Gaza - Aftonbladet
+- Zelenskyj i samtal med petade försvarsministern - Västerbottens-Kuriren
+- Venezuela hotas av ny katastrof efter jordbävningarna - Dagens Nyheter
 - Whiskyboomen är över – historisk nedgång - Svenska Dagbladet
 - Oregelbundet på Stockholmsbörsen på rapportintensiv fredag, OMXS30-index ned 0,1 procent (Finwire News) - Aktiellt
 - Vattenfall-vd anar höga elpriser i vinter - Folkbladet
-- Telia ökar vinsten – miljardlyft jämfört med fjolåret - Börskollen
-- Finns förutsättning för liv: ”Är vi ensamma?” - Svenska Dagbladet
+- Skogkär: Vindkraften kräver konstgjord andning - Bulletin
 - Socker hittat i gasmoln – i rymden - Aftonbladet
+- Finns förutsättning för liv: ”Är vi ensamma?” - Svenska Dagbladet
 
 ## World News
 
@@ -37,16 +37,16 @@ _Updated: 2026-07-19 01:27_
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Kina går för första gången om USA i global opinionsmätning - Dagens Nyheter
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -75,8 +75,8 @@ _Updated: 2026-07-19 01:27_
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -84,6 +84,7 @@ _Updated: 2026-07-19 01:27_
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2026-07-19 01:27_
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -120,24 +120,24 @@ _Updated: 2026-07-19 01:27_
 ## Science
 
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
-- Implementering av resolution 57 genom ett avancerat produktionsforskningscenter. - Vietnam.vn
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Olika slutsatser från samma data - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
