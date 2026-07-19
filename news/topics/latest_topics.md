@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-19 16:01_
+_Updated: 2026-07-19 17:31_
 
 ## Top Stories
 
 - Olycka tros ligga bakom den norska branden - Göteborgs-Posten
+- SMHI: Gul varning för skyfall i delar av Halland - SVT Nyheter
+- Bill Pultes skräck inför talet: Hade utsatt tjänstemän för livsfara - Expressen
 - Sandra Stiskalo: Andy Burnham vill bli älskad av alla – men folkets kärlek kan bli kortvarig - Dagens Nyheter
-- Fortsatta skyfall – gul varning utfärdad - Aftonbladet
-- Bill Pultes skräck: Skulle utsatt tjänstemän för livsfara - Expressen
-- Totalstopp på E6 efter olycka - Omni – Alla nyheter. Alla perspektiv.
 - Efter misstänkta våldtäkten på Värnhemstorget – man gripen - Sveriges Radio
+- Spårarbete på Öresundsbron drar ut på tiden – få avgångar skapar trängsel - Sydsvenskan
 - Lista: 22 trädgårds- och lantkaféer att besöka i Sverige - Dagens Nyheter
-- Man död efter trafikolycka i Mellbystrand - Göteborgs-Posten
-- De bor i Vårbergs kaoshus: ”Folk förtjänar bättre än det här” - Dagens Nyheter
-- Brand i radhuslänga i Norsborg – misstänks vara anlagd - SVT Nyheter
+- Just nu: Stopp i ett körfält på grund av en stillastående fordon på E4 - UNT
+- Man anhållen misstänkt för försök till grov mordbrand - SVT Nyheter
+- DN Direkt – Två personer anhållna för mordförsök efter att man föll från balkong - Dagens Nyheter
+- Fem döda i jordskalv i Peru - Göteborgs-Posten
 - Ukraina: Krigets största robotattack mot Kiev - Hufvudstadsbladet – HBL
-- Tyskland vill ändra regler för söndagsöppet - Sveriges Radio
-- USA och Iran i nya anfall: ”Snabbt straff” - Göteborgs-Posten
-- Dna-test avslöjade missen – förväxlades på BB för 38 år sedan - Dagens Nyheter
+- USA och Iran i nya anfall: ”Snabbt straff” - Corren
+- Israel skyndar på planer för nya bosättningar - Dagens Nyheter
 - Presidentval: Tillgänglig men "inte redo" - Dagens PS
-- Bolånen viker – här är bankernas nya vinstmotor - Svenska Dagbladet
 - Kinesisk AI-teknik utmanar apparna: ”Allas dröm” - Aftonbladet
 - INSÄNDARE: Replik: Vindkraft såklart och ölservering - Strengnäs Tidning
+- Veckan som kommer: Räntebesked från ECB och Alphabet rapporterar - Dagens industri
 - Socker hittat i gasmoln – i rymden - Aftonbladet
 - Spel på skivor är de bästa fysiska spelen. - FZ.se
 
@@ -54,9 +54,9 @@ _Updated: 2026-07-19 16:01_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -65,9 +65,9 @@ _Updated: 2026-07-19 16:01_
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 
@@ -147,16 +147,16 @@ _Updated: 2026-07-19 16:01_
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
