@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-19 09:47_
+_Updated: 2026-07-19 12:13_
 
-- U.S. strikes Iran after 2 service members killed, 1 missing in attack on Jordan base - The Washington Post
+- Two U.S. service members killed in Jordan and another is missing after Iranian strikes, military says - NBC News
 - Tate brothers arrested in Miami as UK adds rape, trafficking charges - Al Jazeera
-- U.S. Strikes Leave Iranians Isolated and Scared - The New York Times
-- Ukraine war briefing: Strikes devastate Russian warehouses ‘used for drones’ - The Guardian
-- ICE officer connected to fatal Maine shooting suffered 2021 head injury, which he said had left him with ‘cognitive deficits’ - CNN
-- NYC weather: Storms start to exit but downpour risks remain; air quality to improve | Live updates - ABC7 New York
+- ICE officer’s troubled past renews questions about vetting - The Washington Post
+- NYC weather: Storms exit after flash flooding; air quality improves | Live updates - ABC7 New York
+- Maine Democrats Take Step Toward New Senate Pick, With Jolt of Momentum for Jackson - The New York Times
+- Ukraine Escalates Air War With Deadly Strikes on Russia’s ‘Amazon’ - WSJ
 - Nolan Wells Not First Person to Drown Off Horn Island Coast, Local Says - TMZ
-- Where Wildfire Smoke Remains—And What To Do About It - Forbes
-- Rep. Ralph Norman launches campaign to replace Lindsey Graham in Senate race - NBC News
 - Trump election speech divides a GOP wary of midterms - The Hill
-- Ukraine’s Top General Becomes a Target of Protesters’ Anger - The New York Times
+- Where Wildfire Smoke Remains—And What To Do About It - Forbes
+- 4 Seattle teens arrested after NE Portland gas station shooting, linked to more crimes - KATU
+- Russia unleashes one of biggest ballistic missile attacks of the Ukraine war, Kyiv says - CNN
+- Zelenskyy May Fire Commander Syrskyi After Protests, FT Reports - Bloomberg.com
 - Delayed orders, confusion slowed Venezuelan military's response to quakes, sources say - Reuters
-- Can Burnham's casual style survive contact with No 10? - BBC
-- Ukraine war live: Russia’s largest online retailer targeted in deadly strike - The Independent
+- Hungary's president signs amendment ending his own term - DW.com
 - Taylor Farms lettuce sample tests positive for Cyclospora as recall expands - Fox Business
-- The Justice Department Is Pulling Back on Prosecuting Corporate Crime - WSJ
-- 'It's in no man's land': What Wall Street is saying about Netflix's big miss - Yahoo Finance
+- Trump Media pitched $100,000 monthly fee for fastest feed of U.S. president's posts, sources say - CNBC
 - SpaceX targets next week for another Starship launch attempt as shares slide on abort - Reuters
+- How your AC will and won't protect you from NYC's gnarly smoke-filled air - Gothamist
 - Google might not kneecap the Pixel 11a with an old processor - The Verge
-- Google is open-sourcing its 3D emoji - The Verge
+- OnePlus Exit Means Fewer Options in a Market Mired by Lack of Choice - PetaPixel
