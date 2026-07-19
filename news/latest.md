@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-19 03:09_
+_Updated: 2026-07-19 06:54_
 
 - U.S. strikes Iran after 2 service members killed, 1 missing in attack on Jordan base - The Washington Post
-- U.S. Strikes Leave Iranians Isolated and Scared - The New York Times
-- The Tate brothers have been arrested in Miami, source says - CNN
+- Tate brothers arrested in US after more charges laid against them in UK - BBC
+- Live updates: US launches new airstrikes to ‘swiftly punish’ Iran for killing American troops - CNN
 - Second ex-wife of ICE agent who shot man in Biddeford recounts history of violent behavior - The Portland Press Herald
-- Where Wildfire Smoke Remains—And What To Do About It - Forbes
 - Doctors question evidence behind Pentagon plan for testosterone screening - The Guardian
-- Nolan Wells Not First Person to Drown Off Horn Island Coast, Local Says - TMZ
+- Flash Flood Warning for parts of NJ, NYC, Westchester as more storms loom | Live updates - ABC7 New York
+- Fight continues against northern MN wildfires - FOX 9 Minneapolis-St. Paul
+- Trump’s Pick for Minnesota Governor Mike Lindell Can’t Vote for Himself - The Daily Beast
 - Rep. Ralph Norman launches campaign to replace Lindsey Graham in Senate race - NBC News
 - David Crowley reenters Wisconsin governor’s race with Evers endorsement - Politico
-- MyPillow Founder Not Registered to Vote in State He Wants to Lead - The New York Times
-- Venezuela quake death toll tops 5,000 as IMF releases emergency aid - Al Jazeera
+- Ukraine Escalates Air War With Deadly Strikes on Russia’s ‘Amazon’ - WSJ
 - Zelenskyy May Fire Commander Syrskyi After Protests, FT Reports - Bloomberg.com
-- Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 80 - AP News
-- Wildfires Continue To Burn in Ontario, Canada, Sending Smoke to U.S. Cities - The New York Times
-- Cyclospora: iceberg lettuce recalled in 27 states and more products may follow - The Guardian
+- Venezuela quake death toll tops 5,000 as IMF releases emergency aid - Al Jazeera
+- Can Burnham's casual style survive contact with No 10? - BBC
+- Explosive diarrhea outbreak: Lettuce tests positive for cyclospora, FDA says - NewsNation
 - Trump Media pitched $100,000 monthly fee for fastest feed of U.S. president's posts, sources say - CNBC
-- Braum’s offering National Ice Cream Day deals for one day only - News 9
-- SpaceX and Pentagon Discuss Data-Center Deal - WSJ
+- The Justice Department Is Pulling Back on Prosecuting Corporate Crime - WSJ
+- Exclusive | SpaceX in Talks to Provide Computing Power for Pentagon’s AI Push - WSJ
 - Google might not kneecap the Pixel 11a with an old processor - The Verge
 - "There has to be a reason for people to buy an Xbox": Making sense of Microsoft's messy return to console exclusivity - GamesRadar+
