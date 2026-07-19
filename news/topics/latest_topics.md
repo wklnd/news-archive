@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-19 20:29_
+_Updated: 2026-07-19 21:41_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Zelenskyj: ”Viktiga samtal” med militärtoppar - Dagens Nyheter
 - Inställda avgångar över Öresundsbron - Aftonbladet
-- Nya fynd i gruvhålet i Norberg – mordutredning pågår - Expressen
-- Rådet till Kristersson: Släpp kollektivtrafiken - Svenska Dagbladet
-- Olycka tros ligga bakom den norska branden - Corren
-- Efter dödsskjutningarna – Trumps ”gränstsar” öppnar för kroppskameror - Omni – Alla nyheter. Alla perspektiv.
-- SMHI: Gul varning för skyfall i delar av Halland - SVT Nyheter
+- Man skjuten av polis med verkanseld – förd till sjukhus - Sveriges Radio
+- Direkt – Kriget i Ukraina – Zelenskyj: ”Viktiga samtal” med militärtoppar - Dagens Nyheter
+- Det vet vi om branden i Krokstadelva i Drammen - Göteborgs-Posten
+- Turkiskägt fartyg träffat i Svarta havet – fem döda - Omni – Alla nyheter. Alla perspektiv.
+- Sommarvärmen förbi – ingen ny värmebölja i sikte - Expressen
 - Stillastående personbil ger ett körfält blockerat på E4 - Corren
 - DN Direkt – Man gripen efter misstänkt våldtäkt i Malmö - Dagens Nyheter
-- Flera bilar i krock på E6 i Varberg och Slöinge - SVT Nyheter
-- Många döda i monsunregn i Indien - Göteborgs-Posten
-- USA och Iran i nya anfall: ”Snabbt straff” - Hufvudstadsbladet – HBL
+- Radhusbrand i Botkyrka – misstänks vara anlagd - Göteborgs-Posten
+- DN Direkt – Misstänkt mordförsök efter att man föll från balkong - Dagens Nyheter
+- DN Direkt – Många döda i monsunregn i Indien - Dagens Nyheter
+- USA och Iran i nya anfall: ”Snabbt straff” - Corren
+- DN Direkt – Skogsbrand rasar norr om Madrid - Dagens Nyheter
 - YLVA NILSSON: Trump varnar för Kina, gör samma sak i Europa - Expressen
-- Venezuela hotas av ny katastrof efter jordbävningarna - Dagens Nyheter
 - Kinesisk AI-teknik utmanar apparna: ”Allas dröm” - Aftonbladet
-- INSÄNDARE: Replik: Vindkraft såklart och ölservering - Strengnäs Tidning
+- Centern vill öppna snabbspår för stoppade vindkraftsparker - Omni – Alla nyheter. Alla perspektiv.
 - Veckan som kommer: Räntebesked från ECB och Alphabet rapporterar - Dagens industri
-- Glädjebeskedet i katastrofen: Bella är funnen vid liv - Aftonbladet
+- Tekniska problem för Facebook och Instagram - TV4 Nyheterna
 - Socker hittat i gasmoln – i rymden - Hufvudstadsbladet – HBL
 - Apple och Google tvingas ta ner appar för AI-nakenbilder - Omni – Alla nyheter. Alla perspektiv.
 
@@ -29,12 +29,12 @@ _Updated: 2026-07-19 20:29_
 
 - Kina tar täten för global kontroll av AI - Dagens Nyheter
 - Saab: Vi behöver tillverka fler Global Eye - Omni – Alla nyheter. Alla perspektiv.
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
@@ -43,10 +43,10 @@ _Updated: 2026-07-19 20:29_
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
@@ -128,8 +128,8 @@ _Updated: 2026-07-19 20:29_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - 5 myter om öppen vetenskap - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
@@ -151,14 +151,14 @@ _Updated: 2026-07-19 20:29_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Här är världens största jordbruk - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
+- Hellre plöjningsfri odling än ekologisk - Land.se
