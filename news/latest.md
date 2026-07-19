@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-20 00:32_
+_Updated: 2026-07-20 01:38_
 
-- 17 US service members have died in the Iran war, reflecting a conflict fought largely in the air - AP News
-- Tropical depression forms in Gulf, National Hurricane Center says - USA Today
-- Tate Brothers Arrested In Florida: What We Know About Their Trump Ties - Forbes
-- Maine Democrats rally around logger Troy Jackson to replace Graham Platner - The Washington Post
-- Chicago air quality update: AQI likely to stay 'unhealthy' for all as wildfire smoke returns, impacting events - ABC7 Chicago
+- Spain vs. Argentina live updates: World Cup final score, highlights, latest news and analysis - Yahoo Sports
+- Live updates: US military casualties raise fears of a wider war with Iran - CNN
+- Andrew and Tristan Tate arrested in Miami on rape and sex trafficking charges. Here's what to know - PBS
+- Tropical depression forms off Florida. Storms possible in Tampa Bay - Tampa Bay Times
 - Trump is invoking foreign election interference to justify his own | Jamil Smith - The Guardian
-- Nine people injured in Arizona shooting; suspect shot by police - CBS News
-- As Lindsey Graham's sister mulls Senate run, some in GOP ignore Trump - USA Today
-- Sen. Warner says he won't vote to confirm Jay Clayton as DNI - ABC News - Breaking News, Latest News and Videos
+- Shenna Bellows drops out of Maine’s Senate race as Troy Jackson builds Democratic support - NBC News
+- JD and Usha Vance welcome a baby boy, the first child born to a sitting VP in more than 150 years - AP News
+- Transcript: Sen. Mark Warner on "Face the Nation with Margaret Brennan," July 19, 2026 - CBS News
+- Leaders respond after nine shot in downtown Tucson - KOLD
+- Chicago air quality update: AQI likely to stay 'unhealthy' for all as wildfire smoke returns, impacting events - ABC7 Chicago
 - Who is Andy Burnham, the U.K.'s new prime minister? - NPR
-- Russia launches largest ballistic missile attack on Kyiv since start of war - Al Jazeera
-- An Israeli paraglider tries to save migrating swifts that nest in the Western Wall - NPR
+- Russian attacks kill 6 in Kyiv and other cities and expose gaps in Ukraine’s air defenses - AP News
 - Earthquake in Peru leaves at least six dead - The Guardian
+- Ukraine’s Top General Becomes a Target of Protesters’ Anger - The New York Times
 - Explosive diarrhea outbreak: Lettuce tests positive for cyclospora, FDA says - NewsNation
-- Gulf bourses retreat as US–Iran hostilities intensify - Reuters
-- How to keep the air inside your home clean during wildfires - AP News
+- Oil prices surge, stock futures dip as fighting between U.S. and Iran intensifies - MarketWatch
+- Down 45%, is SpaceX stock a ticking timebomb? - Yahoo Finance UK
 - Boeing Needs to Shore Up Finances Before Launching New Airplane Design, CEO Says - WSJ
 - How To Use Claude's Reflect Dashboard And Learn When It's Time To Touch Grass - Engadget
 - Google Pixel 11 Pro XL vs. Pixel 10 Pro XL: A glowing upgrade - Android Central
-- Galaxy Watch 9 is ‘Powered by Snapdragon Wear Elite,’ leaked images confirm [Gallery] - 9to5Google
