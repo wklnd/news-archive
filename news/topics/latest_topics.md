@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-19 21:41_
+_Updated: 2026-07-19 23:25_
 
 ## Top Stories
 
-- Inställda avgångar över Öresundsbron - Aftonbladet
-- Man skjuten av polis med verkanseld – förd till sjukhus - Sveriges Radio
-- Direkt – Kriget i Ukraina – Zelenskyj: ”Viktiga samtal” med militärtoppar - Dagens Nyheter
-- Det vet vi om branden i Krokstadelva i Drammen - Göteborgs-Posten
-- Turkiskägt fartyg träffat i Svarta havet – fem döda - Omni – Alla nyheter. Alla perspektiv.
+- Man skjuten av polis i Sandviken - Aftonbladet
+- Minst fem döda i rysk attack mot fraktfartyg - Sveriges Radio
+- Ukraina sköt ner tunga robotar i anfallet mot Kiev: ”Fått leverans” - Dagens Nyheter
+- Olycka tros ligga bakom den norska branden - Corren
+- Israel hotar Iran med vedergällningsattacker - Göteborgs-Posten
 - Sommarvärmen förbi – ingen ny värmebölja i sikte - Expressen
 - Stillastående personbil ger ett körfält blockerat på E4 - Corren
 - DN Direkt – Man gripen efter misstänkt våldtäkt i Malmö - Dagens Nyheter
+- Inställda avgångar över Öresundsbron - Västerbottens-Kuriren
 - Radhusbrand i Botkyrka – misstänks vara anlagd - Göteborgs-Posten
-- DN Direkt – Misstänkt mordförsök efter att man föll från balkong - Dagens Nyheter
 - DN Direkt – Många döda i monsunregn i Indien - Dagens Nyheter
-- USA och Iran i nya anfall: ”Snabbt straff” - Corren
-- DN Direkt – Skogsbrand rasar norr om Madrid - Dagens Nyheter
-- YLVA NILSSON: Trump varnar för Kina, gör samma sak i Europa - Expressen
+- Svensk man ihjälkörd på Mallorca - Folkbladet
+- Direkt – Kriget i Ukraina – Zelenskyj: ”Viktiga samtal” med militärtoppar - Dagens Nyheter
+- Efter dödsskjutningarna – Trumps ”gränstsar” öppnar för kroppskameror - Omni – Alla nyheter. Alla perspektiv.
 - Kinesisk AI-teknik utmanar apparna: ”Allas dröm” - Aftonbladet
 - Centern vill öppna snabbspår för stoppade vindkraftsparker - Omni – Alla nyheter. Alla perspektiv.
 - Veckan som kommer: Räntebesked från ECB och Alphabet rapporterar - Dagens industri
-- Tekniska problem för Facebook och Instagram - TV4 Nyheterna
+- Mips rusar och Wallenbergs bjässe backar - Affärsvärlden
 - Socker hittat i gasmoln – i rymden - Hufvudstadsbladet – HBL
-- Apple och Google tvingas ta ner appar för AI-nakenbilder - Omni – Alla nyheter. Alla perspektiv.
+- GameStops VD: Sonys beslut att sluta med PlayStation-skivor är ”irrelevant” - notebookcheck.se
 
 ## World News
 
@@ -61,13 +61,13 @@ _Updated: 2026-07-19 21:41_
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 
@@ -125,20 +125,20 @@ _Updated: 2026-07-19 21:41_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - 5 myter om öppen vetenskap - Läkartidningen
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Simple math behind major bison blunder - Forskning & Framsteg
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 
 ## Jordbruk
 
