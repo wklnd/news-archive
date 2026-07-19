@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-19 12:07_
+_Updated: 2026-07-19 13:36_
 
 ## Top Stories
 
+- Paus för brandmännen i Drammen: ”Gynnsamt väder” - Hufvudstadsbladet – HBL
 - Massiv rysk attack mot Kiev under natten - Dagens Nyheter
-- SMHI: Kraftiga regnskurar och risk för översvämningar - Expressen
-- Man föll från balkong i Stockholm – två misstänks för mordförsök - SVT Nyheter
+- Paasikivi: Därför attackerar Ukraina rysk infrastruktur - TV4 Nyheterna
+- ”Helveteslarven” dammsugs och bränns i Köpenhamn - Aftonbladet
 - Blottade hemliga ”Opus Dei” – då ringde påven - Svenska Dagbladet
 - De bor i Vårbergs kaoshus: ”Folk förtjänar bättre än det här” - Dagens Nyheter
-- Lärare tvingas tömma klassrum – för övernattande lag - Göteborgs-Posten
 - Bil körde genom trädgårdar och in i hus i Mellbystrand – förare omkom - SVT Nyheter
-- Bil har voltat på E4 – tre allvarligt skadade - Aftonbladet
 - Stormskyddet stärks – AI och fruktad insekt i fokus - Nya Wermlands-Tidningen
-- INSÄNDARE: Hur länge ska vi inom omsorgen orka? - Arbetarbladet
+- Fortsatta skyfall – gul varning utfärdad - Västerbottens-Kuriren
+- DN Direkt – Två personer anhållna för mordförsök efter att man föll från balkong - Dagens Nyheter
 - USA och Iran i nya anfall: ”Snabbt straff” - Corren
-- Dödligaste attackerna i Ryssland på två år - Expressen
+- Dna-test avslöjade missen – förväxlades på BB för 38 år sedan - Dagens Nyheter
 - Dödstalet fortsätter stiga i Venezuela - Göteborgs-Posten
-- Ukrainas ÖB hänger löst efter protesterna - Dagens Nyheter
+- Ungerns president villig att avsätta sig själv - Aftonbladet
 - Bolånen viker – här är bankernas nya vinstmotor - Dagens industri
+- Presidentval: Tillgänglig men "inte redo" - Dagens PS
 - Bank avslöjar miljonlöner till Foodora-bud - Dagens PS
-- Ny kinesisk AI-jätte till börsen – utmanar OpenAI och Anthropic - EFN
-- Dr Doom spår ljus och banbrytande framtid med AI - Dagens PS
+- Kinesisk AI-teknik utmanar apparna: ”Allas dröm” - Aftonbladet
 - Spel på skivor är de bästa fysiska spelen. - FZ.se
 - Socker hittat i gasmoln – i rymden - Aftonbladet
 
@@ -29,12 +29,12 @@ _Updated: 2026-07-19 12:07_
 
 - Kina tar täten för global kontroll av AI - Dagens Nyheter
 - Saab: Vi behöver tillverka fler Global Eye - Omni – Alla nyheter. Alla perspektiv.
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
@@ -42,7 +42,7 @@ _Updated: 2026-07-19 12:07_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Kina går för första gången om USA i global opinionsmätning - Dagens Nyheter
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -60,16 +60,16 @@ _Updated: 2026-07-19 12:07_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
-- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
 
@@ -126,19 +126,19 @@ _Updated: 2026-07-19 12:07_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
-- 5 myter om öppen vetenskap - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 
 ## Jordbruk
 
