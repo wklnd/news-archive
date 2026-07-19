@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-19 12:13_
+_Updated: 2026-07-19 13:41_
 
 - Two U.S. service members killed in Jordan and another is missing after Iranian strikes, military says - NBC News
-- Tate brothers arrested in Miami as UK adds rape, trafficking charges - Al Jazeera
+- Tate brothers arrested in US as further UK charges take total to 59 - BBC
 - ICE officer’s troubled past renews questions about vetting - The Washington Post
-- NYC weather: Storms exit after flash flooding; air quality improves | Live updates - ABC7 New York
-- Maine Democrats Take Step Toward New Senate Pick, With Jolt of Momentum for Jackson - The New York Times
-- Ukraine Escalates Air War With Deadly Strikes on Russia’s ‘Amazon’ - WSJ
-- Nolan Wells Not First Person to Drown Off Horn Island Coast, Local Says - TMZ
-- Trump election speech divides a GOP wary of midterms - The Hill
-- Where Wildfire Smoke Remains—And What To Do About It - Forbes
-- 4 Seattle teens arrested after NE Portland gas station shooting, linked to more crimes - KATU
+- Storm cleanup expected after flash flooding batters NYC, Tri-State area | Live updates - ABC7 New York
 - Russia unleashes one of biggest ballistic missile attacks of the Ukraine war, Kyiv says - CNN
+- Maine Democrats Take Step Toward New Senate Pick, With Jolt of Momentum for Jackson - The New York Times
+- D.H.S. Won’t Name Agents Who Kill. Local Police Agencies Are More Open. - The New York Times
+- Nolan Wells Not First Person to Drown Off Horn Island Coast, Local Says - TMZ
+- Key differences spared Texas lives in second straight July flood - The Texas Tribune
+- Trump election speech divides a GOP wary of midterms - The Hill
 - Zelenskyy May Fire Commander Syrskyi After Protests, FT Reports - Bloomberg.com
+- Ukraine Escalates Air War With Deadly Strikes on Russia’s ‘Amazon’ - WSJ
+- Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post
 - Delayed orders, confusion slowed Venezuelan military's response to quakes, sources say - Reuters
-- Hungary's president signs amendment ending his own term - DW.com
 - Taylor Farms lettuce sample tests positive for Cyclospora as recall expands - Fox Business
-- Trump Media pitched $100,000 monthly fee for fastest feed of U.S. president's posts, sources say - CNBC
-- SpaceX targets next week for another Starship launch attempt as shares slide on abort - Reuters
-- How your AC will and won't protect you from NYC's gnarly smoke-filled air - Gothamist
-- Google might not kneecap the Pixel 11a with an old processor - The Verge
+- Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on - CoinDesk
+- Gauge of Oracle’s Credit Risk Hits Fresh All Time High - Bloomberg.com
+- China’s Moonshot Plans IPO in Six Months After AI Breakthrough - Bloomberg.com
 - OnePlus Exit Means Fewer Options in a Market Mired by Lack of Choice - PetaPixel
+- Google is open-sourcing its 3D emoji - The Verge
