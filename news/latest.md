@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-19 21:50_
+_Updated: 2026-07-19 23:32_
 
-- Live updates: Iran war news; US troop deaths raise fears of a wider war as Iran hit by new strikes - CNN
+- Live updates: US military casualties raise fears of a wider war with Iran - CNN
+- Tropical depression forms in Gulf, National Hurricane Center says - USA Today
+- FBI will no longer investigate ICE confrontations, The New York Times reports - CNBC
 - What to know about the Tate brothers, social media influencers facing rape and trafficking charges - AP News
-- Tropical depression forms off Florida. Storms possible in Tampa Bay - Tampa Bay Times
 - Troy Jackson has effectively secured the Maine Senate Democratic nomination - Politico
-- Federal Agents Were Told F.B.I. Will No Longer Investigate ICE Confrontations - The New York Times
-- Despite Trump's unpopularity, new poll shows tight race for Congress - USA Today
-- Sen. Warner says he won't vote to confirm Jay Clayton as DNI - ABC News - Breaking News, Latest News and Videos
-- Texas residents say timely alerts and last year’s catastrophic floods helped them prepare for this year’s deluge - NBC News
-- Leaders respond after nine shot in downtown Tucson - KOLD
-- Mission in Iran war has pivoted toward ensuring oil flow, Trump official says - The Guardian
+- Russia hits Ukraine with one of the largest ballistic barrages of the war - politico.eu
+- Nine people injured in Arizona shooting; suspect shot by police - CBS News
+- Warner: ‘Remarkable in many ways’ there aren’t more dead U.S troops in Iran war - The Hill
+- Ships continue to move through Strait of Hormuz, Chris Wright says - Politico
+- Chicago air quality update: AQI likely to stay 'unhealthy' for all as wildfire smoke returns, impacting events - ABC7 Chicago
 - US and Iran trade strikes again as Washington avenges American deaths - politico.eu
-- Russian attacks kill 6 in Kyiv and other cities and expose gaps in Ukraine’s air defenses - AP News
 - Who is Andy Burnham, the U.K.'s new prime minister? - NPR
 - An Israeli paraglider tries to save migrating swifts that nest in the Western Wall - NPR
+- Earthquake in Peru leaves at least six dead - The Guardian
 - Explosive diarrhea outbreak: Lettuce tests positive for cyclospora, FDA says - NewsNation
-- Why is China protesting about the nationalisation of British Steel? - Al Jazeera
-- SpaceX is quietly building an AI compute business that may become key to its eye-popping valuation - Fortune
+- The world is looking ahead toward a post-Iran oil market that offsets most Hormuz volumes - Fortune
 - Should you take Social Security at 62? Consider these 4 factors - USA Today
-- I wanted to love the Galaxy Z Fold 8, but Samsung already ruined it for me - Android Police
-- Sunday Preview – Exodites leap from the jungle - Warhammer Community
+- Boeing Needs to Shore Up Finances Before Launching New Airplane Design, CEO Says - WSJ
+- How To Use Claude's Reflect Dashboard And Learn When It's Time To Touch Grass - Engadget
+- Google Pixel 11 Pro XL vs. Pixel 10 Pro XL: A glowing upgrade - Android Central
