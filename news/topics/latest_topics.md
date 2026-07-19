@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-19 09:39_
+_Updated: 2026-07-19 12:07_
 
 ## Top Stories
 
-- SvD-journalisten Karin Thunberg har gått bort - Svenska Dagbladet
-- DN Direkt – Misstänkt mordförsök efter att man föll från balkong - Dagens Nyheter
-- Paus för brandmännen i Drammen: ”Gynnsamt väder” - Hufvudstadsbladet – HBL
-- Fångar på giftig mark: ”Vi vill bara härifrån” - Aftonbladet
-- Polisinsats efter misstänkt grovt brott i Stockholm - SVT Nyheter
-- Herr och fru Kullgren strider om köttet – till storms mot ”tvångsvegetariska luncher” - Dagens Nyheter
+- Massiv rysk attack mot Kiev under natten - Dagens Nyheter
+- SMHI: Kraftiga regnskurar och risk för översvämningar - Expressen
+- Man föll från balkong i Stockholm – två misstänks för mordförsök - SVT Nyheter
+- Blottade hemliga ”Opus Dei” – då ringde påven - Svenska Dagbladet
+- De bor i Vårbergs kaoshus: ”Folk förtjänar bättre än det här” - Dagens Nyheter
+- Lärare tvingas tömma klassrum – för övernattande lag - Göteborgs-Posten
+- Bil körde genom trädgårdar och in i hus i Mellbystrand – förare omkom - SVT Nyheter
 - Bil har voltat på E4 – tre allvarligt skadade - Aftonbladet
-- Man död efter trafikolycka i Mellbystrand - Göteborgs-Posten
 - Stormskyddet stärks – AI och fruktad insekt i fokus - Nya Wermlands-Tidningen
-- Fortsatta skyfall – gul varning utfärdad - Västerbottens-Kuriren
-- Ryska robotangrepp mot Kiev – flera explosioner - Corren
-- USA och Iran i nya anfall: ”Snabbt straff” - Hufvudstadsbladet – HBL
+- INSÄNDARE: Hur länge ska vi inom omsorgen orka? - Arbetarbladet
+- USA och Iran i nya anfall: ”Snabbt straff” - Corren
+- Dödligaste attackerna i Ryssland på två år - Expressen
 - Dödstalet fortsätter stiga i Venezuela - Göteborgs-Posten
-- Ungerns president villig att avsätta sig själv - Aftonbladet
-- Bolånen viker – här är bankernas nya vinstmotor - Svenska Dagbladet
-- Centern vill öppna snabbspår för stoppade vindkraftsparker - Omni – Alla nyheter. Alla perspektiv.
-- Oregelbundet på Stockholmsbörsen på rapportintensiv fredag, OMXS30-index ned 0,1 procent (Finwire News) - Aktiellt
-- Nya Hondan är inte långt efter en Ferrari - Aftonbladet
+- Ukrainas ÖB hänger löst efter protesterna - Dagens Nyheter
+- Bolånen viker – här är bankernas nya vinstmotor - Dagens industri
+- Bank avslöjar miljonlöner till Foodora-bud - Dagens PS
+- Ny kinesisk AI-jätte till börsen – utmanar OpenAI och Anthropic - EFN
+- Dr Doom spår ljus och banbrytande framtid med AI - Dagens PS
 - Spel på skivor är de bästa fysiska spelen. - FZ.se
 - Socker hittat i gasmoln – i rymden - Aftonbladet
 
@@ -53,7 +53,6 @@ _Updated: 2026-07-19 09:39_
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
@@ -66,10 +65,11 @@ _Updated: 2026-07-19 09:39_
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
+- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 
 ## Business
 
@@ -82,9 +82,9 @@ _Updated: 2026-07-19 09:39_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
@@ -101,21 +101,21 @@ _Updated: 2026-07-19 09:39_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Sju life science-trender 2026 - Business Region Göteborg
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Vi presenterar HealthBench - OpenAI
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
@@ -126,19 +126,19 @@ _Updated: 2026-07-19 09:39_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Olika slutsatser från samma data - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- 5 myter om öppen vetenskap - Läkartidningen
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Simple math behind major bison blunder - Forskning & Framsteg
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
@@ -148,15 +148,15 @@ _Updated: 2026-07-19 09:39_
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
