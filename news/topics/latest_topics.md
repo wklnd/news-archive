@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-20 10:24_
+_Updated: 2026-07-20 13:22_
 
 ## Top Stories
 
-- Det vet vi om branden i Krokstadelva i Drammen - Göteborgs-Posten
-- Attacker mellan USA och Iran: ”Slog till hårt” - Hufvudstadsbladet – HBL
-- Natalie, 19, varnade för dömd sexbrottsling – döms för förtal - Expressen
+- Varning för 45-gradig värme i Spanien - Västerbottens-Kuriren
+- Branden i Drammen – så länge väntas släckningen ta - Göteborgs-Posten
+- Emma Bouvin: Medan Trump fotobombar hotar kriget att eskalera utom kontroll - Dagens Nyheter
 - Schackstjärna föreslås bli Ungerns president - Västerbottens-Kuriren
-- Ny mätning: Många vill vabba för sina husdjur - Sydsvenskan
-- Analyser: Ministervalet visar att han har modet som krävs - Omni – Alla nyheter. Alla perspektiv.
-- Kumla öppnar portarna – första barnen på plats - Nya Wermlands-Tidningen
-- Albert lever med språkstörning: Jag hade tur – många får ingen hjälp - Dagens Nyheter
+- Nya megaflygplatsen kan bli nav för svenskar - Svenska Dagbladet
+- Bebis dog – ”birth center” BB Gårda i Göteborg anmäls - SVT Nyheter
+- Misstänkt misshandel i Hageby – man skadad - SVT Nyheter
+- Man hittad död i Hultsfred – mordutredning inledd - SVT Nyheter
+- Kumla öppnar portarna – första barnen på plats - Dagens Nyheter
 - Man död efter högt fall från balkong - Västerbottens-Kuriren
-- En stillastående personbil orsakar stopp i ett körfält på E18 - UNT
-- Ukraina sköt ner tunga robotar i anfallet mot Kiev: ”Fått leverans” - Dagens Nyheter
-- Vance har blivit pappa för fjärde gången - Västerbottens-Kuriren
-- Hundratals förgiftade – epidemi utlyst - Sydsvenskan
-- Ukraina: Dödlig rysk attack mot fraktfartyg - Folkbladet
-- Whiskyboom i kras – blir surdeg i lagerhyllorna - Dagens PS
-- Slaget om AI-assistenterna – EU pressar Google och Apple - Dagens PS
-- Svagt nedåt på börsen - Folkbladet
-- Oljepriset över 90 dollar efter ny oro i Mellanöstern - Affärsvärlden
-- Kommande Galaxy Watch 9 får Snapdragon - Teknikveckan
-- Tv-spel slutar med skivor - 8 Sidor
+- Minst två döda i ryska attacker - Hufvudstadsbladet – HBL
+- Maktskifte i Storbritannien när Andy Burnham blir premiärminister - SVT Nyheter
+- 400 nattliga drönare mot Moskva - Dagens industri
+- Pojke sprängdes till döds – domen fastställs - Aftonbladet
+- Affärsvärlden behåller Thule i sin aktieportfölj - Affärsvärlden
+- IMY varnar unga AI-användare: Dina chattar kan bli offentliga - Dagens Nyheter
+- HKEX kan införa kvällshandel – överväger slopad lunchpaus och längre öppet - Börskollen
+- Trots avtalet – Kinas magnetexport till USA fortsatt låg - EFN
+- Hugging Face drabbat av AI-agentstyrd cyberattack - Computer Sweden
+- Långt ut i rymden har forskare hittat något som även finns i hallon – ”Det var ett oväntat fynd”, säger astronom - Illustrerad Vetenskap
 
 ## World News
 
 - Kina tar täten för global kontroll av AI - Dagens Nyheter
 - Saab: Vi behöver tillverka fler Global Eye - Omni – Alla nyheter. Alla perspektiv.
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
+- 1 426 potential victims identified in global operation against human trafficking - Europol
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -58,11 +58,11 @@ _Updated: 2026-07-20 10:24_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
@@ -121,29 +121,29 @@ _Updated: 2026-07-20 10:24_
 
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
-- 5 myter om öppen vetenskap - Läkartidningen
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Simple math behind major bison blunder - Forskning & Framsteg
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 
 ## Jordbruk
 
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Sveriges förändrade lantbruk - SLU
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
@@ -154,11 +154,11 @@ _Updated: 2026-07-20 10:24_
 - Lantbrukslogik – nu och i framtiden - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Jord, kor och klimat - SLU
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - Visning av uppkomst efter direktsådd - Land.se
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
