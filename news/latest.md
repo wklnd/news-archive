@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-20 22:51_
+_Updated: 2026-07-21 00:36_
 
-- Live updates: Trump warns of strong retaliation against Iran after recent US troop deaths - CNN
-- ‘King of the North’ Andy Burnham becomes 7th British prime minister in a decade - NBC News
-- Sen. Darline Graham will run for full term to replace brother Lindsey - Politico
-- Trump says Qatari-gifted AF1 to be ‘maxed out’ following questions of security - The Washington Post
-- Trial begins for Massachusetts mom who says postpartum issues led her to kill 3 children - AP News
-- ‘Incendiary device' deployed outside 26 Federal Plaza, FBI says - NBC New York
-- Notorious drug cartel leader Ismael Zambada sentenced to life in US prison - BBC
-- Israel’s Ambassador to U.N. Lashes Out at Mamdani Over Netanyahu Arrest Threats - The New York Times
-- Bodies of 2 women, 3 men pulled from Scioto River - WSYX
-- Funeral service for Nolan Wells to be led by the Rev. Al Sharpton - PBS
-- Expansion of US strikes on Iran leads to more retaliation across the Gulf - AP News
-- ‘Now or never’: Students defy Delhi lockdown to march on India’s parliament - Al Jazeera
+- Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination - CNBC
+- Pentagon Withheld Dozens of U.S. Military Injuries in Iran War - The New York Times
+- Nancy Mace won’t run for Lindsey Graham’s Senate seat - Politico
+- Trump says new Air Force One will be sent to get ‘maxed out’ for upgrades - NBC News
+- A former U.S. Army soldier started fire outside a NYC federal building and fired a pellet gun, FBI says - PBS
+- Tate brothers fight extradition to UK over rape and sex-trafficking charges - The Guardian
+- Netanyahu will not be arrested in US, Trump says, as New York mayor mulls options - Reuters
+- Nordone to launch bid for Graham's Senate seat - Axios
+- A woman is on trial for the murder of her 3 children. Her defense argues she may not be ‘criminally responsible’ - CNN
+- Nolan Wells remembered for his gentle spirit as Rev. Al Sharpton demands truth about his death - AP News
+- Andy Burnham hits the ground strolling - The Economist
+- Iran Missile Hit U.S. Troop Housing in Jordan - WSJ
 - Bodies recovered after passenger ferry carrying over 100 people sinks off Guyana - CNN
-- Putin meets North Korean foreign minister in diplomatic push - NPR
-- FDA retracts test result but still links Taylor Farms lettuce to cyclosporiasis - The Washington Post
+- India's Gen Z 'Cockroach People's Party' started as satire but is serious about change - NPR
+- Taylor Farms lettuce is still focus of cyclospora investigation despite false positive test, FDA says - CBS News
 - US gas prices back up to an average of $4 a gallon again as the US and Iran launch attacks - AP News
-- AliExpress hit with $629 million EU fine over sales of illegal, counterfeit products - Reuters
 - JetBlue wins Spirit slots at LaGuardia Airport, eyes move to Marine Air Terminal as airlines fight for space - CNBC
-- Apple Seeds Fourth iOS 27 and iPadOS 27 Betas to Developers - MacRumors
-- Honor Robot Phone makes an unexpected appearance at the World Cup final - GSMArena.com
+- AliExpress hit with $629 million EU fine over sales of illegal, counterfeit products - Reuters
+- NVIDIA’s Synthetic Video Detector Spots Fake News & AI-Generated Content With 92% Accuracy, Analyzing 1080p Footage In Just 22ms - Wccftech
+- ONEXPLAYER charges $2,499 for the first Ryzen AI Max+ 388 handheld - VideoCardz.com
