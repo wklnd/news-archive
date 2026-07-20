@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-20 17:28_
+_Updated: 2026-07-20 18:56_
 
 ## Top Stories
 
-- Minst två döda i ryska attacker - Hufvudstadsbladet – HBL
 - Maktskifte i Storbritannien när Andy Burnham blir ny premiärminister - SVT Nyheter
-- Flyr regn och kyla – möts av hat i svenskparadiset - Aftonbladet
+- 400 nattliga drönare mot Moskva - Corren
 - Emma Bouvin: Medan Trump fotobombar hotar kriget att eskalera utom kontroll - Dagens Nyheter
-- Alexandra från Säffle miste sitt hus i norska branden - Nya Wermlands-Tidningen
-- Hyllades som hjälte – har själv bränt bil - Expressen
+- Flyr regn och kyla – möts av hat i svenskparadiset - Aftonbladet
+- Alexandra från Säffle miste sitt hus i branden - Nya Wermlands-Tidningen
+- Varning för 45-gradig värme i Spanien - Göteborgs-Posten
+- Nytt uppdrag: Försvaret ska bli mer innovativt - Corren
 - Förlossning på BB Gårda slutade med att bebisen dog - Göteborgs-Posten
-- Man gripen efter grova misshandeln i Hageby - NT
-- DN Direkt – Flicka döms för dåd mot socialsekreterare - Dagens Nyheter
-- Kumla öppnar portarna – första barnen på plats - UNT
-- Varning för 45-gradig värme i Spanien - Västerbottens-Kuriren
-- Schackstjärna föreslås bli Ungerns president - Västerbottens-Kuriren
+- Efter misstänkt misshandel – mannen har inte livshotande skador - NT
+- DEBATT: Polisen beslagtog vår Gaza-skylt - Expressen
+- Minst två döda i ryska attacker - Hufvudstadsbladet – HBL
+- Schackstjärna föreslås bli Ungerns president - Aftonbladet
 - Källor: Mychajlo Fedorov nobbar återkomst till Zelenskyjs regering - Omni – Alla nyheter. Alla perspektiv.
-- Valkyrkogård skapar ekosystem på havsbottnen - Svenska Dagbladet
-- Saabs kursrally ritar om Investors portfölj - Affärsvärlden
-- Aktien mer intressant än på länge - EFN
+- Berg-och-dalbana för oljepriset - Göteborgs-Posten
+- Saab har tiofaldigats – klättrar i Investors portfölj - Omni – Alla nyheter. Alla perspektiv.
+- Affärsvärlden behåller Thule i sin aktieportfölj - Affärsvärlden
 - Uppgifter: Google utvecklar nytt AI-chip - Dagens industri
-- IMY varnar unga AI-användare: Dina chattar kan bli offentliga - Dagens Nyheter
 - Microsoft skickar ut akutfixar för Dell-datorer - Computer Sweden
+- Tv-spel slutar med skivor - 8 Sidor
 - Långt ut i rymden har forskare hittat något som även finns i hallon – ”Det var ett oväntat fynd”, säger astronom - Illustrerad Vetenskap
 
 ## World News
@@ -32,6 +32,7 @@ _Updated: 2026-07-20 17:28_
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
@@ -39,7 +40,6 @@ _Updated: 2026-07-20 17:28_
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- Esports World Cup 2026: Lyon vinner Free Fire evenemang, säkrar Global Finals biljett till 2026 - Gamereactor
 - Swedish Professional Football Leagues signs Amnesty International World Cup in Qatar protest list - Föreningen Svensk Elitfotboll
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
@@ -148,17 +148,17 @@ _Updated: 2026-07-20 17:28_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jord, kor och klimat - SLU
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Lantbrukslogik – nu och i framtiden - SLU
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Jord, kor och klimat - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
