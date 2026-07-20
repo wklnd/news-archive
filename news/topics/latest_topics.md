@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-20 13:22_
+_Updated: 2026-07-20 15:26_
 
 ## Top Stories
 
-- Varning för 45-gradig värme i Spanien - Västerbottens-Kuriren
-- Branden i Drammen – så länge väntas släckningen ta - Göteborgs-Posten
-- Emma Bouvin: Medan Trump fotobombar hotar kriget att eskalera utom kontroll - Dagens Nyheter
-- Schackstjärna föreslås bli Ungerns president - Västerbottens-Kuriren
-- Nya megaflygplatsen kan bli nav för svenskar - Svenska Dagbladet
-- Bebis dog – ”birth center” BB Gårda i Göteborg anmäls - SVT Nyheter
-- Misstänkt misshandel i Hageby – man skadad - SVT Nyheter
-- Man hittad död i Hultsfred – mordutredning inledd - SVT Nyheter
-- Kumla öppnar portarna – första barnen på plats - Dagens Nyheter
-- Man död efter högt fall från balkong - Västerbottens-Kuriren
-- Minst två döda i ryska attacker - Hufvudstadsbladet – HBL
-- Maktskifte i Storbritannien när Andy Burnham blir premiärminister - SVT Nyheter
-- 400 nattliga drönare mot Moskva - Dagens industri
-- Pojke sprängdes till döds – domen fastställs - Aftonbladet
-- Affärsvärlden behåller Thule i sin aktieportfölj - Affärsvärlden
+- Maktskifte i Storbritannien när Andy Burnham blir ny premiärminister - SVT Nyheter
+- Varning för 45-gradig värme i Spanien - Göteborgs-Posten
+- Alexandra blev bostadslös i norska branden - Nya Wermlands-Tidningen
+- Hyllades som hjälte under upplopp – har själv bränt bil - Expressen
 - IMY varnar unga AI-användare: Dina chattar kan bli offentliga - Dagens Nyheter
-- HKEX kan införa kvällshandel – överväger slopad lunchpaus och längre öppet - Börskollen
-- Trots avtalet – Kinas magnetexport till USA fortsatt låg - EFN
-- Hugging Face drabbat av AI-agentstyrd cyberattack - Computer Sweden
+- Schackstjärna föreslås bli Ungerns president - Västerbottens-Kuriren
+- Bebis dog – ”birth center” BB Gårda i Göteborg anmäls - SVT Nyheter
+- Man gripen efter grova misshandeln i Hageby - NT
+- Flicka döms för dåd mot socialsekreterare - Göteborgs-Posten
+- Fler fartyg i skuggflottan registrerar sig som ryska - Omni – Alla nyheter. Alla perspektiv.
+- Emma Bouvin: Medan Trump fotobombar hotar kriget att eskalera utom kontroll - Dagens Nyheter
+- 400 nattliga drönare mot Moskva - Corren
+- Valkyrkogård skapar ekosystem på havsbottnen - Svenska Dagbladet
+- 15-åring sprängde sig själv – hovrätten fastställer domen - SVT Nyheter
+- Affärsvärlden behåller Thule i sin aktieportfölj - Affärsvärlden
+- Stockholmsbörsen inleder runt nollan – Thule faller - EFN
+- Björn Jeffery: För Silicon Valley är Sverige ett kap - Svenska Dagbladet
+- Berg- och dalbana för oljepriset - Göteborgs-Posten
+- Microsoft skickar ut akutfixar för Dell-datorer - Computer Sweden
 - Långt ut i rymden har forskare hittat något som även finns i hallon – ”Det var ett oväntat fynd”, säger astronom - Illustrerad Vetenskap
 
 ## World News
@@ -31,17 +31,17 @@ _Updated: 2026-07-20 13:22_
 - Saab: Vi behöver tillverka fler Global Eye - Omni – Alla nyheter. Alla perspektiv.
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- Swedish Professional Football Leagues signs Amnesty International World Cup in Qatar protest list - Föreningen Svensk Elitfotboll
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
-- 1 426 potential victims identified in global operation against human trafficking - Europol
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
@@ -54,8 +54,8 @@ _Updated: 2026-07-20 13:22_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -82,7 +82,6 @@ _Updated: 2026-07-20 13:22_
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -91,8 +90,9 @@ _Updated: 2026-07-20 13:22_
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -114,8 +114,8 @@ _Updated: 2026-07-20 13:22_
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
@@ -126,36 +126,36 @@ _Updated: 2026-07-20 13:22_
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Simple math behind major bison blunder - Forskning & Framsteg
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Sveriges förändrade lantbruk - SLU
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jord, kor och klimat - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
