@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-20 05:04_
+_Updated: 2026-07-20 07:06_
 
 ## Top Stories
 
-- Det vet vi om branden i Krokstadelva i Drammen - Göteborgs-Posten
-- Nya attacker mellan USA och Iran: ”Slog till hårt” - Västerbottens-Kuriren
+- Första minderåriga intagna på Kumlaanstalten - Sveriges Radio
 - Ukraina: Dödlig rysk attack mot fraktfartyg - Folkbladet
-- Ukraina sköt ner tunga robotar i anfallet mot Kiev: ”Fått leverans” - Dagens Nyheter
-- Explosion utanför bostad i Södertälje - Göteborgs-Posten
-- Meteorologen: Ingen sommarvärme i sikte för semesterfirarna - TV4 Nyheterna
-- Stillastående personbil ger ett körfält blockerat på E4 - Corren
+- Albert lever med språkstörning: Jag hade tur – många får ingen hjälp - Dagens Nyheter
+- Förlossning på BB Gårda slutade med att bebisen dog - Göteborgs-Posten
+- Ny mätning: Många vill vabba för sina husdjur - Sydsvenskan
+- Attacker mellan USA och Iran: ”Slog till hårt” - Hufvudstadsbladet – HBL
+- SMHI: Gul varning för skyfall i delar av Halland - SVT Nyheter
+- En stillastående personbil orsakar stopp i ett körfält på E18 - UNT
 - En gripen efter misstänkt våldtäkt i Malmö - Göteborgs-Posten
-- Inställda avgångar över Öresundsbron - Västerbottens-Kuriren
-- DN Direkt – Man skjuten av polis i Sandviken - Dagens Nyheter
+- Tandläkarbrist i Härjedalen - går inte att boka tid - Sveriges Radio
+- Ukraina sköt ner tunga robotar i anfallet mot Kiev: ”Fått leverans” - Dagens Nyheter
 - Hundratals förgiftade – epidemi utlyst - Sydsvenskan
+- Det vet vi om branden i Krokstadelva i Drammen - Göteborgs-Posten
 - DN Direkt – Många döda i monsunregn i Indien - Dagens Nyheter
-- Skogsbrand rasar norr om Madrid - Aftonbladet
-- Ryssland: Lagerarbetare dödade i Ukraina-attacker - Göteborgs-Posten
-- Blandad börsöppning i Asien – tung inledning för Sydkorea - Börskollen
-- Oljepriset stiger efter orolig helg kring Hormuz - Västerbottens-Kuriren
-- Centern vill öppna snabbspår för stoppade vindkraftsparker - Omni – Alla nyheter. Alla perspektiv.
-- Kinesisk AI-teknik utmanar apparna: ”Allas dröm” - Aftonbladet
+- Oljepriset stiger efter orolig helg kring Hormuz - Corren
+- Blandad veckostart i Asien – Kospi faller - Dagens industri
+- S&P 500-indexet: de viktigaste katalysatorerna för amerikanska aktier denna vecka - Invezz
+- LEDARE: Kör i vind, sa regeringen. Vilken blåsning. - Sydsvenskan
 - Socker hittat i gasmoln – i rymden - Hufvudstadsbladet – HBL
 - GameStops VD: Sonys beslut att sluta med PlayStation-skivor är ”irrelevant” - notebookcheck.se
 
@@ -29,12 +29,12 @@ _Updated: 2026-07-20 05:04_
 
 - Kina tar täten för global kontroll av AI - Dagens Nyheter
 - Saab: Vi behöver tillverka fler Global Eye - Omni – Alla nyheter. Alla perspektiv.
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
@@ -43,10 +43,10 @@ _Updated: 2026-07-20 05:04_
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Murdochs hemliga drag: Kuppa ut tre av barnen - Omni – Alla nyheter. Alla perspektiv.
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
 
@@ -83,6 +83,7 @@ _Updated: 2026-07-20 05:04_
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -90,9 +91,8 @@ _Updated: 2026-07-20 05:04_
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 
 ## Health
 
@@ -101,14 +101,14 @@ _Updated: 2026-07-20 05:04_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Sju life science-trender 2026 - Business Region Göteborg
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
@@ -135,10 +135,10 @@ _Updated: 2026-07-20 05:04_
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
