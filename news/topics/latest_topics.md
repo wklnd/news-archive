@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-20 07:06_
+_Updated: 2026-07-20 10:24_
 
 ## Top Stories
 
-- Första minderåriga intagna på Kumlaanstalten - Sveriges Radio
-- Ukraina: Dödlig rysk attack mot fraktfartyg - Folkbladet
-- Albert lever med språkstörning: Jag hade tur – många får ingen hjälp - Dagens Nyheter
-- Förlossning på BB Gårda slutade med att bebisen dog - Göteborgs-Posten
-- Ny mätning: Många vill vabba för sina husdjur - Sydsvenskan
-- Attacker mellan USA och Iran: ”Slog till hårt” - Hufvudstadsbladet – HBL
-- SMHI: Gul varning för skyfall i delar av Halland - SVT Nyheter
-- En stillastående personbil orsakar stopp i ett körfält på E18 - UNT
-- En gripen efter misstänkt våldtäkt i Malmö - Göteborgs-Posten
-- Tandläkarbrist i Härjedalen - går inte att boka tid - Sveriges Radio
-- Ukraina sköt ner tunga robotar i anfallet mot Kiev: ”Fått leverans” - Dagens Nyheter
-- Hundratals förgiftade – epidemi utlyst - Sydsvenskan
 - Det vet vi om branden i Krokstadelva i Drammen - Göteborgs-Posten
-- DN Direkt – Många döda i monsunregn i Indien - Dagens Nyheter
-- Oljepriset stiger efter orolig helg kring Hormuz - Corren
-- Blandad veckostart i Asien – Kospi faller - Dagens industri
-- S&P 500-indexet: de viktigaste katalysatorerna för amerikanska aktier denna vecka - Invezz
-- LEDARE: Kör i vind, sa regeringen. Vilken blåsning. - Sydsvenskan
-- Socker hittat i gasmoln – i rymden - Hufvudstadsbladet – HBL
-- GameStops VD: Sonys beslut att sluta med PlayStation-skivor är ”irrelevant” - notebookcheck.se
+- Attacker mellan USA och Iran: ”Slog till hårt” - Hufvudstadsbladet – HBL
+- Natalie, 19, varnade för dömd sexbrottsling – döms för förtal - Expressen
+- Schackstjärna föreslås bli Ungerns president - Västerbottens-Kuriren
+- Ny mätning: Många vill vabba för sina husdjur - Sydsvenskan
+- Analyser: Ministervalet visar att han har modet som krävs - Omni – Alla nyheter. Alla perspektiv.
+- Kumla öppnar portarna – första barnen på plats - Nya Wermlands-Tidningen
+- Albert lever med språkstörning: Jag hade tur – många får ingen hjälp - Dagens Nyheter
+- Man död efter högt fall från balkong - Västerbottens-Kuriren
+- En stillastående personbil orsakar stopp i ett körfält på E18 - UNT
+- Ukraina sköt ner tunga robotar i anfallet mot Kiev: ”Fått leverans” - Dagens Nyheter
+- Vance har blivit pappa för fjärde gången - Västerbottens-Kuriren
+- Hundratals förgiftade – epidemi utlyst - Sydsvenskan
+- Ukraina: Dödlig rysk attack mot fraktfartyg - Folkbladet
+- Whiskyboom i kras – blir surdeg i lagerhyllorna - Dagens PS
+- Slaget om AI-assistenterna – EU pressar Google och Apple - Dagens PS
+- Svagt nedåt på börsen - Folkbladet
+- Oljepriset över 90 dollar efter ny oro i Mellanöstern - Affärsvärlden
+- Kommande Galaxy Watch 9 får Snapdragon - Teknikveckan
+- Tv-spel slutar med skivor - 8 Sidor
 
 ## World News
 
@@ -33,20 +33,20 @@ _Updated: 2026-07-20 07:06_
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- Murdochs hemliga drag: Kuppa ut tre av barnen - Omni – Alla nyheter. Alla perspektiv.
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -76,7 +76,6 @@ _Updated: 2026-07-20 07:06_
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -85,6 +84,7 @@ _Updated: 2026-07-20 07:06_
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
@@ -135,30 +135,30 @@ _Updated: 2026-07-20 07:06_
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
-- Genom att odla ekologiskt ris under sommar-höstskörden 2026 kommer jordbrukare i An Giang-provinsen att tjäna ytterligare 11 miljoner VND per hektar. - Vietnam.vn
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jord, kor och klimat - SLU
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - Visning av uppkomst efter direktsådd - Land.se
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
