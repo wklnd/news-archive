@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-20 01:29_
+_Updated: 2026-07-20 05:04_
 
 ## Top Stories
 
-- Johanna Frändén: Spanien är VM-segraren som ingen kan ifrågasätta - Dagens Nyheter
-- Norska förbundet ställer upp för drabbade i Drammen - Västerbottens-Kuriren
+- Det vet vi om branden i Krokstadelva i Drammen - Göteborgs-Posten
+- Nya attacker mellan USA och Iran: ”Slog till hårt” - Västerbottens-Kuriren
 - Ukraina: Dödlig rysk attack mot fraktfartyg - Folkbladet
-- Man skjuten av polis i Sandviken - Aftonbladet
-- Ryska robotangrepp mot Kiev – flera explosioner - Corren
-- Israel hotar Iran med vedergällningsattacker - Göteborgs-Posten
-- SMHI: Gul varning för skyfall i delar av Halland - SVT Nyheter
+- Ukraina sköt ner tunga robotar i anfallet mot Kiev: ”Fått leverans” - Dagens Nyheter
+- Explosion utanför bostad i Södertälje - Göteborgs-Posten
+- Meteorologen: Ingen sommarvärme i sikte för semesterfirarna - TV4 Nyheterna
 - Stillastående personbil ger ett körfält blockerat på E4 - Corren
 - En gripen efter misstänkt våldtäkt i Malmö - Göteborgs-Posten
 - Inställda avgångar över Öresundsbron - Västerbottens-Kuriren
-- Många döda i monsunregn i Indien - Göteborgs-Posten
+- DN Direkt – Man skjuten av polis i Sandviken - Dagens Nyheter
 - Hundratals förgiftade – epidemi utlyst - Sydsvenskan
-- Direkt – Kriget i Ukraina – Zelenskyj: ”Viktiga samtal” med militärtoppar - Dagens Nyheter
-- Skogsbrand rasar norr om Madrid - Göteborgs-Posten
-- Kinesisk AI-teknik utmanar apparna: ”Allas dröm” - Aftonbladet
+- DN Direkt – Många döda i monsunregn i Indien - Dagens Nyheter
+- Skogsbrand rasar norr om Madrid - Aftonbladet
+- Ryssland: Lagerarbetare dödade i Ukraina-attacker - Göteborgs-Posten
+- Blandad börsöppning i Asien – tung inledning för Sydkorea - Börskollen
+- Oljepriset stiger efter orolig helg kring Hormuz - Västerbottens-Kuriren
 - Centern vill öppna snabbspår för stoppade vindkraftsparker - Omni – Alla nyheter. Alla perspektiv.
-- Veckan som kommer: Räntebesked från ECB och Alphabet rapporterar - Dagens industri
-- Mips rusar och Wallenbergs bjässe backar - Affärsvärlden
+- Kinesisk AI-teknik utmanar apparna: ”Allas dröm” - Aftonbladet
 - Socker hittat i gasmoln – i rymden - Hufvudstadsbladet – HBL
-- Apple och Google tvingas ta ner appar för AI-nakenbilder - Omni – Alla nyheter. Alla perspektiv.
+- GameStops VD: Sonys beslut att sluta med PlayStation-skivor är ”irrelevant” - notebookcheck.se
 
 ## World News
 
@@ -43,10 +43,10 @@ _Updated: 2026-07-20 01:29_
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
+- Murdochs hemliga drag: Kuppa ut tre av barnen - Omni – Alla nyheter. Alla perspektiv.
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
@@ -83,7 +83,6 @@ _Updated: 2026-07-20 01:29_
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -91,8 +90,9 @@ _Updated: 2026-07-20 01:29_
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -101,7 +101,6 @@ _Updated: 2026-07-20 01:29_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Sju life science-trender 2026 - Business Region Göteborg
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
@@ -109,13 +108,14 @@ _Updated: 2026-07-20 01:29_
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
@@ -125,20 +125,20 @@ _Updated: 2026-07-20 01:29_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - 5 myter om öppen vetenskap - Läkartidningen
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Simple math behind major bison blunder - Forskning & Framsteg
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 
 ## Jordbruk
 
@@ -161,4 +161,4 @@ _Updated: 2026-07-20 01:29_
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
