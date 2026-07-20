@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-20 21:13_
+_Updated: 2026-07-20 22:48_
 
 ## Top Stories
 
-- 400 nattliga drönare mot Moskva - Corren
-- Emma Bouvin: Medan Trump fotobombar hotar kriget att eskalera utom kontroll - Dagens Nyheter
-- Alexandra från Säffle miste sitt hus i branden - Nya Wermlands-Tidningen
-- ”Vi är lyckligt lottade att Lykke har Downs syndrom” - Aftonbladet
-- Minst två döda i ryska attacker - Hufvudstadsbladet – HBL
 - Läskiga larvlarmet på Böda camping: ”Gå inte nära” - Aftonbladet
+- USA anklagar Kuba för infiltration på hög nivå - SVT Nyheter
+- DN Direkt – Burnham har tillträtt som premiärminister - Dagens Nyheter
+- Minst två döda i ryska attacker - Hufvudstadsbladet – HBL
+- Expertens två scenarion om vad Trump kan göra i Iran - Göteborgs-Posten
+- Kronprinsen hyllas i krisen: ”Norska monarkins ankare” - Dagens Nyheter
+- Trots svalare väder – brandrisk i delar av landet - Västerbottens-Kuriren
 - Nytt uppdrag: Försvaret ska bli mer innovativt - Corren
-- Förlossning på BB Gårda slutade med att bebisen dog - Göteborgs-Posten
 - DEBATT: Polisen beslagtog vår Gaza-skylt - Expressen
-- Flicka döms för dåd mot socialsekreterare - Göteborgs-Posten
-- Andy Burnham ny brittisk premiärminister - Hufvudstadsbladet – HBL
-- DN Direkt – 28-årig man formellt anklagad för mord på brittisk exminister - Dagens Nyheter
-- Trump: Vedergällning för varje dödad amerikan – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Varning för 45-gradig värme i Spanien - Västerbottens-Kuriren
+- Barnomsorgen förändras i Stockholm – kan slå mot föräldrar med obekväma arbetstider - Dagens Nyheter
+- Schackstjärna vill inte bli Ungerns president - Västerbottens-Kuriren
+- Man åtalas för mordet på ex-politikern Ann Widdecombe - SVT Nyheter
+- Branden i Drammen – så länge väntas släckningen ta - Göteborgs-Posten
+- 400 nattliga drönare mot Moskva - Corren
 - Berg-och-dalbana för oljepriset - Göteborgs-Posten
-- Saab har tiofaldigats – klättrar i Investors portfölj - Omni – Alla nyheter. Alla perspektiv.
-- Affärsvärlden behåller Thule i sin aktieportfölj - Affärsvärlden
-- Uppgifter: Google utvecklar nytt AI-chip - Dagens industri
-- ”Chockerande lite plats för lek” - Svenska Dagbladet
-- Galaxy S27 (Plus) hamnar ännu längre efter Pro- och Ultra-modellerna - notebookcheck.se
+- Källor: Google tar fram nytt AI-chip till Gemini - Omni – Alla nyheter. Alla perspektiv.
+- Stockholmsbörsen inleder runt nollan – Thule faller - EFN
+- Wall Street surnar till – oljepriset stiger - Dagens industri
+- Bränt gummi drog storpublik - Folkbladet
+- Butiker läcker ännu högre priser för Samsung Galaxy Z Fold 8 (Ultra), Galaxy Watch 9 och Ultra 2 - notebookcheck.se
 
 ## World News
 
@@ -42,11 +42,11 @@ _Updated: 2026-07-20 21:13_
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Swedish Professional Football Leagues signs Amnesty International World Cup in Qatar protest list - Föreningen Svensk Elitfotboll
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -54,8 +54,8 @@ _Updated: 2026-07-20 21:13_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -129,8 +129,8 @@ _Updated: 2026-07-20 21:13_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
