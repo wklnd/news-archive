@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-20 10:28_
+_Updated: 2026-07-20 13:27_
 
-- US bombs Iran for ninth consecutive night as Hormuz tensions escalate - Al Jazeera
-- Iran War Live Updates: Another U.S. Service Member Is Killed as War Expands - The New York Times
-- Tropical Depression Two forms, could soon become Tropical Storm Bertha while days of rain target the Southeast - FOX Weather
-- Mass shooting rocks crowded downtown Tucson district, leaving 10 wounded - Fox News
-- Trump Says New Air Force One Will Be Taken Out of Service to Be ‘Maxed Out’ - The New York Times
-- Second Democrat drops out of Maine primary - The Hill
-- JD and Usha Vance welcome baby boy, first child born to sitting VP in 156 years - The Guardian
-- FBI shifts immigration agent cases to HSI after recent fatal shootings, sources say - CBS News
-- Family of Five Found Dead After Storms Flooded Utah Canyon - The New York Times
-- Andrew and Tristan Tate arrested on rape, trafficking charges. What to know. - The Washington Post
-- Pledging to 'rewire Britain', 'King of the North' Burnham becomes PM - Reuters
-- Russia pounds Kyiv as NATO military chief warns Moscow would 'lose a lot' by attacking Baltics - CNBC
-- Iran war, Myanmar crisis and South China Sea rifts under the spotlight in ASEAN ministerial talks - AP News
-- Earthquake in Peru Kills 6 and Displaces Hundreds - The New York Times
-- FDA says Taylor Farms lettuce sample tested for cyclospora produced false positive for the parasite - NBC News
-- Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens - The New York Times
-- Live Q&A: Can Moonshot's Kimi Help China Break the US AI Lead? - Bloomberg.com
-- 'I couldn't breathe': South Korea's frenzied stock trading exposes margin loan risks - Reuters
-- Apple’s scrapped Mac Pro plans reportedly included a new Intel model - 9to5Mac
-- Apple Has Reportedly Started Recording and AI-Summarizing Conversations at the Genius Bar - Gizmodo
+- U.S. and Iran launch new strikes after three U.S. service members are killed - NPR
+- Andy Burnham to become prime minister, pledging to 'rewire Britain' - Reuters
+- Republicans don’t want to go there again on Trump’s 2020 election fraud claims - The Washington Post
+- TD 2 predicted to strengthen near upper Gulf Coast - Yale Climate Connections
+- Trump says new Air Force One will be sent to get ‘maxed out’ for upgrades - NBC News
+- US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone - Al Jazeera
+- A woman is on trial for the murder of her 3 children. Her defense argues she may not be ‘criminally responsible’ - CNN
+- Mom killed in flash-flooding incident remembered as fierce businesswoman, adventurer, mentor - KSL.com
+- In Maine Senate Race, Democrats Go From Chaos to Coronation - The New York Times
+- Titanic-sinker or GOP ‘salesman’? A Senate fiscal hawk grabs a critical gavel - Politico
+- Zelensky Sacks Defense Minister, Delays Demise Of Putin - Forbes
+- Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests - AP News
+- Andy Burnham will become UK prime minister after a meeting with King Charles III - AP News
+- Ukraine war live: Putin launches ‘biggest ballistic missile attack on Kyiv’ - The Independent
+- Taylor Farms lettuce sample that tested positive for cyclospora was a false positive, FDA says - CBS News
+- US gas prices hit an average of $4 a gallon again as the US and Iran launch attacks - AP News
+- Moonshot’s Kimi K3 May Be More About Memory Than Compute - Bloomberg.com
+- The secret Trump administration battle to fight Chinese AI - Axios
+- Apple Testing New 'Live Notes' Feature at Genius Bar - MacRumors
+- Galaxy Watch Ultra 2 leak reveals 5,000 nits display, IP69K rating, and more - SamMobile
