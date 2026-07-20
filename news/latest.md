@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-20 13:27_
+_Updated: 2026-07-20 15:28_
 
-- U.S. and Iran launch new strikes after three U.S. service members are killed - NPR
-- Andy Burnham to become prime minister, pledging to 'rewire Britain' - Reuters
+- US identifies soldiers killed in Iranian attack in Jordan after ninth night of strikes – Middle East crisis live - The Guardian
+- ‘King of the North’ Andy Burnham becomes 7th British prime minister in a decade - NBC News
+- Tropical depression forms in Gulf, National Hurricane Center says - USA Today
 - Republicans don’t want to go there again on Trump’s 2020 election fraud claims - The Washington Post
-- TD 2 predicted to strengthen near upper Gulf Coast - Yale Climate Connections
-- Trump says new Air Force One will be sent to get ‘maxed out’ for upgrades - NBC News
-- US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone - Al Jazeera
 - A woman is on trial for the murder of her 3 children. Her defense argues she may not be ‘criminally responsible’ - CNN
-- Mom killed in flash-flooding incident remembered as fierce businesswoman, adventurer, mentor - KSL.com
-- In Maine Senate Race, Democrats Go From Chaos to Coronation - The New York Times
+- Oil prices erase gains after Iran says U.S. talks could be pursued based on national interests - CNBC
+- Fire captain, wife, 3 sons found dead after flash flood in Utah canyon; daughter is family's sole survivor - CBS News
+- NORAD F-16s intercept multiple aircraft violating temporary flight restrictions over New Jersey - Fox News
 - Titanic-sinker or GOP ‘salesman’? A Senate fiscal hawk grabs a critical gavel - Politico
-- Zelensky Sacks Defense Minister, Delays Demise Of Putin - Forbes
-- Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests - AP News
-- Andy Burnham will become UK prime minister after a meeting with King Charles III - AP News
-- Ukraine war live: Putin launches ‘biggest ballistic missile attack on Kyiv’ - The Independent
+- In Maine Senate Race, Democrats Go From Chaos to Coronation - The New York Times
+- US bombing of Iran expands as American troops killed and Tehran retaliates against the Gulf states - AP News
+- Zelensky Faces Pressure to Remove Ukraine’s Top General - The New York Times
+- Yemen's Houthis say they will impose naval blockade against Saudi Arabia - Reuters
+- Ukrainian Attacks Across Russia Kill At Least 4 - The Moscow Times
+- Gas again tops $4 per gallon as Iran fighting persists - Axios
+- World shares are mixed and South Korea’s Kospi drops 4.5% as some AI stocks swoon - AP News
+- EU hits China’s Alibaba with €550M record fine over illegal products - politico.eu
 - Taylor Farms lettuce sample that tested positive for cyclospora was a false positive, FDA says - CBS News
-- US gas prices hit an average of $4 a gallon again as the US and Iran launch attacks - AP News
-- Moonshot’s Kimi K3 May Be More About Memory Than Compute - Bloomberg.com
-- The secret Trump administration battle to fight Chinese AI - Axios
-- Apple Testing New 'Live Notes' Feature at Genius Bar - MacRumors
-- Galaxy Watch Ultra 2 leak reveals 5,000 nits display, IP69K rating, and more - SamMobile
+- Snapdragon 8 Gen 5 phones compared: Which one is right for you?￼ - Gizmochina
+- Apple’s scrapped Mac Pro plans reportedly included a new Intel model - 9to5Mac
