@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-21 00:30_
+_Updated: 2026-07-21 01:30_
 
 ## Top Stories
 
-- Bil har kraschat in i Nordic Wellness gym - Aftonbladet
+- Bil kraschat in i gym i Sundsvall - Svenska Dagbladet
 - Varning för 45-gradig värme i Spanien - Göteborgs-Posten
 - USA anklagar Kuba för infiltration på hög nivå - SVT Nyheter
-- Görans tomt invaderad av attacklarven: ”Hemsk klåda” - Expressen
-- Analyser: Pentagon undviker frågor om Irankriget - Omni – Alla nyheter. Alla perspektiv.
+- Iran: Attackerat Kuwait - Västerbottens-Kuriren
 - DN Direkt – Burnham har tillträtt som premiärminister - Dagens Nyheter
+- I Mexico City byggs spa, simhallar och skejtparker för de fattiga - Dagens Nyheter
 - Trots svalare väder – brandrisk i delar av landet - Göteborgs-Posten
 - DN Direkt – Nytt uppdrag: Försvaret ska bli mer innovativt - Dagens Nyheter
-- DEBATT: Polisen beslagtog vår Gaza-skylt - Expressen
-- Man död efter fall från tredje våningen – utreds som mord - SVT Nyheter
 - DN Direkt – 28-årig man formellt anklagad för mord på brittisk exminister - Dagens Nyheter
-- I Mexico City byggs spa, simhallar och skejtparker för de fattiga - Dagens Nyheter
-- USA genomför attacker för tionde kvällen i rad – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Stopp i ett körfält på grund av en stillastående personbil på E4 - UNT
+- USA inför strafftullar – Kanada har 30 dagar på sig - SVT Nyheter
 - 400 nattliga drönare mot Moskva - Corren
+- Alexandra från Säffle miste sitt hus i branden - Nya Wermlands-Tidningen
+- Trump: Vedergällning för varje dödad amerikan - Västerbottens-Kuriren
 - Berg-och-dalbana för oljepriset - Göteborgs-Posten
 - Stockholmsbörsen inleder runt nollan – Thule faller - EFN
 - Blankningar mot USA-aktier på rekordnivå - Omni – Alla nyheter. Alla perspektiv.
 - Stockholmsbörsen stängde på minus - Affärsvärlden
+- Kartan i Forza Horizon 6: ett Japan byggt för att utforskas, inte beundras - Martin Cid Magazine
 - Bränt gummi drog storpublik - Folkbladet
-- Butiker läcker ännu högre priser för Samsung Galaxy Z Fold 8 (Ultra), Galaxy Watch 9 och Ultra 2 - notebookcheck.se
 
 ## World News
 
@@ -41,8 +41,8 @@ _Updated: 2026-07-21 00:30_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- Swedish Professional Football Leagues signs Amnesty International World Cup in Qatar protest list - Föreningen Svensk Elitfotboll
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -142,8 +142,8 @@ _Updated: 2026-07-21 00:30_
 
 ## Jordbruk
 
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Sveriges förändrade lantbruk - SLU
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
@@ -151,14 +151,14 @@ _Updated: 2026-07-21 00:30_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Lantbrukslogik – nu och i framtiden - SLU
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Jord, kor och klimat - SLU
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Lantbrukslogik – nu och i framtiden - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
