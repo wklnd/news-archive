@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-21 02:59_
+_Updated: 2026-07-21 06:47_
 
 ## Top Stories
 
-- Bil har kraschat in i Nordic Wellness gym - Aftonbladet
-- Stora attacker mot Kiev - 8 Sidor
+- Bil har kört in i gym i Sundsvall - Sveriges Radio
+- Iran: Två fartyg i brand i Hormuzsundet - Göteborgs-Posten
+- Strandhälls kritik mot S: Vill vi ha det så här? - Dagens Nyheter
+- Sänkta straff – efter femte attacken mot Torslandafamilj - Göteborgs-Posten
 - DN Direkt – Varning för 45-gradig värme i Spanien - Dagens Nyheter
-- USA anklagar Kuba för infiltration på hög nivå - Göteborgs-Posten
-- USA genomför attacker för tionde kvällen i rad – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- I Mexico City byggs spa, simhallar och skejtparker för de fattiga - Dagens Nyheter
+- Expert: USA vill ha en ”seger mot Kuba” - Svenska Dagbladet
+- Få och stora företag kan bli sårbarhet i Sveriges beredskap - Sveriges Radio
+- Nytt uppdrag: Försvaret ska bli mer innovativt - Corren
+- DEBATT: Polisen beslagtog vår Gaza-skylt - Expressen
 - Trots svalare väder – brandrisk i delar av landet - Göteborgs-Posten
-- DN Direkt – Nytt uppdrag: Försvaret ska bli mer innovativt - Dagens Nyheter
-- Man åtalas för mordet på ex-politikern Ann Widdecombe - SVT Nyheter
-- Stopp i ett körfält på grund av en stillastående personbil på E4 - UNT
-- USA inför strafftullar – Kanada har 30 dagar på sig - SVT Nyheter
 - Andy Burnham ny brittisk premiärminister - Hufvudstadsbladet – HBL
-- 400 nattliga drönare mot Moskva - Corren
-- Schackstjärna vill inte bli Ungerns president - Västerbottens-Kuriren
-- Berg-och-dalbana för oljepriset - Göteborgs-Posten
+- USA inför strafftullar – Kanada har 30 dagar på sig - SVT Nyheter
+- Statsministern i blåsväder – förnekar korruption - Corren
+- Krigssjukvården hotas av drönare - Sveriges Radio
+- Fetmaläkemedel för katter väntas inte bli kassako - Omni – Alla nyheter. Alla perspektiv.
+- Stigande energipriser efter upptrappning mellan USA och Iran - Dagens Nyheter
+- Wall Street surnar till – oljepriset stiger - Dagens industri
 - Stockholmsbörsen inleder runt nollan – Thule faller - EFN
-- Blankningar mot USA-aktier på rekordnivå - Omni – Alla nyheter. Alla perspektiv.
-- Stockholmsbörsen stängde på minus - Affärsvärlden
-- Kartan i Forza Horizon 6: ett Japan byggt för att utforskas, inte beundras - Martin Cid Magazine
-- Shaq har fått en båt som är en bil. En Impala som flyter. - Feber
+- Playstation slutar med fysiska spel - så påverkas andrahandsmarknaden - Sveriges Radio
+- Baksmälla för whiskyindustrin – ”har nått ett vägskäl” - Tidningen Näringslivet
 
 ## World News
 
 - Esports World Cup 2026: Home -town Team Vitality krönt till MLBB Women's International mästare - Gamereactor
 - Kina tar täten för global kontroll av AI - Dagens Nyheter
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Saab: Vi behöver tillverka fler Global Eye - Omni – Alla nyheter. Alla perspektiv.
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Saab: Vi behöver tillverka fler Global Eye - Omni – Alla nyheter. Alla perspektiv.
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
@@ -54,8 +54,8 @@ _Updated: 2026-07-21 02:59_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
@@ -126,19 +126,19 @@ _Updated: 2026-07-21 02:59_
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Simple math behind major bison blunder - Forskning & Framsteg
+- Tio innovationsprojekt inom livsvetenskap får finansiering från Knut och Alice Wallenbergs Stiftelse och SciLifeLabs Proof-of-Concept-program - Mynewsdesk
 
 ## Jordbruk
 
