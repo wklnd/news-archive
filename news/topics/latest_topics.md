@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-21 12:38_
+_Updated: 2026-07-21 14:53_
 
 ## Top Stories
 
 - CSN: Regeringen vill ändra reglerna – tillsätter utredning - Göteborgs-Posten
-- Trump: Tullar på 50 procent på varor från Kanada - Hufvudstadsbladet – HBL
-- DN Direkt – Strandhälls kritik mot S: Vill vi ha det så här? - Dagens Nyheter
-- Då kommer veckans soltopp – ”behagligt semesterväder” - Expressen
-- Bilder: Bil kraschade in i gym i Sundsvall - Västerbottens-Kuriren
+- Barn i bilen som kraschade in i gym i Sundsvall - Västerbottens-Kuriren
+- Lastbilsförare körde in i husvagn – en svårt skadad - Aftonbladet
+- En avliden efter studentboendebranden på Kronoparken i Karlstad - SVT Nyheter
 - Björn af Kleen: Musks kvasidepartement går i graven efter att hundratusentals fattiga dött - Dagens Nyheter
-- DN Direkt – En död efter kraftig brand i Karlstad - Dagens Nyheter
+- Jordanien: Har avvärjt nya iranska attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - SMHI: Ingen värmebölja i sikte - Västerbottens-Kuriren
-- Stor brandrisk längs Västkusten - SVT Nyheter
 - Fängelse för stor fastighetshärva i Södertälje - Västerbottens-Kuriren
+- Strandhälls kritik mot S: Vill vi ha det så här? - Dagens Nyheter
+- Tolv TBE-fall konstaterade under 2026 - Örebronyheter
 - DN Direkt – Efter storbranden i Norge – spridningsrisken över - Dagens Nyheter
-- Trump: Vedergällning för varje dödad amerikan - Hufvudstadsbladet – HBL
 - Frankrike först i EU: sociala medier-förbud för barn - Corren
-- Bulgarien lämnar Ukrainakoalition – kan bromsa EU - Sveriges Radio
-- Oljepriset backar något - Privata Affärer
-- Hög andel unga anförtror sig till AI – omedvetna om riskerna - nyteknik
-- Fetmaläkemedel för katter väntas inte bli kassako - Omni – Alla nyheter. Alla perspektiv.
-- Börsen ser ut att öppna i sidled - Göteborgs-Posten
+- Förtroendet mäts för hela regeringen i dag - Hufvudstadsbladet – HBL
+- Iran: Två fartyg i brand i Hormuzsundet - Göteborgs-Posten
+- Oljepriset över 90 dollar per fat igen - Västerbottens-Kuriren
+- Novo Nordisk stämmer Eli Lilly för vilseledande reklam - Omni – Alla nyheter. Alla perspektiv.
+- Hacksaw: Casinomaskinen tappar tempo - Affärsvärlden
+- Marknaden alltmer skeptisk över Space X utveckling - Omni – Alla nyheter. Alla perspektiv.
 - Microsoft bekräftar strul med WSUS - Computer Sweden
 - Mikropatch täpper till sårbarheten Legacy Hive - Computer Sweden
 
 ## World News
 
 - Esports World Cup 2026: Home -town Team Vitality krönt till MLBB Women's International mästare - Gamereactor
-- Kina tar täten för global kontroll av AI - Dagens Nyheter
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Coca-Cola Unveils a New Global Brand Identity - PRINT Magazine
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Saab: Vi behöver tillverka fler Global Eye - Omni – Alla nyheter. Alla perspektiv.
+- Kina tar täten för global kontroll av AI - Dagens Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
@@ -53,12 +53,11 @@ _Updated: 2026-07-21 12:38_
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
@@ -67,6 +66,7 @@ _Updated: 2026-07-21 12:38_
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -96,26 +96,26 @@ _Updated: 2026-07-21 12:38_
 
 ## Health
 
+- »Existentiell hälsa« är ingen trosfråga – den är en folkhälsofråga - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Ett år för existentiell hälsa - Läkartidningen
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Ett år för existentiell hälsa - Läkartidningen
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Anders Printz tar över Uppdrag psykisk hälsa på SKR - Läkartidningen
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
+- Region Dalarnas sjukvårdsdirektör lämnar sin post - Läkartidningen
 
 ## Science
 
