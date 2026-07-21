@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-21 01:30_
+_Updated: 2026-07-21 02:59_
 
 ## Top Stories
 
-- Bil kraschat in i gym i Sundsvall - Svenska Dagbladet
-- Varning för 45-gradig värme i Spanien - Göteborgs-Posten
-- USA anklagar Kuba för infiltration på hög nivå - SVT Nyheter
-- Iran: Attackerat Kuwait - Västerbottens-Kuriren
-- DN Direkt – Burnham har tillträtt som premiärminister - Dagens Nyheter
+- Bil har kraschat in i Nordic Wellness gym - Aftonbladet
+- Stora attacker mot Kiev - 8 Sidor
+- DN Direkt – Varning för 45-gradig värme i Spanien - Dagens Nyheter
+- USA anklagar Kuba för infiltration på hög nivå - Göteborgs-Posten
+- USA genomför attacker för tionde kvällen i rad – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - I Mexico City byggs spa, simhallar och skejtparker för de fattiga - Dagens Nyheter
 - Trots svalare väder – brandrisk i delar av landet - Göteborgs-Posten
 - DN Direkt – Nytt uppdrag: Försvaret ska bli mer innovativt - Dagens Nyheter
-- DN Direkt – 28-årig man formellt anklagad för mord på brittisk exminister - Dagens Nyheter
+- Man åtalas för mordet på ex-politikern Ann Widdecombe - SVT Nyheter
 - Stopp i ett körfält på grund av en stillastående personbil på E4 - UNT
 - USA inför strafftullar – Kanada har 30 dagar på sig - SVT Nyheter
+- Andy Burnham ny brittisk premiärminister - Hufvudstadsbladet – HBL
 - 400 nattliga drönare mot Moskva - Corren
-- Alexandra från Säffle miste sitt hus i branden - Nya Wermlands-Tidningen
-- Trump: Vedergällning för varje dödad amerikan - Västerbottens-Kuriren
+- Schackstjärna vill inte bli Ungerns president - Västerbottens-Kuriren
 - Berg-och-dalbana för oljepriset - Göteborgs-Posten
 - Stockholmsbörsen inleder runt nollan – Thule faller - EFN
 - Blankningar mot USA-aktier på rekordnivå - Omni – Alla nyheter. Alla perspektiv.
 - Stockholmsbörsen stängde på minus - Affärsvärlden
 - Kartan i Forza Horizon 6: ett Japan byggt för att utforskas, inte beundras - Martin Cid Magazine
-- Bränt gummi drog storpublik - Folkbladet
+- Shaq har fått en båt som är en bil. En Impala som flyter. - Feber
 
 ## World News
 
@@ -31,18 +31,18 @@ _Updated: 2026-07-21 01:30_
 - Kina tar täten för global kontroll av AI - Dagens Nyheter
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Saab: Vi behöver tillverka fler Global Eye - Omni – Alla nyheter. Alla perspektiv.
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Global turism slog nytt rekord under 2025 - travelnews-se
-- Swedish Professional Football Leagues signs Amnesty International World Cup in Qatar protest list - Föreningen Svensk Elitfotboll
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -126,19 +126,19 @@ _Updated: 2026-07-21 01:30_
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Olika slutsatser från samma data - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Simple math behind major bison blunder - Forskning & Framsteg
-- Tio innovationsprojekt inom livsvetenskap får finansiering från Knut och Alice Wallenbergs Stiftelse och SciLifeLabs Proof-of-Concept-program - Mynewsdesk
 
 ## Jordbruk
 
