@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-21 20:49_
+_Updated: 2026-07-21 22:45_
 
 ## Top Stories
 
-- Det ligger bakom Trumps nya tullhot mot Kanada - Dagens Nyheter
-- Barn i bilen som kraschade in i gym - TV4 Nyheterna
-- En misstänkt efter branden i Drammen - Göteborgs-Posten
-- Libanons president lovad hjälp av Trump - Västerbottens-Kuriren
-- Mathias Ståhle: Gängens fabriker en mardröm för polisen - Svenska Dagbladet
-- DN Direkt – Spanien vill förbjuda rökning på uteserveringar - Dagens Nyheter
+- Charlie, 20, tränade på Nordic Wellness – bil kraschade in i gym - Aftonbladet
+- Zelenskyj avskedar Ukrainas militärchef - Folkbladet
+- DN Direkt – Polisen: Person delgiven misstanke efter branden i Drammen - Dagens Nyheter
+- Gripen mötte ryska bombplan över Östersjön - Västerbottens-Kuriren
+- Ryskt krigsfartyg sköt skarpt vid brittiska kusten - Göteborgs-Posten
+- ”USA är så splittrat och förvirrat just nu” - Svenska Dagbladet
 - CSN: Regeringen vill ändra reglerna – tillsätter utredning - Göteborgs-Posten
-- DN Direkt – Surfande säl i Hanöbukten - Dagens Nyheter
-- Så vill regeringen skydda äldre från värmeböljor: ”Livsfarligt” - Arbetet
 - Polis var skjutinstruktör åt kriminella – riskerar avsked - Dagens Nyheter
+- Surfande säl i Hanöbukten: ”Inte sett liknande” - Corren
+- Stockholmare vill ha turister – utom här - Dagens Nyheter
+- Karin Eriksson: Finlands statsminister sitter kvar – men ”kumpan”-kritiken kan kleta sig fast - Dagens Nyheter
 - Åklagaren: Widdecombe dödades med 21 hammarslag - Göteborgs-Posten
 - FN fördömer Israels upptrappning i Gaza - Västerbottens-Kuriren
-- Källor: Akut pengakris i Pentagon - Dagens Nyheter
-- Ryskt krigsfartyg sköt skarpt vid övning utanför Storbritannien - Dagens Nyheter
-- Banker och halvledare drog börsloket - Dagens industri
-- Novo Nordisk stämmer Eli Lilly för vilseledande GLP-1-reklam - Biostock
-- Rapspriset skjuter i höjden efter konflikter i Svarta havet - Börskollen
+- Det ligger bakom Trumps nya tullhot mot Kanada - Dagens Nyheter
+- Raps och majs rusar till treårshögsta - Dagens industri
 - Oljepriset över 90 dollar per fat igen - Västerbottens-Kuriren
+- AI-aktier agerade draglok på muntert Wall Street - Privata Affärer
+- AI-kampen hårdnar – jättar slår larm om kinesiska rivaler - Omni – Alla nyheter. Alla perspektiv.
 - Analytiker: 7 Playstation-spel har sålts i över 100 000 fysiska ex under 2026 i USA - FZ.se
 - One UI 9 beta gör Privacy Display på Galaxy S26 Ultra betydligt mer användbar - notebookcheck.se
 
@@ -29,7 +29,6 @@ _Updated: 2026-07-21 20:49_
 
 - Lansering av tävlingen Miss Global Business Elite 2026. - Vietnam.vn
 - Esports World Cup 2026: Home -town Team Vitality krönt till MLBB Women's International mästare - Gamereactor
-- Road deaths fall by 21% globally but stronger action is needed to save lives - World Health Organization (WHO)
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
@@ -40,13 +39,14 @@ _Updated: 2026-07-21 20:49_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -60,7 +60,6 @@ _Updated: 2026-07-21 20:49_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
@@ -70,6 +69,7 @@ _Updated: 2026-07-21 20:49_
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
@@ -110,12 +110,12 @@ _Updated: 2026-07-21 20:49_
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Anders Printz tar över Uppdrag psykisk hälsa på SKR - Läkartidningen
+- Ökad hälsomedvetenhet kan öka människors hälsoångest - Läkartidningen
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Region Dalarnas sjukvårdsdirektör lämnar sin post - Läkartidningen
 
 ## Science
 
@@ -154,7 +154,6 @@ _Updated: 2026-07-21 20:49_
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Lantbrukslogik – nu och i framtiden - SLU
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - Visning av uppkomst efter direktsådd - Land.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
@@ -162,3 +161,4 @@ _Updated: 2026-07-21 20:49_
 - Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
