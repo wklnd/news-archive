@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-21 06:47_
+_Updated: 2026-07-21 09:54_
 
 ## Top Stories
 
+- Trumps nya tullar mot Kanada – ändrar sig om skälen - Dagens Nyheter
 - Bil har kört in i gym i Sundsvall - Sveriges Radio
-- Iran: Två fartyg i brand i Hormuzsundet - Göteborgs-Posten
 - Strandhälls kritik mot S: Vill vi ha det så här? - Dagens Nyheter
+- Trump: Vedergällning för varje dödad amerikan - Hufvudstadsbladet – HBL
 - Sänkta straff – efter femte attacken mot Torslandafamilj - Göteborgs-Posten
-- DN Direkt – Varning för 45-gradig värme i Spanien - Dagens Nyheter
-- Expert: USA vill ha en ”seger mot Kuba” - Svenska Dagbladet
-- Få och stora företag kan bli sårbarhet i Sveriges beredskap - Sveriges Radio
-- Nytt uppdrag: Försvaret ska bli mer innovativt - Corren
-- DEBATT: Polisen beslagtog vår Gaza-skylt - Expressen
+- Ebolautbrottet i Kongo-Kinshasa: Nästan 1 000 döda - SVT Nyheter
 - Trots svalare väder – brandrisk i delar av landet - Göteborgs-Posten
-- Andy Burnham ny brittisk premiärminister - Hufvudstadsbladet – HBL
-- USA inför strafftullar – Kanada har 30 dagar på sig - SVT Nyheter
-- Statsministern i blåsväder – förnekar korruption - Corren
-- Krigssjukvården hotas av drönare - Sveriges Radio
+- DEBATT: Högern vill sälja ut Wiks slott - UNT
+- Tallprocessionsspinnaren tvingar arrangör att ställa in lopp - Helagotland
+- Handläggare slår larm om brister efter fallet ”Elsa” - Omni – Alla nyheter. Alla perspektiv.
+- Finlands statsminister i blåsväder – förnekar korruption - Dagens Nyheter
+- Burnham ny brittisk premiärminister - Corren
+- Varning för 45-gradig värme i Spanien - Göteborgs-Posten
+- DN Direkt – Många döda i färjeolycka utanför Guyana - Dagens Nyheter
+- Berg-och-dalbana för oljepriset - Göteborgs-Posten
 - Fetmaläkemedel för katter väntas inte bli kassako - Omni – Alla nyheter. Alla perspektiv.
-- Stigande energipriser efter upptrappning mellan USA och Iran - Dagens Nyheter
-- Wall Street surnar till – oljepriset stiger - Dagens industri
-- Stockholmsbörsen inleder runt nollan – Thule faller - EFN
+- Han gav bort nästan 40 miljarder – sedan dog han - Dagens PS
+- Börsen ser ut att öppna i sidled - Folkbladet
 - Playstation slutar med fysiska spel - så påverkas andrahandsmarknaden - Sveriges Radio
-- Baksmälla för whiskyindustrin – ”har nått ett vägskäl” - Tidningen Näringslivet
+- Populära smartklockor – från lyx till budget - Aftonbladet
 
 ## World News
 
@@ -43,26 +43,26 @@ _Updated: 2026-07-21 06:47_
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
@@ -76,6 +76,7 @@ _Updated: 2026-07-21 06:47_
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -83,7 +84,6 @@ _Updated: 2026-07-21 06:47_
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
