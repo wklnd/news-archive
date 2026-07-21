@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-22 00:27_
+_Updated: 2026-07-22 01:28_
 
 ## Top Stories
 
 - Zelenskyj byter ut Ukrainas militärchef - Dagens Nyheter
-- Misstänkt mordförsök i Botkyrka - SVT Nyheter
-- Person delgiven misstanke efter branden i Drammen - Corren
 - Charlie, 20, tränade på Nordic Wellness – bil kraschade in i gym - Aftonbladet
-- Ukraina får licens för brittiska haubitsar - Göteborgs-Posten
+- Ung man knivhuggen i ryggen – mordförsök utreds - Västerbottens-Kuriren
 - Gripen mötte ryska bombplan över Östersjön - Västerbottens-Kuriren
+- Ryskt krigsfartyg sköt skarpt vid brittiska kusten - Göteborgs-Posten
+- DN Direkt – Gripen gick upp för att möta ryska bombplan över Östersjön - Dagens Nyheter
 - CSN: Regeringen vill ändra reglerna – tillsätter utredning - Göteborgs-Posten
 - DN Direkt – Surfande säl i Hanöbukten - Dagens Nyheter
 - Stockholmare vill ha turister – utom här - Dagens Nyheter
-- Polis var skjutinstruktör åt kriminella – riskerar avsked - Dagens Nyheter
+- Studie: Kor på grönbete har mer rörelsefrihet än barn - News55
 - Karin Eriksson: Finlands statsminister sitter kvar – men ”kumpan”-kritiken kan kleta sig fast - Dagens Nyheter
-- Åklagaren: Widdecombe dödades med 21 hammarslag - Göteborgs-Posten
-- Trump: Tullar på 50 procent på varor från Kanada - Hufvudstadsbladet – HBL
-- Ryskt krigsfartyg sköt skarpt vid brittiska kusten - Göteborgs-Posten
+- Person delgiven misstanke efter branden i Drammen - Corren
+- Åklagare: Politiker dödades med hammare - Västerbottens-Kuriren
+- Niovåningshuset i lågor efter ryska attacker - Expressen
 - Uppdatering avseende utgången lock-up-period och insynspersoners transaktioner i Sivers Semiconductors - Cision News
 - Oljepriset över 90 dollar per fat igen - Västerbottens-Kuriren
 - AI-kampen hårdnar – jättar slår larm om kinesiska rivaler - Omni – Alla nyheter. Alla perspektiv.
 - DN Direkt – Svagt uppåt på börsen – rapportfall för Boliden - Dagens Nyheter
 - Analytiker: 7 Playstation-spel har sålts i över 100 000 fysiska ex under 2026 i USA - FZ.se
-- Slut med uppdateringar för Pixel 6-serien - mobil.se
+- Butiker läcker ännu högre priser för Samsung Galaxy Z Fold 8 (Ultra), Galaxy Watch 9 och Ultra 2 - notebookcheck.se
 
 ## World News
 
@@ -31,11 +31,11 @@ _Updated: 2026-07-22 00:27_
 - Esports World Cup 2026: Home -town Team Vitality krönt till MLBB Women's International mästare - Gamereactor
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Värmebölja i södra Europa – så påverkar global uppvärmning - SVT Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
