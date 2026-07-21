@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-21 22:45_
+_Updated: 2026-07-22 00:27_
 
 ## Top Stories
 
+- Zelenskyj byter ut Ukrainas militärchef - Dagens Nyheter
+- Misstänkt mordförsök i Botkyrka - SVT Nyheter
+- Person delgiven misstanke efter branden i Drammen - Corren
 - Charlie, 20, tränade på Nordic Wellness – bil kraschade in i gym - Aftonbladet
-- Zelenskyj avskedar Ukrainas militärchef - Folkbladet
-- DN Direkt – Polisen: Person delgiven misstanke efter branden i Drammen - Dagens Nyheter
+- Ukraina får licens för brittiska haubitsar - Göteborgs-Posten
 - Gripen mötte ryska bombplan över Östersjön - Västerbottens-Kuriren
-- Ryskt krigsfartyg sköt skarpt vid brittiska kusten - Göteborgs-Posten
-- ”USA är så splittrat och förvirrat just nu” - Svenska Dagbladet
 - CSN: Regeringen vill ändra reglerna – tillsätter utredning - Göteborgs-Posten
-- Polis var skjutinstruktör åt kriminella – riskerar avsked - Dagens Nyheter
-- Surfande säl i Hanöbukten: ”Inte sett liknande” - Corren
+- DN Direkt – Surfande säl i Hanöbukten - Dagens Nyheter
 - Stockholmare vill ha turister – utom här - Dagens Nyheter
+- Polis var skjutinstruktör åt kriminella – riskerar avsked - Dagens Nyheter
 - Karin Eriksson: Finlands statsminister sitter kvar – men ”kumpan”-kritiken kan kleta sig fast - Dagens Nyheter
 - Åklagaren: Widdecombe dödades med 21 hammarslag - Göteborgs-Posten
-- FN fördömer Israels upptrappning i Gaza - Västerbottens-Kuriren
-- Det ligger bakom Trumps nya tullhot mot Kanada - Dagens Nyheter
-- Raps och majs rusar till treårshögsta - Dagens industri
+- Trump: Tullar på 50 procent på varor från Kanada - Hufvudstadsbladet – HBL
+- Ryskt krigsfartyg sköt skarpt vid brittiska kusten - Göteborgs-Posten
+- Uppdatering avseende utgången lock-up-period och insynspersoners transaktioner i Sivers Semiconductors - Cision News
 - Oljepriset över 90 dollar per fat igen - Västerbottens-Kuriren
-- AI-aktier agerade draglok på muntert Wall Street - Privata Affärer
 - AI-kampen hårdnar – jättar slår larm om kinesiska rivaler - Omni – Alla nyheter. Alla perspektiv.
+- DN Direkt – Svagt uppåt på börsen – rapportfall för Boliden - Dagens Nyheter
 - Analytiker: 7 Playstation-spel har sålts i över 100 000 fysiska ex under 2026 i USA - FZ.se
-- One UI 9 beta gör Privacy Display på Galaxy S26 Ultra betydligt mer användbar - notebookcheck.se
+- Slut med uppdateringar för Pixel 6-serien - mobil.se
 
 ## World News
 
@@ -31,16 +31,16 @@ _Updated: 2026-07-21 22:45_
 - Esports World Cup 2026: Home -town Team Vitality krönt till MLBB Women's International mästare - Gamereactor
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Värmebölja i södra Europa – så påverkar global uppvärmning - SVT Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -124,7 +124,7 @@ _Updated: 2026-07-21 22:45_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
@@ -132,8 +132,8 @@ _Updated: 2026-07-21 22:45_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
