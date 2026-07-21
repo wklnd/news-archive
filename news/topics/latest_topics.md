@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-21 17:21_
+_Updated: 2026-07-21 18:54_
 
 ## Top Stories
 
-- Barn i bilen som kraschade in i gym i Sundsvall - Västerbottens-Kuriren
-- DN Direkt – Polisen: Person delgiven misstanke efter branden i Drammen - Dagens Nyheter
-- CSN: Regeringen vill ändra reglerna – tillsätter utredning - Göteborgs-Posten
-- Olycka på E6 söder om Strömstad – person påkörd - SVT Nyheter
 - Det ligger bakom Trumps nya tullhot mot Kanada - Dagens Nyheter
-- Bahrain och Jordanien: Avvärjt iranska attacker - Hufvudstadsbladet – HBL
+- En misstänkt efter branden i Drammen - Göteborgs-Posten
+- Barn i bilen som kraschade in i gym i Sundsvall - Västerbottens-Kuriren
+- Olycka på E6 söder om Strömstad – person påkörd - SVT Nyheter
+- DN Direkt – Spanien vill förbjuda rökning på uteserveringar - Dagens Nyheter
+- Mathias Ståhle: Gängens fabriker en mardröm för polisen - Svenska Dagbladet
+- CSN: Regeringen vill ändra reglerna – tillsätter utredning - Göteborgs-Posten
+- DN Direkt – Surfande säl i Hanöbukten - Dagens Nyheter
 - Så vill regeringen skydda äldre från värmeböljor: ”Livsfarligt” - Arbetet
 - Polis var skjutinstruktör åt kriminella – riskerar avsked - Dagens Nyheter
-- SMHI: Ingen värmebölja i sikte - Västerbottens-Kuriren
-- Strandhäll (S) om rollen i sociala medier: ”Utsedd av partiledningen” - Göteborgs-Posten
 - FN fördömer Israels upptrappning i Gaza - Västerbottens-Kuriren
-- Statsministern i blåsväder – förnekar korruption - Corren
 - Bulgarien drar sig ur Coalition of the Willing - Sveriges Radio
 - Frankrike först i EU: sociala medier-förbud för barn - SVT Nyheter
+- Åklagaren: Widdecombe dödades med 21 hammarslag - Göteborgs-Posten
+- Banker och halvledare drog börsloket - Dagens industri
 - Hacksaw: Casinomaskinen tappar tempo - Affärsvärlden
-- Oljepriset över 90 dollar per fat igen - Västerbottens-Kuriren
 - Novo Nordisk stämmer Eli Lilly för vilseledande GLP-1-reklam - Biostock
-- Raps och majs rusar till treårshögsta - Dagens industri
+- Rapspriset skjuter i höjden efter konflikter i Svarta havet - Börskollen
 - Analytiker: 7 Playstation-spel har sålts i över 100 000 fysiska ex under 2026 i USA - FZ.se
-- Därför går Bröd & salt så bra – och Waynes coffee i konkurs - ETC.se
+- Populära smartklockor – från lyx till budget - Aftonbladet
 
 ## World News
 
 - Esports World Cup 2026: Home -town Team Vitality krönt till MLBB Women's International mästare - Gamereactor
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- Värmebölja i södra Europa – så påverkar global uppvärmning - SVT Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Kina tar täten för global kontroll av AI - Dagens Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -96,21 +96,21 @@ _Updated: 2026-07-21 17:21_
 
 ## Health
 
-- »Existentiell hälsa« är ingen trosfråga – den är en folkhälsofråga - Läkartidningen
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Ett år för existentiell hälsa - Läkartidningen
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Vi presenterar HealthBench - OpenAI
-- Ett år för existentiell hälsa - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Anders Printz tar över Uppdrag psykisk hälsa på SKR - Läkartidningen
+- »Existentiell hälsa« är ingen trosfråga – den är en folkhälsofråga - Läkartidningen
 - Hälsoundersökningarna räddar liv - Läkartidningen
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
