@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-22 22:38_
+_Updated: 2026-07-23 00:33_
 
 ## Top Stories
 
+- Man död efter balkongfall – misstänkt mord - Sydsvenskan
 - Guide: Detta gäller om du vill avboka resan på grund av extremvärme - Göteborgs-Posten
 - Direkt – Krisen i Mellanöstern – Iran: Minst 53 dödade i amerikanska attacker i juli - Dagens Nyheter
-- Massiva bränder i södra Ryssland efter attacker - Göteborgs-Posten
-- 15 år sedan terrordåden – Stoltenberg öppnar sina anteckningar - SVT Nyheter
+- Titta, lukta och smaka – rötmånad hela sommaren - Nya Wermlands-Tidningen
 - Varvet: ”Ni handlar med Ryssland, inte vi” - Svenska Dagbladet
-- Direkt – Kriget i Ukraina – Inget beslut om nya sanktioner mot Ryssland - Dagens Nyheter
-- Misstänkt mord i Stockholm – man föll från balkong - SVT Nyheter
-- Knivattacken i Helsingborg: tolvåring misstänkt - Göteborgs-Posten
-- Bebis dog – barnmorska på BB Gårda anmäls - Dagens Nyheter
+- DN Direkt – Oenighet i EU nya sanktioner mot Ryssland - Dagens Nyheter
+- 12-åring misstänks för mordförsök – kopplas till våldsamt Tiktok-konto - SVT Nyheter
+- Kycklingfilé återkallas – salmonellarisk - Västerbottens-Kuriren
 - Kraschade in i ett gym – dottern räddade deras liv - Västerbottens-Kuriren
-- Tyr på listan över hotade världsarv - Västerbottens-Kuriren
-- Överdödligheten ”utan motstycke” i Frankrike - Corren
-- Oaktsamhet kan ligga bakom branden i Drammen - Hufvudstadsbladet – HBL
-- Emma Bouvin: Trumps möte i Vita huset måste svida för Netanyahu - Dagens Nyheter
+- Bebis dog – barnmorska på BB Gårda anmäls - Dagens Nyheter
+- USA och Saudiarabien ingår historiskt kärnenergiavtal - SVT Nyheter
+- Huthirebellerna hotar att stänga "det andra Hormuz" - Göteborgs-Posten
+- Massiva bränder i södra Ryssland efter attacker - Västerbottens-Kuriren
+- DN Direkt – Tyr med på listan över hotade världsarv - Dagens Nyheter
 - Trumps tullkrig trappas upp: ”Helt annan nivå” - Svenska Dagbladet
 - Trippelsmockan får oljan att rusa: ”Perfekt storm” - EFN
 - Stockholmsbörsen steg tydligt - Placera.se
 - Avvaktande handel på Wall Street - Västerbottens-Kuriren
 - Analytiker: 7 Playstation-spel har sålts i över 100 000 fysiska ex under 2026 i USA - FZ.se
-- Nyupptäckt solsystem ger huvudbry: ”Vad är en planet, vad är en måne?” - Sveriges Radio
+- Därför skapades Samsung Galaxy Z Fold 8 – en passliknande vikbar telefon som sätter "en ny standard för innehåll" - TechRadar
 
 ## World News
 
@@ -34,7 +34,6 @@ _Updated: 2026-07-22 22:38_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
@@ -47,6 +46,7 @@ _Updated: 2026-07-22 22:38_
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
 
@@ -58,7 +58,6 @@ _Updated: 2026-07-22 22:38_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -68,6 +67,7 @@ _Updated: 2026-07-22 22:38_
 - Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Open AI släpper GPT-5.2 – ska utmana Gemini 3 - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 
@@ -76,7 +76,6 @@ _Updated: 2026-07-22 22:38_
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -85,6 +84,7 @@ _Updated: 2026-07-22 22:38_
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Vilken framtid arbetar du för? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
@@ -103,8 +103,8 @@ _Updated: 2026-07-22 22:38_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - En nationell, miljömässigt hållbar hälso- och sjukvård i sikte - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
