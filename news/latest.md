@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-22 03:05_
+_Updated: 2026-07-22 06:51_
 
-- Trump Administration Live Updates: Hegseth Estimates Cost of Iran War Has Reached $37.5 Billion - The New York Times
-- Zelenskyy fires Ukraine’s army chief and offers Fedorov ‘prominent position’ - The Guardian
-- Tankers with Saudi crude turn back as Houthis open new front in US-Iran war - Reuters
-- Trump’s Canada tariff leaves Maine Republicans scrambling for distance - Politico
-- Trump vows U.S. will soon bomb Iran's Pickaxe Mountain - Axios
-- Trump says he will impose tariffs on generic drugs starting in August 2028 - Politico
-- US military identifies 3rd service member believed to have been killed in Iranian attack - AP News
-- The Tate Brothers’ Legal Problems Are Getting Worse. Here’s the Latest - Rolling Stone
-- Celeste Rivas Hernandez Was 'Unrecognizable,' Cop Who Saw Remains Testifies at D4vd Hearing - Rolling Stone
-- Cornyn threatens to block Trump’s ambassadors over AIDS prevention funding - Politico
-- 3 Myths Fueling Anti-Immigrant Sentiment in South Africa - The New York Times
-- Photos show Israel building miles-long earthen barrier inside area it holds in Gaza - The Times of Israel
-- India student protests give opposition a rare opening against Modi - Reuters
-- France becomes the first EU country to ban social media for children - CNN
-- OpenAI Models Escaped Containment and Hacked Hugging Face - WIRED
+- July 21, 2026 — Pete Hegseth testifies at hearing on Iran funding, says war cost $37.5 billion - CNN
+- Rep. Andy Biggs wins GOP primary for Arizona governor - Politico
+- Zelensky ousts Ukraine’s military commander as major shake-up continues - The Washington Post
+- Carney says he and Trump will intensify trade negotiations after US imposes 50% tariffs - AP News
+- House votes to extend government funding, aiming to avoid an election year shutdown - NPR
+- Trump says US will ‘take care’ of Houthis if Red Sea strait blocked - The Hill
+- Mamdani Calls Netanyahu a ‘War Criminal’ and Calls on U.S. to Arrest Him - The New York Times
+- Little Fire: Firefighter injured, evacuations ordered as wildfire explodes to 950 acres near Pleasanton in Alameda County - ABC7 Bay Area
+- What is Pickaxe Mountain, Iran’s underground nuclear facility Trump is threatening to attack? - The Guardian
+- Alexander Kolodin, who tried to overturn Arizona election results, wins GOP nod for secretary of state - NBC News
+- Woman gives birth to rare identical quadruplet daughters - ABC7 Los Angeles
+- Israel is building a miles-long earthen barrier inside Gaza, entrenching its division - AP News
+- US attacks Iran for 11th consecutive night - Al Jazeera
+- Inside the Fight to Rid South Africa of Black Immigrants - The New York Times
+- OpenAI admits an AI ‘agent’ caused a major cyber breach by itself - Financial Times
+- Google releases three new Gemini models — but no 3.5 Pro - TechCrunch
 - Novo sues Lilly, claiming misleading ads in weight-loss drug battle - Reuters
-- Michigan couple sues Taco Bell, Taylor Farms over Cyclospora outbreak linked to contaminated lettuce - ClickOnDetroit | WDIV Local 4
-- Supermicro stock jumps on gross margin raise amid record $60 billion backlog - Yahoo Finance
-- Apple’s rumored ‘Upgrade’ program brings lease-to-own pricing for iPhones, Macs, and iPads - The Verge
-- AI and the rise of the universal entertainment app - TechCrunch
+- Army vet sues Taco Bell after ‘explosive diarrhea’ parasite lands him in hospital - NewsNation
+- Samsung Galaxy Unpacked Live: Z Fold 8, Z Flip 8 Expected - CNET
+- Claude Code Can Now Build and Test iOS Apps in Apple's Simulator - MacRumors
