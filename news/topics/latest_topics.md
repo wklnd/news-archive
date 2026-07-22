@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-22 02:55_
+_Updated: 2026-07-22 06:47_
 
 ## Top Stories
 
 - Zelenskyj byter ut Ukrainas militärchef - Dagens Nyheter
-- Charlies änglavakt – tränade på gymmet när bilen kraschade - Sveriges Radio
-- Ukraina får licens för brittiska haubitsar - Dagens Nyheter
-- Libanons president lovad hjälp av Trump - Göteborgs-Posten
-- Ung man knivhuggen i ryggen – mordförsök utreds - Västerbottens-Kuriren
-- Gripen mötte ryska bombplan över Östersjön - Västerbottens-Kuriren
-- Surfande säl i Hanöbukten: ”Inte sett liknande” - Corren
-- Studie: Kor på grönbete har mer rörelsefrihet än barn - News55
-- Regeringskansliet: Anteckningsblocket borta - SVT Nyheter
-- Vill ändra regler för CSN – fribeloppet ses över - NT
-- Karin Eriksson: Finlands statsminister sitter kvar – men ”kumpan”-kritiken kan kleta sig fast - Dagens Nyheter
-- Trump: Tullar på 50 procent på varor från Kanada - Hufvudstadsbladet – HBL
-- Ryskt krigsfartyg sköt skarpt vid brittiska kusten - Göteborgs-Posten
 - USA: Ny våg av attacker mot Iran - Västerbottens-Kuriren
-- Uppdatering avseende utgången lock-up-period och insynspersoners transaktioner i Sivers Semiconductors - Cision News
+- 15 år sedan Utøya – Breivik inspirerar allt fler högerextremister - Göteborgs-Posten
+- Ny mätning: Stödet för M-ledaren sjunker – gapet växer - Omni – Alla nyheter. Alla perspektiv.
+- Gratis förskola – har Tranemo löst krisen i befolkningsfrågan? - Dagens Nyheter
+- DN Direkt – Kanadas svar på USA-tullar: Inställd broceremoni - Dagens Nyheter
+- Politikern om uppgifterna om påverkan i Elsa-fallet: ”Extremt allvarligt” - SVT Nyheter
+- Ytterligare en knivskadad – utreder mordförsök - Västerbottens-Kuriren
+- Barn i bilen som kraschade in i gym i Sundsvall - Västerbottens-Kuriren
+- Natali hade 21 patienter ensam på akuten: ”Fysiskt och psykiskt slut” - SVT Nyheter
+- Karin Eriksson: Finlands statsminister sitter kvar – men ”kumpan”-kritiken kan kleta sig fast - Dagens Nyheter
+- Venezuelas nästa kris: 1,28 miljoner ton bråte - Göteborgs-Posten
+- Venezuela inleder övergång mot demokrati i augusti - Sveriges Radio
+- 144 döda eller saknade utanför Mauretanien - Aftonbladet
 - Oljepriset över 90 dollar per fat igen - Västerbottens-Kuriren
-- AI-kampen hårdnar – jättar slår larm om kinesiska rivaler - Omni – Alla nyheter. Alla perspektiv.
+- 112 kvadratmeter stort hus i Enköping får nya ägare - Enköpingsposten
 - DN Direkt – Svagt uppåt på börsen – rapportfall för Boliden - Dagens Nyheter
+- Från Post-its till AI-data: 3M hittar ny roll i techboomen - Dagens PS
+- ”Hallonsocker” i rymden kan ha bidragit till liv på jorden - Sveriges Radio
 - Analytiker: 7 Playstation-spel har sålts i över 100 000 fysiska ex under 2026 i USA - FZ.se
-- Stort ungdomsbråk – en misstänkt - Nya Wermlands-Tidningen
 
 ## World News
 
@@ -37,16 +37,16 @@ _Updated: 2026-07-22 02:55_
 - Värmebölja i södra Europa – så påverkar global uppvärmning - SVT Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
 
@@ -59,6 +59,7 @@ _Updated: 2026-07-22 02:55_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
@@ -66,9 +67,8 @@ _Updated: 2026-07-22 02:55_
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
@@ -88,11 +88,11 @@ _Updated: 2026-07-22 02:55_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -103,19 +103,19 @@ _Updated: 2026-07-22 02:55_
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Ett år för existentiell hälsa - Läkartidningen
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Anders Printz tar över Uppdrag psykisk hälsa på SKR - Läkartidningen
+- Ökad hälsomedvetenhet kan öka människors hälsoångest - Läkartidningen
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- »Politikerna satsar för lite på den psykiska hälsan« - Läkartidningen
 
 ## Science
 
@@ -123,7 +123,7 @@ _Updated: 2026-07-22 02:55_
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
@@ -134,11 +134,11 @@ _Updated: 2026-07-22 02:55_
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
@@ -148,14 +148,14 @@ _Updated: 2026-07-22 02:55_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - ATL
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Lantbrukslogik – nu och i framtiden - SLU
-- Visning av uppkomst efter direktsådd - Land.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- Driva lantbruk i Ryssland är ingen promenad i parken - ATL
+- Visning av uppkomst efter direktsådd - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
