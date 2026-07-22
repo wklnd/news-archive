@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-22 09:57_
+_Updated: 2026-07-22 12:49_
 
-- Hegseth Estimates Cost of Iran War Has Reached $37.5 Billion - The New York Times
-- Rep. Andy Biggs wins GOP primary for Arizona governor - Politico
+- Ossoff spars with Hegseth over claims of ‘overwhelming victory’ in Iran - The Hill
+- Trump-backed candidates, 2020 election deniers, win Arizona primaries - NPR
 - US attacks Iran for 11th consecutive night - Al Jazeera
-- House votes to extend government funding, aiming to avoid an election year shutdown - NPR
-- Zelensky ousts Ukraine’s military commander as major shake-up continues - The Washington Post
-- Trump approves nuclear agreement that may allow Saudi Arabia to enrich uranium, two AP sources say - AP News
-- Mamdani says he won't try to arrest Israel's Netanyahu, acknowledges NYC doesn't have legal authority - CBS News
-- Trump announces 50% tariffs on Canada. What it means for consumers - USA Today
+- House passes bill to fund the government until after midterm elections - The Washington Post
+- Tropical Storm Bertha impacting northern Gulf Coast. See forecast map and its path. - CBS News
+- Ukraine again hits warehouses of Russia's top online retailer Wildberries, Russia says - Reuters
+- Mamdani says New York City can't arrest Netanyahu but the federal government should - NPR
 - The top of Arizona’s GOP ticket is littered with 2020 election deniers - Politico
-- The Tate Brothers’ Legal Problems Are Getting Worse. Here’s the Latest - Rolling Stone
+- South Carolina Senate candidates pile in despite Trump endorsement - The Hill
+- Little Fire: Firefighter injured, evacuations ordered as wildfire explodes to 1,007 acres near Pleasanton - ABC7 Bay Area
+- Zelenskyy replaces Ukraine military chief after protests - Al Jazeera
+- Iran's demands over the Strait of Hormuz would set a dangerous precedent, Rubio tells Asian leaders - AP News
 - France Joins a Global Move Toward Restricting Social Media for Children - The New York Times
-- Rubio says US still willing to negotiate over Iran crisis - Reuters
-- After an extremely rare pregnancy, an Australian woman gives birth to identical quadruplet girls - AP News
-- Israel is building a miles-long earthen barrier inside Gaza, entrenching its division - AP News
-- Novo sues Lilly, claiming misleading ads in weight-loss drug battle - Reuters
-- OpenAI admits an AI ‘agent’ caused a major cyber breach by itself - Financial Times
-- Google Releases 3 New Gemini Models, 3.5 Pro Still Not Available - CNET
-- Asian stocks cling to gains as US rebounds, oil rises - Reuters
+- Australian woman gives birth to rare identical quadruplet daughters - CBS News
+- Asia stocks erase early gains as oil surge weighs; Alphabet results ahead - Investing.com
+- As the president touts Trump Accounts, some families are still waiting for baby’s $1,000 - AP News
+- Trump’s 100% Generic Drug Duty Threatens US Low-Cost Supply - Bloomberg.com
+- Staying in a job for the health insurance? About 1 in 4 Americans do, a survey says - NPR
 - Samsung Galaxy Unpacked Live: Z Fold 8, Z Flip 8 Expected - CNET
-- Claude Code brings live iOS app testing into its Mac app - 9to5Mac
+- iPhone 18 Rumor Reality Check: 20 Claims Ranked by Likelihood - MacRumors
