@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-22 18:55_
+_Updated: 2026-07-22 20:42_
 
 ## Top Stories
 
+- Massiva bränder i södra Ryssland efter attacker - Göteborgs-Posten
 - Nya militärchefen kan reda upp i styrkorna - Svenska Dagbladet
+- Trump hotar med att bomba broar i Iran - Hufvudstadsbladet – HBL
 - Professor om extremvärmen: ”Det här är bara början” - Omni – Alla nyheter. Alla perspektiv.
-- Trump hotar med att bomba broar i Iran - Göteborgs-Posten
-- Trump aviserar 100 procent tullar på generiska läkemedel från 2028 - Biostock
+- Efterlyst gängman gripen i Turkiet – misstänkt för narkotikasmuggling i Sverige - Aftonbladet
+- DN Direkt – Överdödligheten ”utan motstycke” i Frankrike - Dagens Nyheter
 - Bebis dog – barnmorska på BB Gårda i Göteborg anmäls - Dagens Nyheter
-- 18-åring döms till fängelse för bomb vid skola - Västerbottens-Kuriren
-- Stort kaos efter våldsamt regn - Expressen
-- Fågelinfluensa utreds på västkustens semesterorter - Göteborgs-Posten
-- Alliansstyrda Nacka vill ersätta villor med lägenheter: ”Blir som innerstaden” - Dagens Nyheter
+- Fågelinfluensa utreds på västkustens semesterorter - Västerbottens-Kuriren
 - Kraschade in i ett gym – dottern räddade deras liv - Västerbottens-Kuriren
-- Överdödligheten ”utan motstycke” i Frankrike - Corren
-- Direkt – Kriget i Ukraina – Ryssland: Attackerat hamn - Dagens Nyheter
-- WHO: Över 1 000 personer har dött i ebola - Corren
-- Tyskland godkänner fransk-ryskt kärnprojekt - Västerbottens-Kuriren
-- Peter Hedlund: Köpcaset i Kambi är intakt - EFN
-- Oljepriset stiger - Rubio säger att Iran inte är seriösa om förhandlingar - Börsvärlden
-- DN Direkt – Elon Musk gör AI-genererad ”The Odyssey” - Dagens Nyheter
-- Trots nya hälsoråd: energidrycker ökar - Svenska Dagbladet
-- Apple täpper till bugg som varit känd i ett års tid - Computer Sweden
-- Enorm asteroid dyker upp på himlen – missa inte det spektakulära fenomenet - Illustrerad Vetenskap
+- Alliansstyrda Nacka vill ersätta villor med lägenheter: ”Blir som innerstaden” - Dagens Nyheter
+- Oaktsamhet kan ligga bakom branden i Drammen - Hufvudstadsbladet – HBL
+- DN Direkt – WHO: Över 1 000 personer har dött i ebola - Dagens Nyheter
+- Analyser: Burnham måste sälja in uppskjuten belöning - Omni – Alla nyheter. Alla perspektiv.
+- Frankrike förbjuder sociala medier för barn under 15 år - Teknikveckan
+- Trumps tullkrig trappas upp: ”helt annan nivå” - Svenska Dagbladet
+- Trippelsmockan får oljan att rusa: ”Perfekt storm” - EFN
+- Stockholmsbörsen steg tydligt - Placera.se
+- Efter flygdramat – frun kritiserar Ryanairs kabinpersonal - Dagens Nyheter
+- Analytiker: 7 Playstation-spel har sålts i över 100 000 fysiska ex under 2026 i USA - FZ.se
+- Nyupptäckt solsystem ger huvudbry: ”Vad är en planet, vad är en måne?” - Sveriges Radio
 
 ## World News
 
@@ -58,8 +58,8 @@ _Updated: 2026-07-22 18:55_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
@@ -76,7 +76,6 @@ _Updated: 2026-07-22 18:55_
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -85,6 +84,7 @@ _Updated: 2026-07-22 18:55_
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Vilken framtid arbetar du för? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
@@ -103,8 +103,8 @@ _Updated: 2026-07-22 18:55_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - En nationell, miljömässigt hållbar hälso- och sjukvård i sikte - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -123,7 +123,7 @@ _Updated: 2026-07-22 18:55_
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
@@ -132,7 +132,7 @@ _Updated: 2026-07-22 18:55_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
