@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-22 17:19_
+_Updated: 2026-07-22 18:55_
 
 ## Top Stories
 
+- Nya militärchefen kan reda upp i styrkorna - Svenska Dagbladet
 - Professor om extremvärmen: ”Det här är bara början” - Omni – Alla nyheter. Alla perspektiv.
 - Trump hotar med att bomba broar i Iran - Göteborgs-Posten
-- Zelenskyj avskedar Ukrainas militärchef - Västerbottens-Kuriren
-- Trumps tullkrig trappas upp: ”helt annan nivå” - Svenska Dagbladet
-- Oaktsamhet kan ligga bakom branden i Drammen - Hufvudstadsbladet – HBL
-- Ukraina: Har träffat drönarlager i Ryssland - Dagens Nyheter
-- JUST NU: Regnkaos – vattnet forsar ner - Expressen
-- Kollobarn skulle skickas hem – gick loss med tillhyggen - Dagens Nyheter
+- Trump aviserar 100 procent tullar på generiska läkemedel från 2028 - Biostock
+- Bebis dog – barnmorska på BB Gårda i Göteborg anmäls - Dagens Nyheter
+- 18-åring döms till fängelse för bomb vid skola - Västerbottens-Kuriren
+- Stort kaos efter våldsamt regn - Expressen
 - Fågelinfluensa utreds på västkustens semesterorter - Göteborgs-Posten
-- Flera skadade i brand i flerfamiljshus i Nynäshamn - SVT Nyheter
+- Alliansstyrda Nacka vill ersätta villor med lägenheter: ”Blir som innerstaden” - Dagens Nyheter
+- Kraschade in i ett gym – dottern räddade deras liv - Västerbottens-Kuriren
 - Överdödligheten ”utan motstycke” i Frankrike - Corren
+- Direkt – Kriget i Ukraina – Ryssland: Attackerat hamn - Dagens Nyheter
+- WHO: Över 1 000 personer har dött i ebola - Corren
 - Tyskland godkänner fransk-ryskt kärnprojekt - Västerbottens-Kuriren
-- DN Direkt – Storbrand i Frankrike – 2 550 hektar upp i rök - Dagens Nyheter
-- ”Kackerlackornas” protest – det här handlar det om - Göteborgs-Posten
 - Peter Hedlund: Köpcaset i Kambi är intakt - EFN
-- Börsen trotsar oljesmällen: ”Immunförsvar mot Trump” - Dagens industri
-- Trots nya hälsoråd: energidrycker ökar - Svenska Dagbladet
 - Oljepriset stiger - Rubio säger att Iran inte är seriösa om förhandlingar - Börsvärlden
+- DN Direkt – Elon Musk gör AI-genererad ”The Odyssey” - Dagens Nyheter
+- Trots nya hälsoråd: energidrycker ökar - Svenska Dagbladet
 - Apple täpper till bugg som varit känd i ett års tid - Computer Sweden
-- Microsoft varnar för ännu en kritisk sårbarhet i Sharepoint - Computer Sweden
+- Enorm asteroid dyker upp på himlen – missa inte det spektakulära fenomenet - Illustrerad Vetenskap
 
 ## World News
 
 - Värmebölja i södra Europa – så påverkar global uppvärmning - SVT Nyheter
 - Esports World Cup 2026: Home -town Team Vitality krönt till MLBB Women's International mästare - Gamereactor
+- Lansering av tävlingen Miss Global Business Elite 2026. - Vietnam.vn
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews-se
-- Swedish Professional Football Leagues signs Amnesty International World Cup in Qatar protest list - Föreningen Svensk Elitfotboll
-- Lansering av tävlingen Miss Global Business Elite 2026. - Vietnam.vn
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
@@ -88,45 +88,46 @@ _Updated: 2026-07-22 17:19_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
-- Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- En nationell, miljömässigt hållbar hälso- och sjukvård i sikte - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- En nationell, miljömässigt hållbar hälso- och sjukvård i sikte - Läkartidningen
+- Kartläggning pekar på att småbarns hälsa behöver förbättras - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Anders Printz tar över Uppdrag psykisk hälsa på SKR - Läkartidningen
 - Ökad hälsomedvetenhet kan öka människors hälsoångest - Läkartidningen
+- Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 
 ## Science
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
@@ -134,7 +135,6 @@ _Updated: 2026-07-22 17:19_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
