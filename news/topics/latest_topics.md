@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-22 12:38_
+_Updated: 2026-07-22 14:58_
 
 ## Top Stories
 
+- Franska medier: Epsteins svenska modellscout är död - Yle
+- 15 år sedan terrordåden – Stoltenberg öppnar sina anteckningar - SVT Nyheter
+- USA: Attacker mot hangarer i Iran - Västerbottens-Kuriren
+- Zelenskyj avskedar Ukrainas militärchef - Göteborgs-Posten
+- Michelinrestaurangen garnerade med myror – riskerar fängelse - Expressen
+- WHO: Över 1 000 personer har dött i ebola - Göteborgs-Posten
 - 12-åring misstänks för mordförsök – kopplas till våldsamt Tiktok-konto - SVT Nyheter
-- Epsteins svenske modellscout hittad död i sitt hem - SVT Nyheter
-- 15 år sedan Utøya – Breivik inspirerar allt fler högerextremister - Göteborgs-Posten
-- Prislappen på Iran-kriget: 364 miljarder kronor – hittills – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- DN Direkt – Skylt under Gaza-protest var inget brott - Dagens Nyheter
-- Massiva bränder i södra Ryssland efter attacker - Västerbottens-Kuriren
+- Sydeuropas hetta ger regn och ostadigt i Sverige - Göteborgs-Posten
 - Kollobarn skulle skickas hem – gick loss med tillhyggen - Dagens Nyheter
-- Mc och bil i krock på E20 - Göteborgs-Posten
-- En död efter kraftig brand i Karlstad - Västerbottens-Kuriren
-- Just nu: En stillastående personbil orsakar stopp i ett körfält på E4 - UNT
-- President Volodymyr Zelenskyj byter ut Ukrainas militärchef - Dagens Nyheter
-- Kommer USA:s nya ambassad i Jerusalem stå på palestinsk mark? - Dagens Nyheter
+- Flera skadade i brand i flerfamiljshus i Nynäshamn - SVT Nyheter
+- Tyskland godkänner fransk-ryskt kärnprojekt - Västerbottens-Kuriren
+- Massiva bränder i södra Ryssland efter attacker - Göteborgs-Posten
+- Kopierad nazi-skylt inget brott – utredning nedlagd - SVT Nyheter
 - Kanadas svar på USA-tullar: Inställd broceremoni - Corren
-- Tonårspojke död i mc-olycka - Aftonbladet
-- Stockholmsbörsen väntas öppna svagt nedåt - Omni – Alla nyheter. Alla perspektiv.
-- Rapportfloden: VM lyfter Kambi – Dynavox rusar - Affärsvärlden
+- Affärsvärlden behåller Kambi i sin aktieportfölj - Affärsvärlden
+- Vinstlyft för stålbolaget SSAB: ”Visar på duglighet” - Sveriges Radio
 - AI-agent bröt sig ur Open AI:s testmiljö och gjorde intrång hos Hugging Face - Computer Sweden
 - Sågar Boeing: "Duger bara till konservburkar" - Dagens PS
+- Microsoft varnar för ännu en kritisk sårbarhet i Sharepoint - Computer Sweden
 - Playstation slopar skivor – skapar oro i spelbutikerna - Sveriges Radio
-- ”Hallonsocker” i rymden kan ha bidragit till liv på jorden - Sveriges Radio
 
 ## World News
 
@@ -35,14 +35,14 @@ _Updated: 2026-07-22 12:38_
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -67,8 +67,8 @@ _Updated: 2026-07-22 12:38_
 - Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Open AI släpper GPT-5.2 – ska utmana Gemini 3 - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Open AI släpper GPT-5.2 – ska utmana Gemini 3 - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 
 ## Business
@@ -76,6 +76,7 @@ _Updated: 2026-07-22 12:38_
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -84,31 +85,30 @@ _Updated: 2026-07-22 12:38_
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Vilken framtid arbetar du för? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
-- Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- En nationell, miljömässigt hållbar hälso- och sjukvård i sikte - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- En nationell, miljömässigt hållbar hälso- och sjukvård i sikte - Läkartidningen
+- Kartläggning pekar på att småbarns hälsa behöver förbättras - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Anders Printz tar över Uppdrag psykisk hälsa på SKR - Läkartidningen
@@ -142,7 +142,6 @@ _Updated: 2026-07-22 12:38_
 
 ## Jordbruk
 
-- Dien Bien Agriculture: Väcker potential - Ökar värdet: [Del 5]: "Green Stream" välkomnar investerare - Vietnam.vn
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
@@ -155,10 +154,11 @@ _Updated: 2026-07-22 12:38_
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - SLU
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL
+- Driva lantbruk i Ryssland är ingen promenad i parken - ATL
 - Visning av uppkomst efter direktsådd - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
