@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-22 15:08_
+_Updated: 2026-07-22 17:21_
 
-- Ossoff spars with Hegseth over claims of ‘overwhelming victory’ in Iran - The Hill
-- US attacks Iran for 11th consecutive night - Al Jazeera
-- Trump-backed candidates, 2020 election deniers, win Arizona primaries - NPR
-- Saudis Reach Deal With U.S. That Could Let Them Enrich Nuclear Fuel - The New York Times
+- Nolan Wells’ independent autopsy results in ‘undetermined’ cause and manner of death - NBC News
+- Live updates: Trump vows to hit one Iranian bridge or power plant for each ship Tehran strikes in Strait of Hormuz - CNN
 - Iran's demands over the Strait of Hormuz would set a dangerous precedent, Rubio warns Asian leaders - AP News
-- Tropical Storm Bertha moves along the Gulf Coast but damage is expected to be limited - NPR
+- US to announce deal allowing Saudi Arabia a nuclear programme, reports say - BBC
+- Trump-backed candidates, 2020 election deniers, win Arizona primaries - NPR
+- Latest combat deaths show risk has shifted to troops far from Iran’s borders - The Washington Post
+- Hegseth hearing shows tough fight ahead for Iran war supplemental - The Hill
+- Bay Area Wildfire Prompts Evacuation Orders for Thousands of Residents - The New York Times
 - Who is Darline Graham? Her colleagues say they are still learning. - Politico
-- Little Fire: Firefighter injured, evacuations ordered as wildfire explodes to 1,007 acres near Pleasanton - ABC7 Bay Area
-- Election Denier Wins G.O.P. Nomination to Be Arizona’s Top Election Official - The New York Times
-- Capitol agenda: GOP defectors threaten budget vote - Politico
+- What is Pickaxe Mountain, the Iranian nuclear facility Trump is threatening to strike? - CNBC
 - Zelenskyy replaces Ukraine military chief after protests - Al Jazeera
+- French lawmakers approve a sweeping social media ban for children under 15 - NPR
+- Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says - CNBC
 - Most bus fares in England to be capped at £2 from January - BBC
-- Australian woman gives birth to rare identical quadruplet daughters - CBS News
-- Germany’s Military Buyers Look to Reduce Caution and Embrace Drones - The New York Times
 - OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC
+- Stock market today: Dow, S&P 500, Nasdaq diverge with Alphabet, Tesla earnings on deck - Yahoo! Finance Canada
+- Peptides get their regulatory closeup - NPR
 - Global shares trade mixed as Brent oil keeps rising due to fighting in Iran - AP News
-- Trump’s 100% Generic Drug Duty Threatens US Low-Cost Supply - Bloomberg.com
-- Stock futures fall as investors gear up for more earnings, Iran war remains in focus: Live updates - CNBC
-- Samsung Galaxy Unpacked Live: Z Fold 8, Z Flip 8 Expected - CNET
-- The iPhone 18 Pro's Rumored Camera Upgrade, Explained - MacRumors
+- [Galaxy Unpacked July 2026] A First Look at Galaxy Z Fold8 Ultra, Galaxy Z Fold8 and Galaxy Z Flip8 - Samsung Global Newsroom
+- Samsung’s Galaxy Watch 9 and Ultra 2 bet big on battery - The Verge
