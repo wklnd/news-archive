@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-22 06:51_
+_Updated: 2026-07-22 09:57_
 
-- July 21, 2026 — Pete Hegseth testifies at hearing on Iran funding, says war cost $37.5 billion - CNN
+- Hegseth Estimates Cost of Iran War Has Reached $37.5 Billion - The New York Times
 - Rep. Andy Biggs wins GOP primary for Arizona governor - Politico
-- Zelensky ousts Ukraine’s military commander as major shake-up continues - The Washington Post
-- Carney says he and Trump will intensify trade negotiations after US imposes 50% tariffs - AP News
-- House votes to extend government funding, aiming to avoid an election year shutdown - NPR
-- Trump says US will ‘take care’ of Houthis if Red Sea strait blocked - The Hill
-- Mamdani Calls Netanyahu a ‘War Criminal’ and Calls on U.S. to Arrest Him - The New York Times
-- Little Fire: Firefighter injured, evacuations ordered as wildfire explodes to 950 acres near Pleasanton in Alameda County - ABC7 Bay Area
-- What is Pickaxe Mountain, Iran’s underground nuclear facility Trump is threatening to attack? - The Guardian
-- Alexander Kolodin, who tried to overturn Arizona election results, wins GOP nod for secretary of state - NBC News
-- Woman gives birth to rare identical quadruplet daughters - ABC7 Los Angeles
-- Israel is building a miles-long earthen barrier inside Gaza, entrenching its division - AP News
 - US attacks Iran for 11th consecutive night - Al Jazeera
-- Inside the Fight to Rid South Africa of Black Immigrants - The New York Times
-- OpenAI admits an AI ‘agent’ caused a major cyber breach by itself - Financial Times
-- Google releases three new Gemini models — but no 3.5 Pro - TechCrunch
+- House votes to extend government funding, aiming to avoid an election year shutdown - NPR
+- Zelensky ousts Ukraine’s military commander as major shake-up continues - The Washington Post
+- Trump approves nuclear agreement that may allow Saudi Arabia to enrich uranium, two AP sources say - AP News
+- Mamdani says he won't try to arrest Israel's Netanyahu, acknowledges NYC doesn't have legal authority - CBS News
+- Trump announces 50% tariffs on Canada. What it means for consumers - USA Today
+- The top of Arizona’s GOP ticket is littered with 2020 election deniers - Politico
+- The Tate Brothers’ Legal Problems Are Getting Worse. Here’s the Latest - Rolling Stone
+- France Joins a Global Move Toward Restricting Social Media for Children - The New York Times
+- Rubio says US still willing to negotiate over Iran crisis - Reuters
+- After an extremely rare pregnancy, an Australian woman gives birth to identical quadruplet girls - AP News
+- Israel is building a miles-long earthen barrier inside Gaza, entrenching its division - AP News
 - Novo sues Lilly, claiming misleading ads in weight-loss drug battle - Reuters
-- Army vet sues Taco Bell after ‘explosive diarrhea’ parasite lands him in hospital - NewsNation
+- OpenAI admits an AI ‘agent’ caused a major cyber breach by itself - Financial Times
+- Google Releases 3 New Gemini Models, 3.5 Pro Still Not Available - CNET
+- Asian stocks cling to gains as US rebounds, oil rises - Reuters
 - Samsung Galaxy Unpacked Live: Z Fold 8, Z Flip 8 Expected - CNET
-- Claude Code Can Now Build and Test iOS Apps in Apple's Simulator - MacRumors
+- Claude Code brings live iOS app testing into its Mac app - 9to5Mac
