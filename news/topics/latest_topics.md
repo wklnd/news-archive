@@ -1,41 +1,41 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-22 01:28_
+_Updated: 2026-07-22 02:55_
 
 ## Top Stories
 
 - Zelenskyj byter ut Ukrainas militärchef - Dagens Nyheter
-- Charlie, 20, tränade på Nordic Wellness – bil kraschade in i gym - Aftonbladet
+- Charlies änglavakt – tränade på gymmet när bilen kraschade - Sveriges Radio
+- Ukraina får licens för brittiska haubitsar - Dagens Nyheter
+- Libanons president lovad hjälp av Trump - Göteborgs-Posten
 - Ung man knivhuggen i ryggen – mordförsök utreds - Västerbottens-Kuriren
 - Gripen mötte ryska bombplan över Östersjön - Västerbottens-Kuriren
-- Ryskt krigsfartyg sköt skarpt vid brittiska kusten - Göteborgs-Posten
-- DN Direkt – Gripen gick upp för att möta ryska bombplan över Östersjön - Dagens Nyheter
-- CSN: Regeringen vill ändra reglerna – tillsätter utredning - Göteborgs-Posten
-- DN Direkt – Surfande säl i Hanöbukten - Dagens Nyheter
-- Stockholmare vill ha turister – utom här - Dagens Nyheter
+- Surfande säl i Hanöbukten: ”Inte sett liknande” - Corren
 - Studie: Kor på grönbete har mer rörelsefrihet än barn - News55
+- Regeringskansliet: Anteckningsblocket borta - SVT Nyheter
+- Vill ändra regler för CSN – fribeloppet ses över - NT
 - Karin Eriksson: Finlands statsminister sitter kvar – men ”kumpan”-kritiken kan kleta sig fast - Dagens Nyheter
-- Person delgiven misstanke efter branden i Drammen - Corren
-- Åklagare: Politiker dödades med hammare - Västerbottens-Kuriren
-- Niovåningshuset i lågor efter ryska attacker - Expressen
+- Trump: Tullar på 50 procent på varor från Kanada - Hufvudstadsbladet – HBL
+- Ryskt krigsfartyg sköt skarpt vid brittiska kusten - Göteborgs-Posten
+- USA: Ny våg av attacker mot Iran - Västerbottens-Kuriren
 - Uppdatering avseende utgången lock-up-period och insynspersoners transaktioner i Sivers Semiconductors - Cision News
 - Oljepriset över 90 dollar per fat igen - Västerbottens-Kuriren
 - AI-kampen hårdnar – jättar slår larm om kinesiska rivaler - Omni – Alla nyheter. Alla perspektiv.
 - DN Direkt – Svagt uppåt på börsen – rapportfall för Boliden - Dagens Nyheter
 - Analytiker: 7 Playstation-spel har sålts i över 100 000 fysiska ex under 2026 i USA - FZ.se
-- Butiker läcker ännu högre priser för Samsung Galaxy Z Fold 8 (Ultra), Galaxy Watch 9 och Ultra 2 - notebookcheck.se
+- Stort ungdomsbråk – en misstänkt - Nya Wermlands-Tidningen
 
 ## World News
 
-- Lansering av tävlingen Miss Global Business Elite 2026. - Vietnam.vn
 - Esports World Cup 2026: Home -town Team Vitality krönt till MLBB Women's International mästare - Gamereactor
+- Lansering av tävlingen Miss Global Business Elite 2026. - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Värmebölja i södra Europa – så påverkar global uppvärmning - SVT Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
@@ -59,7 +59,7 @@ _Updated: 2026-07-22 01:28_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
@@ -110,12 +110,12 @@ _Updated: 2026-07-22 01:28_
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Anders Printz tar över Uppdrag psykisk hälsa på SKR - Läkartidningen
-- Ökad hälsomedvetenhet kan öka människors hälsoångest - Läkartidningen
-- Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
+- Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- »Politikerna satsar för lite på den psykiska hälsan« - Läkartidningen
 
 ## Science
 
