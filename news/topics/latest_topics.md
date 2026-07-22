@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-22 06:47_
+_Updated: 2026-07-22 09:54_
 
 ## Top Stories
 
-- Zelenskyj byter ut Ukrainas militärchef - Dagens Nyheter
-- USA: Ny våg av attacker mot Iran - Västerbottens-Kuriren
+- Tolvåring misstänks för knivdådet i Helsingborg - Omni – Alla nyheter. Alla perspektiv.
 - 15 år sedan Utøya – Breivik inspirerar allt fler högerextremister - Göteborgs-Posten
-- Ny mätning: Stödet för M-ledaren sjunker – gapet växer - Omni – Alla nyheter. Alla perspektiv.
-- Gratis förskola – har Tranemo löst krisen i befolkningsfrågan? - Dagens Nyheter
-- DN Direkt – Kanadas svar på USA-tullar: Inställd broceremoni - Dagens Nyheter
-- Politikern om uppgifterna om påverkan i Elsa-fallet: ”Extremt allvarligt” - SVT Nyheter
-- Ytterligare en knivskadad – utreder mordförsök - Västerbottens-Kuriren
-- Barn i bilen som kraschade in i gym i Sundsvall - Västerbottens-Kuriren
-- Natali hade 21 patienter ensam på akuten: ”Fysiskt och psykiskt slut” - SVT Nyheter
-- Karin Eriksson: Finlands statsminister sitter kvar – men ”kumpan”-kritiken kan kleta sig fast - Dagens Nyheter
+- Ukraina: Har träffat drönarlager i Ryssland - Dagens Nyheter
+- Trump om Huthirebellerna: Redo att agera – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Tonåring död i krock på E20 - Aftonbladet
+- DN Direkt – Storbrand i Frankrike – 2 550 hektar upp i rök - Dagens Nyheter
+- Fästingplåga – TBE-fallen skjuter i höjden - Dagens Nyheter
+- En död efter kraftig brand i Karlstad - Västerbottens-Kuriren
+- Kollobarn skulle skickas hem – gick loss med tillhyggen - Dagens Nyheter
+- Två knivskadade i Botkyrka - SVT Nyheter
+- President Volodymyr Zelenskyj byter ut Ukrainas militärchef - Dagens Nyheter
 - Venezuelas nästa kris: 1,28 miljoner ton bråte - Göteborgs-Posten
-- Venezuela inleder övergång mot demokrati i augusti - Sveriges Radio
-- 144 döda eller saknade utanför Mauretanien - Aftonbladet
-- Oljepriset över 90 dollar per fat igen - Västerbottens-Kuriren
-- 112 kvadratmeter stort hus i Enköping får nya ägare - Enköpingsposten
-- DN Direkt – Svagt uppåt på börsen – rapportfall för Boliden - Dagens Nyheter
-- Från Post-its till AI-data: 3M hittar ny roll i techboomen - Dagens PS
+- Kommer USA:s nya ambassad i Jerusalem stå på palestinsk mark? - Dagens Nyheter
+- Kanadas svar på USA-tullar: Inställd broceremoni - Corren
+- Rapportfloden: VM lyfter Kambi – Dynavox rusar - Affärsvärlden
+- Börsen vänder nedåt – oljepriset stiger - Västerbottens-Kuriren
+- Kinesiska bil-offensiven trotsar EU:s extra tullar - Svenska Dagbladet
+- AI-verktyg hackade konkurrent – på eget bevåg - Dagens industri
 - ”Hallonsocker” i rymden kan ha bidragit till liv på jorden - Sveriges Radio
 - Analytiker: 7 Playstation-spel har sålts i över 100 000 fysiska ex under 2026 i USA - FZ.se
 
@@ -31,18 +31,18 @@ _Updated: 2026-07-22 06:47_
 - Lansering av tävlingen Miss Global Business Elite 2026. - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Värmebölja i södra Europa – så påverkar global uppvärmning - SVT Nyheter
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -55,21 +55,21 @@ _Updated: 2026-07-22 06:47_
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
@@ -107,6 +107,7 @@ _Updated: 2026-07-22 06:47_
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Vi presenterar HealthBench - OpenAI
+- En nationell, miljömässigt hållbar hälso- och sjukvård i sikte - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Anders Printz tar över Uppdrag psykisk hälsa på SKR - Läkartidningen
@@ -115,12 +116,11 @@ _Updated: 2026-07-22 06:47_
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
-- Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -148,13 +148,13 @@ _Updated: 2026-07-22 06:47_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
-- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Lantbrukslogik – nu och i framtiden - SLU
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Driva lantbruk i Ryssland är ingen promenad i parken - ATL
+- Lantbrukslogik – nu och i framtiden - SLU
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - Visning av uppkomst efter direktsådd - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
