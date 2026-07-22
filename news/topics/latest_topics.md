@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-22 20:42_
+_Updated: 2026-07-22 22:38_
 
 ## Top Stories
 
+- Guide: Detta gäller om du vill avboka resan på grund av extremvärme - Göteborgs-Posten
+- Direkt – Krisen i Mellanöstern – Iran: Minst 53 dödade i amerikanska attacker i juli - Dagens Nyheter
 - Massiva bränder i södra Ryssland efter attacker - Göteborgs-Posten
-- Nya militärchefen kan reda upp i styrkorna - Svenska Dagbladet
-- Trump hotar med att bomba broar i Iran - Hufvudstadsbladet – HBL
-- Professor om extremvärmen: ”Det här är bara början” - Omni – Alla nyheter. Alla perspektiv.
-- Efterlyst gängman gripen i Turkiet – misstänkt för narkotikasmuggling i Sverige - Aftonbladet
-- DN Direkt – Överdödligheten ”utan motstycke” i Frankrike - Dagens Nyheter
-- Bebis dog – barnmorska på BB Gårda i Göteborg anmäls - Dagens Nyheter
-- Fågelinfluensa utreds på västkustens semesterorter - Västerbottens-Kuriren
+- 15 år sedan terrordåden – Stoltenberg öppnar sina anteckningar - SVT Nyheter
+- Varvet: ”Ni handlar med Ryssland, inte vi” - Svenska Dagbladet
+- Direkt – Kriget i Ukraina – Inget beslut om nya sanktioner mot Ryssland - Dagens Nyheter
+- Misstänkt mord i Stockholm – man föll från balkong - SVT Nyheter
+- Knivattacken i Helsingborg: tolvåring misstänkt - Göteborgs-Posten
+- Bebis dog – barnmorska på BB Gårda anmäls - Dagens Nyheter
 - Kraschade in i ett gym – dottern räddade deras liv - Västerbottens-Kuriren
-- Alliansstyrda Nacka vill ersätta villor med lägenheter: ”Blir som innerstaden” - Dagens Nyheter
+- Tyr på listan över hotade världsarv - Västerbottens-Kuriren
+- Överdödligheten ”utan motstycke” i Frankrike - Corren
 - Oaktsamhet kan ligga bakom branden i Drammen - Hufvudstadsbladet – HBL
-- DN Direkt – WHO: Över 1 000 personer har dött i ebola - Dagens Nyheter
-- Analyser: Burnham måste sälja in uppskjuten belöning - Omni – Alla nyheter. Alla perspektiv.
-- Frankrike förbjuder sociala medier för barn under 15 år - Teknikveckan
-- Trumps tullkrig trappas upp: ”helt annan nivå” - Svenska Dagbladet
+- Emma Bouvin: Trumps möte i Vita huset måste svida för Netanyahu - Dagens Nyheter
+- Trumps tullkrig trappas upp: ”Helt annan nivå” - Svenska Dagbladet
 - Trippelsmockan får oljan att rusa: ”Perfekt storm” - EFN
 - Stockholmsbörsen steg tydligt - Placera.se
-- Efter flygdramat – frun kritiserar Ryanairs kabinpersonal - Dagens Nyheter
+- Avvaktande handel på Wall Street - Västerbottens-Kuriren
 - Analytiker: 7 Playstation-spel har sålts i över 100 000 fysiska ex under 2026 i USA - FZ.se
 - Nyupptäckt solsystem ger huvudbry: ”Vad är en planet, vad är en måne?” - Sveriges Radio
 
@@ -34,6 +34,7 @@ _Updated: 2026-07-22 20:42_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
@@ -46,7 +47,6 @@ _Updated: 2026-07-22 20:42_
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
 
@@ -60,6 +60,7 @@ _Updated: 2026-07-22 20:42_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
@@ -69,13 +70,13 @@ _Updated: 2026-07-22 20:42_
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -84,15 +85,14 @@ _Updated: 2026-07-22 20:42_
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Vilken framtid arbetar du för? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -152,13 +152,13 @@ _Updated: 2026-07-22 20:42_
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
-- Driva lantbruk i Ryssland är ingen promenad i parken - ATL
 - Visning av uppkomst efter direktsådd - Land.se
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
