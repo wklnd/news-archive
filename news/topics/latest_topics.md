@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-23 20:45_
+_Updated: 2026-07-23 22:36_
 
 ## Top Stories
 
 - DN Direkt – Rysslandsexperten Martin Kragh är död - Dagens Nyheter
 - Trump: Saudiarabien måste normalisera med Israel - Göteborgs-Posten
-- Regeringen inför ny mineralstrategi – vill korta tiden för nya gruvor - SVT Nyheter
-- Mamma misstänks ha mördat sin egen bebis - Expressen
-- Vapeninstruktör larmade polis om skjutbanan – förgäves - Dagens Nyheter
-- Nya attacker mot iransk ö i Hormuz och mot Kuwait - Göteborgs-Posten
+- Dalsländsk familj i spanska hettan – semestrar i röd zon: ”Tur att det finns AC” - Dalslänningen
+- Ny våg: Robotröst påstår sig ringa från polisen - Aftonbladet
+- Växande missnöje: ”Rädd att Trump ska bli ett sänke” - Dagens Nyheter
+- Flyglarm och olja: ”Ryssar badar ändå” - Svenska Dagbladet
+- Busch: Sverige ska vara en ledande gruvnation - Corren
 - Regeringen föreslår förbud mot PFAS i kläder - SVT Nyheter
-- DN Direkt – Ny våg: Robotröst påstår sig ringa från polisen - Dagens Nyheter
-- Pojke försvunnen i Jönköping - SVT Nyheter
-- Just nu: En stillastående lastbil orsakar stopp i ett körfält på E4 - Norrbottens-Kuriren
-- Tusentals flyr bränder i Frankrike: ”Vi har packat” - Dagens Nyheter
+- Vapeninstruktör larmade polis om skjutbanan – förgäves - Dagens Nyheter
+- Åttaårig pojke försvunnen – stor polisinsats i länet - Värnamo Nyheter
+- Nya attacker mot iransk ö i Hormuz och mot Kuwait - Göteborgs-Posten
 - Klart: Nya EU-sanktioner mot Ryssland - Västerbottens-Kuriren
+- Tusentals flyr franska bränder: ”Vi har packat” - Corren
 - Avsatte försvarsministern vill återfå sin post - Västerbottens-Kuriren
-- Trump: Iran kommer hållas ansvarigt för Huthi-attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Priset på olja rusar – efter upptrappning i Mellanöstern - Aftonbladet
-- EU ger Google miljardböter - Omni – Alla nyheter. Alla perspektiv.
+- Oljepriset rusar – efter upptrappning: ”Kraftfullt straff” - Aftonbladet
 - Björn Wiman: Har AI fått sitt ”Jurassic park-ögonblick”? - Dagens Nyheter
+- EU ger Google miljardböter - Omni – Alla nyheter. Alla perspektiv.
 - Orderkross för Volvo och Traton – Nordamerika bakom lyftet - Affärsvärlden
-- Ny rapport stöder allvarliga anklagelser mot Sony och hävdar att PlayStation-anställdas tystnad är ett desperat försök att kontrollera berättelsen - notebookcheck.se
 - ”Kylskåp för människor” lanseras i Japan – ska hjälpa med värmen - Göteborgs-Posten
+- Ny rapport stöder allvarliga anklagelser mot Sony och hävdar att PlayStation-anställdas tystnad är ett desperat försök att kontrollera berättelsen - notebookcheck.se
 
 ## World News
 
@@ -42,8 +42,8 @@ _Updated: 2026-07-23 20:45_
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Lansering av tävlingen Miss Global Business Elite 2026. - Vietnam.vn
+- Visual Art köper Global Agencies - Dagens Media
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
@@ -112,10 +112,10 @@ _Updated: 2026-07-23 20:45_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - En nationell, miljömässigt hållbar hälso- och sjukvård i sikte - Läkartidningen
 - Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
+- Om vikten av oral hälsa i ny bok - Läkartidningen
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
@@ -123,7 +123,7 @@ _Updated: 2026-07-23 20:45_
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
@@ -135,7 +135,7 @@ _Updated: 2026-07-23 20:45_
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- 5 myter om öppen vetenskap - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
