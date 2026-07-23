@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-23 06:52_
+_Updated: 2026-07-23 09:56_
 
 ## Top Stories
 
 - Direkt – Krisen i Mellanöstern – Saudiskt fartyg attackerat i Röda havet - Dagens Nyheter
-- Guide: Detta gäller om du vill avboka resan på grund av extremvärme - Göteborgs-Posten
-- Ukrainskt bakslag efter pr-kupp: ”Extremt smärtsamma nyheter” - Aftonbladet
-- Attacker mellan USA och Iran – smällar i kuststad - Västerbottens-Kuriren
-- Harvard-läkare: Nästan alla gör fel på toaletten - Svenska Dagbladet
-- Kanadas ilska efter Trumps nya tullhot: ”Vi kan lamslå USA om vi vill” - ETC.se
-- Kycklingfilé återkallas – salmonellarisk - Västerbottens-Kuriren
-- LEDARE: Filosofi om PFAS med en AI-kompis - Sydöstran
-- Person ramlade i vattnet – förd till sjukhus med helikopter - Bohusläningen
-- Kraschade in i ett gym – dottern räddade deras liv - Västerbottens-Kuriren
-- Protesterna växer – ”kackerlackorna” pressar Modi - Västerbottens-Kuriren
-- Ytterligare 7 000 tvingas fly bränder i Frankrike - Hufvudstadsbladet – HBL
-- USA och Saudiarabien ingår historiskt kärnenergiavtal - SVT Nyheter
-- Kom ihåg-listor hjälpte Gilgo Beach-mördaren att begå mord - Dagens Nyheter
+- Forsells oro: Lag kan stoppas om Tidö-partierna förlorar - Omni – Alla nyheter. Alla perspektiv.
+- Drönarattack mot ryskt oljeraffinaderi - Västerbottens-Kuriren
 - Erika har sökt 40 it-jobb: ”Varför vill ingen anställa oss?” - Dagens Nyheter
-- Avvaktande handel på Wall Street - Västerbottens-Kuriren
-- Försiktigt uppåt på Asiens börser - Dagens industri
-- Lyft för asiatiska chip-aktier efter Alphabets rapport - Omni – Alla nyheter. Alla perspektiv.
+- Svenskarna om skräcknatten i semesterpärlan: ”Det var kaos” - TV4 Nyheterna
+- Guide: Detta gäller om du vill avboka resan på grund av extremvärme - Göteborgs-Posten
+- Person anhållen efter misstänkt grovt brott i Kungsör - SVT Nyheter
+- Efter ambulansmordet: Åtalsanmälan mot regionen - Västerbottens-Kuriren
+- DN Direkt – Två gripna efter att en man fallit från balkong - Dagens Nyheter
+- Kycklingfilé återkallas – salmonellarisk - Västerbottens-Kuriren
+- Protesterna växer – ”kackerlackorna” pressar Modi - Västerbottens-Kuriren
+- Över 1000 döda i ebola i Kongo-Kinshasa - SVT Nyheter
+- Nytt sanktionspaket mot Ryssland klart - Corren
+- Ny storbrand härjar i Frankrike – 12 000 evakuerade - Dagens Nyheter
+- Trumps tullkrig trappas upp: ”Helt annan nivå” - Svenska Dagbladet
+- Teslas aktie backar efter rapportsläpp - Affärsvärlden
+- Felaktig nyhetsnotis sänkte Nordeas börsvärde - Västerbottens-Kuriren
+- Nokias AI-strategi ger utdelning – vinsten överraskar - Omni – Alla nyheter. Alla perspektiv.
+- Rapport: Företag som betalar hackare riskerar nya utpressningskrav - Computer Sweden
 - PlayStation-personal uppges vara föremål för begränsningar på sociala medier mitt i protesterna mot fysiska spel - notebookcheck.se
-- Därför skapades Samsung Galaxy Z Fold 8 – en passliknande vikbar telefon som sätter "en ny standard för innehåll" - TechRadar
 
 ## World News
 
 - Värmebölja i södra Europa – så påverkar global uppvärmning - SVT Nyheter
 - Esports World Cup 2026: Home -town Team Vitality krönt till MLBB Women's International mästare - Gamereactor
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Stories - Pride i rörelse: WorldPride från nätverk till en global scen - out.tv
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Lansering av tävlingen Miss Global Business Elite 2026. - Vietnam.vn
 - Swedish Professional Football Leagues signs Amnesty International World Cup in Qatar protest list - Föreningen Svensk Elitfotboll
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -76,7 +76,6 @@ _Updated: 2026-07-23 06:52_
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -85,6 +84,7 @@ _Updated: 2026-07-23 06:52_
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Vilken framtid arbetar du för? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
@@ -98,12 +98,14 @@ _Updated: 2026-07-23 06:52_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -114,8 +116,6 @@ _Updated: 2026-07-23 06:52_
 - Ökad hälsomedvetenhet kan öka människors hälsoångest - Läkartidningen
 - Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
@@ -123,7 +123,7 @@ _Updated: 2026-07-23 06:52_
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
@@ -132,13 +132,13 @@ _Updated: 2026-07-23 06:52_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
