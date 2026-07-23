@@ -1,73 +1,73 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-23 18:58_
+_Updated: 2026-07-23 20:45_
 
 ## Top Stories
 
-- Rysslandsexperten Martin Kragh är död - Göteborgs-Posten
+- DN Direkt – Rysslandsexperten Martin Kragh är död - Dagens Nyheter
+- Trump: Saudiarabien måste normalisera med Israel - Göteborgs-Posten
 - Regeringen inför ny mineralstrategi – vill korta tiden för nya gruvor - SVT Nyheter
-- Dalsländsk familj i spanska hettan – semestrar i röd zon: ”Tur att det finns AC” - Dalslänningen
-- Trump: Saudiarabien måste normalisera med Israel - Västerbottens-Kuriren
-- Miljardskador efter skalven i Venezuela - Västerbottens-Kuriren
+- Mamma misstänks ha mördat sin egen bebis - Expressen
 - Vapeninstruktör larmade polis om skjutbanan – förgäves - Dagens Nyheter
+- Nya attacker mot iransk ö i Hormuz och mot Kuwait - Göteborgs-Posten
 - Regeringen föreslår förbud mot PFAS i kläder - SVT Nyheter
+- DN Direkt – Ny våg: Robotröst påstår sig ringa från polisen - Dagens Nyheter
+- Pojke försvunnen i Jönköping - SVT Nyheter
 - Just nu: En stillastående lastbil orsakar stopp i ett körfält på E4 - Norrbottens-Kuriren
-- Två 49-åringar döms för kontraktsmord i Eskilstuna - Göteborgs-Posten
-- Ny form av säkerhetsvakt ska utredas - Västerbottens-Kuriren
 - Tusentals flyr bränder i Frankrike: ”Vi har packat” - Dagens Nyheter
-- Stridsflyg har kraschat i Moskva - Marcus Oscarsson
-- Attacker mellan USA och Iran – smällar i kuststad - Göteborgs-Posten
-- Sánchez besökte brandhärjade Guadalajara - Folkbladet
-- Börsen faller när oljepriset flörtar med 100 dollar - Dagens industri
+- Klart: Nya EU-sanktioner mot Ryssland - Västerbottens-Kuriren
+- Avsatte försvarsministern vill återfå sin post - Västerbottens-Kuriren
+- Trump: Iran kommer hållas ansvarigt för Huthi-attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Priset på olja rusar – efter upptrappning i Mellanöstern - Aftonbladet
 - EU ger Google miljardböter - Omni – Alla nyheter. Alla perspektiv.
-- Orderkross för Volvo och Traton – Nordamerika bakom lyftet - Affärsvärlden
 - Björn Wiman: Har AI fått sitt ”Jurassic park-ögonblick”? - Dagens Nyheter
+- Orderkross för Volvo och Traton – Nordamerika bakom lyftet - Affärsvärlden
+- Ny rapport stöder allvarliga anklagelser mot Sony och hävdar att PlayStation-anställdas tystnad är ett desperat försök att kontrollera berättelsen - notebookcheck.se
 - ”Kylskåp för människor” lanseras i Japan – ska hjälpa med värmen - Göteborgs-Posten
-- Nyupptäckt solsystem ger huvudbry: ”Vad är en planet, vad är en måne?” - Sveriges Radio
 
 ## World News
 
 - Värmebölja i södra Europa – så påverkar global uppvärmning - SVT Nyheter
 - Esports World Cup 2026: Home -town Team Vitality krönt till MLBB Women's International mästare - Gamereactor
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Stories - Pride i rörelse: WorldPride från nätverk till en global scen - out.tv
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Swedish Professional Football Leagues signs Amnesty International World Cup in Qatar protest list - Föreningen Svensk Elitfotboll
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Lansering av tävlingen Miss Global Business Elite 2026. - Vietnam.vn
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
+- LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 
@@ -96,11 +96,11 @@ _Updated: 2026-07-23 18:58_
 
 ## Health
 
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
@@ -111,11 +111,11 @@ _Updated: 2026-07-23 18:58_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - En nationell, miljömässigt hållbar hälso- och sjukvård i sikte - Läkartidningen
-- Ökad hälsomedvetenhet kan öka människors hälsoångest - Läkartidningen
 - Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
@@ -123,22 +123,22 @@ _Updated: 2026-07-23 18:58_
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
