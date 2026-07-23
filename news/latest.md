@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-23 23:40_
+_Updated: 2026-07-24 00:36_
 
-- Trump says Saudi nuclear pact hinges on kingdom joining Abraham Accords - Al Jazeera
 - Trump to slap 'sweeping' new tariffs on 60 trade partners as global duties expire - CNBC
-- U.S. to Withdraw Subpoenas Issued to New York Times Journalists - The New York Times
-- Man gets two life sentences for killing Minnesota lawmaker and husband - NBC News
-- Yemen’s Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war - AP News
-- US House passes war powers resolution directing Trump to end Iran conflict - The Guardian
+- Government withdraws subpoenas of 3 reporters for The New York Times after admitting legal errors - AP News
+- Trump says Saudi nuclear pact hinges on kingdom joining Abraham Accords - Al Jazeera
+- US says 12th consecutive night of strikes will 'further degrade' Iran's military capabilities - Fox News
 - Some of Tropical Storm Bertha’s worst weather is 800 miles inland - The Washington Post
-- Fatal Madison police shooting considered open, active homicide investigation - Channel 3000
-- Thune responds to Leavitt quip that Trump’s patience with him ‘running out’ over SAVE America Act - The Hill
-- UWS stabbing: NYPD says suspect in custody after 2 men stabbed on Upper West Side of NYC - ABC7 New York
+- As tensions rise in Madison after deadly police shooting, victim is identified - NBC News
+- Man who killed Minnesota lawmaker Melissa Hortman sentenced to life as family describes trauma, loss - AP News
+- Blue states sue over new FEMA grant conditions - The Hill
+- Stabbings near Central Park: NYPD says suspect in custody after 2 men stabbed on Upper West Side of NYC - ABC7 New York
+- Trump-Thune Rift Intensifies Over Stalled Election Bill - The New York Times
 - India protest movement holds capital sit-in as police crack down on demonstrators - AP News
 - Middle East oil producers seek Strait of Hormuz alternatives as the U.S.-Iran war escalates - CBS News
-- Palestinian economy on ‘cliff edge’ as Israeli banks cut ties - Financial Times
+- Houthi attacks raise fears of wider Middle East conflict and more global economic damage - BBC
 - EXCLUSIVE: Iran flew IRGC commanders, missile gear to Yemen's Houthis, sources say - Reuters
-- Iran War Live Updates: Oil Prices Top $100 a Barrel After Houthi Attacks in Red Sea - The New York Times
 - Alphabet's cash burn raises alarm for Big Tech as AI spending climbs - Reuters
-- House Lawmakers Introduce Bipartisan AI ‘Kill Switch’ Bill Following OpenAI Cyber Incident - WSJ
-- EU’s Google fine risks triggering Trump as he gears up for more tariffs - politico.eu
+- FDA reports new outbreak of explosive diarrhea with 72 cases identified - Ars Technica
+- Europe just fined Google $1 billion, the day before Trump is expected to announce tariffs - Axios
+- Intel's stock jumps 11% as chipmaker rides AI boom to fastest revenue growth in almost 15 years - CNBC
 - My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable - CNET
 - Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders - The Verge
