@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-23 12:39_
+_Updated: 2026-07-23 15:00_
 
 ## Top Stories
 
-- Sami Jakobsson från Big brother döms för medhjälp till mord - Aftonbladet
-- Regeringen föreslår förbud mot PFAS i kläder - Göteborgs-Posten
+- Rysslandsexperten Martin Kragh är död - Göteborgs-Posten
+- Realityprofilen Sami Jakobsson döms för medhjälp till mord - Aftonbladet
 - Indiens unga ”kackerlackor” har fått nog – Modi skakad - Dagens Nyheter
-- Saudiskt fartyg attackerat i Röda havet - Västerbottens-Kuriren
-- DN Direkt – Misstänkt förgiftning på båt – fem till sjukhus - Dagens Nyheter
-- Kvinna i 40-årsåldern anhållen för mord i Kungsör - Omni – Alla nyheter. Alla perspektiv.
-- Stopp på E22 – väg avstängd hela dagen - Västerbottens-Kuriren
-- Man död efter balkongfall – misstänkt mord - Västerbottens-Kuriren
-- Hittades död efter en månad utan hemtjänst - Aftonbladet
-- DN Direkt – Ny form av säkerhetsvakt ska utredas - Dagens Nyheter
-- Dödssiffran stiger i Kongo Kinshasa: Över 1 000 döda i Ebola - Göteborgs-Posten
-- Klart: Nya EU-sanktioner mot Ryssland - Västerbottens-Kuriren
-- Drönarattack mot ryskt oljeraffinaderi - Hufvudstadsbladet – HBL
+- Regeringen föreslår förbud mot PFAS i kläder - SVT Nyheter
+- Nytt sanktionspaket mot Ryssland klart - Corren
 - Rubio: ICC en ”dum organisation” med ”galningar” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Musk: Tesla ska investera 25 miljarder dollar i år - Omni – Alla nyheter. Alla perspektiv.
+- Hittades död efter en månad utan hemtjänst - Västerbottens-Kuriren
+- DN Direkt – Busch: Sverige ska vara en ledande gruvnation - Dagens Nyheter
+- DN Direkt – Ny form av säkerhetsvakt ska utredas - Dagens Nyheter
+- Intern kritik mot Aspling: ”Delar inte bedömningen” - Omni – Alla nyheter. Alla perspektiv.
+- Nytt tillslag mot bokhandlare i Hongkong - Göteborgs-Posten
+- Drönarattack mot ryskt oljeraffinaderi - Hufvudstadsbladet – HBL
+- Kraftig minskning av det dödliga våldet i USA - Dagens Nyheter
+- Dödssiffran stiger i Kongo Kinshasa: Över 1 000 döda i Ebola - Göteborgs-Posten
+- EU ger Google miljardböter - Omni – Alla nyheter. Alla perspektiv.
+- Björn Wiman: Har AI fått sitt ”Jurassic park-ögonblick”? - Dagens Nyheter
 - Färre inkassokrav totalt – men äldre drabbas allt oftare - Börskollen
-- Erika har sökt 40 it-jobb: ”Varför vill ingen anställa oss?” - Dagens Nyheter
-- Trumps tullkrig trappas upp: ”Helt annan nivå” - Svenska Dagbladet
-- Rapport: Företag som betalar hackare riskerar nya utpressningskrav - Computer Sweden
+- Teslas rapport: Aktiekursen faller på grund av ökade investeringar och förseningen av Optimus; värderingen bibehålls - Morningstar
 - Nyupptäckt solsystem ger huvudbry: ”Vad är en planet, vad är en måne?” - Sveriges Radio
+- PlayStation-personal uppges vara föremål för begränsningar på sociala medier mitt i protesterna mot fysiska spel - notebookcheck.se
 
 ## World News
 
 - Värmebölja i södra Europa – så påverkar global uppvärmning - SVT Nyheter
 - Esports World Cup 2026: Home -town Team Vitality krönt till MLBB Women's International mästare - Gamereactor
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Stories - Pride i rörelse: WorldPride från nätverk till en global scen - out.tv
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Lansering av tävlingen Miss Global Business Elite 2026. - Vietnam.vn
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Visual Art köper Global Agencies - Dagens Media
 - Swedish Professional Football Leagues signs Amnesty International World Cup in Qatar protest list - Föreningen Svensk Elitfotboll
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -64,10 +64,10 @@ _Updated: 2026-07-23 12:39_
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
+- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 
@@ -96,24 +96,24 @@ _Updated: 2026-07-23 12:39_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Vi presenterar HealthBench - OpenAI
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- En nationell, miljömässigt hållbar hälso- och sjukvård i sikte - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Anders Printz tar över Uppdrag psykisk hälsa på SKR - Läkartidningen
+- En nationell, miljömässigt hållbar hälso- och sjukvård i sikte - Läkartidningen
 - Ökad hälsomedvetenhet kan öka människors hälsoångest - Läkartidningen
 - Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
+- Anders Printz tar över Uppdrag psykisk hälsa på SKR - Läkartidningen
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 
@@ -123,19 +123,19 @@ _Updated: 2026-07-23 12:39_
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
