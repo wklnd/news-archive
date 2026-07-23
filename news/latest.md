@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-23 20:48_
+_Updated: 2026-07-23 22:40_
 
-- Trump adds condition to Saudi nuclear deal: Normalizing relations with Israel - The Washington Post
-- Minnesota man gets 2 life sentences for killing Democratic lawmaker and her husband - CNN
-- US House passes war powers resolution directing Trump to end Iran conflict - The Guardian
-- Tropical Storm Bertha tracker: Storm makes landfall in Louisiana, bringing heavy rain and a flash flood threat to the northwestern Gulf Coast - Yahoo
-- Secret Service investigating agent for JD Vance over alleged leak - BBC
-- Iran War Latest: Trump threatens Iran, Houthis with "major military punishment" as war spreads to Red Sea - CBS News
-- Oil surges to $100 per barrel after Red Sea attacks - NBC News
-- Protesters gather in Madison after man fatally shot by a police officer - The Washington Post
+- Trump Live Updates: U.S.-Saudi Nuclear Deal in Doubt as President Demands 'Normalizing' Relations With Israel - The New York Times
+- US House votes to limit Iran war for first time since ceasefire breakdown - Al Jazeera
+- Some of Tropical Storm Bertha’s worst weather is 800 miles inland - The Washington Post
+- Man who killed Minnesota lawmaker Melissa Hortman sentenced to life as family describes trauma, loss - CNN
+- Oil tankers attacked as Iran threatens to turn second trade route into a ‘Gate of Tears’ - NBC News
+- DOJ withdraws subpoenas to NY Times reporters in Trump plane probe - CNBC
+- Trump’s patience with Thune ‘is running out’ - Politico
 - ‘We’re getting into an ugly phase’: Trump’s new tariffs are angering voters and US allies alike - Politico
-- Fire in San Diego County Prompts Evacuation Orders - The New York Times
+- Trump Administration Drops Subpoena Demanding List of Jews From Penn - The New York Times
+- Global Oil Price Jumps as War Threats Intensify - The New York Times
+- India protest movement holds capital sit-in as police crack down on demonstrators - AP News
 - Ebola death toll in DR Congo surpasses 1,000 - NPR
-- Mideast oil producers step up plans to bypass the Strait of Hormuz - AP News
-- EXCLUSIVE: Iran flew IRGC commanders, missile gear to Yemen's Houthis, sources say - Reuters
-- Israel acts to ease Palestinian banking crisis it helped create, but is it moving too late? - The Times of Israel
-- Dow tumbles 600 points as Brent crude tops $100, Alphabet and Tesla drop: Live updates - CNBC
-- EU fines Google €890M for breaching Big Tech rulebook - politico.eu
-- Trump unveils massive coalition protecting Americans from rising costs as admin pursues a top priority - Fox News
+- Middle East oil producers seek Strait of Hormuz alternatives as the U.S.-Iran war escalates - CBS News
+- Palestinian economy on ‘cliff edge’ as Israeli banks cut ties - Financial Times
+- Alphabet's cash burn raises alarm for Big Tech as AI spending climbs - Reuters
+- Intel blows past estimates, recording fastest sales growth in almost 15 years on 'unprecedented' demand - CNBC
+- EU’s Google fine risks triggering Trump as he gears up for more tariffs - politico.eu
 - Next-Gen Honda Ridgeline First Peek: It Looks a Lot More Like a Truck - The Drive
-- Everything Samsung Announced at Galaxy Unpacked: Z Fold 8, Flip 8, Watch 9, More - PCMag
-- Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders - The Verge
+- My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable - CNET
+- Google will now let you sign in to your account with a selfie video - TechCrunch
