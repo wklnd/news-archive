@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-23 03:03_
+_Updated: 2026-07-23 06:52_
 
 ## Top Stories
 
+- Direkt – Krisen i Mellanöstern – Saudiskt fartyg attackerat i Röda havet - Dagens Nyheter
 - Guide: Detta gäller om du vill avboka resan på grund av extremvärme - Göteborgs-Posten
-- DN Direkt – Oenighet i EU nya sanktioner mot Ryssland - Dagens Nyheter
-- Larm: Fartyg träffat i Röda havet - Västerbottens-Kuriren
-- USA och Saudiarabien ingår historiskt kärnenergiavtal - SVT Nyheter
-- Trump hotar med att bomba broar – Iran svarar - Corren
-- Varvet: ”Ni handlar med Ryssland, inte vi” - Svenska Dagbladet
-- DN Direkt – Två gripna efter att en man fallit från balkong - Dagens Nyheter
+- Ukrainskt bakslag efter pr-kupp: ”Extremt smärtsamma nyheter” - Aftonbladet
+- Attacker mellan USA och Iran – smällar i kuststad - Västerbottens-Kuriren
+- Harvard-läkare: Nästan alla gör fel på toaletten - Svenska Dagbladet
+- Kanadas ilska efter Trumps nya tullhot: ”Vi kan lamslå USA om vi vill” - ETC.se
 - Kycklingfilé återkallas – salmonellarisk - Västerbottens-Kuriren
+- LEDARE: Filosofi om PFAS med en AI-kompis - Sydöstran
+- Person ramlade i vattnet – förd till sjukhus med helikopter - Bohusläningen
 - Kraschade in i ett gym – dottern räddade deras liv - Västerbottens-Kuriren
-- Varnar för rådjur på vägen på E4 - Corren
-- Oaktsamhet kan ligga bakom branden i Drammen - Hufvudstadsbladet – HBL
-- Emma Bouvin: Trumps möte i Vita huset måste svida för Netanyahu - Dagens Nyheter
-- Nytt miljardpaket klubbat i representanthuset - Göteborgs-Posten
-- Frankrike förbjuder sociala medier för barn under 15 år - Teknikveckan
-- Trumps tullkrig trappas upp: ”Helt annan nivå” - Svenska Dagbladet
-- TYDLING UPPGÅNG, SCA OCH DYNAVOX LYFTE, OMXS30 +1,3% - Placera.se
+- Protesterna växer – ”kackerlackorna” pressar Modi - Västerbottens-Kuriren
+- Ytterligare 7 000 tvingas fly bränder i Frankrike - Hufvudstadsbladet – HBL
+- USA och Saudiarabien ingår historiskt kärnenergiavtal - SVT Nyheter
+- Kom ihåg-listor hjälpte Gilgo Beach-mördaren att begå mord - Dagens Nyheter
+- Erika har sökt 40 it-jobb: ”Varför vill ingen anställa oss?” - Dagens Nyheter
 - Avvaktande handel på Wall Street - Västerbottens-Kuriren
-- DN Direkt – USA och Saudiarabien skriver avtal om kärnenergi - Dagens Nyheter
+- Försiktigt uppåt på Asiens börser - Dagens industri
+- Lyft för asiatiska chip-aktier efter Alphabets rapport - Omni – Alla nyheter. Alla perspektiv.
+- PlayStation-personal uppges vara föremål för begränsningar på sociala medier mitt i protesterna mot fysiska spel - notebookcheck.se
 - Därför skapades Samsung Galaxy Z Fold 8 – en passliknande vikbar telefon som sätter "en ny standard för innehåll" - TechRadar
-- Nyupptäckt solsystem ger huvudbry: ”Vad är en planet, vad är en måne?” - Sveriges Radio
 
 ## World News
 
 - Värmebölja i södra Europa – så påverkar global uppvärmning - SVT Nyheter
 - Esports World Cup 2026: Home -town Team Vitality krönt till MLBB Women's International mästare - Gamereactor
-- Lansering av tävlingen Miss Global Business Elite 2026. - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
+- Stories - Pride i rörelse: WorldPride från nätverk till en global scen - out.tv
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews-se
+- Swedish Professional Football Leagues signs Amnesty International World Cup in Qatar protest list - Föreningen Svensk Elitfotboll
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -58,8 +58,8 @@ _Updated: 2026-07-23 03:03_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
@@ -99,15 +99,15 @@ _Updated: 2026-07-23 03:03_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- En nationell, miljömässigt hållbar hälso- och sjukvård i sikte - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- En nationell, miljömässigt hållbar hälso- och sjukvård i sikte - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Anders Printz tar över Uppdrag psykisk hälsa på SKR - Läkartidningen
@@ -142,7 +142,6 @@ _Updated: 2026-07-23 03:03_
 
 ## Jordbruk
 
-- Dien Bien Agriculture: Väcker potential - Ökar värdet: [Del 5]: "Green Stream" välkomnar investerare - Vietnam.vn
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
@@ -153,12 +152,13 @@ _Updated: 2026-07-23 03:03_
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
 - Visning av uppkomst efter direktsådd - Land.se
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
