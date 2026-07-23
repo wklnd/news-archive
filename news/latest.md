@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-23 06:57_
+_Updated: 2026-07-23 10:00_
 
 - U.S. signs nuclear deal with Saudi Arabia that gives it path to enriching fuel - The Washington Post
-- Yemen’s Houthis claim attack on two Saudi oil tankers - Al Jazeera
-- House passes Pentagon funding bill and a blueprint to unlock new dollars for Iran war - NPR
-- Fox News Poll: Voters want major change amid economic and political discontent - Fox News
-- Vet teams believe Jackie was already sick before bald eagle fight captured on video near Big Bear nest - ABC7 Los Angeles
-- Trump administration weighing military options in Mali, officials say - The Washington Post
-- Madison police kill man in broad daylight in front of witnesses - Wisconsin Examiner
-- Tropical Storm Bertha makes landfall on southern Louisiana with threatening winds - AP News
-- Amish Shah wins Dem primary in battleground Arizona House race - Politico
-- House GOP advances $95 billion plan to fund Iran war and SAVE America Act - CBS News
-- Zelenskyy under growing pressure to reinstate sacked defence minister - The Guardian
+- Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live - The Guardian
+- US House passes $1.15 trillion military bill expanding Israel cooperation - Al Jazeera
+- U.S. Surges Forces Toward Middle East, Giving Trump Options to Expand Iran War - WSJ
+- U.S. deploys B-1 bomber as attacks on Iran intensify - Axios
+- Trump gives emotional tribute to fallen Army Lt Tyler Feehan after flying grieving family on Air Force One - Fox News
+- Man fatally shot by police officer in Madison, prompting protest in city - The Washington Post
+- Tropical Storm Bertha is fading, but its moisture plume is fueling a serious East Coast flood threat - CNN
+- Amish Shah wins Democratic congressional primary in Arizona, a blow to the party establishment - AP News
+- House Judiciary Chair Jim Jordan refers Jack Smith to DOJ over alleged false statement - Axios
+- Top diplomats gather for security forum in Southeast Asia - Reuters
+- Dismissal of Ukraine’s defense minister started a sudden transformation of the military - AP News
 - Mexico mayor killed in town hall months after surviving assassination attempt - CBS News
-- Daniel Siad, Model Scout Who Connected Women to Epstein, Is Found Dead in France - The New York Times
-- Iran's demands over the Strait of Hormuz would set a dangerous precedent, Rubio warns Asian leaders - AP News
-- Alphabet earnings takeaways: Q2 revenue beats, GOOGL stock sinks on 2026 capex hike - CNBC
+- UK Politician Was Hit 21 Times With a Hammer: Prosecutors - Newser
+- OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know - NPR
+- Alphabet Inc (GOOG) Q2 2026 Earnings Call Highlights: Record Revenue Growth and AI Innovations ... - Yahoo Finance
+- FDA reviews peptide injections favored by RFK Jr. and wellness influencers - AP News
 - Tesla Profit Falls Even as Car Sales Rebound - The New York Times
-- OpenAI hacking incident exposes mounting risks in AI arms race - Financial Times
-- China's Moonshot AI stole from Anthropic, Trump tech adviser says - BBC
-- Samsung’s Galaxy Z Fold 8 Is for Everyone Who Can’t Stop Scrolling - CNET
-- Pixel Watch 5 specs leak with no chip upgrade, but more RAM - 9to5Google
+- The fight for the future of foldable phones is here - NBC News
+- Pixel 11 series leaks in more official-looking images with new angles [Gallery] - 9to5Google
