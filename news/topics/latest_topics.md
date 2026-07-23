@@ -1,41 +1,41 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-23 17:31_
+_Updated: 2026-07-23 18:58_
 
 ## Top Stories
 
 - Rysslandsexperten Martin Kragh är död - Göteborgs-Posten
+- Regeringen inför ny mineralstrategi – vill korta tiden för nya gruvor - SVT Nyheter
 - Dalsländsk familj i spanska hettan – semestrar i röd zon: ”Tur att det finns AC” - Dalslänningen
-- DN Direkt – Busch: Sverige ska vara en ledande gruvnation - Dagens Nyheter
-- Realityprofilen Sami Jakobsson döms för medhjälp till mord - Aftonbladet
+- Trump: Saudiarabien måste normalisera med Israel - Västerbottens-Kuriren
+- Miljardskador efter skalven i Venezuela - Västerbottens-Kuriren
+- Vapeninstruktör larmade polis om skjutbanan – förgäves - Dagens Nyheter
 - Regeringen föreslår förbud mot PFAS i kläder - SVT Nyheter
-- Miljardskador efter skalven i Venezuela - Göteborgs-Posten
-- Ny form av säkerhetsvakt ska utredas - Västerbottens-Kuriren
 - Just nu: En stillastående lastbil orsakar stopp i ett körfält på E4 - Norrbottens-Kuriren
-- DN Direkt – E22 öppen för trafik efter olyckan - Dagens Nyheter
-- Två bilar har krockat på E4 vid Skellefteå - SVT Nyheter
+- Två 49-åringar döms för kontraktsmord i Eskilstuna - Göteborgs-Posten
+- Ny form av säkerhetsvakt ska utredas - Västerbottens-Kuriren
 - Tusentals flyr bränder i Frankrike: ”Vi har packat” - Dagens Nyheter
-- Trump: Saudiarabien måste normalisera med Israel - Göteborgs-Posten
+- Stridsflyg har kraschat i Moskva - Marcus Oscarsson
+- Attacker mellan USA och Iran – smällar i kuststad - Göteborgs-Posten
 - Sánchez besökte brandhärjade Guadalajara - Folkbladet
-- Rubio: ICC en ”dum organisation” med ”galningar” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- EU ger Google miljardböter - Omni – Alla nyheter. Alla perspektiv.
 - Börsen faller när oljepriset flörtar med 100 dollar - Dagens industri
-- Traton klar vinnare på sjunkande börs - EFN
+- EU ger Google miljardböter - Omni – Alla nyheter. Alla perspektiv.
+- Orderkross för Volvo och Traton – Nordamerika bakom lyftet - Affärsvärlden
 - Björn Wiman: Har AI fått sitt ”Jurassic park-ögonblick”? - Dagens Nyheter
+- ”Kylskåp för människor” lanseras i Japan – ska hjälpa med värmen - Göteborgs-Posten
 - Nyupptäckt solsystem ger huvudbry: ”Vad är en planet, vad är en måne?” - Sveriges Radio
-- Klassiska Xbox-spel släpps för Windows 11 - m3.se
 
 ## World News
 
 - Värmebölja i södra Europa – så påverkar global uppvärmning - SVT Nyheter
 - Esports World Cup 2026: Home -town Team Vitality krönt till MLBB Women's International mästare - Gamereactor
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Stories - Pride i rörelse: WorldPride från nätverk till en global scen - out.tv
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
@@ -44,7 +44,7 @@ _Updated: 2026-07-23 17:31_
 - Swedish Professional Football Leagues signs Amnesty International World Cup in Qatar protest list - Föreningen Svensk Elitfotboll
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Lansering av tävlingen Miss Global Business Elite 2026. - Vietnam.vn
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
@@ -113,9 +113,9 @@ _Updated: 2026-07-23 17:31_
 - En nationell, miljömässigt hållbar hälso- och sjukvård i sikte - Läkartidningen
 - Ökad hälsomedvetenhet kan öka människors hälsoångest - Läkartidningen
 - Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
-- Om vikten av oral hälsa i ny bok - Läkartidningen
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 
 ## Science
 
