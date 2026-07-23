@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-23 01:32_
+_Updated: 2026-07-23 03:03_
 
 ## Top Stories
 
 - Guide: Detta gäller om du vill avboka resan på grund av extremvärme - Göteborgs-Posten
 - DN Direkt – Oenighet i EU nya sanktioner mot Ryssland - Dagens Nyheter
+- Larm: Fartyg träffat i Röda havet - Västerbottens-Kuriren
 - USA och Saudiarabien ingår historiskt kärnenergiavtal - SVT Nyheter
+- Trump hotar med att bomba broar – Iran svarar - Corren
 - Varvet: ”Ni handlar med Ryssland, inte vi” - Svenska Dagbladet
-- Titta, lukta och smaka – rötmånad hela sommaren - Nya Wermlands-Tidningen
-- USA har inlett nya attacker - Västerbottens-Kuriren
 - DN Direkt – Två gripna efter att en man fallit från balkong - Dagens Nyheter
-- 12-åring misstänks för mordförsök – kopplas till våldsamt Tiktok-konto - SVT Nyheter
+- Kycklingfilé återkallas – salmonellarisk - Västerbottens-Kuriren
 - Kraschade in i ett gym – dottern räddade deras liv - Västerbottens-Kuriren
-- DN Direkt – Kycklingfilé återkallas – salmonellarisk - Dagens Nyheter
-- Massiva bränder i södra Ryssland efter attacker - Göteborgs-Posten
+- Varnar för rådjur på vägen på E4 - Corren
 - Oaktsamhet kan ligga bakom branden i Drammen - Hufvudstadsbladet – HBL
 - Emma Bouvin: Trumps möte i Vita huset måste svida för Netanyahu - Dagens Nyheter
-- Nytt miljardpaket klubbat i representanthuset - Västerbottens-Kuriren
+- Nytt miljardpaket klubbat i representanthuset - Göteborgs-Posten
+- Frankrike förbjuder sociala medier för barn under 15 år - Teknikveckan
 - Trumps tullkrig trappas upp: ”Helt annan nivå” - Svenska Dagbladet
+- TYDLING UPPGÅNG, SCA OCH DYNAVOX LYFTE, OMXS30 +1,3% - Placera.se
 - Avvaktande handel på Wall Street - Västerbottens-Kuriren
-- Trippelsmockan får oljan att rusa: ”Perfekt storm” - EFN
-- Alphabets delår bättre än väntat – utgifterna skenar - Omni – Alla nyheter. Alla perspektiv.
+- DN Direkt – USA och Saudiarabien skriver avtal om kärnenergi - Dagens Nyheter
 - Därför skapades Samsung Galaxy Z Fold 8 – en passliknande vikbar telefon som sätter "en ny standard för innehåll" - TechRadar
 - Nyupptäckt solsystem ger huvudbry: ”Vad är en planet, vad är en måne?” - Sveriges Radio
 
@@ -29,24 +29,24 @@ _Updated: 2026-07-23 01:32_
 
 - Värmebölja i södra Europa – så påverkar global uppvärmning - SVT Nyheter
 - Esports World Cup 2026: Home -town Team Vitality krönt till MLBB Women's International mästare - Gamereactor
+- Lansering av tävlingen Miss Global Business Elite 2026. - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Stories - Pride i rörelse: WorldPride från nätverk till en global scen - out.tv
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews-se
-- Swedish Professional Football Leagues signs Amnesty International World Cup in Qatar protest list - Föreningen Svensk Elitfotboll
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -76,6 +76,7 @@ _Updated: 2026-07-23 01:32_
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -84,7 +85,6 @@ _Updated: 2026-07-23 01:32_
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Vilken framtid arbetar du för? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
@@ -103,19 +103,19 @@ _Updated: 2026-07-23 01:32_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - En nationell, miljömässigt hållbar hälso- och sjukvård i sikte - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Kartläggning pekar på att småbarns hälsa behöver förbättras - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Anders Printz tar över Uppdrag psykisk hälsa på SKR - Läkartidningen
 - Ökad hälsomedvetenhet kan öka människors hälsoångest - Läkartidningen
 - Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
