@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-23 10:00_
+_Updated: 2026-07-23 12:50_
 
 - U.S. signs nuclear deal with Saudi Arabia that gives it path to enriching fuel - The Washington Post
 - Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live - The Guardian
 - US House passes $1.15 trillion military bill expanding Israel cooperation - Al Jazeera
-- U.S. Surges Forces Toward Middle East, Giving Trump Options to Expand Iran War - WSJ
-- U.S. deploys B-1 bomber as attacks on Iran intensify - Axios
-- Trump gives emotional tribute to fallen Army Lt Tyler Feehan after flying grieving family on Air Force One - Fox News
-- Man fatally shot by police officer in Madison, prompting protest in city - The Washington Post
-- Tropical Storm Bertha is fading, but its moisture plume is fueling a serious East Coast flood threat - CNN
-- Amish Shah wins Democratic congressional primary in Arizona, a blow to the party establishment - AP News
-- House Judiciary Chair Jim Jordan refers Jack Smith to DOJ over alleged false statement - Axios
-- Top diplomats gather for security forum in Southeast Asia - Reuters
-- Dismissal of Ukraine’s defense minister started a sudden transformation of the military - AP News
+- Tension between Mullin and White House appears to be growing, sources say - NBC News
+- Iran War Updates: U.S. carries out 12th straight night of strikes as threats to oil trade deepen - CBS News
+- Wisconsin police officer shoots, kills man on city street near state Capitol in Madison - AP News
+- ‘We’re getting into an ugly phase’: Trump’s new tariffs are angering voters and U.S. allies alike - Politico
+- What to Know as Tropical Storm Bertha Makes Landfall on Louisiana Coast - The New York Times
+- House GOP passes blueprint for reconciliation 3.0 - Axios
+- GOP chair of House Judiciary Committee asks Justice Department to consider prosecuting Jack Smith - CNN
 - Mexico mayor killed in town hall months after surviving assassination attempt - CBS News
-- UK Politician Was Hit 21 Times With a Hammer: Prosecutors - Newser
-- OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know - NPR
-- Alphabet Inc (GOOG) Q2 2026 Earnings Call Highlights: Record Revenue Growth and AI Innovations ... - Yahoo Finance
-- FDA reviews peptide injections favored by RFK Jr. and wellness influencers - AP News
-- Tesla Profit Falls Even as Car Sales Rebound - The New York Times
+- A Russian Spy, Suddenly Cast Into the Spotlight, Flees Japan - The New York Times
+- Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats - CNBC
+- India protest movement holds capital sit-in as police crack down on demonstrators - AP News
+- OpenAI hacking incident exposes mounting risks in AI arms race - Financial Times
+- A Peptide Showdown: F.D.A. Scientists May Clash With Kennedy’s Agenda - The New York Times
+- Alphabet Stock Falls: Google-Parent Reports Blowout Earnings - Barron's
+- Nestle Sells Half of Waters Unit to Platinum Equity in $3.4 Billion Joint-Venture Deal - WSJ
 - The fight for the future of foldable phones is here - NBC News
-- Pixel 11 series leaks in more official-looking images with new angles [Gallery] - 9to5Google
+- Google Hit With $1 Billion Fine for Abusing Its Power in Europe - The New York Times
