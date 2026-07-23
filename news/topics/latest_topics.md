@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-23 09:56_
+_Updated: 2026-07-23 12:39_
 
 ## Top Stories
 
-- Direkt – Krisen i Mellanöstern – Saudiskt fartyg attackerat i Röda havet - Dagens Nyheter
-- Forsells oro: Lag kan stoppas om Tidö-partierna förlorar - Omni – Alla nyheter. Alla perspektiv.
-- Drönarattack mot ryskt oljeraffinaderi - Västerbottens-Kuriren
+- Sami Jakobsson från Big brother döms för medhjälp till mord - Aftonbladet
+- Regeringen föreslår förbud mot PFAS i kläder - Göteborgs-Posten
+- Indiens unga ”kackerlackor” har fått nog – Modi skakad - Dagens Nyheter
+- Saudiskt fartyg attackerat i Röda havet - Västerbottens-Kuriren
+- DN Direkt – Misstänkt förgiftning på båt – fem till sjukhus - Dagens Nyheter
+- Kvinna i 40-årsåldern anhållen för mord i Kungsör - Omni – Alla nyheter. Alla perspektiv.
+- Stopp på E22 – väg avstängd hela dagen - Västerbottens-Kuriren
+- Man död efter balkongfall – misstänkt mord - Västerbottens-Kuriren
+- Hittades död efter en månad utan hemtjänst - Aftonbladet
+- DN Direkt – Ny form av säkerhetsvakt ska utredas - Dagens Nyheter
+- Dödssiffran stiger i Kongo Kinshasa: Över 1 000 döda i Ebola - Göteborgs-Posten
+- Klart: Nya EU-sanktioner mot Ryssland - Västerbottens-Kuriren
+- Drönarattack mot ryskt oljeraffinaderi - Hufvudstadsbladet – HBL
+- Rubio: ICC en ”dum organisation” med ”galningar” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Musk: Tesla ska investera 25 miljarder dollar i år - Omni – Alla nyheter. Alla perspektiv.
+- Färre inkassokrav totalt – men äldre drabbas allt oftare - Börskollen
 - Erika har sökt 40 it-jobb: ”Varför vill ingen anställa oss?” - Dagens Nyheter
-- Svenskarna om skräcknatten i semesterpärlan: ”Det var kaos” - TV4 Nyheterna
-- Guide: Detta gäller om du vill avboka resan på grund av extremvärme - Göteborgs-Posten
-- Person anhållen efter misstänkt grovt brott i Kungsör - SVT Nyheter
-- Efter ambulansmordet: Åtalsanmälan mot regionen - Västerbottens-Kuriren
-- DN Direkt – Två gripna efter att en man fallit från balkong - Dagens Nyheter
-- Kycklingfilé återkallas – salmonellarisk - Västerbottens-Kuriren
-- Protesterna växer – ”kackerlackorna” pressar Modi - Västerbottens-Kuriren
-- Över 1000 döda i ebola i Kongo-Kinshasa - SVT Nyheter
-- Nytt sanktionspaket mot Ryssland klart - Corren
-- Ny storbrand härjar i Frankrike – 12 000 evakuerade - Dagens Nyheter
 - Trumps tullkrig trappas upp: ”Helt annan nivå” - Svenska Dagbladet
-- Teslas aktie backar efter rapportsläpp - Affärsvärlden
-- Felaktig nyhetsnotis sänkte Nordeas börsvärde - Västerbottens-Kuriren
-- Nokias AI-strategi ger utdelning – vinsten överraskar - Omni – Alla nyheter. Alla perspektiv.
 - Rapport: Företag som betalar hackare riskerar nya utpressningskrav - Computer Sweden
-- PlayStation-personal uppges vara föremål för begränsningar på sociala medier mitt i protesterna mot fysiska spel - notebookcheck.se
+- Nyupptäckt solsystem ger huvudbry: ”Vad är en planet, vad är en måne?” - Sveriges Radio
 
 ## World News
 
 - Värmebölja i södra Europa – så påverkar global uppvärmning - SVT Nyheter
 - Esports World Cup 2026: Home -town Team Vitality krönt till MLBB Women's International mästare - Gamereactor
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Stories - Pride i rörelse: WorldPride från nätverk till en global scen - out.tv
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Lansering av tävlingen Miss Global Business Elite 2026. - Vietnam.vn
-- Swedish Professional Football Leagues signs Amnesty International World Cup in Qatar protest list - Föreningen Svensk Elitfotboll
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- Swedish Professional Football Leagues signs Amnesty International World Cup in Qatar protest list - Föreningen Svensk Elitfotboll
+- WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
 
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
+- LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 
 ## Business
 
@@ -84,15 +84,15 @@ _Updated: 2026-07-23 09:56_
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Vilken framtid arbetar du för? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -100,12 +100,11 @@ _Updated: 2026-07-23 09:56_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -116,6 +115,7 @@ _Updated: 2026-07-23 09:56_
 - Ökad hälsomedvetenhet kan öka människors hälsoångest - Läkartidningen
 - Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 
 ## Science
 
@@ -123,19 +123,19 @@ _Updated: 2026-07-23 09:56_
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
