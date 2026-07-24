@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-24 12:33_
+_Updated: 2026-07-24 14:03_
 
 ## Top Stories
 
 - Tiotusentals evakuerade och nationellt nödläge – stora bränder bortom kontroll på kontinenten - Dagens Nyheter
-- Dousa om tullarna: Ingen dramatik - Göteborgs-Posten
 - Bevistalan väckt mot pojke efter masskjutning i Gävle - Omni – Alla nyheter. Alla perspektiv.
 - Bränder rasar i Europa – nödläge utlyst i Spanien - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Flera döda i skottlossning på Västbanken - Dagens Nyheter
-- Direkt – Kriget i Ukraina – 25 skadade i ryskt anfall – svarar med lagerattack - Dagens Nyheter
-- Rysslandsexperten Martin Kragh är död - Göteborgs-Posten
+- Flera döda i skottlossning på Västbanken - Göteborgs-Posten
+- Trump inför nya tullar mot 60 länder: ”Byter en tull mot en annan” - SVT Nyheter
+- EU: Tiktok utsätter barn för risker - Göteborgs-Posten
 - Taxichaufför misstänks ha våldtagit man - Västerbottens-Kuriren
-- I dag flyger försvarets helikoptrar på låg höjd i stan - Mitt i
-- Ryska skuggflottans ändrade taktik efter bordningarna: Beväpnar besättningen - Omni – Alla nyheter. Alla perspektiv.
+- M och SD vill se fler vakter – trots att tryggheten ökar - Dagens Nyheter
+- Rysslandsexperten Martin Kragh är död - Göteborgs-Posten
+- 24 juli 02.41, Mord/dråp, försök, Stockholm - polisen.se
 - Tiotals döda i översvämningar och skred i Indien - Corren
 - Trump: Iranska tillgångar ska ersätta skadade fartyg - Göteborgs-Posten
-- Efter anklagelserna: ICC-åklagaren kan tvingas gå - Västerbottens-Kuriren
-- Evakuerade i Drammen får återvända hem - Hufvudstadsbladet – HBL
-- Stockholmsbörsen stiger svagt – Loomis och Securitas åt varsitt håll - EFN
-- Svensk arbetslöshet sjönk i juni - Dagens industri
-- Breda fall på Wall Street, kraftig nedgång för Mag 7-bolagen - Placera.se
-- AI-oro och oljerusning sänker asiatiska börser - Omni – Alla nyheter. Alla perspektiv.
+- Nicaraguas president Daniel Ortega: ”Det blir inga fler val” - Sveriges Radio
+- Dödliga attacker mot Ryssland och Ukraina - Västerbottens-Kuriren
+- Historiskt ras för säkerhetsbjässen – mot strömmen - EFN
+- SCB: Arbetslösheten kvar på högre nivå - Sydsvenskan
+- Techras i New York – rusning för oljepriset - Affärsvärlden
+- SECURITAS RAPPORTFALLER, HANSA STÄRKS, OMXS30 +0,8% - Placera.se
 - Gång- och cykelväg tar form i Gammelgården - Kalix Kommuns hemsida
-- Fromsoftware visar upp två nya klasser till Elden Ring - FZ.se
+- Splatoon Raiders kan upplevas mer grå än tidigare spel - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
@@ -34,17 +34,17 @@ _Updated: 2026-07-24 12:33_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
-- Stories - Pride i rörelse: WorldPride från nätverk till en global scen - out.tv
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Stories - Pride i rörelse: WorldPride från nätverk till en global scen - out.tv
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Lansering av tävlingen Miss Global Business Elite 2026. - Vietnam.vn
+- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
