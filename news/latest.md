@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-24 01:53_
+_Updated: 2026-07-24 03:06_
 
-- Trump to slap 'sweeping' new tariffs on 60 trade partners as global duties expire - CNBC
+- US announces fresh raft of tariffs on overseas goods - BBC
 - Trump Live Updates: U.S.-Saudi Nuclear Deal in Doubt as President Demands 'Normalizing' Relations With Israel - The New York Times
-- Trump’s DoJ drops effort to subpoena New York Times over Qatari jet story - The Guardian
-- Some of Tropical Storm Bertha’s worst weather is 800 miles inland - The Washington Post
-- Man who killed Minnesota lawmaker Melissa Hortman sentenced to life as family describes trauma, loss - AP News
-- US says 12th consecutive night of strikes will 'further degrade' Iran's military capabilities - Fox News
-- Man who stabbed 2 near New York City’s Central Park yelled ‘Allahu Akbar,’ police say - NBC News
+- NYC stabbing attacks that injured 2 being evaluated as potential hate crime: NYPD - ABC News - Breaking News, Latest News and Videos
+- House votes to limit Trump on Iran; Senate fails to advance similar measure - The Washington Post
+- Bertha makes Texas landfall. Houston still faces rain, gusty winds - Houston Chronicle
+- DOJ withdraws subpoenas to NY Times reporters in Trump plane probe - CNBC
+- Man gets two life sentences for killing Minnesota lawmaker and husband - NBC News
 - Fatal police shooting of man with knife roils Madison, Wisconsin - AP News
-- Trump-Thune Rift Intensifies Over Stalled Election Bill - The New York Times
-- US House votes to limit Iran war for first time since ceasefire breakdown - Al Jazeera
-- India protest movement holds capital sit-in as police crack down on demonstrators - AP News
-- Palestinian economy on ‘cliff edge’ as Israeli banks cut ties - Financial Times
-- Mideast oil producers step up plans to bypass the Strait of Hormuz - AP News
-- Ukraine’s new military chief pledges to escalate retaliation against Russia - Al Jazeera
-- Tesla stock tumbles 14% after profit miss; full-year capex spend of $25 billion confirmed - Yahoo Finance
-- OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress - CNBC
+- Contractor disputes Mikie Sherrill’s claims of NJ voter registration software error - Politico
+- Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf - Al Jazeera
+- Trump Says He’ll Hold Iran Responsible for Future Houthi Strikes - Bloomberg.com
+- CJP protest: The youth movement India's Modi didn't see coming - BBC
+- How protests over a popular minister’s firing sparked Ukraine’s sudden military reset - AP News
+- Has Russia helped Iran target CIA sites in the Gulf? - Al Jazeera
 - Iran War Live Updates: Oil Prices Top $100 a Barrel After Houthi Attacks in Red Sea - The New York Times
-- U.S. health officials investigate new outbreak of parasite cyclospora - PBS
+- Tesla Short Sellers Mint $4 Billion Profit as Shares Nosedive - Bloomberg.com
+- Europe just fined Google $1 billion, the day before Trump is expected to announce tariffs - Axios
+- Alphabet's cash burn raises alarm for Big Tech as AI spending climbs - Reuters
 - My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable - CNET
-- Microsoft responds to LG monitors installing McAfee ads on Windows - Ars Technica
+- Two new Macs might skip M5 chips and go straight to M6 - 9to5Mac
