@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-24 01:53_
+_Updated: 2026-07-24 02:55_
 
 ## Top Stories
 
 - USA inför nya tullar – efter HD:s beslut - Dagens Nyheter
 - Evakuerade i Drammen får återvända hem - Västerbottens-Kuriren
-- DN Direkt – Rysslandsexperten Martin Kragh är död - Dagens Nyheter
-- Dalsländsk familj i spanska hettan – semestrar i röd zon: ”Tur att det finns AC” - Dalslänningen
-- Nya attacker mot iransk ö i Hormuz och mot Kuwait - Göteborgs-Posten
-- Därför går inga spårvagnar förbi Drottningtorget - Göteborgs-Posten
-- Busch: Sverige ska vara en ledande gruvnation - Corren
-- Regeringen föreslår förbud mot PFAS i kläder - SVT Nyheter
+- Rysslandsexperten Martin Kragh är död - Göteborgs-Posten
+- Trump har tröttnat på sina egna - Expressen
+- Rubio: ICC en ”dum organisation” med ”galningar” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Ny våg: Robotröst påstår sig ringa från polisen - Aftonbladet
+- Busch: Sverige ska vara en ledande gruvnation - Dagens Nyheter
 - Just nu: En stillastående fordon orsakar stopp i ett körfält på E4 - Corren
-- Trafikolycka på E4 - Västerbottens-Kuriren
-- Spanien utlyser nödläge - Västerbottens-Kuriren
+- Regeringen föreslår förbud mot PFAS i kläder - SVT Nyheter
+- Novus: Moderaterna återhämtar sig - Göteborgs-Posten
+- Bränder rasar i Spanien – nödläge utlyst - Västerbottens-Kuriren
 - Tusentals flyr franska bränder: ”Vi har packat” - Corren
 - Avsatte försvarsministern vill återfå sin post - Västerbottens-Kuriren
 - Trump: Saudiarabien måste normalisera med Israel - Göteborgs-Posten
-- TYDLIG NEDÅNG, ESKALERING I MELLANÖSTERN, S&P 500 -1,2% - Placera.se
-- Björn Wiman: Har AI fått sitt ”Jurassic park-ögonblick”? - Dagens Nyheter
 - Börsen faller när oljepriset flörtar med 100 dollar - Dagens industri
-- Svenskt elflygplan får testflyga i USA - Corren
+- Fall på Wall Street – Tesla och Alphabet tyngde - Göteborgs-Posten
+- Fenix Outdoor: Ingen pånyttfödelse än - Affärsvärlden
+- ECB diskuterade räntehöjning, men nådde enighet om oförändrad styrränta - Lagarde - Börsvärlden
 - ”Kylskåp för människor” lanseras i Japan – ska hjälpa med värmen - Göteborgs-Posten
 - Ny rapport stöder allvarliga anklagelser mot Sony och hävdar att PlayStation-anställdas tystnad är ett desperat försök att kontrollera berättelsen - notebookcheck.se
 
@@ -79,8 +79,8 @@ _Updated: 2026-07-24 01:53_
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -102,20 +102,20 @@ _Updated: 2026-07-24 01:53_
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Sju life science-trender 2026 - Business Region Göteborg
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Vi presenterar HealthBench - OpenAI
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- En nationell, miljömässigt hållbar hälso- och sjukvård i sikte - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- En nationell, miljömässigt hållbar hälso- och sjukvård i sikte - Läkartidningen
 - Om vikten av oral hälsa i ny bok - Läkartidningen
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
