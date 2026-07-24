@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-24 15:05_
+_Updated: 2026-07-24 17:15_
 
-- US allies hit with new tariffs object to Trump’s forced labor claims - NPR
+- A defiant Trump imposes replacement tariffs on biggest U.S. trading partners - NPR
 - U.S. launches new strikes and Trump threatens ‘massive attack’ as Iran widens war - NBC News
-- Attacker shouting ‘allahu akbar’ stabs Jewish man with a screwdriver in NYC - The Times of Israel
+- Americans Told to Stay Home as Canada Opens International Bridge - The New York Times
+- US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest? - Al Jazeera
 - Melania Trump Raises Eyebrows With New Major Snub - The Daily Beast
-- How the Gordie Howe bridge became a symbol of a strained US-Canada relationship - BBC
-- DOJ drops New York Times subpoenas over Air Force 1 reports - Axios
-- Wisconsin protester brands Madison as 'corrupt city' during anti-police tirade following deadly shooting - Fox News
-- House members stare down a grueling summer on the campaign trail - Politico
-- Contractor disputes Mikie Sherrill’s claims of NJ voter registration software error - Politico
-- Chinese Nationals Win Math’s Prestigious Fields Medal for First Time - WSJ
-- France sends boats to evacuate tourist hotspot Cap Ferret as wildfires rage - CNN
-- Trump’s New Demand for Nuclear Deal Puts Saudis in a Bind - The New York Times
-- Cockroach Revolt Exposes Cracks in Modi’s Vision of Rising India - Bloomberg.com
-- From steppe to sea, a Ukrainian drone unit hunts Russian ships - Reuters
-- Oil Prices Remain High as Conflict With Iran Drags On - The New York Times
-- Stock Market Today: Dow Futures Edge Up, What to Watch — Live Updates - WSJ
-- Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say - CNBC
-- OpenAI’s breach of Hugging Face stokes fears about what’s next for AI - The Hill
+- Knives are out for Vance in the GOP. His allies say it’s a coordinated ‘op.’ - The Washington Post
+- Man who stabbed 2 near New York’s Central Park yelled ‘Allahu Akbar,’ police say - NBC News
+- AtwoodFest canceled in wake of deadly police shooting - Channel 3000
+- Capitol agenda: A grueling summer campaign begins - Politico
+- Trump’s DoJ drops effort to subpoena New York Times over Qatari jet story - The Guardian
+- Spain declares national emergency over wildfires near Madrid and in Avila - Reuters
+- Timeline: How a College Test Scandal Grew Into a Youth Movement in India - The New York Times
+- Is the US-Saudi nuclear deal on, or in limbo? - Al Jazeera
+- Head of Swiss euthanasia firm dies while climbing Mount Fuji; 99-year-old woman rescued - CBS News
+- Cyclospora outbreak linked to iceberg lettuce expands to 4 more states - CBS News
+- Oil Prices Waver as Gulf Ship Traffic Falls to Lowest Level in Months - The New York Times
+- Fed chair 'an enigma:' Why July interest rate move is hard to predict - USA Today
+- Amex Raises Forecast for Revenue Growth on First-Half Momentum - Bloomberg.com
 - My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable - CNET
-- Microsoft pressures LG into killing unwanted McAfee ads - The Verge
+- Anthropic updates Claude voice mode with more capable models - TechCrunch
