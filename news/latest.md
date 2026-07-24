@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-24 22:48_
+_Updated: 2026-07-25 00:40_
 
-- Iran War Live Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes - The New York Times
-- U.S. allies hit with new tariffs object to Trump's forced labor allegations - NPR
-- Europe wildfires latest: More than 130,000 evacuated across France and Spain - BBC
-- Canada opens Gordie Howe bridge without US; Trump says that’s ‘fine’ - The Hill
-- Karim Khan ousted from role as prosecutor of international criminal court - The Guardian
+- U.S. launches new strikes and Trump threatens ‘massive attack’ as Iran widens war - NBC News
+- How the Gordie Howe bridge became a symbol of a strained US-Canada relationship - BBC
+- New US tariffs linked to claims of foreign forced labor dismay and anger trading partners - AP News
+- ICC prosecutor Khan removed over ‘politicised’ sex abuse claims: Sources - Al Jazeera
+- Bombshell memo shows Biden planned to leave Trump with even more massive immigration crisis - Fox News
 - Knives are out for Vance in the GOP. His allies say it’s a coordinated ‘op.’ - The Washington Post
-- Cyclospora outbreak linked to iceberg lettuce expands to 4 more states - CBS News
+- Wisconsin officials open investigation into police killing of Corey Ruiz - BBC
 - DNC committee sets up South Carolina to vote first in Democrats’ 2028 presidential primaries - NBC News
-- Live updates: Colt Gray, Georgia school shooter, pleads guilty and victims deliver emotional statements in court - CNN
-- Scientists decry Trump’s ‘blame game’ after he claims Canada ‘poisoning’ US air - The Guardian
+- Star US Supreme Court lawyer Goldstein to be sentenced for tax crimes - Reuters
+- Canada's Doug Ford on Trump trade war: "When someone comes up and punches you in the face ... you have to stand up" - CBS News
 - Why Trump may be undermining his own Saudi nuclear deal - vox.com
-- No basic services and nowhere to go: How these Venezuelans are living a month after the earthquakes - NBC News
+- Families still search for bodies a month after Venezuela earthquakes - BBC
+- Tens of thousands flee fires in France, blazes merge outside Madrid - Reuters
 - Ship insurers restrict war coverage for Saudi Arabian cargoes in Red Sea - Financial Times
-- At Least 6 Dead After Ukrainian Drones Hit Wildberries Warehouses and Industrial Facility - The Moscow Times
-- Donald Trump threatens new EU tariffs in retaliation for fines on US tech groups - Financial Times
-- How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack - CNBC
-- Why the Latest Oil Rally May Be Far From Over - Crude Oil Prices Today | OilPrice.com
-- Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - CNBC
+- Trump says the US will investigate EU trade practices, claiming the bloc unfairly fined tech giants - AP News
+- C.D.C. Expands Cyclospora Outbreak Linked to Iceberg Lettuce to Nine States - The New York Times
+- 1.5M cartons of eggs recalled in six states for possible salmonella contamination - The Washington Post
+- Why Trump is facing his biggest danger from rising oil prices since the war began - Politico
 - My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable - CNET
-- Facebook considers giving up and becoming TikTok - The Verge
+- Meta just created a moderation nightmare for its smart glasses - The Verge
