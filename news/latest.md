@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-24 12:46_
+_Updated: 2026-07-24 15:05_
 
-- US hits dozens of countries with new wave of tariffs - BBC
-- Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’ - Al Jazeera
-- Justice Dept. drops 'New York Times' subpoenas under pressure from judge - NPR
+- US allies hit with new tariffs object to Trump’s forced labor claims - NPR
+- U.S. launches new strikes and Trump threatens ‘massive attack’ as Iran widens war - NBC News
 - Attacker shouting ‘allahu akbar’ stabs Jewish man with a screwdriver in NYC - The Times of Israel
-- House rebukes Trump's war in Iran - Axios
-- Police shooting in Madison being investigated as a homicide, police chief says - The Washington Post
-- Kenmore Air seaplane crashes near Sucia Island; all 11 aboard rescued - KOMO
+- Melania Trump Raises Eyebrows With New Major Snub - The Daily Beast
+- How the Gordie Howe bridge became a symbol of a strained US-Canada relationship - BBC
+- DOJ drops New York Times subpoenas over Air Force 1 reports - Axios
+- Wisconsin protester brands Madison as 'corrupt city' during anti-police tirade following deadly shooting - Fox News
+- House members stare down a grueling summer on the campaign trail - Politico
 - Contractor disputes Mikie Sherrill’s claims of NJ voter registration software error - Politico
-- A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War - The New York Times
-- Cobb County crowd boos video of Trump visit - FOX 5 Atlanta
-- Trump’s Demand for Saudis to Recognize Israel Puts Nuclear Deal in Doubt - The New York Times
-- One killed, four wounded, after Palestinian steals gun, shoots hikers - The Jerusalem Post
-- Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on - AP News
-- UK's Burnham opens 'No10 North' to shift economic power from London - Reuters
-- Shares skid in Asia in sell-off of AI-related shares as Brent oil trades near $100 per barrel - AP News
-- Odds of Federal Reserve rate hike surge as oil prices rip higher - CNBC
-- Alphabet's cash burn raises alarm for Big Tech as AI spending climbs - Reuters
-- Eligible Amazon Prime customers have until Monday to file claim in $2.5 billion settlement - WHEC.com
-- 10 iOS 27 Performance Improvements You'll Actually Notice - MacRumors
-- LG to Remove Unwanted Monitor Pop-Ups, Following Nudge From Microsoft - PCMag
+- Chinese Nationals Win Math’s Prestigious Fields Medal for First Time - WSJ
+- France sends boats to evacuate tourist hotspot Cap Ferret as wildfires rage - CNN
+- Trump’s New Demand for Nuclear Deal Puts Saudis in a Bind - The New York Times
+- Cockroach Revolt Exposes Cracks in Modi’s Vision of Rising India - Bloomberg.com
+- From steppe to sea, a Ukrainian drone unit hunts Russian ships - Reuters
+- Oil Prices Remain High as Conflict With Iran Drags On - The New York Times
+- Stock Market Today: Dow Futures Edge Up, What to Watch — Live Updates - WSJ
+- Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say - CNBC
+- OpenAI’s breach of Hugging Face stokes fears about what’s next for AI - The Hill
+- My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable - CNET
+- Microsoft pressures LG into killing unwanted McAfee ads - The Verge
