@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-24 23:37_
+_Updated: 2026-07-25 01:40_
 
 ## Top Stories
 
-- Man skjuten i västra Stockholm - Aftonbladet
+- Man skjuten till döds i västra Stockholm - Aftonbladet
 - DN Direkt – Sverige skickar plan till bränderna i Sydeuropa - Dagens Nyheter
-- ICC:s chefsåklagare får gå efter sexanklagelser - Corren
-- Flera döda i rysk attack mot vapenmässa utanför Kiev - Göteborgs-Posten
-- Turkiet utlämnar svensk – dömd för grova brott - SVT Nyheter
-- Saudisk attack mot Huthirörelsen i Jemen - Göteborgs-Posten
-- Johan hörde rysk drönarvarning - i P1 - Svenska Dagbladet
-- Sommarvärmen kan vara tillbaka nästa vecka - Dagens Nyheter
-- Polisen varnar för bullbedragare - Expressen
+- Två döda i rysk attack mot Sumy - Svenska Dagbladet
+- Gängledaren utlämnad – efter fem år på flykt - Göteborgs-Posten
+- Dödliga attacker mot Ryssland och Ukraina - Corren
+- Uppgifter: ICC:s chefsåklagare avsätts efter anklagelser - SVT Nyheter
+- Pojke sköt på order av Foxtrot: 29 mordförsök - Corren
 - 24 juli 20.42, Stöld, Jönköpings län - polisen.se
+- Sommarvärmen kan vara tillbaka nästa vecka - Dagens Nyheter
+- En stillastående personbil orsakar stopp i ett körfält på E4 - UNT
 - WHO: Kraftig ökning av skogsbränder i Europa - Västerbottens-Kuriren
-- Efter skjutningen: Nu arrangeras galamiddagen på nytt - SVT Nyheter
-- Marianne Björklund: Premiärminister Modi pressad av arga ”kackerlackor” - Dagens Nyheter
-- Han startade revolutionen – brodern blev krigshjälte - Dagens Nyheter
+- UD avråder från resor till Jordanien - Västerbottens-Kuriren
+- Fem poliser skadade i båtolycka i London - Aftonbladet
+- Karin Eriksson: Norges försök att blidka Trump har misslyckats - Dagens Nyheter
 - EU KOMMER ATT FÅ BETALA ETT HÖGT PRIS FÖR GOOGLES BÖTER - TRUMP - Placera.se
+- Blandat på USA-börsen – oljepriset föll tillbaka - Omni – Alla nyheter. Alla perspektiv.
 - Börsen avslutade stökig vecka uppåt - Västerbottens-Kuriren
-- Intels tillväxt snabbaste på 15 år – aktien rusade - Omni – Alla nyheter. Alla perspektiv.
-- SCB: Arbetslösheten kvar på högre nivå - Sydsvenskan
-- Dansk artist till strid mot påstådd AI-hjälp - Sveriges Radio
+- Techmogul betalar miljarder i ”århundradets skilsmässa” - Omni – Alla nyheter. Alla perspektiv.
 - Här vaknar monstret till liv igen - EFN
+- Dansk artist till strid mot påstådd AI-hjälp - Sveriges Radio
 
 ## World News
 
@@ -101,21 +101,21 @@ _Updated: 2026-07-24 23:37_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Sju life science-trender 2026 - Business Region Göteborg
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Om vikten av oral hälsa i ny bok - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Reformer av hälso- och sjukvården – glöm inte bort de mest utsatta! - Läkartidningen
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
@@ -123,42 +123,42 @@ _Updated: 2026-07-24 23:37_
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
 - Dien Bien Farmers' Association främjar en "grönare" jordbruksmiljö. - Vietnam.vn
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Sveriges förändrade lantbruk - SLU
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - ATL
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
