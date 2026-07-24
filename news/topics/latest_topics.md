@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-24 06:48_
+_Updated: 2026-07-24 09:53_
 
 ## Top Stories
 
-- Dousa om tullarna: Ingen dramatik - Göteborgs-Posten
-- Bränder rasar i Spanien – nödläge utlyst - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – 25 skadade i ryskt anfall – svarar med lagerattack - Dagens Nyheter
-- Oljan över 100 dollar fatet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Sex sköts på gatan – pojke inför rätta - Västerbottens-Kuriren
+- DN Direkt – EU kräver svar om Trumps tullar – Dousa: Inte så dramatiskt - Dagens Nyheter
+- Tiotusentals evakuerade och nationellt nödläge – stora bränder bortom kontroll på kontinenten - Dagens Nyheter
+- Ryska skuggflottan har bytt taktik på Östersjön - Omni – Alla nyheter. Alla perspektiv.
+- Ny ukrainsk attack mot ryskt lager - Västerbottens-Kuriren
 - Vildmarken trängs undan – hotas av turism och industri - Dagens Nyheter
-- Ny rysk taktik höjer risken på Östersjön - Svenska Dagbladet
-- Ny art upptäckt i skogen – ”firade med skumpa” - Västerbottens-Kuriren
-- Just nu: En stillastående fordon orsakar stopp i ett körfält på E4 - Corren
-- Regeringen föreslår förbud mot PFAS i kläder - SVT Nyheter
-- Rysslandsexperten Martin Kragh är död - Göteborgs-Posten
-- Miljardskador efter skalven i Venezuela - Västerbottens-Kuriren
-- Efter anklagelserna: ICC-åklagaren kan tvingas gå - Sydsvenskan
+- Stopp på E4:an norr om Markaryd – bil voltade - SVT Nyheter
+- Vaknade av inbrottstjuv – kvinna tagen på bar gärning - Sydsvenskan
+- Bilar i brand i Brandbergen - Expressen
+- Ny art upptäckt i svenska skogen – en liten parasit - Dagens Nyheter
+- Efter anklagelserna: ICC-åklagaren kan tvingas gå - Västerbottens-Kuriren
+- Nya attacker från USA – Trump kräver ersättning – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Kinesisk krigsfilm stoppades i sista stund: ”Vill hålla nationalismen i schack” - Sveriges Radio
 - Alex Voronov: Ukraina är starkare än Zelenskyj - Västerbottens-Kuriren
-- Evakuerade i Drammen får återvända hem - Göteborgs-Posten
-- Fall på Wall Street – Tesla och Alphabet tyngde - Göteborgs-Posten
-- Börsen faller när oljepriset flörtar med 100 dollar - Dagens industri
-- Scanias vd om kinesiska utmanare: ”Håller inte måttet” - Omni – Alla nyheter. Alla perspektiv.
-- EU bötfäller Google för brott mot förordningen om digitala marknader - PC för Alla
+- Svensk arbetslöshet sjönk i juni - Dagens industri
+- AI-oro och oljerusning sänker asiatiska börser - Omni – Alla nyheter. Alla perspektiv.
+- AI-frossan: Mag7-bolagen tappade 7 800 miljarder i värde på en dag - Börskollen
+- Techras i New York – rusning för oljepriset - Affärsvärlden
 - ”Kylskåp för människor” lanseras i Japan – ska hjälpa med värmen - Göteborgs-Posten
 - Nyupptäckt solsystem ger huvudbry: ”Vad är en planet, vad är en måne?” - Sveriges Radio
 
@@ -34,18 +34,18 @@ _Updated: 2026-07-24 06:48_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- Esports World Cup 2026: Home -town Team Vitality krönt till MLBB Women's International mästare - Gamereactor
 - Stories - Pride i rörelse: WorldPride från nätverk till en global scen - out.tv
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Lansering av tävlingen Miss Global Business Elite 2026. - Vietnam.vn
+- WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
@@ -53,13 +53,13 @@ _Updated: 2026-07-24 06:48_
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
@@ -78,10 +78,11 @@ _Updated: 2026-07-24 06:48_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -92,7 +93,6 @@ _Updated: 2026-07-24 06:48_
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -102,7 +102,6 @@ _Updated: 2026-07-24 06:48_
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Sju life science-trender 2026 - Business Region Göteborg
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
@@ -116,6 +115,7 @@ _Updated: 2026-07-24 06:48_
 - Reformer av hälso- och sjukvården – glöm inte bort de mest utsatta! - Läkartidningen
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
@@ -124,18 +124,18 @@ _Updated: 2026-07-24 06:48_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Täta band mellan turism och forskning på Svalbard - SLU
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Täta band mellan turism och forskning på Svalbard - SLU
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
