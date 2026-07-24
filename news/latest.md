@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-24 09:57_
+_Updated: 2026-07-24 12:46_
 
-- Trump imposes forced labor duties on 60 trading partners as 10% US tariffs expire - Reuters
-- How Trump upended the Saudi nuclear deal less than 24 hours after its signing - CNN
+- US hits dozens of countries with new wave of tariffs - BBC
+- Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’ - Al Jazeera
 - Justice Dept. drops 'New York Times' subpoenas under pressure from judge - NPR
 - Attacker shouting ‘allahu akbar’ stabs Jewish man with a screwdriver in NYC - The Times of Israel
-- Senate fails to advance latest attempt to limit Trump's Iran war powers - CBS News
-- Police officer's fatal shooting of man with knife roils Madison, Wisconsin - PBS
-- A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War - The New York Times
+- House rebukes Trump's war in Iran - Axios
+- Police shooting in Madison being investigated as a homicide, police chief says - The Washington Post
+- Kenmore Air seaplane crashes near Sucia Island; all 11 aboard rescued - KOMO
 - Contractor disputes Mikie Sherrill’s claims of NJ voter registration software error - Politico
-- Donald Trump says decision on ‘massive attack’ against Iran is close - The Guardian
-- Ken Paxton loses ruling in Texas abortion case against Houston-area midwife - Houston Chronicle
-- Trump vows to punish Iran and Houthis for attacks in Red Sea - Reuters
+- A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War - The New York Times
+- Cobb County crowd boos video of Trump visit - FOX 5 Atlanta
+- Trump’s Demand for Saudis to Recognize Israel Puts Nuclear Deal in Doubt - The New York Times
+- One killed, four wounded, after Palestinian steals gun, shoots hikers - The Jerusalem Post
 - Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on - AP News
-- Ukraine-Russia war latest: Trump aide says Putin is suffering ‘staggering’ losses of 5,000 troops a week - The Independent
-- Derek Williams, longtime CBS News cameraman, remembered as "the mate you would want in any war zone" - CBS News
-- Asian Stocks Set to Fall as Oil Surges Past $100: Markets Wrap - Bloomberg.com
+- UK's Burnham opens 'No10 North' to shift economic power from London - Reuters
+- Shares skid in Asia in sell-off of AI-related shares as Brent oil trades near $100 per barrel - AP News
+- Odds of Federal Reserve rate hike surge as oil prices rip higher - CNBC
 - Alphabet's cash burn raises alarm for Big Tech as AI spending climbs - Reuters
-- S&P 500 futures are little changed as traders look to recover from oil-driven sell-off: Live updates - CNBC
-- Walmart recalls over 16,000 dressers that violate federal safety law due to potentially deadly hazard - Fox Business
-- My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable - CNET
+- Eligible Amazon Prime customers have until Monday to file claim in $2.5 billion settlement - WHEC.com
 - 10 iOS 27 Performance Improvements You'll Actually Notice - MacRumors
+- LG to Remove Unwanted Monitor Pop-Ups, Following Nudge From Microsoft - PCMag
