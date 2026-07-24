@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-24 14:03_
+_Updated: 2026-07-24 16:20_
 
 ## Top Stories
 
-- Tiotusentals evakuerade och nationellt nödläge – stora bränder bortom kontroll på kontinenten - Dagens Nyheter
-- Bevistalan väckt mot pojke efter masskjutning i Gävle - Omni – Alla nyheter. Alla perspektiv.
-- Bränder rasar i Europa – nödläge utlyst i Spanien - Västerbottens-Kuriren
-- Flera döda i skottlossning på Västbanken - Göteborgs-Posten
-- Trump inför nya tullar mot 60 länder: ”Byter en tull mot en annan” - SVT Nyheter
-- EU: Tiktok utsätter barn för risker - Göteborgs-Posten
-- Taxichaufför misstänks ha våldtagit man - Västerbottens-Kuriren
-- M och SD vill se fler vakter – trots att tryggheten ökar - Dagens Nyheter
-- Rysslandsexperten Martin Kragh är död - Göteborgs-Posten
-- 24 juli 02.41, Mord/dråp, försök, Stockholm - polisen.se
-- Tiotals döda i översvämningar och skred i Indien - Corren
-- Trump: Iranska tillgångar ska ersätta skadade fartyg - Göteborgs-Posten
-- Nicaraguas president Daniel Ortega: ”Det blir inga fler val” - Sveriges Radio
+- Bränderna smälter samman: ”Värsta genom tiderna” - Göteborgs-Posten
+- Polismärkt vapen användes i masskjutning – utreds - Dagens Nyheter
 - Dödliga attacker mot Ryssland och Ukraina - Västerbottens-Kuriren
-- Historiskt ras för säkerhetsbjässen – mot strömmen - EFN
-- SCB: Arbetslösheten kvar på högre nivå - Sydsvenskan
-- Techras i New York – rusning för oljepriset - Affärsvärlden
-- SECURITAS RAPPORTFALLER, HANSA STÄRKS, OMXS30 +0,8% - Placera.se
+- Bil har kört in i hus i Norge – flera skadade - Göteborgs-Posten
+- Turkiet utlämnar svensk – dömd för grova brott - SVT Nyheter
+- Flera döda i skottlossning på Västbanken - Göteborgs-Posten
+- Johan hörde rysk drönarvarning - i P1 - Västerbottens-Kuriren
+- Taxichaufför misstänks ha våldtagit man - Västerbottens-Kuriren
+- Vildsvinsjägare sköt varg i fårhage i Vaggeryd - SVT Nyheter
+- I dag flyger försvarets helikoptrar på låg höjd i stan - Mitt i
+- Tiotals döda i översvämningar och skred i Indien - Corren
+- Dödligt dåd mot gränskontroll i Pakistan - Västerbottens-Kuriren
+- Nya attacker från USA – Trump kräver ersättning – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Trump inför nya tullar – omfattar EU - Nya Wermlands-Tidningen
+- Stockholmsbörsen inleder fredagen uppåt - Placera.se
+- NCAB: Medvind i korten - Affärsvärlden
+- Svagt uppåt på USA-börsen – oljepriset faller tillbaka - Omni – Alla nyheter. Alla perspektiv.
+- ECB behåller räntorna oförändrade medan en höjning i september hamnar i fokus - Morningstar
 - Gång- och cykelväg tar form i Gammelgården - Kalix Kommuns hemsida
-- Splatoon Raiders kan upplevas mer grå än tidigare spel - Omni – Alla nyheter. Alla perspektiv.
+- Nya Splatoon Raiders kan upplevas mer grå - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
@@ -111,11 +111,11 @@ _Updated: 2026-07-24 14:03_
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Reformer av hälso- och sjukvården – glöm inte bort de mest utsatta! - Läkartidningen
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
@@ -142,6 +142,7 @@ _Updated: 2026-07-24 14:03_
 
 ## Jordbruk
 
+- Dien Bien Farmers' Association främjar en "grönare" jordbruksmiljö. - Vietnam.vn
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
@@ -160,5 +161,4 @@ _Updated: 2026-07-24 14:03_
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
