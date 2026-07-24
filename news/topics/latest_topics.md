@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-24 19:59_
+_Updated: 2026-07-24 21:55_
 
 ## Top Stories
 
-- Karin Eriksson: Norges försök att blidka Trump har misslyckats - Dagens Nyheter
+- Man skjuten i västra Stockholm - Aftonbladet
 - Åkesson glider in på valturné - Västerbottens-Kuriren
-- Flera döda i rysk attack mot vapenmässa utanför Kiev - Göteborgs-Posten
 - Tiotusentals evakueras från bränderna i Europa - SVT Nyheter
-- Turkiet utlämnar svensk brottsdömd - polisen.se
-- Då är hettan tillbaka i stan: "28 grader är inte otroligt" - Mitt i
+- Direkt – Kriget i Ukraina – Zelenskyj varnar för ny rysk attack - Dagens Nyheter
+- Gängledaren utlämnad – efter fem år på flykt - Göteborgs-Posten
+- Hundratals hedrade Milton Ek efter dödsolyckan i Lerum - Sveriges Radio
+- Sommarvärmen kan vara tillbaka nästa vecka - Dagens Nyheter
 - Pojke sköt på order av Foxtrot: 29 mordförsök - Corren
-- Johan hörde rysk drönarvarning – i P1 - Dagens Nyheter
-- Åkesson om etnicitetens roll i politiken - Sveriges Radio
-- En man död efter drunkningsolycka i Varberg - SVT Nyheter
-- Zelenskyj reser till Washington för Trumpmöte - Västerbottens-Kuriren
-- Fem poliser skadade i båtolycka i London - Aftonbladet
-- Dödligt dåd mot gränskontroll i Pakistan - Västerbottens-Kuriren
-- Trump: Iranska tillgångar ska ersätta skadade fartyg - Göteborgs-Posten
-- Historiskt ras för säkerhetsbjässen – mot strömmen - EFN
-- EU: Tiktok utsätter barn för risker – kan få böter - Omni – Alla nyheter. Alla perspektiv.
-- USA:börserna lyfter – alla tre index handlas grönt - Dagens industri
-- Efter Googles jätteböter – Trump tullhotar EU - Västerbottens-Kuriren
+- Johan hörde rysk drönarvarning - i P1 - Göteborgs-Posten
+- 24 juli 20.42, Stöld, Jönköpings län - polisen.se
+- Uppgifter: ICC:s chefsåklagare avsätts efter anklagelser - SVT Nyheter
+- Karin Eriksson: Norges försök att blidka Trump har misslyckats - Dagens Nyheter
+- Marianne Björklund: Premiärminister Modi pressad av arga ”kackerlackor” - Dagens Nyheter
+- WHO: Kraftig ökning av skogsbränder i Europa - Västerbottens-Kuriren
+- FLERA RAPPORTVINNARE, MEN SECURITAS FÖLL, OMXS30 +1,0% - Placera.se
+- Avvaktande på USA-börsen – oljepriset faller tillbaka - Omni – Alla nyheter. Alla perspektiv.
+- ECB behåller räntorna oförändrade medan en höjning i september hamnar i fokus - Morningstar
+- Fastigheten på Ångsågsvägen 6 i Norrtälje såld – för 2,7 miljoner - Norrtelje Tidning
 - Dansk artist till strid mot påstådd AI-hjälp - Sveriges Radio
 - Här vaknar monstret till liv igen - EFN
 
@@ -32,19 +32,19 @@ _Updated: 2026-07-24 19:59_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Värmebölja i södra Europa – så påverkar global uppvärmning - SVT Nyheter
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Stories - Pride i rörelse: WorldPride från nätverk till en global scen - out.tv
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
-- Lansering av tävlingen Miss Global Business Elite 2026. - Vietnam.vn
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- Lansering av tävlingen Miss Global Business Elite 2026. - Vietnam.vn
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
@@ -124,17 +124,17 @@ _Updated: 2026-07-24 19:59_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
@@ -150,10 +150,10 @@ _Updated: 2026-07-24 19:59_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
 - Visning av uppkomst efter direktsådd - Land.se
