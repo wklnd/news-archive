@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-24 03:06_
+_Updated: 2026-07-24 06:53_
 
-- US announces fresh raft of tariffs on overseas goods - BBC
-- Trump Live Updates: U.S.-Saudi Nuclear Deal in Doubt as President Demands 'Normalizing' Relations With Israel - The New York Times
-- NYC stabbing attacks that injured 2 being evaluated as potential hate crime: NYPD - ABC News - Breaking News, Latest News and Videos
-- House votes to limit Trump on Iran; Senate fails to advance similar measure - The Washington Post
-- Bertha makes Texas landfall. Houston still faces rain, gusty winds - Houston Chronicle
-- DOJ withdraws subpoenas to NY Times reporters in Trump plane probe - CNBC
-- Man gets two life sentences for killing Minnesota lawmaker and husband - NBC News
+- Trump imposes new double-digit tariffs on dozens of countries - Al Jazeera
+- 2 Men Stabbed on Upper West Side in Possible Hate Crimes, Police Say - The New York Times
+- Saudi nuclear deal in doubt as Trump adds new condition regarding Israel - The Washington Post
+- US prosecutors drop New York Times subpoenas in Trump plane leak probe - Reuters
+- Senate fails to advance latest attempt to limit Trump's Iran war powers - CBS News
 - Fatal police shooting of man with knife roils Madison, Wisconsin - AP News
 - Contractor disputes Mikie Sherrill’s claims of NJ voter registration software error - Politico
-- Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf - Al Jazeera
-- Trump Says He’ll Hold Iran Responsible for Future Houthi Strikes - Bloomberg.com
-- CJP protest: The youth movement India's Modi didn't see coming - BBC
-- How protests over a popular minister’s firing sparked Ukraine’s sudden military reset - AP News
-- Has Russia helped Iran target CIA sites in the Gulf? - Al Jazeera
-- Iran War Live Updates: Oil Prices Top $100 a Barrel After Houthi Attacks in Red Sea - The New York Times
+- Ken Paxton loses ruling in Texas abortion case against Houston-area midwife - Houston Chronicle
+- Homelessness has increased in L.A., dealing fresh setback to Mayor Karen Bass - Los Angeles Times
+- NEW: Bombshell Report Reveals Trump Admin Removed US Troops’ Names From Iran Casualty List - Mediaite
+- As oil soars, experts watch Red Sea tankers for clarity on Houthi blockade - Al Jazeera
+- Ousted Ukrainian defence chief digs in against Zelenskiy - Reuters
+- Ukraine hits Russia's largest online marketplace, hurting small businesses and bringing the war home - AP News
+- CJP protests at Jantar Mantar: The youth movement India's Modi didn't see coming - BBC
 - Tesla Short Sellers Mint $4 Billion Profit as Shares Nosedive - Bloomberg.com
-- Europe just fined Google $1 billion, the day before Trump is expected to announce tariffs - Axios
-- Alphabet's cash burn raises alarm for Big Tech as AI spending climbs - Reuters
+- Wall St falls as tech earnings spark AI spending worries and oil hits $100 - Reuters
+- Meta's Pro-AI Ad Campaign Is Conspicuously Light On AI - Engadget
+- Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries - CNBC
 - My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable - CNET
-- Two new Macs might skip M5 chips and go straight to M6 - 9to5Mac
+- Microsoft is replacing OpenAI image models in PowerPoint, Bing - The Seattle Times
