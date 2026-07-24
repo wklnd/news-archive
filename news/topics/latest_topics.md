@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-24 21:55_
+_Updated: 2026-07-24 23:37_
 
 ## Top Stories
 
 - Man skjuten i västra Stockholm - Aftonbladet
-- Åkesson glider in på valturné - Västerbottens-Kuriren
-- Tiotusentals evakueras från bränderna i Europa - SVT Nyheter
-- Direkt – Kriget i Ukraina – Zelenskyj varnar för ny rysk attack - Dagens Nyheter
-- Gängledaren utlämnad – efter fem år på flykt - Göteborgs-Posten
-- Hundratals hedrade Milton Ek efter dödsolyckan i Lerum - Sveriges Radio
+- DN Direkt – Sverige skickar plan till bränderna i Sydeuropa - Dagens Nyheter
+- ICC:s chefsåklagare får gå efter sexanklagelser - Corren
+- Flera döda i rysk attack mot vapenmässa utanför Kiev - Göteborgs-Posten
+- Turkiet utlämnar svensk – dömd för grova brott - SVT Nyheter
+- Saudisk attack mot Huthirörelsen i Jemen - Göteborgs-Posten
+- Johan hörde rysk drönarvarning - i P1 - Svenska Dagbladet
 - Sommarvärmen kan vara tillbaka nästa vecka - Dagens Nyheter
-- Pojke sköt på order av Foxtrot: 29 mordförsök - Corren
-- Johan hörde rysk drönarvarning - i P1 - Göteborgs-Posten
+- Polisen varnar för bullbedragare - Expressen
 - 24 juli 20.42, Stöld, Jönköpings län - polisen.se
-- Uppgifter: ICC:s chefsåklagare avsätts efter anklagelser - SVT Nyheter
-- Karin Eriksson: Norges försök att blidka Trump har misslyckats - Dagens Nyheter
-- Marianne Björklund: Premiärminister Modi pressad av arga ”kackerlackor” - Dagens Nyheter
 - WHO: Kraftig ökning av skogsbränder i Europa - Västerbottens-Kuriren
-- FLERA RAPPORTVINNARE, MEN SECURITAS FÖLL, OMXS30 +1,0% - Placera.se
-- Avvaktande på USA-börsen – oljepriset faller tillbaka - Omni – Alla nyheter. Alla perspektiv.
-- ECB behåller räntorna oförändrade medan en höjning i september hamnar i fokus - Morningstar
-- Fastigheten på Ångsågsvägen 6 i Norrtälje såld – för 2,7 miljoner - Norrtelje Tidning
+- Efter skjutningen: Nu arrangeras galamiddagen på nytt - SVT Nyheter
+- Marianne Björklund: Premiärminister Modi pressad av arga ”kackerlackor” - Dagens Nyheter
+- Han startade revolutionen – brodern blev krigshjälte - Dagens Nyheter
+- EU KOMMER ATT FÅ BETALA ETT HÖGT PRIS FÖR GOOGLES BÖTER - TRUMP - Placera.se
+- Börsen avslutade stökig vecka uppåt - Västerbottens-Kuriren
+- Intels tillväxt snabbaste på 15 år – aktien rusade - Omni – Alla nyheter. Alla perspektiv.
+- SCB: Arbetslösheten kvar på högre nivå - Sydsvenskan
 - Dansk artist till strid mot påstådd AI-hjälp - Sveriges Radio
 - Här vaknar monstret till liv igen - EFN
 
@@ -84,15 +84,15 @@ _Updated: 2026-07-24 21:55_
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -103,8 +103,8 @@ _Updated: 2026-07-24 21:55_
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Om vikten av oral hälsa i ny bok - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
@@ -114,8 +114,8 @@ _Updated: 2026-07-24 21:55_
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Reformer av hälso- och sjukvården – glöm inte bort de mest utsatta! - Läkartidningen
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 
 ## Science
 
@@ -124,18 +124,18 @@ _Updated: 2026-07-24 21:55_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
