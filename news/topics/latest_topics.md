@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-24 09:53_
+_Updated: 2026-07-24 12:33_
 
 ## Top Stories
 
-- Sex sköts på gatan – pojke inför rätta - Västerbottens-Kuriren
-- DN Direkt – EU kräver svar om Trumps tullar – Dousa: Inte så dramatiskt - Dagens Nyheter
 - Tiotusentals evakuerade och nationellt nödläge – stora bränder bortom kontroll på kontinenten - Dagens Nyheter
-- Ryska skuggflottan har bytt taktik på Östersjön - Omni – Alla nyheter. Alla perspektiv.
-- Ny ukrainsk attack mot ryskt lager - Västerbottens-Kuriren
-- Vildmarken trängs undan – hotas av turism och industri - Dagens Nyheter
-- Stopp på E4:an norr om Markaryd – bil voltade - SVT Nyheter
-- Vaknade av inbrottstjuv – kvinna tagen på bar gärning - Sydsvenskan
-- Bilar i brand i Brandbergen - Expressen
-- Ny art upptäckt i svenska skogen – en liten parasit - Dagens Nyheter
+- Dousa om tullarna: Ingen dramatik - Göteborgs-Posten
+- Bevistalan väckt mot pojke efter masskjutning i Gävle - Omni – Alla nyheter. Alla perspektiv.
+- Bränder rasar i Europa – nödläge utlyst i Spanien - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Flera döda i skottlossning på Västbanken - Dagens Nyheter
+- Direkt – Kriget i Ukraina – 25 skadade i ryskt anfall – svarar med lagerattack - Dagens Nyheter
+- Rysslandsexperten Martin Kragh är död - Göteborgs-Posten
+- Taxichaufför misstänks ha våldtagit man - Västerbottens-Kuriren
+- I dag flyger försvarets helikoptrar på låg höjd i stan - Mitt i
+- Ryska skuggflottans ändrade taktik efter bordningarna: Beväpnar besättningen - Omni – Alla nyheter. Alla perspektiv.
+- Tiotals döda i översvämningar och skred i Indien - Corren
+- Trump: Iranska tillgångar ska ersätta skadade fartyg - Göteborgs-Posten
 - Efter anklagelserna: ICC-åklagaren kan tvingas gå - Västerbottens-Kuriren
-- Nya attacker från USA – Trump kräver ersättning – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Kinesisk krigsfilm stoppades i sista stund: ”Vill hålla nationalismen i schack” - Sveriges Radio
-- Alex Voronov: Ukraina är starkare än Zelenskyj - Västerbottens-Kuriren
+- Evakuerade i Drammen får återvända hem - Hufvudstadsbladet – HBL
+- Stockholmsbörsen stiger svagt – Loomis och Securitas åt varsitt håll - EFN
 - Svensk arbetslöshet sjönk i juni - Dagens industri
+- Breda fall på Wall Street, kraftig nedgång för Mag 7-bolagen - Placera.se
 - AI-oro och oljerusning sänker asiatiska börser - Omni – Alla nyheter. Alla perspektiv.
-- AI-frossan: Mag7-bolagen tappade 7 800 miljarder i värde på en dag - Börskollen
-- Techras i New York – rusning för oljepriset - Affärsvärlden
-- ”Kylskåp för människor” lanseras i Japan – ska hjälpa med värmen - Göteborgs-Posten
-- Nyupptäckt solsystem ger huvudbry: ”Vad är en planet, vad är en måne?” - Sveriges Radio
+- Gång- och cykelväg tar form i Gammelgården - Kalix Kommuns hemsida
+- Fromsoftware visar upp två nya klasser till Elden Ring - FZ.se
 
 ## World News
 
-- Värmebölja i södra Europa – så påverkar global uppvärmning - SVT Nyheter
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Värmebölja i södra Europa – så påverkar global uppvärmning - SVT Nyheter
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Stories - Pride i rörelse: WorldPride från nätverk till en global scen - out.tv
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
-- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
+- Stories - Pride i rörelse: WorldPride från nätverk till en global scen - out.tv
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Lansering av tävlingen Miss Global Business Elite 2026. - Vietnam.vn
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
@@ -87,35 +87,35 @@ _Updated: 2026-07-24 09:53_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
-- Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
+- Om vikten av oral hälsa i ny bok - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Om vikten av oral hälsa i ny bok - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Reformer av hälso- och sjukvården – glöm inte bort de mest utsatta! - Läkartidningen
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
