@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-24 17:55_
+_Updated: 2026-07-24 19:59_
 
 ## Top Stories
 
-- Bränderna smälter samman: ”Värsta genom tiderna” - Göteborgs-Posten
 - Karin Eriksson: Norges försök att blidka Trump har misslyckats - Dagens Nyheter
-- Polismärkt vapen användes vid masskjutningen i Gävle - Sveriges Radio
-- Dödliga attacker mot Ryssland och Ukraina - Västerbottens-Kuriren
+- Åkesson glider in på valturné - Västerbottens-Kuriren
+- Flera döda i rysk attack mot vapenmässa utanför Kiev - Göteborgs-Posten
+- Tiotusentals evakueras från bränderna i Europa - SVT Nyheter
+- Turkiet utlämnar svensk brottsdömd - polisen.se
 - Då är hettan tillbaka i stan: "28 grader är inte otroligt" - Mitt i
-- Bil har kört in i hus i Norge – flera skadade - Göteborgs-Posten
-- Johan hörde rysk drönarvarning - i P1 - Göteborgs-Posten
-- Turkiet utlämnar svensk – dömd för grova brott - SVT Nyheter
+- Pojke sköt på order av Foxtrot: 29 mordförsök - Corren
+- Johan hörde rysk drönarvarning – i P1 - Dagens Nyheter
+- Åkesson om etnicitetens roll i politiken - Sveriges Radio
 - En man död efter drunkningsolycka i Varberg - SVT Nyheter
-- Taxichaufför misstänks ha våldtagit man - Aftonbladet
 - Zelenskyj reser till Washington för Trumpmöte - Västerbottens-Kuriren
+- Fem poliser skadade i båtolycka i London - Aftonbladet
 - Dödligt dåd mot gränskontroll i Pakistan - Västerbottens-Kuriren
-- Nya attacker från USA – Trump kräver ersättning – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Analyser: Modi står inför sin största utmaning – men kan inte backa - Omni – Alla nyheter. Alla perspektiv.
-- Stockholmsbörsen inleder fredagen uppåt - Placera.se
-- SCB: Arbetslösheten kvar på högre nivå - Nya Wermlands-Tidningen
-- Affärsvärlden ger ett neutralt råd för NCAB Group, men lutar åt säljråd - Börsvärlden
+- Trump: Iranska tillgångar ska ersätta skadade fartyg - Göteborgs-Posten
+- Historiskt ras för säkerhetsbjässen – mot strömmen - EFN
 - EU: Tiktok utsätter barn för risker – kan få böter - Omni – Alla nyheter. Alla perspektiv.
+- USA:börserna lyfter – alla tre index handlas grönt - Dagens industri
+- Efter Googles jätteböter – Trump tullhotar EU - Västerbottens-Kuriren
 - Dansk artist till strid mot påstådd AI-hjälp - Sveriges Radio
-- Gång- och cykelväg tar form i Gammelgården - Kalix Kommuns hemsida
+- Här vaknar monstret till liv igen - EFN
 
 ## World News
 
@@ -34,19 +34,19 @@ _Updated: 2026-07-24 17:55_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Stories - Pride i rörelse: WorldPride från nätverk till en global scen - out.tv
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Lansering av tävlingen Miss Global Business Elite 2026. - Vietnam.vn
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
+- WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
 
@@ -82,13 +82,13 @@ _Updated: 2026-07-24 17:55_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -100,8 +100,8 @@ _Updated: 2026-07-24 17:55_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Sju life science-trender 2026 - Business Region Göteborg
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
@@ -124,17 +124,17 @@ _Updated: 2026-07-24 17:55_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Täta band mellan turism och forskning på Svalbard - SLU
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
@@ -150,10 +150,10 @@ _Updated: 2026-07-24 17:55_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
 - Visning av uppkomst efter direktsådd - Land.se
