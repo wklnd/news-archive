@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-25 09:32_
+_Updated: 2026-07-25 11:18_
 
 ## Top Stories
 
-- Storstäder hotas av bränderna – hundratusentals evakuerade - Dagens Nyheter
+- Brandinfernot allt närmare Bordeaux – fler evakueras - Göteborgs-Posten
 - ”Fortsatt spänd relation mellan Trump och pressen” - SVT Nyheter
-- Man dog i elsparkcykelolycka – polisutredning inledd - Sveriges Radio
-- Tre anhållna för mord i Hässelby - Svenska Dagbladet
+- Man död efter olycka på elsparkcykel i Östersund - Omni – Alla nyheter. Alla perspektiv.
 - Regimkritikernas sista drag: ett hemligt språk - Svenska Dagbladet
+- Natopraktikant gripen misstänkt för spioneri - Västerbottens-Kuriren
+- Här kör båtar på grund varje dag – i Rörö hamn - Göteborgs-Posten
+- Svenskt barn omkom i olycka i Kroatien - SVT Nyheter
+- Man död efter skjutning i Hässelby – en gripen - Västerbottens-Kuriren
+- Lovande blåbärssäsong – så nyttigt är superbäret - Dagens Nyheter
+- Här packar Karlskronascouterna inför stora lägret: ”Behövs mycket” - SVT Nyheter
+- Flera döda i ryska och ukrainska attacker - Västerbottens-Kuriren
 - Volodymyr hittade en torterad kvinna i sin källare i Butja - Hufvudstadsbladet – HBL
-- Popcornmästaren: Här är det perfekta receptet - Dagens Nyheter
-- Stillastående personbil ger stopp i ett körfält på E18 - Enköpingsposten
-- Sköt smällare på torget – så var natten under Motorveckan - Västerbottens-Kuriren
-- Åkesson: Svår fråga varför Tidö tappat stöd - Göteborgs-Posten
-- Rysk e-handelsjätte i Ukrainas skottlinje - Västerbottens-Kuriren
-- Flera döda i skottlossning på Västbanken - Göteborgs-Posten
-- Direkt – Krisen i Mellanöstern – USA:s militär besköt fartyg - Dagens Nyheter
+- Nya tullarna ett bakslag för Trump: ”Slår tillbaka som en bumerang” - TV4 Nyheterna
 - Saudisk attack mot Huthirörelsen i Jemen - Hufvudstadsbladet – HBL
-- Politiker i Japan överväger nya regler efter Pokémonkortens osannolika boom - Börskollen
 - Tyske parlamentarikern: Trumps hot är ofta tomma - Omni – Alla nyheter. Alla perspektiv.
-- Blandat på Wall Street när oljepriset föll - Aftonbladet
-- Stockholmsbörsen inleder fredagen uppåt - Placera.se
-- Samsung Galaxy S27 Pro sägs erbjuda ytterligare en fördel jämfört med Galaxy S27 i Europa - notebookcheck.se
-- We Are Rewind släpper ett boxset med kassettspelare i begränsad upplaga med temat ”Dark Side of the Moon” - notebookcheck.se
+- Champagne i Marstrand – konkurs i portföljen - Affärsvärlden
+- Starship i luften igen – så gick SpaceX första test som börsbolag - EFN
+- BLANDADE BÖRSER, INTEL NED PÅ RAPPORT, S&P 500 +0,1% - Placera.se
+- Nu kommer G-klass som cab igen! Världen håller på och läker. - Feber
+- Nanoleaf lanserar skärmställ med inbyggd belysning och Matter - Teknikveckan
 
 ## World News
 
@@ -36,13 +36,13 @@ _Updated: 2026-07-25 09:32_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Stories - Pride i rörelse: WorldPride från nätverk till en global scen - out.tv
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -62,6 +62,7 @@ _Updated: 2026-07-25 09:32_
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
@@ -69,7 +70,6 @@ _Updated: 2026-07-25 09:32_
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
-- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 
 ## Business
 
@@ -106,7 +106,6 @@ _Updated: 2026-07-25 09:32_
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
-- Om vikten av oral hälsa i ny bok - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -116,6 +115,7 @@ _Updated: 2026-07-25 09:32_
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 
 ## Science
 
@@ -123,16 +123,16 @@ _Updated: 2026-07-25 09:32_
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
@@ -144,12 +144,12 @@ _Updated: 2026-07-25 09:32_
 
 - Dien Bien Farmers' Association främjar en "grönare" jordbruksmiljö. - Vietnam.vn
 - Sveriges förändrade lantbruk - SLU
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
