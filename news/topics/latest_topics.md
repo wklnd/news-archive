@@ -1,35 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-25 21:43_
+_Updated: 2026-07-25 23:25_
 
 ## Top Stories
 
+- DN Direkt – Apungen Punch ett år – grattiskorten flödar in - Dagens Nyheter
 - Låga löner – ändå slåss de mot elden i Frankrike - Göteborgs-Posten
 - Zara blev vittne till skjutningen: Tog barnen och sprang - Aftonbladet
-- Deras hus förstördes i Drammen – visade sig vara oförsäkrat: ”Desperata” - Dagens Nyheter
-- Saudisk attack mot Huthirörelsen i Jemen - Hufvudstadsbladet – HBL
-- Man död under motorsporttävling i Strängnäs - SVT Nyheter
+- Emma Bouvin: I skuggan av kriget hittar oljan nya vägar - Dagens Nyheter
 - ”Medierna går igång på sex och droger” - Svenska Dagbladet
+- Gängmannen dömd – på bilder av en revolver - Göteborgs-Posten
+- ”Det börjar bli dags att ge sig ut och plocka” - Västerbottens-Kuriren
 - Regeringen säger nej till längre serveringstider - Sveriges Radio
-- Lovande blåbärssäsong – så nyttigt är superbäret - Dagens Nyheter
-- Kvinna häktad för mord i Kungsör - Västerbottens-Kuriren
-- Rådjur på vägen kan skapa fara på E4 - NT
-- Flygplan krashade in i hus i Tyskland – en död - Hufvudstadsbladet – HBL
-- Kazakstans ledare till Putin: Avsluta kriget - Västerbottens-Kuriren
-- DN Direkt – 340 000 evakuerade i Kina inför storm - Dagens Nyheter
+- Man död under motorsporttävling i Strängnäs - SVT Nyheter
+- DN Direkt – Mopedist påkörd av tåg - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Grekisk militär sköt ner ballistiska robotar i Saudiarabien - Dagens Nyheter
 - Flávio Bolsonaro följer dömde faderns fotspår - Folkbladet
+- Flera döda i ryska och ukrainska attacker - Hufvudstadsbladet – HBL
+- Kazakstans ledare till Putin: Avsluta kriget - Västerbottens-Kuriren
 - Stockholmsbörsen trotsade geopolitiken - Dagens industri
 - Starship i luften igen – så gick SpaceX första test som börsbolag - EFN
+- Alma, 13, blev stoppad – var fullt på flygplanet: ”Oacceptabelt” - Expressen
 - Tyske parlamentarikern: Trumps hot är ofta tomma - Omni – Alla nyheter. Alla perspektiv.
-- BLANDADE BÖRSER, INTEL NED PÅ RAPPORT, S&P 500 +0,1% - Placera.se
 - BILDEXTRA: Från 280 till 1800 bilar – succéfesten firade 25-årsjubileum - Falköpings Tidning
 - HD-2D och läsarsånger är bara retro för oss som minns originalen - varvat.se
 
 ## World News
 
 - Sverige världens bästa land att leva i – toppar ny global lista - News55
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
@@ -44,7 +45,6 @@ _Updated: 2026-07-25 21:43_
 - Stories - Pride i rörelse: WorldPride från nätverk till en global scen - out.tv
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
@@ -59,12 +59,12 @@ _Updated: 2026-07-25 21:43_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
