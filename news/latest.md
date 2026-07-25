@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-25 21:54_
+_Updated: 2026-07-25 23:34_
 
-- 'The show must go on.' Trump makes jabs at rescheduled White House Correspondents' dinner - NPR
+- Democrats pick new Senate candidate in Maine in aftermath of Platner debacle - The Washington Post
 - Live updates: Spain and France battle raging wildfires as at least 250,000 people forced to flee - CNN
-- Iran-backed Houthis fire missiles at Saudi Arabia in response to airstrikes in Yemen - AP News
-- Democrats nominate Troy Jackson to replace Graham Platner in must-win Maine Senate race - NBC News
-- From Celebration to Escalation: How Trump’s Iran Cease-Fire Collapsed - The New York Times
-- Trump tariff fine print reveal raft of exemptions - Politico
+- Iran-backed Houthis launch retaliatory strikes on Saudi Arabia - The Hill
+- Inside The Room At WHCD As Donald Trump's Rickles-Like Sctick Didn't Land - Deadline
+- Trump ordered military not to conduct strikes in Iran Friday - Axios
+- Trump is hellbent on tariffs. Here are 5 implications - NPR
 - 4th firefighter dies from burn injuries in western Colorado blaze - AP News
-- Hawaii's Democratic lieutenant governor indicted in state corruption investigation - Fox News
-- Jewish elected leaders criticize Mamdani’s rhetoric after Upper West Side stabbings - Gothamist
-- Trump Orders Warnings Placed at ‘Inaccurate’ Smithsonian History Museum - The New York Times
+- Cajun Navy leader warns Nolan Wells' search area has deadly 'washing machine' currents: 'Lots of drownings' - Fox News
+- Emails show how Virginia regulators downplayed data center health concerns - Politico
+- Trump orders signs at Smithsonian museum warning of 'inaccurate' history - USA Today
 - India's 'cockroach' movement ousts minister, but can Modi calm youth? - NPR
-- Southern China braces for Typhoon Noul, suspends public transport - Reuters
-- International Criminal Court ousts chief prosecutor Karim Khan after misconduct probe - Financial Times
+- Several injured in incident at Berlin LGBT event, police say - BBC
 - Iranian media threatens Kyiv with ‘ballistic missiles’: “All of Ukraine is within reach’ - New York Post
-- OpenAI's Rogue Agent Went On A Hacking Spree That Lasted Days, Reuters Says - Engadget
+- Southern China is on high alert for Typhoon Noul, with over 340,000 evacuated and flights canceled - AP News
+- Security News This Week: The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days - WIRED
 - Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years - ABC News - Breaking News, Latest News and Videos
 - Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage - CNBC
-- SpaceX eyes tower catch for next Starship after auspicious end to 13th flight - Ars Technica
-- How to pre-order Samsung Galaxy Z Fold 8, Z Flip 8: See preorder deals - Mashable
-- Google confirms Pixel phone prices are going up, but here's what you can do about it - Android Police
+- SpaceX Stock: Why IPO History Prompts A Double-Upgrade (NASDAQ:SPCX) - Seeking Alpha
+- Google basically confirms the Pixel 11 is getting a price hike - The Verge
+- My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable - CNET
