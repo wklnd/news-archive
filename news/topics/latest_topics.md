@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-26 00:27_
+_Updated: 2026-07-26 01:32_
 
 ## Top Stories
 
-- Bil har kört in i folkmassa i Berlin – en död - Dagens Nyheter
+- Bil har kört in i folkmassa i Berlin - SVT Nyheter
 - Kvarts miljon på flykt undan bränderna i Sydeuropa - Göteborgs-Posten
+- Direkt – Kriget i Ukraina – Ryssland attackerar Kiev - Dagens Nyheter
 - Zara blev vittne till skjutningen: Tog barnen och sprang - Aftonbladet
-- ”Medierna går igång på sex och droger” - Svenska Dagbladet
-- Kazakstans ledare till Putin: Avsluta kriget - Västerbottens-Kuriren
-- Bil har kört in i folkmassa i Berlin - TV4 Nyheterna
-- Man död under motorsporttävling i Strängnäs - SVT Nyheter
-- Kvinna häktad för mord i Kungsör - Västerbottens-Kuriren
+- DN Direkt – Bil har kört in i folkmassa i Berlin – stor polisinsats - Dagens Nyheter
+- Experten: Ryssland mobiliserar i höst - Svenska Dagbladet
 - Rådjur på vägen kan skapa fara på E4 - NT
-- En stillastående fordon ger stopp i ett körfält på E4 - UNT
+- Man död under motorsporttävling i Strängnäs - SVT Nyheter
+- Mopedist påkörd av tåg - Västerbottens-Kuriren
+- Kvinna häktad för mord i Kungsör - Västerbottens-Kuriren
+- Apungen Punch ett år – grattiskorten flödar in - SVT Nyheter
 - Direkt – Krisen i Mellanöstern – Grekisk militär sköt ner ballistiska robotar i Saudiarabien - Dagens Nyheter
-- DN Direkt – Ytterligare 100 brandmän från Paris mobiliseras - Dagens Nyheter
 - Flávio Bolsonaro följer dömde faderns fotspår - Folkbladet
-- Flera döda i ryska och ukrainska attacker - Hufvudstadsbladet – HBL
+- Emma Bouvin: I skuggan av kriget hittar oljan nya vägar - Dagens Nyheter
 - Stockholmsbörsen trotsade geopolitiken - Dagens industri
 - Starship i luften igen – så gick SpaceX första test som börsbolag - EFN
-- Tyske parlamentarikern: Trumps hot är ofta tomma - Omni – Alla nyheter. Alla perspektiv.
 - BLANDADE BÖRSER, INTEL NED PÅ RAPPORT, S&P 500 +0,1% - Placera.se
-- BILDEXTRA: Från 280 till 1800 bilar – succéfesten firade 25-årsjubileum - Falköpings Tidning
+- Alma, 13, blev stoppad – var fullt på flygplanet: ”Oacceptabelt” - Expressen
+- Lanseringen av Steam Frame verkar närma sig då Valve lägger till Welcome Tour i Steams backend - notebookcheck.se
 - HD-2D och läsarsånger är bara retro för oss som minns originalen - varvat.se
 
 ## World News
@@ -34,6 +34,7 @@ _Updated: 2026-07-26 00:27_
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
@@ -42,7 +43,6 @@ _Updated: 2026-07-26 00:27_
 - Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Stories - Pride i rörelse: WorldPride från nätverk till en global scen - out.tv
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
