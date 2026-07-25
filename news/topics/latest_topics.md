@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-25 17:40_
+_Updated: 2026-07-25 19:31_
 
 ## Top Stories
 
 - Tvingas ändra efter skogsbränderna: ”Solidaritet” - Västerbottens-Kuriren
-- Deras hus förstördes i Drammen – visade sig vara oförsäkrat: ”Desperata” - Dagens Nyheter
+- Flygplan kraschade rakt in i villatak - Göteborgs-Posten
 - Direkt – Krisen i Mellanöstern – Grekisk militär sköt ner ballistiska robotar i Saudiarabien - Dagens Nyheter
-- Minst 35 döda i bussolycka i Syrien - Göteborgs-Posten
-- Zelenskyj varnar för massiv rysk attack - Svenska Dagbladet
+- Tre anhållna efter dödsskjutningen - Expressen
+- Karl Dalén: Omstridda högerprofilens tvärvändning ger Ukraina hopp - Dagens Nyheter
 - Flera döda i ryska och ukrainska attacker - Göteborgs-Posten
 - Regeringen säger nej till längre serveringstider - Sveriges Radio
-- Tonåringar anhållna för mord i Hässelby - Västerbottens-Kuriren
-- JUST NU: Stänger stränder – varnar för extremvärme - Expressen
-- DN Direkt – Kvinna häktad för mord i Kungsör - Dagens Nyheter
-- Flygplan kraschade in i bostadshus – en död - TV4 Nyheterna
+- DN Direkt – Antalet bekräftade fall av ebola ökar i Kongo - Dagens Nyheter
+- Kvinna häktad för mord i Kungsör - Västerbottens-Kuriren
+- Just nu: Rådjur på vägen kan skapa fara på E4 - NT
 - ”Fortsatt spänd relation mellan Trump och pressen” - SVT Nyheter
-- Man död i olycka med elsparkcykel - Aftonbladet
+- (+) Bildextra: Massiva bränder i Sydeuropa - Aftonbladet
+- Deras hus förstördes i Drammen – visade sig vara oförsäkrat: ”Desperata” - Dagens Nyheter
 - DEBATT: L och SD ger gemensamt vallöfte om LSS - Expressen
-- Politiker i Japan överväger nya regler efter Pokémonkortens osannolika boom - Börskollen
 - Stockholmsbörsen trotsade geopolitiken - Dagens industri
 - Starship i luften igen – så gick SpaceX första test som börsbolag - EFN
+- Unikt lastfartyg godkänt: Drivs med smält salt - Dagens PS
 - Tyske parlamentarikern: Trumps hot är ofta tomma - Omni – Alla nyheter. Alla perspektiv.
+- BILDEXTRA: Från 280 till 1800 bilar – succéfesten firade 25-årsjubileum - Falköpings Tidning
 - Avtal | Bygg en stad på ryggen av ett monster: Indie-succén sjunker till sitt lägsta pris på Steam - notebookcheck.se
-- Motorola presenterar en surfplatta med 5G-anslutning och en 12,1-tums skärm - notebookcheck.se
 
 ## World News
 
@@ -40,8 +40,8 @@ _Updated: 2026-07-25 17:40_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Stories - Pride i rörelse: WorldPride från nätverk till en global scen - out.tv
-- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
@@ -65,11 +65,11 @@ _Updated: 2026-07-25 17:40_
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
-- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 
 ## Business
 
@@ -123,22 +123,22 @@ _Updated: 2026-07-25 17:40_
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Simple math behind major bison blunder - Forskning & Framsteg
+- 5 myter om öppen vetenskap - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Simple math behind major bison blunder - Forskning & Framsteg
+- Avdelningen för fotonik - Chalmers tekniska högskola
 
 ## Jordbruk
 
