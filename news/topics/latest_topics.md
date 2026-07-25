@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-25 16:10_
+_Updated: 2026-07-25 17:40_
 
 ## Top Stories
 
-- Lisa, 21, är i Bordeaux – där det börjat regna aska - Göteborgs-Posten
+- Tvingas ändra efter skogsbränderna: ”Solidaritet” - Västerbottens-Kuriren
 - Deras hus förstördes i Drammen – visade sig vara oförsäkrat: ”Desperata” - Dagens Nyheter
-- En död efter flygplanskrasch i bostadshus - SVT Nyheter
-- Indisk minister avgår: ”Demokratin vinner” - Västerbottens-Kuriren
-- Zelenskyj varnar för massiv rysk attack - Svenska Dagbladet
-- Saudisk attack mot Huthirörelsen i Jemen - Hufvudstadsbladet – HBL
-- Svenskt barn omkom i olycka i Kroatien - SVT Nyheter
-- Man död efter olycka med elsparkcykel i Östersund - SVT Nyheter
-- Lovande blåbärssäsong – så nyttigt är superbäret - Dagens Nyheter
-- Expert: Få studier om alkohol och löpning - Dagens Nyheter
-- Efter skotten – Trump på ny mediemiddag - Göteborgs-Posten
-- Flera döda i ryska och ukrainska attacker - Hufvudstadsbladet – HBL
 - Direkt – Krisen i Mellanöstern – Grekisk militär sköt ner ballistiska robotar i Saudiarabien - Dagens Nyheter
+- Minst 35 döda i bussolycka i Syrien - Göteborgs-Posten
+- Zelenskyj varnar för massiv rysk attack - Svenska Dagbladet
+- Flera döda i ryska och ukrainska attacker - Göteborgs-Posten
+- Regeringen säger nej till längre serveringstider - Sveriges Radio
+- Tonåringar anhållna för mord i Hässelby - Västerbottens-Kuriren
+- JUST NU: Stänger stränder – varnar för extremvärme - Expressen
+- DN Direkt – Kvinna häktad för mord i Kungsör - Dagens Nyheter
+- Flygplan kraschade in i bostadshus – en död - TV4 Nyheterna
+- ”Fortsatt spänd relation mellan Trump och pressen” - SVT Nyheter
 - Man död i olycka med elsparkcykel - Aftonbladet
+- DEBATT: L och SD ger gemensamt vallöfte om LSS - Expressen
 - Politiker i Japan överväger nya regler efter Pokémonkortens osannolika boom - Börskollen
 - Stockholmsbörsen trotsade geopolitiken - Dagens industri
 - Starship i luften igen – så gick SpaceX första test som börsbolag - EFN
 - Tyske parlamentarikern: Trumps hot är ofta tomma - Omni – Alla nyheter. Alla perspektiv.
-- Nanoleaf lanserar skärmställ med inbyggd belysning och Matter - Teknikveckan
-- Slog på boxboll och fick gipsa handleden – nekas ersättning - Blekinge Läns Tidning
+- Avtal | Bygg en stad på ryggen av ett monster: Indie-succén sjunker till sitt lägsta pris på Steam - notebookcheck.se
+- Motorola presenterar en surfplatta med 5G-anslutning och en 12,1-tums skärm - notebookcheck.se
 
 ## World News
 
+- Sverige världens bästa land att leva i – toppar ny global lista - News55
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
@@ -41,7 +42,6 @@ _Updated: 2026-07-25 16:10_
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Stories - Pride i rörelse: WorldPride från nätverk till en global scen - out.tv
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
-- Sverige världens bästa land att leva i – toppar ny global lista - News55
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
@@ -65,11 +65,11 @@ _Updated: 2026-07-25 16:10_
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
+- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 
 ## Business
 
@@ -78,13 +78,12 @@ _Updated: 2026-07-25 16:10_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2026-07-25 16:10_
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -123,16 +123,16 @@ _Updated: 2026-07-25 16:10_
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
