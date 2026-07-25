@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-25 20:27_
+_Updated: 2026-07-25 21:43_
 
 ## Top Stories
 
-- Tvingas ändra efter skogsbränderna: ”Solidaritet” - Västerbottens-Kuriren
-- Man död under motorsporttävling i Strängnäs - SVT Nyheter
+- Låga löner – ändå slåss de mot elden i Frankrike - Göteborgs-Posten
+- Zara blev vittne till skjutningen: Tog barnen och sprang - Aftonbladet
+- Deras hus förstördes i Drammen – visade sig vara oförsäkrat: ”Desperata” - Dagens Nyheter
 - Saudisk attack mot Huthirörelsen i Jemen - Hufvudstadsbladet – HBL
-- Direkt – Krisen i Mellanöstern – Grekisk militär sköt ner ballistiska robotar i Saudiarabien - Dagens Nyheter
-- Flera döda i ryska och ukrainska attacker - Göteborgs-Posten
-- Kvinna häktad för mord i Kungsör - Aftonbladet
+- Man död under motorsporttävling i Strängnäs - SVT Nyheter
+- ”Medierna går igång på sex och droger” - Svenska Dagbladet
 - Regeringen säger nej till längre serveringstider - Sveriges Radio
-- Tonåringar anhållna för mord i Hässelby - Göteborgs-Posten
+- Lovande blåbärssäsong – så nyttigt är superbäret - Dagens Nyheter
+- Kvinna häktad för mord i Kungsör - Västerbottens-Kuriren
 - Rådjur på vägen kan skapa fara på E4 - NT
-- Stängde stränder efter varningarna - Expressen
-- En död efter flygplanskrasch i bostadshus - SVT Nyheter
+- Flygplan krashade in i hus i Tyskland – en död - Hufvudstadsbladet – HBL
+- Kazakstans ledare till Putin: Avsluta kriget - Västerbottens-Kuriren
 - DN Direkt – 340 000 evakuerade i Kina inför storm - Dagens Nyheter
-- Kazakstans ledare till Putin: Avsluta kriget - Göteborgs-Posten
-- Flávio Bolsonaro följer dömde faderns fotspår - Västerbottens-Kuriren
+- Flávio Bolsonaro följer dömde faderns fotspår - Folkbladet
 - Stockholmsbörsen trotsade geopolitiken - Dagens industri
 - Starship i luften igen – så gick SpaceX första test som börsbolag - EFN
-- Unikt lastfartyg godkänt: Drivs med smält salt - Dagens PS
 - Tyske parlamentarikern: Trumps hot är ofta tomma - Omni – Alla nyheter. Alla perspektiv.
-- Nästa God of War-spel är officiellt under utveckling. Cory Barlog bekräftar att Kratos återvänder. - Feber
-- Avtal | Bygg en stad på ryggen av ett monster: Indie-succén sjunker till sitt lägsta pris på Steam - notebookcheck.se
+- BLANDADE BÖRSER, INTEL NED PÅ RAPPORT, S&P 500 +0,1% - Placera.se
+- BILDEXTRA: Från 280 till 1800 bilar – succéfesten firade 25-årsjubileum - Falköpings Tidning
+- HD-2D och läsarsånger är bara retro för oss som minns originalen - varvat.se
 
 ## World News
 
@@ -59,12 +59,12 @@ _Updated: 2026-07-25 20:27_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
@@ -123,7 +123,6 @@ _Updated: 2026-07-25 20:27_
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -132,13 +131,14 @@ _Updated: 2026-07-25 20:27_
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Simple math behind major bison blunder - Forskning & Framsteg
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Simple math behind major bison blunder - Forskning & Framsteg
+- Avdelningen för fotonik - Chalmers tekniska högskola
 
 ## Jordbruk
 
