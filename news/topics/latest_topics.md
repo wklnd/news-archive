@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-25 23:25_
+_Updated: 2026-07-26 00:27_
 
 ## Top Stories
 
-- DN Direkt – Apungen Punch ett år – grattiskorten flödar in - Dagens Nyheter
-- Låga löner – ändå slåss de mot elden i Frankrike - Göteborgs-Posten
+- Bil har kört in i folkmassa i Berlin – en död - Dagens Nyheter
+- Kvarts miljon på flykt undan bränderna i Sydeuropa - Göteborgs-Posten
 - Zara blev vittne till skjutningen: Tog barnen och sprang - Aftonbladet
-- Emma Bouvin: I skuggan av kriget hittar oljan nya vägar - Dagens Nyheter
 - ”Medierna går igång på sex och droger” - Svenska Dagbladet
-- Gängmannen dömd – på bilder av en revolver - Göteborgs-Posten
-- ”Det börjar bli dags att ge sig ut och plocka” - Västerbottens-Kuriren
-- Regeringen säger nej till längre serveringstider - Sveriges Radio
+- Kazakstans ledare till Putin: Avsluta kriget - Västerbottens-Kuriren
+- Bil har kört in i folkmassa i Berlin - TV4 Nyheterna
 - Man död under motorsporttävling i Strängnäs - SVT Nyheter
-- DN Direkt – Mopedist påkörd av tåg - Dagens Nyheter
+- Kvinna häktad för mord i Kungsör - Västerbottens-Kuriren
+- Rådjur på vägen kan skapa fara på E4 - NT
+- En stillastående fordon ger stopp i ett körfält på E4 - UNT
 - Direkt – Krisen i Mellanöstern – Grekisk militär sköt ner ballistiska robotar i Saudiarabien - Dagens Nyheter
+- DN Direkt – Ytterligare 100 brandmän från Paris mobiliseras - Dagens Nyheter
 - Flávio Bolsonaro följer dömde faderns fotspår - Folkbladet
 - Flera döda i ryska och ukrainska attacker - Hufvudstadsbladet – HBL
-- Kazakstans ledare till Putin: Avsluta kriget - Västerbottens-Kuriren
 - Stockholmsbörsen trotsade geopolitiken - Dagens industri
 - Starship i luften igen – så gick SpaceX första test som börsbolag - EFN
-- Alma, 13, blev stoppad – var fullt på flygplanet: ”Oacceptabelt” - Expressen
 - Tyske parlamentarikern: Trumps hot är ofta tomma - Omni – Alla nyheter. Alla perspektiv.
+- BLANDADE BÖRSER, INTEL NED PÅ RAPPORT, S&P 500 +0,1% - Placera.se
 - BILDEXTRA: Från 280 till 1800 bilar – succéfesten firade 25-årsjubileum - Falköpings Tidning
 - HD-2D och läsarsånger är bara retro för oss som minns originalen - varvat.se
 
@@ -101,21 +101,21 @@ _Updated: 2026-07-25 23:25_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Sju life science-trender 2026 - Business Region Göteborg
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
-- Vi presenterar HealthBench - OpenAI
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Reformer av hälso- och sjukvården – glöm inte bort de mest utsatta! - Läkartidningen
-- Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
+- Vi presenterar HealthBench - OpenAI
 - Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Reformer av hälso- och sjukvården – glöm inte bort de mest utsatta! - Läkartidningen
+- Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 
 ## Science
 
