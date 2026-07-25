@@ -1,37 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-25 03:03_
+_Updated: 2026-07-25 06:44_
 
 ## Top Stories
 
-- Bränderna smälter samman: ”Värsta genom tiderna” - Göteborgs-Posten
-- Man död i skjutning – en gripen - Expressen
-- Två döda i rysk attack mot Sumy - Svenska Dagbladet
-- Skolskytten fick vapnet i julklapp – ändrar sig i domstol - Aftonbladet
+- DN Direkt – Efter skotten – Trump på ny mediemiddag - Dagens Nyheter
+- Man skjuten till döds: ”Folk skrek och grät” - Expressen
+- DN Direkt – Sverige skickar plan till bränderna i Sydeuropa - Dagens Nyheter
+- Volodymyr hittade en torterad kvinna i sin källare i Butja - Hufvudstadsbladet – HBL
+- 166 000 evakuerade efter bränder – Nasa utrymmer - Västerbottens-Kuriren
+- Saudisk attack mot Huthirörelsen i Jemen - Göteborgs-Posten
+- OSSE skickar inga valobservatörer till Sverige - Göteborgs-Posten
+- Popcornmästaren: Här är det perfekta receptet - Dagens Nyheter
 - Turkiet utlämnar svensk – dömd för grova brott - Västerbottens-Kuriren
-- Ukrainas nya strategi: Slå mot e-handelsjätte - Dagens Nyheter
-- Pojke sköt på order av Foxtrot: 29 mordförsök - Corren
 - 24 juli 20.42, Stöld, Jönköpings län - polisen.se
-- DN Direkt – Åkesson inleder valturné med kanaltur - Dagens Nyheter
-- En stillastående personbil orsakar stopp i ett körfält på E4 - UNT
+- Rysk e-handelsjätte i Ukrainas skottlinje - Västerbottens-Kuriren
+- Flera döda i skottlossning på Västbanken - Göteborgs-Posten
 - ICC:s chefsåklagare får gå efter sexanklagelser - Corren
-- Direkt – Krisen i Mellanöstern – Flera döda i skottlossning på Västbanken - Dagens Nyheter
-- Venezuela vill lämna ICC: ”Geografisk partiskhet” - Sveriges Radio
 - UD avråder från resor till Jordanien - Västerbottens-Kuriren
-- EU KOMMER ATT FÅ BETALA ETT HÖGT PRIS FÖR GOOGLES BÖTER - TRUMP - Placera.se
+- Svenska svaret på Trumps nya tullhot: ”Suck” - TV4 Nyheterna
 - Blandat på USA-börsen – oljepriset föll tillbaka - Omni – Alla nyheter. Alla perspektiv.
 - ”Decenniets skilsmässa” klar – skyldig 6 miljarder - Expressen
-- Starship uppskjuten – nytt test - Aftonbladet
+- Stockholmsbörsen inleder fredagen uppåt - Placera.se
 - Här vaknar monstret till liv igen - EFN
-- Dansk artist till strid mot påstådd AI-hjälp - Sveriges Radio
+- Där gjordes veckans största husaffär i Västerbergslagen - Nya Ludvika Tidning
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Värmebölja i södra Europa – så påverkar global uppvärmning - SVT Nyheter
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
@@ -44,7 +45,6 @@ _Updated: 2026-07-25 03:03_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
@@ -87,12 +87,12 @@ _Updated: 2026-07-25 03:03_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -103,8 +103,8 @@ _Updated: 2026-07-25 03:03_
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Sju life science-trender 2026 - Business Region Göteborg
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Om vikten av oral hälsa i ny bok - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
@@ -123,42 +123,42 @@ _Updated: 2026-07-25 03:03_
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- 5 myter om öppen vetenskap - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
 - Dien Bien Farmers' Association främjar en "grönare" jordbruksmiljö. - Vietnam.vn
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Sveriges förändrade lantbruk - SLU
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
