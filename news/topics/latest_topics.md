@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-25 19:31_
+_Updated: 2026-07-25 20:27_
 
 ## Top Stories
 
 - Tvingas ändra efter skogsbränderna: ”Solidaritet” - Västerbottens-Kuriren
-- Flygplan kraschade rakt in i villatak - Göteborgs-Posten
+- Man död under motorsporttävling i Strängnäs - SVT Nyheter
+- Saudisk attack mot Huthirörelsen i Jemen - Hufvudstadsbladet – HBL
 - Direkt – Krisen i Mellanöstern – Grekisk militär sköt ner ballistiska robotar i Saudiarabien - Dagens Nyheter
-- Tre anhållna efter dödsskjutningen - Expressen
-- Karl Dalén: Omstridda högerprofilens tvärvändning ger Ukraina hopp - Dagens Nyheter
 - Flera döda i ryska och ukrainska attacker - Göteborgs-Posten
+- Kvinna häktad för mord i Kungsör - Aftonbladet
 - Regeringen säger nej till längre serveringstider - Sveriges Radio
-- DN Direkt – Antalet bekräftade fall av ebola ökar i Kongo - Dagens Nyheter
-- Kvinna häktad för mord i Kungsör - Västerbottens-Kuriren
-- Just nu: Rådjur på vägen kan skapa fara på E4 - NT
-- ”Fortsatt spänd relation mellan Trump och pressen” - SVT Nyheter
-- (+) Bildextra: Massiva bränder i Sydeuropa - Aftonbladet
-- Deras hus förstördes i Drammen – visade sig vara oförsäkrat: ”Desperata” - Dagens Nyheter
-- DEBATT: L och SD ger gemensamt vallöfte om LSS - Expressen
+- Tonåringar anhållna för mord i Hässelby - Göteborgs-Posten
+- Rådjur på vägen kan skapa fara på E4 - NT
+- Stängde stränder efter varningarna - Expressen
+- En död efter flygplanskrasch i bostadshus - SVT Nyheter
+- DN Direkt – 340 000 evakuerade i Kina inför storm - Dagens Nyheter
+- Kazakstans ledare till Putin: Avsluta kriget - Göteborgs-Posten
+- Flávio Bolsonaro följer dömde faderns fotspår - Västerbottens-Kuriren
 - Stockholmsbörsen trotsade geopolitiken - Dagens industri
 - Starship i luften igen – så gick SpaceX första test som börsbolag - EFN
 - Unikt lastfartyg godkänt: Drivs med smält salt - Dagens PS
 - Tyske parlamentarikern: Trumps hot är ofta tomma - Omni – Alla nyheter. Alla perspektiv.
-- BILDEXTRA: Från 280 till 1800 bilar – succéfesten firade 25-årsjubileum - Falköpings Tidning
+- Nästa God of War-spel är officiellt under utveckling. Cory Barlog bekräftar att Kratos återvänder. - Feber
 - Avtal | Bygg en stad på ryggen av ett monster: Indie-succén sjunker till sitt lägsta pris på Steam - notebookcheck.se
 
 ## World News
@@ -65,11 +65,11 @@ _Updated: 2026-07-25 19:31_
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
+- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 
 ## Business
 
@@ -106,13 +106,13 @@ _Updated: 2026-07-25 19:31_
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
-- Om vikten av oral hälsa i ny bok - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Reformer av hälso- och sjukvården – glöm inte bort de mest utsatta! - Läkartidningen
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
+- Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
@@ -123,6 +123,7 @@ _Updated: 2026-07-25 19:31_
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -131,14 +132,13 @@ _Updated: 2026-07-25 19:31_
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Simple math behind major bison blunder - Forskning & Framsteg
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Avdelningen för fotonik - Chalmers tekniska högskola
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
