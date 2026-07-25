@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-25 11:18_
+_Updated: 2026-07-25 12:52_
 
 ## Top Stories
 
 - Brandinfernot allt närmare Bordeaux – fler evakueras - Göteborgs-Posten
-- ”Fortsatt spänd relation mellan Trump och pressen” - SVT Nyheter
-- Man död efter olycka på elsparkcykel i Östersund - Omni – Alla nyheter. Alla perspektiv.
-- Regimkritikernas sista drag: ett hemligt språk - Svenska Dagbladet
+- Deras hus förstördes i Drammen – visade sig vara oförsäkrat: ”Desperata” - Dagens Nyheter
+- Marianne Björklund: Premiärminister Modi pressad av arga ”kackerlackor” - Dagens Nyheter
+- Flera döda i ryska och ukrainska attacker - Göteborgs-Posten
 - Natopraktikant gripen misstänkt för spioneri - Västerbottens-Kuriren
-- Här kör båtar på grund varje dag – i Rörö hamn - Göteborgs-Posten
-- Svenskt barn omkom i olycka i Kroatien - SVT Nyheter
+- ”Fortsatt spänd relation mellan Trump och pressen” - SVT Nyheter
+- Man död efter olycka med elsparkcykel i Östersund - SVT Nyheter
 - Man död efter skjutning i Hässelby – en gripen - Västerbottens-Kuriren
 - Lovande blåbärssäsong – så nyttigt är superbäret - Dagens Nyheter
 - Här packar Karlskronascouterna inför stora lägret: ”Behövs mycket” - SVT Nyheter
-- Flera döda i ryska och ukrainska attacker - Västerbottens-Kuriren
-- Volodymyr hittade en torterad kvinna i sin källare i Butja - Hufvudstadsbladet – HBL
-- Nya tullarna ett bakslag för Trump: ”Slår tillbaka som en bumerang” - TV4 Nyheterna
 - Saudisk attack mot Huthirörelsen i Jemen - Hufvudstadsbladet – HBL
-- Tyske parlamentarikern: Trumps hot är ofta tomma - Omni – Alla nyheter. Alla perspektiv.
+- UD avråder från resor till Jordanien - Västerbottens-Kuriren
+- Norge rasar mot Trumps nya tullar: ”Helt felaktiga premisser” - Expressen
+- Trumpadministration backar gentemot tidning - Aftonbladet
+- Nytt vapen för att säkra norska miljardnäringen - Svenska Dagbladet
 - Champagne i Marstrand – konkurs i portföljen - Affärsvärlden
+- Tyske parlamentarikern: Trumps hot är ofta tomma - Omni – Alla nyheter. Alla perspektiv.
 - Starship i luften igen – så gick SpaceX första test som börsbolag - EFN
-- BLANDADE BÖRSER, INTEL NED PÅ RAPPORT, S&P 500 +0,1% - Placera.se
-- Nu kommer G-klass som cab igen! Världen håller på och läker. - Feber
-- Nanoleaf lanserar skärmställ med inbyggd belysning och Matter - Teknikveckan
+- Problem med onlinespel på Playstation - Expressen
+- Enshrouded lockade 3 miljoner spelare med en dödlig dimma och co-op upp till 16 - Martin Cid Magazine
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Stories - Pride i rörelse: WorldPride från nätverk till en global scen - out.tv
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -106,16 +106,16 @@ _Updated: 2026-07-25 11:18_
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
+- Om vikten av oral hälsa i ny bok - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Reformer av hälso- och sjukvården – glöm inte bort de mest utsatta! - Läkartidningen
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
+- Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2026-07-25 11:18_
 ## Jordbruk
 
 - Dien Bien Farmers' Association främjar en "grönare" jordbruksmiljö. - Vietnam.vn
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Här är världens största jordbruk - ATL
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Hellre plöjningsfri odling än ekologisk - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
