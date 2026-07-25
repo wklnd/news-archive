@@ -1,47 +1,47 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-25 14:30_
+_Updated: 2026-07-25 16:10_
 
 ## Top Stories
 
 - Lisa, 21, är i Bordeaux – där det börjat regna aska - Göteborgs-Posten
 - Deras hus förstördes i Drammen – visade sig vara oförsäkrat: ”Desperata” - Dagens Nyheter
-- Indisk minister avgår: ”Demokratin vinner” - Dagens Nyheter
-- ”Fortsatt spänd relation mellan Trump och pressen” - SVT Nyheter
+- En död efter flygplanskrasch i bostadshus - SVT Nyheter
+- Indisk minister avgår: ”Demokratin vinner” - Västerbottens-Kuriren
 - Zelenskyj varnar för massiv rysk attack - Svenska Dagbladet
-- Flera döda i ryska och ukrainska attacker - Göteborgs-Posten
+- Saudisk attack mot Huthirörelsen i Jemen - Hufvudstadsbladet – HBL
 - Svenskt barn omkom i olycka i Kroatien - SVT Nyheter
-- Man död efter skjutning i Hässelby – en gripen - Västerbottens-Kuriren
+- Man död efter olycka med elsparkcykel i Östersund - SVT Nyheter
 - Lovande blåbärssäsong – så nyttigt är superbäret - Dagens Nyheter
 - Expert: Få studier om alkohol och löpning - Dagens Nyheter
-- Iran tror inte Huthikonflikt kan lösas militärt: ”Gamla dispyter” - Omni – Alla nyheter. Alla perspektiv.
-- Direkt – Krisen i Mellanöstern – USA:s militär besköt fartyg - Dagens Nyheter
-- Nya tullarna ett bakslag för Trump: ”Slår tillbaka som en bumerang” - TV4 Nyheterna
-- Barron kan tvingas vittna om Tatebröder - Expressen
-- Skjuter parasiter med laser – på fisk i rörelse - Svenska Dagbladet
-- Tyske parlamentarikern: Trumps hot är ofta tomma - Omni – Alla nyheter. Alla perspektiv.
+- Efter skotten – Trump på ny mediemiddag - Göteborgs-Posten
+- Flera döda i ryska och ukrainska attacker - Hufvudstadsbladet – HBL
+- Direkt – Krisen i Mellanöstern – Grekisk militär sköt ner ballistiska robotar i Saudiarabien - Dagens Nyheter
+- Man död i olycka med elsparkcykel - Aftonbladet
+- Politiker i Japan överväger nya regler efter Pokémonkortens osannolika boom - Börskollen
+- Stockholmsbörsen trotsade geopolitiken - Dagens industri
 - Starship i luften igen – så gick SpaceX första test som börsbolag - EFN
-- BLANDADE BÖRSER, INTEL NED PÅ RAPPORT, S&P 500 +0,1% - Placera.se
-- Problem med onlinespel på Playstation - Expressen
-- Enshrouded lockade 3 miljoner spelare med en dödlig dimma och co-op upp till 16 - Martin Cid Magazine
+- Tyske parlamentarikern: Trumps hot är ofta tomma - Omni – Alla nyheter. Alla perspektiv.
+- Nanoleaf lanserar skärmställ med inbyggd belysning och Matter - Teknikveckan
+- Slog på boxboll och fick gipsa handleden – nekas ersättning - Blekinge Läns Tidning
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Stories - Pride i rörelse: WorldPride från nätverk till en global scen - out.tv
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
+- Sverige världens bästa land att leva i – toppar ny global lista - News55
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
@@ -62,10 +62,10 @@ _Updated: 2026-07-25 14:30_
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
@@ -78,12 +78,13 @@ _Updated: 2026-07-25 14:30_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2026-07-25 14:30_
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -113,9 +113,9 @@ _Updated: 2026-07-25 14:30_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Reformer av hälso- och sjukvården – glöm inte bort de mest utsatta! - Läkartidningen
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
-- Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
@@ -123,16 +123,16 @@ _Updated: 2026-07-25 14:30_
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- 5 myter om öppen vetenskap - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
@@ -143,22 +143,22 @@ _Updated: 2026-07-25 14:30_
 ## Jordbruk
 
 - Dien Bien Farmers' Association främjar en "grönare" jordbruksmiljö. - Vietnam.vn
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Sveriges förändrade lantbruk - SLU
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
+- Hellre plöjningsfri odling än ekologisk - Land.se
