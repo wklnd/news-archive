@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-25 12:52_
+_Updated: 2026-07-25 14:30_
 
 ## Top Stories
 
-- Brandinfernot allt närmare Bordeaux – fler evakueras - Göteborgs-Posten
+- Lisa, 21, är i Bordeaux – där det börjat regna aska - Göteborgs-Posten
 - Deras hus förstördes i Drammen – visade sig vara oförsäkrat: ”Desperata” - Dagens Nyheter
-- Marianne Björklund: Premiärminister Modi pressad av arga ”kackerlackor” - Dagens Nyheter
-- Flera döda i ryska och ukrainska attacker - Göteborgs-Posten
-- Natopraktikant gripen misstänkt för spioneri - Västerbottens-Kuriren
+- Indisk minister avgår: ”Demokratin vinner” - Dagens Nyheter
 - ”Fortsatt spänd relation mellan Trump och pressen” - SVT Nyheter
-- Man död efter olycka med elsparkcykel i Östersund - SVT Nyheter
+- Zelenskyj varnar för massiv rysk attack - Svenska Dagbladet
+- Flera döda i ryska och ukrainska attacker - Göteborgs-Posten
+- Svenskt barn omkom i olycka i Kroatien - SVT Nyheter
 - Man död efter skjutning i Hässelby – en gripen - Västerbottens-Kuriren
 - Lovande blåbärssäsong – så nyttigt är superbäret - Dagens Nyheter
-- Här packar Karlskronascouterna inför stora lägret: ”Behövs mycket” - SVT Nyheter
-- Saudisk attack mot Huthirörelsen i Jemen - Hufvudstadsbladet – HBL
-- UD avråder från resor till Jordanien - Västerbottens-Kuriren
-- Norge rasar mot Trumps nya tullar: ”Helt felaktiga premisser” - Expressen
-- Trumpadministration backar gentemot tidning - Aftonbladet
-- Nytt vapen för att säkra norska miljardnäringen - Svenska Dagbladet
-- Champagne i Marstrand – konkurs i portföljen - Affärsvärlden
+- Expert: Få studier om alkohol och löpning - Dagens Nyheter
+- Iran tror inte Huthikonflikt kan lösas militärt: ”Gamla dispyter” - Omni – Alla nyheter. Alla perspektiv.
+- Direkt – Krisen i Mellanöstern – USA:s militär besköt fartyg - Dagens Nyheter
+- Nya tullarna ett bakslag för Trump: ”Slår tillbaka som en bumerang” - TV4 Nyheterna
+- Barron kan tvingas vittna om Tatebröder - Expressen
+- Skjuter parasiter med laser – på fisk i rörelse - Svenska Dagbladet
 - Tyske parlamentarikern: Trumps hot är ofta tomma - Omni – Alla nyheter. Alla perspektiv.
 - Starship i luften igen – så gick SpaceX första test som börsbolag - EFN
+- BLANDADE BÖRSER, INTEL NED PÅ RAPPORT, S&P 500 +0,1% - Placera.se
 - Problem med onlinespel på Playstation - Expressen
 - Enshrouded lockade 3 miljoner spelare med en dödlig dimma och co-op upp till 16 - Martin Cid Magazine
 
@@ -149,16 +149,16 @@ _Updated: 2026-07-25 12:52_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Jord, kor och klimat - SLU
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - ATL
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jord, kor och klimat - SLU
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
