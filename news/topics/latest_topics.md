@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-25 06:44_
+_Updated: 2026-07-25 09:32_
 
 ## Top Stories
 
-- DN Direkt – Efter skotten – Trump på ny mediemiddag - Dagens Nyheter
-- Man skjuten till döds: ”Folk skrek och grät” - Expressen
-- DN Direkt – Sverige skickar plan till bränderna i Sydeuropa - Dagens Nyheter
+- Storstäder hotas av bränderna – hundratusentals evakuerade - Dagens Nyheter
+- ”Fortsatt spänd relation mellan Trump och pressen” - SVT Nyheter
+- Man dog i elsparkcykelolycka – polisutredning inledd - Sveriges Radio
+- Tre anhållna för mord i Hässelby - Svenska Dagbladet
+- Regimkritikernas sista drag: ett hemligt språk - Svenska Dagbladet
 - Volodymyr hittade en torterad kvinna i sin källare i Butja - Hufvudstadsbladet – HBL
-- 166 000 evakuerade efter bränder – Nasa utrymmer - Västerbottens-Kuriren
-- Saudisk attack mot Huthirörelsen i Jemen - Göteborgs-Posten
-- OSSE skickar inga valobservatörer till Sverige - Göteborgs-Posten
 - Popcornmästaren: Här är det perfekta receptet - Dagens Nyheter
-- Turkiet utlämnar svensk – dömd för grova brott - Västerbottens-Kuriren
-- 24 juli 20.42, Stöld, Jönköpings län - polisen.se
+- Stillastående personbil ger stopp i ett körfält på E18 - Enköpingsposten
+- Sköt smällare på torget – så var natten under Motorveckan - Västerbottens-Kuriren
+- Åkesson: Svår fråga varför Tidö tappat stöd - Göteborgs-Posten
 - Rysk e-handelsjätte i Ukrainas skottlinje - Västerbottens-Kuriren
 - Flera döda i skottlossning på Västbanken - Göteborgs-Posten
-- ICC:s chefsåklagare får gå efter sexanklagelser - Corren
-- UD avråder från resor till Jordanien - Västerbottens-Kuriren
-- Svenska svaret på Trumps nya tullhot: ”Suck” - TV4 Nyheterna
-- Blandat på USA-börsen – oljepriset föll tillbaka - Omni – Alla nyheter. Alla perspektiv.
-- ”Decenniets skilsmässa” klar – skyldig 6 miljarder - Expressen
+- Direkt – Krisen i Mellanöstern – USA:s militär besköt fartyg - Dagens Nyheter
+- Saudisk attack mot Huthirörelsen i Jemen - Hufvudstadsbladet – HBL
+- Politiker i Japan överväger nya regler efter Pokémonkortens osannolika boom - Börskollen
+- Tyske parlamentarikern: Trumps hot är ofta tomma - Omni – Alla nyheter. Alla perspektiv.
+- Blandat på Wall Street när oljepriset föll - Aftonbladet
 - Stockholmsbörsen inleder fredagen uppåt - Placera.se
-- Här vaknar monstret till liv igen - EFN
-- Där gjordes veckans största husaffär i Västerbergslagen - Nya Ludvika Tidning
+- Samsung Galaxy S27 Pro sägs erbjuda ytterligare en fördel jämfört med Galaxy S27 i Europa - notebookcheck.se
+- We Are Rewind släpper ett boxset med kassettspelare i begränsad upplaga med temat ”Dark Side of the Moon” - notebookcheck.se
 
 ## World News
 
@@ -36,13 +36,13 @@ _Updated: 2026-07-25 06:44_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Stories - Pride i rörelse: WorldPride från nätverk till en global scen - out.tv
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
-- Lansering av tävlingen Miss Global Business Elite 2026. - Vietnam.vn
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -103,8 +103,8 @@ _Updated: 2026-07-25 06:44_
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Sju life science-trender 2026 - Business Region Göteborg
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Om vikten av oral hälsa i ny bok - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
