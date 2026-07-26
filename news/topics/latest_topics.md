@@ -1,6 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-26 23:27_
+_Updated: 2026-07-27 00:30_
 
 ## Top Stories
 
@@ -8,12 +8,12 @@ _Updated: 2026-07-26 23:27_
 - Frankrikes bränder rasar okontrollerat - Corren
 - Ukraina slog till mot iranskt fartyg: ”Gillas säkert av USA” - Dagens Nyheter
 - USA och Iran uppges pausa attacker - Västerbottens-Kuriren
+- Kristna kraftsamlar efter branden i Norge – ”kan stå tillsammans” - Världen idag
 - Räddningstjänstens larm – släckvatten i Dalälven: Bada inte - Sveriges Radio
-- Vännernas stöd – efter att Milton, 16, dog i olyckan - Göteborgs-Posten
+- En stillastående personbil ger stopp i ett körfält på E4 - UNT
 - Rådjur på fel sida viltstängslet på E18 - UNT
 - Slagsmål efter trafikolycka utanför Höör - SVT Nyheter
-- Just nu: Ett körfält blockerat på grund av stillastående personbil på E4 - Corren
-- Studie: Ökad risk att barnet dör vid hemförlossning - Västerbottens-Kuriren
+- Studie: Ökad risk att barnet dör vid hemförlossning - Corren
 - Brasiliansk ilska efter Mileis påhopp - Västerbottens-Kuriren
 - Katz: Vill vidga operationer på Västbanken - Västerbottens-Kuriren
 - Demonstration mot turism på Mallorca: ”Utvecklingen är hänsynslös” - Aftonbladet
@@ -23,30 +23,30 @@ _Updated: 2026-07-26 23:27_
 - Wall Street öppnar blandat - EFN
 - Stockholmsbörsen trotsade geopolitiken - Dagens industri
 - Podd: Jackie Arklöv vill bli fri – har han någon chans? - Omni – Alla nyheter. Alla perspektiv.
-- Lenovo lanserar en ny prisvärd 280 Hz-spelmonitor med stöd för HDR10 - notebookcheck.se
+- Ko fastnade i träsk– räddningstjänsten larmades - Nya Wermlands-Tidningen
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på ikväll 18:50 - TV.nu
 - Sverige världens bästa land att leva i – toppar ny global lista - News55
 - Miss Global Beauties: Opal Suchata är världens vackraste Miss år 2025. - Vietnam.vn
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kuriren nominerad för satsning på unga läsare - Norrbottens-Kuriren
-- Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Murdochs hemliga drag: Kuppa ut tre av barnen - Omni – Alla nyheter. Alla perspektiv.
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
 
@@ -63,7 +63,7 @@ _Updated: 2026-07-26 23:27_
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
