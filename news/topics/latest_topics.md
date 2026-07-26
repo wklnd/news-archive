@@ -1,38 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-26 01:32_
+_Updated: 2026-07-26 03:07_
 
 ## Top Stories
 
-- Bil har kört in i folkmassa i Berlin - SVT Nyheter
-- Kvarts miljon på flykt undan bränderna i Sydeuropa - Göteborgs-Posten
-- Direkt – Kriget i Ukraina – Ryssland attackerar Kiev - Dagens Nyheter
-- Zara blev vittne till skjutningen: Tog barnen och sprang - Aftonbladet
+- Bil har kört in i folkmassa under pride-fest i Berlin - SVT Nyheter
 - DN Direkt – Bil har kört in i folkmassa i Berlin – stor polisinsats - Dagens Nyheter
-- Experten: Ryssland mobiliserar i höst - Svenska Dagbladet
+- Låga löner – ändå slåss de mot elden i Frankrike - Göteborgs-Posten
+- Zelenskyj: Ryssland vill skicka 30 000 nordkoreaner - Omni – Alla nyheter. Alla perspektiv.
+- Explosioner i Kiev – ny robotattack - Västerbottens-Kuriren
+- Zara blev vittne till skjutningen: Tog barnen och sprang - Aftonbladet
 - Rådjur på vägen kan skapa fara på E4 - NT
-- Man död under motorsporttävling i Strängnäs - SVT Nyheter
-- Mopedist påkörd av tåg - Västerbottens-Kuriren
 - Kvinna häktad för mord i Kungsör - Västerbottens-Kuriren
+- En stillastående fordon ger stopp i ett körfält på E4 - UNT
+- Stängde stränder efter varningarna - Expressen
 - Apungen Punch ett år – grattiskorten flödar in - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Grekisk militär sköt ner ballistiska robotar i Saudiarabien - Dagens Nyheter
-- Flávio Bolsonaro följer dömde faderns fotspår - Folkbladet
+- 3 000 fall av ebola bekräftade - Göteborgs-Posten
 - Emma Bouvin: I skuggan av kriget hittar oljan nya vägar - Dagens Nyheter
+- Många gripna i israeliska tillslag på Västbanken - Västerbottens-Kuriren
 - Stockholmsbörsen trotsade geopolitiken - Dagens industri
 - Starship i luften igen – så gick SpaceX första test som börsbolag - EFN
 - BLANDADE BÖRSER, INTEL NED PÅ RAPPORT, S&P 500 +0,1% - Placera.se
 - Alma, 13, blev stoppad – var fullt på flygplanet: ”Oacceptabelt” - Expressen
-- Lanseringen av Steam Frame verkar närma sig då Valve lägger till Welcome Tour i Steams backend - notebookcheck.se
-- HD-2D och läsarsånger är bara retro för oss som minns originalen - varvat.se
+- Lavie BT53C: Ny konkurrent till Microsoft Surface med upp till Intel Core Ultra 7, en ljus skärm på 500 nit och 5G - notebookcheck.se
+- Nya läckor om Insta360 X6 bekräftar specifikationerna och avslöjar samtidigt det globala lanseringsdatumet - notebookcheck.se
 
 ## World News
 
 - Sverige världens bästa land att leva i – toppar ny global lista - News55
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -62,6 +62,7 @@ _Updated: 2026-07-26 01:32_
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
@@ -69,7 +70,6 @@ _Updated: 2026-07-26 01:32_
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
-- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 
 ## Business
 
@@ -107,15 +107,15 @@ _Updated: 2026-07-26 01:32_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Reformer av hälso- och sjukvården – glöm inte bort de mest utsatta! - Läkartidningen
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 
 ## Science
 
