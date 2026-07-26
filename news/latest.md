@@ -1,4 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-26 21:52_
+_Updated: 2026-07-26 23:37_
 
+- Live updates: Trump administration signals that pause in Iran strikes will allow talks to progress - CNN
+- Berlin Pride ramming: Police shoot suspect dead - DW.com
+- Wildfires threaten Bordeaux as France and Spain battle blazes - Reuters
+- Iran war casualty count eclipses 600 as Pentagon quietly changes accounting - CNN
+- How Republicans plan to conquer Troy Jackson - Politico
+- ICE plans to target Haitians as Temporary Protected Status is set to end, sources say - CBS News
+- Netanyahu accuses Mamdani of ‘fomenting hate’ and calls ICC war-crimes charges ‘bogus’ - AP News
+- TikTok influencer who accused estranged husband of pedophilia found dead in possible murder-suicide - Fox News
+- House Democratic leader Hakeem Jeffries kicks off 100 days till midterms with affordability agenda - AP News
+- New York Democrats face a generational reckoning - Politico
+- The Accidental Hero Who Faced Down India’s Government - The New York Times
+- Transcript: Louisiana Sen. John Kennedy on "Face the Nation with Margaret Brennan," July 26, 2026 - CBS News
+- 2 mosques in the West Bank are set on fire during a deadly surge in settler violence - AP News
+- Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer - The New York Times
+- Will the Fed raise interest rates at Kevin Warsh’s second meeting? - Financial Times
+- Shein flags tariff hits after posting quarterly loss ahead of Hong Kong IPO - Reuters
+- Sam Altman says we are in the singularity: 'This is the moment' - Business Insider
+- Everyone expected a Bitcoin investing boom. Why it never came. - USA Today
+- Apple Planning to Unveil Privacy-Focused Smart Glasses at WWDC 2027 - MacRumors
+- 6 Cool New Gadgets For Cleaning Your Car - bgr.com
