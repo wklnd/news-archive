@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-26 03:14_
+_Updated: 2026-07-26 07:03_
 
-- Berlin: 1 dead after vehicle drives into CSD Pride event - DW.com
 - Democrats pick new Senate candidate in Maine in aftermath of Platner debacle - The Washington Post
-- Live updates: There’s an apparent pause in US-Iran strikes, even as a new front emerges on the Red Sea - CNN
-- Wildfires in France and Spain force more than 250,000 to flee as crews continue to battle untamed blazes - CBS News
-- Appeals court rejects Trump bid to curb mail-in voting in 23 states - The Guardian
+- One dead, 17 injured as car reportedly strikes crowd at Berlin LGBTQ event - Al Jazeera
+- Live updates: Spain and France battle raging wildfires as at least 250,000 people forced to flee - CNN
 - 5 standout moments from Trump’s fiery WHCA dinner speech - The Hill
-- Oregon fire looms near town as 4th firefighter dies weeks after Colorado blaze - AP News
+- Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp? - AP News
+- Trump is hellbent on tariffs. Here are 5 implications - NPR
 - Military Families Express Outrage After Pentagon Lowers Number of U.S. Troop Deaths in Iran War - The New York Times
 - Hawaii Lt. Gov. Sylvia Luke indicted on bribery charges - Politico
-- Cajun Navy leader warns Nolan Wells' search area has deadly 'washing machine' currents: 'Lots of drownings' - Fox News
-- India's 'cockroach' movement ousts minister, but can Modi calm youth? - NPR
-- Iran accuses Ukraine of deadly attack on Caspian commercial vessel - Al Jazeera
-- The ICC looks ahead after the ouster of its chief prosecutor - AP News
+- Eight family members found dead in Michigan fire, some with gunshot wounds - The Guardian
+- Federal appeals court rejects Trump bid to enforce mail ballot order ahead of midterm elections - Fox News
+- Iran reports first night without new US strikes as Houthis attack Saudi Arabian city - Fox News
+- Zelenskyy warns of 'massive' Russian attack within 48 hours - Euronews.com
 - Trump said to fume at energy secretary for announcing Saudi nuclear deal without his okay - The Times of Israel
-- Did OpenAI's models just breach its own risk 'red line'? Outside safety experts think so - Fortune
-- ‘We are confident': Taylor Farms releases statement amid cyclosporiasis outbreak - NBC 5 Chicago
-- Why aren't oil prices higher? Staggering drop in energy demand leaves strategists puzzled. - Yahoo Finance
-- SpaceX eyes tower catch for next Starship after auspicious end to 13th flight - Ars Technica
-- My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable - CNET
+- The ICC looks ahead after the ouster of its chief prosecutor - AP News
+- Cyclospora outbreak dubbed "lettuce-gate" as concerns over parasitic illness spread across U.S. - CBS News
+- Hugging Face CEO shares his demands of OpenAI after 'rogue' agent hack: 'It deserves an unprecedented response' - Business Insider
+- Silicon Valley Splits Over Closing the Borders to Chinese A.I. - The New York Times
+- Taylor Farms CEO breaks silence over explosive diarrhea outbreak as class-action lawsuit filed - New York Post
 - Google basically confirms the Pixel 11 is getting a price hike - The Verge
+- How The MacBook Pro Has Changed In The Last Five Years - bgr.com
