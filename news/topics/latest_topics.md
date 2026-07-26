@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-26 19:33_
+_Updated: 2026-07-26 20:35_
 
 ## Top Stories
 
-- Var alldeles för dåligt av Malmö - Expressen
+- Bil körde in i folkmassa under pride-fest i Berlin - SVT Nyheter
 - Grégory vände om – lyckades rädda huset undan lågorna - Göteborgs-Posten
-- Ministern: Attacken är ett islamistiskt terrordåd - Dagens Nyheter
-- Trump uppges pausa attacker mot Iran - Västerbottens-Kuriren
-- Ukraina slog till mot iranskt fartyg: ”Gillas säkert av USA” - Dagens Nyheter
+- Island röstar om EU – och hotet från Trump - Dagens Nyheter
+- USA och Iran uppges pausa attacker - Västerbottens-Kuriren
 - Kristna kraftsamlar efter branden i Norge – ”kan stå tillsammans” - Världen idag
-- Youtubekanalen ”Studio 3” lockar de tyngsta politikerna - Dagens Nyheter
-- Brand i avfallsanläggning – VMA utfärdat - Göteborgs-Posten
+- VMA efter brand vid avfallsanläggning i Färjegårdarna i Borlänge - Sveriges Radio
 - Studie: Ökad risk att barnet dör vid hemförlossning - Corren
 - En stillastående fordon ger stopp i ett körfält på E4 - UNT
+- Rådjur på fel sida viltstängslet på E18 - UNT
+- SD: Återvandringsbidraget har vissa barnsjukdomar - Omni – Alla nyheter. Alla perspektiv.
+- Ukraina slog till mot iranskt fartyg: ”Gillas säkert av USA” - Dagens Nyheter
 - FN-chef vill häva sanktionerna mot Syrien - Västerbottens-Kuriren
-- Island röstar om EU – och hotet från Trump - Dagens Nyheter
 - Katz: Vill vidga operationer på Västbanken - Västerbottens-Kuriren
-- Flera döda i ryska och ukrainska attacker - Göteborgs-Posten
+- Explosioner i Kiev – ny robotattack - Västerbottens-Kuriren
 - Vändningen: Nu stiger risken för en räntehöjning i USA - EFN
 - Stabil rapportflod bäddar för starkt börsår - Sydsvenskan
 - Blandat på Wall Street när oljepriset föll - Västerbottens-Kuriren
 - Starship i luften igen – så gick SpaceX första test som börsbolag - EFN
 - Podd: Jackie Arklöv vill bli fri – har han någon chans? - Omni – Alla nyheter. Alla perspektiv.
-- Lenovo lanserar en ny prisvärd 280 Hz-spelmonitor med stöd för HDR10 - notebookcheck.se
+- Google höjer priset på Pixel 11 - mobil.se
 
 ## World News
 
@@ -42,28 +42,28 @@ _Updated: 2026-07-26 19:33_
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Kuriren nominerad för satsning på unga läsare - Norrbottens-Kuriren
 - Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Murdochs hemliga drag: Kuppa ut tre av barnen - Omni – Alla nyheter. Alla perspektiv.
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
 
 ## Technology
 
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
@@ -157,8 +157,8 @@ _Updated: 2026-07-26 19:33_
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - SLU
 - Visning av uppkomst efter direktsådd - Land.se
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
