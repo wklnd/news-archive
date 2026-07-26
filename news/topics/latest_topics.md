@@ -1,35 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-26 21:46_
+_Updated: 2026-07-26 23:27_
 
 ## Top Stories
 
 - Bil har kört in i folkmassa i Berlin – pride-event evakueras - Göteborgs-Posten
-- Fler flyr undan bränderna – situationen ”kritisk” - Corren
-- ”Blev chockad – det var så mycket mer folk” - Svenska Dagbladet
-- USA och Iran uppges pausa attacker - Västerbottens-Kuriren
-- Vännernas stöd – efter att Milton, 16, dog i olyckan - Göteborgs-Posten
+- Frankrikes bränder rasar okontrollerat - Corren
 - Ukraina slog till mot iranskt fartyg: ”Gillas säkert av USA” - Dagens Nyheter
-- Youtubekanalen ”Studio 3” lockar de tyngsta politikerna - Dagens Nyheter
-- Brand i avfallsanläggning – VMA utfärdat - Göteborgs-Posten
+- USA och Iran uppges pausa attacker - Västerbottens-Kuriren
+- Räddningstjänstens larm – släckvatten i Dalälven: Bada inte - Sveriges Radio
+- Vännernas stöd – efter att Milton, 16, dog i olyckan - Göteborgs-Posten
 - Rådjur på fel sida viltstängslet på E18 - UNT
 - Slagsmål efter trafikolycka utanför Höör - SVT Nyheter
-- Island folkomröstar om att återuppta EU-förhandlingar - Sveriges Radio
-- FN-chef vill häva sanktionerna mot Syrien - Västerbottens-Kuriren
-- Våg av bosättarattacker mot byar på Västbanken – moské i brand - Dagens Nyheter
+- Just nu: Ett körfält blockerat på grund av stillastående personbil på E4 - Corren
+- Studie: Ökad risk att barnet dör vid hemförlossning - Västerbottens-Kuriren
+- Brasiliansk ilska efter Mileis påhopp - Västerbottens-Kuriren
+- Katz: Vill vidga operationer på Västbanken - Västerbottens-Kuriren
+- Demonstration mot turism på Mallorca: ”Utvecklingen är hänsynslös” - Aftonbladet
 - Explosioner i Kiev – ny robotattack - Västerbottens-Kuriren
-- Stabil rapportflod bäddar för starkt börsår - Sydsvenskan
 - Vändningen: Nu stiger risken för en räntehöjning i USA - EFN
-- Blandat på Wall Street när oljepriset föll - Västerbottens-Kuriren
-- SpaceX firar Starships flygning 13, men testet som avgör månfärden återstår - Martin Cid Magazine
+- Stabil rapportflod bäddar för starkt börsår - Sydsvenskan
+- Wall Street öppnar blandat - EFN
+- Stockholmsbörsen trotsade geopolitiken - Dagens industri
 - Podd: Jackie Arklöv vill bli fri – har han någon chans? - Omni – Alla nyheter. Alla perspektiv.
-- Ny lista: Här är Värmlands dyraste hus - Nya Wermlands-Tidningen
+- Lenovo lanserar en ny prisvärd 280 Hz-spelmonitor med stöd för HDR10 - notebookcheck.se
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på ikväll 18:50 - TV.nu
-- Miss Global Beauties: Opal Suchata är världens vackraste Miss år 2025. - Vietnam.vn
 - Sverige världens bästa land att leva i – toppar ny global lista - News55
+- Miss Global Beauties: Opal Suchata är världens vackraste Miss år 2025. - Vietnam.vn
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
@@ -50,20 +50,20 @@ _Updated: 2026-07-26 21:46_
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
@@ -79,8 +79,8 @@ _Updated: 2026-07-26 21:46_
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
