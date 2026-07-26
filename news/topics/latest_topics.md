@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-26 16:08_
+_Updated: 2026-07-26 17:39_
 
 ## Top Stories
 
-- Stockholm Pride ”djupt skakat” av Berlinattacken - Corren
+- Bil har kört in i folkmassa i Berlin – pride-event evakueras - Göteborgs-Posten
 - Javier i brinnande Spanien: ”Vill åka till Finland så fort jag kan” - Hufvudstadsbladet – HBL
 - Valet 2026: Fem kriser som väntar nästa statsminister - Svenska Dagbladet
-- Iran hotar med att trappa upp kriget - Göteborgs-Posten
-- Expert: Mänskliga faktorn stor när bränderna ökar - Dagens Nyheter
-- Lars, 89, kan tillbringa somrarna i skärgården – tack vare hemtjänsten: ”Fantastiskt” - Dagens Nyheter
-- Studie: Ökad risk att barnet dör vid hemförlossning - Nya Wermlands-Tidningen
-- Dragstjärna inviger Pride – har anmält över 300 hot - Folkbladet
-- Just nu: Ett körfält blockerat på grund av stillastående personbil på E4 - Corren
-- Ministern om rätt till hemtjänst i stugan: Handlar om äldres frihet - Dagens Nyheter
-- VMA utfärdat i Borlänge – avfallsanläggning brinner - SVT Nyheter
-- Explosioner i Kiev – ny robotattack - Västerbottens-Kuriren
 - Rumänien skjuter ned ännu en drönare - Västerbottens-Kuriren
+- Attackerna mellan Iran och USA fortsatt avbrutna – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Våg av bosättarattacker mot byar på Västbanken – moské i brand - Dagens Nyheter
+- Just nu: Ett körfält blockerat på grund av stillastående personbil på E4 - Corren
+- Larmet om hemförlossningar: Dubbelt så hög risk - Göteborgs-Posten
+- DN Direkt – Skott mot lägenhetsdörr i Upplands Väsby - Dagens Nyheter
+- Polisens natt: Misshandel och fylla - NSD
+- FN-chef vill häva sanktionerna mot Syrien - HD
+- Explosioner i Kiev – ny robotattack - Västerbottens-Kuriren
+- Expert: Mänskliga faktorn stor när bränderna ökar - Dagens Nyheter
 - 3 000 fall av ebola bekräftade - Corren
-- Stabil rapportflod bäddar för starkt börsår - Svenska Dagbladet
+- Stabil rapportflod bäddar för starkt börsår - Sydsvenskan
 - Tyske parlamentarikern: Trumps hot är ofta tomma - Omni – Alla nyheter. Alla perspektiv.
 - Vändningen: Nu stiger risken för en räntehöjning i USA - EFN
-- Blandat på Wall Street när oljepriset föll - Västerbottens-Kuriren
+- Starship i luften igen – så gick SpaceX första test som börsbolag - EFN
 - Podd: Jackie Arklöv vill bli fri – har han någon chans? - Omni – Alla nyheter. Alla perspektiv.
-- Stationshuset var nära att rivas – 26 år senare kämpar ideella krafter vidare - Gefle Dagblad
+- Ayrton släpper ny Nando - tidningenmonitor.se
 
 ## World News
 
@@ -32,18 +32,18 @@ _Updated: 2026-07-26 16:08_
 - Miss Global Beauties: Opal Suchata är världens vackraste Miss år 2025. - Vietnam.vn
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Kuriren nominerad för satsning på unga läsare - Norrbottens-Kuriren
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Murdochs hemliga drag: Kuppa ut tre av barnen - Omni – Alla nyheter. Alla perspektiv.
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
@@ -64,12 +64,12 @@ _Updated: 2026-07-26 16:08_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -89,9 +89,9 @@ _Updated: 2026-07-26 16:08_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - National Commercial Bank (NCB) slutför sin största kapitalökning i historien och utser två biträdande generaldirektörer. - Vietnam.vn
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
@@ -106,8 +106,8 @@ _Updated: 2026-07-26 16:08_
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
-- Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
+- Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
