@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-26 01:41_
+_Updated: 2026-07-26 03:14_
 
+- Berlin: 1 dead after vehicle drives into CSD Pride event - DW.com
 - Democrats pick new Senate candidate in Maine in aftermath of Platner debacle - The Washington Post
-- Berlin pride event canceled after vehicle drives into crowd - DW.com
-- Live updates: Spain and France battle raging wildfires as at least 250,000 people forced to flee - CNN
-- Trump ordered military not to conduct strikes in Iran Friday - Axios
-- Iran-backed Houthis fire missiles at Saudi Arabia in response to airstrikes in Yemen - AP News
-- Inside The Room At WHCD As Donald Trump's Rickles-Like Sctick Didn't Land - Deadline
-- 4th firefighter dies from burn injuries in western Colorado blaze - AP News
+- Live updates: There’s an apparent pause in US-Iran strikes, even as a new front emerges on the Red Sea - CNN
+- Wildfires in France and Spain force more than 250,000 to flee as crews continue to battle untamed blazes - CBS News
+- Appeals court rejects Trump bid to curb mail-in voting in 23 states - The Guardian
+- 5 standout moments from Trump’s fiery WHCA dinner speech - The Hill
+- Oregon fire looms near town as 4th firefighter dies weeks after Colorado blaze - AP News
+- Military Families Express Outrage After Pentagon Lowers Number of U.S. Troop Deaths in Iran War - The New York Times
 - Hawaii Lt. Gov. Sylvia Luke indicted on bribery charges - Politico
 - Cajun Navy leader warns Nolan Wells' search area has deadly 'washing machine' currents: 'Lots of drownings' - Fox News
-- Trump is hellbent on tariffs. Here are 5 implications - NPR
 - India's 'cockroach' movement ousts minister, but can Modi calm youth? - NPR
-- Iran says Ukrainian attack on vessel in Caspian Sea killed sailor - Reuters
-- Zelenskyy warns of 'massive' Russian attack within 48 hours - Euronews.com
-- ICC chief prosecutor removed from post over sexual misconduct allegations - AP News
-- Security News This Week: The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days - WIRED
-- Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years - ABC News - Breaking News, Latest News and Videos
-- SpaceX Stock: Why IPO History Prompts A Double-Upgrade (NASDAQ:SPCX) - Seeking Alpha
+- Iran accuses Ukraine of deadly attack on Caspian commercial vessel - Al Jazeera
+- The ICC looks ahead after the ouster of its chief prosecutor - AP News
+- Trump said to fume at energy secretary for announcing Saudi nuclear deal without his okay - The Times of Israel
+- Did OpenAI's models just breach its own risk 'red line'? Outside safety experts think so - Fortune
+- ‘We are confident': Taylor Farms releases statement amid cyclosporiasis outbreak - NBC 5 Chicago
+- Why aren't oil prices higher? Staggering drop in energy demand leaves strategists puzzled. - Yahoo Finance
 - SpaceX eyes tower catch for next Starship after auspicious end to 13th flight - Ars Technica
-- Google basically confirms the Pixel 11 is getting a price hike - The Verge
 - My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable - CNET
+- Google basically confirms the Pixel 11 is getting a price hike - The Verge
