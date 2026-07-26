@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-26 17:39_
+_Updated: 2026-07-26 19:33_
 
 ## Top Stories
 
-- Bil har kört in i folkmassa i Berlin – pride-event evakueras - Göteborgs-Posten
-- Javier i brinnande Spanien: ”Vill åka till Finland så fort jag kan” - Hufvudstadsbladet – HBL
-- Valet 2026: Fem kriser som väntar nästa statsminister - Svenska Dagbladet
-- Rumänien skjuter ned ännu en drönare - Västerbottens-Kuriren
-- Attackerna mellan Iran och USA fortsatt avbrutna – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Våg av bosättarattacker mot byar på Västbanken – moské i brand - Dagens Nyheter
-- Just nu: Ett körfält blockerat på grund av stillastående personbil på E4 - Corren
-- Larmet om hemförlossningar: Dubbelt så hög risk - Göteborgs-Posten
-- DN Direkt – Skott mot lägenhetsdörr i Upplands Väsby - Dagens Nyheter
-- Polisens natt: Misshandel och fylla - NSD
-- FN-chef vill häva sanktionerna mot Syrien - HD
-- Explosioner i Kiev – ny robotattack - Västerbottens-Kuriren
-- Expert: Mänskliga faktorn stor när bränderna ökar - Dagens Nyheter
-- 3 000 fall av ebola bekräftade - Corren
-- Stabil rapportflod bäddar för starkt börsår - Sydsvenskan
-- Tyske parlamentarikern: Trumps hot är ofta tomma - Omni – Alla nyheter. Alla perspektiv.
+- Var alldeles för dåligt av Malmö - Expressen
+- Grégory vände om – lyckades rädda huset undan lågorna - Göteborgs-Posten
+- Ministern: Attacken är ett islamistiskt terrordåd - Dagens Nyheter
+- Trump uppges pausa attacker mot Iran - Västerbottens-Kuriren
+- Ukraina slog till mot iranskt fartyg: ”Gillas säkert av USA” - Dagens Nyheter
+- Kristna kraftsamlar efter branden i Norge – ”kan stå tillsammans” - Världen idag
+- Youtubekanalen ”Studio 3” lockar de tyngsta politikerna - Dagens Nyheter
+- Brand i avfallsanläggning – VMA utfärdat - Göteborgs-Posten
+- Studie: Ökad risk att barnet dör vid hemförlossning - Corren
+- En stillastående fordon ger stopp i ett körfält på E4 - UNT
+- FN-chef vill häva sanktionerna mot Syrien - Västerbottens-Kuriren
+- Island röstar om EU – och hotet från Trump - Dagens Nyheter
+- Katz: Vill vidga operationer på Västbanken - Västerbottens-Kuriren
+- Flera döda i ryska och ukrainska attacker - Göteborgs-Posten
 - Vändningen: Nu stiger risken för en räntehöjning i USA - EFN
+- Stabil rapportflod bäddar för starkt börsår - Sydsvenskan
+- Blandat på Wall Street när oljepriset föll - Västerbottens-Kuriren
 - Starship i luften igen – så gick SpaceX första test som börsbolag - EFN
 - Podd: Jackie Arklöv vill bli fri – har han någon chans? - Omni – Alla nyheter. Alla perspektiv.
-- Ayrton släpper ny Nando - tidningenmonitor.se
+- Lenovo lanserar en ny prisvärd 280 Hz-spelmonitor med stöd för HDR10 - notebookcheck.se
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på ikväll 18:50 - TV.nu
-- Sverige världens bästa land att leva i – toppar ny global lista - News55
 - Miss Global Beauties: Opal Suchata är världens vackraste Miss år 2025. - Vietnam.vn
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Sverige världens bästa land att leva i – toppar ny global lista - News55
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Kuriren nominerad för satsning på unga läsare - Norrbottens-Kuriren
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Murdochs hemliga drag: Kuppa ut tre av barnen - Omni – Alla nyheter. Alla perspektiv.
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
 
@@ -63,7 +63,7 @@ _Updated: 2026-07-26 17:39_
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
@@ -89,9 +89,9 @@ _Updated: 2026-07-26 17:39_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - National Commercial Bank (NCB) slutför sin största kapitalökning i historien och utser två biträdande generaldirektörer. - Vietnam.vn
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
@@ -157,8 +157,8 @@ _Updated: 2026-07-26 17:39_
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
