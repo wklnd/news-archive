@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-26 13:44_
+_Updated: 2026-07-26 16:08_
 
 ## Top Stories
 
-- Stockholm Pride skakas av Berlinattacken - Corren
-- Fler flyr undan bränderna – situationen ”kritisk” - Göteborgs-Posten
-- 25 juli 20.55, Rån, Ljungby - polisen.se
-- Lars, 89, kan tillbringa somrarna i skärgården – tack vare hemtjänsten: ”Fantastiskt” - Dagens Nyheter
+- Stockholm Pride ”djupt skakat” av Berlinattacken - Corren
+- Javier i brinnande Spanien: ”Vill åka till Finland så fort jag kan” - Hufvudstadsbladet – HBL
+- Valet 2026: Fem kriser som väntar nästa statsminister - Svenska Dagbladet
 - Iran hotar med att trappa upp kriget - Göteborgs-Posten
-- Vildsvin och boende i kamp om en innergård i Bergsjön - Göteborgs-Posten
-- Strömmingen tillbaka i Stockholms skärgård: ”Lokal återhämtning” - Sveriges Radio
+- Expert: Mänskliga faktorn stor när bränderna ökar - Dagens Nyheter
+- Lars, 89, kan tillbringa somrarna i skärgården – tack vare hemtjänsten: ”Fantastiskt” - Dagens Nyheter
+- Studie: Ökad risk att barnet dör vid hemförlossning - Nya Wermlands-Tidningen
+- Dragstjärna inviger Pride – har anmält över 300 hot - Folkbladet
 - Just nu: Ett körfält blockerat på grund av stillastående personbil på E4 - Corren
-- Dragstjärna inviger Pride – har anmält över 300 hot - Göteborgs-Posten
-- Kvinna på moped död i tågolycka – man skadad - Västerbottens-Kuriren
+- Ministern om rätt till hemtjänst i stugan: Handlar om äldres frihet - Dagens Nyheter
+- VMA utfärdat i Borlänge – avfallsanläggning brinner - SVT Nyheter
 - Explosioner i Kiev – ny robotattack - Västerbottens-Kuriren
-- Somaliland har fått sitt första erkännande – av Israel - Dagens Nyheter
+- Rumänien skjuter ned ännu en drönare - Västerbottens-Kuriren
 - 3 000 fall av ebola bekräftade - Corren
-- Rumänien skjuter ned ännu en drönare - Göteborgs-Posten
 - Stabil rapportflod bäddar för starkt börsår - Svenska Dagbladet
 - Tyske parlamentarikern: Trumps hot är ofta tomma - Omni – Alla nyheter. Alla perspektiv.
-- Turistboomen märks på Arlanda – fler söker sig till Sverige - märsta.nu
-- ”Prisexplosion” – turisterna flyr - Expressen
-- WhatsApp testar rundare chattbubblor för iOS - Teknikveckan
-- Nästa iPad mini kan bli Apples första vattentåliga iPad - Teknikveckan
+- Vändningen: Nu stiger risken för en räntehöjning i USA - EFN
+- Blandat på Wall Street när oljepriset föll - Västerbottens-Kuriren
+- Podd: Jackie Arklöv vill bli fri – har han någon chans? - Omni – Alla nyheter. Alla perspektiv.
+- Stationshuset var nära att rivas – 26 år senare kämpar ideella krafter vidare - Gefle Dagblad
 
 ## World News
 
@@ -32,18 +32,18 @@ _Updated: 2026-07-26 13:44_
 - Miss Global Beauties: Opal Suchata är världens vackraste Miss år 2025. - Vietnam.vn
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Kuriren nominerad för satsning på unga läsare - Norrbottens-Kuriren
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Murdochs hemliga drag: Kuppa ut tre av barnen - Omni – Alla nyheter. Alla perspektiv.
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
@@ -60,6 +60,7 @@ _Updated: 2026-07-26 13:44_
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
@@ -69,7 +70,6 @@ _Updated: 2026-07-26 13:44_
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
@@ -78,8 +78,8 @@ _Updated: 2026-07-26 13:44_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
@@ -89,9 +89,9 @@ _Updated: 2026-07-26 13:44_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - National Commercial Bank (NCB) slutför sin största kapitalökning i historien och utser två biträdande generaldirektörer. - Vietnam.vn
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
@@ -131,14 +131,14 @@ _Updated: 2026-07-26 13:44_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Simple math behind major bison blunder - Forskning & Framsteg
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
