@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-26 20:35_
+_Updated: 2026-07-26 21:46_
 
 ## Top Stories
 
-- Bil körde in i folkmassa under pride-fest i Berlin - SVT Nyheter
-- Grégory vände om – lyckades rädda huset undan lågorna - Göteborgs-Posten
-- Island röstar om EU – och hotet från Trump - Dagens Nyheter
+- Bil har kört in i folkmassa i Berlin – pride-event evakueras - Göteborgs-Posten
+- Fler flyr undan bränderna – situationen ”kritisk” - Corren
+- ”Blev chockad – det var så mycket mer folk” - Svenska Dagbladet
 - USA och Iran uppges pausa attacker - Västerbottens-Kuriren
-- Kristna kraftsamlar efter branden i Norge – ”kan stå tillsammans” - Världen idag
-- VMA efter brand vid avfallsanläggning i Färjegårdarna i Borlänge - Sveriges Radio
-- Studie: Ökad risk att barnet dör vid hemförlossning - Corren
-- En stillastående fordon ger stopp i ett körfält på E4 - UNT
-- Rådjur på fel sida viltstängslet på E18 - UNT
-- SD: Återvandringsbidraget har vissa barnsjukdomar - Omni – Alla nyheter. Alla perspektiv.
+- Vännernas stöd – efter att Milton, 16, dog i olyckan - Göteborgs-Posten
 - Ukraina slog till mot iranskt fartyg: ”Gillas säkert av USA” - Dagens Nyheter
+- Youtubekanalen ”Studio 3” lockar de tyngsta politikerna - Dagens Nyheter
+- Brand i avfallsanläggning – VMA utfärdat - Göteborgs-Posten
+- Rådjur på fel sida viltstängslet på E18 - UNT
+- Slagsmål efter trafikolycka utanför Höör - SVT Nyheter
+- Island folkomröstar om att återuppta EU-förhandlingar - Sveriges Radio
 - FN-chef vill häva sanktionerna mot Syrien - Västerbottens-Kuriren
-- Katz: Vill vidga operationer på Västbanken - Västerbottens-Kuriren
+- Våg av bosättarattacker mot byar på Västbanken – moské i brand - Dagens Nyheter
 - Explosioner i Kiev – ny robotattack - Västerbottens-Kuriren
-- Vändningen: Nu stiger risken för en räntehöjning i USA - EFN
 - Stabil rapportflod bäddar för starkt börsår - Sydsvenskan
+- Vändningen: Nu stiger risken för en räntehöjning i USA - EFN
 - Blandat på Wall Street när oljepriset föll - Västerbottens-Kuriren
-- Starship i luften igen – så gick SpaceX första test som börsbolag - EFN
+- SpaceX firar Starships flygning 13, men testet som avgör månfärden återstår - Martin Cid Magazine
 - Podd: Jackie Arklöv vill bli fri – har han någon chans? - Omni – Alla nyheter. Alla perspektiv.
-- Google höjer priset på Pixel 11 - mobil.se
+- Ny lista: Här är Värmlands dyraste hus - Nya Wermlands-Tidningen
 
 ## World News
 
