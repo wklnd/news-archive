@@ -1,6 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-27 00:30_
+_Updated: 2026-07-27 01:29_
 
 ## Top Stories
 
@@ -8,17 +8,17 @@ _Updated: 2026-07-27 00:30_
 - Frankrikes bränder rasar okontrollerat - Corren
 - Ukraina slog till mot iranskt fartyg: ”Gillas säkert av USA” - Dagens Nyheter
 - USA och Iran uppges pausa attacker - Västerbottens-Kuriren
-- Kristna kraftsamlar efter branden i Norge – ”kan stå tillsammans” - Världen idag
-- Räddningstjänstens larm – släckvatten i Dalälven: Bada inte - Sveriges Radio
 - En stillastående personbil ger stopp i ett körfält på E4 - UNT
+- Kristna kraftsamlar efter branden i Norge – ”kan stå tillsammans” - Världen idag
+- DN Direkt – Badvarnar efter kraftig brand i Borlänge - Dagens Nyheter
 - Rådjur på fel sida viltstängslet på E18 - UNT
-- Slagsmål efter trafikolycka utanför Höör - SVT Nyheter
 - Studie: Ökad risk att barnet dör vid hemförlossning - Corren
+- Varnar för vanliga loppisfynden – prylarna som kan vara giftiga - Göteborgs-Posten
 - Brasiliansk ilska efter Mileis påhopp - Västerbottens-Kuriren
 - Katz: Vill vidga operationer på Västbanken - Västerbottens-Kuriren
-- Demonstration mot turism på Mallorca: ”Utvecklingen är hänsynslös” - Aftonbladet
 - Explosioner i Kiev – ny robotattack - Västerbottens-Kuriren
-- Vändningen: Nu stiger risken för en räntehöjning i USA - EFN
+- Pentagon justerar lista över stupade amerikaner - Aftonbladet
+- Oljepriset faller vid öppning - Svenska Dagbladet
 - Stabil rapportflod bäddar för starkt börsår - Sydsvenskan
 - Wall Street öppnar blandat - EFN
 - Stockholmsbörsen trotsade geopolitiken - Dagens industri
@@ -157,8 +157,8 @@ _Updated: 2026-07-27 00:30_
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
