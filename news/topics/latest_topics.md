@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-27 20:05_
+_Updated: 2026-07-27 22:04_
 
 ## Top Stories
 
-- DN Direkt – Ytterligare EU-resurs sätts in mot franska skogsbränder - Dagens Nyheter
-- DN Direkt – En släpps på fri fot efter terrordådet i Berlin - Dagens Nyheter
-- Iran: Tanker har gått på mina i Hormuzsundet - Göteborgs-Posten
+- Minister: 162 gripna för skogsbränder i Frankrike - Dagens Nyheter
+- HANS STIGSSON: Terrordådet en utmaning för många – också i Sverige - NT
+- Iran: Tanker har gått på mina i Hormuzsundet - Västerbottens-Kuriren
 - Minst 30 döda efter attack mot by i Nigeria - SVT Nyheter
+- Man i 80-årsåldern försvunnen efter bärplockning - Sveriges Radio
+- Tre döda i skottlossning i Seattle – en gripen - Göteborgs-Posten
+- DN Direkt – Risk för skogsbrand på flera håll i Sverige - Dagens Nyheter
+- Stockholm Pride drar igång: ”Glittrande motståndskraft” - Dagens Nyheter
+- Död efter olycka på gård i Skåne - Västerbottens-Kuriren
+- Stopp på E6 – långa köer utanför Helsingborg - SVT Nyheter
 - Över 600 amerikaner skadade sedan kriget med Iran inleddes - Dagens Nyheter
-- Extremhetta på väg – nya bränder kan blossa upp - Dagens Nyheter
-- SMHI: Stor risk för skogsbränder - Corren
-- Kökrock på E6 utanför Helsingborg orsakade långa köer - SVT Nyheter
-- SMHI: Så blir vädret i veckan - Göteborgs-Posten
-- Man försvunnen utanför Kiruna – räddningsinsats inledd - SVT Nyheter
-- USA skärper reserestriktioner mot Uganda - kritiseras - Sveriges Radio
+- Nedskärningar på Porsche – 5 000 jobb försvinner - Expressen
+- Björn af Kleen: Trumps kompanjon trodde att presidenten gick att styra - Dagens Nyheter
 - Flera uppges döda i ukrainska attacker i Ryssland - Västerbottens-Kuriren
-- Knivdåd i Paris – tre kvinnor attackerade - Göteborgs-Posten
-- Iran varnar för konsekvenser efter ukrainsk attack - Västerbottens-Kuriren
 - Affärsvärlden behåller köp på Evolution efter Darts ökade innehav till budpliktsnivå - Affärsvärlden
 - Porsche investerar 2,1 miljarder euro och ska minska personalstyrkan med 5 000 - Börsvärlden
-- Shein gör storförlust inför börsnotering i Hongkong - Omni – Alla nyheter. Alla perspektiv.
 - Stockholmsbörsen inledde uppåt - Folkbladet
-- Ny försening för Embracer – Tomb Raider skjuts upp - EFN
+- Pareto inleder bevakning på Norconsult med köp - AI-oro har pressat värderingen för mycket - Placera.se
+- Tomb Raider: Catalyst skjuts upp till 2028 - Börsvärlden
 - Dags att uppdatera din Apple-enheter – iOS 26.6 är här - Teknikveckan
 
 ## World News
@@ -32,7 +32,6 @@ _Updated: 2026-07-27 20:05_
 - Miss Global Beauties: Opal Suchata är världens vackraste Miss år 2025. - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -44,6 +43,7 @@ _Updated: 2026-07-27 20:05_
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
