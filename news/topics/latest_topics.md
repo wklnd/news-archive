@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-27 10:54_
+_Updated: 2026-07-27 14:42_
 
 ## Top Stories
 
-- Det som händer efter terrordådet i Berlin är det som skrämmer mig mest - Arbetet
-- DN Direkt – Hundratals frivilliga deltar i kampen mot bränderna - Dagens Nyheter
-- Tre döda i skottlossning i Seattle – en gripen - Västerbottens-Kuriren
-- Iran: Tanker har gått på mina i Hormuzsundet - Göteborgs-Posten
-- Mohamed, 42: ”Kan jag som småföretagare inte bara få jobba?” - Sydsvenskan
-- Hon fostrade sonen utan skärm: ”Gått jättebra” - Svenska Dagbladet
+- Tre skadade i knivdåd i Paris – en gripen - Göteborgs-Posten
+- Bränderna i södra Europa utom kontroll - Nya Wermlands-Tidningen
+- DN Direkt – En släpps på fri fot efter terrordådet i Berlin - Dagens Nyheter
+- Så förstärks hettan och bränderna när atmosfären blir törstigare - Sveriges Radio
 - Max 20 elever – så vill Liberalerna förbättra Uppsalas skolor - UNT
+- Presidenten som Trump fruktar att nu förvandlas till - Expressen
+- Efter alla olyckor – Transportstyrelsen ser över reglerna för elsparkcyklar - SVT Nyheter
+- Dömd mamma vill frias efter dödsbranden - Västerbottens-Kuriren
 - SMHI: Så blir vädret i veckan - Göteborgs-Posten
-- SMHI varnar – stor risk för skogsbränder - SVT Nyheter
-- Motorcyklist död – krockade med träd i Kolpebo i Smedjebackens kommun - SVT Nyheter
+- SMHI: Stor risk för skogsbränder - Corren
+- Sändarna förvirrar Kremls luftvärn – Ukraina får tillverka egna - Dagens Nyheter
+- Flera uppges döda i ukrainska attacker i Ryssland - Västerbottens-Kuriren
 - Iran varnar för konsekvenser efter ukrainsk attack - Corren
-- Fem omkomna på Europas högsta berg - Corren
-- Efterlyst gripen – 53 år efter mordet - Västerbottens-Kuriren
-- Trippelsmäll mot Putin i natt – slår till mot flera städer - Expressen
+- Spricka i rutan på Norwegian-flyg – fick nödlanda i Wien - Göteborgs-Posten
+- ”Det är livsfarligt med anonyma spelare” - Svenska Dagbladet
 - Billig diesel gör Sverige till bränsleoas för utländska lastbilar - nyteknik
-- Polen gasar förbi Sverige – skapar nya miljonärer dubbelt så snabbt - Dagens PS
-- Tysklands Ifo-index för affärsklimatet högre än väntat i juli - Placera.se
-- Orderfesten gör pessimisten optimistisk: ”För starkt” - EFN
+- Manuella växellådan sjunger på sista versen - Dagens Nyheter
+- Jan Olsson spår våg av nya börsnoteringar 2027 - finanswatch.se
+- Så luras Steam-användare att installera skadlig kod - Computer Sweden
 - Sonys marknadsföring av vinylspelaren väcker ilska hos kritiker som motsätter sig att fysiska PS5-spelskivor fasas ut - notebookcheck.se
-- Vikingatidens ekonomi väckte professorns vetgirighet - Dagens Nyheter
 
 ## World News
 
@@ -35,7 +35,6 @@ _Updated: 2026-07-27 10:54_
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
@@ -45,6 +44,7 @@ _Updated: 2026-07-27 10:54_
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 
@@ -54,9 +54,9 @@ _Updated: 2026-07-27 10:54_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
@@ -78,21 +78,21 @@ _Updated: 2026-07-27 10:54_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -120,7 +120,6 @@ _Updated: 2026-07-27 10:54_
 ## Science
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
@@ -132,20 +131,21 @@ _Updated: 2026-07-27 10:54_
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Simple math behind major bison blunder - Forskning & Framsteg
+- Avdelningen för fotonik - Chalmers tekniska högskola
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Simple math behind major bison blunder - Forskning & Framsteg
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
 - Dien Bien Farmers' Association främjar en "grönare" jordbruksmiljö. - Vietnam.vn
 - Sveriges förändrade lantbruk - SLU
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
@@ -153,12 +153,12 @@ _Updated: 2026-07-27 10:54_
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
