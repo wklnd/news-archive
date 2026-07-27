@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-27 21:00_
+_Updated: 2026-07-27 22:52_
 
-- French president pledges support on visit to fire zone, vows: ‘We will win this battle together’ - AP News
-- Mitch McConnell releases health update, saying he’s not ready to return to work yet - NBC News
-- Three dead and several injured in shooting at food festival near Seattle's Space Needle - BBC
-- Live Updates: U.S.-Iran war appears to pause as Trump gives space for talks to end Strait of Hormuz standoff - CBS News
-- Bryan Kohberger, Convicted in Idaho College Killings, Seeks to Take Back Guilty Plea - The New York Times
-- More than 600 US military service members injured since Iran War began in February - BBC
+- Trump administration urges Supreme Court to allow order targeting mail-in voting before midterms - AP News
+- Wildfire now nine miles away from French city of Bordeaux, mayor warns - BBC
+- Mitch McConnell shares new photo, health update; says he won't attend Fancy Farm - WLWT
+- Why has the US halted its bombing of Iran? - Al Jazeera
+- Bryan Kohberger files a petition to challenge his guilty plea and conviction - NBC News
+- 15-year-old arrested in connection to Bite of Seattle shooting that killed 3, hurt 4 - KOMO
 - Live Updates: Lindsay Clancy trial in murder of 3 children begins, ex-husband Patrick takes stand - CBS News
-- CNN’s Scott Jennings Issues Blunt Response to Donald Trump’s WHCD Speech - Yahoo
-- Monday Is a Risky Day for Thousands of Immigrants - Newser
-- Search intensifies for North Carolina physical therapist who vanished during Caribbean getaway - Fox News
-- Germany: Berlin Pride attack prompts calls for clampdown - DW.com
-- Trump to Axios: I'm ready for "strong military action" if Iran talks fail - Axios
+- More than 600 US military service members injured since Iran War began in February - BBC
+- El-Sayed comes under fire for 'ogre on a pike' leaked comment - Politico
+- Gov. Tony Evers says state ready to assist after Northeast Wisconsin storm damage - WLUK
 - Why a new war in Yemen could be different for the Houthis - Al Jazeera
-- The Iran and Ukraine wars are colliding on the world’s biggest lake. Here’s what to know - CNN
+- Iran’s FM claims Ukraine struck Iranian vessel ‘at Israel’s behest,’ vows retaliation - The Times of Israel
+- U.S. Consulate in Toronto Is Struck Again by Gunfire - The New York Times
+- Satellite Shots of Smoke at Saudi Oil Sites Keep Traders on Edge - Bloomberg
 - Cracker Barrel CEO Julie Masino to step down - Fox Business
-- Trump can’t stop shooting himself in the foot, as the stage looks set once again for Warsh to hold—if not hike—interest rates - Yahoo Finance
-- Micron Stock Faces New Memory Threat as China's CXMT Surges 466% After IPO - Barron's
-- Nvidia and OpenAI in talks for up to $250 billion dollar backstop to fund AI infrastructure plans - CNBC
-- Apple Releases iOS 26.6 and iPadOS 26.6 With iOS 27 Optimizations - MacRumors
-- Tons of Peoples’ Claude Chats and Creations are Exposed on Google - 404 Media
+- Nvidia Forms Alliance to Back Open-Source A.I. Amid Debate Over Safety - The New York Times
+- Federal Reserve is likely to hold interest rates steady. Here's what that means for consumers - CNBC
+- Stock Market Today: Dow rises, but S&P 500 and Nasdaq are dragged lower by weakness in chips and tech stocks; Treasury yields and oil prices fall; investors eye Fed decision and big tech earnings - MarketWatch
+- Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system - TechCrunch
+- macOS 26.6 now available, here’s what’s new - 9to5Mac
