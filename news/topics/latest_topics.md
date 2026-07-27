@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-27 17:58_
+_Updated: 2026-07-27 20:05_
 
 ## Top Stories
 
-- Iran: Tanker har gått på mina i Hormuzsundet - Göteborgs-Posten
 - DN Direkt – Ytterligare EU-resurs sätts in mot franska skogsbränder - Dagens Nyheter
-- Bärplockande man fortsatt försvunnen – stor sökinsats - Aftonbladet
-- Max 20 elever – så vill Liberalerna förbättra Uppsalas skolor - UNT
-- Risk för skogsbrand på flera håll - Västerbottens-Kuriren
-- Tre döda i skottlossning i Seattle – en gripen - Västerbottens-Kuriren
-- Stockholm Pride drar igång: ”Glittrande motståndskraft” - Dagens Nyheter
-- Flicka dog i brand efter att ha lämnats ensam – mamman överklagar fängelsedom - SVT Nyheter
-- Efter olyckorna – nu granskas elsparkcyklarna - Västerbottens-Kuriren
+- DN Direkt – En släpps på fri fot efter terrordådet i Berlin - Dagens Nyheter
+- Iran: Tanker har gått på mina i Hormuzsundet - Göteborgs-Posten
+- Minst 30 döda efter attack mot by i Nigeria - SVT Nyheter
+- Över 600 amerikaner skadade sedan kriget med Iran inleddes - Dagens Nyheter
+- Extremhetta på väg – nya bränder kan blossa upp - Dagens Nyheter
+- SMHI: Stor risk för skogsbränder - Corren
+- Kökrock på E6 utanför Helsingborg orsakade långa köer - SVT Nyheter
 - SMHI: Så blir vädret i veckan - Göteborgs-Posten
-- Flera uppges döda i ukrainska attacker i Ryssland - Västerbottens-Kuriren
+- Man försvunnen utanför Kiruna – räddningsinsats inledd - SVT Nyheter
 - USA skärper reserestriktioner mot Uganda - kritiseras - Sveriges Radio
-- Zelenskyj träffar Burnham - SVT Nyheter
-- Karl Dalén: Kriget mot Iran hemsöker Trump inför mellanårsvalet - Dagens Nyheter
+- Flera uppges döda i ukrainska attacker i Ryssland - Västerbottens-Kuriren
+- Knivdåd i Paris – tre kvinnor attackerade - Göteborgs-Posten
+- Iran varnar för konsekvenser efter ukrainsk attack - Västerbottens-Kuriren
 - Affärsvärlden behåller köp på Evolution efter Darts ökade innehav till budpliktsnivå - Affärsvärlden
+- Porsche investerar 2,1 miljarder euro och ska minska personalstyrkan med 5 000 - Börsvärlden
 - Shein gör storförlust inför börsnotering i Hongkong - Omni – Alla nyheter. Alla perspektiv.
-- ”Det är livsfarligt med anonyma spelare” - Svenska Dagbladet
 - Stockholmsbörsen inledde uppåt - Folkbladet
 - Ny försening för Embracer – Tomb Raider skjuts upp - EFN
-- Sonys marknadsföring av vinylspelaren väcker ilska hos kritiker som motsätter sig att fysiska PS5-spelskivor fasas ut - notebookcheck.se
+- Dags att uppdatera din Apple-enheter – iOS 26.6 är här - Teknikveckan
 
 ## World News
 
@@ -32,6 +32,7 @@ _Updated: 2026-07-27 17:58_
 - Miss Global Beauties: Opal Suchata är världens vackraste Miss år 2025. - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -43,10 +44,9 @@ _Updated: 2026-07-27 17:58_
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -86,13 +86,13 @@ _Updated: 2026-07-27 17:58_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -143,7 +143,6 @@ _Updated: 2026-07-27 17:58_
 ## Jordbruk
 
 - Swedfund investerar för att stärka klimatanpassningen i Afrikas livsmedelssystem - Mynewsdesk
-- Dien Bien Farmers' Association främjar en "grönare" jordbruksmiljö. - Vietnam.vn
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
@@ -162,3 +161,4 @@ _Updated: 2026-07-27 17:58_
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
