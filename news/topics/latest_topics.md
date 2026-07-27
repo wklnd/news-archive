@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-27 14:42_
+_Updated: 2026-07-27 17:58_
 
 ## Top Stories
 
-- Tre skadade i knivdåd i Paris – en gripen - Göteborgs-Posten
-- Bränderna i södra Europa utom kontroll - Nya Wermlands-Tidningen
-- DN Direkt – En släpps på fri fot efter terrordådet i Berlin - Dagens Nyheter
-- Så förstärks hettan och bränderna när atmosfären blir törstigare - Sveriges Radio
+- Iran: Tanker har gått på mina i Hormuzsundet - Göteborgs-Posten
+- DN Direkt – Ytterligare EU-resurs sätts in mot franska skogsbränder - Dagens Nyheter
+- Bärplockande man fortsatt försvunnen – stor sökinsats - Aftonbladet
 - Max 20 elever – så vill Liberalerna förbättra Uppsalas skolor - UNT
-- Presidenten som Trump fruktar att nu förvandlas till - Expressen
-- Efter alla olyckor – Transportstyrelsen ser över reglerna för elsparkcyklar - SVT Nyheter
-- Dömd mamma vill frias efter dödsbranden - Västerbottens-Kuriren
+- Risk för skogsbrand på flera håll - Västerbottens-Kuriren
+- Tre döda i skottlossning i Seattle – en gripen - Västerbottens-Kuriren
+- Stockholm Pride drar igång: ”Glittrande motståndskraft” - Dagens Nyheter
+- Flicka dog i brand efter att ha lämnats ensam – mamman överklagar fängelsedom - SVT Nyheter
+- Efter olyckorna – nu granskas elsparkcyklarna - Västerbottens-Kuriren
 - SMHI: Så blir vädret i veckan - Göteborgs-Posten
-- SMHI: Stor risk för skogsbränder - Corren
-- Sändarna förvirrar Kremls luftvärn – Ukraina får tillverka egna - Dagens Nyheter
 - Flera uppges döda i ukrainska attacker i Ryssland - Västerbottens-Kuriren
-- Iran varnar för konsekvenser efter ukrainsk attack - Corren
-- Spricka i rutan på Norwegian-flyg – fick nödlanda i Wien - Göteborgs-Posten
+- USA skärper reserestriktioner mot Uganda - kritiseras - Sveriges Radio
+- Zelenskyj träffar Burnham - SVT Nyheter
+- Karl Dalén: Kriget mot Iran hemsöker Trump inför mellanårsvalet - Dagens Nyheter
+- Affärsvärlden behåller köp på Evolution efter Darts ökade innehav till budpliktsnivå - Affärsvärlden
+- Shein gör storförlust inför börsnotering i Hongkong - Omni – Alla nyheter. Alla perspektiv.
 - ”Det är livsfarligt med anonyma spelare” - Svenska Dagbladet
-- Billig diesel gör Sverige till bränsleoas för utländska lastbilar - nyteknik
-- Manuella växellådan sjunger på sista versen - Dagens Nyheter
-- Jan Olsson spår våg av nya börsnoteringar 2027 - finanswatch.se
-- Så luras Steam-användare att installera skadlig kod - Computer Sweden
+- Stockholmsbörsen inledde uppåt - Folkbladet
+- Ny försening för Embracer – Tomb Raider skjuts upp - EFN
 - Sonys marknadsföring av vinylspelaren väcker ilska hos kritiker som motsätter sig att fysiska PS5-spelskivor fasas ut - notebookcheck.se
 
 ## World News
@@ -32,7 +32,6 @@ _Updated: 2026-07-27 14:42_
 - Miss Global Beauties: Opal Suchata är världens vackraste Miss år 2025. - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -45,31 +44,32 @@ _Updated: 2026-07-27 14:42_
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 
 ## Technology
 
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -114,8 +114,8 @@ _Updated: 2026-07-27 14:42_
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
@@ -142,23 +142,23 @@ _Updated: 2026-07-27 14:42_
 
 ## Jordbruk
 
+- Swedfund investerar för att stärka klimatanpassningen i Afrikas livsmedelssystem - Mynewsdesk
 - Dien Bien Farmers' Association främjar en "grönare" jordbruksmiljö. - Vietnam.vn
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - SLU
 - Visning av uppkomst efter direktsådd - Land.se
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
