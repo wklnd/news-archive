@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-27 10:57_
+_Updated: 2026-07-27 14:44_
 
-- Mass shooting at Seattle Center leaves 3 dead, toddler wounded - The Seattle Times
-- Trump wants to give U.S.-Iran talks ‘some space’ as he weighs escalation, aide says - The Washington Post
-- With just a few primary elections to go, the competitive Senate map keeps shifting - NPR
-- A fatal attack on Berlin’s Pride festival leaves locals wondering how their city will recover - AP News
-- Iran warns Ukraine of retaliation after deadly Caspian Sea strike - Al Jazeera
-- 100 days out from Election Day, our insider shares his intel - Axios
+- Shooting at Seattle food festival kills 3, leaves 4 wounded near Space Needle, authorities say - CBS News
+- Trump paused attacks on Iran to make space for talks, US ambassador says - BBC
+- NBA star rips socialist NYC Mayor Zohran Mamdani as 'mayor playing president' after Netanyahu video - Fox News
+- Source of false Buttigieg allegation appeared ‘mentally unstable,’ records show - The Washington Post
+- In Memphis, an 'anti-crime' task force quietly turned into an ICE crackdown - NPR
+- How the Houthis Cornered Saudi Arabia Into a New Battle - The New York Times
 - South Florida Haitians bracing for Monday’s end of TPS - WPLG Local 10
-- Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat - BBC
-- Pentagon lists 4 killed in Iran war under "Overseas Operations Casualties" on website - CBS News
-- Colorado River reservoirs hit record lows as Trump administration threatens major cuts - CBS News
-- Live updates: Battle against France and Spain wildfires is in a critical window as hotter weather looms - CNN
-- The Accidental Hero Who Faced Down India’s Government - The New York Times
-- China targets offshore trusts – including Hong Kong – amid tax overhaul - South China Morning Post
-- Red Sea shipping slows after Houthi attack on Saudi Arabia, data shows - Reuters
-- Oil Prices Fall After U.S. and Iran Pause Fighting for a Second Day - The New York Times
-- Chinese chip champion CXMT soars 466% in market debut - Financial Times
-- Stock futures climb, oil prices fall as U.S. and Iran pause attacks: Live updates - CNBC
-- Bond Traders on Edge as Middle East Conflict Clouds Fed Outlook - Bloomberg.com
-- Lenovo launches Legion 24-1r and 27-1r 280Hz IPS monitors from $99 - VideoCardz.com
-- How to Get Samsung’s Galaxy Z Fold 8 for $599 - Droid Life
+- Federal probe launched after video appears to show sea lion attack - USA Today
+- Poll: Even Trump voters aren’t very impressed by the GOP’s tax overhaul - Politico
+- Georgia Gov. Brian Kemp isn’t done with EVs - Politico
+- ‘Fire clouds’ in France as wildfires threaten Bordeaux and Spain battles blaze near Madrid - CNN
+- Berlin Pride Attack Suspect Tried to Join ISIS, Prosecutors Say - The New York Times
+- Myanmar military escalates civilian killings, monitor warns, amid diplomatic push - Reuters
+- China targets offshore trusts – including Hong Kong’s – amid tax overhaul - South China Morning Post
+- China Memory Champion CXMT Set to Debut After $9.8 Billion IPO - Bloomberg.com
+- Oil Prices Sink After U.S. and Iran Pause Fighting for a Second Day - The New York Times
+- 4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter - Yahoo Finance
+- Shein slumps to loss ahead of planned Hong Kong listing - Financial Times
+- Google could flip Watch Unlock around with a new Pixel feature - Android Authority
+- Great news about the Galaxy Z Flip and Galaxy Z TriFold series has just emerged - PhoneArena
