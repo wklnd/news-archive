@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-27 22:04_
+_Updated: 2026-07-27 23:39_
 
 ## Top Stories
 
+- Tre personer påkörda vid klippa - Aftonbladet
 - Minister: 162 gripna för skogsbränder i Frankrike - Dagens Nyheter
+- Trump: Bra samtal med Iran - Corren
 - HANS STIGSSON: Terrordådet en utmaning för många – också i Sverige - NT
-- Iran: Tanker har gått på mina i Hormuzsundet - Västerbottens-Kuriren
-- Minst 30 döda efter attack mot by i Nigeria - SVT Nyheter
-- Man i 80-årsåldern försvunnen efter bärplockning - Sveriges Radio
-- Tre döda i skottlossning i Seattle – en gripen - Göteborgs-Posten
-- DN Direkt – Risk för skogsbrand på flera håll i Sverige - Dagens Nyheter
-- Stockholm Pride drar igång: ”Glittrande motståndskraft” - Dagens Nyheter
-- Död efter olycka på gård i Skåne - Västerbottens-Kuriren
+- Försvunnen bärplockare i Jukkasjärvi hittad vid liv - Sveriges Radio
+- 15-åring gripen efter skjutning vid festival i Seattle - SVT Nyheter
+- SMHI: Stor risk för skogsbränder - Corren
 - Stopp på E6 – långa köer utanför Helsingborg - SVT Nyheter
-- Över 600 amerikaner skadade sedan kriget med Iran inleddes - Dagens Nyheter
-- Nedskärningar på Porsche – 5 000 jobb försvinner - Expressen
+- Extremhetta på väg – nya bränder kan blossa upp - Göteborgs-Posten
+- Arbogascouter på jättejamboree i Skåne - Magazin24
+- DN Direkt – Nytt våld i Nigeria – över 30 döda - Dagens Nyheter
+- Trump anmärker på Netanyahu innan möte - Västerbottens-Kuriren
 - Björn af Kleen: Trumps kompanjon trodde att presidenten gick att styra - Dagens Nyheter
-- Flera uppges döda i ukrainska attacker i Ryssland - Västerbottens-Kuriren
-- Affärsvärlden behåller köp på Evolution efter Darts ökade innehav till budpliktsnivå - Affärsvärlden
-- Porsche investerar 2,1 miljarder euro och ska minska personalstyrkan med 5 000 - Börsvärlden
+- Trippelsmäll mot Putin i natt – slår till mot flera städer - Expressen
+- Blandat på Wall Street – oljepriset rasade - Västerbottens-Kuriren
 - Stockholmsbörsen inledde uppåt - Folkbladet
-- Pareto inleder bevakning på Norconsult med köp - AI-oro har pressat värderingen för mycket - Placera.se
+- Shein redovisar förlust – varnar för USA- och EU-tullar - Dagens Handel
+- Porsche investerar 2,1 miljarder euro och ska minska personalstyrkan med 5 000 - Börsvärlden
 - Tomb Raider: Catalyst skjuts upp till 2028 - Börsvärlden
 - Dags att uppdatera din Apple-enheter – iOS 26.6 är här - Teknikveckan
 
@@ -53,20 +53,20 @@ _Updated: 2026-07-27 22:04_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
@@ -81,17 +81,17 @@ _Updated: 2026-07-27 22:04_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
@@ -127,18 +127,18 @@ _Updated: 2026-07-27 22:04_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
+- The 4th Malmö Work Science Meeting - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Simple math behind major bison blunder - Forskning & Framsteg
-- Avdelningen för fotonik - Chalmers tekniska högskola
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Avdelningen för fotonik - Chalmers tekniska högskola
 
 ## Jordbruk
 
