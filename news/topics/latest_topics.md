@@ -1,39 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-27 01:29_
+_Updated: 2026-07-27 07:12_
 
 ## Top Stories
 
-- Bil har kört in i folkmassa i Berlin – pride-event evakueras - Göteborgs-Posten
-- Frankrikes bränder rasar okontrollerat - Corren
-- Ukraina slog till mot iranskt fartyg: ”Gillas säkert av USA” - Dagens Nyheter
-- USA och Iran uppges pausa attacker - Västerbottens-Kuriren
-- En stillastående personbil ger stopp i ett körfält på E4 - UNT
-- Kristna kraftsamlar efter branden i Norge – ”kan stå tillsammans” - Världen idag
-- DN Direkt – Badvarnar efter kraftig brand i Borlänge - Dagens Nyheter
+- Spanska branden den största hittills - Göteborgs-Posten
+- Stockholm Pride ”djupt skakat” av Berlinattacken - Västerbottens-Kuriren
+- DN Direkt – SMHI: Stor risk för skogsbränder - Dagens Nyheter
+- Mamman kämpade för hjälp med sonen – larmade själv polisen om hans mordplaner - Dagens Nyheter
+- Hon fostrade sonen utan skärm: ”Gått jättebra” - Svenska Dagbladet
+- Direkt – Krisen i Mellanöstern – Iran: Tanker har gått på mina i Hormuzsundet - Dagens Nyheter
+- Just nu: Ett körfält blockerat på grund av en stillastående fordon på E4 - UNT
+- ANDREEA VANCIU: Dags att vakna ur AI-psykosen - UNT
+- Flera olyckor på E4 Rosersberg – sista strax före midnatt - märsta.nu
 - Rådjur på fel sida viltstängslet på E18 - UNT
-- Studie: Ökad risk att barnet dör vid hemförlossning - Corren
-- Varnar för vanliga loppisfynden – prylarna som kan vara giftiga - Göteborgs-Posten
-- Brasiliansk ilska efter Mileis påhopp - Västerbottens-Kuriren
-- Katz: Vill vidga operationer på Västbanken - Västerbottens-Kuriren
-- Explosioner i Kiev – ny robotattack - Västerbottens-Kuriren
-- Pentagon justerar lista över stupade amerikaner - Aftonbladet
-- Oljepriset faller vid öppning - Svenska Dagbladet
-- Stabil rapportflod bäddar för starkt börsår - Sydsvenskan
-- Wall Street öppnar blandat - EFN
-- Stockholmsbörsen trotsade geopolitiken - Dagens industri
-- Podd: Jackie Arklöv vill bli fri – har han någon chans? - Omni – Alla nyheter. Alla perspektiv.
-- Ko fastnade i träsk– räddningstjänsten larmades - Nya Wermlands-Tidningen
+- Ukraina slog till mot iranskt fartyg: ”Gillas säkert av USA” - Dagens Nyheter
+- Efterlyst gripen – 53 år efter mordet - Västerbottens-Kuriren
+- Fem omkomna på Europas högsta berg - Corren
+- Två döda i skottlossning i Seattle - SVT Nyheter
+- Låga dieselpriser lockar lastbilar till Sverige - Svenska Dagbladet
+- Orderfesten gör pessimisten optimistisk: ”För starkt” - EFN
+- Uppåt i Asien – chipbolag rusade i premiären - Dagens industri
+- Oljepriserna rasar efter krigspaus i Mellanöstern - Omni – Alla nyheter. Alla perspektiv.
+- Cambridgeforskare efter ny upptäckt: Vanlig ingrediens riskerar eventuellt att försämra tarmfloran - Illustrerad Vetenskap
+- MT Bygg i Jönköping AB: Här är senaste årsredovisningen - Jönköpings-Posten
 
 ## World News
 
-- GT World Challenge America, Sebring International Raceway på ikväll 18:50 - TV.nu
+- GT World Challenge America, Sebring International Raceway på idag 07:05 - TV.nu
 - Sverige världens bästa land att leva i – toppar ny global lista - News55
 - Miss Global Beauties: Opal Suchata är världens vackraste Miss år 2025. - Vietnam.vn
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -44,9 +44,9 @@ _Updated: 2026-07-27 01:29_
 - Murdochs hemliga drag: Kuppa ut tre av barnen - Omni – Alla nyheter. Alla perspektiv.
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
 
@@ -54,21 +54,21 @@ _Updated: 2026-07-27 01:29_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
@@ -82,16 +82,16 @@ _Updated: 2026-07-27 01:29_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - National Commercial Bank (NCB) slutför sin största kapitalökning i historien och utser två biträdande generaldirektörer. - Vietnam.vn
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
@@ -120,7 +120,6 @@ _Updated: 2026-07-27 01:29_
 ## Science
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
@@ -131,21 +130,22 @@ _Updated: 2026-07-27 01:29_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Simple math behind major bison blunder - Forskning & Framsteg
+- Avdelningen för fotonik - Chalmers tekniska högskola
 - 5 myter om öppen vetenskap - Läkartidningen
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 
 ## Jordbruk
 
 - Dien Bien Farmers' Association främjar en "grönare" jordbruksmiljö. - Vietnam.vn
 - Sveriges förändrade lantbruk - SLU
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
