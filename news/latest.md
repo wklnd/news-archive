@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-27 03:16_
+_Updated: 2026-07-27 07:29_
 
+- Mass shooting at Seattle Center leaves 2 dead, toddler wounded - The Seattle Times
 - Live updates: Trump administration signals that pause in Iran strikes will allow talks to progress - CNN
-- Berlin police kill suspect in Pride festival attack after manhunt - NBC News
-- Wildfires in France drive 250,000 people from their homes and creep toward wine city of Bordeaux - AP News
-- Employers Fear Labor Shortage as Many Immigrants Lose Protected Status - The New York Times
-- Pentagon reports more than 600 Iran war casualties in quiet database update - The Guardian
-- Fauci's newly released COVID diaries reveal bizarre fixation on fame as pandemic deaths mounted - Fox News
-- North Carolina woman vanishes after swim on Grenada beach vacation - NBC News
+- A fatal attack on Berlin’s Pride festival leaves locals wondering how their city will recover - AP News
+- Macron calls crisis meeting as wildfires threaten Bordeaux and heatwave looms - BBC
+- Pentagon Changes How It Reports Casualties in Iran War - The New York Times
+- Where intense storms are possible Sunday in Minnesota and Wisconsin - Bring Me The News
+- ICE prepares major operation targeting Haitians losing TPS after Supreme Court ruling - Fox News
 - Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat - BBC
 - Sweltering heat wave grips central and southern US for a second straight day - AP News
-- How Republicans plan to conquer Troy Jackson - Politico
+- Colorado River reservoirs hit record lows as Trump administration threatens major cuts - CBS News
 - The Accidental Hero Who Faced Down India’s Government - The New York Times
-- Transcript: Louisiana Sen. John Kennedy on "Face the Nation with Margaret Brennan," July 26, 2026 - CBS News
+- Red Sea shipping slows after Houthi attack on Saudi Arabia, data shows - Reuters
 - Why are Israeli settlers on a rampage in the occupied West Bank? - Al Jazeera
-- America has few good options for a “massive attack” on Iran - The Economist
-- Oil Tumbles as US and Iran Pause Military Strikes: Markets Wrap - Bloomberg.com
-- Will the Fed raise interest rates at Kevin Warsh’s second meeting? - Financial Times
-- Would you choose £50,000 over the chance of £1m? - BBC
-- Sam Altman says we are in the singularity: 'This is the moment' - Business Insider
+- Transcript: Louisiana Sen. John Kennedy on "Face the Nation with Margaret Brennan," July 26, 2026 - CBS News
+- Chinese chipmaker CXMT soars almost 500% in market debut - Financial Times
+- Stock futures climb, oil prices fall as U.S. and Iran pause attacks: Live updates - CNBC
+- Shein swings to a loss as Donald Trump's trade rules hit sales - BBC
+- Fed Faces Growing Pressure to Hike Rates as Price Risks Rebound - Bloomberg.com
 - Apple is banking on privacy to set its smart glasses apart - The Verge
-- What to Expect From Apple Watch Series 12 and Apple Watch Ultra 4 - MacRumors
+- Google Maps "2026 Update" Now Rolling Out, Also Available on Android Auto and CarPlay - autoevolution
