@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-27 17:30_
+_Updated: 2026-07-27 19:21_
 
 - Police search for a second suspect following Seattle food festival shooting that killed 3 - AP News
-- Hundreds of thousands evacuated in France and Spain as wildfires rage on - Euronews
-- Lindsay Clancy goes on trial over whether postpartum psychosis drove her to kill her 3 children - AP News
-- Capitol agenda: Thune tries to focus as Trump fumes - Live Updates - Politico
-- US strikes on pause as Iran warns Ukraine for taking out Russian military cargo ship - Fox News
-- Source of false Buttigieg allegation appeared ‘mentally unstable,’ records show - The Washington Post
-- Netanyahu says Iran is top agenda in meeting with Trump - Reuters
-- Search intensifies for North Carolina physical therapist who vanished during Caribbean getaway - Fox News
-- Poll: Even Trump voters aren’t very impressed by the GOP’s tax overhaul - Politico
-- Election Denier Alexander Kolodin Seeks to Run Arizona’s Elections as Secretary of State - The New York Times
+- McConnell not yet medically cleared to leave rehab facility after fall led to hospitalization - CNN
+- Devastating European wildfires in maps - and how they're being tackled - BBC
+- Trump tells Thune to keep Senate in session to pass SAVE America Act - Politico
 - Live Updates: U.S.-Iran war appears to pause as Trump gives space for talks to end Strait of Hormuz standoff - CBS News
-- Germany: Berlin Pride attack prompts calls for clampdown - DW.com
-- How the Iran-Backed Houthis Cornered Saudi Arabia Into a New Conflict - The New York Times
-- Fugitive in 1973 torture and murder of iconic singer Victor Jara is captured in Chile - CBS News
-- Dow futures rally 500 points as oil prices fall after U.S. and Iran pause attacks: Live updates - CNBC
+- Police vetted dubious allegation only after Buttigieg was separated from children - The Washington Post
+- Live updates: Lindsay Clancy trial begins with opening statements - NBC Boston
+- Netanyahu, amid reported Iranian security threat, takes off secretively for Trump meeting - The Times of Israel
+- Search intensifies for North Carolina physical therapist who vanished during Caribbean getaway - Fox News
+- Canada's awkward tariff summer: Gordie Howe Bridge opens for traffic a week after Michigan and White House officials got uninvited - Fortune
+- Why a new war in Yemen could be different for the Houthis - Al Jazeera
+- Merz Criticizes Terrorism Laws After Deadly Berlin Pride Attack - The New York Times
+- Trump to Axios: I'm ready for "strong military action" if Iran talks fail - Axios
+- Shots fired near US consulate in Canada for second time in four months - The Guardian
+- Oil price dives as US and Iran pause attacks - BBC
+- Cracker Barrel CEO Julie Masino to step down - Fox Business
+- Trump can’t stop shooting himself in the foot, as the stage looks set once again for Warsh to hold—if not hike—interest rates - Yahoo Finance
 - Micron Stock Faces New Memory Threat as China's CXMT Surges 466% After IPO - Barron's
-- Cracker Barrel CEO Julie Felss Masino steps down after 'woke' rebrand sparked backlash from customers -- and even Trump - New York Post
-- NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers - CNBC
+- Framework Laptop 13 Pro review: Much better battery, much worse price - Ars Technica
 - Tons of Peoples’ Claude Chats and Creations are Exposed on Google - 404 Media
-- Canon EOS R6 V Review: A Pro Vlogging Camera At A Mirrorless Price - Engadget
