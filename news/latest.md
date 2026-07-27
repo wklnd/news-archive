@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-27 14:44_
+_Updated: 2026-07-27 17:30_
 
-- Shooting at Seattle food festival kills 3, leaves 4 wounded near Space Needle, authorities say - CBS News
-- Trump paused attacks on Iran to make space for talks, US ambassador says - BBC
-- NBA star rips socialist NYC Mayor Zohran Mamdani as 'mayor playing president' after Netanyahu video - Fox News
+- Police search for a second suspect following Seattle food festival shooting that killed 3 - AP News
+- Hundreds of thousands evacuated in France and Spain as wildfires rage on - Euronews
+- Lindsay Clancy goes on trial over whether postpartum psychosis drove her to kill her 3 children - AP News
+- Capitol agenda: Thune tries to focus as Trump fumes - Live Updates - Politico
+- US strikes on pause as Iran warns Ukraine for taking out Russian military cargo ship - Fox News
 - Source of false Buttigieg allegation appeared ‘mentally unstable,’ records show - The Washington Post
-- In Memphis, an 'anti-crime' task force quietly turned into an ICE crackdown - NPR
-- How the Houthis Cornered Saudi Arabia Into a New Battle - The New York Times
-- South Florida Haitians bracing for Monday’s end of TPS - WPLG Local 10
-- Federal probe launched after video appears to show sea lion attack - USA Today
+- Netanyahu says Iran is top agenda in meeting with Trump - Reuters
+- Search intensifies for North Carolina physical therapist who vanished during Caribbean getaway - Fox News
 - Poll: Even Trump voters aren’t very impressed by the GOP’s tax overhaul - Politico
-- Georgia Gov. Brian Kemp isn’t done with EVs - Politico
-- ‘Fire clouds’ in France as wildfires threaten Bordeaux and Spain battles blaze near Madrid - CNN
-- Berlin Pride Attack Suspect Tried to Join ISIS, Prosecutors Say - The New York Times
-- Myanmar military escalates civilian killings, monitor warns, amid diplomatic push - Reuters
-- China targets offshore trusts – including Hong Kong’s – amid tax overhaul - South China Morning Post
-- China Memory Champion CXMT Set to Debut After $9.8 Billion IPO - Bloomberg.com
-- Oil Prices Sink After U.S. and Iran Pause Fighting for a Second Day - The New York Times
-- 4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter - Yahoo Finance
-- Shein slumps to loss ahead of planned Hong Kong listing - Financial Times
-- Google could flip Watch Unlock around with a new Pixel feature - Android Authority
-- Great news about the Galaxy Z Flip and Galaxy Z TriFold series has just emerged - PhoneArena
+- Election Denier Alexander Kolodin Seeks to Run Arizona’s Elections as Secretary of State - The New York Times
+- Live Updates: U.S.-Iran war appears to pause as Trump gives space for talks to end Strait of Hormuz standoff - CBS News
+- Germany: Berlin Pride attack prompts calls for clampdown - DW.com
+- How the Iran-Backed Houthis Cornered Saudi Arabia Into a New Conflict - The New York Times
+- Fugitive in 1973 torture and murder of iconic singer Victor Jara is captured in Chile - CBS News
+- Dow futures rally 500 points as oil prices fall after U.S. and Iran pause attacks: Live updates - CNBC
+- Micron Stock Faces New Memory Threat as China's CXMT Surges 466% After IPO - Barron's
+- Cracker Barrel CEO Julie Felss Masino steps down after 'woke' rebrand sparked backlash from customers -- and even Trump - New York Post
+- NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers - CNBC
+- Tons of Peoples’ Claude Chats and Creations are Exposed on Google - 404 Media
+- Canon EOS R6 V Review: A Pro Vlogging Camera At A Mirrorless Price - Engadget
