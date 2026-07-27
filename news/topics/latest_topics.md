@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-27 23:39_
+_Updated: 2026-07-28 01:40_
 
 ## Top Stories
 
-- Tre personer påkörda vid klippa - Aftonbladet
 - Minister: 162 gripna för skogsbränder i Frankrike - Dagens Nyheter
-- Trump: Bra samtal med Iran - Corren
 - HANS STIGSSON: Terrordådet en utmaning för många – också i Sverige - NT
-- Försvunnen bärplockare i Jukkasjärvi hittad vid liv - Sveriges Radio
-- 15-åring gripen efter skjutning vid festival i Seattle - SVT Nyheter
+- Larm om flera påkörda i Mark - Expressen
+- Bisarra filmen: Uppmanar till giftmord på Melania Trump - Aftonbladet
+- Zelenskyj träffar Burnham - SVT Nyheter
+- Man död i arbetsplatsolycka i Kävlinge - Omni – Alla nyheter. Alla perspektiv.
 - SMHI: Stor risk för skogsbränder - Corren
-- Stopp på E6 – långa köer utanför Helsingborg - SVT Nyheter
+- Man hittad vid liv utanför Kiruna – räddningsinsats avslutad - SVT Nyheter
+- Just nu: Varning för djur på vägen på E4 - NT
 - Extremhetta på väg – nya bränder kan blossa upp - Göteborgs-Posten
-- Arbogascouter på jättejamboree i Skåne - Magazin24
-- DN Direkt – Nytt våld i Nigeria – över 30 döda - Dagens Nyheter
 - Trump anmärker på Netanyahu innan möte - Västerbottens-Kuriren
 - Björn af Kleen: Trumps kompanjon trodde att presidenten gick att styra - Dagens Nyheter
-- Trippelsmäll mot Putin i natt – slår till mot flera städer - Expressen
-- Blandat på Wall Street – oljepriset rasade - Västerbottens-Kuriren
+- Flera uppges döda i ukrainska attacker i Ryssland - Västerbottens-Kuriren
+- 15-åring gripen efter skjutning vid festival i Seattle - SVT Nyheter
+- Bensin- och dieselpriserna sänktes under måndagen - Örebronyheter
+- Blandat på Wall Street – oljepriset rasade - Aftonbladet
 - Stockholmsbörsen inledde uppåt - Folkbladet
-- Shein redovisar förlust – varnar för USA- och EU-tullar - Dagens Handel
-- Porsche investerar 2,1 miljarder euro och ska minska personalstyrkan med 5 000 - Börsvärlden
+- Shein gör storförlust inför börsnotering i Hongkong - Omni – Alla nyheter. Alla perspektiv.
+- Sonys marknadsföring av vinylspelaren väcker ilska hos kritiker som motsätter sig att fysiska PS5-spelskivor fasas ut - notebookcheck.se
 - Tomb Raider: Catalyst skjuts upp till 2028 - Börsvärlden
-- Dags att uppdatera din Apple-enheter – iOS 26.6 är här - Teknikveckan
 
 ## World News
 
@@ -42,11 +42,11 @@ _Updated: 2026-07-27 23:39_
 - Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
 
@@ -61,15 +61,15 @@ _Updated: 2026-07-27 23:39_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
