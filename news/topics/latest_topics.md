@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-28 22:01_
+_Updated: 2026-07-28 23:39_
 
 ## Top Stories
 
-- Första mötet mellan Netanyahu och Trump sedan tonen hårdnade - SVT Nyheter
-- Experten varnar för ”snabbmatsterrorism” efter terrorattacken i Berlin - Göteborgs-Posten
+- Båt och fartyg i kollision – stort pådrag - Göteborgs-Posten
 - Sommarvärmen tillbaka – för blixtvisit - Svenska Dagbladet
-- DN Direkt – Zelenskyj på plats vid Vita huset - Dagens Nyheter
-- Försvunnen bärplockare hittad – vårdas med livshotande skador - Sveriges Radio
-- Vinodlare ser livsverk gå upp i rök: ”Hemskt” - Göteborgs-Posten
-- 20-tal etiopier anmälda försvunna efter Gothia cup - Göteborgs-Posten
-- Stockholm Pride i gång: ”Är inte villig att bli skrämd tillbaka in i garderoben” - Dagens Nyheter
-- Barn påkört – kvinna gripen - Västerbottens-Kuriren
-- Man misstänks för rattfylleri efter vårdslös körning på E4 - SVT Nyheter
-- Över tusen döda i ebola - 8 Sidor
-- Brand på tankfartyg i Norge – ingen skadad - Göteborgs-Posten
+- Första mötet mellan Netanyahu och Trump sedan tonen hårdnade - SVT Nyheter
 - Övertänd husvagn på camping - Expressen
-- Kraftig jordbävning i Japan - Västerbottens-Kuriren
+- Bryssel skickar brandflyg och nödhjälp – men öppnar för mer utsläpp - Dagens Nyheter
+- Tillverkare: Ballistisk robot avfyras mot Moskva i höst - Dagens Nyheter
+- Man död efter mc-olycka i Smedjebacken - SVT Nyheter
+- Stockholm Pride i gång: ”Är inte villig att bli skrämd tillbaka in i garderoben” - Dagens Nyheter
+- Barn påkört i Eskilstuna – kvinna gripen - Västerbottens-Kuriren
+- Misstänkt rattfyllerist stoppad efter vansinnesfärd på E4 - Corren
+- Stubb träffade Zelenskyj i Vita huset - Hufvudstadsbladet – HBL
+- Köpcenter kollapsade efter skalv i Japan - Göteborgs-Posten
+- Uganda fritt från ebola – smittan ökar i grannlandet - Omni – Alla nyheter. Alla perspektiv.
+- Ukraina: Iran måste upphöra med stöd till Ryssland - Dagens Nyheter
 - Förvaltaren: Här är AI-aktierna att köpa i raset - Dagens industri
 - Satsade på riskfyllda aktien – sen kom raset - Svenska Dagbladet
+- Stora nedskärningar på gång – tusentals jobb försvinner hos Visa - Börskollen
 - EU missar målen grovt – men Sverige ligger bra till - Dagens PS
-- Visa skär ned med 7 procent av personalstyrkan - Market.se
-- Chattar med AI:n Claude kunde hittas öppet på nätet - Omni – Alla nyheter. Alla perspektiv.
 - Apple TV, HomePod mini och Apple Home Hub med 7-tums pekskärm sägs lanseras snart - notebookcheck.se
+- Chattar med AI:n Claude kunde hittas öppet på nätet - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
@@ -54,18 +54,18 @@ _Updated: 2026-07-28 22:01_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -86,9 +86,9 @@ _Updated: 2026-07-28 22:01_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
@@ -121,19 +121,19 @@ _Updated: 2026-07-28 22:01_
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Sherry Nakhaeizadeh - Uppsala universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - The 4th Malmö Work Science Meeting - Malmö universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
