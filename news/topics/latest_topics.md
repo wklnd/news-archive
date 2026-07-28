@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-28 01:40_
+_Updated: 2026-07-28 02:59_
 
 ## Top Stories
 
-- Minister: 162 gripna för skogsbränder i Frankrike - Dagens Nyheter
 - HANS STIGSSON: Terrordådet en utmaning för många – också i Sverige - NT
-- Larm om flera påkörda i Mark - Expressen
+- Minister: 162 gripna för skogsbränder i Frankrike - Dagens Nyheter
+- Två bilar i krock i Marks kommun – fyra skadade - SVT Nyheter
 - Bisarra filmen: Uppmanar till giftmord på Melania Trump - Aftonbladet
-- Zelenskyj träffar Burnham - SVT Nyheter
-- Man död i arbetsplatsolycka i Kävlinge - Omni – Alla nyheter. Alla perspektiv.
+- Sändarna förvirrar Kremls luftvärn – Ukraina får tillverka egna - Dagens Nyheter
+- Programledarstjärnans vädjan till kidnapparna: ”Gör det rätta” - Sveriges Radio
 - SMHI: Stor risk för skogsbränder - Corren
 - Man hittad vid liv utanför Kiruna – räddningsinsats avslutad - SVT Nyheter
-- Just nu: Varning för djur på vägen på E4 - NT
-- Extremhetta på väg – nya bränder kan blossa upp - Göteborgs-Posten
+- Död efter olycka på gård i Skåne - Västerbottens-Kuriren
+- Rådjur på fel sida av viltstängslet på E4 - SN, Södermanlands Nyheter
 - Trump anmärker på Netanyahu innan möte - Västerbottens-Kuriren
-- Björn af Kleen: Trumps kompanjon trodde att presidenten gick att styra - Dagens Nyheter
-- Flera uppges döda i ukrainska attacker i Ryssland - Västerbottens-Kuriren
-- 15-åring gripen efter skjutning vid festival i Seattle - SVT Nyheter
-- Bensin- och dieselpriserna sänktes under måndagen - Örebronyheter
+- Trump: Bra samtal med Iran - Hufvudstadsbladet – HBL
+- Flera uppges döda i ukrainska attacker i Ryssland - Göteborgs-Posten
+- DN Direkt – Artisten D4vd ställs inför rätta för mord - Dagens Nyheter
 - Blandat på Wall Street – oljepriset rasade - Aftonbladet
 - Stockholmsbörsen inledde uppåt - Folkbladet
 - Shein gör storförlust inför börsnotering i Hongkong - Omni – Alla nyheter. Alla perspektiv.
+- Bensin- och dieselpriserna sänktes under måndagen - Örebronyheter
 - Sonys marknadsföring av vinylspelaren väcker ilska hos kritiker som motsätter sig att fysiska PS5-spelskivor fasas ut - notebookcheck.se
 - Tomb Raider: Catalyst skjuts upp till 2028 - Börsvärlden
 
@@ -41,12 +41,12 @@ _Updated: 2026-07-28 01:40_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
-- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -62,14 +62,14 @@ _Updated: 2026-07-28 01:40_
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -78,21 +78,21 @@ _Updated: 2026-07-28 01:40_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -110,12 +110,12 @@ _Updated: 2026-07-28 01:40_
 - Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
 ## Science
 
