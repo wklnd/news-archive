@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-28 06:42_
+_Updated: 2026-07-28 09:59_
 
 ## Top Stories
 
-- DN Direkt – Minister: 162 gripna för skogsbränderna - Dagens Nyheter
-- Två bilar i krock i Marks kommun – fyra skadade - SVT Nyheter
-- Anrik villa i Göteborg ska säljas – föreningen kastas ut - Göteborgs-Posten
+- Kampen mot bränderna hotas av ny värmebölja - Göteborgs-Posten
 - Fakta i frågan: Har läget i utsatta bostadsområden blivit sämre eller bättre? - Dagens Nyheter
-- Björn af Kleen: Trumps kompanjon trodde att presidenten gick att styra - Dagens Nyheter
-- Flera uppges döda i ukrainska attacker i Ryssland - Västerbottens-Kuriren
-- Död efter olycka på gård i Skåne - Västerbottens-Kuriren
-- Skottlossning i Upplands Väsby - SVT Nyheter
-- Man hittad död utomhus - SVT Nyheter
+- Anrik villa i Göteborg ska säljas – föreningen kastas ut - Göteborgs-Posten
+- Iransk nyhetsbyrå uppmanar till mord på Melania Trump - Dagens Nyheter
+- Pojke åtalas för att ha kört A-traktor i 150 genom Fjärås - Sveriges Radio
+- HANS STIGSSON: Terrordådet en utmaning för många – också i Sverige - NT
 - 80-årige bärplockaren hittad vid liv - Norran
-- Trump anmärker på Netanyahu innan möte - Västerbottens-Kuriren
+- SMHI varnar för ökad brandrisk i Jönköpings län - SVT Nyheter
+- Krock utanför Hällingsjö – fyra personer till sjukhus - Göteborgs-Posten
+- Kastade föremål mot blåljuspersonal - Nerikes Allehanda
+- Direkt – Krisen i Mellanöstern – Bosättare kastar sten på Västbanken - Dagens Nyheter
 - DN Direkt – Regeringens dejtingapp gav 265 giftermål i Japan - Dagens Nyheter
-- Ny natt med stenkastning på Västbanken - Aftonbladet
-- Iran: Tanker har gått på mina i Hormuzsundet - Corren
+- Ryssland: 400 drönare mot Moskva - Corren
+- Trump: Bra samtal med Iran - Västerbottens-Kuriren
 - Teknikjättar ska samarbeta om AI-försvar - Dagens industri
-- Blandat på Wall Street – oljepriset rasade - Aftonbladet
-- Stockholmsbörsen inledde uppåt - Folkbladet
-- Saab får miljardorder på Global Eye från Mellanöstern - Omni – Alla nyheter. Alla perspektiv.
+- DN Direkt – Ny AI-frossa i Asien – stora börsras - Dagens Nyheter
+- Elon Musk u-svänger – ger bort alla sina pengar? - Dagens PS
+- Börsen mot röd öppning efter AI-oro - Omni – Alla nyheter. Alla perspektiv.
 - Sonys marknadsföring av vinylspelaren väcker ilska hos kritiker som motsätter sig att fysiska PS5-spelskivor fasas ut - notebookcheck.se
-- Tomb Raider: Catalyst försenas till 2028 - Nordichardware
+- Xbox ber om ursäkt för gårdagens strul och avbrott - FZ.se
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på idag 12:40 - TV.nu
 - FISU World University Orienteering Championships begin in Portugal on Tuesday - International Orienteering Federation
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sverige världens bästa land att leva i – toppar ny global lista - News55
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
@@ -81,6 +81,7 @@ _Updated: 2026-07-28 06:42_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2026-07-28 06:42_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -122,8 +122,8 @@ _Updated: 2026-07-28 06:42_
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
@@ -133,16 +133,17 @@ _Updated: 2026-07-28 06:42_
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Avdelningen för fotonik - Chalmers tekniska högskola
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
 - Swedfund investerar för att stärka klimatanpassningen i Afrikas livsmedelssystem - Mynewsdesk
+- Dien Bien Farmers' Association främjar en "grönare" jordbruksmiljö. - Vietnam.vn
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
@@ -161,4 +162,3 @@ _Updated: 2026-07-28 06:42_
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
-- Hellre plöjningsfri odling än ekologisk - Land.se
