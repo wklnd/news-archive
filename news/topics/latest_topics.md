@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-28 23:39_
+_Updated: 2026-07-29 01:42_
 
 ## Top Stories
 
-- Båt och fartyg i kollision – stort pådrag - Göteborgs-Posten
-- Sommarvärmen tillbaka – för blixtvisit - Svenska Dagbladet
-- Första mötet mellan Netanyahu och Trump sedan tonen hårdnade - SVT Nyheter
-- Övertänd husvagn på camping - Expressen
+- Allvarlig båtolycka utanför Tjörn – två saknas - Sydsvenskan
+- Värmen kommer tillbaka – här blir det över 30 grader - TV4 Nyheterna
+- USA: Iran har attackerat amerikanska mål – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Bryssel skickar brandflyg och nödhjälp – men öppnar för mer utsläpp - Dagens Nyheter
-- Tillverkare: Ballistisk robot avfyras mot Moskva i höst - Dagens Nyheter
-- Man död efter mc-olycka i Smedjebacken - SVT Nyheter
+- Britt-Marie Mattsson: Trump känner sig lurad – nu tvingas han möta Netanyahu - Göteborgs-Posten
+- 20-tal spelare som tävlade i Gothia cup är försvunna - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Pride i gång: ”Är inte villig att bli skrämd tillbaka in i garderoben” - Dagens Nyheter
-- Barn påkört i Eskilstuna – kvinna gripen - Västerbottens-Kuriren
+- SMHI: Lokalt extremt stor risk för skogsbränder i länet - NT
 - Misstänkt rattfyllerist stoppad efter vansinnesfärd på E4 - Corren
-- Stubb träffade Zelenskyj i Vita huset - Hufvudstadsbladet – HBL
+- Påkört barn utanför Eskilstuna – kvinna gripen - SVT Nyheter
 - Köpcenter kollapsade efter skalv i Japan - Göteborgs-Posten
-- Uganda fritt från ebola – smittan ökar i grannlandet - Omni – Alla nyheter. Alla perspektiv.
 - Ukraina: Iran måste upphöra med stöd till Ryssland - Dagens Nyheter
-- Förvaltaren: Här är AI-aktierna att köpa i raset - Dagens industri
+- Brand i husvagn på campingplats vid Ylseröd - TV4 Nyheterna
+- Brand ombord på tankfartyg i Norge - UNT
+- Kinesisk konkurrens skakar om världens börser - Sveriges Radio
 - Satsade på riskfyllda aktien – sen kom raset - Svenska Dagbladet
 - Stora nedskärningar på gång – tusentals jobb försvinner hos Visa - Börskollen
-- EU missar målen grovt – men Sverige ligger bra till - Dagens PS
+- Blandat på Wall Street – oljepriset rasade - Aftonbladet
 - Apple TV, HomePod mini och Apple Home Hub med 7-tums pekskärm sägs lanseras snart - notebookcheck.se
 - Chattar med AI:n Claude kunde hittas öppet på nätet - Omni – Alla nyheter. Alla perspektiv.
 
@@ -33,7 +33,6 @@ _Updated: 2026-07-28 23:39_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
@@ -41,6 +40,7 @@ _Updated: 2026-07-28 23:39_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Sverige världens bästa land att leva i – toppar ny global lista - News55
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
@@ -86,9 +86,9 @@ _Updated: 2026-07-28 23:39_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
@@ -103,7 +103,7 @@ _Updated: 2026-07-28 23:39_
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
