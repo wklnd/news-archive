@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-28 19:55_
+_Updated: 2026-07-28 22:01_
 
 ## Top Stories
 
-- 20-tal etiopier försvunna efter Gothia cup - SVT Nyheter
+- Första mötet mellan Netanyahu och Trump sedan tonen hårdnade - SVT Nyheter
+- Experten varnar för ”snabbmatsterrorism” efter terrorattacken i Berlin - Göteborgs-Posten
+- Sommarvärmen tillbaka – för blixtvisit - Svenska Dagbladet
 - DN Direkt – Zelenskyj på plats vid Vita huset - Dagens Nyheter
-- Köpcenter kollapsade efter skalv i Japan - Göteborgs-Posten
-- Nya evakueringar i eldhärjat Frankrike - Hufvudstadsbladet – HBL
-- Efter mordet i Hässelby: "Man kan nästan ta på sorgen" - Mitt i
-- Besked: Mannen med den röda halsduken är död - Västerbottens-Kuriren
-- Risken för skogsbränder är stor – men beredskapen hög - Dagens Nyheter
-- Misstänkt rattfyllerist stoppad efter vansinnesfärd på E4 - Corren
-- Tidigare L-toppen nobbar partiets pridetåg - Dagens Nyheter
-- Östersund kommun vill se fler åtgärder för elsparkcyklar: ”Är dåligt pålästa” - SVT Nyheter
-- DN Direkt – Netanyahu har anlänt till Vita huset - Dagens Nyheter
-- Brand ombord på tankfartyg i Norge - UNT
-- Ryssland delar med sig av militär spetskompetens till Kina - Dagens Nyheter
-- DN Direkt – Grahams kista bars in i Kapitolium - Dagens Nyheter
-- Kinesisk konkurrens skakar om världens börser - Sveriges Radio
-- Storytel och Nibe i fokus när Stockholmsbörsen steg - Affärsvärlden
-- Svantesson: Skattesänkning på bensin gör mig stolt - Omni – Alla nyheter. Alla perspektiv.
-- 3 725 000 kronor blev priset för villa i Norrtälje - UNT
+- Försvunnen bärplockare hittad – vårdas med livshotande skador - Sveriges Radio
+- Vinodlare ser livsverk gå upp i rök: ”Hemskt” - Göteborgs-Posten
+- 20-tal etiopier anmälda försvunna efter Gothia cup - Göteborgs-Posten
+- Stockholm Pride i gång: ”Är inte villig att bli skrämd tillbaka in i garderoben” - Dagens Nyheter
+- Barn påkört – kvinna gripen - Västerbottens-Kuriren
+- Man misstänks för rattfylleri efter vårdslös körning på E4 - SVT Nyheter
+- Över tusen döda i ebola - 8 Sidor
+- Brand på tankfartyg i Norge – ingen skadad - Göteborgs-Posten
+- Övertänd husvagn på camping - Expressen
+- Kraftig jordbävning i Japan - Västerbottens-Kuriren
+- Förvaltaren: Här är AI-aktierna att köpa i raset - Dagens industri
+- Satsade på riskfyllda aktien – sen kom raset - Svenska Dagbladet
+- EU missar målen grovt – men Sverige ligger bra till - Dagens PS
+- Visa skär ned med 7 procent av personalstyrkan - Market.se
 - Chattar med AI:n Claude kunde hittas öppet på nätet - Omni – Alla nyheter. Alla perspektiv.
 - Apple TV, HomePod mini och Apple Home Hub med 7-tums pekskärm sägs lanseras snart - notebookcheck.se
 
@@ -37,15 +37,15 @@ _Updated: 2026-07-28 19:55_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Sverige världens bästa land att leva i – toppar ny global lista - News55
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
