@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-28 20:02_
+_Updated: 2026-07-28 22:05_
 
-- Lindsey Graham Funeral Services Live Updates: Trump to Lead Tributes to Late Senator - The New York Times
-- Japan earthquake searches continue into night, with people missing in mall and collapsed factory - BBC
-- Speak or resign: Beshear ups demand for McConnell health status - Axios
-- Netanyahu joins Trump for high-stakes meeting at the White House - NBC News
-- Rand Paul releases Dr. Anthony Fauci’s diaries ahead of hearing showdown - CNN
-- As U.S. Pauses Strikes, Iran Is No Rush to Resume Cease-Fire Talks - The New York Times
-- 'A lover of life' - Seattle pays tribute to food festival shooting victims - BBC
-- Search for North Carolina woman Liz Waddell is still a missing person case, Grenada police say - NBC News
+- Washington says goodbye to Sen. Lindsey Graham, a ‘true American original’ - NBC News
+- Trump, Netanyahu tout "productive" meeting after weeks of tensions - Axios
+- Live updates: Japan earthquake; Many people trapped in collapsed shopping mall - CNN
+- Kentucky Gov. Beshear demands McConnell ‘prove capacity to serve’ or resign - The Washington Post
+- Fauci privately took credit for COVID-19 lockdowns despite public denial, newly exposed diary entries reveal - Fox News
+- Asylum seekers could be sent directly to deportation under new federal rule - The Washington Post
+- Zelenskyy has a 'good meeting' with Trump at the White House as he seeks more cooperation with US - AP News
+- Grenada authorities deliver update on search for missing Cary woman - Raleigh News & Observer
+- Lindsay Clancy's jury will tour home where she's accused of killing kids - WCVB
 - Aide Who Had Affair With Newsom 20 Years Ago Details Her Experience - The New York Times
-- As Lindsay Clancy trial begins, her ex-husband describes growing concern for his children's safety - WBUR
 - ‘Ash fell from the sky’: Tourists describe fleeing ‘apocalyptic’ wildfires in France - The Guardian
 - Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz - Reuters
-- Hundreds of Ukrainian Drones Target Moscow in Overnight Blitz - The Moscow Times
-- US walks out of UN Security Council meeting during France's remarks - BBC
+- Why Iran Is in No Rush to Return to Talks With United States - The New York Times
+- Woman murdered in 1936 and buried underneath building is finally identified: "One of Toronto's oldest mysteries" - CBS News
+- Stock Market Today: Dow Opens Higher, Micron Stock Slides as Investors Rotate Out of Chip Stocks — Live Updates - WSJ
 - From Cracker Barrel to Boeing, Companies Are Turning to Retired CEOs - WSJ
-- Chip stocks are crashing as the rest of the market barely flinches: AlphaCheck - Yahoo Finance
-- Apple briefly becomes second company ever to notch $5 trillion market value - Reuters
+- eBays agreed to pay nearly $50 million to couple sent cockroaches, bloody pig mask - AP News
 - Will tough talk be enough? Fed Chair Warsh faces pressure to combat inflation - AP News
-- Apple Retires iPhone Upgrade Program for Klarna-Backed Leases - MacRumors
-- [Galaxy Unpacked July 2026] A First Look at Galaxy Z Fold8 Ultra, Galaxy Z Fold8 and Galaxy Z Flip8 - Samsung Global Newsroom
+- Apple to lease iPhones, other products to users through Klarna partnership - Fox Business
+- Apple Set to Make Big Smart Home Push With Siri AI at Center - Bloomberg.com
