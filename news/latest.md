@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-28 10:04_
+_Updated: 2026-07-28 13:00_
 
-- Why this time around, Netanyahu’s meeting with Trump might not go to script - CNN
+- ‘A disaster for America First’: Trump allies fear Netanyahu meeting will pull US deeper into war with Iran - Politico
+- Fauci diaries, released by Sen. Rand Paul, touch on COVID origins and tense relationship with Trump - CBS News
 - Spain and France brace for new heatwaves as wildfire closes in on Bordeaux - BBC
 - Trump administration asks Supreme Court to allow new limits on mail ballots - The Washington Post
-- Rand Paul releases Anthony Fauci's pandemic-era diary notes. Here's what they tell us - NPR
-- A shootout that killed 3 at a food festival near Seattle's Space Needle may have been gang-related - AP News
-- Recap: Lindsay Clancy trial begins with opening statements, ex-husband on stand - NBC Boston
+- Trial of Lindsay Clancy, Accused of Murdering Her Children, Begins With Ex-Husband’s Testimony - The New York Times
+- Oman, Iran, benefiting from lull in US strikes, approach deal to reopen Strait of Hormuz - report - The Jerusalem Post
+- Community gathers for vigil after deadly Bite of Seattle mass shooting - KOMO
 - Bryan Kohberger wants out of his plea deal. Here’s what experts say about his chances - CNN
-- Fiery Michigan Senate primary reaches final stretch: Takeaways from El-Sayed, Stevens debate - The Hill
-- Pentagon relabels U.S. casualties caused by Iran amid scrutiny of wartime transparency - The Washington Post
-- Zelenskyy comes to Washington looking for unexpected new friends - Politico
-- Iran War Live Updates: Trump says U.S. will "go back to doing what we were doing" if new talks stall - CBS News
-- Berlin police kill suspect in Pride festival attack after manhunt - NBC News
-- Iran-Oman Talks Focused on Restarting Hormuz Shipping Traffic - Bloomberg.com
-- US diplomats walk out as France addresses UN Security Council - Al Jazeera
-- Cracker Barrel CEO Stepping Down After Logo Controversy, Activist Pressure - WSJ
-- South Korea’s Kospi index sinks more than 10% on heavy selling of chipmaking stocks - Yahoo Finance
+- Washington says goodbye to Sen. Lindsey Graham - NBC News
+- AIPAC Attacks and an ‘Ogre’ Jab: 6 Takeaways From Michigan’s Senate Debate - The New York Times
+- Major earthquake hits Japan's Kyushu region - Reuters
+- Almost 400 Ukrainian drones attack Moscow and Moscow region - Meduza
+- Trump Backs New Talks but It’s Unclear What He Hopes to Achieve This Time - The New York Times
+- Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM - Al Jazeera
+- Stock Market Today: Nasdaq Futures Slip After Chip Selloff Deepens in Asia; Oil Retreats — Live Updates - WSJ
+- Cracker Barrel CEO steps down a year after logo debacle that drew Trump’s attention - NBC News
+- OpenAI Close to Landing $500 Billion Data Center With Nvidia’s Backing - The New York Times
 - Sam Altman says the Hugging Face hack is a reminder that an AI power monopoly could lead to 'long-term disaster' - Business Insider
-- Johnson & Johnson offers $5.5bn to settle talc cancer lawsuits - Al Jazeera
 - Microsoft unveils AI security tools it says outperform competing platforms - Ars Technica
-- The 34-Hour Laptop Is Here. Here’s Why Battery Life Has Exploded in Recent Years - CNET
+- Hugging Face is being used to easily undress women and children - The Verge
