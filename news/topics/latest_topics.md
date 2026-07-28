@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-28 12:57_
+_Updated: 2026-07-28 15:09_
 
 ## Top Stories
 
-- Klart: Zinedine Zidane blir ny fransk förbundskapten - Omni – Alla nyheter. Alla perspektiv.
-- Jordbävning i södra Japan – tsunamivarning utfärdad - SVT Nyheter
-- Jonas Falk döms igen – fraktade tonvis med kokain - Göteborgs-Posten
-- DN Direkt – Hundratals frivilliga deltar i kampen mot bränderna - Dagens Nyheter
+- Kraftig jordbävning i Japan – flera döda - Dagens Nyheter
+- Kampen mot bränderna hotas av ny värmebölja - Göteborgs-Posten
+- Jonas Falk döms till fängelse för narkotikabrott - SVT Nyheter
 - Två krigsledare söker Trumps stöd i samband med senatorns begravning - Dagens Nyheter
-- Polisen utreder misstänkt dråp i Sollefteå – kvinna hittad död - Sveriges Radio
+- Adam Cwejman: Efter Berlin Pride-dådet talar de om allt utom islamismen - Göteborgs-Posten
+- Under norska jättebranden: Brandposter var torra - Västerbottens-Kuriren
 - Tonårspojkar begärs häktade för mord i Hässelby - Göteborgs-Posten
-- 80-årige bärplockaren hittad vid liv - Norran
-- Krock utanför Hällingsjö – fyra personer till sjukhus - Göteborgs-Posten
-- Fakta i frågan: Har läget i utsatta bostadsområden blivit sämre eller bättre? - Dagens Nyheter
-- DN Direkt – Källor: Fem döda spädbarn hittade i Frankrike - Dagens Nyheter
+- Katt fastnade i fönster och dog – kvinna döms för djurplågeri - Skånska Dagbladet
+- SMHI: Lokalt extremt stor risk för skogsbränder i länet - Corren
+- DN Direkt – Skottlossning mot balkong i Upplands Väsby – ung man gripen - Dagens Nyheter
+- Fem döda spädbarn hittade – kvarlevorna låg i kartonger - Skånska Dagbladet
 - Ryssland: 400 drönare mot Moskva - Corren
-- Iransk nyhetsbyrå uppmanar till mord på Melania Trump - Dagens Nyheter
 - Två aktivister avrättade i Iran - Göteborgs-Posten
+- Trump: Bra samtal med Iran - Corren
 - Storytel får upprepad köprekommendation av SB1 efter stark Q2-rapport - Affärsvärlden
-- Teknikjättar ska samarbeta om AI-försvar - Dagens industri
 - Därför dyker oljan: ”Första tecken på nedtrappning” - EFN
-- Daniel Eks förmögenhet växer – kan vara tredje rikast - Omni – Alla nyheter. Alla perspektiv.
+- Bränderna ritar om Europas turistkarta – tre viktiga förändringar - Dagens Nyheter
+- Miljardtrenden på väg till Sverige – trots insiderskandaler - Dagens PS
+- Chattar med AI:n Claude kunde hittas öppet på nätet - Omni – Alla nyheter. Alla perspektiv.
 - Sonys marknadsföring av vinylspelaren väcker ilska hos kritiker som motsätter sig att fysiska PS5-spelskivor fasas ut - notebookcheck.se
-- IOS 26.6 ute nu – viktiga säkerhetsfixar och förbereder för IOS 27 - mobil.se
 
 ## World News
 
+- Fitch varnar: AI-ras är stor global kreditrisk - Dagens industri
 - GT World Challenge America, Sebring International Raceway på idag 12:40 - TV.nu
 - FISU World University Orienteering Championships begin in Portugal on Tuesday - International Orienteering Federation
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Sverige världens bästa land att leva i – toppar ny global lista - News55
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
-- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
@@ -81,10 +81,10 @@ _Updated: 2026-07-28 12:57_
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -96,19 +96,19 @@ _Updated: 2026-07-28 12:57_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
@@ -121,19 +121,19 @@ _Updated: 2026-07-28 12:57_
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Sherry Nakhaeizadeh - Uppsala universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - The 4th Malmö Work Science Meeting - Malmö universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
