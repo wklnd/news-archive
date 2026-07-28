@@ -1,38 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-28 17:42_
+_Updated: 2026-07-28 19:55_
 
 ## Top Stories
 
+- 20-tal etiopier försvunna efter Gothia cup - SVT Nyheter
+- DN Direkt – Zelenskyj på plats vid Vita huset - Dagens Nyheter
+- Köpcenter kollapsade efter skalv i Japan - Göteborgs-Posten
 - Nya evakueringar i eldhärjat Frankrike - Hufvudstadsbladet – HBL
-- Polisen nya spår efter dådet – Svor trohet till IS - SVT Nyheter
-- Kraftig jordbävning i Japan – tsunamivarning utfärdad - Göteborgs-Posten
-- Tre personer häktade efter dödsskjutning i Hässelby - Sveriges Radio
-- DN Direkt – Netanyahu har anlänt till Vita huset - Dagens Nyheter
-- Brand ombord på tankfartyg i Norge - Göteborgs-Posten
-- Jonas Falk döms till fängelse för narkotikabrott - SVT Nyheter
+- Efter mordet i Hässelby: "Man kan nästan ta på sorgen" - Mitt i
+- Besked: Mannen med den röda halsduken är död - Västerbottens-Kuriren
 - Risken för skogsbränder är stor – men beredskapen hög - Dagens Nyheter
-- Simskola flyttade när badklådan slog till - Dagens Nyheter
-- Katt fastnade i fönster och dog – kvinna döms för djurplågeri - Skånska Dagbladet
+- Misstänkt rattfyllerist stoppad efter vansinnesfärd på E4 - Corren
+- Tidigare L-toppen nobbar partiets pridetåg - Dagens Nyheter
+- Östersund kommun vill se fler åtgärder för elsparkcyklar: ”Är dåligt pålästa” - SVT Nyheter
+- DN Direkt – Netanyahu har anlänt till Vita huset - Dagens Nyheter
+- Brand ombord på tankfartyg i Norge - UNT
 - Ryssland delar med sig av militär spetskompetens till Kina - Dagens Nyheter
-- Zelenskyj till Vita huset – ska träffa Trump - Hufvudstadsbladet – HBL
-- Ryssland: 400 drönare mot Moskva - Corren
-- Fem döda spädbarn hittade i Frankrike - Göteborgs-Posten
-- Storytel får upprepad köprekommendation av SB1 efter stark Q2-rapport - Affärsvärlden
-- Bränderna ritar om Europas turistkarta – tre viktiga förändringar - Dagens Nyheter
+- DN Direkt – Grahams kista bars in i Kapitolium - Dagens Nyheter
+- Kinesisk konkurrens skakar om världens börser - Sveriges Radio
+- Storytel och Nibe i fokus när Stockholmsbörsen steg - Affärsvärlden
 - Svantesson: Skattesänkning på bensin gör mig stolt - Omni – Alla nyheter. Alla perspektiv.
-- Svenska AI-aktier pressas – experten varnar för överreaktion - EFN
+- 3 725 000 kronor blev priset för villa i Norrtälje - UNT
 - Chattar med AI:n Claude kunde hittas öppet på nätet - Omni – Alla nyheter. Alla perspektiv.
-- Samsung Galaxy A37 mot Xiaomi Poco X8 Pro – Vilken har bäst prestanda? - mobil.se
+- Apple TV, HomePod mini och Apple Home Hub med 7-tums pekskärm sägs lanseras snart - notebookcheck.se
 
 ## World News
 
-- Fitch varnar: AI-ras är stor global kreditrisk - Dagens industri
 - GT World Challenge America, Sebring International Raceway på idag 12:40 - TV.nu
 - FISU World University Orienteering Championships begin in Portugal on Tuesday - International Orienteering Federation
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
@@ -42,7 +43,6 @@ _Updated: 2026-07-28 17:42_
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Sverige världens bästa land att leva i – toppar ny global lista - News55
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
@@ -50,19 +50,19 @@ _Updated: 2026-07-28 17:42_
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
