@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-28 15:09_
+_Updated: 2026-07-28 17:42_
 
 ## Top Stories
 
-- Kraftig jordbävning i Japan – flera döda - Dagens Nyheter
-- Kampen mot bränderna hotas av ny värmebölja - Göteborgs-Posten
+- Nya evakueringar i eldhärjat Frankrike - Hufvudstadsbladet – HBL
+- Polisen nya spår efter dådet – Svor trohet till IS - SVT Nyheter
+- Kraftig jordbävning i Japan – tsunamivarning utfärdad - Göteborgs-Posten
+- Tre personer häktade efter dödsskjutning i Hässelby - Sveriges Radio
+- DN Direkt – Netanyahu har anlänt till Vita huset - Dagens Nyheter
+- Brand ombord på tankfartyg i Norge - Göteborgs-Posten
 - Jonas Falk döms till fängelse för narkotikabrott - SVT Nyheter
-- Två krigsledare söker Trumps stöd i samband med senatorns begravning - Dagens Nyheter
-- Adam Cwejman: Efter Berlin Pride-dådet talar de om allt utom islamismen - Göteborgs-Posten
-- Under norska jättebranden: Brandposter var torra - Västerbottens-Kuriren
-- Tonårspojkar begärs häktade för mord i Hässelby - Göteborgs-Posten
+- Risken för skogsbränder är stor – men beredskapen hög - Dagens Nyheter
+- Simskola flyttade när badklådan slog till - Dagens Nyheter
 - Katt fastnade i fönster och dog – kvinna döms för djurplågeri - Skånska Dagbladet
-- SMHI: Lokalt extremt stor risk för skogsbränder i länet - Corren
-- DN Direkt – Skottlossning mot balkong i Upplands Väsby – ung man gripen - Dagens Nyheter
-- Fem döda spädbarn hittade – kvarlevorna låg i kartonger - Skånska Dagbladet
+- Ryssland delar med sig av militär spetskompetens till Kina - Dagens Nyheter
+- Zelenskyj till Vita huset – ska träffa Trump - Hufvudstadsbladet – HBL
 - Ryssland: 400 drönare mot Moskva - Corren
-- Två aktivister avrättade i Iran - Göteborgs-Posten
-- Trump: Bra samtal med Iran - Corren
+- Fem döda spädbarn hittade i Frankrike - Göteborgs-Posten
 - Storytel får upprepad köprekommendation av SB1 efter stark Q2-rapport - Affärsvärlden
-- Därför dyker oljan: ”Första tecken på nedtrappning” - EFN
 - Bränderna ritar om Europas turistkarta – tre viktiga förändringar - Dagens Nyheter
-- Miljardtrenden på väg till Sverige – trots insiderskandaler - Dagens PS
+- Svantesson: Skattesänkning på bensin gör mig stolt - Omni – Alla nyheter. Alla perspektiv.
+- Svenska AI-aktier pressas – experten varnar för överreaktion - EFN
 - Chattar med AI:n Claude kunde hittas öppet på nätet - Omni – Alla nyheter. Alla perspektiv.
-- Sonys marknadsföring av vinylspelaren väcker ilska hos kritiker som motsätter sig att fysiska PS5-spelskivor fasas ut - notebookcheck.se
+- Samsung Galaxy A37 mot Xiaomi Poco X8 Pro – Vilken har bäst prestanda? - mobil.se
 
 ## World News
 
@@ -53,20 +53,20 @@ _Updated: 2026-07-28 15:09_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
@@ -74,16 +74,16 @@ _Updated: 2026-07-28 15:09_
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -96,19 +96,19 @@ _Updated: 2026-07-28 15:09_
 
 ## Health
 
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
+- Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
