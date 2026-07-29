@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-29 23:34_
+_Updated: 2026-07-30 00:36_
 
-- Rand Paul threatens to hold Fauci in contempt after he declines to answer questions - The Washington Post
+- Trump Administration Live Updates: Fauci Pleads Fifth in Senate Hearing on Covid Origins - The New York Times
 - U.S.-Iran Updates: Trump says Iran to "get a beating" as war expands with U.S.-Saudi strikes in Iraq - CBS News
 - Trump announces plans for sprawling Dulles Airport makeover - NBC News
-- Todd Blanche attorney general nomination on edge as Cornyn questions Trump-IRS settlement - CNBC
-- New study ranks all 50 states. See where yours landed - USA Today
-- CNN Poll: Americans doubt Trump is paying enough attention to the country’s most important problems - CNN
-- Live: Lindsay Clancy trial: Testimony resumes after Patrick Clancy's 911 call played in court - WCVB
-- Teenage Lifeguard Fights Intense Waves to Bring Boy to Safety - The New York Times
+- Courtroom hears harrowing 911 call in Lindsay Clancy case, as ex-husband recalls the day of children's killings - WBUR
+- Trump: ‘Maybe John Cornyn is upset with me’ - Politico
+- Aide who had affair with Newsom while married to his campaign manager breaks silence - The Independent
+- Viral California teen lifeguard rescue captures nation's awe. 'Perfect person you’d want out there' - Los Angeles Times
+- Federal judge rejects DOJ attempt to obtain unredacted NJ voter rolls - Politico
 - St. Paul Mayor Kaohly Her under investigation for sexual harassment allegations - MPR News
-- Some city homeowners blast pied-à-terre tax rollout - Spectrum News NY1
-- After the quake came the blast: Inside Japan's shopping mall disaster - Reuters
-- Houthis Claim Strike on Another Saudi Oil Tanker - The New York Times
-- 'Taiwan Travelogue' rethinks history, colonialism, and identity - NPR
-- Netanyahu plays it safe in a Washington that’s cooled on Israel - Politico
-- US interest rates held for fifth time in a row - BBC
-- Meta reports second-quarter results after the close - CNBC
-- Microsoft Q4 Intelligent Cloud Revenue at $39.3 Billion Vs FactSet Analyst Consensus of $38.2 Billion - Moomoo
-- Stock market today: Dow plunges by 1,100 points, S&P 500 and Nasdaq sink as yields rise on Fed's hawkish hold - Yahoo Finance
+- Red state governor pummeled online after defying Trump’s deportation orders - Fox News
+- After the quake came the blast: Inside Japan's shopping mall disaster - reuters.com
+- Houthis to copy Iran's Hormuz playbook with Red Sea toll plan - Euronews.com
+- Southern Europe burns as 3 firefighters die and France battles blaze 4 times the size of Paris - AP News
+- Iran set to receive up to 400 Chinese shoulder-fired air-defense systems within weeks - The Times of Israel
+- Fed meeting recap: Warsh says Fed won't hesitate to stop inflation, but bond market has doubts - cnbc.com
+- Meta's Q2 earnings call is today. Investors want some proof that big AI spending is starting to pay off. - businessinsider.com
+- Microsoft Profits Jump 31% as Azure Cloud Sales Surpass $100 Billion - WSJ
+- Wall Street closes down sharply after Fed holds rates unchanged - reuters.com
 - What’s the catch with the Apple Upgrade program? - The Verge
-- Sapphire Intros Radeon RX 9050 8GB Pulse Graphics Card - TechPowerUp
+- Xbox revenue drops 10 percent as Microsoft’s cloud and AI business surges - The Verge
