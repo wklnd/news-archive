@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-29 10:09_
+_Updated: 2026-07-29 13:07_
 
-- Iran attacks US bases in Middle East as Trump meets Netanyahu - Al Jazeera
-- Saudi Arabia joins U.S. military strikes on Iranian proxies - The Washington Post
-- Japan earthquake deaths rise to 13 as rescuers race to find people trapped in mall - BBC
-- Trump, Senate give tearful goodbye to Lindsey Graham - The Hill
-- Senate Confirms Jay Clayton to Lead U.S. Intelligence Community - The New York Times
-- Why Europe, the world’s fastest-warming continent, was primed to burn this summer - NBC News
-- 86 senators vote to move forward with Graham Russia sanctions bill - Axios
-- Exclusive | Longtime New Yorkers fume after being hit with massive pied-à-terre tax bills: 'Is this a witch hunt?' - New York Post
-- What Netanyahu and Zelenskyy are hoping to accomplish after meetings with Trump - PBS
-- Florida executes 2 men Tuesday, a 1st in modern death penalty history - Tampa Bay Times
-- France orders 4,000 more evacuated as fires displace a third of a million across southwest Europe - AP News
-- Iran rules out Omani proposal to manage Strait of Hormuz - Reuters
-- Trump, Netanyahu tout "productive" meeting after weeks of tensions - Axios
-- Keiko Fujimori is inaugurated as Peru's president following a narrow election victory - NPR
-- Nasdaq-100 slides into correction as global chip and memory stocks sell off - NBC News
-- Trump administration bans new Chinese humanoid robots - BBC
-- South Korea's Kospi share index falls 6% and other Asian shares are mixed as oil prices surge - AP News
-- Ford Posts Earnings Beat. Its Outlook Is Improving. - Barron's
+- Iraqi armed groups condemn ‘dangerous escalation’ after US-Saudi strikes - Al Jazeera
+- Iran launches missiles at U.S. base for first time since Trump paused strikes - Axios
+- Rescuers search for the missing after Japan earthquake as death toll rises to 13 - NPR
+- Comer warns Fauci: Biden’s pardon doesn’t cover testimony this week - The Hill
+- Trump Can’t Help Taking a Snooze at Lindsey Graham’s Funeral - Rolling Stone
+- ‘The fire has such power’: why the wildfires gripping France and Spain are off the charts - The Conversation
+- South Dakota governor fends off challenger in primary runoff - The Hill
+- Teenage school shooter in Georgia is sentenced to life without parole - The Washington Post
+- FEMA said yes to Democratic disaster requests. Trump killed them anyway. - Politico
+- NWS confirms EF-3 tornado as Fox Valley begins storm cleanup Tuesday - WLUK
+- Extreme temperatures in France and Spain as wildfires leave areas looking like a ‘war zone’ - CNN
+- Russia charges Telegram founder Durov with aiding terrorism, he gives Moscow the finger - Reuters
+- Netanyahu Finds Diminished Welcome From Trump as Iran War Drags On - WSJ
+- Oman presents Iran with Gulf-backed plan to ease Strait of Hormuz tensions - France 24
+- The Federal Reserve faces a critical decision on interest rates - NPR
+- US bans foreign-made humanoid robots, targeting China over national security - AP News
+- Mega Millions Ticket Buyer From Florida Wins $800 Million Jackpot—Here’s What They Could Take Home - Forbes
+- I Saw The New Audi Q9 Up Close. It's A Brilliant Full-Size Flagship SUV - Motor1.com
 - Apple Upgrade: 20 Things to Know Before Leasing an iPhone, iPad, or Mac - MacRumors
 - Galaxy Z Fold 8’s wide new design is reportedly selling faster than Samsung expected - 9to5Google
