@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-29 01:42_
+_Updated: 2026-07-29 02:58_
 
 ## Top Stories
 
-- Allvarlig båtolycka utanför Tjörn – två saknas - Sydsvenskan
+- Allvarlig båtolycka utanför Tjörn – två saknas - Aftonbladet
 - Värmen kommer tillbaka – här blir det över 30 grader - TV4 Nyheterna
 - USA: Iran har attackerat amerikanska mål – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Bryssel skickar brandflyg och nödhjälp – men öppnar för mer utsläpp - Dagens Nyheter
-- Britt-Marie Mattsson: Trump känner sig lurad – nu tvingas han möta Netanyahu - Göteborgs-Posten
-- 20-tal spelare som tävlade i Gothia cup är försvunna - Omni – Alla nyheter. Alla perspektiv.
+- Glada miner efter Netanyahus möte med Trump - Göteborgs-Posten
+- Många bränder startas av människor – värre av värmen - SVT Nyheter
+- Experten varnar för ”snabbmatsterrorism” efter terrorattacken i Berlin - Göteborgs-Posten
+- 20-tal etiopier försvunna efter Gothia cup - Folkbladet
+- Äldre man död i mc-olycka i Dalarna - Västerbottens-Kuriren
 - Stockholm Pride i gång: ”Är inte villig att bli skrämd tillbaka in i garderoben” - Dagens Nyheter
-- SMHI: Lokalt extremt stor risk för skogsbränder i länet - NT
-- Misstänkt rattfyllerist stoppad efter vansinnesfärd på E4 - Corren
 - Påkört barn utanför Eskilstuna – kvinna gripen - SVT Nyheter
-- Köpcenter kollapsade efter skalv i Japan - Göteborgs-Posten
+- Stubb träffade Zelenskyj i Vita huset - Hufvudstadsbladet – HBL
+- Tillverkare: Ballistisk robot avfyras mot Moskva i höst - Dagens Nyheter
+- ”Betydande” antal döda i kraftigt skalv i Japan - Västerbottens-Kuriren
 - Ukraina: Iran måste upphöra med stöd till Ryssland - Dagens Nyheter
-- Brand i husvagn på campingplats vid Ylseröd - TV4 Nyheterna
-- Brand ombord på tankfartyg i Norge - UNT
-- Kinesisk konkurrens skakar om världens börser - Sveriges Radio
+- Förvaltaren: Här är AI-aktierna att köpa i raset - Dagens industri
 - Satsade på riskfyllda aktien – sen kom raset - Svenska Dagbladet
-- Stora nedskärningar på gång – tusentals jobb försvinner hos Visa - Börskollen
-- Blandat på Wall Street – oljepriset rasade - Aftonbladet
+- Visa skär ned med 7 procent av personalstyrkan - Market.se
+- AI-aktier pressade Wall Street – samtidigt störtdök oljepriset - Börskollen
 - Apple TV, HomePod mini och Apple Home Hub med 7-tums pekskärm sägs lanseras snart - notebookcheck.se
-- Chattar med AI:n Claude kunde hittas öppet på nätet - Omni – Alla nyheter. Alla perspektiv.
+- Insider tror att Project Helix kan blockera Steam för att sänka priset på den nya Xbox-konsolen - notebookcheck.se
 
 ## World News
 
@@ -54,8 +54,8 @@ _Updated: 2026-07-29 01:42_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
@@ -86,9 +86,9 @@ _Updated: 2026-07-29 01:42_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
@@ -121,22 +121,22 @@ _Updated: 2026-07-29 01:42_
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - The 4th Malmö Work Science Meeting - Malmö universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Simple math behind major bison blunder - Forskning & Framsteg
 
