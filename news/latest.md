@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-29 17:33_
+_Updated: 2026-07-29 18:56_
 
 - Fauci declines to answer questions on covid origins, invoking Fifth Amendment - The Washington Post
 - Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading? - Al Jazeera
+- The Doctor and His Diary: What Fauci’s Innermost Musings Reveal - The New York Times
+- Secret Service 'illegally' surveilled Comey in Trump '8647' threat case: court filing - CNBC
 - McConnell Should Call In For TV Interview Or Go On Camera, Kentucky Gov. Says - Forbes
-- Thousands in Spain return home but new heatwave raises wildfire fears - BBC
-- Rescuers search for survivors after a 7.1 quake kills 18 in southwestern Japan - AP News
-- Trump commemorates Graham’s life — with sunny Netanyahu and Zelenskyy meetings - Politico
-- Florida executes 2 men Tuesday, a 1st in modern death penalty history - Tampa Bay Times
+- CNN Poll: Americans doubt Trump is paying enough attention to the country’s most important problems - CNN
 - Blanche nomination hangs by a thread as Cornyn stands by settlement ultimatum - Politico
-- 86 senators vote to move forward with Graham Russia sanctions bill - Axios
+- Florida executes 2 men Tuesday, a 1st in modern death penalty history - Tampa Bay Times
+- St. Paul Mayor Her investigated for sexual harassment allegations involving police chief - Star Tribune
 - Live: People urged to stay off roads ‘unless fleeing an area subject to flooding’ - Times Union
-- Russia charges Telegram founder Pavel Durov with aiding terrorism, seeks his arrest - CBS News
-- Antisemitic violence reaches deadliest level since 1994, new global report finds - Fox News
-- Netanyahu Finds Diminished Welcome From Trump as Iran War Drags On - WSJ
-- Houthis Claim Strike on Another Saudi Oil Tanker - The New York Times
+- Rescuers search for survivors after a 7.1 quake kills 18 in southwestern Japan - AP News
+- Ukrainian Drones Strike Targets Deep Inside Russia, Wildberries Hit Again - Radio Free Europe/Radio Liberty
+- EXCLUSIVE: Yemen's Houthis considering fees for ships sailing through Red Sea, sources say - Reuters
+- Russia charges Telegram founder Pavel Durov with facilitating terrorism - BBC
 - Uncertainty creeps into Fed's rate decision as Warsh keeps his cards hidden - Reuters
-- S&P 500 futures are flat as oil prices jump, traders brace for Fed decision: Live updates - CNBC
+- Dow tumbles 900 points as losses accelerate ahead of Fed decision: Live updates - CNBC
 - OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face - The Verge
-- SK Hynix's record profit fails to impress investors - Yahoo Finance
+- Humana Cuts Outlook Again on Lower Medicare Ratings - WSJ
+- Samsung’s Galaxy Z Fold 8 feels like the future - The Verge
 - Google’s SynthID watermark is hard to break, but it doesn’t solve AI misinformation - Ars Technica
-- Framework Laptop 13 Pro Review: A Repairable Notebook At The Top Of The Class - Engadget
