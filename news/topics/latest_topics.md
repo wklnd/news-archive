@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-29 13:02_
+_Updated: 2026-07-29 15:14_
 
 ## Top Stories
 
-- 90 meter långt lastfartyg i krock med fritidsbåt - Dagens Nyheter
-- Buss har kraschat in i träd i centrala Lund - Sydsvenskan
+- DN Direkt – Norsk tonåring skyldig till medhjälp till mord - Dagens Nyheter
+- Två saknas i vattnet efter båtolycka norr om Marstrand - SVT Nyheter
 - Spanjorer återvänder – bränderna fortsätter - Göteborgs-Posten
-- Direkt – Krisen i Mellanöstern – 20 döda i amerikanska anfall mot Irak - Dagens Nyheter
-- Ryska handelsjätten i lågor - Expressen
-- Försökte spionera för Ryssland – döms till vård - Göteborgs-Posten
-- Baudin (S) om attacken mot partilokalen: ”Oacceptabelt” - Dagens Nyheter
-- Just nu: Varnar för skyfallsliknande regn - Västerbottens-Kuriren
-- 93-åriga Kickan tränar i slalombacken: ”De tror mig inte” - Dagens Nyheter
-- 15-åring häktas – misstänks för dödskjutningen i Hässelby - SVT Nyheter
-- Filmade sig själv när hon körde för fort – döms för dödskrasch - Dagens Nyheter
-- Rapport: Antisemitismen ökar – värre än på 30 år - Hufvudstadsbladet – HBL
-- Kamp mot klockan efter det svåra skalvet i Japan - Göteborgs-Posten
-- Källor: USA har brist på luftförsvar - Barometern-OT
+- JUST NU: Flera skadade - Expressen
+- Huthierna planerar avgift i viktigt sund - Västerbottens-Kuriren
+- USA: Skjutit ned iranska robotar - Hufvudstadsbladet – HBL
+- Entré till S-lokal i Sölvesborg vandaliserad - Corren
+- Barn påkört – kvinna gripen - Västerbottens-Kuriren
+- SMHI varnar för skyfallsliknande regn - SVT Nyheter
+- Hettan kommer tillbaka – då sätts extra resurser in - Nya Lidköpings-Tidningen
+- Spanien använder urgammal lösning för att förhindra bränder – åsnor - Dagens Nyheter
+- Ryssland: En död i ukrainsk attack - Corren
+- DN Direkt – Rapport: Antisemitismen ökar – värre än på 30 år - Dagens Nyheter
+- Värmen försvårar räddningsarbetet efter dödlig jordbävning i Japan - Dagens Nyheter
 - Trendbrottet – svensk BNP backade i juni - Omni – Alla nyheter. Alla perspektiv.
-- Chefsekonomen: Viss risk för räntehöjning i kväll - Svenska Dagbladet
+- Börsen idag: Uppåt i Stockholm – Electrolux och Hexagon rusar på rapporter - Börskollen
 - Uppgifter: 8 000 medarbetare får gå från BMW - Expressen
-- Kinesisk konkurrens skakar om världens börser - Sveriges Radio
+- Sydkoreanska börsen faller igen efter oro för AI-aktier - Sveriges Radio
+- Nasaforskare häpnar: Känt rymdobjekt visar sig vara något helt annat i förklädnad - Illustrerad Vetenskap
 - För 23 år sedan var den här mobiltelefonen en sensation – kan smartphone-versionen mäta sig med den? - notebookcheck.se
-- One UI 9 har ett Pixel-liknande sökfält på hemskärmen - Swedroid
 
 ## World News
 
@@ -40,12 +40,12 @@ _Updated: 2026-07-29 13:02_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
+- Fitch varnar: AI-ras är stor global kreditrisk - Dagens industri
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
@@ -79,7 +79,6 @@ _Updated: 2026-07-29 13:02_
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -87,12 +86,13 @@ _Updated: 2026-07-29 13:02_
 - National Commercial Bank (NCB) slutför sin största kapitalökning i historien och utser två biträdande generaldirektörer. - Vietnam.vn
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
 ## Health
 
@@ -104,7 +104,7 @@ _Updated: 2026-07-29 13:02_
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Sju life science-trender 2026 - Business Region Göteborg
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
@@ -114,8 +114,8 @@ _Updated: 2026-07-29 13:02_
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 
 ## Science
 
@@ -128,17 +128,17 @@ _Updated: 2026-07-29 13:02_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
-- The 4th Malmö Work Science Meeting - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
