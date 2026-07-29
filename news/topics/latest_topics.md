@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-29 20:31_
+_Updated: 2026-07-29 23:26_
 
 ## Top Stories
 
-- Här söker poliser spår på fartyget – skeppet tagit i beslag - Dagens Nyheter
-- Föraren gripen efter busskrasch i Lund – misstänkt drograttfylleri - SVT Nyheter
-- EU varnar: Hela Europa kan stå i lågor inom några dagar - Göteborgs-Posten
-- Svenska och norska turister evakuerade på Grekland - Hufvudstadsbladet – HBL
+- Fartygets skrov undersöks efter båtolyckan - Aftonbladet
+- DN Direkt – Flera skadade i bussolycka i Lund – föraren gripen - Dagens Nyheter
+- Misstänkt farligt föremål i centrala Göteborg - Sveriges Radio
+- Spanjorer återvänder – fler bränder i Grekland - Göteborgs-Posten
+- DN Direkt – Fauci i senatsförhör om covid-19 - Dagens Nyheter
+- Zelenskyj varnar för massiva ryska attacker - Göteborgs-Posten
+- Jasmin och Marcus sa ja inför 18 000 scouter på scoutläger - Sveriges Radio
 - Nej till utökad serveringstid i Stockholm - Västerbottens-Kuriren
-- Uppgift: Amerikanskt gasfartyg träffat av drönare - Aftonbladet
-- Så ser Lycksele och Jokkmokk på landsbygdspolitik i valet - Sveriges Radio
+- Värmebölja drabbar tåg i Östergötland – hastigheten sänks - NT
 - Då stiger temperaturen till 30 grader - Markbladet
-- Entré till S-lokal i Sölvesborg vandaliserad - Corren
-- Bilar i krock på E4 söder om Sikeå - Norran
 - Nathan Shachar: När oljan hotas tar Saudiarabien steget in i kriget - Dagens Nyheter
-- Frankrike: Kremltrogen journalist utvisas - Västerbottens-Kuriren
 - Direkt – Krisen i Mellanöstern – Huthier överväger avgifter i Röda havet – utom för Kina - Dagens Nyheter
-- Kamp mot klockan efter det svåra skalvet i Japan - Göteborgs-Posten
-- Rutger Arnhults bolag tankar i Corem Property - EFN
-- Börsen svagt nedåt – Electrolux en vinnare - Göteborgs-Posten
-- Open AI: Fler tjänster nåddes av ai-agenten bakom Hugging Face-intrånget - nyteknik
-- Trendbrottet – svensk BNP backade i juni - Omni – Alla nyheter. Alla perspektiv.
+- Svenska och norska turister evakuerade på Grekland - Hufvudstadsbladet – HBL
+- USA: Skjutit ned iranska robotar - Göteborgs-Posten
+- Felicia Åkerman: Smekmånaden kan bli kort för Fed-chefen Kevin Warsh - Dagens Nyheter
+- Börsen svagt nedåt – Electrolux en vinnare - Västerbottens-Kuriren
+- Open AI: Fler tjänster nåddes av ai-agenten bakom Hugging Face-intrånget - nyteknik.se
+- BMW:s sparpaket kan slå mot 8 000 tjänster - Metal Supply
+- Apple förbereder ny smart hem‑hubb - mobil.se
 - Astronomer slår larm: Vi kommer snart att få se svarta hål explodera - Illustrerad Vetenskap
-- En ny Apple TV och HomePod mini kan lanseras i höst - Teknikveckan
 
 ## World News
 
@@ -58,7 +58,7 @@ _Updated: 2026-07-29 20:31_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Artificial intelligence in enterprises 2025 - scb.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
@@ -77,7 +77,7 @@ _Updated: 2026-07-29 20:31_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
@@ -98,11 +98,11 @@ _Updated: 2026-07-29 20:31_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - lakartidningen.se
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Sju life science-trender 2026 - Business Region Göteborg
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - lakartidningen.se
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
@@ -111,54 +111,54 @@ _Updated: 2026-07-29 20:31_
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - lakartidningen.se
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - lakartidningen.se
+- Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 
 ## Science
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Registrering av forskning baserad på nationella hälsoregister - lakartidningen.se
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Olika slutsatser från samma data - lakartidningen.se
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- SND at Almedalsveckan 2024 - snd.se
-- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - lakartidningen.se
-- Många fallgropar i arbetet att ta fram systematiska översikter - lakartidningen.se
-- 5 myter om öppen vetenskap - lakartidningen.se
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - lakartidningen.se
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
 - Sveriges förändrade lantbruk - SLU
-- Framtidens jordbruk - European Commission
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Brittiska bönder i massiv protest mot arvsskatten - ja.se
+- Framtidens jordbruk - commission.europa.eu
+- Jordbruket har en nyckelroll för att rädda klimatet - land.se
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
-- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jord, kor och klimat - SLU
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Här är världens största jordbruk - ATL
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
+- Jord, kor och klimat - SLU
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Lantbrukslogik – nu och i framtiden - SLU
-- Visning av uppkomst efter direktsådd - Land.se
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Lantbrukslogik – nu och i framtiden - SLU
+- Visning av uppkomst efter direktsådd - land.se
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - land.se
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
-- Hellre plöjningsfri odling än ekologisk - Land.se
+- Hellre plöjningsfri odling än ekologisk - land.se
