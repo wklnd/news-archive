@@ -1,40 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-29 02:58_
+_Updated: 2026-07-29 06:47_
 
 ## Top Stories
 
-- Allvarlig båtolycka utanför Tjörn – två saknas - Aftonbladet
-- Värmen kommer tillbaka – här blir det över 30 grader - TV4 Nyheterna
-- USA: Iran har attackerat amerikanska mål – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Glada miner efter Netanyahus möte med Trump - Göteborgs-Posten
-- Många bränder startas av människor – värre av värmen - SVT Nyheter
+- 90 meter långt lastfartyg i krock med fritidsbåt - Dagens Nyheter
+- Dödssiffran stiger i Japan – försvaret mobiliserat - Göteborgs-Posten
 - Experten varnar för ”snabbmatsterrorism” efter terrorattacken i Berlin - Göteborgs-Posten
-- 20-tal etiopier försvunna efter Gothia cup - Folkbladet
-- Äldre man död i mc-olycka i Dalarna - Västerbottens-Kuriren
+- Vinodlare ser livsverk gå upp i rök: ”Hemskt” - Göteborgs-Posten
+- USA: Iran har attackerat amerikanska mål – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Ryska drönaren ser dem – nu måste kulan träffa - Svenska Dagbladet
+- Svalare vecka väntar – men då kommer värmen - Nya Wermlands-Tidningen
 - Stockholm Pride i gång: ”Är inte villig att bli skrämd tillbaka in i garderoben” - Dagens Nyheter
-- Påkört barn utanför Eskilstuna – kvinna gripen - SVT Nyheter
-- Stubb träffade Zelenskyj i Vita huset - Hufvudstadsbladet – HBL
-- Tillverkare: Ballistisk robot avfyras mot Moskva i höst - Dagens Nyheter
-- ”Betydande” antal döda i kraftigt skalv i Japan - Västerbottens-Kuriren
+- SMHI: Lokalt extremt stor risk för skogsbränder i länet - NT
+- Tonårspojkar häktade för mord i Hässelby - Göteborgs-Posten
+- Glada miner efter Netanyahus möte med Trump - Corren
 - Ukraina: Iran måste upphöra med stöd till Ryssland - Dagens Nyheter
-- Förvaltaren: Här är AI-aktierna att köpa i raset - Dagens industri
-- Satsade på riskfyllda aktien – sen kom raset - Svenska Dagbladet
-- Visa skär ned med 7 procent av personalstyrkan - Market.se
-- AI-aktier pressade Wall Street – samtidigt störtdök oljepriset - Börskollen
+- Källor: USA har brist på luftförsvar - Västerbottens-Kuriren
+- Stubb träffade Zelenskyj i Vita huset - Hufvudstadsbladet – HBL
+- DN Direkt – Mestadels nedåt på Asiens börser - Dagens Nyheter
+- Storytel och Nibe i fokus när Stockholmsbörsen steg - Affärsvärlden
+- DN Direkt – Båt påkörd av handelsfartyg utanför Tjörn - Dagens Nyheter
+- Oljepriset faller – hopp om avtal mellan USA och Iran - Omni – Alla nyheter. Alla perspektiv.
 - Apple TV, HomePod mini och Apple Home Hub med 7-tums pekskärm sägs lanseras snart - notebookcheck.se
-- Insider tror att Project Helix kan blockera Steam för att sänka priset på den nya Xbox-konsolen - notebookcheck.se
+- Rykte: Nothings första smartklocka lanseras i september - Swedroid
 
 ## World News
 
-- GT World Challenge America, Sebring International Raceway på idag 12:40 - TV.nu
+- GT World Challenge America, Sebring International Raceway på inatt 00:55 - TV.nu
 - FISU World University Orienteering Championships begin in Portugal on Tuesday - International Orienteering Federation
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
@@ -42,6 +40,8 @@ _Updated: 2026-07-29 02:58_
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Sverige världens bästa land att leva i – toppar ny global lista - News55
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
@@ -50,26 +50,26 @@ _Updated: 2026-07-29 02:58_
 
 ## Technology
 
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
@@ -86,9 +86,9 @@ _Updated: 2026-07-29 02:58_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
@@ -102,20 +102,20 @@ _Updated: 2026-07-29 02:58_
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Sju life science-trender 2026 - Business Region Göteborg
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
@@ -128,17 +128,17 @@ _Updated: 2026-07-29 02:58_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
-- The 4th Malmö Work Science Meeting - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Simple math behind major bison blunder - Forskning & Framsteg
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Simple math behind major bison blunder - Forskning & Framsteg
+- Avdelningen för fotonik - Chalmers tekniska högskola
 
 ## Jordbruk
 
