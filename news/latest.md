@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-29 03:07_
+_Updated: 2026-07-29 06:51_
 
-- Netanyahu praises first meeting with Trump since launching the Iran war - AP News
 - Donald Trump and world leaders attend Lindsey Graham’s funeral - Al Jazeera
-- Kentucky Gov. Beshear demands McConnell prove ‘capacity to serve’ or resign - The Washington Post
-- GOP confirms Jay Clayton as spy chief - Politico
 - Iran launches missiles at U.S. base for first time since Trump paused strikes - Axios
-- Japan earthquake searches continue overnight, with people missing in collapsed mall and factory - BBC
-- Apalachee High School shooter Colt Gray sentenced to life without parole - NBC News
-- Newsom affair with friend's wife resurfaces amid presidential run rumors - SFGATE
+- Japan earthquake: Death toll rises to 13 as rescuers race to find people trapped in mall - BBC
+- Senate Confirms Jay Clayton to Lead U.S. Intelligence Community - The New York Times
+- Trump urges Supreme Court to overturn E. Jean Carroll’s $83M defamation verdict - CNN
+- Blurred front lines: Trump meets Zelenskyy as Ukraine, Iran wars collide - CNBC
+- Exclusive | Longtime New Yorkers fume after being hit with massive pied-à-terre tax bills: 'Is this a witch hunt?' - New York Post
 - NWS confirms EF-3 tornado as Fox Valley begins storm cleanup Tuesday - WLUK
-- US Senators Announce Deal on New Russia, Iran Sanctions Bill - Bloomberg
-- Houthis Claim Strike on Another Saudi Oil Tanker - The New York Times
+- Apalachee High School shooter Colt Gray sentenced to life without parole - NBC News
+- Ghost gun used in Seattle Center shooting, police say - The Seattle Times
+- Live updates: US and Saudi forces conduct strikes on Iranian proxies in Iraq - CNN
+- Iran Rejects Omani Proposal to Share Strait of Hormuz, Demands More Control - WSJ
 - Keiko Fujimori is inaugurated as Peru's president following a narrow election victory - NPR
-- Amboseli elephant deaths: Kenya Wildlife Service launches urgent inquiry after 14 carcasses found - BBC
-- Saudi Arabia says it shot down more drones as Houthis claim to have turned back tanker - AP News
-- Stock Market Today: Dow Opens Higher, Micron Stock Slides as Investors Rotate Out of Chip Stocks — Live Updates - WSJ
-- EXCLUSIVE: Trump administration bans new Chinese humanoid robots, to protect US AI buildout - Reuters
+- France orders 4,000 more evacuated as fires displace a third of a million across southwest Europe - AP News
+- Nasdaq-100 slides into correction as global chip and memory stocks sell off - NBC News
+- Asian technology stocks extend sell-off with SoftBank down 7% as AI plays take a hit - CNBC
 - Ford Posts Earnings Beat. Its Outlook Is Improving. - Barron's
-- Sam Altman is ready to decelerate - TechCrunch
+- Audi has a new flagship designed with the US in mind: The 2027 Q9 - Ars Technica
 - Apple Upgrade: 20 Things to Know Before Leasing an iPhone, iPad, or Mac - MacRumors
 - Galaxy Z Fold 8’s wide new design is reportedly selling faster than Samsung expected - 9to5Google
