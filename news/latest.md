@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-29 21:58_
+_Updated: 2026-07-29 23:34_
 
-- Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins - BBC
+- Rand Paul threatens to hold Fauci in contempt after he declines to answer questions - The Washington Post
+- U.S.-Iran Updates: Trump says Iran to "get a beating" as war expands with U.S.-Saudi strikes in Iraq - CBS News
+- Trump announces plans for sprawling Dulles Airport makeover - NBC News
 - Todd Blanche attorney general nomination on edge as Cornyn questions Trump-IRS settlement - CNBC
-- Trump to announce plans for Dulles Airport makeover - NBC News
-- U.S.-Iran Updates: Trump says Iran to "get a beating" as war expands with U.S.-Saudi strikes in Iraq - cbsnews.com
-- Trump officials turned to AI and a mafia killer to bolster case, Comey lawyers allege - The Guardian
-- Aide who had affair with Newsom while married to his campaign manager breaks silence - The Independent
+- New study ranks all 50 states. See where yours landed - USA Today
+- CNN Poll: Americans doubt Trump is paying enough attention to the country’s most important problems - CNN
 - Live: Lindsay Clancy trial: Testimony resumes after Patrick Clancy's 911 call played in court - WCVB
-- Photos: Donald Trump and world leaders attend Lindsey Graham’s funeral - aljazeera.com
+- Teenage Lifeguard Fights Intense Waves to Bring Boy to Safety - The New York Times
 - St. Paul Mayor Kaohly Her under investigation for sexual harassment allegations - MPR News
-- Trump and DOJ ask Supreme Court to toss $83 million defamation verdict in E. Jean Carroll case - AP News
+- Some city homeowners blast pied-à-terre tax rollout - Spectrum News NY1
 - After the quake came the blast: Inside Japan's shopping mall disaster - Reuters
-- Ukraine says it hits 2 major Russian oil refineries hours after Zelenskyy's meeting with Trump - AP News
-- Ukrainian Drones Strike Targets Deep Inside Russia, Wildberries Hit Again - Radio Free Europe/Radio Liberty
-- Will Pakistan intervene amid Houthi attacks on Saudi ships? - DW.com
-- Fed leaves rates unchanged; three policymakers dissent in favor of a hike - Reuters
-- Dow dives, S&P 500 trades lower in volatile market following Fed decision: Live updates - CNBC
-- Hims & Hers targeted in FTC lawsuit (update) (HIMS:NYSE) - Seeking Alpha
-- Cracker Barrel to pay for outgoing CEO’s security, $4.6M severance after failed rebrand - Fox Business
+- Houthis Claim Strike on Another Saudi Oil Tanker - The New York Times
+- 'Taiwan Travelogue' rethinks history, colonialism, and identity - NPR
+- Netanyahu plays it safe in a Washington that’s cooled on Israel - Politico
+- US interest rates held for fifth time in a row - BBC
+- Meta reports second-quarter results after the close - CNBC
+- Microsoft Q4 Intelligent Cloud Revenue at $39.3 Billion Vs FactSet Analyst Consensus of $38.2 Billion - Moomoo
+- Stock market today: Dow plunges by 1,100 points, S&P 500 and Nasdaq sink as yields rise on Fed's hawkish hold - Yahoo Finance
 - What’s the catch with the Apple Upgrade program? - The Verge
-- Gemini for macOS rolling out voice control and Gboard Rambler-level transcription - 9to5Google
+- Sapphire Intros Radeon RX 9050 8GB Pulse Graphics Card - TechPowerUp
