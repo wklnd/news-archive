@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-29 20:39_
+_Updated: 2026-07-29 21:58_
 
-- Anthony Fauci invokes Fifth Amendment right not to answer questions at GOP-led Covid hearing, calls Rand Paul ‘unhinged’ - NBC News
-- Iran attacks US forces in Jordan as Trump meets Netanyahu - Al Jazeera
-- Lindsay Clancy’s ex-husband testifies about the day she killed their three children - The Guardian
+- Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins - BBC
 - Todd Blanche attorney general nomination on edge as Cornyn questions Trump-IRS settlement - CNBC
-- Trump Demanded Details of Agents’ Interview of Comey, New Filing Says - The New York Times
+- Trump to announce plans for Dulles Airport makeover - NBC News
+- U.S.-Iran Updates: Trump says Iran to "get a beating" as war expands with U.S.-Saudi strikes in Iraq - cbsnews.com
+- Trump officials turned to AI and a mafia killer to bolster case, Comey lawyers allege - The Guardian
 - Aide who had affair with Newsom while married to his campaign manager breaks silence - The Independent
-- Photos: Donald Trump and world leaders attend Lindsey Graham’s funeral - Al Jazeera
-- St. Paul Mayor Her investigated for sexual harassment allegations involving police chief - Star Tribune
-- Flooding in wider Capital Region clogs up traffic Wednesday morning - WRGB
-- Sanctions Bill Would Give Trump Sweeping New Tariff Powers - The New York Times
-- Rescuers search for survivors after a 7.1 quake kills 18 in southwestern Japan - AP News
+- Live: Lindsay Clancy trial: Testimony resumes after Patrick Clancy's 911 call played in court - WCVB
+- Photos: Donald Trump and world leaders attend Lindsey Graham’s funeral - aljazeera.com
+- St. Paul Mayor Kaohly Her under investigation for sexual harassment allegations - MPR News
+- Trump and DOJ ask Supreme Court to toss $83 million defamation verdict in E. Jean Carroll case - AP News
+- After the quake came the blast: Inside Japan's shopping mall disaster - Reuters
+- Ukraine says it hits 2 major Russian oil refineries hours after Zelenskyy's meeting with Trump - AP News
 - Ukrainian Drones Strike Targets Deep Inside Russia, Wildberries Hit Again - Radio Free Europe/Radio Liberty
-- Two firefighters die in Crete as wildfires threaten parts of southern Europe - BBC
-- EXCLUSIVE: Yemen's Houthis considering fees for ships sailing through Red Sea, sources say - Reuters
-- Fed Meeting Today: FOMC, Warsh Interest-Rate Decision Soon — Live Updates - WSJ
-- Dow tumbles 900 points as losses accelerate ahead of Fed decision: Live updates - CNBC
-- Rogue OpenAI agent that hacked startup tried to attack other firms - The Guardian
-- EXCLUSIVE: US FTC sues Hims & Hers for sending user health info to Meta, Snap - Reuters
+- Will Pakistan intervene amid Houthi attacks on Saudi ships? - DW.com
+- Fed leaves rates unchanged; three policymakers dissent in favor of a hike - Reuters
+- Dow dives, S&P 500 trades lower in volatile market following Fed decision: Live updates - CNBC
+- Hims & Hers targeted in FTC lawsuit (update) (HIMS:NYSE) - Seeking Alpha
+- Cracker Barrel to pay for outgoing CEO’s security, $4.6M severance after failed rebrand - Fox Business
+- What’s the catch with the Apple Upgrade program? - The Verge
 - Gemini for macOS rolling out voice control and Gboard Rambler-level transcription - 9to5Google
-- Google Pixel’s Tensor grows as global smartphone shipments continue to fall - 9to5Google
