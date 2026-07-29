@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-29 06:47_
+_Updated: 2026-07-29 10:04_
 
 ## Top Stories
 
 - 90 meter långt lastfartyg i krock med fritidsbåt - Dagens Nyheter
-- Dödssiffran stiger i Japan – försvaret mobiliserat - Göteborgs-Posten
-- Experten varnar för ”snabbmatsterrorism” efter terrorattacken i Berlin - Göteborgs-Posten
-- Vinodlare ser livsverk gå upp i rök: ”Hemskt” - Göteborgs-Posten
-- USA: Iran har attackerat amerikanska mål – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Ryska drönaren ser dem – nu måste kulan träffa - Svenska Dagbladet
-- Svalare vecka väntar – men då kommer värmen - Nya Wermlands-Tidningen
-- Stockholm Pride i gång: ”Är inte villig att bli skrämd tillbaka in i garderoben” - Dagens Nyheter
-- SMHI: Lokalt extremt stor risk för skogsbränder i länet - NT
-- Tonårspojkar häktade för mord i Hässelby - Göteborgs-Posten
+- Rapport: Antisemitismen ökar – värre än på 30 år - Göteborgs-Posten
+- Brand i tältläger under Skanstullsbron - Mitt i
+- Nya regler för körkort: "Billigare för eleverna" - Ekuriren
+- Efter sprängdåden i Norrköping: Fem personer åtalas - Sveriges Radio
+- Drönaren ser dem – och glidbomberna är på väg - Svenska Dagbladet
+- Partilokal attackerades med eld i Sölvesborg - SVT Nyheter
+- Hettan kommer tillbaka – då sätts extra resurser in - Nya Lidköpings-Tidningen
+- 12-åringens företrädare medger att han bör vara omhändertagen - HD
+- Äldre man död i mc-olycka i Dalarna - Västerbottens-Kuriren
+- Dyrare viner efter sommarens bränder - brist hotar - NT
 - Glada miner efter Netanyahus möte med Trump - Corren
+- Köpcenter kollapsade efter skalv i Japan - Göteborgs-Posten
 - Ukraina: Iran måste upphöra med stöd till Ryssland - Dagens Nyheter
-- Källor: USA har brist på luftförsvar - Västerbottens-Kuriren
-- Stubb träffade Zelenskyj i Vita huset - Hufvudstadsbladet – HBL
-- DN Direkt – Mestadels nedåt på Asiens börser - Dagens Nyheter
-- Storytel och Nibe i fokus när Stockholmsbörsen steg - Affärsvärlden
-- DN Direkt – Båt påkörd av handelsfartyg utanför Tjörn - Dagens Nyheter
-- Oljepriset faller – hopp om avtal mellan USA och Iran - Omni – Alla nyheter. Alla perspektiv.
-- Apple TV, HomePod mini och Apple Home Hub med 7-tums pekskärm sägs lanseras snart - notebookcheck.se
-- Rykte: Nothings första smartklocka lanseras i september - Swedroid
+- Electrolux Group delårsrapport andra kvartalet 2026 (Cision) - Aktiellt
+- Börsen mot röd öppning efter ny AI-frossa i Asien - Omni – Alla nyheter. Alla perspektiv.
+- Trump ska dra in miljoner på utspel – säljer tjänst - Dagens Nyheter
+- Open AI:s skenande AI-agent komprometterade kund hos molnplattform - Computer Sweden
+- The Sinking City 2 visar skräck, action och pussel i nytt gameplay - FZ.se
+- Keychron presenterar öppen källkods-firmware för en kommande spelmus med magnetiska brytare som ska konkurrera med Logitech - notebookcheck.se
 
 ## World News
 
@@ -32,20 +32,20 @@ _Updated: 2026-07-29 06:47_
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
-- Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Sverige världens bästa land att leva i – toppar ny global lista - News55
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
@@ -54,8 +54,8 @@ _Updated: 2026-07-29 06:47_
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -67,8 +67,8 @@ _Updated: 2026-07-29 06:47_
 - Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
@@ -119,26 +119,26 @@ _Updated: 2026-07-29 06:47_
 
 ## Science
 
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Olika slutsatser från samma data - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Täta band mellan turism och forskning på Svalbard - SLU
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Simple math behind major bison blunder - Forskning & Framsteg
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Forskningen ska vara fri - European Commission
+- Täta band mellan turism och forskning på Svalbard - SLU
+- The 4th Malmö Work Science Meeting - Malmö universitet
+- AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Avdelningen för fotonik - Chalmers tekniska högskola
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
 ## Jordbruk
 
