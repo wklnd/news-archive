@@ -1,39 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-30 09:16_
+_Updated: 2026-07-30 11:58_
 
 ## Top Stories
 
-- JUST NU: Extremt stor risk för skogsbrand - Sveriges Radio
-- Detta vet vi om båtolyckan utanför Tjörn - Dagens Nyheter
-- Nya amerikanska attacker mot Iran - Hufvudstadsbladet – HBL
-- Robotanfall mot Kiev – minst en död - Västerbottens-Kuriren
-- Nu är jordens resurser slut för i år - Göteborgs-Posten
+- Mamman har hittats död efter båtolyckan vid Tjörn - aftonbladet.se
+- Bränder på Kreta – tusentals evakueras - Göteborgs-Posten
+- Barn bland de döda i ryska attacker mot Ukraina - Dagens Nyheter
+- George Clooney flyr bränderna i Frankrike - Västerbottens-Kuriren
+- USA har attackerat mål i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Rekordmånga utlandssvenskar kan rösta i valet - aftonbladet.se
+- DN Direkt – Jordens resurser slut för i år - Dagens Nyheter
+- SMHI varnar: Stor risk för skogsbrand i Värmland - SVT Nyheter
 - Villa fullt övertänd utanför Boden – stor insats på morgonen - Norrbottens-Kuriren
-- Jimmie Åkesson stängs ute – idag torsdag - Marcus Oscarsson
-- Nej till utökad serveringstid i Stockholm - Västerbottens-Kuriren
-- S-partilokal i Sölvesborg vandaliserad - Göteborgs-Posten
-- Bränder på Kreta – tusentals evakueras - Västerbottens-Kuriren
-- Minst 28 döda efter skalv i Japan - Corren
+- Ledare: Helt förståeligt att SD utesluts från Pride - Omni – Alla nyheter. Alla perspektiv.
 - Direkt – Kriget i Ukraina – Krater och bråte hittade i Polen efter ryska attacker - Dagens Nyheter
 - Fauci vägrade svara om virusets ursprung i senatsförhör - Dagens Nyheter
+- Minst 28 döda efter skalv i Japan - Corren
+- Bötfälls för sugrörs-slick - aftonbladet.se
 - Felicia Åkerman: Smekmånaden kan bli kort för Fed-chefen Kevin Warsh - Dagens Nyheter
 - Det lockar rekordmånga turister till Sverige 2026 - SVT Nyheter
 - Meta Platforms resultat sämre än väntat - aktien föll tungt i efterhandeln - Börsvärlden
-- Blandat på börserna i Asien - Västerbottens-Kuriren
-- En ny Apple TV och HomePod mini kan lanseras i höst - Teknikveckan
-- Ny Xiaomi-telefon läcker ut med flaggskeppschipsetet Snapdragon - notebookcheck.se
+- Rusade 400 procent – får börsen att darra - Svenska Dagbladet
+- Läcka: Apple gömmer face id under skärmen - Omni – Alla nyheter. Alla perspektiv.
+- Priser, lanseringsdatum och färgalternativ för Galaxy S26 FE i Europa har läckt ut inför lanseringen - notebookcheck.se
 
 ## World News
 
-- GT World Challenge America, Sebring International Raceway på inatt 00:55 - TV.nu
+- GT World Challenge America, Sebring International Raceway på inatt 00:55 - tv.nu
 - FISU World University Orienteering Championships begin in Portugal on Tuesday - International Orienteering Federation
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -43,6 +42,7 @@ _Updated: 2026-07-30 09:16_
 - Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Fitch varnar: AI-ras är stor global kreditrisk - Dagens industri
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -50,7 +50,7 @@ _Updated: 2026-07-30 09:16_
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
@@ -69,7 +69,7 @@ _Updated: 2026-07-30 09:16_
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 
 ## Business
 
@@ -96,7 +96,7 @@ _Updated: 2026-07-30 09:16_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
@@ -107,14 +107,14 @@ _Updated: 2026-07-30 09:16_
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar HealthBench - openai.com
-- Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
+- Vi presenterar HealthBench - OpenAI
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
+- Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
@@ -123,42 +123,42 @@ _Updated: 2026-07-30 09:16_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Täta band mellan turism och forskning på Svalbard - SLU
+- Täta band mellan turism och forskning på Svalbard - slu.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Konst, vetenskap och kritiskt kulturarv - gu.se
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
-- Sveriges förändrade lantbruk - SLU
+- Sveriges förändrade lantbruk - slu.se
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - naturvardsverket.se
+- Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
-- Jord, kor och klimat - SLU
+- Jord, kor och klimat - slu.se
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Lantbrukslogik – nu och i framtiden - SLU
+- Lantbrukslogik – nu och i framtiden - slu.se
 - Visning av uppkomst efter direktsådd - Land.se
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
 - Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Kan agroekologi mätta världen? - SLU
+- Kan agroekologi mätta världen? - slu.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
