@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-30 06:35_
+_Updated: 2026-07-30 09:16_
 
 ## Top Stories
 
-- Fartygets skrov undersöks efter båtolyckan - Aftonbladet
-- USA har attackerat mål i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Bussförare misstänkt för grovt drograttfylleri – körde in i träd - Göteborgs-Posten
-- Zelenskyj varnar för massiva ryska attacker - Corren
-- DN Direkt – Jordens resurser slut för i år - Dagens Nyheter
-- Stor risk för skogsbränder i södra halvan av Sverige - Sveriges Radio
-- Jimmie Åkesson (SD) utesluts från RFSL:s debatt under Pride - Sveriges Radio
-- Här ska fler kunna bo i hus: ”Mer borde göras” - Dagens Nyheter
+- JUST NU: Extremt stor risk för skogsbrand - Sveriges Radio
+- Detta vet vi om båtolyckan utanför Tjörn - Dagens Nyheter
+- Nya amerikanska attacker mot Iran - Hufvudstadsbladet – HBL
+- Robotanfall mot Kiev – minst en död - Västerbottens-Kuriren
+- Nu är jordens resurser slut för i år - Göteborgs-Posten
+- Rekordmånga utlandssvenskar kan rösta i valet - aftonbladet.se
+- Villa fullt övertänd utanför Boden – stor insats på morgonen - Norrbottens-Kuriren
+- Jimmie Åkesson stängs ute – idag torsdag - Marcus Oscarsson
 - Nej till utökad serveringstid i Stockholm - Västerbottens-Kuriren
-- Flera stillastående personbilar ger stopp i ett körfält på E4 - Norran
-- Spanjorer återvänder – fler bränder i Grekland - Göteborgs-Posten
+- S-partilokal i Sölvesborg vandaliserad - Göteborgs-Posten
+- Bränder på Kreta – tusentals evakueras - Västerbottens-Kuriren
 - Minst 28 döda efter skalv i Japan - Corren
-- Baltic Defence Line byggs vid Estlands gräns mot Ryssland - Sveriges Radio
-- Mc-förare död efter olycka i Åhus - HD
+- Direkt – Kriget i Ukraina – Krater och bråte hittade i Polen efter ryska attacker - Dagens Nyheter
+- Fauci vägrade svara om virusets ursprung i senatsförhör - Dagens Nyheter
 - Felicia Åkerman: Smekmånaden kan bli kort för Fed-chefen Kevin Warsh - Dagens Nyheter
-- Nu flyr turister till Sverige – ”något har hänt” - Svenska Dagbladet
+- Det lockar rekordmånga turister till Sverige 2026 - SVT Nyheter
+- Meta Platforms resultat sämre än väntat - aktien föll tungt i efterhandeln - Börsvärlden
 - Blandat på börserna i Asien - Västerbottens-Kuriren
-- Börsen svagt nedåt – Electrolux en vinnare - Göteborgs-Posten
-- Apple förbereder ny smart hem‑hubb - mobil.se
-- One UI 9 har ett Pixel-liknande sökfält på hemskärmen - Swedroid
+- En ny Apple TV och HomePod mini kan lanseras i höst - Teknikveckan
+- Ny Xiaomi-telefon läcker ut med flaggskeppschipsetet Snapdragon - notebookcheck.se
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på inatt 00:55 - TV.nu
-- FISU World University Orienteering Championships begin in Portugal on Tuesday - orienteering.sport
+- FISU World University Orienteering Championships begin in Portugal on Tuesday - International Orienteering Federation
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
-- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - media.smart.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - ibsf.org
-- Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
+- Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Fitch varnar: AI-ras är stor global kreditrisk - Dagens industri
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
 
@@ -65,24 +65,24 @@ _Updated: 2026-07-30 06:35_
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
-- Dear Economy om Gotlands vattenbrist under Almedalen - ey.com
+- Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
-- Four European takes on open banking - Mastercard Data and Services - mastercard.com
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - National Commercial Bank (NCB) slutför sin största kapitalökning i historien och utser två biträdande generaldirektörer. - Vietnam.vn
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -96,26 +96,26 @@ _Updated: 2026-07-30 06:35_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Sju life science-trender 2026 - Business Region Göteborg
+- E-hälsa inom EU - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar HealthBench - OpenAI
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
+- Vi presenterar HealthBench - openai.com
+- Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
-- Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 
 ## Science
 
@@ -129,7 +129,7 @@ _Updated: 2026-07-30 06:35_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
@@ -158,7 +158,7 @@ _Updated: 2026-07-30 06:35_
 - Visning av uppkomst efter direktsådd - Land.se
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
