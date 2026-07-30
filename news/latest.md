@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-30 14:14_
+_Updated: 2026-07-30 16:53_
 
-- US launches ‘heavy wave’ of new strikes on Iran - Al Jazeera
-- Vote on Blanche’s AG nomination postponed amid standoff with Republican holdouts - The Washington Post
-- See the New Fronts of the Iran War Erupting Across the Middle East - WSJ
-- Jury in Lindsay Clancy trial hears ex-husband Patrick's 911 call after murders of 3 children - CBS News
+- US launches ‘heavy wave’ of new attacks on Iran - Al Jazeera
+- Sen. Paul threatens to hold Fauci in contempt. And, a new rule undercuts U.S. asylum - NPR
+- Egypt says drone attack caused fire on gas ships at Mediterranean port - bbc.com
+- Blanche's nomination for attorney general on hold over fate of DOJ's "anti-weaponization fund" - CBS News
+- CNN Poll: Voters favor Democrats by an 8-point margin heading into the midterms - cnn.com
 - The Trump administration has undercut the U.S. asylum program. These 3 charts show how - NPR
-- Fauci Pleads the Fifth, Refusing to Answer Questions on Covid Origins at Senate Hearing - The New York Times
+- See the New Fronts of the Iran War Erupting Across the Middle East - WSJ
 - Potential roadblocks ahead for Graham-led Russia sanctions bill - Politico
+- John Thune hopes to orchestrate a great Senate escape - Politico
 - Montana man hikes out of the mountains to get help after he was impaled by a trekking pole - AP News
-- Texts reveal governor had no hand in Seattle police info blackout after mass shooting - KOMO
-- DOJ tapped never-used ‘alien terrorist’ court to deport mother of convicted ISIS supporter - Politico
-- Russia Strikes Ukraine With Missiles and Drones, Killing at Least 8 - The New York Times
 - Hope dwindles for rescue in southwestern Japan quake as death toll climbs to 25 - AP News
-- Bordeaux wineries at risk from ‘zombie fires’ - Financial Times
-- Egypt Suffers First Drone Attack, Widening the Iran War - WSJ
+- At least 8 killed as Russia strikes Ukraine a day after Zelenskyy warning - Al Jazeera
+- ‘Nightmarish’ Wildfire in Crete Kills Two Firefighters as Thousands Evacuate - The New York Times
+- NATO says a Russian missile crashed in Poland. Ukrainian jets tried to destroy threats right up the border, Warsaw says. - Business Insider
+- US economy grows a sluggish 1.5% second-quarter with inflation remaining stubbornly high - AP News
+- Microsoft stock surges on strong quarter, record cloud revenue - Yahoo Finance
 - Kevin Warsh’s stripped-back Fed communication ‘already backfiring’, say investors - Financial Times
-- Meta Stock Falls Sharply on Weak Earnings - Barron's
-- Stock futures rise as traders digest Big Tech earnings and hope to recover from Fed Day sell-off: Live updates - CNBC
-- Yum Brands reports mixed results but gives no update on Taco Bell cyclospora outbreak - CNBC
-- Drone Maker DJI Rolls Out Osmo Pocket 4P Camera Outside of China - Bloomberg.com
-- iPhone 18 Pro: Apple’s Launch Schedule Comes Into Focus With New Strategy - Forbes
+- Meta's AI splurge lays bare its compute conundrum - Reuters
+- iPhone 18 Pro: Twelve Changes Coming to Apple's Next Flagship - MacRumors
+- Spotify Just Launched a New Running Mode, and I'm Surprised How Much I Love It - Lifehacker
