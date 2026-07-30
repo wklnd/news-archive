@@ -1,60 +1,60 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-30 22:42_
+_Updated: 2026-07-31 00:35_
 
 ## Top Stories
 
-- Just nu: Barnet har hittats död efter båtolyckan - Sveriges Radio
-- Fotboll: Gais förnedrat i Danmark – utslaget ur Conference League - SVT Nyheter
+- Just nu: Barnet har hittats död efter båtolyckan - sverigesradio.se
+- Allians ska skydda transporter i viktiga ”Mandabsundet” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Dödstalen stiger efter Rysslands robotanfall - Göteborgs-Posten
 - Flera skogsbränder i Västmanland – har vattenbombats - Dagens Nyheter
 - Tusentals till exklav – Spanien skickar militär - Hufvudstadsbladet – HBL
-- USA har attackerat mål i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Fauci frågades ut om pandemin - ETC.se
+- Pedagog i Falun döms för våldtäkt mot barn - sverigesradio.se
 - Två partiledare saknas i debatten på Pride - Expressen
-- Akut risk för vattenbrist i Örnsköldsvik: ”Allvarligt läge” - SVT Nyheter
+- DN Direkt – Akut risk för vattenbrist i Örnsköldsvik - Dagens Nyheter
 - Ingen polisuniform i pridetåg - Västerbottens-Kuriren
-- Rekordmånga utlandssvenskar kan rösta i valet - Aftonbladet
-- Barn bland de döda i ryska attacker mot Ukraina - Dagens Nyheter
-- Ukraina: Rysk kryssningsrobot flög in i Polen - Corren
+- Åskovädret i Västerbotten - SVT Nyheter
+- Uppgifter: Rysk kryssningsrobot flög in i Polen - Göteborgs-Posten
 - Putins hårda drag mot de som ”talar illa om armén” - Dagens Nyheter
-- Bränder på Kreta – tusentals evakueras - Hufvudstadsbladet – HBL
-- Drivmedelspriserna väntas höjas när oljepriset stiger - Sveriges Radio
-- SEB-ekonomen: ”Fed-chefen står vid sidlinjen” - di.se
-- Nobbar återköp – trots kursfallet - EFN
+- Allians ska skydda transporter i viktiga sundet - Västerbottens-Kuriren
+- DN Direkt – Kongo-Kinshasa: Över 1 500 har avlidit i ebola - Dagens Nyheter
+- Ferrari ökade rörelseresultatet mer än väntat - höjer prognoser (Finwire News) - Aktiellt
 - Rally på Wall Street – börslyft för Microsoft - Göteborgs-Posten
-- Splatoon Raiders – ett härligt måste till Switch 2 - Aftonbladet
-- Spotify släpper nytt läge för löpare - mobil.se
+- SEB-ekonomen: ”Fed-chefen står vid sidlinjen” - Dagens industri
+- JUST NU: Stockholmsbörsen på ny rekordnivå - EFN
+- Splatoon Raiders – ett härligt måste till Switch 2 - aftonbladet.se
+- Pixel 11 Pro Fold visas i nya läckta bilder - mobil.se
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på inatt 00:55 - TV.nu
 - FISU World University Orienteering Championships begin in Portugal on Tuesday - International Orienteering Federation
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - news.cision.com
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - ibsf.org
+- Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - news.cision.com
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
 
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - swedbank-aktiellt.se
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
+- LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - swedbank-aktiellt.se
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
@@ -62,7 +62,7 @@ _Updated: 2026-07-30 22:42_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - swedbank-aktiellt.se
+- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
@@ -98,7 +98,7 @@ _Updated: 2026-07-30 22:42_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - news.cision.com
+- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - E-hälsa inom EU - Läkartidningen
@@ -113,9 +113,9 @@ _Updated: 2026-07-30 22:42_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
 
 ## Science
 
@@ -123,42 +123,42 @@ _Updated: 2026-07-30 22:42_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Olika slutsatser från samma data - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Täta band mellan turism och forskning på Svalbard - slu.se
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Konst, vetenskap och kritiskt kulturarv - gu.se
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
-- Sveriges förändrade lantbruk - slu.se
+- Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - Här är världens största jordbruk - ATL
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
-- Jord, kor och klimat - slu.se
+- Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Lantbrukslogik – nu och i framtiden - slu.se
+- Lantbrukslogik – nu och i framtiden - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Kan agroekologi mätta världen? - slu.se
+- Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
