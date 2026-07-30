@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-30 06:39_
+_Updated: 2026-07-30 09:19_
 
-- U.S. launches fresh airstrikes in Iran - Axios
+- Middle East crisis live: Jordan says it foiled Iranian missile attack as US launches ‘heavy’ strikes on Iran after pause - The Guardian
 - Senate panel delays vote on Blanche attorney general nomination as key Republicans withhold support - AP News
-- Jury in Lindsay Clancy trial hears ex-husband Patrick's 911 call after murders of 3 children - CBS News
 - Good riddance to the ‘people mover’ shuttles at Dulles Airport, travelers say - The Washington Post
-- Elon Musk’s xAI sues Minnesota over law banning ‘nudification’ technology - theguardian.com
-- 4 things Fauci's diary reveals about COVID, Trump and fame - USA Today
-- Teenage Lifeguard Fights Intense Waves to Bring Boy to Safety - The New York Times
-- Secretive terrorist removal court set for first hearing in Afghan woman’s case - CNN
+- Lindsay Clancy trial today: 911 call from husband Patrick after finding children dead brings tears to courtroom - ABC7 Chicago
 - Seattle shooting charges: Bullets that killed 2 not from 15-year-old’s ghost gun - The Seattle Times
-- Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins - BBC
-- Death toll in Japan earthquake rises to 23 as aftershock and heat complicate rescue efforts - theguardian.com
-- Saudi defense minister holds urgent meeting with Trump after Iraq strikes - Axios
-- Southern Europe burns as 3 firefighters die and France battles blaze 4 times the size of Paris - AP News
-- Ukraine's ex-defence minister says changes to military procurements behind his dismissal - Reuters
+- Why did Anthony Fauci invoke the Fifth Amendment? Senate hearing explained - Al Jazeera
+- DOJ tapped never-used ‘alien terrorist’ court to deport mother of convicted ISIS supporter - Politico
+- MS Now Host Sums Up How Gross Trump’s Lindsey Graham Eulogy Was In Just 1 Sentence - HuffPost
+- Rollout of New York City’s Second-Home Tax Is Confusing Some Residents - The New York Times
+- ‘Like volcanic ash falling’: Inside Aeon mall after Japan’s earthquake - Al Jazeera
+- One killed in Russian missile strikes on Kyiv, day after Zelenskyy warning - Al Jazeera
+- Three Greek firefighters killed as wildfires strike further east in Europe - Reuters
+- US-Iran conflict enters new phase as Saudi Arabia helps hit proxies and diplomacy stalls again - AP News
 - A divided Fed holds interest rates steady despite stubborn inflation - The Washington Post
-- Microsoft Profit Jumps 31% as Azure Cloud Sales Surpass $100 Billion - wsj.com
-- Wall Street closes down sharply after Fed holds rates unchanged - Reuters
-- Meta shares fall as frustration grows over AI spending plans - BBC
+- MSFT Stock Extends Gains After-Hours, Up 8% — Unchanged 2026 Capex Outlook, Strong Azure Sales Boost Sentiment - Yahoo Finance
+- Wall Street closes down sharply after Fed keeps rates unchanged - NBC News
+- Morning Bid: Bond markets doing the Fed's work - Reuters
+- Samsung’s next pair of Galaxy Buds show off open-ear design in another leak [Gallery] - 9to5Google
+- What’s the catch with the Apple Upgrade program? - The Verge
 - 20th Anniversary iPhone Coming Next Year With These 10 Features - MacRumors
-- What’s the catch with the Apple Upgrade program? - theverge.com
