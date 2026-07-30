@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-30 12:02_
+_Updated: 2026-07-30 14:14_
 
-- Middle East crisis live: Jordan says it foiled Iranian missile attack as US launches ‘heavy’ strikes on Iran after pause - The Guardian
-- Senate panel delays vote on Blanche attorney general nomination as key Republicans withhold support - AP News
-- Why did Anthony Fauci invoke the Fifth Amendment? Senate hearing explained - aljazeera.com
+- US launches ‘heavy wave’ of new strikes on Iran - Al Jazeera
+- Vote on Blanche’s AG nomination postponed amid standoff with Republican holdouts - The Washington Post
+- See the New Fronts of the Iran War Erupting Across the Middle East - WSJ
 - Jury in Lindsay Clancy trial hears ex-husband Patrick's 911 call after murders of 3 children - CBS News
-- Good riddance to the ‘people mover’ shuttles at Dulles Airport, travelers say - The Washington Post
-- Trump ‘exasperated’ on Iran as top officials can’t agree on strategy, sources say - NBC News
+- The Trump administration has undercut the U.S. asylum program. These 3 charts show how - NPR
+- Fauci Pleads the Fifth, Refusing to Answer Questions on Covid Origins at Senate Hearing - The New York Times
+- Potential roadblocks ahead for Graham-led Russia sanctions bill - Politico
+- Montana man hikes out of the mountains to get help after he was impaled by a trekking pole - AP News
+- Texts reveal governor had no hand in Seattle police info blackout after mass shooting - KOMO
 - DOJ tapped never-used ‘alien terrorist’ court to deport mother of convicted ISIS supporter - Politico
-- Sanctions Bill Would Give Trump Sweeping New Tariff Powers - The New York Times
-- Bite of Seattle shooting suspect had prior gun charge, run-in with police - KOMO
-- Viral California teen lifeguard rescue captures nation's awe. 'Perfect person you’d want out there' - Los Angeles Times
-- ‘Like volcanic ash falling’: Inside Aeon mall after Japan’s earthquake - aljazeera.com
-- US-Iran conflict enters new phase as Saudi Arabia helps hit proxies and diplomacy stalls again - AP News
-- Missile detected over Poland as Russian strikes kill eight in Ukraine - Euronews.com
-- Crete fires: Thousands evacuated as Europe wildfires continue to rage - BBC
-- Microsoft Corp (MSFT) (Q4 2026) Earnings Call Highlights: Record Revenue Surpasses $331 ... - Yahoo Finance
-- Warsh’s Posture on Interest Rates Sparks Market Inflation Fears - WSJ
-- Meta stock drops 10% as free cash flow gets crushed—and Zuckerberg hints at cloud business - Fortune
-- Oil prices gain and Asian shares are mostly lower as investors sell AI stocks - AP News
-- 20th Anniversary iPhone Coming Next Year With These 10 Features - MacRumors
-- What’s the catch with the Apple Upgrade program? - The Verge
+- Russia Strikes Ukraine With Missiles and Drones, Killing at Least 8 - The New York Times
+- Hope dwindles for rescue in southwestern Japan quake as death toll climbs to 25 - AP News
+- Bordeaux wineries at risk from ‘zombie fires’ - Financial Times
+- Egypt Suffers First Drone Attack, Widening the Iran War - WSJ
+- Kevin Warsh’s stripped-back Fed communication ‘already backfiring’, say investors - Financial Times
+- Meta Stock Falls Sharply on Weak Earnings - Barron's
+- Stock futures rise as traders digest Big Tech earnings and hope to recover from Fed Day sell-off: Live updates - CNBC
+- Yum Brands reports mixed results but gives no update on Taco Bell cyclospora outbreak - CNBC
+- Drone Maker DJI Rolls Out Osmo Pocket 4P Camera Outside of China - Bloomberg.com
+- iPhone 18 Pro: Apple’s Launch Schedule Comes Into Focus With New Strategy - Forbes
