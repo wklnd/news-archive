@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-30 20:59_
+_Updated: 2026-07-30 22:45_
 
-- Trump says he ‘may’ pull Blanche AG nomination temporarily - NPR
-- Apalachee High School shooter’s father sentenced to 15 years - NBC News
+- Trump threatens to pull Todd Blanche’s AG nomination until after GOP holdouts leave office - NBC News
 - US and Iran trade missile barrages as hopes dim for a quick resolution to the five-month conflict - AP News
-- Carville says ‘we didn’t f‑‑‑ing learn anything’ from Fauci diary entries - The Hill
-- How Diamonds, Paprika and Fertilizer Won Relief From Trump’s Tariffs - The New York Times
-- CNN Poll: Voters favor Democrats by an 8-point margin heading into the midterms - CNN
-- Three-quarters of Americans think Trump isn’t focusing on top US issues – poll - The Guardian
-- DOJ tapped never-used ‘alien terrorist’ court to deport mother of convicted ISIS supporter - Politico
-- Mandela Barnes considering dropping out of Wisconsin governor race - Politico
-- L.A. Warehouse Fire Leaves Behind Rats, Flies and an Unending Stench - The New York Times
-- Migrants break through border into Spain's Ceuta, military called in - Reuters
-- NATO jets scramble as Russian missile detonates in Poland - aljazeera.com
+- Apalachee High shooter’s dad, Colin Gray, gets 15 years in prison - AJC.com
+- First responders testify about what they found after Lindsay Clancy killed her children - PBS
+- Alien Terrorist Removal Court holds its first-ever hearing after 30 years - NPR
+- The Trump administration wants $10 million more to cover its July Fourth celebrations - NPR
+- Mandela Barnes drops out of Wisconsin governor race - Politico
+- Trump Is Really, Really Unpopular, New Polling Shows - Rolling Stone
+- A Fire Burned Next Door. Now They Live With the Stench of Rotting Meat. - The New York Times
+- Coroner investigates ‘partial head' found in Fox River in McHenry County - NBC 5 Chicago
+- Spain deploys troops to Ceuta after chaotic crossings of migrants - Euronews.com
+- NATO jets scramble as Russian missile detonates in Poland - Al Jazeera
 - As France tames wildfire and lets 84,000 evacuees go home, blazes flare across Europe - AP News
-- Man captures dramatic moment when shark attacked him: See the video - WLWT
-- U.S. GDP Growth Slowed in Second Quarter of 2026 - The New York Times
-- Exclusive | Citadel Buys Situational Awareness’s Stock Portfolio After Big Losses in AI - WSJ
-- Average 30-year US mortgage rate rises to highest level in a year at 6.66% - AP News
-- Stock market today: Nasdaq soars, Dow and S&P 500 rebound as Microsoft leads tech gains, bond yields rise - Yahoo Finance
-- DJI Osmo Pocket 4P Lab Test: Rolling Shutter, Dynamic Range and Exposure Latitude - CineD
-- Galaxy Z Fold 8 Review: A Passport-Size Shape-Shifter for Every Moment - CNET
+- EXCLUSIVE: Yemen's Houthis are attacking Saudi Arabia from Iraq, sources say - Reuters
+- US economy grows at a sluggish 1.5% in second-quarter with inflation remaining stubbornly high - AP News
+- $19.6 Billion: The Microsoft Earnings Number That Matters Most - fool.com
+- Amazon Shares Jump as Cloud Sales Accelerate - WSJ
+- Citadel Buys Bulk of Situational Awareness’ AI Stock Wagers - Bloomberg.com
+- Chrome may get faster updates with no restart required - Ars Technica
+- LinkedIn Introduces a 'Seems Like AI Slop' Button - 404 Media
