@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-30 16:53_
+_Updated: 2026-07-30 19:07_
 
-- US launches ‘heavy wave’ of new attacks on Iran - Al Jazeera
-- Sen. Paul threatens to hold Fauci in contempt. And, a new rule undercuts U.S. asylum - NPR
-- Egypt says drone attack caused fire on gas ships at Mediterranean port - bbc.com
-- Blanche's nomination for attorney general on hold over fate of DOJ's "anti-weaponization fund" - CBS News
-- CNN Poll: Voters favor Democrats by an 8-point margin heading into the midterms - cnn.com
+- Trump threatens to pull Todd Blanche’s AG nomination until after GOP holdouts leave office - NBC News
+- Carville says ‘we didn’t f‑‑‑ing learn anything’ from Fauci diary entries - The Hill
+- Man convicted in terrorism trial over the 2022 stabbing of author Salman Rushdie - NPR
+- Middle East crisis live: Jordan says it foiled Iranian missile attack as US launches ‘heavy’ strikes on Iran after pause - The Guardian
+- CNN Poll: Voters favor Democrats by an 8-point margin heading into the midterms - CNN
 - The Trump administration has undercut the U.S. asylum program. These 3 charts show how - NPR
+- Three-quarters of Americans think Trump isn’t focusing on top US issues – poll - The Guardian
 - See the New Fronts of the Iran War Erupting Across the Middle East - WSJ
-- Potential roadblocks ahead for Graham-led Russia sanctions bill - Politico
 - John Thune hopes to orchestrate a great Senate escape - Politico
-- Montana man hikes out of the mountains to get help after he was impaled by a trekking pole - AP News
-- Hope dwindles for rescue in southwestern Japan quake as death toll climbs to 25 - AP News
-- At least 8 killed as Russia strikes Ukraine a day after Zelenskyy warning - Al Jazeera
-- ‘Nightmarish’ Wildfire in Crete Kills Two Firefighters as Thousands Evacuate - The New York Times
-- NATO says a Russian missile crashed in Poland. Ukrainian jets tried to destroy threats right up the border, Warsaw says. - Business Insider
-- US economy grows a sluggish 1.5% second-quarter with inflation remaining stubbornly high - AP News
-- Microsoft stock surges on strong quarter, record cloud revenue - Yahoo Finance
-- Kevin Warsh’s stripped-back Fed communication ‘already backfiring’, say investors - Financial Times
-- Meta's AI splurge lays bare its compute conundrum - Reuters
-- iPhone 18 Pro: Twelve Changes Coming to Apple's Next Flagship - MacRumors
-- Spotify Just Launched a New Running Mode, and I'm Surprised How Much I Love It - Lifehacker
+- Sen. Paul threatens to hold Fauci in contempt. And, a new rule undercuts U.S. asylum - NPR
+- Hope dwindles for rescue in southwestern Japan quake as death toll climbs to 25 - NPR
+- NATO jets scramble as Russian missile detonates in Poland - aljazeera.com
+- The France and Spain wildfires’ path of destruction in maps, satellite images and photos - NBC News
+- Gaza ceasefire talks see rare progress, sources say - Reuters
+- US economy grows at a sluggish 1.5% in second-quarter with inflation remaining stubbornly high - apnews.com
+- Mortgage rates just hit their highest level in a year — and may be headed higher: Mortgage and refinance interest rates today, Thursday, July 30, 2026 - Yahoo Finance
+- Exclusive | Citadel Buys Situational Awareness’s Stock Portfolio After Big Losses in AI - WSJ
+- Microsoft Corporation (MSFT) Q4 2026 Earnings Call Transcript - Seeking Alpha
+- Galaxy Z Fold 8 Review: A Passport-Size Shape-Shifter for Every Moment - CNET
+- LinkedIn Introduces a 'Seems Like AI Slop' Button - 404 Media
