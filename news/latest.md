@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-30 19:07_
+_Updated: 2026-07-30 20:59_
 
-- Trump threatens to pull Todd Blanche’s AG nomination until after GOP holdouts leave office - NBC News
+- Trump says he ‘may’ pull Blanche AG nomination temporarily - NPR
+- Apalachee High School shooter’s father sentenced to 15 years - NBC News
+- US and Iran trade missile barrages as hopes dim for a quick resolution to the five-month conflict - AP News
 - Carville says ‘we didn’t f‑‑‑ing learn anything’ from Fauci diary entries - The Hill
-- Man convicted in terrorism trial over the 2022 stabbing of author Salman Rushdie - NPR
-- Middle East crisis live: Jordan says it foiled Iranian missile attack as US launches ‘heavy’ strikes on Iran after pause - The Guardian
+- How Diamonds, Paprika and Fertilizer Won Relief From Trump’s Tariffs - The New York Times
 - CNN Poll: Voters favor Democrats by an 8-point margin heading into the midterms - CNN
-- The Trump administration has undercut the U.S. asylum program. These 3 charts show how - NPR
 - Three-quarters of Americans think Trump isn’t focusing on top US issues – poll - The Guardian
-- See the New Fronts of the Iran War Erupting Across the Middle East - WSJ
-- John Thune hopes to orchestrate a great Senate escape - Politico
-- Sen. Paul threatens to hold Fauci in contempt. And, a new rule undercuts U.S. asylum - NPR
-- Hope dwindles for rescue in southwestern Japan quake as death toll climbs to 25 - NPR
+- DOJ tapped never-used ‘alien terrorist’ court to deport mother of convicted ISIS supporter - Politico
+- Mandela Barnes considering dropping out of Wisconsin governor race - Politico
+- L.A. Warehouse Fire Leaves Behind Rats, Flies and an Unending Stench - The New York Times
+- Migrants break through border into Spain's Ceuta, military called in - Reuters
 - NATO jets scramble as Russian missile detonates in Poland - aljazeera.com
-- The France and Spain wildfires’ path of destruction in maps, satellite images and photos - NBC News
-- Gaza ceasefire talks see rare progress, sources say - Reuters
-- US economy grows at a sluggish 1.5% in second-quarter with inflation remaining stubbornly high - apnews.com
-- Mortgage rates just hit their highest level in a year — and may be headed higher: Mortgage and refinance interest rates today, Thursday, July 30, 2026 - Yahoo Finance
+- As France tames wildfire and lets 84,000 evacuees go home, blazes flare across Europe - AP News
+- Man captures dramatic moment when shark attacked him: See the video - WLWT
+- U.S. GDP Growth Slowed in Second Quarter of 2026 - The New York Times
 - Exclusive | Citadel Buys Situational Awareness’s Stock Portfolio After Big Losses in AI - WSJ
-- Microsoft Corporation (MSFT) Q4 2026 Earnings Call Transcript - Seeking Alpha
+- Average 30-year US mortgage rate rises to highest level in a year at 6.66% - AP News
+- Stock market today: Nasdaq soars, Dow and S&P 500 rebound as Microsoft leads tech gains, bond yields rise - Yahoo Finance
+- DJI Osmo Pocket 4P Lab Test: Rolling Shutter, Dynamic Range and Exposure Latitude - CineD
 - Galaxy Z Fold 8 Review: A Passport-Size Shape-Shifter for Every Moment - CNET
-- LinkedIn Introduces a 'Seems Like AI Slop' Button - 404 Media
