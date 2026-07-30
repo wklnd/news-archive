@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-30 03:00_
+_Updated: 2026-07-30 06:39_
 
-- Live updates: Trump says Iran ‘going to get a beating’ as fresh fighting shatters calm - CNN
-- Saudi defense minister holds urgent meeting with Vance after Iraq strikes - Axios
-- Trump unveils Dulles makeover after months of personal edits - The Washington Post
-- Trump Administration Live Updates: Fauci Pleads Fifth in Senate Hearing on Covid Origins - The New York Times
-- xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law - The Verge
-- Blanche nomination at risk of delay as senator seeks assurances on Trump settlement - AP News
-- Lindsay Clancy trial: Defense, prosecutors question Patrick Clancy; 911 call played in court - WCVB
+- U.S. launches fresh airstrikes in Iran - Axios
+- Senate panel delays vote on Blanche attorney general nomination as key Republicans withhold support - AP News
+- Jury in Lindsay Clancy trial hears ex-husband Patrick's 911 call after murders of 3 children - CBS News
+- Good riddance to the ‘people mover’ shuttles at Dulles Airport, travelers say - The Washington Post
+- Elon Musk’s xAI sues Minnesota over law banning ‘nudification’ technology - theguardian.com
+- 4 things Fauci's diary reveals about COVID, Trump and fame - USA Today
 - Teenage Lifeguard Fights Intense Waves to Bring Boy to Safety - The New York Times
-- Salman Rushdie attacker convicted of terror offenses - BBC
-- Federal judge rejects DOJ attempt to obtain unredacted NJ voter rolls - Politico
-- After the quake came the blast: Inside Japan's shopping mall disaster - Reuters
-- Saudi Arabia seeks international coalition against Houthis in Red Sea - Al Jazeera
-- Death of 15 elephants in Kenyan national park sparks outrage, investigation - The Washington Post
-- Netanyahu plays it safe in a Washington that’s cooled on Israel - Politico
-- Fed holds interest rates steady after cliffhanger meeting, but three officials dissent - CNN
+- Secretive terrorist removal court set for first hearing in Afghan woman’s case - CNN
+- Seattle shooting charges: Bullets that killed 2 not from 15-year-old’s ghost gun - The Seattle Times
+- Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins - BBC
+- Death toll in Japan earthquake rises to 23 as aftershock and heat complicate rescue efforts - theguardian.com
+- Saudi defense minister holds urgent meeting with Trump after Iraq strikes - Axios
+- Southern Europe burns as 3 firefighters die and France battles blaze 4 times the size of Paris - AP News
+- Ukraine's ex-defence minister says changes to military procurements behind his dismissal - Reuters
+- A divided Fed holds interest rates steady despite stubborn inflation - The Washington Post
+- Microsoft Profit Jumps 31% as Azure Cloud Sales Surpass $100 Billion - wsj.com
 - Wall Street closes down sharply after Fed holds rates unchanged - Reuters
-- Meta Q2 earnings recap: Stock tumbles nearly 10% after profits miss Wall Street estimates - Business Insider
-- Microsoft Profit Jumps 31% as Azure Cloud Sales Surpass $100 Billion - WSJ
-- Xbox revenue drops 10 percent as Microsoft’s cloud and AI business surges - The Verge
-- What’s the catch with the Apple Upgrade program? - The Verge
+- Meta shares fall as frustration grows over AI spending plans - BBC
+- 20th Anniversary iPhone Coming Next Year With These 10 Features - MacRumors
+- What’s the catch with the Apple Upgrade program? - theverge.com
