@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-31 20:03_
+_Updated: 2026-07-31 22:02_
 
 ## Top Stories
 
-- DN Direkt – Trump om migrantkrisen i Ceuta: ”Fruktansvärt” - Dagens Nyheter
 - Italien pausar Schengen-avtalet med Spanien - Göteborgs-Posten
-- Regeringen backar om vargen - Västerbottens-Kuriren
 - Stor sorg: ”Det kunde varit vi” - Expressen
-- Bombmannen till sonen: "Vet inte om jag gör rätt" - Göteborgs-Posten
-- Bilar i krock på E4 i höjd med Bureå – två personer till sjukhus - SVT Nyheter
-- Viktoria fick ström genom kroppen efter blixtnedslag i Bjurholm - SVT Nyheter
+- Expert kritiserar Trumps avtal om att avväpna Hamas - Hufvudstadsbladet – HBL
+- DN Direkt – Man häktad för attack mot S-lokal - Dagens Nyheter
+- Regeringen backar om vargen - Västerbottens-Kuriren
+- Internationellt efterlyst göteborgare utlämnad – flögs till Landvetter - Göteborgs-Posten
+- DN Direkt – Afrikansk svinpest upptäckt i Finland - Dagens Nyheter
+- Gripen för våldtäkt på restaurang - Expressen
 - Hatstorm när Henrik Juhlin (C) uppträder i klänning - Dagens Nyheter
-- Ny stor skogsbrand utanför Skinnskatteberg – under kontroll - SVT Nyheter
-- Stopp i ett körfält på grund av flera stillastående lastbilar på E18 - UNT
-- Direkt – Krisen i Mellanöstern – Trump: Avtal om avväpning i Gaza har nåtts - Dagens Nyheter
-- Många döda i bussolycka i Algeriet - SVT Nyheter
-- Ny brand utanför Aten – förbättrat läge på Kreta - Corren
-- Experten om späckhuggarnas attacker: ”Minimal risk att beteendet sprids till Sverige” - Dagens Nyheter
+- Viktoria fick ström genom kroppen efter blixtnedslag i Bjurholm - SVT Nyheter
+- DN Direkt – Minst 25 döda i bussolycka i Algeriet - Dagens Nyheter
+- Ny brand utanför Aten – förbättrat läge på Kreta - SVT Nyheter
+- Analys: Klimatförändringar gjorde bränderna värre - Corren
+- Iran: Nya attacker mot amerikanska baser - Västerbottens-Kuriren
+- Traktor stillastående på Ölandsbron - Expressen
 - Stockholmsbörsen avslutar juli med flaggan i topp - EFN
 - Techjättar väntas spreta på ljusgröna USA-börser - Dagens industri
-- Strategen om AI-bolagen: "Det är inte ett värderingsproblem" - Affärsvärlden
-- Därför kan börsen svänga 20 procent på en dag - Göteborgs-Posten
-- Musks raket nära krasch – på månen - Svenska Dagbladet
-- Apple: Användare kan behöva betala för nya Siri - Göteborgs-Posten
+- Experten: Fed-beskedet är dåliga nyheter för Trump inför mellanårsvalet - TV4 Nyheterna
+- Space X–raket på väg att krocka med månen - Aftonbladet
+- AMD sägs öka grafikkortspriser med 10 procent i augusti - Nordichardware
 
 ## World News
 
@@ -33,16 +33,16 @@ _Updated: 2026-07-31 20:03_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - entrackr.com
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -58,6 +58,7 @@ _Updated: 2026-07-31 20:03_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
@@ -65,7 +66,6 @@ _Updated: 2026-07-31 20:03_
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -73,19 +73,19 @@ _Updated: 2026-07-31 20:03_
 
 ## Business
 
-- Dear Economy om Gotlands vattenbrist under Almedalen - EY
+- Dear Economy om Gotlands vattenbrist under Almedalen - ey.com
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
-- Four European takes on open banking - Mastercard Data and Services - mastercard.com
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - ey.com
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -145,18 +145,18 @@ _Updated: 2026-07-31 20:03_
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Brittiska bönder i massiv protest mot arvsskatten - ja.se
 - Jordbrukspolitik - Naturvårdsverket
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - Här är världens största jordbruk - ATL
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Kan agroekologi mätta världen? - SLU
