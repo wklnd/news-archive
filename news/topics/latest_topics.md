@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-31 22:02_
+_Updated: 2026-07-31 23:38_
 
 ## Top Stories
 
 - Italien pausar Schengen-avtalet med Spanien - Göteborgs-Posten
-- Stor sorg: ”Det kunde varit vi” - Expressen
+- DN Direkt – Kaptenen misstänkt efter båtolyckan vid Tjörn - Dagens Nyheter
 - Expert kritiserar Trumps avtal om att avväpna Hamas - Hufvudstadsbladet – HBL
-- DN Direkt – Man häktad för attack mot S-lokal - Dagens Nyheter
-- Regeringen backar om vargen - Västerbottens-Kuriren
+- Space X–raket på väg att krocka med månen - SVT Nyheter
+- Malmöbor välkomnar hårdare tag mot buskörarna - Sydsvenskan
 - Internationellt efterlyst göteborgare utlämnad – flögs till Landvetter - Göteborgs-Posten
-- DN Direkt – Afrikansk svinpest upptäckt i Finland - Dagens Nyheter
-- Gripen för våldtäkt på restaurang - Expressen
-- Hatstorm när Henrik Juhlin (C) uppträder i klänning - Dagens Nyheter
-- Viktoria fick ström genom kroppen efter blixtnedslag i Bjurholm - SVT Nyheter
-- DN Direkt – Minst 25 döda i bussolycka i Algeriet - Dagens Nyheter
-- Ny brand utanför Aten – förbättrat läge på Kreta - SVT Nyheter
-- Analys: Klimatförändringar gjorde bränderna värre - Corren
-- Iran: Nya attacker mot amerikanska baser - Västerbottens-Kuriren
-- Traktor stillastående på Ölandsbron - Expressen
+- Afrikansk svinpest upptäckt i Finland - Göteborgs-Posten
+- Regeringen backar kring vargen efter EU-kritiken - Västerbottens-Kuriren
+- Därför ger grafen en missvisande bild av Europas bränder - SVT Nyheter
+- DN Direkt – Bil har kört in i brandstation - Dagens Nyheter
+- Många döda i bussolycka i Algeriet - Västerbottens-Kuriren
+- Ny brand utanför Aten – förbättrat läge på Kreta - Göteborgs-Posten
+- Brittiska torkan – den värsta i juli på 190 år - Västerbottens-Kuriren
+- Iran: Stoppat fartyg i Hormuz - Göteborgs-Posten
 - Stockholmsbörsen avslutar juli med flaggan i topp - EFN
+- Apple föll tungt på Wall Street – Amazon rusade - Omni – Alla nyheter. Alla perspektiv.
 - Techjättar väntas spreta på ljusgröna USA-börser - Dagens industri
 - Experten: Fed-beskedet är dåliga nyheter för Trump inför mellanårsvalet - TV4 Nyheterna
-- Space X–raket på väg att krocka med månen - Aftonbladet
 - AMD sägs öka grafikkortspriser med 10 procent i augusti - Nordichardware
+- Pixel 11 Pro Fold visas i nya läckta bilder - mobil.se
 
 ## World News
 
@@ -41,10 +41,10 @@ _Updated: 2026-07-31 22:02_
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
@@ -58,7 +58,6 @@ _Updated: 2026-07-31 22:02_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
@@ -66,6 +65,7 @@ _Updated: 2026-07-31 22:02_
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -73,7 +73,7 @@ _Updated: 2026-07-31 22:02_
 
 ## Business
 
-- Dear Economy om Gotlands vattenbrist under Almedalen - ey.com
+- Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
@@ -82,10 +82,10 @@ _Updated: 2026-07-31 22:02_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - ey.com
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -145,9 +145,9 @@ _Updated: 2026-07-31 22:02_
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Brittiska bönder i massiv protest mot arvsskatten - ja.se
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Jord, kor och klimat - SLU
