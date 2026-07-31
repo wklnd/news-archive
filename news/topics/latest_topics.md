@@ -1,34 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-31 00:35_
+_Updated: 2026-07-31 03:05_
 
 ## Top Stories
 
-- Just nu: Barnet har hittats död efter båtolyckan - sverigesradio.se
+- Dottern hittad död efter båtolyckan utanför Tjörn - Omni – Alla nyheter. Alla perspektiv.
 - Allians ska skydda transporter i viktiga ”Mandabsundet” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Dödstalen stiger efter Rysslands robotanfall - Göteborgs-Posten
-- Flera skogsbränder i Västmanland – har vattenbombats - Dagens Nyheter
 - Tusentals till exklav – Spanien skickar militär - Hufvudstadsbladet – HBL
-- Pedagog i Falun döms för våldtäkt mot barn - sverigesradio.se
-- Två partiledare saknas i debatten på Pride - Expressen
+- Direkt – Krisen i Mellanöstern – Trump: Avtal om avväpning i Gaza har nåtts - Dagens Nyheter
+- Stor brand i flerfamiljshus – insats under natten - Corren
+- Två hus brann ner av omfattande skogsbrand - Sveriges Radio
 - DN Direkt – Akut risk för vattenbrist i Örnsköldsvik - Dagens Nyheter
 - Ingen polisuniform i pridetåg - Västerbottens-Kuriren
+- Stopp i ett körfält på grund av stillastående personbil på E4 - UNT
 - Åskovädret i Västerbotten - SVT Nyheter
-- Uppgifter: Rysk kryssningsrobot flög in i Polen - Göteborgs-Posten
+- Barn bland de döda i ryska attacker mot Ukraina - Dagens Nyheter
+- Karta: Här brinner det i Europa just nu - Göteborgs-Posten
 - Putins hårda drag mot de som ”talar illa om armén” - Dagens Nyheter
-- Allians ska skydda transporter i viktiga sundet - Västerbottens-Kuriren
-- DN Direkt – Kongo-Kinshasa: Över 1 500 har avlidit i ebola - Dagens Nyheter
-- Ferrari ökade rörelseresultatet mer än väntat - höjer prognoser (Finwire News) - Aktiellt
+- Uppgifter: Rysk kryssningsrobot flög in i Polen - Västerbottens-Kuriren
+- Johan Carlström: Siffrorna kan stjälpa regeringen - Svenska Dagbladet
+- Ferrari höjer prognoser efter stark rapport - Affärsvärlden
 - Rally på Wall Street – börslyft för Microsoft - Göteborgs-Posten
 - SEB-ekonomen: ”Fed-chefen står vid sidlinjen” - Dagens industri
-- JUST NU: Stockholmsbörsen på ny rekordnivå - EFN
 - Splatoon Raiders – ett härligt måste till Switch 2 - aftonbladet.se
 - Pixel 11 Pro Fold visas i nya läckta bilder - mobil.se
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på inatt 00:55 - TV.nu
-- FISU World University Orienteering Championships begin in Portugal on Tuesday - International Orienteering Federation
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
@@ -36,11 +35,12 @@ _Updated: 2026-07-31 00:35_
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - ibsf.org
+- Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - travronden.se
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet (UI)
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- FISU World University Orienteering Championships begin in Portugal on Tuesday - International Orienteering Federation
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
@@ -50,14 +50,14 @@ _Updated: 2026-07-31 00:35_
 
 ## Technology
 
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Leveraging AI in Swedish Development Cooperation - fuf.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -78,12 +78,12 @@ _Updated: 2026-07-31 00:35_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -132,13 +132,13 @@ _Updated: 2026-07-31 00:35_
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Simple math behind major bison blunder - Forskning & Framsteg
+- Avdelningen för fotonik - Chalmers tekniska högskola
 
 ## Jordbruk
 
