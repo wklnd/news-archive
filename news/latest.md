@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-31 07:05_
+_Updated: 2026-07-31 10:19_
 
 - Hamas reaches Gaza disarmament agreement with Board of Peace - Al Jazeera
+- Could Fauci face criminal charges for refusing Senate COVID questions? - reuters.com
 - Trump considers pulling Todd Blanche's attorney general nomination as senators hold out - BBC
-- U.S. Sees Iran as Likely Behind Cyberattack on Minnesota Water Systems - nytimes.com
-- Live updates: Saudi Arabia says 14 countries backing maritime alliance to protect shipping routes - CNN
+- Thousands of Migrants Enter Ceuta, a Spanish Enclave, From Morocco - The New York Times
+- U.S. investigating whether Iran was behind cyberattack on Minnesota water systems - cbsnews.com
+- Mamdani's 'this is only the beginning' announcement cracking down on food delivery tips sparks outrage - Fox News
 - Georgia school shooter’s father, who bought son a gun, sentenced to 15 years - The Washington Post
-- Spain deploys military as hundreds cross into Ceuta from Morocco - France 24
-- Seattle police chief resigns amid fallout from mass shooting, mayor names interim chief - KOMO
+- Seattle police chief resigns under pressure from mayor over response to festival shooting - AP News
+- Attorney for Nolan Wells' family says experts will review a July 4 boat distress call - PBS
 - Amid escalation, US allies hang back on intervening in Iran war - Politico
-- Mandela Barnes drops out of the Democratic primary for Wisconsin governor - AP News
-- Trump running out of options to fix inflation, economic woes before election, experts say - Los Angeles Times
 - US and Iran trade missile barrages as hopes dim for a quick resolution to the five-month conflict - AP News
-- Ukraine strikes two more warehouses of Russian online retailer Wildberries - Reuters
-- The France and Spain wildfires’ path of destruction in maps, satellite images and photos - NBC News
-- Andy Burnham to give regional mayors share of income tax - BBC
-- Anthropic says Claude AI hacked three firms during cyber tests - BBC
-- Why Amazon (AMZN) Stock Is Jumping 10% Despite a Massive AI Capex Hike - Barron's
-- Microsoft's stock rockets more than 15% for largest single-day jump in history - Yahoo Finance
-- Mortgage rates hit their highest level in a year, driven by war and inflation concerns - npr.org
-- Tim Cook says Apple may charge for AI Siri - Axios
-- Galaxy Z Fold 8 Review: A Passport-Size Shape-Shifter for Every Moment - CNET
+- Death toll from Japan earthquake climbs to 34 - Al Jazeera
+- Ukraine escalates Wildberries attacks to hit Russia’s second-biggest bank as missile crashes in Poland (Ukraine Battlefield update, Day 1,618) - EUobserver
+- Nirmal Purja: Renowned climber among 10 mountaineers feared missing after Pakistan avalanche - BBC
+- Anthropic's Claude AI escapes tests to hack 3 organisations - BBC
+- Nasdaq futures rise as Wall Street rebounds; South Korea's Kospi soars 15%: Live updates - cnbc.com
+- AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares - TechCrunch
+- Imports hold back US economic growth in Q2, but domestic demand robust - reuters.com
+- "Insane" demand has the Galaxy Z Fold 8 line generating more pre-orders than the Galaxy S26 series - PhoneArena
+- Google brings Nano Banana 2 to Google Earth - GSMArena.com news - GSMArena.com
