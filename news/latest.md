@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-31 20:08_
+_Updated: 2026-07-31 22:06_
 
-- 60,000 migrants crossed into Spanish territory of Ceuta, but many soon left voluntarily - AP News
-- Hamas agrees to Trump's disarmament deal to enable Israeli withdrawal - Euronews.com
-- Hackers targeted municipal water systems in 7 states this week, FBI says - NBC News
-- Trump defends DOJ weaponization fund and attacks Cornyn, further imperiling Blanche nomination - cnn.com
-- A new Colorado River plan requires water cuts for three states. Deeper cuts are still possible. - The Washington Post
+- Spain says migrants are returning from Ceuta after 57 die in border rush - Reuters
+- Trump rejects Iran blame for Minnesota cyberattack, points finger at 'corrupt' political foe - Fox News
+- Senate Republican warns Trump against delaying Blanche nomination: ‘This place could be very different’ - The Hill
+- Autopsy results for Nolan Wells now complete, officials say - WLBT
+- Military jet crashes and burns at California Marine Corps base - CNN
 - Airports, nursing homes and schools brace for disruption without Haitian workers - The Washington Post
-- Police chief resigns days after deadly shooting in US city of Seattle - Al Jazeera
+- A new Colorado River plan requires water cuts for three states. Deeper cuts are still possible. - The Washington Post
+- Redacted ransom notes tied to Nancy Guthrie’s disappearance released - AZ Family
 - Sean Grayson, officer who shot Sonya Massey, denied medical release from 20-year prison sentence - NBC News
-- Father of Georgia school shooter sentenced to 15 years in prison - Reuters
-- Gavin Newsom and His Wife Made $1.4 Million in 2024, Tax Returns Show - The New York Times
+- Newsom reveals tax returns in run-up to 2028 - Politico
+- Trump’s Gaza Deal Sparks Questions on Whether Israel, Hamas Will Comply - The New York Times
+- Pakistani rescuers recover 3 bodies of the 10 climbers missing on Broad Peak after an avalanche - AP News
 - As heat and dry conditions fan wildfires in France, volunteers fan out to help - AP News
-- 4 Bodies Found, 6 Climbers Missing After Avalanche in Pakistan - The New York Times
-- Ukraine Hits Wildberries Logistics Center and Energy Facility in Volgograd, Killing At Least One - themoscowtimes.com
-- Oil price rises after Iran says it stops ships in Hormuz - Reuters
-- How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days - cnbc.com
-- New York sues Kalshi for alleged 'illegal gambling operation' - ESPN
-- Amazon stock soars as e-commerce giant's AWS cloud business booms in 'home run' quarter - Yahoo Finance
-- Wall Street trades higher in a choppy session as Amazon rallies - Seeking Alpha
-- First Googlebooks from Lenovo leak: Two sizes and 2-in-1 tablet - 9to5Google
-- Reddit is testing a new way to watch — and listen to — its viral posts - TechCrunch
+- Iran strikes tankers under US escort in Hormuz strait as Trump gathers cabinet to discuss war - The Guardian
+- Why Situational Awareness hedge fund imploded, even in a tame stock market - CNBC
+- Anthropic says Claude accidentally hacked real companies too - The Verge
+- Futures higher after chip rally; Apple, Amazon report - what’s moving markets - Investing.com
+- Amazon stock soars as e-commerce giant's AWS cloud business booms in 'home run' quarter - finance.yahoo.com
+- New Google Earth AI tool could fuel misinformation, experts say - BBC
+- Review: The Galaxy Z Fold 8’s new shape isn’t for you – it’s for everyone - 9to5Google
