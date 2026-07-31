@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-31 23:44_
+_Updated: 2026-08-01 00:45_
 
-- Nancy Guthrie ransom notes: Sheriff’s department releases full contents in hopes of generating new leads - CNN
-- Spain’s Ceuta In ‘Chaos’: What To Know About Migrant Surge - Forbes
-- Trump defends ‘anti-weaponization’ fund, further complicating Blanche nomination - NBC News
-- Trump blames governor, not Iran, for Minnesota cyberattack - USA Today
-- Autopsy results for Nolan Wells now complete, officials say - WLBT
-- What's in the Gaza peace deal roadmap? - BBC
+- Trump administration drops Reflecting Pool case, blaming damage on ‘botched’ installation - NBC News
+- Nancy Guthrie Ransom Notes Demanded Millions, Then Said She Had Perished - The New York Times
+- Spain says migrants are returning from Ceuta after 57 die in border rush - Reuters
+- Trump says he wishes anti-weaponization fund wasn't dead, angering senators he needs to confirm Blanche - Politico
+- Trump brokers Hamas disarmament deal as Saudi Arabia plans Houthi offensive - Fox News
 - F-35 fighter jet crashes near San Diego Marine Corps base, sparking fire - CBS News
-- Ex-deputy who shot Sonya Massey is denied a request for medical release from prison - AP News
-- Suspects identified, new details released in Chino Hills kidnapping, execution - KTLA
-- A new Colorado River plan requires water cuts for three states. Deeper cuts are still possible. - The Washington Post
-- Pakistani rescuers recover 3 bodies of the 10 climbers missing on Broad Peak after an avalanche - AP News
-- Oil price rises after Iran says it stops ships in Hormuz - reuters.com
+- Ex-deputy who shot Sonya Massey is denied a request for medical release from prison - apnews.com
+- Trump says Iran not to blame for Minnesota cyberattack - Reuters
+- Gavin Newsom and His Wife Made $1.4 Million in 2024, Tax Returns Show - The New York Times
+- Coast Guard Vows to Protect Crews From Brain Injuries Caused by Rough Seas - The New York Times
+- 4 Bodies Found, 6 Climbers Missing After Avalanche in Pakistan - The New York Times
 - Rare footage of humpback whale birth captured on drone video: "A remarkable moment" - CBS News
 - Moscow Court Orders Detention of Boris Nemtsov’s Daughter in Absentia - The Moscow Times
-- Anthropic says its AI models hacked 3 organizations on their own during tests - ABC News - Breaking News, Latest News and Videos
-- Leopold Aschenbrenner's AI hedge fund collapses after margin calls - Yahoo Finance
-- Apple stock plunges: $300 support hangs by a thread after guidance miss (AAPL:NASDAQ) - Seeking Alpha
-- Chevron and Exxon earnings soar as Trump threatens price interventions - Financial Times
+- In France’s beloved vineyards, raging wildfires threaten a way of life - NBC News
+- Anthropic says Claude accidentally hacked real companies too - The Verge
+- How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days - CNBC
+- Apple Shares Sink as Weak Guidance Triggers Analyst Downgrade - Yahoo Finance
+- Wall Street ends higher as Amazon soothes AI jitters - Reuters
 - Google Earth’s AI deepfake tool only lasted one day - The Verge
 - Weekly deals roundup: Galaxy Z Fold 8/Z Fold 8 Ultra/Z Flip 8 launch offers plus a whole lot more - PhoneArena
