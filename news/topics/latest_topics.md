@@ -1,37 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-31 17:37_
+_Updated: 2026-07-31 20:03_
 
 ## Top Stories
 
-- Tusentals migranter tog sig in i Spanien – flera döda - Göteborgs-Posten
-- DN Direkt – Kaptenen misstänkt efter båtolyckan vid Tjörn - Dagens Nyheter
-- Så blir sista semesterveckan: ”Typiskt svenskt sommarväder” - Aftonbladet
-- Stora bränder härjar i Europa – så rustat är Sverige - Dagens Arbete
-- Trump: Uppgörelse nådd om att avväpna Hamas - corren.se
-- Kvinna åtalas – larmade om falsk våldtäkt i Pildammsparken - Sydsvenskan
+- DN Direkt – Trump om migrantkrisen i Ceuta: ”Fruktansvärt” - Dagens Nyheter
+- Italien pausar Schengen-avtalet med Spanien - Göteborgs-Posten
+- Regeringen backar om vargen - Västerbottens-Kuriren
+- Stor sorg: ”Det kunde varit vi” - Expressen
+- Bombmannen till sonen: "Vet inte om jag gör rätt" - Göteborgs-Posten
+- Bilar i krock på E4 i höjd med Bureå – två personer till sjukhus - SVT Nyheter
 - Viktoria fick ström genom kroppen efter blixtnedslag i Bjurholm - SVT Nyheter
-- Klart: Gratis vattkoppsvaccin för barn - Dagens Nyheter
-- Man häktas efter attack mot S-lokal - Västerbottens-Kuriren
+- Hatstorm när Henrik Juhlin (C) uppträder i klänning - Dagens Nyheter
+- Ny stor skogsbrand utanför Skinnskatteberg – under kontroll - SVT Nyheter
 - Stopp i ett körfält på grund av flera stillastående lastbilar på E18 - UNT
-- DN Direkt – Minst 25 döda i bussolycka i Algeriet - Dagens Nyheter
-- Ryssland: Fartyg med förnödenheter till Ukraina träffat - Dagens Nyheter
-- Iran: Nya attacker mot amerikanska baser - Hufvudstadsbladet – HBL
-- Analys: Klimatförändringar gjorde bränderna värre - corren.se
-- Stockholmsbörsen stiger tydligt i fredagens öppningshandel - Placera.se
+- Direkt – Krisen i Mellanöstern – Trump: Avtal om avväpning i Gaza har nåtts - Dagens Nyheter
+- Många döda i bussolycka i Algeriet - SVT Nyheter
+- Ny brand utanför Aten – förbättrat läge på Kreta - Corren
+- Experten om späckhuggarnas attacker: ”Minimal risk att beteendet sprids till Sverige” - Dagens Nyheter
+- Stockholmsbörsen avslutar juli med flaggan i topp - EFN
 - Techjättar väntas spreta på ljusgröna USA-börser - Dagens industri
 - Strategen om AI-bolagen: "Det är inte ett värderingsproblem" - Affärsvärlden
-- Affärsvärlden rekommenderar köp av Meko - Affärsvärlden
-- Påverkade barn behövde akut vård – hårt tryck på sjukhuset under Skärgårdsfesten - Blekinge Läns Tidning
-- ANNONS: Därför tar livedealerspel över i Sverige under 2026 - Tidningen Skärgården
+- Därför kan börsen svänga 20 procent på en dag - Göteborgs-Posten
+- Musks raket nära krasch – på månen - Svenska Dagbladet
+- Apple: Användare kan behöva betala för nya Siri - Göteborgs-Posten
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på inatt 00:55 - TV.nu
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - new.abb.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
@@ -77,9 +77,9 @@ _Updated: 2026-07-31 17:37_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Four European takes on open banking - Mastercard Data and Services - Mastercard
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - nordea.com
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
+- Four European takes on open banking - Mastercard Data and Services - mastercard.com
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -96,7 +96,7 @@ _Updated: 2026-07-31 17:37_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
@@ -106,7 +106,7 @@ _Updated: 2026-07-31 17:37_
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar HealthBench - openai.com
+- Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -121,7 +121,7 @@ _Updated: 2026-07-31 17:37_
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - openai.com
+- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
@@ -153,10 +153,10 @@ _Updated: 2026-07-31 17:37_
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Kan agroekologi mätta världen? - SLU
