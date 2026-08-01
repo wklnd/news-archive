@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-01 00:45_
+_Updated: 2026-08-01 03:13_
 
+- Nancy Guthrie Ransom Notes Released by Sheriff’s Department Searching for New Leads - The New York Times
 - Trump administration drops Reflecting Pool case, blaming damage on ‘botched’ installation - NBC News
-- Nancy Guthrie Ransom Notes Demanded Millions, Then Said She Had Perished - The New York Times
-- Spain says migrants are returning from Ceuta after 57 die in border rush - Reuters
-- Trump says he wishes anti-weaponization fund wasn't dead, angering senators he needs to confirm Blanche - Politico
 - Trump brokers Hamas disarmament deal as Saudi Arabia plans Houthi offensive - Fox News
+- Trump says anti-weaponization fund in IRS settlement is ‘dead’ even as he defends it - AP News
+- Ceuta: Spain says most migrants have returned to Morocco - DW.com
 - F-35 fighter jet crashes near San Diego Marine Corps base, sparking fire - CBS News
-- Ex-deputy who shot Sonya Massey is denied a request for medical release from prison - apnews.com
-- Trump says Iran not to blame for Minnesota cyberattack - Reuters
-- Gavin Newsom and His Wife Made $1.4 Million in 2024, Tax Returns Show - The New York Times
+- Trump blames Minnesota water hacks on Walz, while evidence points to Iran - Politico
+- Ex-cop convicted of Sonya Massey’s murder denied early prison release - Chicago Sun-Times
+- U.S., Israel preparing to bombard energy-related targets in Iran, sources say - CBS News
 - Coast Guard Vows to Protect Crews From Brain Injuries Caused by Rough Seas - The New York Times
-- 4 Bodies Found, 6 Climbers Missing After Avalanche in Pakistan - The New York Times
-- Rare footage of humpback whale birth captured on drone video: "A remarkable moment" - CBS News
-- Moscow Court Orders Detention of Boris Nemtsov’s Daughter in Absentia - The Moscow Times
 - In France’s beloved vineyards, raging wildfires threaten a way of life - NBC News
-- Anthropic says Claude accidentally hacked real companies too - The Verge
-- How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days - CNBC
-- Apple Shares Sink as Weak Guidance Triggers Analyst Downgrade - Yahoo Finance
+- Russia and Ukraine report casualties as they continue to trade attacks - Al Jazeera
+- Labour's Bev Craig elected new Mayor of Greater Manchester - BBC
+- Renowned Climber Nirmal Purja Is Missing After Avalanche in Pakistan as 4 Bodies Are Found - The New York Times
+- Apple stock slides nearly 10% as Cook warns of memory shortage impact - Yahoo Finance
+- Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout - Financial Times
 - Wall Street ends higher as Amazon soothes AI jitters - Reuters
-- Google Earth’s AI deepfake tool only lasted one day - The Verge
+- BOJ Data Suggest Japan Intervention of About 8.45 Trillion Yen - Bloomberg.com
+- Google Earth risked ruin with retracted AI tool for making fake satellite pics - Ars Technica
 - Weekly deals roundup: Galaxy Z Fold 8/Z Fold 8 Ultra/Z Flip 8 launch offers plus a whole lot more - PhoneArena
