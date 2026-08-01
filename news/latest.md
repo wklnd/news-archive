@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-01 23:35_
+_Updated: 2026-08-02 00:36_
 
 - In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath - The New York Times
-- 22 EU leaders call for emergency talks over Ceuta migrant crisis - Euronews.com
-- The Michigan Senate Primary Is a Battle for Democrats’ Future - rollingstone.com
-- Zelensky says Ukraine has ‘no interceptors’ as ballistic missiles hit Kyiv - washingtonpost.com
-- A brief timeline of Iranian cyberattacks on U.S. companies, political figures, water systems and more - CBS News
+- EU calls emergency meeting to discuss Ceuta migrant crossings - BBC
+- Zelensky says Ukraine has ‘no interceptors’ as ballistic missiles hit Kyiv - The Washington Post
+- The Michigan Senate Primary Is a Battle for Democrats’ Future - Rolling Stone
 - Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked - NBC News
+- Famed climber Nirmal Purja among 10 climbers killed after Pakistan avalanche, officials say - CBS News
 - 'Our hearts are in ruins,' Savannah Guthrie says after kidnapped mother's ransom notes released - BBC
-- Democrats see a chance to flip a US House seat as abuse claims mount against Ohio Rep. Max Miller - AP News
+- Democrats see a chance to flip a seat as focus on abuse claims mounts against Ohio Rep. Max Miller - AP News
+- A brief timeline of Iranian cyberattacks on U.S. companies, political figures, water systems and more - CBS News
 - A new option for terminally ill patients in New York: Medically assisted death - NBC News
-- The Trump administration's ‘draconian’ water cuts could gut Arizona’s Colorado River supply - Arizona Mirror
-- Nirmal Purja Dead In Avalanche: Mountaineer In Netflix Documentary Was 43 - Deadline
-- Trump threatens more strikes on Iran. Tensions from Hormuz to Kuwait and Gaza lead to more warnings - AP News
-- Firefighters in Greece struggle to save coastal resort as winds rage - The Times of Israel
-- At least three killed in explosion near cafe in Russia’s Moscow - Al Jazeera
+- At least three killed in explosion near cafe in Russia’s Moscow - aljazeera.com
+- Europe’s wildfire crisis eases in west as danger shifts east to Greece - AP News
+- At least 11 wounded by Colombia car bomb days before presidential election - aljazeera.com
+- State Department urges Americans to consider leaving Middle East as regional conflict escalates - NBC News
 - Trump offering early access to online posts in move seen as corruption - The Guardian
-- Why did OpenAI's and Anthropic's AI models hack other companies? - npr.org
-- Major airline cancels 81 flights as strike looms, no refunds - thestreet.com
-- How Citadel’s Situational Awareness deal helped avert a $3T AI selloff - Seeking Alpha
+- Why did OpenAI's and Anthropic's AI models hack other companies? - NPR
+- Warsh’s Silent Treatment Has S&P Traders Bracing for Wild Swings - Bloomberg.com
+- I asked ChatGPT for the probability of SpaceX stock falling below $90. It said… - Yahoo Finance UK
 - Google Pixel 11: Every rumor, leak, and confirmed fact ahead of Made By Google - Mashable
-- Engadget Review Recap: Samsung Galaxy Z Fold 8, Meta Glasses And More - Engadget
+- Samsung Galaxy S27 Ultra leak reveals massive camera and battery overhaul - Android Central
