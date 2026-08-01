@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-01 09:50_
+_Updated: 2026-08-01 12:21_
 
-- Italy closes air and sea borders, suspends Schengen with Spain over Ceuta migrant crisis - The Hill
-- DOJ drops Reflecting Pool charge, citing ‘botched’ work and contradicting Trump - washingtonpost.com
+- DOJ drops Reflecting Pool charge, citing ‘botched’ work and contradicting Trump - The Washington Post
 - Trump brokers Hamas disarmament deal as Saudi Arabia plans Houthi offensive - Fox News
 - Nancy Guthrie Ransom Notes Released by Sheriff: 'She Perished Shortly After She Was Taken' - Rolling Stone
+- Italy closes air and sea borders, suspends Schengen with Spain over Ceuta migrant crisis - The Hill
 - Trump says anti-weaponization fund in IRS settlement is ‘dead’ even as he defends it - AP News
-- Walz blasts unfounded Trump claim on cyberattacks - MPR News
-- Live Updates: U.S. preparing new Iran strikes with Israel as Trump says, "We've done an amazing job" - CBS News
-- Officer Charged With Violating Privacy for Recording Colleagues’ Racism - The New York Times
 - The Trump administration's ‘draconian’ water cuts could gut Arizona’s Colorado River supply - Arizona Mirror
+- Walz blasts unfounded Trump claim on cyberattacks - MPR News
+- Live updates: Trump warns fresh strikes on Iran are coming as Kuwait reports drone attacks - CNN
+- Mamdani not called to speak at NYC funeral of Army sergeant killed in Iranian attack: report - Fox News
 - Shon Barnes receiving over $590K to step down as Seattle’s police chief - The Seattle Times
 - Russia hits Ukrainian capital with ballistic missiles and drones, killing at least 9 - AP News
-- Labour's Bev Craig elected Greater Manchester mayor - BBC
-- In France’s beloved vineyards, raging wildfires threaten a way of life - NBC News
-- U.S., Allies Put Frictions Aside, Showing China Combined Naval Might - WSJ
+- How a preparedness culture saves lives in Japan’s earthquakes - NBC News
+- Zelenskyy asks Trump to help him get Elon Musk's OK to use Starlink to help with strikes on Russia - AP News
+- People allowed back home in southwestern France as fire weakens - Reuters
+- Fed rates dissenters make their case for higher rates - Axios
 - EXCLUSIVE: Bessent's 'to do' list: buy $5-10 billion worth of Japanese yen, Reuters photo shows - Reuters
-- Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout - Financial Times
-- Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. He is losing that fight so far - AP News
-- Stock Market News, July 31, 2026: Apple Stock Falls, but Nasdaq Marches Higher - WSJ
+- With Situational Awareness AI deal, Citadel's Griffin rides to the rescue again - Yahoo Finance
+- Anthropic, OpenAI Cyber Failures Point to US Security Risks - Bloomberg.com
 - Major Windows 11 update will make 8GB RAM laptops much better to use - Windows Central
-- See how Google Earth let people make fake scenes of bombings, riots and destruction - washingtonpost.com
+- See how Google Earth let people make fake scenes of bombings, riots and destruction - The Washington Post
