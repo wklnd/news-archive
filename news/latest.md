@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-01 06:59_
+_Updated: 2026-08-01 09:50_
 
+- Italy closes air and sea borders, suspends Schengen with Spain over Ceuta migrant crisis - The Hill
 - DOJ drops Reflecting Pool charge, citing ‘botched’ work and contradicting Trump - washingtonpost.com
-- Most of the 60,000 migrants who crossed into territory of Ceuta have left voluntarily, Spain says - PBS
-- Nancy Guthrie Ransom Notes Released by Sheriff’s Department Searching for New Leads - The New York Times
 - Trump brokers Hamas disarmament deal as Saudi Arabia plans Houthi offensive - Fox News
-- Trump Administration Plans to Upend Head Start by Deregulating It - The New York Times
-- Fetterman: Trump has ‘zero leverage’ over lame-duck GOP senators - The Hill
-- Trump blames Minnesota water hacks on Walz, while evidence points to Iran - Politico
+- Nancy Guthrie Ransom Notes Released by Sheriff: 'She Perished Shortly After She Was Taken' - Rolling Stone
+- Trump says anti-weaponization fund in IRS settlement is ‘dead’ even as he defends it - AP News
+- Walz blasts unfounded Trump claim on cyberattacks - MPR News
 - Live Updates: U.S. preparing new Iran strikes with Israel as Trump says, "We've done an amazing job" - CBS News
 - Officer Charged With Violating Privacy for Recording Colleagues’ Racism - The New York Times
-- He was charged with his wife’s murder — without a body. It was hiding in plain sight for years. - NBC News
-- Russian missile attack kills three in Ukraine’s Kyiv - Al Jazeera
-- Labour's Bev Craig elected Greater Manchester Mayor - bbc.com
-- Pakistani rescuers recover 3 bodies of the 10 climbers missing on Broad Peak after an avalanche - apnews.com
+- The Trump administration's ‘draconian’ water cuts could gut Arizona’s Colorado River supply - Arizona Mirror
+- Shon Barnes receiving over $590K to step down as Seattle’s police chief - The Seattle Times
+- Russia hits Ukrainian capital with ballistic missiles and drones, killing at least 9 - AP News
+- Labour's Bev Craig elected Greater Manchester mayor - BBC
 - In France’s beloved vineyards, raging wildfires threaten a way of life - NBC News
+- U.S., Allies Put Frictions Aside, Showing China Combined Naval Might - WSJ
 - EXCLUSIVE: Bessent's 'to do' list: buy $5-10 billion worth of Japanese yen, Reuters photo shows - Reuters
-- Leopold Aschenbrenner's AI hedge fund collapses after margin calls - Yahoo Finance
-- OpenAI reportedly finds evidence that more of its agents ran amok - techcrunch.com
-- Chevron and Exxon earnings soar as Trump threatens price interventions - Financial Times
+- Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout - Financial Times
+- Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. He is losing that fight so far - AP News
+- Stock Market News, July 31, 2026: Apple Stock Falls, but Nasdaq Marches Higher - WSJ
+- Major Windows 11 update will make 8GB RAM laptops much better to use - Windows Central
 - See how Google Earth let people make fake scenes of bombings, riots and destruction - washingtonpost.com
-- Microsoft Promises Better Windows 11 Memory Efficiency - TechPowerUp
