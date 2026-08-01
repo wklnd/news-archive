@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-01 17:36_
+_Updated: 2026-08-01 19:32_
 
 ## Top Stories
 
-- EU-ledare kräver krismöte om migrantvågen - Västerbottens-Kuriren
-- Gräsbrand vid tågspår – nu rullar tågen - Expressen
+- Bärplockare skadad i björnattack - Göteborgs-Posten
+- DN Direkt – Kristersson kräver krismöte om migrantström - Dagens Nyheter
+- Kaptenen begärd häktad efter Tjörn-olyckan - Aftonbladet
 - Pride i skuggan av Berlindåd: ”Känner mig trygg” - Västerbottens-Kuriren
-- Minst nio döda i ryska attacker mot Kiev i Ukraina - Dagens Nyheter
-- En död i flygplansolycka – planet började brinna - sverigesradio.se
 - Källor: USA-general varnar – kan inte skydda Israel - Västerbottens-Kuriren
-- Därför är bensinen så mycket billigare i Sverige - Hufvudstadsbladet – HBL
-- Smygfotografering i dusch på scoutläger - Västerbottens-Kuriren
-- Just nu: En stillastående personbil ger stopp i ett körfält på E4 - UNT
+- Maktmissbruk straffbart för offentligt anställda - Göteborgs-Posten
+- DN Direkt – En person död i flygkrasch i Karlstad - Dagens Nyheter
 - Jonas Fröberg: Regeringen gasar bort från omställningen - Dagens Nyheter
-- Källor: USA och Israel planerar bombanfall mot Iran - Dagens Nyheter
+- Just nu: En stillastående personbil ger stopp i ett körfält på E4 - UNT
+- Uppgifter: Gängtoppen gripen i Jonas Falks hus - SVT Nyheter
+- Fem frågor till DN:s vinexpert efter bränderna i vinländerna Frankrike och Spanien - Dagens Nyheter
+- Minst nio döda i ryska attacker mot Kiev i Ukraina - Dagens Nyheter
+- Flera skadade i bombdåd i Colombia - SVT Nyheter
 - Amerikaner i Mellanöstern uppmanas lämna - Corren
-- Franska skogsbranden under kontroll - Corren
-- Europas storfloder nästan torrlagda: ”Chockerande" - Corren
 - Stockholmsbörsen avslutar juli med flaggan i topp - EFN
-- GRÖNT AVSLUT PÅ JULI NÄR AI-ORON MINSKADE, S&P 500 +0,7% - Placera.se
-- Extremväder driver upp kopparpriset - aftonbladet.se
-- Temu hindrade EU:s razzia – riskerar miljardböter - Dagens PS
-- Microsoft ska göra Windows 11 snabbare på datorer med 8 GB RAM - PC för Alla
+- Ture Wester: Rekordstark börs i AI-stormen - EFN
+- Extremväder driver upp kopparpriset - Dagens industri
+- Aker Capitals kontanterbjudande på Aker Biomarine accepterat för 10,7 miljoner aktier - Placera.se
 - Marios skapare förklarar: Det här är anledningen till att kriget om konsolernas prestanda är över - notebookcheck.se
+- Varningen till alla med Gmail – detta kan stoppa dina mejl - News55
 
 ## World News
 
@@ -31,16 +31,16 @@ _Updated: 2026-08-01 17:36_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
@@ -50,21 +50,21 @@ _Updated: 2026-08-01 17:36_
 
 ## Technology
 
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Leveraging AI in Swedish Development Cooperation - fuf.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
-- Artificial intelligence in enterprises 2025 - scb.se
+- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Kina utökar övervakning i realtid av invånarna - omni.se
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
@@ -76,9 +76,9 @@ _Updated: 2026-08-01 17:36_
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -86,10 +86,10 @@ _Updated: 2026-08-01 17:36_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
@@ -130,7 +130,7 @@ _Updated: 2026-08-01 17:36_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Täta band mellan turism och forskning på Svalbard - SLU
+- Täta band mellan turism och forskning på Svalbard - slu.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
@@ -142,7 +142,7 @@ _Updated: 2026-08-01 17:36_
 
 ## Jordbruk
 
-- Sveriges förändrade lantbruk - SLU
+- Sveriges förändrade lantbruk - slu.se
 - Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
@@ -150,15 +150,15 @@ _Updated: 2026-08-01 17:36_
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
-- Jord, kor och klimat - SLU
+- Jord, kor och klimat - slu.se
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
-- Lantbrukslogik – nu och i framtiden - SLU
+- Lantbrukslogik – nu och i framtiden - slu.se
 - Visning av uppkomst efter direktsådd - Land.se
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Kan agroekologi mätta världen? - SLU
+- Kan agroekologi mätta världen? - slu.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
