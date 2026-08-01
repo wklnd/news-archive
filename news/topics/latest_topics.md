@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-01 20:30_
+_Updated: 2026-08-01 21:43_
 
 ## Top Stories
 
 - DN Direkt – Kristersson kräver krismöte om migrantström - Dagens Nyheter
 - Kaptenen i båtolyckan begärd häktad - Expressen
-- Pride i skuggan av Berlindåd: ”Känner mig trygg” - vk.se
-- Uppgifter: Gängtopp gripen i Jonas Falks hus - Omni – Alla nyheter. Alla perspektiv.
-- Politiker och tjänstemän kan straffas – det innebär det nya brottet - Altinget.se
-- Källor: USA-general varnar – kan inte skydda Israel - vk.se
-- Mindre flygplan i brand i Karlstad - vk.se
-- Just nu: Stillastående personbil orsakar stopp i ett körfält på E4 - Corren
-- Bärplockare attackerad av björn - SVT Nyheter
+- Minst nio döda i attacker mot Kiev - Göteborgs-Posten
+- Pride i skuggan av Berlindåd: ”Känner mig trygg” - Västerbottens-Kuriren
+- En död i flygplansolycka – planet började brinna - Sveriges Radio
+- Kvinna till akuten efter björnattack i Lycksele - Omni – Alla nyheter. Alla perspektiv.
 - Misstänkt grov våldtäkt i Malmö – två män anhållna - SVT Nyheter
+- Just nu: En stillastående personbil ger stopp i ett körfält på E4 - UNT
+- CARL STRÄNG: Liberalernas desperation börjar bli sorglig - UNT
+- Uppgift: Gängtopp gripen i Spanien - Göteborgs-Posten
 - Fem frågor till DN:s vinexpert efter bränderna i vinländerna Frankrike och Spanien - Dagens Nyheter
 - Flera skadade i bombdåd i Colombia - SVT Nyheter
-- Minst nio döda i ryska attacker mot Kiev i Ukraina - Dagens Nyheter
 - Amerikaner i Mellanöstern uppmanas lämna - Corren
+- Källor: USA och Israel planerar bombanfall mot Iran - Dagens Nyheter
 - Olof K Gustafsson döms till fängelse - Aftonbladet
 - Stockholmsbörsen avslutar juli med flaggan i topp - EFN
 - Ture Wester: Rekordstark börs i AI-stormen - EFN
-- Extremväder driver upp kopparpriset - Folkbladet
+- Finland: "Nu börjar det se jäkligt bra ut" - Dagens PS
 - Marios skapare förklarar: Det här är anledningen till att kriget om konsolernas prestanda är över - notebookcheck.se
 - Varningen till alla med Gmail – detta kan stoppa dina mejl - News55
 
@@ -29,19 +29,19 @@ _Updated: 2026-08-01 20:30_
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - media.smart.com
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - entrackr.com
-- New communications project on China’s global “Belt and Road Initiative” - ui.se
+- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
@@ -52,24 +52,24 @@ _Updated: 2026-08-01 20:30_
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - computersweden.se
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
-- Leveraging AI in Swedish Development Cooperation - fuf.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Försäkringsbolag: AI är för riskabelt att försäkra - computersweden.se
+- USA och Kina dominerar stort när det gäller AI-patent - computersweden.se
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - computersweden.se
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - computersweden.se
+- Tiden för billig vibe coding kan vara över - computersweden.se
+- Albanien utser AI-bot till minister - computersweden.se
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - computersweden.se
 
 ## Business
 
@@ -77,7 +77,7 @@ _Updated: 2026-08-01 20:30_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Four European takes on open banking - Mastercard Data and Services - Mastercard
+- Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -120,25 +120,25 @@ _Updated: 2026-08-01 20:30_
 ## Science
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Ministeriet för vetenskap och teknik samarbetar i utvecklingen av Vietnams avancerade forsknings- och produktionscenter. - Vietnam.vn
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
@@ -147,18 +147,18 @@ _Updated: 2026-08-01 20:30_
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - Naturvårdsverket
-- Här är världens största jordbruk - ATL
+- Jordbrukspolitik - naturvardsverket.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Här är världens största jordbruk - atl.nu
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Så ska det australiensiska jordbruket bli hållbart - atl.nu
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
