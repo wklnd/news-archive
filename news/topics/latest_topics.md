@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-02 03:06_
+_Updated: 2026-08-02 06:55_
 
 ## Top Stories
 
 - Spaniens president slår tillbaka mot kritiker: ”Själviska” - Göteborgs-Posten
-- Ukrainas hopp för överlevnad – skapa politisk kris i Moskva - Dagens Nyheter
-- Tre döda i explosion vid kafé i Moskva - Corren
-- Efter båtolyckan – offren hedrades med tyst minut: ”Stor sorg” - Aftonbladet
-- Varje människa ska ha friheten att vara sig själv - Moderaterna
-- Varnar för extremhetta i Italien - vk.se
-- En stillastående personbil orsakar stopp i ett körfält på E18 - UNT
+- Tre döda i explosion vid kafé i Moskva - UNT
+- Risk för skogsbränder i flera delar av landet - Västerbottens-Kuriren
+- Wildberries vd förnekar koppling till ryska armén - Omni – Alla nyheter. Alla perspektiv.
+- Direkt – Krisen i Mellanöstern – Trump: Ställer in planerad Iranattack - Dagens Nyheter
+- Stopp i ett körfält på grund av en stillastående personbil på E18 - eposten.se
+- Pride i skuggan av Berlindåd: ”Känner mig trygg” - Corren
 - CARL STRÄNG: Liberalernas desperation börjar bli sorglig - UNT
-- Mindre flygplan i brand i Karlstad - Göteborgs-Posten
+- Just nu: Ett körfält blockerat på grund av en stillastående personbil på E4 - UNT
 - Misstänkt grov våldtäkt i Malmö – två män anhållna - SVT Nyheter
+- AFD kan bli störst i öst – Merz parti splittrat - Sveriges Radio
+- Flera ihjälskjutna i Idaho – köpcentrum inrymdes - Sveriges Radio
 - Fem frågor till DN:s vinexpert efter bränderna i vinländerna Frankrike och Spanien - Dagens Nyheter
-- Turister döda i flygolycka i Peru - Göteborgs-Posten
-- Källor: USA och Israel planerar bombanfall mot Iran - Dagens Nyheter
-- Flera döda efter skjutning vid restaurang i USA - Expressen
+- Minst nio döda i ryska attacker mot Kiev i Ukraina - Dagens Nyheter
 - Olof K Gustafsson döms till fängelse i USA - Svenska Dagbladet
 - Ture Wester: Rekordstark börs i AI-stormen - EFN
 - Stockholmsbörsen avslutar juli med flaggan i topp - EFN
-- Extremväder driver upp kopparpriset - Aftonbladet
+- Guide: Banker med över 2,50% sparränta - Aftonbladet
 - Galaxy Z Fold 8:s påståenden om att den är ”veckfri” ställs mot verkligheten efter en vecka - notebookcheck.se
 - Gulikit hintar om en ny pro-kontroller med justerbara avtryckare och låg latens - notebookcheck.se
 
 ## World News
 
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - travronden.se
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
+- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Kenya: Using social media for manipulation and suppression - globalbar.se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -61,11 +61,11 @@ _Updated: 2026-08-02 03:06_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -87,8 +87,8 @@ _Updated: 2026-08-02 03:06_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
@@ -99,7 +99,6 @@ _Updated: 2026-08-02 03:06_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Digital data håller på att bli "nyckeln" till framtidens hälso- och sjukvård. - Vietnam.vn
 - Sju life science-trender 2026 - Business Region Göteborg
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
@@ -107,15 +106,16 @@ _Updated: 2026-08-02 03:06_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
+- North Tan Uyen Regional Medical Center har blivit Binh Duong General Hospitals andra anläggning. - Vietnam.vn
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- North Tan Uyen Regional Medical Center har blivit Binh Duong General Hospitals andra anläggning. - Vietnam.vn
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
 ## Science
 
@@ -130,7 +130,7 @@ _Updated: 2026-08-02 03:06_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Täta band mellan turism och forskning på Svalbard - slu.se
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
@@ -142,23 +142,23 @@ _Updated: 2026-08-02 03:06_
 
 ## Jordbruk
 
-- Sveriges förändrade lantbruk - slu.se
-- Framtidens jordbruk - European Commission
+- Sveriges förändrade lantbruk - SLU
+- Framtidens jordbruk - commission.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - naturvardsverket.se
+- Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
-- Jord, kor och klimat - slu.se
+- Lantbrukslogik – nu och i framtiden - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
-- Lantbrukslogik – nu och i framtiden - slu.se
+- Jord, kor och klimat - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
-- Kan agroekologi mätta världen? - slu.se
+- Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
