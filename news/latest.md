@@ -1,4 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-02 17:43_
+_Updated: 2026-08-02 18:37_
 
+- Live updates: US-Iran war news; Trump calls off strikes subject to deal being ‘rapidly’ reached - CNN
+- Five Things You Didn’t Know About the Nancy Guthrie Case - WSJ
+- Spain received intelligence warnings before Ceuta migrant surge - Euronews.com
+- Idaho fast food restaurant shooting leaves 3 dead and 7 injured - Politico
+- Thousands of people under evacuation order from wildfires in Spokane, Wash. - NPR
+- ‘Voters have had it’: influence of pro-Israel lobby group sparks backlash in the US - Financial Times
+- Ohio Rep. Max Miller to stay in race ahead of ballot deadline - Politico
+- Several states report cyberattacks as spy agencies suspect Iran is targeting water - The Washington Post
+- What internet posts and public records reveal about a Michigan family’s life years before they were killed - NBC News
+- Family to sue after woman released from ICE custody froze to death - theguardian.com
+- Body of famed international climber Nirmal Purja and 3 more found after Pakistan avalanche - AP News
+- La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes - The New York Times
+- Two helicopters collide as Greece battles wildfires, Hungary shuts nuclear plant - reuters.com
+- Moscow restaurant blast a 'brutal terror attack,' mayor says - dw.com
+- Powerball Jackpot Grows to $748 Million—Here’s How Much A Winner Could Take Home After Taxes - Forbes
+- Canada's WestJet airline flight attendants go on strike - can I get a refund? - BBC
+- OPEC+ agrees September oil hike, completing rollback of voluntary cuts - reuters.com
+- Raising Cane's to open 7 new restaurants. See locations - USA Today
+- Xbox Series Prices Surge up to €200 in Europe as Microsoft Refuses to Bankroll the Troubled Division - Wccftech
+- Pixel 11 specs and price leak with no surprises - The Verge
