@@ -1,37 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-03 00:27_
+_Updated: 2026-08-03 01:29_
 
 ## Top Stories
 
 - Befälhavaren häktas efter båtolyckan utanför Tjörn - SVT Nyheter
 - DN Direkt – Minst 72 migranter döda i spanska Ceuta - Dagens Nyheter
-- Två tonåringar intensivvårdas efter krock med polisbuss - Sveriges Radio
 - Ryssland: Flera döda i ukrainska attacker - Göteborgs-Posten
 - Död kvinna hittad i resväska – man gripen - Dagens Nyheter
-- Bärplockare attackerad av björn: ”Spelade död” - Omni – Alla nyheter. Alla perspektiv.
+- Trump: Samtal inleds på måndag - Västerbottens-Kuriren
+- Man död i trafikolycka utanför Katrineholm - SVT Nyheter
 - Badbakterie ökar i Sverige – kan leda till döden - Corren
 - Tidigare barnmorskan Agneta förlöser bebisar hemma – nu väntar rättegång - Dagens Nyheter
 - Vanliga trädgårdsväxten en fara: ”Bjud inte hem branden” - Dagens Nyheter
-- SMHI varnar för stor skogsbrandsrisk i Jönköpings län - SVT Nyheter
-- DN Direkt – Flera döda i bussolycka i Italien - Dagens Nyheter
-- Flera döda i israeliska attacker i Gaza - SVT Nyheter
-- Iran och Oman nära uppgörelse om Hormuzsundet - Göteborgs-Posten
+- Två allvarligt skadade i Nybro – krockade med polisen - Göteborgs-Posten
+- Flera döda i bussolycka i Italien - Göteborgs-Posten
+- Direkt – Krisen i Mellanöstern – Flera döda i israeliska attacker i Gaza - Dagens Nyheter
+- DN Direkt – Fyndet i rekordtorkan: Mammutben - Dagens Nyheter
 - Försökte smuggla 633 liter lustgas – skulle baka - Västerbottens-Kuriren
-- Olof K Gustafsson: ”Ångrar ingenting” - svd.se
-- Här är biltillverkaren som vänder till vinst - Dagens PS
-- Wizz air dubblade familjens semesterkostnader – nu ska dolda extrakostnader stoppas - Dagens Nyheter
+- Jonas Fröberg: Vad händer när Europas industrimotor skär ihop? - Dagens Nyheter
+- USA stödköpte japanska yen - Svenska Dagbladet
+- Olof K Gustafsson efter domen: Jag ångrar ingenting - expressen.se
 - Dubbelrus på rekordbörs - Dagens industri
-- Då kan du se Elon Musks raket krascha – från jorden - TV4 Nyheterna
+- Då kan du se Elon Musks raket krascha – från jorden - tv4.se
 - 5 färska skäl bjuder in till att bli bläckfisk i "Splatoon: Raiders" - MovieZine
 
 ## World News
 
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - news.cision.com
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - news.cision.com
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - media.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -42,7 +42,7 @@ _Updated: 2026-08-03 00:27_
 - Kuriren nominerad för satsning på unga läsare - Norrbottens-Kuriren
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - entrackr.com
 - Maren Thurow starts as new Head Global Communications at Grünenthal - Via TT
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -54,19 +54,19 @@ _Updated: 2026-08-03 00:27_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
+- LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - swedbank-aktiellt.se
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - swedbank-aktiellt.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
+- Kina utökar övervakning i realtid av invånarna - omni.se
+- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - swedbank-aktiellt.se
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
+- Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - swedbank-aktiellt.se
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
@@ -78,7 +78,7 @@ _Updated: 2026-08-03 00:27_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - finanstid.se
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
@@ -101,7 +101,7 @@ _Updated: 2026-08-03 00:27_
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- firar 15 år av att skydda den globala hälsosektorn - health-isac.org
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
@@ -148,17 +148,17 @@ _Updated: 2026-08-03 00:27_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
-- Lantbrukslogik – nu och i framtiden - SLU
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jord, kor och klimat - SLU
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Lantbrukslogik – nu och i framtiden - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
