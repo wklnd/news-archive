@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-02 03:13_
+_Updated: 2026-08-02 06:59_
 
-- At least 3 dead and 2 injured in shooting in Idaho; suspect dead - NBC News
-- In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath - nytimes.com
-- Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations? - Al Jazeera
-- 'Our hearts are in ruins,' Savannah Guthrie says after kidnapped mother's ransom notes released - BBC
-- All 10 climbers swept away in avalanche in Pakistan are confirmed dead - PBS
-- The Michigan Senate Primary Is a Battle for Democrats’ Future - Rolling Stone
-- Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight - nytimes.com
-- Michigan joins Minnesota in reporting cyberattacks, with FBI investigating - Al Jazeera
-- Michigan farmer Dale Warner moved to UP prison, serving 31 years for wife’s murder - MLive.com
-- Statewide emergency declared as Washington bans most outdoor burning amid wildfire threat - KOMO
-- Russia hits Ukrainian capital with ballistic missiles and drones, killing at least 9 - AP News
-- At least three killed in explosion near cafe in Russia’s Moscow - Al Jazeera
-- Trump said to order strikes aimed at forcing Iran’s surrender; US citizens told to be ready to leave Mideast - The Times of Israel
-- Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop - nytimes.com
-- Major airline cancels 81 flights as strike looms, no refunds - thestreet.com
-- Trump offering early access to online posts in move seen as corruption - The Guardian
+- In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath - The New York Times
+- Multiple people dead after shooting at fast food restaurant in southern Idaho - AP News
+- Migrants say hunger and hostility drove them back from Spain's Ceuta to Morocco - Reuters
+- Letters sent to Nancy Guthrie’s family after her disappearance are released - NBC News
+- Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal - BBC
+- Nirmal Purja Dead In Avalanche: Mountaineer In Netflix Documentary Was 43 - Deadline
+- ‘Where’s Mitch?’ Kentucky Political Picnic Takes Place Without McConnell - The New York Times
+- Tillis says Blanche won't be confirmed as AG amid Trump fund fight - Axios
+- FBI investigates as Michigan joins Minnesota in reporting cyberattacks on its water systems - AP News
+- Data centers have a politics problem — and industry knows it - Politico
+- Zelensky says Ukraine has ‘no interceptors’ as ballistic missiles hit Kyiv - The Washington Post
+- Several people killed in explosion at Moscow restaurant, Russian officials say - CBS News
+- Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop - The New York Times
+- Israeli strikes kill seven across Gaza, destroy medical supply warehouse - Al Jazeera
 - How Citadel’s Situational Awareness deal helped avert a $3T AI selloff - Seeking Alpha
-- SpaceX Is Down 19% From Its IPO Price. Tesla's History Suggests This May Happen Next - Yahoo Finance
+- Will SpaceX paint its rocket pink? Investor questions go beyond Moon and Mars ahead of first results - Reuters
+- Bessent and the Fed Help Japan Reverse Months of Yen Losses - Bloomberg.com
+- Trump offering early access to online posts in move seen as corruption - The Guardian
 - Pixel 11 specs and price leak with no surprises - The Verge
-- I’m not convinced the 20th anniversary iPhone will be what we think, here’s why - 9to5mac.com
+- Deals: Samsung Galaxy S26 Ultra discounted, Galaxy Z Fold8 series up for pre-order - GSMArena.com news - GSMArena.com
