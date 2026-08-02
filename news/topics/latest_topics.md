@@ -1,42 +1,43 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-02 20:31_
+_Updated: 2026-08-02 21:44_
 
 ## Top Stories
 
 - Befälhavaren häktas efter båtolyckan utanför Tjörn - SVT Nyheter
+- Två allvarligt skadade i Nybro – krockade med polisen - Göteborgs-Posten
 - Bärplockare attackerad av björn: ”Spelade död” - Omni – Alla nyheter. Alla perspektiv.
-- Två pojkar till sjukhus efter krock med polisbuss - TV4 Nyheterna
-- Brandhelikoptrar krockade i Grekland – två döda - Göteborgs-Posten
-- SMHI: Mycket eller extremt stor risk för skogsbränder i länet - Corren
-- DN Direkt – Minst 72 migranter döda i spanska Ceuta - Dagens Nyheter
+- DN Direkt – Man död i trafikolycka utanför Katrineholm - Dagens Nyheter
+- Bilden som hotar Trump: ”Svikit oss” - Expressen
+- Iran och Oman nära uppgörelse om Hormuzsundet - Västerbottens-Kuriren
 - Föräldrarna: Olofs liv i fara om LSS-boendet stänger - Sveriges Radio
 - Badbakterie ökar i Sverige – kan leda till döden - NT
-- Veckor kvar till ödesvalet: Mohamsson vänder hem - Göteborgs-Posten
-- DN Direkt – Leopard avlivad efter olycka på Nordens Ark - Dagens Nyheter
+- Starka åsikter efter Blåvitts straff: ”Feldömd” - Göteborgs-Posten
+- Tidigare barnmorskan Agneta förlöser bebisar hemma – nu väntar rättegång - Dagens Nyheter
 - Flera döda i israeliska attacker i Gaza - SVT Nyheter
+- Fyndet i rekordtorkan: Mammutben - Göteborgs-Posten
 - Man nära att drunkna – fastnade i poolventil - Dagens Nyheter
-- Uppgifter: Rysk general måltavla för Moskvabomb - Göteborgs-Posten
-- Iran avfärdar Trump: ”Inget annat än lögner” - Västerbottens-Kuriren
+- Få ryssar har råd att semestra utomlands - Dagens Nyheter
 - Wizz air dubblade familjens semesterkostnader – nu ska dolda extrakostnader stoppas - Dagens Nyheter
+- Priserna rasar på marknaden - Expressen
 - Tvärnit för tyska bilar – ”Känns i hela Europa” - Corren
-- Bilarna som nått vägs ände - Dagens Nyheter
-- Här är biltillverkaren som vänder till vinst - Dagens PS
+- Dubbelrus på rekordbörs - di.se
 - Mars månar har varit ett mysterium för forskarna, men nu får vi äntligen svar på en av solsystemets största gåtor - Illustrerad Vetenskap
-- Sebastian, 38, tog med sig sonen på lan - Borås Tidning
+- Sony bekräftar bud på Tamron – vill köpa objektivtillverkaren - Fotosidan
 
 ## World News
 
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Martin Gelin: Det vi ser är början på en global backlash mot AI-företagen - Dagens Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Kuriren nominerad för satsning på unga läsare - Norrbottens-Kuriren
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
@@ -46,7 +47,6 @@ _Updated: 2026-08-02 20:31_
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
@@ -57,9 +57,9 @@ _Updated: 2026-08-02 20:31_
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Leveraging AI in Swedish Development Cooperation - fuf.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Artificial intelligence in enterprises 2025 - scb.se
+- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
@@ -99,7 +99,7 @@ _Updated: 2026-08-02 20:31_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Sju life science-trender 2026 - Business Region Göteborg
+- Sju life science-trender 2026 - businessregiongoteborg.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
@@ -124,12 +124,12 @@ _Updated: 2026-08-02 20:31_
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
 - Ministeriet för vetenskap och teknik samarbetar i utvecklingen av Vietnams avancerade forsknings- och produktionscenter. - Vietnam.vn
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- SND at Almedalsveckan 2024 - snd.se
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
