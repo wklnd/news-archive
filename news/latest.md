@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-02 12:19_
+_Updated: 2026-08-02 13:44_
 
-- Live updates: US-Iran war; Trump says he’s canceling planned attacks - CNN
-- ‘How Can Someone Vanish Without a Trace?’ - WSJ
-- Level 3 evacuations expanded for 979-acre Fairview Fire in Mead - NonStop Local KHQ
-- Migrants say hunger and hostility drove them back from Spain's Ceuta to Morocco - Reuters
-- Democratic Maine Senate candidate fathered 2 sons with his second cousin: reports - KOMO
+- Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly' - BBC
 - Idaho fast food restaurant shooting leaves 3 dead, city spokesman says - NPR
-- Democrats slam Trump admin after DOJ drops Reflecting Pool vandalism case - thehill.com
-- ‘Where’s Mitch?’ Kentucky Political Picnic Takes Place Without McConnell - nytimes.com
-- Several states report cyberattacks as spy agencies suspect Iran is targeting water - The Washington Post
-- Louisiana becomes latest state to launch Fauci investigation following explosive Senate hearing - Fox News
+- Gov. Bob Ferguson declares statewide emergency as Spokane-area wildfires spread - KOMO
+- Letters sent to Nancy Guthrie’s family after her disappearance are released - NBC News
+- After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach - The New York Times
+- Democratic Maine Senate candidate fathered 2 sons with his second cousin: reports - KOMO
+- Democrats slam Trump admin after DOJ drops Reflecting Pool vandalism case - The Hill
+- Iran’s demands leave Trump with few good options - Politico
+- Western U.S. heat wave brings record temps to Phoenix, wildfire evacuations in Spokane - Los Angeles Times
+- Family to sue after woman released from ICE custody froze to death - The Guardian
 - Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers - NPR
-- Three killed after bomb detonated at Moscow restaurant, state media say - BBC
-- Landslide death toll rises in China's Gansu Province as heavy rains continue - Reuters
+- 3 people killed, at least 21 wounded in Moscow restaurant bombing, Russian officials say - AP News
 - Zelensky says Ukraine has ‘no interceptors’ as ballistic missiles hit Kyiv - The Washington Post
+- Israel kills eight in Gaza despite Trump’s Hamas disarmament plan - Al Jazeera
+- Powerball numbers: $809K-winning Powerball ticket sold at LA gas station; jackpot grows to $748 million - ABC7 Los Angeles
 - How Citadel’s Situational Awareness deal helped avert a $3T AI selloff - Seeking Alpha
+- Canada's WestJet airline flight attendants go on strike - can I get a refund? - BBC
 - Will SpaceX paint its rocket pink? Investor questions go beyond Moon and Mars ahead of first results - Reuters
-- Bessent and the Fed Help Japan Reverse Months of Yen Losses - Bloomberg.com
-- ‘Much, much more than what’s been reported’: Keep cyclospora on your radar as cases climb in Illinois, expert advises - Daily Herald
-- Pixel 11 specs and price leak with no surprises - theverge.com
-- Look Familiar? Meet The KONKR Pocket Advance, AYANEO's New Game Boy Advance-Inspired Handheld - Time Extension
+- Ayaneo Reveals Its Game Boy Advance Remake Called The Konkr Pocket Advance - engadget.com
+- iPhone Air 2 Expected to Launch Early Next Year With Five New Features - MacRumors
