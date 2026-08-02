@@ -1,36 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-02 23:25_
+_Updated: 2026-08-03 00:27_
 
 ## Top Stories
 
+- Befälhavaren häktas efter båtolyckan utanför Tjörn - SVT Nyheter
 - DN Direkt – Minst 72 migranter döda i spanska Ceuta - Dagens Nyheter
-- Befälhavaren häktas efter båtolyckan utanför Tjörn - svt.se
 - Två tonåringar intensivvårdas efter krock med polisbuss - Sveriges Radio
 - Ryssland: Flera döda i ukrainska attacker - Göteborgs-Posten
-- Bilden som hotar Trump: ”Svikit oss” - expressen.se
-- Bärplockare attackerad av björn: ”Spelade död” - omni.se
-- Badbakterie ökar i Sverige – kan leda till döden - nt.se
+- Död kvinna hittad i resväska – man gripen - Dagens Nyheter
+- Bärplockare attackerad av björn: ”Spelade död” - Omni – Alla nyheter. Alla perspektiv.
+- Badbakterie ökar i Sverige – kan leda till döden - Corren
 - Tidigare barnmorskan Agneta förlöser bebisar hemma – nu väntar rättegång - Dagens Nyheter
 - Vanliga trädgårdsväxten en fara: ”Bjud inte hem branden” - Dagens Nyheter
-- Föräldrarna: Olofs liv i fara om LSS-boendet stänger - Sveriges Radio
-- Flera döda i israeliska attacker i Gaza - svt.se
-- DN Direkt – Fyndet i rekordtorkan: Mammutben - Dagens Nyheter
-- Få ryssar har råd att semestra utomlands - Dagens Nyheter
-- Brandhelikoptrar krockade i Grekland – två döda - Corren
-- Wizz air dubblade familjens semesterkostnader – nu ska dolda extrakostnader stoppas - Dagens Nyheter
-- Priserna rasar på marknaden - expressen.se
+- SMHI varnar för stor skogsbrandsrisk i Jönköpings län - SVT Nyheter
+- DN Direkt – Flera döda i bussolycka i Italien - Dagens Nyheter
+- Flera döda i israeliska attacker i Gaza - SVT Nyheter
+- Iran och Oman nära uppgörelse om Hormuzsundet - Göteborgs-Posten
+- Försökte smuggla 633 liter lustgas – skulle baka - Västerbottens-Kuriren
+- Olof K Gustafsson: ”Ångrar ingenting” - svd.se
 - Här är biltillverkaren som vänder till vinst - Dagens PS
-- Tvärnit för tyska bilar – ”Känns i hela Europa” - Corren
-- Då kan du se Elon Musks raket krascha – från jorden - tv4.se
-- Jag har börjat sälja av lite av min samling - FZ.se
+- Wizz air dubblade familjens semesterkostnader – nu ska dolda extrakostnader stoppas - Dagens Nyheter
+- Dubbelrus på rekordbörs - Dagens industri
+- Då kan du se Elon Musks raket krascha – från jorden - TV4 Nyheterna
+- 5 färska skäl bjuder in till att bli bläckfisk i "Splatoon: Raiders" - MovieZine
 
 ## World News
 
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - news.cision.com
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - news.cision.com
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -53,17 +53,17 @@ _Updated: 2026-08-02 23:25_
 - Ho Chi Minh-museet anordnade en specialiserad utbildningskonferens om "Tillämpning av artificiell intelligens (AI) i museiledning och drift". - Vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - omni.se
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
@@ -96,7 +96,7 @@ _Updated: 2026-08-02 23:25_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
@@ -104,9 +104,10 @@ _Updated: 2026-08-02 23:25_
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar HealthBench - openai.com
+- Vi presenterar HealthBench - OpenAI
 - Föräldrars råd till personal vid vård av barn med dödlig cancersjukdom - Läkartidningen
 - North Tan Uyen Regional Medical Center har blivit Binh Duong General Hospitals andra anläggning. - Vietnam.vn
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -114,15 +115,14 @@ _Updated: 2026-08-02 23:25_
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Da Nang: Överlämning av den multifunktionella byggstenen för Lien Chieu Regional Medical Center. - Vietnam.vn
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
 ## Science
 
-- AI for Scientific Research and Discovery - openai.com
+- AI for Scientific Research and Discovery - OpenAI
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
-- Kina drar om USA – bäst på forskning - svt.se
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ministeriet för vetenskap och teknik samarbetar i utvecklingen av Vietnams avancerade forsknings- och produktionscenter. - Vietnam.vn
@@ -133,7 +133,7 @@ _Updated: 2026-08-02 23:25_
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - openai.com
+- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
