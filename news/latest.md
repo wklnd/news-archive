@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-03 07:21_
+_Updated: 2026-08-03 10:50_
 
 - Trump says Iran talks to resume Monday after calling off planned strikes - CNBC
-- Live updates: Residents return to find homes destroyed by fast-moving wildfires in Washington state - CNN
-- Blanche rescinds fund for Trump supporters after GOP senators threaten to block his AG bid - AP News
-- Rep. Max Miller not dropping out after domestic abuse allegations - Axios
+- Fires near Spokane, Washington, have burned 600 structures and forced 60,000 evacuations - AP News
+- Acting AG Todd Blanche reaches deal with holdout senators to scrap $1.8B ‘anti-weaponization’ fund - NBC News
 - Idaho mass shooter died from self-inflicted gunshot, police say - Reuters
-- Two crew killed after firefighting helicopters collide in Greece, as British pilot survives - BBC
-- U.S. Rep. Marcy Kaptur ‘active, alert’ after crash; person involved at large - Toledo Blade
+- Senate appropriators reach funding deal to avoid shutdown - The Hill
 - Kay Granger, first Republican woman from Texas to serve in the House, has died at age 83 - Politico
-- Marquette Law School Poll director speaks on latest poll - Channel 3000
-- Billionaire tax is endorsed by California Democrats, deepening party divisions over Prop. 40 - Los Angeles Times
-- A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing - AP News
-- At least 72 dead amid mass migrant rush to storm Spanish enclave of Ceuta sparking border crisis - Fox News
-- Body of famed international climber Nirmal Purja and 3 more found after Pakistan avalanche - AP News
+- U.S. Rep. Marcy Kaptur ‘active, alert’ after crash; person involved at large - Toledo Blade
+- Rep. Max Miller not dropping out after domestic abuse allegations - axios.com
+- RFK Jr tells US families to vaccinate children against measles amid outbreak - The Guardian
+- Beshear fires back at Paul, Barr after missing Fancy Farm picnic - WFIE | 14 News
 - Israel says it has serious concerns with Hamas disarmament deal - AP News
-- US dollar weakens sharply against the Japanese yen after officials intervene in markets - AP News
-- Oil slumps on hopes of Iran deal, yen firms up after intervention - Reuters
+- Spain received intelligence warnings about Ceuta according a report - Euronews.com
+- Two crew killed after firefighting helicopters collide in Greece, as British pilot survives - BBC
+- 5 killed, dozens missing after fire breaks out on Indonesia passenger ferry - CBS News
+- US dollar weakens sharply against the Japanese yen after market interventions - AP News
+- Oil Slumps, US Futures Rise on Iran Talks Optimism: Markets Wrap - Bloomberg.com
 - Moving Back Home After College? All Your Friends Are Doing It. - The Seattle Times
-- WestJet strike cancels more than 300 flights across Canada - BBC
+- What smart people are saying about Trump Media charging for early access to the president's Truth Social posts - Business Insider
 - The global memory shortage hits the MacBook Air - TechCrunch
-- Xbox prices are increasing by up to €200 or £170 - theverge.com
+- Mega Pixel 11 series leak leaves nothing to the imagination - Android Authority
