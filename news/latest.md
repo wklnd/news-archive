@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-03 03:14_
+_Updated: 2026-08-03 07:21_
 
-- Live updates: Fresh uncertainty surrounds Iran war talks after Trump calls off strikes - CNN
-- Armed bystander distracted gunman in fatal In-N-Out shooting - NBC News
-- Fast-moving wildfires in Washington destroy hundreds of homes: "Worst natural disaster our region has faced" - CBS News
+- Trump says Iran talks to resume Monday after calling off planned strikes - CNBC
+- Live updates: Residents return to find homes destroyed by fast-moving wildfires in Washington state - CNN
+- Blanche rescinds fund for Trump supporters after GOP senators threaten to block his AG bid - AP News
+- Rep. Max Miller not dropping out after domestic abuse allegations - Axios
+- Idaho mass shooter died from self-inflicted gunshot, police say - Reuters
 - Two crew killed after firefighting helicopters collide in Greece, as British pilot survives - BBC
-- Sen. Bernie Moreno says former son-in-law Max Miller should not serve in the House - AP News
-- Iran Update Special Report, August 2, 2026 - Institute for the Study of War
-- Ohio Rep. Marcy Kaptur hospitalized after hit-and-run accident - Politico
-- Joining mayor's race, Giannoulias casts himself as a coalition builder, says Johnson ‘has not met the moment’ - Chicago Sun-Times
-- RFK Jr tells US families to vaccinate children against measles amid outbreak - The Guardian
-- GOP senator on Trump’s Reflecting Pool vandalism claims: ‘He grows anxious when he has an unexpressed thought’ - thehill.com
-- Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory - AP News
+- U.S. Rep. Marcy Kaptur ‘active, alert’ after crash; person involved at large - Toledo Blade
+- Kay Granger, first Republican woman from Texas to serve in the House, has died at age 83 - Politico
+- Marquette Law School Poll director speaks on latest poll - Channel 3000
+- Billionaire tax is endorsed by California Democrats, deepening party divisions over Prop. 40 - Los Angeles Times
+- A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing - AP News
+- At least 72 dead amid mass migrant rush to storm Spanish enclave of Ceuta sparking border crisis - Fox News
+- Body of famed international climber Nirmal Purja and 3 more found after Pakistan avalanche - AP News
 - Israel says it has serious concerns with Hamas disarmament deal - AP News
-- Ukrainian drones kill eight in Russia and strike Wildberries warehouse, governors say - Reuters
-- Israel kills 17 in Gaza as attacks escalate despite latest Trump plan - Al Jazeera
-- Flight attendants at Canada's WestJet go on strike in dispute over pay - ABC News - Breaking News, Latest News and Videos
-- Oil Prices Plummet as Investors Digest Pause in Fighting in Iran War - The New York Times
-- Gen-Alpha’s Warren Buffett, Leopold Aschenbrenner, just learned Wall Street’s oldest lesson: Chart of the Day - Yahoo Finance
-- U.S., Japan confirm coordinated yen intervention, signal readiness for more - CNBC
+- US dollar weakens sharply against the Japanese yen after officials intervene in markets - AP News
+- Oil slumps on hopes of Iran deal, yen firms up after intervention - Reuters
+- Moving Back Home After College? All Your Friends Are Doing It. - The Seattle Times
+- WestJet strike cancels more than 300 flights across Canada - BBC
 - The global memory shortage hits the MacBook Air - TechCrunch
-- Xbox prices are increasing by up to €200 or £170 - The Verge
+- Xbox prices are increasing by up to €200 or £170 - theverge.com
