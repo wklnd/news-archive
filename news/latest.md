@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-03 14:44_
+_Updated: 2026-08-03 17:31_
 
-- Trump says new Iran negotiations starting: What we know - Al Jazeera
-- Acting AG Todd Blanche reaches deal with holdout senators to scrap $1.8B ‘anti-weaponization’ fund - NBC News
-- Washington state wildfires force 60,000 people to evacuate homes - BBC
-- Rep. Max Miller not dropping out after domestic abuse allegations - Axios
-- Senate appropriators reach funding deal to avoid shutdown - The Hill
-- Who is Jordan Salinas, ‘hero’ bystander who confronted Idaho shooter? - Al Jazeera
-- Kay Granger, first Republican woman from Texas to serve in the House, has died at age 83 - CNN
-- U.S. Rep. Marcy Kaptur ‘active, alert’ after crash; person involved at large - Toledo Blade
-- Michigan’s GOP governor primary is getting weird - Politico
-- At least 88 dead in Ceuta migrant rush, Spanish officials say - Euronews.com
+- Acting AG Blanche rescinds $1.8B anti-weaponization fund in push for confirmation - NPR
+- Spokane Wildfires Destroy Hundreds of Buildings as Thousands Evacuate - The New York Times
+- Man who returned fire at In-N-Out gunman had done firearm training after 2021 mass shooting - theguardian.com
+- Live Updates: Iran denies Trump's claim that U.S.-Iran negotiations to begin today after U.S. strikes called off - cbsnews.com
+- Ukraine hits Wildberries warehouse in latest infrastructure strike away from frontlines - bbc.com
+- How Iran is widening its pressure campaign to force US concessions - Reuters
+- Senate GOP rushes to pass budget bill, avoid shutdown ahead of midterms - washingtonpost.com
+- Republicans want to talk about James Talarico’s manhood. Talarico says let them. - politico.com
+- Michigan’s GOP governor primary is getting weird - politico.com
+- Michigan’s Tense Democratic Senate Race Poses a Big Test for a Divided Party - The New York Times
+- Trump claims Iran talks will start Monday, and other developments in the Middle East - AP News
+- Spain's Ceuta overwhelmed as thousands remain after migrant border rush - Reuters
 - Rare photos of ex-Myanmar leader Aung San Suu Kyi give her family hope - NPR
-- Israel says it has serious concerns with Hamas disarmament deal - Politico
-- Hundreds of firefighters battle blaze at Wildberries warehouse in Russia's Vladimir region - Reuters
+- Board of Peace envoy laments recent Gaza strikes amid effort to implement Trump plan - The Times of Israel
 - US dollar weakens sharply against the Japanese yen after market interventions - AP News
-- Stock Market Today: Return to Diplomacy Brings Reprieve for Oil Prices — Live Updates - WSJ
-- What smart people are saying about Trump Media charging for faster access to Truth Social posts - Business Insider
-- Electric air taxis are finally ready for takeoff - fortune.com
-- Microsoft Raises Xbox Prices by Up to 43% in Europe and UK - TechPowerUp
-- Samsung Galaxy S27 Ultra: Weird camera designs and higher prices tipped - Notebookcheck
-- Foldables are sort of boring now — and that’s great news for Apple - The Verge
+- WestJet reaches tentative deal with flight attendants after brief strike snarled traffic - ABC News - Breaking News, Latest News and Videos
+- Visa beefs up cybersecurity offerings with $2.4 billion BioCatch deal - Reuters
+- Leopold Aschenbrenner's hedge-fund implosion offers 3 investing lessons for everyone - Business Insider
+- Samsung Galaxy Z Fold 8 Ultra Review: Nice Upgrades, But Not Quite Ultra - Engadget
+- Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet - The Verge
