@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-03 20:16_
+_Updated: 2026-08-03 22:11_
 
 ## Top Stories
 
 - Befälets advokat: "Ingen påkörning rakt bakifrån" - Göteborgs-Posten
-- Forssell inför krismötet om Ceuta: ”Spanien kommer få kritik” - Dagens Nyheter
-- Ryssland: Flera döda i attacker mot semesterby och Krym - Omni – Alla nyheter. Alla perspektiv.
-- Statsministerrivaler ökar farten i valrörelsen - Västerbottens-Kuriren
-- ”Många gånger har jag gått hem och gråtit” - Aftonbladet
-- Snart kommer regnet: "Kan vara ganska kraftigt" - SN, Södermanlands Nyheter
-- Plötsligt sades kontraktet upp – hyresgäster letar desperat efter nya boenden - Dagens Nyheter
-- Åtal väntas för dubbelmordet i Brattås - Göteborgs-Posten
+- Forssell inför krismötet: ”Spanien kommer få kritik” - Dagens Nyheter
+- Andersson: Så vill jag styra Sverige - Göteborgs-Posten
+- Ryssland: Flera döda i attacker mot semesterby och Krym - omni.se
+- Småhusdrömmen i fokus när M spelar andra halvlek: ”Måste gå” - Dagens Nyheter
+- Klas Eklund: ”Lever på minne av fornstora dar” - Svenska Dagbladet
+- Ung man död efter frontalkrock med lastbil på E18 i Säffle kommun - SVT Nyheter
+- Veckans väder: ”En del moln” - arvikanyheter.se
 - Områden i Stockholm som riskerar översvämning - Dagens Nyheter
 - Bärgning av lastbil på E4 tar längre tid än väntat - Corren
 - Trump: Hade varit största attacken sedan världskriget - Dagens Nyheter
 - Ukrainsk attack mot lagerlokaler nära Moskva - Corren
-- Israel om Gazaplan: ”Kontrast till verkligheten” - Västerbottens-Kuriren
-- Ryssland kallas till UD – ”hänsynslöst” - Svenska Dagbladet
+- Skapade Onlyfanskonto för murmeldjur - Västerbottens-Kuriren
+- Amerikansk it-expert: Vi är villebråd - Dagens Nyheter
 - AstraZeneca backar på rykten om fusion med Bristol Myers Squibb - Biostock
-- Konkurserna ökade i juli – detaljhandeln trotsar trenden - Omni – Alla nyheter. Alla perspektiv.
-- Kinesiska elbilar vägrar lyfta – Sverige sticker ut - Göteborgs-Posten
+- Kinesiska elbilar vägrar lyfta – Sverige sticker ut - Bohusläningen
+- Konkurserna ökade i juli – detaljhandeln trotsar trenden - omni.se
 - USA stödköpte japanska yen - Sydsvenskan
+- ”Odysséen” får ”Assassin’s creed” att trenda - Västerbottens-Kuriren
 - Xbox-konsoler blir betydligt dyrare i Europa - m3.se
-- Då kan Musks raket krascha in i månen - Expressen
 
 ## World News
 
@@ -32,21 +32,21 @@ _Updated: 2026-08-03 20:16_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- GMMP: Global backlash syns i världens medier - fempers.se
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Ammour celebrates first World Cup victory + first European Championship title in 4-man Bob - International Bobsleigh & Skeleton Federation: IBSF
 - Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -57,13 +57,13 @@ _Updated: 2026-08-03 20:16_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Artificial intelligence in enterprises 2025 - scb.se
+- Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
+- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Kina utökar övervakning i realtid av invånarna - omni.se
 - Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
@@ -97,21 +97,21 @@ _Updated: 2026-08-03 20:16_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Digital transformation inom hälso- och sjukvården: Framgång mäts i patientnyttan. - Vietnam.vn
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Sju life science-trender 2026 - Business Region Göteborg
-- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- North Tan Uyen Regional Medical Center har blivit Binh Duong General Hospitals andra anläggning. - Vietnam.vn
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- North Tan Uyen Regional Medical Center har blivit Binh Duong General Hospitals andra anläggning. - Vietnam.vn
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
@@ -120,24 +120,24 @@ _Updated: 2026-08-03 20:16_
 ## Science
 
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
-- NESS activities for the public – Department of Earth Sciences - uu.se
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Ministeriet för vetenskap och teknik samarbetar i utvecklingen av Vietnams avancerade forsknings- och produktionscenter. - Vietnam.vn
-- Sherry Nakhaeizadeh - uu.se
+- Sherry Nakhaeizadeh - Uppsala universitet
 - AI for Scientific Research and Discovery - OpenAI
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - 5 myter om öppen vetenskap - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
@@ -145,20 +145,20 @@ _Updated: 2026-08-03 20:16_
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Jordbruket har en nyckelroll för att rädda klimatet - land.se
+- Brittiska bönder i massiv protest mot arvsskatten - ja.se
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Jord, kor och klimat - SLU
-- Visning av uppkomst efter direktsådd - Land.se
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Hellre plöjningsfri odling än ekologisk - Land.se
+- Visning av uppkomst efter direktsådd - land.se
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Hellre plöjningsfri odling än ekologisk - land.se
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - land.se
