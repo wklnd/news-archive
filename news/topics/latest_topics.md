@@ -1,36 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-04 21:07_
+_Updated: 2026-08-04 22:52_
 
 ## Top Stories
 
+- Lotsen delgiven misstanke för brott efter båtolyckan utanför Tjörn - SVT Nyheter
 - Kristersson om Jomshofs kritiserade uttalande: ”Osmakligt och oanständigt” - Dagens Nyheter
-- Forssell efter EU:s krismöte: Får inte hända igen - Västerbottens-Kuriren
-- Lotsen misstänks efter båtolyckan vid Tjörn - Göteborgs-Posten
+- Kommentar: Kristersson utnyttjar krisen i Ceuta – inte ett ord om de som dött - Göteborgs-Posten
 - Stor polisinsats på skärgårdsö – uppgifter om skadad kvinna - Nacka Värmdö Posten
-- Parets syn på gården: ”Chockade” - Expressen
 - Ingmar Nevéus: Kusliga likheter mellan 2026 och tiden före första världskriget - Dagens Nyheter
+- Svensk kvinna gripen i Thailand för mångmiljonbedrägeri - TV4 Nyheterna
 - Två skadade på Kebnekaise - Expressen
+- Just nu: Rådjur på vägen kan skapa fara på E4 - NT
+- Magdalena Andersson knackar på: ”Vilken överraskning!” - Värmlands Folkblad
 - Uppgifter till SVT: Foxtrot-bröder från Nyköping dömda till livstids fängelse i Irak - SVT Nyheter
-- Ny vändning i Teslakonflikten – anställda ska strejka igen - Arbetet
-- Här betalar du lägst skatt i länet - Mitt i
+- Vulkanutbrott i Guatemala – röd varning utfärdad - SVT Nyheter
 - Uppgifter: Han var måltavlan för Moskvabomb - Dagens Nyheter
+- Granater hittade efter jättebranden i Frankrike - Hufvudstadsbladet – HBL
 - Brasiliens val 2026: Lula mot Flavio Bolsonaro - Sveriges Radio
-- Granater från andra världskriget exploderade av bränderna - Dagens Nyheter
-- Källor till Reuters: USA har slut på robotar - Corren
-- Wall Street slår nytt rekord – Palantir rusar tvåsiffrigt - omni.se
-- Bessent hävdar att Iran-samtal pågår – oljepriset backar - omni.se
+- Space X gör förlust – men slår förväntningarna - Svenska Dagbladet
+- Ny vändning i Teslakonflikten – anställda ska strejka igen - Arbetet
+- Grönt på Wall Street – Palantir rusade - aftonbladet.se
 - Dyrare att dejta i Stockholm än New York - Svenska Dagbladet
-- Vattenfall vinner upphandling för havsvindkraft i Danmark - Tidningen Energi
 - Per Grankvist: Så dricker en riktig gentleman - Svenska Dagbladet
-- Microsoft chockhöjer priserna på Xbox Series - Aftonbladet
+- Microsoft chockhöjer priserna på Xbox Series - aftonbladet.se
 
 ## World News
 
 - Martin Gelin: Det vi ser är början på en global backlash mot AI-företagen - Dagens Nyheter
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
@@ -40,31 +41,30 @@ _Updated: 2026-08-04 21:07_
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - entrackr.com
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Global Series stort för Karlsson: ”Fantastiskt” - nhl.com
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Visual Art köper Global Agencies - Dagens Media
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - xpert.digital
-- Kina utökar övervakning i realtid av invånarna - omni.se
-- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - omni.se
+- Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -97,8 +97,8 @@ _Updated: 2026-08-04 21:07_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - lakartidningen.se
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
@@ -108,11 +108,11 @@ _Updated: 2026-08-04 21:07_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - lakartidningen.se
-- North Tan Uyen Regional Medical Center har blivit Binh Duong General Hospitals andra anläggning. - vietnam.vn
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- North Tan Uyen Regional Medical Center har blivit Binh Duong General Hospitals andra anläggning. - Vietnam.vn
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - lakartidningen.se
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
@@ -120,25 +120,25 @@ _Updated: 2026-08-04 21:07_
 ## Science
 
 - AI for Scientific Research and Discovery - OpenAI
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Skapar utrymme för forskning, testning och utveckling av ny teknik. - vietnam.vn
+- NESS activities for the public – Department of Earth Sciences - uu.se
+- Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Registrering av forskning baserad på nationella hälsoregister - lakartidningen.se
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Ministeriet för vetenskap och teknik samarbetar i utvecklingen av Vietnams avancerade forsknings- och produktionscenter. - vietnam.vn
-- Olika slutsatser från samma data - lakartidningen.se
+- Ministeriet för vetenskap och teknik samarbetar i utvecklingen av Vietnams avancerade forsknings- och produktionscenter. - Vietnam.vn
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Sherry Nakhaeizadeh - Uppsala universitet
+- Sherry Nakhaeizadeh - uu.se
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
-- 5 myter om öppen vetenskap - lakartidningen.se
+- 5 myter om öppen vetenskap - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - lakartidningen.se
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
