@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-04 05:53_
+_Updated: 2026-08-04 09:21_
 
-- Trump slams Jeanine Pirro for dropping Reflecting Pool vandalism cases, says she "choked" - CBS News
-- White House directly involved in Blanche order rescinding ‘anti-weaponization’ fund - CNN
-- Trump optimistic Iran talks will reopen strait, and other developments in the Middle East - AP News
-- Washington state wildfires force 60,000 people to evacuate homes - BBC
-- Spain's Ceuta overwhelmed as thousands remain after migrant border rush - Reuters
-- Idaho In-N-Out shooting: Good Samaritan who confronted gunman speaks out - ABC News - Breaking News, Latest News and Videos
+- Live Updates: Despite Trump's remarks, no new negotiations with Iran are planned, U.S. officials tell CBS News - CBS News
+- Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case - The New York Times
+- Blanche poised for confirmation vote after he kills Trump's fund - Axios
+- Washington state wildfires cause 60,000 people to evacuate homes - BBC
+- Stockton-based In-N-Out manager Ashley Garibay identified as Idaho mass shooting victim - KCRA
+- House panel seeks censure of Rep. Chuck Edwards over conduct toward female staff - The Washington Post
+- Trump administration sued by 25 states over new tariffs on trading partners - Al Jazeera
+- Scoop: Trump tells Max Miller his candidacy is in trouble - Axios
 - House Ag Chair ‘pleased’ with Senate farm bill - Politico
 - Brown’s President Will Resign After a Tenure That Included Trump Deal - The New York Times
-- Judge rules New York can’t ban federal agents from wearing face coverings - AP News
-- California Democratic Party backs controversial billionaire wealth tax proposal that's on state's 2026 ballot - foxbusiness.com
-- Romania blasts rock to divert water from drought-hit Danube to nuclear reactor - The Guardian
-- With U.S. doors shutting, Cubans turn to Brazil for asylum - NPR
-- Nationwide power failure hits Caribbean island as American citizens warned to prepare - Fox News
-- Drone Explodes on Russian Beach, Killing 7, Officials Say - The New York Times
-- Palantir Earnings Send Stock Sharply Higher - Barron's
-- Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters
-- Tech stocks today: Microsoft, Amazon jump after last week's strong earnings - Yahoo Finance
-- Powerball reaches $748M. Financial advisors say winners should do this - USA Today
-- Your Fitbit data can now connect directly to Apple Health - The Verge
-- Xbox Disc to Digital Arrives This Month for Xbox One and Series X - TechPowerUp
+- Nauru, the world’s third-smallest country, changes its name to Naoero - AP News
+- Ceuta: EU calls for stronger borders after migrant crossings into Spanish territory - BBC
+- Board of Peace appears to shift terms for IDF pullback after meeting PM; Gaza airstrike reported - The Times of Israel
+- At least 27 killed as Russia and Ukraine trade heavy attacks - Al Jazeera
+- Trump says oil companies should cut gas prices after making "too much money" - CBS News
+- SpaceX's first-ever earnings report comes as stock hits new all-time low: Q2 preview - Yahoo Finance
+- Scott Bessent’s yen intervention signals new era of US ‘currency activism’ - Financial Times
+- China’s AI Blitz Creates ‘Death Zone’ for Rival US Model Makers - Bloomberg.com
+- Apple Plans iPhone-to-Windows Copy and Paste in EU After Microsoft Request - MacRumors
+- Samsung bans smart TV apps that share users’ internet connections with strangers - techcrunch.com
