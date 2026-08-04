@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-04 17:08_
+_Updated: 2026-08-04 19:17_
 
 - Spokane wildfire arson suspect had prior manslaughter conviction; blazes leave some residents with nothing - CBS News
-- Prosecutors Drop Charges Against 3 Others In Reflecting Pool Case - Forbes
-- US primaries: What to watch in Kansas, Missouri, Virginia, Washington - Al Jazeera
-- Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement' - CNBC
-- Michigan Democrats go to polls as Haley Stevens and Abdul El-Sayed duel in Senate primary - BBC
-- Blanche poised for confirmation vote after he kills Trump's fund - Axios
-- The war to succeed Bernie Sanders is already underway - Politico
+- Pirro brought box of evidence to show Trump what caused Reflecting Pool damage - CBS News
+- Todd Blanche clears Judiciary Committee hurdle on party lines - Live Updates - Politico
+- Primary Elections Live Updates: Michigan’s Senate Battle Leads a Five-State Slate - The New York Times
 - Scoop: Ex-GOP Rep. Jim Renacci mulls House comeback bid if Max Miller drops out - Axios
-- Federal judge blocks New York’s ban on ICE agents wearing masks - Gothamist
-- Stockton-based In-N-Out manager Ashley Garibay identified as Idaho mass shooting victim - KCRA
+- Michigan votes in key Senate primary as Democrats battle over party’s future - The Guardian
+- Oil falls after Bessent says deal to reopen Strait of Hormuz is imminent - Financial Times
+- Lindsay Clancy chronicled her desperation and 'brain fog' in her diary before the killings - PBS
+- US sends more intel assets to Cuba - Politico
+- Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms - Al Jazeera
 - Nauru, the world's 3rd-smallest country, changes its name to Naoero - NPR
-- Trump hails talks with Iran as cargo ship struck in Strait of Hormuz - NBC News
-- Russian Soldier in Crimea Shoots and Kills Fellow Serviceman and 3 Civilians - The Moscow Times
-- Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises - The New York Times
-- McDonald’s Aims to Improve Service and Food, and Chose a New U.S. Boss to Help - WSJ
-- White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules - The New York Times
+- Guatemala volcano eruption sends lava spewing into the air - BBC
+- World War II explosives emerge and detonate in wildfire-ravaged village in France: "Sound of war" - CBS News
+- S&P 500 hits record, Dow surges 900 points after Bessent says Hormuz deal is near: Live updates - CNBC
 - First Thing: Trump chastises oil companies for ‘making too much money’ from his Iran war - The Guardian
-- What is Trump Media's Truth API and why is it controversial? - BBC
-- Telegram Briefly Removed From App Store Over Alleged Child Sexual Abuse Content - Forbes
-- Apple plans to open iPhone clipboard access to Windows PCs - 9to5Mac
+- US job openings slip to 7.4 million, but labor market remains resilient in face of fighting in Iran - ABC News - Breaking News, Latest News and Videos
+- McDonald’s sales in the US are slowing after deal fatigue - CNN
+- The next Xbox could play every Xbox game ever made - The Verge
+- The Clip-Style Wireless Earbuds Field Is Getting Awfully Crowded - Gizmodo
+- Pixel Watch 5 specs leak reveals what’s new: ‘Accelerated’ chip, 2nd-gen Active Band, more - 9to5Google
