@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-04 12:10_
+_Updated: 2026-08-04 14:25_
 
 ## Top Stories
 
-- Ytterligare en person misstänks efter båtolyckan utanför Tjörn - SVT Nyheter
-- Ulf Kristerssons (M) viktigaste vallöfte till väljarna - Sveriges Radio
+- Lotsen misstänkt för brott efter båtolyckan utanför Tjörn - SVT Nyheter
+- Anderssons ilska: Kräver markering mot Jomshof efter quisling-uttalande - Dagens Nyheter
+- Polisen tror sig ha identifierat man som hittats i Trummen i Växjö - SVT Nyheter
+- Granater hittade efter jättebranden i Frankrike - Västerbottens-Kuriren
+- Kristersson om löftet till barnfamiljer: ”Har inte en färdig plan” - Omni – Alla nyheter. Alla perspektiv.
 - Minst en död i rysk attack - Göteborgs-Posten
-- Vänsterpartist hyllade terrorist – ”blev fel” - Västerbottens-Kuriren
-- Svensk gängtopp får livstids fängelse i Irak - Dagens Nyheter
-- Julia, 29: ”Vem ska bo i Genarp när det saknas grundläggande service?” - Sydsvenskan
-- Kängan: Är inte ett seriöst parti - Expressen
+- Uppgifter till SVT: Foxtrot-bröder från Nyköping dömda till livstids fängelse i Irak - SVT Nyheter
 - LEDARE: Statlig sjukvård är ingen hjälp - Nya Wermlands-Tidningen
 - SMHI varnar: Stor risk för skogsbrand - SVT Nyheter
-- Gabriel Zetterström: Jomshof hatar på journalister medan Åkesson drömmer om Rosenbad - Dagens Nyheter
+- V-ledamoten svarar efter hyllningen till dömd terrorist – Senaste nytt om valet 2026 - SVT Nyheter
 - Tyskt pansar ska försvara Litauen mot Ryssland - Dagens Nyheter
-- Växande engagemang i Lusaka inför valet i Zambia - Sveriges Radio
-- Petro: Fusk i senaste valet - Västerbottens-Kuriren
-- Fraktfartyg träffad av ”okänd projektil” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Kommentar: Astra Zenecas tystnad kostade 240 miljarder - Dagens industri
-- Vattenfall bygger rekordstora vindparker i Danmark - Västerbottens-Kuriren
-- Toyota höjer prognos – ska återköpa för 1 000 miljarder yen - EFN
-- Goldman Sachs: Brent väntas handlas i intervallet 80-90 dollar - Börsvärlden
+- Irans president: Vill inte fortsätta kriget - Göteborgs-Posten
+- Minst en död i rysk attack - Västerbottens-Kuriren
+- DN Direkt – Rekordlågt vatten – Rumänien kan stänga kärnkraftverk - Dagens Nyheter
+- Småsparare köpte AstraZeneca efter kursraset - Affärsvärlden
+- Di:s spelfavorit brädar börsen - di.se
+- Vattenfall bygger rekordstora vindparker i Danmark - Aktuell Hållbarhet
+- Stockholms marknad utklassar Europa - Svenska Dagbladet
 - Microsoft chockhöjer priserna på Xbox Series - Aftonbladet
 - Microsoft erkänner hur allvarlig RAM-krisen är och lovar att minska minnesanvändning på datorer med 8 GB RAM, men det borde ha varit så från början - TechRadar
 
@@ -51,25 +51,25 @@ _Updated: 2026-08-04 12:10_
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - nyheter.ki.se
-- I år ska AI visa affärsnytta. Igen. - computersweden.se
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Leveraging AI in Swedish Development Cooperation - fuf.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - computersweden.se
-- Tiden för billig vibe coding kan vara över - computersweden.se
-- Albanien utser AI-bot till minister - computersweden.se
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - computersweden.se
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -105,7 +105,7 @@ _Updated: 2026-08-04 12:10_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - nyheter.ki.se
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
@@ -114,28 +114,28 @@ _Updated: 2026-08-04 12:10_
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - nyheter.ki.se
-- Mycket tidig medicinsk abort är effektivt och säkert - nyheter.ki.se
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
 ## Science
 
-- Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Ministeriet för vetenskap och teknik samarbetar i utvecklingen av Vietnams avancerade forsknings- och produktionscenter. - Vietnam.vn
-- Sherry Nakhaeizadeh - Uppsala universitet
 - AI for Scientific Research and Discovery - OpenAI
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Ministeriet för vetenskap och teknik samarbetar i utvecklingen av Vietnams avancerade forsknings- och produktionscenter. - Vietnam.vn
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Olika slutsatser från samma data - Läkartidningen
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - nyheter.ki.se
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - nyheter.ki.se
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
@@ -145,20 +145,20 @@ _Updated: 2026-08-04 12:10_
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Jordbruket har en nyckelroll för att rädda klimatet - land.se
+- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - atl.nu
+- Här är världens största jordbruk - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - land.se
-- Så ska det australiensiska jordbruket bli hållbart - atl.nu
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Jord, kor och klimat - SLU
-- Visning av uppkomst efter direktsådd - land.se
+- Visning av uppkomst efter direktsådd - Land.se
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Hellre plöjningsfri odling än ekologisk - land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
