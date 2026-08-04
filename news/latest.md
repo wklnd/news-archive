@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-04 22:53_
+_Updated: 2026-08-05 00:42_
 
-- Trump Live Updates: Senate Committee Advances Blanche Nomination as Attorney General - The New York Times
 - Michigan votes in key Senate primary as Democrats battle over party’s future - The Guardian
-- Pirro brought box of evidence to show Trump what caused Reflecting Pool damage - CBS News
-- EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say - Reuters
-- Socialist Francesca Hong struggles to explain call to 'Cancel Thanksgiving' as post resurfaces - Fox News
-- Southern California Edison equipment blamed for 2025 Eaton fire in Los Angeles - AP News
-- Man charged with arson as wildfires consume parts of Spokane, Washington - The Washington Post
-- Middle East crisis live: Rubio hopes US can reach Hormuz deal with Iran ‘very shortly’ as officials say progress has been made - The Guardian
+- Inside the Oval Office Showdown Between Trump and Jeanine Pirro - The New York Times
+- Arson arrest made over largest of Washington state's wildfires - BBC
+- US military has used up nearly 80% of key missile interceptors as commanders warn stockpiles ‘dangerously low,’ sources say - CNN
+- Embattled GOP Rep. Max Miller requests an Ethics investigation into himself - NBC News
+- Edison tower caused deadly Eaton fire that devastated Altadena, long-awaited investigation finds - Los Angeles Times
 - Lindsay Clancy chronicled her desperation and 'brain fog' in her diary before the killings - PBS
-- Former progressive Squad member Cori Bush attempts political comeback against Missouri US Rep. Bell - AP News
-- Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms - Al Jazeera
-- Trump hails talks with Iran as cargo ship struck in Strait of Hormuz - NBC News
+- US treasury secretary says deal with Iran to reopen Hormuz could be sealed by Wednesday - The Times of Israel
+- Todd Blanche's nomination for attorney general clears critical hurdle after deal with GOP holdouts - AP News
+- A lab-leak proponent is in line for Fauci’s old job - Politico
+- Netanyahu says no Israeli withdrawal from Gaza until Hamas has been completely disarmed - AP News
+- 'The damage is enormous': Ukraine grapples with record-breaking Russian missile strikes - ABC News - Breaking News, Latest News and Videos
 - As the Danube River dries up, World War II shipwrecks and mammoth bones come into view - CBS News
-- The soaring demand for Patriot missiles, from the Middle East to Ukraine - NPR
-- SpaceX Earnings Live: Musk's Rocket Company Revenue Rises 92% in Q2 - WSJ
+- Europe heat wave fuels drought, fires and energy fears - NPR
+- SpaceX stock drops after first earnings report as AI costs soar: Live updates - CNBC
 - Chipotle removes jalapeños amid US salmonella outbreak investigation - The Guardian
 - White House plans to keep AI framework under wraps - Axios
-- Procter & Gamble will acquire supplements brand Thorne for $3.8 billion, CEO tells CNBC - CNBC
-- The next Xbox could play every Xbox game ever made - The Verge
-- New Samsung TVs will support HDR10+ Advanced streaming on Prime Video starting this month - Engadget
+- Paramount-Warner Bros. Trial to Start in March 2027 in Blow to David Ellison’s Team - The Hollywood Reporter
+- Android 17 August update rolling out with three Pixel 10 fixes - 9to5Google
+- Apple briefly yanked Telegram from the App Store over CSAM violations - The Verge
