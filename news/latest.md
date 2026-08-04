@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-04 14:28_
+_Updated: 2026-08-04 17:08_
 
-- Arson arrest made in connection to Washington wildfire as officials race to contain flames - CNN
-- DOJ Drops Charges Against Remaining Reflecting Pool Defendants Despite Trump Anger - Forbes
-- Blanche poised for confirmation vote after he kills Trump's fund - Axios
-- 5 states hold polls on Tuesday. Here’s what to know - NPR
-- Stockton-based In-N-Out manager Ashley Garibay identified as Idaho mass shooting victim - KCRA
-- Iran to target any US warship imposing different route in Hormuz - Euronews.com
+- Spokane wildfire arson suspect had prior manslaughter conviction; blazes leave some residents with nothing - CBS News
+- Prosecutors Drop Charges Against 3 Others In Reflecting Pool Case - Forbes
+- US primaries: What to watch in Kansas, Missouri, Virginia, Washington - Al Jazeera
+- Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement' - CNBC
 - Michigan Democrats go to polls as Haley Stevens and Abdul El-Sayed duel in Senate primary - BBC
-- Scoop: Jim Renacci mulls House bid if Max Miller drops out - Axios
+- Blanche poised for confirmation vote after he kills Trump's fund - Axios
 - The war to succeed Bernie Sanders is already underway - Politico
-- Shukur Aikebaer death: Jianquan Bo, suspect in Chino Hills kidnapping-killing case, charged with murder - ABC7 Los Angeles
+- Scoop: Ex-GOP Rep. Jim Renacci mulls House comeback bid if Max Miller drops out - Axios
+- Federal judge blocks New York’s ban on ICE agents wearing masks - Gothamist
+- Stockton-based In-N-Out manager Ashley Garibay identified as Idaho mass shooting victim - KCRA
 - Nauru, the world's 3rd-smallest country, changes its name to Naoero - NPR
-- Cargo ship reports being struck in Strait of Hormuz as US, Iran claims about talks diverge - AP News
-- Ukrainian drones hit Wildberries warehouses in overnight strikes - Financial Times
-- Three lions die in Tokyo as record-breaking temperatures hit East Asia - CNN
-- Musk to face tough questions during SpaceX's first earnings call as a public company - ABC News - Breaking News, Latest News and Videos
-- McDonald's is about to report earnings. Here's what to expect - CNBC
-- Scott Bessent’s yen intervention signals new era of US ‘currency activism’ - Financial Times
-- Wall Street finds new edge behind Trump's presidential paywall - Axios
+- Trump hails talks with Iran as cargo ship struck in Strait of Hormuz - NBC News
+- Russian Soldier in Crimea Shoots and Kills Fellow Serviceman and 3 Civilians - The Moscow Times
+- Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises - The New York Times
+- McDonald’s Aims to Improve Service and Food, and Chose a New U.S. Boss to Help - WSJ
+- White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules - The New York Times
+- First Thing: Trump chastises oil companies for ‘making too much money’ from his Iran war - The Guardian
+- What is Trump Media's Truth API and why is it controversial? - BBC
+- Telegram Briefly Removed From App Store Over Alleged Child Sexual Abuse Content - Forbes
 - Apple plans to open iPhone clipboard access to Windows PCs - 9to5Mac
-- Apple Briefly Takes Telegram Off App Store Over Abusive Content - Bloomberg.com
