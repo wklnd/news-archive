@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-04 01:57_
+_Updated: 2026-08-04 05:53_
 
-- Furious Trump is considering removing Pirro over Reflecting Pool filing, sources say - CNN
-- As Blanche’s path to confirmation is cleared, Trump’s tax audit immunity remains in place - AP News
-- Live Updates: Despite Trump's remarks, no new negotiations with Iran are planned, U.S. officials tell CBS News - CBS News
-- Photos: Wildfires in Spokane lead to thousands of evacuations : The Picture Show - NPR
-- Ethics panel urges censure of Rep. Chuck Edwards over sexual harassment violation - Axios
-- Voters prefer Democrats over Republicans on economy for first time in a decade, Reuters/Ipsos poll finds - Reuters
-- 2 deaths linked to parasite outbreak in Michigan - MLive.com
-- "People are pissed": House Democrats mull whether to push Max Miller expulsion - Axios
-- Execution-Style Murder in California Tied to Business Dispute, D.A. Says - The New York Times
-- Twenty five states sue Trump administration over latest global tariffs - CNBC
-- Romania blasts rock to divert water from drought-hit Danube to nuclear reactor - theguardian.com
+- Trump slams Jeanine Pirro for dropping Reflecting Pool vandalism cases, says she "choked" - CBS News
+- White House directly involved in Blanche order rescinding ‘anti-weaponization’ fund - CNN
+- Trump optimistic Iran talks will reopen strait, and other developments in the Middle East - AP News
+- Washington state wildfires force 60,000 people to evacuate homes - BBC
 - Spain's Ceuta overwhelmed as thousands remain after migrant border rush - Reuters
-- Cuba begins restoring power after nationwide blackout - Al Jazeera
-- Myanmar's detained former leader Aung San Suu Kyi has rare meeting with International Red Cross - AP News
-- Palantir Shares Jump on ‘Otherworldly’ Sales, Improved Forecast - WSJ
+- Idaho In-N-Out shooting: Good Samaritan who confronted gunman speaks out - ABC News - Breaking News, Latest News and Videos
+- House Ag Chair ‘pleased’ with Senate farm bill - Politico
+- Brown’s President Will Resign After a Tenure That Included Trump Deal - The New York Times
+- Judge rules New York can’t ban federal agents from wearing face coverings - AP News
+- California Democratic Party backs controversial billionaire wealth tax proposal that's on state's 2026 ballot - foxbusiness.com
+- Romania blasts rock to divert water from drought-hit Danube to nuclear reactor - The Guardian
+- With U.S. doors shutting, Cubans turn to Brazil for asylum - NPR
+- Nationwide power failure hits Caribbean island as American citizens warned to prepare - Fox News
+- Drone Explodes on Russian Beach, Killing 7, Officials Say - The New York Times
+- Palantir Earnings Send Stock Sharply Higher - Barron's
 - Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters
-- Top Analyst Drops Last Minute Call on SpaceX Before Earnings - Yahoo Finance
-- The message beneath the yen intervention - Axios
-- Google Health 5.05 rolling out: Apple Health sync & bug fixes - 9to5Google
-- Microsoft is bringing Xbox 360 games to PC - The Verge
+- Tech stocks today: Microsoft, Amazon jump after last week's strong earnings - Yahoo Finance
+- Powerball reaches $748M. Financial advisors say winners should do this - USA Today
+- Your Fitbit data can now connect directly to Apple Health - The Verge
+- Xbox Disc to Digital Arrives This Month for Xbox One and Series X - TechPowerUp
