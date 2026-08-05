@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-05 20:09_
+_Updated: 2026-08-05 22:13_
 
-- Abdul El-Sayed wins Michigan’s Democratic Senate primary, notching a Midwest victory for the left - NBC News
-- Trump says deal to reopen the Strait of Hormuz could come this week - AP News
-- Inside the Oval Office Showdown Between Trump and Jeanine Pirro - nytimes.com
-- Russian attack kills at least 17 in Kyiv as Ukraine hammers more Wildberries warehouses - CNBC
-- Republican Chuck Edwards drops bid for re-election after report finding sexual harassment of staffers - The Guardian
-- Max Miller allegations force Trump, GOP into thorny spot - thehill.com
-- Key Election Takeaways From Progressives’ Big Night - WSJ
-- Secret FBI probe cast Trump as possible Russian asset after Comey firing, memos show - Fox News
-- 'It’s all burnt': Spokane wildfire survivors tell their stories - usatoday.com
-- Trump Administration Live Updates: Blanche’s Confirmation Faces New Opposition - nytimes.com
-- Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint - The Guardian
-- Putin Announces Reshuffling of Top Military Leadership - The Moscow Times
-- Russia drone company chief injured in car bombing - Financial Times
-- U.S. missile stockpiles dwindle. And, FDA weighs approval of flu shots with mRNA tech - NPR
-- SpaceX shares sink after first earnings report reveals huge AI spending plans - BBC
-- Google DeepMind CEO Demis Hassabis is stepping down - Axios
-- Theme Parks and ‘Toy Story 5’ Boost Disney Results - WSJ
-- Saudi wealth fund and Jared Kushner's Affinity finalize $55 billion EA Sports deal - CNBC
-- Pixel Tag pricing leak sets up a direct showdown with Apple AirTag - Android Authority
-- ASUS Asks $5090 For RTX 5090 After Cancelling User’s Order Who Already Paid $4607 - Wccftech
+- Abdul El-Sayed wins Michigan Senate primary in defining race for Democrats - The Guardian
+- Olympic canoeist charged by Pirro seeks to permanently sink Reflecting Pool case - NBC News
+- Live Updates: Trump says Strait of Hormuz deal could happen today or tomorrow amid Iran-Oman talks - CBS News
+- Trump Live Updates: C.D.C. Director Vote, Blanche News and More - The New York Times
+- Hacks on U.S. Water Supply Follow Years of Warnings and Neglect - The New York Times
+- A man carrying ammo was monitoring security at Trump golf course near Los Angeles, authorities say - AP News
+- New Mexico Attorney General Sues DOJ for Access to Epstein Files - WSJ
+- Suspected Old Trails arsonist Aaron Farinacci contacted over Spokane fires last year, court docs say - The Spokesman-Review
+- Fetterman to oppose Blanche’s nomination to head Justice Department - The Hill
+- Rep. Chuck Edwards drops re-election bid after censure recommendation - Axios
+- Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush - Reuters
+- Russian barrage in Ukraine’s capital region kills 17 as air defenses fall short - AP News
+- Putin Replaces Key Ukraine Commanders as Russia’s Donbas Offensive Slows - Kyiv Post
+- North Korean missile unit deploys in Russia for Ukraine war, Kyiv says - The Japan Times
+- SpaceX Stock Dives. Analysts React To Earnings Beat, Shift Price Targets. - Investor's Business Daily
+- Google DeepMind CEO Demis Hassabis is stepping aside - Axios
+- 'This was not an exceptional result': Why AMD stock tanked 5% after earnings - Yahoo Finance
+- How Disney parks are bucking a travel slowdown - cnbc.com
+- Sunbird relaunched its iMessage app for Android users after three years away - The Verge
+- Google plans to kill Assistant on your phone on September 4 - Ars Technica
