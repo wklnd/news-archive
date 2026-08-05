@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-05 22:13_
+_Updated: 2026-08-05 23:54_
 
-- Abdul El-Sayed wins Michigan Senate primary in defining race for Democrats - The Guardian
-- Olympic canoeist charged by Pirro seeks to permanently sink Reflecting Pool case - NBC News
+- Top Democrats set aside qualms and embrace progressive Abdul El-Sayed - The Guardian
 - Live Updates: Trump says Strait of Hormuz deal could happen today or tomorrow amid Iran-Oman talks - CBS News
-- Trump Live Updates: C.D.C. Director Vote, Blanche News and More - The New York Times
+- New CDC director is confirmed, giving agency its first permanent leader in a year - NBC News
+- The Memo: Lincoln Pool furor reflects tensions of Trump’s second term - The Hill
+- How a center-left Democrat flipped the script on a fiery progressive in one primary battle - NBC News
 - Hacks on U.S. Water Supply Follow Years of Warnings and Neglect - The New York Times
-- A man carrying ammo was monitoring security at Trump golf course near Los Angeles, authorities say - AP News
-- New Mexico Attorney General Sues DOJ for Access to Epstein Files - WSJ
+- Trump’s Helicopter Was Briefly Too Close To Commercial Jet On Tuesday, FAA Says - Forbes
+- Abortion Foes Backed Ballot Measures in 2 Red States. Voters Said No. - The New York Times
 - Suspected Old Trails arsonist Aaron Farinacci contacted over Spokane fires last year, court docs say - The Spokesman-Review
-- Fetterman to oppose Blanche’s nomination to head Justice Department - The Hill
-- Rep. Chuck Edwards drops re-election bid after censure recommendation - Axios
-- Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush - Reuters
-- Russian barrage in Ukraine’s capital region kills 17 as air defenses fall short - AP News
-- Putin Replaces Key Ukraine Commanders as Russia’s Donbas Offensive Slows - Kyiv Post
+- Here’s What’s Next For Fauci—Contempt Of Congress Vote Tomorrow - Forbes
+- Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush - reuters.com
+- After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives - BBC
+- Ex-PM Sheikh Hasina announces plan to return to Bangladesh - Al Jazeera
 - North Korean missile unit deploys in Russia for Ukraine war, Kyiv says - The Japan Times
-- SpaceX Stock Dives. Analysts React To Earnings Beat, Shift Price Targets. - Investor's Business Daily
-- Google DeepMind CEO Demis Hassabis is stepping aside - Axios
-- 'This was not an exceptional result': Why AMD stock tanked 5% after earnings - Yahoo Finance
-- How Disney parks are bucking a travel slowdown - cnbc.com
+- SpaceX stock hits new all-time low as AI capex jumps in Q2 - Yahoo Finance
+- Jeff Dean and other top AI researchers are leaving Google to launch their own startup - TechCrunch
+- Stock Market Today: Dow Rally Continues; SpaceX Slides After Earnings — Live Updates - WSJ
+- Anthropic's Mythos created fake identities to fool humans in new cyber incident - cnbc.com
 - Sunbird relaunched its iMessage app for Android users after three years away - The Verge
-- Google plans to kill Assistant on your phone on September 4 - Ars Technica
+- Apple's ‘Private Relay’ Is Exposing Users’ Real IP Addresses - 404 Media
