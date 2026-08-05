@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-05 06:47_
+_Updated: 2026-08-05 10:06_
 
-- Live updates: El-Sayed and Stevens locked in tight race in Michigan Senate primary - CNN
-- Man arrested near Trump golf course after gun found in car - Axios
-- Progressive Will Lawrence wins key Michigan House primary in blow to Dem leaders - Axios
-- Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack - bbc.com
-- Man charged with arson as wildfires consume parts of Spokane, Washington - The Washington Post
-- Inside the Oval Office Showdown Between Trump and Jeanine Pirro - The New York Times
-- Wesley Bell wins Missouri House primary as Cori Bush comeback bid fails - theguardian.com
-- Democrat Marie Gluesenkamp Perez survives Washington’s crowded primary - theguardian.com
-- Missouri election chief rejects bid to hold public vote on Trump-backed congressional districts - AP News
+- Abdul El-Sayed wins Michigan’s Democratic Senate primary, notching a Midwest victory for the left - NBC News
 - U.S. has used nearly all its stockpile of long-range missiles in Iran war, sources say - CBS News
-- Iran and Oman are working on a plan to reopen the Strait of Hormuz, and other Mideast developments - AP News
-- The soaring demand for Patriot missiles, from the Middle East to Ukraine - NPR
-- Ex neo-Nazi activist selected as Tory candidate - bbc.com
+- Progressive wins Michigan House primary in blow to Dem leaders - Axios
+- Trump hasn’t ‘made a determination’ on Jeanine Pirro’s fate - politico.com
+- Iran and Oman make progress on a deal to reopen the Strait of Hormuz, officials say - AP News
+- Washington wildfire arson suspect twice linked to other blazes, authorities say - BBC
+- Heavily armed man arrested at Trump golf club before president’s visit faces federal charge - Los Angeles Times
+- Democrat Marie Gluesenkamp Perez survives Washington’s crowded primary - The Guardian
+- Wesley Bell beats Cori Bush in Democratic primary for St. Louis congressional seat - missouriindependent.com
+- Missouri election chief rejects bid to hold public vote on Trump-backed congressional districts - AP News
+- Russian missile attack kills 14, injures 27 in Ukraine’s Kyiv region - Al Jazeera
 - Netanyahu says no Israeli withdrawal from Gaza until Hamas has been completely disarmed - AP News
-- SpaceX’s revenue rises as its once-soaring stock price drifts back to Earth - NPR
-- Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes - Reuters
-- Anthropic and OpenAI models tried to trick humans into poisoning code during safety testing - Politico
-- Scott Bessent is using moves from his hedge fund days to prop up Japan's yen—and America's $40 trillion national debt - Fortune
-- Everything Apple Is Expected to Announce in September - MacRumors
-- Samsung’s HDR10 Plus Advanced is launching this month on Prime Video - The Verge
+- Runaway online rumors sparked frantic rush by migrants to the Spanish territory of Ceuta - NBC News
+- Taiwan launches major war games to test command flexibility - Reuters
+- SpaceX's AI spending unnerves Wall Street despite promises of quick payoff - CNBC
+- OpenAI, Anthropic AI agents implicated in new security breaches - Reuters
+- Asian Stocks Set to Advance on Hormuz Deal Hopes: Markets Wrap - Bloomberg.com
+- Chipotle Removes Jalapeños Linked to Salmonella Outbreak From Its Restaurants - The New York Times
+- Fresh Pixel 11 series leak reveals thinner camera bar and 30-hour battery - Android Authority
+- CarPlay is Coming to Pontoon Boats - MacRumors
