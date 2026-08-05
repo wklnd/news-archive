@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-05 13:00_
+_Updated: 2026-08-05 15:10_
 
 ## Top Stories
 
 - Annie Reuterskiöld: Jomshofs ord är bara början på Kristerssons problem - Dagens Nyheter
-- JUST NU: Man jagas av polis – kvinna död - Expressen
-- Åklagaren: Bilderna visar att båten blev överkörd i Hakefjorden - Göteborgs-Posten
-- När floden torkar ut blottas vraken från kriget - Västerbottens-Kuriren
-- Svaret från L: Förstatligar vården om skolan förstatligas - Omni – Alla nyheter. Alla perspektiv.
-- Ukraina fortsätter attackera ryska företaget Wildberries - Sveriges Radio
-- Varning för kraftig åska i södra Sverige - Göteborgs-Posten
-- S fick lokal vandaliserad – möttes av hat på sociala medier - Omni – Alla nyheter. Alla perspektiv.
-- Forssell (M) ser tecken på ny flyktingkris – som 2015 - Göteborgs-Posten
-- Moderaterna vill korta vårdgarantin till 30 dagar - Västerbottens-Kuriren
-- 17 dödade i ryska attacker mot Kiev - Dagens Nyheter
+- Misstänkt mord: Kvinna hittad död på skärgårdsö - skippo.se
+- Åklagaren: Bilderna visar att båten blev överkörd i Hakefjorden - gp.se
+- Omkring 1 000 barn kvar i Ceuta – får inte skickas tillbaka direkt - gp.se
+- Explosioner i Kiev – minst fjorton döda - Hufvudstadsbladet – HBL
+- Polisen: 188 kriminella gripna utomlands i år - gp.se
+- Varning om kraftig åska dras tillbaka - Västerbottens-Kuriren
+- Kristersson om Buschs vårdultimatum: ”Inte den stora lösningen” - Dagens Nyheter
+- 90-åring tvingades resa 80 mil för en operation - vårdköer pressar patienter - news55.se
+- Eon om Googles strömbehov och elpriser: ”Jättesvårt att sia om” - SVT Nyheter
+- Därför attackerar Ukraina "Rysslands Amazon" - Dagens Nyheter
 - Indisk monsun: Bönder dödas av blixten - Västerbottens-Kuriren
-- Video: Grönsaksförsäljare jagades av rysk drönare - Hufvudstadsbladet – HBL
-- Källor: Närmar sig ett avtal om Hormuzsundet - Göteborgs-Posten
+- Källor: Närmar sig ett avtal om Hormuzsundet - gp.se
+- När floden torkar ut blottas vraken från kriget - Hufvudstadsbladet – HBL
 - Peter Hedlund: Det värsta ligger bakom Novo Nordisk - EFN
+- Eli Lilly rusar efter oväntat stark tillväxt – skruvar upp prognosen - Börskollen
 - DN Direkt – Grönt på Wall Street – Palantir rusade - Dagens Nyheter
-- Expertens varning: Risk för rekordhöga elpriser i vinter - Omni – Alla nyheter. Alla perspektiv.
-- Spekulation om intervention i yen igen - Dagens industri
-- Space X-raket har kraschat in i månen – skapar ny krater - Omni – Alla nyheter. Alla perspektiv.
-- Anrika svenska spelstudion får saudiska ägare - Västerbottens-Kuriren
+- Det ska du tänka på kring sparande i fonder inför hösten - Dagens Nyheter
+- Elon Musks övergivna raket ska ha kraschat in i månen - gp.se
+- Här är The X-Files: I Want to Believe - Vrach Frankenshteyn. Den barnförbjudna Arkiv X-filmen. - feber.se
 
 ## World News
 
@@ -31,21 +31,21 @@ _Updated: 2026-08-05 13:00_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Martin Gelin: Det vi ser är början på en global backlash mot AI-företagen - Dagens Nyheter
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - bbc.com
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Antigravity Launches “Project Eternal”: A Global Initiative to Preserve Cultural Memory Through Gaussian Splatting - Via TT
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- New communications project on China’s global “Belt and Road Initiative” - ui.se
+- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Visual Art köper Global Agencies - Dagens Media
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
-- Spelet bakom nedläggningen av News of the World - Expressen
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
@@ -98,7 +98,7 @@ _Updated: 2026-08-05 13:00_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Digital transformation inom hälso- och sjukvården: Framgång mäts i patientnyttan. - Vietnam.vn
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
@@ -107,10 +107,10 @@ _Updated: 2026-08-05 13:00_
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - gp.se
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
@@ -130,19 +130,19 @@ _Updated: 2026-08-05 13:00_
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Täta band mellan turism och forskning på Svalbard - slu.se
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - 5 myter om öppen vetenskap - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
-- Sveriges förändrade lantbruk - slu.se
+- Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
@@ -150,15 +150,15 @@ _Updated: 2026-08-05 13:00_
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
-- Jord, kor och klimat - slu.se
+- Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Lantbrukslogik – nu och i framtiden - slu.se
+- Lantbrukslogik – nu och i framtiden - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
-- Kan agroekologi mätta världen? - slu.se
+- Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
