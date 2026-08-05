@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-05 13:04_
+_Updated: 2026-08-05 15:20_
 
-- Abdul El-Sayed wins Michigan’s Democratic Senate primary, notching a Midwest victory for the left - NBC News
-- Trump says deal to reopen Strait of Hormuz could come as early as Wednesday - AP News
-- Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses - The New York Times
-- Progressive Will Lawrence wins key Michigan House primary in blow to Dem leaders - Axios
+- Michigan Election Results Live Updates: El-Sayed Holds Narrow Lead Over Stevens in Senate Primary - The New York Times
 - Rep. Chuck Edwards drops re-election bid after censure recommendation - Axios
-- U.S. has used nearly all its stockpile of long-range missiles in Iran war, sources say - CBS News
-- Inside the Oval Office Showdown Between Trump and Jeanine Pirro - The New York Times
-- Wesley Bell beats Cori Bush in Democratic primary for St. Louis congressional seat - Missouri Independent
-- Democrat Marie Gluesenkamp Perez survives Washington’s crowded primary - The Guardian
-- Missouri election chief rejects bid to hold public vote on Trump-backed congressional districts - AP News
-- Ukrainian vegetable seller targeted in 'human safari' drone attack - BBC
-- Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy - CNBC
-- Mexican influencer Cesar Gastelum shot to death during livestream - Reuters
+- Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday - AP News
+- Court records detail troubled past of Spokane fire suspect - NBC News
+- Russian attack kills at least 17 in Kyiv as Ukraine hammers more Wildberries warehouses - CNBC
+- Mike Johnson breaks his silence on Max Miller, calls for ‘process to play out’ - Politico
+- Edison Tower Caused Deadly Eaton Fire That Decimated Altadena, Investigation Finds - deadline.com
+- Olympic canoeist charged by Pirro seeks to permanently sink Reflecting Pool case - NBC News
+- Marie Gluesenkamp Perez race: Results roll in for one of nation’s most watched congressional contests - OregonLive.com
+- A man carrying ammo was monitoring security at Trump golf course near Los Angeles, authorities say - AP News
+- Mexican influencer shot dead during livestream - BBC
+- Unidentified object causes disruption at Leipzig airport - CNN
 - How Being Cool Is Making The Hague a Vacation Hot Spot - The New York Times
-- SpaceX shares sink after first earnings report reveals huge AI spending plans - BBC
-- Disney tops earnings estimates as parks and streaming offer a boost - CNBC
-- AMD Reports Earnings on the Verge of a Sales Jump - Barron's
-- South Korean police raid Starbucks Korea headquarters in latest twist over disastrous ad campaign - CNN
-- Fresh Pixel 11 series leak reveals thinner camera bar and 30-hour battery - Android Authority
-- CarPlay is Coming to Pontoon Boats - MacRumors
+- Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy - CNBC
+- Stock Market Today: Dow Futures Tick Up, SpaceX Stock Slides After Earnings — Live Updates - WSJ
+- Disney's Q3 earnings top estimates on demand for experiences, company exits A+E Media stake - Yahoo Finance
+- Eli Lilly easily tops quarterly estimates, raises outlook as Zepbound and Mounjaro sales surge - CNBC
+- Ken Griffin’s Citadel Jumps 6% After Situational Awareness Deal - Bloomberg.com
+- Google Assistant will disappear from your phone next month - The Verge
+- Gene-edited beagles may offer a future option for people with dog allergies - AP News
