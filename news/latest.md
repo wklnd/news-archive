@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-05 03:04_
+_Updated: 2026-08-05 06:47_
 
-- Michigan Democrats go to polls as Haley Stevens and Abdul El-Sayed duel in Senate primary - BBC
-- Armed man arrested at Trump’s California golf course ahead of president’s visit - CNN
-- Olympic canoeist charged by Pirro seeks to permanently sink Reflecting Pool case - nbcnews.com
+- Live updates: El-Sayed and Stevens locked in tight race in Michigan Senate primary - CNN
+- Man arrested near Trump golf course after gun found in car - Axios
+- Progressive Will Lawrence wins key Michigan House primary in blow to Dem leaders - Axios
+- Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack - bbc.com
+- Man charged with arson as wildfires consume parts of Spokane, Washington - The Washington Post
+- Inside the Oval Office Showdown Between Trump and Jeanine Pirro - The New York Times
+- Wesley Bell wins Missouri House primary as Cori Bush comeback bid fails - theguardian.com
+- Democrat Marie Gluesenkamp Perez survives Washington’s crowded primary - theguardian.com
+- Missouri election chief rejects bid to hold public vote on Trump-backed congressional districts - AP News
+- U.S. has used nearly all its stockpile of long-range missiles in Iran war, sources say - CBS News
 - Iran and Oman are working on a plan to reopen the Strait of Hormuz, and other Mideast developments - AP News
-- Man charged with setting largest Spokane wildfire went to prison for killing father - PBS
-- Workers Disassemble Parts of Trump’s White House Helipad, Photos Show - The New York Times
-- Missouri’s top election official blocks referendum on gerrymandered map - Kansas City Star
-- Stockton-based In-N-Out manager Ashley Garibay identified as Idaho mass shooting victim - KCRA
-- Edison tower caused deadly Eaton fire that devastated Altadena, long-awaited investigation finds - Los Angeles Times
-- Todd Blanche clears Judiciary Committee hurdle on party lines - Politico
+- The soaring demand for Patriot missiles, from the Middle East to Ukraine - NPR
+- Ex neo-Nazi activist selected as Tory candidate - bbc.com
 - Netanyahu says no Israeli withdrawal from Gaza until Hamas has been completely disarmed - AP News
-- 'The damage is enormous': Ukraine grapples with record-breaking Russian missile strikes - ABC News - Breaking News, Latest News and Videos
-- As the Danube River dries up, World War II shipwrecks and mammoth bones come into view - CBS News
-- Kim Yo Jong criticizes Japan's Tomahawk missile test, KCNA reports - Reuters
 - SpaceX’s revenue rises as its once-soaring stock price drifts back to Earth - NPR
-- White House AI Guidelines Exempt U.S. Open Models From Government Review - WSJ
-- Chipotle Stock Tanks on Potential Salmonella Outbreak Tied to Jalapeños - Barron's
 - Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes - Reuters
+- Anthropic and OpenAI models tried to trick humans into poisoning code during safety testing - Politico
+- Scott Bessent is using moves from his hedge fund days to prop up Japan's yen—and America's $40 trillion national debt - Fortune
+- Everything Apple Is Expected to Announce in September - MacRumors
 - Samsung’s HDR10 Plus Advanced is launching this month on Prime Video - The Verge
-- Telegram says Apple suspension followed content norms violation by one user - Al Jazeera
