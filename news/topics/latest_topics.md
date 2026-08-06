@@ -1,74 +1,74 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-06 15:09_
+_Updated: 2026-08-06 17:43_
 
 ## Top Stories
 
-- Man gripen för mord på kvinna i skärgården - Göteborgs-Posten
+- Andersson om terroristhyllning inom V: Fruktansvärt - Göteborgs-Posten
+- Rebecka hittade gömd kajak – sen greps mannen för mordet på Sollenkroka - Expressen
+- Högsta domstolen: Fartyget Caffa kan lämnas till Ukraina - Sveriges Radio
+- Ebba Busch trappar upp vårdstriden inför valet - Dagens Nyheter
 - Sommaren är över – hösten har kommit till Västerbotten - Sveriges Radio
-- LEDARE: V-politiker hyllar terrorist - Nya Wermlands-Tidningen
-- DN Direkt – M-löfte: Haverikommission varje gång kvinna mördas - Dagens Nyheter
-- Slopad avgift för lång väntetid - - Fagersta Nyheter
-- Pojke utskriven från sjukhuset efter olyckan - Svenska Dagbladet
-- Buss har kört i diket – flera skadade - Västerbottens-Kuriren
-- Sigrid Melchior: Ceuta blottar EU:s nya hårda migrationslinje - Dagens Nyheter
-- Magdalena Andersson (S) om V-ledamoten: ”Väldigt allvarligt” – Senaste nytt om valet 2026 - SVT Nyheter
-- MP: Sverige borde ta emot fler flyktingar - Omni – Alla nyheter. Alla perspektiv.
-- Trump: ”USA har enorma mängder krigsmateriel” - Corren
+- Vallöfte: Skärpt vårdgaranti - Senioren
+- Vad håller Miljöpartiet på med? - Arbetet
+- Man gripen för våldtäkt inom äldreomsorgen i Skellefteå - SVT Nyheter
+- Katten syns bland piratkopierade vapen och knark – tre unga kvinnor döms - Dagens Nyheter
+- Lagändringar för ökad trygghet och studiero gäller från den 1 augusti 2026 - Sigtuna kommun
+- Vance: Kommer ta ”en viss tid” att enas med Iran - Corren
+- DN Direkt – Dömd till livstid för islamistdåd i München - Dagens Nyheter
 - Hyllad Cambridgeprofessor utreds för fusk och lögner - Dagens Nyheter
-- Dömd till livstid för islamistdåd i München - Aftonbladet
-- Sex döda i östra Ukraina efter nya ryska attacker - Dagens Nyheter
-- Så påverkar inflationen din plånbok – chatta med Alexander Norén - SVT Nyheter
+- Kinesisk AI-trend: Videor där utlänningar utmålas som skurkar - Dagens Nyheter
+- Inflationen på rekordlåg nivå – så påverkas hushållen - Sveriges Radio
 - Pokémon får Nintendos vinst att rusa - Göteborgs-Posten
-- Bekräftat: Medicover säljer indisk verksamhet till KKR - Affärsvärlden
-- Astra Zeneca avfärdar rykten om sammanslagning med rivalen Bristol Myers - Börskollen
+- Få kreditbolag söker tillstånd – många lämnar marknaden - Dagens Juridik
+- Ryde utsatt för dataintrång – alla kunder drabbade - SVT Nyheter
+- Då släpps nya trailern till GTA 6 - Aftonbladet
 - Electronic Arts tillhör Saudiarabien och Jared Kushner nu – ”blodbad” väntar - MovieZine
-- Så ser du meteorregnet och partiella solförmörkelsen - vallentunanya.se
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- New communications project on China’s global “Belt and Road Initiative” - ui.se
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Visual Art köper Global Agencies - Dagens Media
+- Visual Art köper Global Agencies - dagensmedia.se
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - Spelet bakom nedläggningen av News of the World - Expressen
+- Elektroniska hylletiketter (ESL) inom global detaljhandel: Marknadsimplementering, större implementeringar och strategiska implikationer (2026) – International Supermarket News - International Supermarket News
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
 - 1 426 potential victims identified in global operation against human trafficking - Europol
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - Intervision 2025 - Russia hosts Putin's answer to Eurovision - BBC
 
 ## Technology
 
-- Advita Ortho Showcases New AI-Driven Research Advancing Personalized Joint Replacement (PR Newswire) - Aktiellt
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Advita Ortho Showcases New AI-Driven Research Advancing Personalized Joint Replacement (PR Newswire) - swedbank-aktiellt.se
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - swedbank-aktiellt.se
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
@@ -78,7 +78,7 @@ _Updated: 2026-08-06 15:09_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - finanstid.se
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Vilken framtid arbetar du för? - EY
@@ -114,8 +114,8 @@ _Updated: 2026-08-06 15:09_
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
 ## Science
 
@@ -137,8 +137,8 @@ _Updated: 2026-08-06 15:09_
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
 ## Jordbruk
 
@@ -150,10 +150,10 @@ _Updated: 2026-08-06 15:09_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - ATL
+- Här är världens största jordbruk - atl.nu
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Så ska det australiensiska jordbruket bli hållbart - atl.nu
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - Lantbrukslogik – nu och i framtiden - SLU
