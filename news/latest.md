@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-06 13:05_
+_Updated: 2026-08-06 15:17_
 
+- Possible Strait of Hormuz deal, Israeli soldiers killed in Lebanon and other news in the Mideast - AP News
+- Senate committee set to vote on holding Anthony Fauci in contempt of Congress – US politics live - The Guardian
 - Trump says El-Sayed is ‘full of s‑‑‑,’ calls him a ‘man of hate’ - The Hill
-- Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks - CBS News
-- Firefighters are working 16-hour shifts as they battle the Spokane Complex Fire - NBC News
-- Senate committee set to vote on whether to hold Fauci in contempt of Congress - NPR
+- Ukraine’s military hits one of Russia’s biggest oil refineries in long-range drone attack - CNBC
+- Firefighters are working 16-hour shifts as they battle the Spokane Complex Fire - nbcnews.com
 - Trump, Hegseth clashed at Camp David over Iran missile depletion concerns - The Washington Post
-- Ukraine attacks one of Russia's largest oil refineries for 2nd night in a row, locals report - The Kyiv Independent
-- Senate’s summer pileup is threatening a quick recess escape - Politico
-- Chuck Edwards' abrupt exit leaves Republicans scrambling - Axios
-- Gann Fire: Man arrested near site of where wildfire sparked, says he did not mean to start it - KCRA
-- FAA reviewing incident involving Trump flight on Marine One, air traffic controllers at National Airport - CBS News
+- Capitol agenda: Summer exit eludes Senate - Politico
+- A Trans Woman Brandished a Firearm. Gun Rights Devotion Disappeared. - The New York Times
+- In Texas’ Most Eligible Senate Race, It’s Bachelor vs. Divorcé-to-Be - The New York Times
+- ‘Is she even allowed to be doing this?’: Inside a federal judge’s side gig running a PR firm - Politico
+- Youngest Black professor at Cambridge resigns as university investigates allegations of plagiarism - AP News
+- Italy on red alert, Hungary turns off the lights as Europe's heatwave takes toll - yahoo.com
 - Drone with explosives found at German airport, official sees 'new quality' of threat - NPR
-- What we know about North Korean forces joining Russia's war against Ukraine - Reuters
-- Nigeria announces rescue of 308 kidnapped citizens - Al Jazeera
-- Hiroshima marks 81st atomic bomb anniversary as mayor deplores the pursuit of nuclear weapons - AP News
+- Fires Wrecked Their Village in France. Now They Want Answers. - The New York Times
 - More than 900 million SpaceX shares unlock today. Here’s what to know - CNN
-- Dow futures inch higher after blue-chip index posts new record close: Live updates - CNBC
+- U.K. Approves Paramount-Warner Bros. Merger - Variety
 - Exclusive / Demis Hassabis was shifting away from DeepMind CEO duties for a year - Semafor
-- Emerging markets get a hard lesson in tech hype - Reuters
+- 'I've had to Botox my CV': Are AI recruitment tools affecting women's careers? - BBC
 - Samsung Galaxy Z series foldables are breaking pre-order records in the US and Korea - Mashable
-- Pokémon Pokopia Expansion Pass—Part 1: Bubbly Basin is Available Today - Pokemon.com
+- iPhone 18 Pro event date: When Apple announced its event over the last six years - 9to5mac.com
