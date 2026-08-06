@@ -1,89 +1,89 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-06 06:43_
+_Updated: 2026-08-06 10:00_
 
 ## Top Stories
 
-- Fortsatt polisnärvaro i Stockholms skärgård efter misstänkt mord - Dagens Nyheter
-- Två gripna efter misstänkt föremål på pub - Västerbottens-Kuriren
-- Nästan 4 000 fall av ebola i Kongo-Kinshasa - Göteborgs-Posten
-- Nathan Shachar: Spaniens vänster sablar ned hanteringen av Ceuta-krisen - Dagens Nyheter
-- LEDARE: Quislingliknelsen är bortom sans och vett - Ystads Allehanda
-- Därför stannar de tyska mammorna hemma med barnen - Göteborgs-Posten
-- Just nu: Rådjur innanför viltstängslet på E4 - sn.se
-- Expressen publicerar lista på alla fångar som fått brev från V – Senaste nytt om valet 2026 - SVT Nyheter
-- DN Direkt – Varning för kraftig åska i södra Sverige - Dagens Nyheter
-- Kristersson om Buschs vårdultimatum: ”Inte den stora lösningen” - Dagens Nyheter
-- Alla domar om Kapitolium-upploppet nu avskrivna - Göteborgs-Posten
-- Direkt – Krisen i Mellanöstern – Iran och Oman har nått överenskommelse om Hormuzsundet - Dagens Nyheter
-- Ingen rysk robot sköts ner: ”Besvärlig situation” - Corren
-- Källor: Ännu en robot på väg att ta slut - Västerbottens-Kuriren
-- USA:s företag får miljardåterbäring efter domstolsbeslut om Trump-tullar - borskollen.se
-- DN Direkt – Blandat på Wall Street – Space X kraschade - Dagens Nyheter
-- Efter larmen: Även Metas AI har ”rymt” ur testmiljö - omni.se
-- Stockholmsbörsen avslutade dagen på nollan - Affärsvärlden
-- Elon Musks raket ska ha kraschat in i månen - Göteborgs-Posten
-- Affären klar – EA Games köps upp av saudisk statlig fond - omni.se
+- Man gripen för mord på kvinna i skärgården - Göteborgs-Posten
+- Helldén (MP): ”Vi klarar av att ta emot mer än vad vi gör idag” - Bulletin
+- Då kan ransonering bli aktuellt – så påverkas du - Göteborgs-Posten
+- Trump har backat på alla krav om kriget i Iran - Expressen
+- Åklagaren: Bilderna visar att båten blev överkörd i Hakefjorden - Göteborgs-Posten
+- Två gripna efter misstänkt föremål på pub - Corren
+- DN Direkt – Kvinna död efter krock med träd - Dagens Nyheter
+- Fakta i frågan: Stämmer det att invandrare bär upp välfärden? - Dagens Nyheter
+- Stockholm köper danska spermier – men Skåne vägrar - Dagens Nyheter
+- Igelkottar märkligt försvunna – dags för spaning - Aftonbladet
+- Expert: Sinande vapenlager kan sakta ner kriget - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Källor: Trump skällde ut Hegseth för vapenbristen - Dagens Nyheter
+- Sex döda i östra Ukraina efter nya ryska attacker - Dagens Nyheter
+- Nästan 4 000 fall av ebola i Kongo-Kinshasa - Hufvudstadsbladet – HBL
+- Inflationen rasade i juli – sänkta skatter bakom - Göteborgs-Posten
+- Metas AI-modell har också rymt – och hackat ett bolag - Breakit
+- USA:s företag får miljardåterbäring efter domstolsbeslut om Trump-tullar - Börskollen
+- Yubico rusar tvåsiffrigt på oregelbunden börs - Affärsvärlden
+- Jätteteleskopet bekräftar: Space X raket kraschade mot månen - nyteknik
+- Affären klar – EA Games köps upp av saudisk statlig fond - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - via.tt.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Visual Art köper Global Agencies - Dagens Media
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - New communications project on China’s global “Belt and Road Initiative” - ui.se
-- Spelet bakom nedläggningen av News of the World - Expressen
-- Elektroniska hylletiketter (ESL) inom global detaljhandel: Marknadsimplementering, större implementeringar och strategiska implikationer (2026) – International Supermarket News - International Supermarket News
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Visual Art köper Global Agencies - Dagens Media
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
-- Murdoch ber om ursäkt för avlyssning - Blekinge Läns Tidning
+- Elektroniska hylletiketter (ESL) inom global detaljhandel: Marknadsimplementering, större implementeringar och strategiska implikationer (2026) – International Supermarket News - International Supermarket News
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- 1 426 potential victims identified in global operation against human trafficking - Europol
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- Global turism slog nytt rekord under 2025 - travelnews-se
+- Intervision 2025 - Russia hosts Putin's answer to Eurovision - BBC
 
 ## Technology
 
 - Advita Ortho Showcases New AI-Driven Research Advancing Personalized Joint Replacement (PR Newswire) - Aktiellt
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - computersweden.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
+- AI Sweden gathering forces to lead the development of edge learning - via.tt.se
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Kina utökar övervakning i realtid av invånarna - omni.se
-- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
+- Nu blir datorerna dyrare – efter prishöjning på minnen - computersweden.se
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - computersweden.se
+- Tiden för billig vibe coding kan vara över - computersweden.se
+- Albanien utser AI-bot till minister - computersweden.se
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - computersweden.se
 
 ## Business
 
-- Dear Economy om Gotlands vattenbrist under Almedalen - ey.com
+- Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
-- Vilken framtid arbetar du för? - ey.com
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - ey.com
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -105,7 +105,7 @@ _Updated: 2026-08-06 06:43_
 - Sju life science-trender 2026 - Business Region Göteborg
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
+- Örebro University’s first specialist physicians are now contributing to national healthcare - via.tt.se
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
@@ -125,7 +125,7 @@ _Updated: 2026-08-06 06:43_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
@@ -150,15 +150,15 @@ _Updated: 2026-08-06 06:43_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - ATL
+- Här är världens största jordbruk - atl.nu
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Så ska det australiensiska jordbruket bli hållbart - atl.nu
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - Lantbrukslogik – nu och i framtiden - SLU
-- Hellre plöjningsfri odling än ekologisk - Land.se
-- Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Kan agroekologi mätta världen? - SLU
+- Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
