@@ -1,37 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-06 01:55_
+_Updated: 2026-08-06 02:50_
 
 ## Top Stories
 
-- Misstänkt farligt föremål på pub i Stockholm - Västerbottens-Kuriren
+- Två gripna efter misstänkt föremål på pub - Västerbottens-Kuriren
 - DN Direkt – Dadgostar om terroristhyllning: ”Ett misstag” - Dagens Nyheter
 - Varför har Spanien fortfarande städer i Afrika? - Göteborgs-Posten
 - Larm om explosion i Malmö – bombskyddet på väg - Omni – Alla nyheter. Alla perspektiv.
-- Direkt – Krisen i Mellanöstern – Iran och Oman har nått överenskommelse om Hormuzsundet - Dagens Nyheter
-- Misstänkt mord i skärgården – polis söker efter en person - Sveriges Radio
-- Polisen: 188 kriminella gripna utomlands i år - Corren
-- Annie Reuterskiöld: Jomshofs ord är bara början på Kristerssons problem - Dagens Nyheter
-- Expressen publicerar lista på alla fångar som fått brev från V – Senaste nytt om valet 2026 - SVT Nyheter
+- Ny polisinsats på skärgårdsön – efter misstänkta mordet - Aftonbladet
+- Iran och Oman överens om rutt i Hormuz - Hufvudstadsbladet – HBL
 - Just nu: Rådjur innanför viltstängslet på E4 - SN, Södermanlands Nyheter
+- Expressen publicerar lista på alla fångar som fått brev från V – Senaste nytt om valet 2026 - SVT Nyheter
+- Kristersson om Buschs vårdultimatum: ”Inte den stora lösningen” - Dagens Nyheter
+- Annie Reuterskiöld: Jomshofs ord är bara början på Kristerssons problem - Dagens Nyheter
 - Alla domar om Kapitolium-upploppet nu avskrivna - Corren
 - Israels militär: Fortsatta angrepp i Gaza - Västerbottens-Kuriren
-- Därför attackerar Ukraina ”Rysslands Amazon” - Dagens Nyheter
 - Israel attackerar södra Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Trumps administration betalar tillbaka 100 tull-miljarder - Omni – Alla nyheter. Alla perspektiv.
-- Vinden vänder på Wall Street - efn.se
-- Vänsterpartiet säger nej till Google i Torsboda - Sveriges Radio
+- Därför attackerar Ukraina ”Rysslands Amazon” - Dagens Nyheter
+- Trump tvingas betala tillbaka 100 miljarder i tullavgifter - EFN
+- Wall Street tappade fart – Uber backade på delår - Omni – Alla nyheter. Alla perspektiv.
 - Novo Nordisk höjer prognosen: aktien föll ändå - Biostock
-- Simon Campanello: Ny studie visar att skärmtid inte är så farligt för barn – men det finns ett problem - Dagens Nyheter
+- DN Direkt – Blandat på Wall Street – Space X kraschade - Dagens Nyheter
 - Del av Space X-raket tros ha kraschat med månen - Yle
+- Simon Campanello: Ny studie visar att skärmtid inte är så farligt för barn – men det finns ett problem - Dagens Nyheter
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - bbc.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
@@ -45,13 +45,13 @@ _Updated: 2026-08-06 01:55_
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Intervision 2025 - Russia hosts Putin's answer to Eurovision - BBC
+- Intervision 2025 - Russia hosts Putin's answer to Eurovision - bbc.com
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
 
+- Advita Ortho Showcases New AI-Driven Research Advancing Personalized Joint Replacement (PR Newswire) - Aktiellt
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Advita Ortho Showcases New AI-Driven Research Advancing Personalized Joint Replacement (PR Newswire) - swedbank-aktiellt.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
@@ -59,15 +59,15 @@ _Updated: 2026-08-06 01:55_
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
@@ -77,7 +77,8 @@ _Updated: 2026-08-06 01:55_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Four European takes on open banking - Mastercard Data and Services - Mastercard
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - finanstid.se
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Vilken framtid arbetar du för? - EY
@@ -87,7 +88,6 @@ _Updated: 2026-08-06 01:55_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
@@ -100,7 +100,7 @@ _Updated: 2026-08-06 01:55_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Låt oss prata hälsa – Intensivvård – Segment 1 - apollohospitals.com
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -131,14 +131,14 @@ _Updated: 2026-08-06 01:55_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -148,7 +148,7 @@ _Updated: 2026-08-06 01:55_
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - Naturvårdsverket
+- Jordbrukspolitik - naturvardsverket.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
@@ -157,7 +157,7 @@ _Updated: 2026-08-06 01:55_
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Kan agroekologi mätta världen? - SLU
