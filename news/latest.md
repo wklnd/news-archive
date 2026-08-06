@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-06 06:48_
+_Updated: 2026-08-06 10:05_
 
-- What we learned from midterm primary elections in five key states - The Guardian
-- Pentagon holds crisis meeting on weapons shortfall after angry Trump call, sources say - NBC News
-- After Michigan Loss, AIPAC Weighs a Second Effort to Defeat El-Sayed - nytimes.com
-- GOP voters reluctant to abandon Rep. Max Miller over abuse allegations - The Washington Post
-- Trump-backed candidate in battleground Michigan district loses to opponent who dropped out - Politico
-- Exclusive | Senate Panel Says It Has Obtained Copy of Fauci’s Covid-Era Phone - wsj.com
-- At least 12 states report cyberattacks on water systems possibly linked to Iran-backed hackers, sources say - cbsnews.com
-- Chuck Edwards' abrupt exit leaves Republicans scrambling - axios.com
+- Trump blasts Democratic socialist candidate as 'full of s---' and Dems are skipping socialism 'for communism' - Fox News
+- Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks - CBS News
+- Three state attorneys general subpoena Anthony Fauci over Covid guidance - NBC News
+- Trump, Hegseth clashed at Camp David over Iran missile depletion concerns - The Washington Post
+- Senate Panel Has Obtained Copy of Fauci’s Cellphone - The New York Times
+- Lindsay Clancy murder trial: toxicologist testifies about medications found in defendant’s blood - The Guardian
 - Senate’s summer pileup is threatening a quick recess escape - Politico
-- Francesca Hong says Thanksgiving is her favorite holiday: ‘I don’t want to cancel it’ - The Hill
-- Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks - cbsnews.com
-- Ousted Bangladeshi leader vows to return from exile despite facing a death sentence - NPR
-- Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush - Reuters
-- Jason Arday: Cambridge professor in plagiarism row quits - BBC
+- Chuck Edwards' abrupt exit leaves Republicans scrambling - Axios
+- Firefighters are working 16-hour shifts as they battle the Spokane Complex Fire - NBC News
+- Bunny Dolls and Disturbing Allegations: Max Miller’s Strange CNN Interview - The New York Times
+- Drone with explosives found at German airport, official sees 'new quality' of threat - npr.org
+- Russia deploys North Korean missile unit to Ukraine, Moscow-Pyongyang axis deepens: report - Fox News
+- Nigeria announces rescue of 308 kidnapped citizens - Al Jazeera
+- Exiled PM vows to return to Bangladesh despite execution threat - The Guardian
+- Meta AI Model Accessed Internet, Hacked Outside Firm in Testing - Bloomberg.com
 - Exclusive / Demis Hassabis was shifting away from DeepMind CEO duties for a year - Semafor
-- SpaceX Stock Drops on Ballooning AI Bill - wsj.com
-- Powerball jackpot soars to $786M: Expert tips for what to do if you win - Fox Business
-- AMD Revenue Rockets 50%: 2 Undervalued Chip Stocks With Long-Term EPS Growth +100% - Seeking Alpha
-- Samsung insists the Galaxy Z Fold 8 is ‘perfect’ for ‘full-screen’ video – it’s not - 9to5Google
-- Google Pixel 11 Pro: The latest rumors, leaks, and news - mashable.com
+- The real reason SpaceX shares are tanking after rocket smashes into moon - The Independent
+- Emerging markets get a hard lesson in tech hype - Reuters
+- Apple's iCloud Private Relay is Leaking Users' Real IP Addresses - MacRumors
+- Samsung Galaxy Z series foldables are breaking pre-order records in the US and Korea - Mashable
