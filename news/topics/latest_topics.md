@@ -1,70 +1,70 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-06 13:01_
+_Updated: 2026-08-06 15:09_
 
 ## Top Stories
 
-- Sommaren är över – hösten har kommit till Västerbotten - Sveriges Radio
-- MP: Fler flyktingar och höjt bensinpris - Expressen
-- Vallöfte: Skärpt vårdgaranti - Senioren
 - Man gripen för mord på kvinna i skärgården - Göteborgs-Posten
-- Handelsbanken kräver att 96-åring åker från Åland för bank-id - Dagens Nyheter
-- Hyllad Cambridgeprofessor utreds för fusk och lögner - Dagens Nyheter
-- DN Direkt – Buss har kört i diket – tre till sjukhus - Dagens Nyheter
-- Två gripna efter misstänkt föremål på pub - Corren
+- Sommaren är över – hösten har kommit till Västerbotten - Sveriges Radio
+- LEDARE: V-politiker hyllar terrorist - Nya Wermlands-Tidningen
+- DN Direkt – M-löfte: Haverikommission varje gång kvinna mördas - Dagens Nyheter
+- Slopad avgift för lång väntetid - - Fagersta Nyheter
+- Pojke utskriven från sjukhuset efter olyckan - Svenska Dagbladet
+- Buss har kört i diket – flera skadade - Västerbottens-Kuriren
+- Sigrid Melchior: Ceuta blottar EU:s nya hårda migrationslinje - Dagens Nyheter
 - Magdalena Andersson (S) om V-ledamoten: ”Väldigt allvarligt” – Senaste nytt om valet 2026 - SVT Nyheter
-- Beslagtaget fartyg kan överlämnas till Ukraina - Dagens Nyheter
+- MP: Sverige borde ta emot fler flyktingar - Omni – Alla nyheter. Alla perspektiv.
 - Trump: ”USA har enorma mängder krigsmateriel” - Corren
-- Omfattande robotattacker mot Kiev – minst 17 döda - Göteborgs-Posten
-- Ukrainska attacker mot ryska oljeraffinaderier - Västerbottens-Kuriren
-- Vance: Kommer ta tid att enas med Iran - hbl.fi
+- Hyllad Cambridgeprofessor utreds för fusk och lögner - Dagens Nyheter
+- Dömd till livstid för islamistdåd i München - Aftonbladet
+- Sex döda i östra Ukraina efter nya ryska attacker - Dagens Nyheter
 - Så påverkar inflationen din plånbok – chatta med Alexander Norén - SVT Nyheter
-- Pokémon får Nintendos vinst att rusa - Sydsvenskan
-- Meta utreder AI-modell som hackade annat företag - Sveriges Radio
-- Ålandsbanken positiva till Novo Nordisk - Affärsvärlden
-- Affären klar – EA Games köps upp av saudisk statlig fond - omni.se
+- Pokémon får Nintendos vinst att rusa - Göteborgs-Posten
+- Bekräftat: Medicover säljer indisk verksamhet till KKR - Affärsvärlden
+- Astra Zeneca avfärdar rykten om sammanslagning med rivalen Bristol Myers - Börskollen
+- Electronic Arts tillhör Saudiarabien och Jared Kushner nu – ”blodbad” väntar - MovieZine
 - Så ser du meteorregnet och partiella solförmörkelsen - vallentunanya.se
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - via.tt.se
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
+- New communications project on China’s global “Belt and Road Initiative” - ui.se
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Visual Art köper Global Agencies - Dagens Media
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Global turism slog nytt rekord under 2025 - travelnews-se
-- Spelet bakom nedläggningen av News of the World - Expressen
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
+- Spelet bakom nedläggningen av News of the World - Expressen
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
-- Murdoch ber om ursäkt för avlyssning - blt.se
 - 1 426 potential victims identified in global operation against human trafficking - Europol
-- Ulrika Jonsson stämmer News of the World - Sydsvenskan
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Intervision 2025 - Russia hosts Putin's answer to Eurovision - BBC
 
 ## Technology
 
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - nyheter.ki.se
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Advita Ortho Showcases New AI-Driven Research Advancing Personalized Joint Replacement (PR Newswire) - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- AI Sweden gathering forces to lead the development of edge learning - via.tt.se
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - omni.se
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
@@ -97,7 +97,7 @@ _Updated: 2026-08-06 13:01_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
@@ -105,22 +105,22 @@ _Updated: 2026-08-06 13:01_
 - Sju life science-trender 2026 - Business Region Göteborg
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Örebro University’s first specialist physicians are now contributing to national healthcare - via.tt.se
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - nyheter.ki.se
+- Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - nyheter.ki.se
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 
 ## Science
 
 - AI for Scientific Research and Discovery - OpenAI
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- NESS activities for the public – Department of Earth Sciences - uu.se
 - Universitetet främjar samarbete inom områdena biomedicinsk vetenskap och medicinsk testning. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
@@ -128,16 +128,16 @@ _Updated: 2026-08-06 13:01_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
+- Sherry Nakhaeizadeh - uu.se
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - nyheter.ki.se
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - nyheter.ki.se
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
