@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-07 12:28_
+_Updated: 2026-08-07 13:22_
 
 ## Top Stories
 
 - 45-årig man åtalas för Brattåsmorden – efter 21 år - Göteborgs-Posten
-- Misstänks för mordet i skärgården – begärs häktad - SVT Nyheter
-- Alla fördömer tonläget i politiken – men har det förändrats? - Göteborgs-Posten
-- Minst tio skadade i skolskjutning - Folkbladet
+- DEBATT: Nu blir Quisling-gate mest av allt gratis valreklam för SD - Värmlands Folkblad
 - Rådet: Fiska dina egna kräftor till skivan - Svenska Dagbladet
-- Ryssland kan attackera – med Ukrainas drönare - Svenska Dagbladet
-- DN Direkt – Varning för kraftigt regn i Norrbotten - Dagens Nyheter
+- Pensionären Bo tjatade sig fram i vården: ”Varför är det så här?” - dn.se
+- Så lever Marius med fotboja på kungliga Skaugum - Göteborgs-Posten
+- Misstänks för mordet i skärgården – begärs häktad - SVT Nyheter
+- DN Direkt – Varning för kraftigt regn i Norrbotten - dn.se
 - Man åtalas efter uppmärksammade bränder - Västerbottens-Kuriren
-- Pensionären Bo tjatade sig fram i vården: ”Varför är det så här?” - Dagens Nyheter
-- Varning för rådjur på vägen på E18 - eposten.se
+- Ny studie: Många pappor med förlossningsdepression missas - Sveriges Radio
+- Åldringsbedragare gripna - polisen.se
+- Direkt – Kriget i Ukraina – Ukrainska Rädda barnen angripet i ryska attacker - dn.se
 - Tyfon på väg mot Japan – tusentals evakueras - Västerbottens-Kuriren
-- Zelenskyj: Stora ryska raffinaderier i brand - Göteborgs-Posten
 - Busschaufför sparkade ner bombdrönaren i Leipzig - Göteborgs-Posten
 - Många döda i Huthiattacker i Jemen - Göteborgs-Posten
-- Bjurfors kommentar till Mäklarstatistik: Bostadsrätter backar tillfälligt medan villor står emot - Mynewsdesk
+- Kommentar till Svensk Mäklarstatistik: Semesterlugnet dämpade bostadsrättspriserna – villapriserna steg - Mynewsdesk
 - Lista: Skandiabanken har lägst boräntor – Ikano högst - Omni – Alla nyheter. Alla perspektiv.
-- Brutna sviter och rapportras på ljusröd börs i USA - EFN
-- Kina rundar EU:s tullar via Marocko och Turkiet: nu slår Bryssel larm - Dagens PS
+- Nyhetsshowen: Hej då Nöjesguiden och Metas nya miljardsmäll - Göteborgs-Posten
+- Tyska värmepumpsmarknaden ökade 40 procent under H1 - positivt för Nibe enligt Inderes - Placera.se
 - Nu blir det fritt fram att chatta hur mycket som helst med Chat GPT - Computer Sweden
-- Electronic Arts tillhör Saudiarabien och Jared Kushner nu – ”blodbad” väntar - MovieZine
+- Massuppsägningar väntar på EA efter uppköpet - m3.se
 
 ## World News
 
@@ -31,30 +31,30 @@ _Updated: 2026-08-07 12:28_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Radisson satsar stort på långtidsboende globalt - travelnews-se
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- Radisson satsar stort på långtidsboende globalt - travelnews.se
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Visual Art köper Global Agencies - Dagens Media
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - bbc.com
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - 1 426 potential victims identified in global operation against human trafficking - Europol
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Etraveli rusar – 175 miljarder och global styrka - travelnews.se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Murdoch ber om ursäkt för avlyssning - Blekinge Läns Tidning
+- Intervision 2025 - Russia hosts Putin's answer to Eurovision - BBC
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
 
 ## Technology
 
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Leveraging AI in Swedish Development Cooperation - fuf.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -77,6 +77,7 @@ _Updated: 2026-08-07 12:28_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
@@ -87,19 +88,18 @@ _Updated: 2026-08-07 12:28_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - lakartidningen.se
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
@@ -108,10 +108,10 @@ _Updated: 2026-08-07 12:28_
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - lakartidningen.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
@@ -123,22 +123,22 @@ _Updated: 2026-08-07 12:28_
 - AI for Scientific Research and Discovery - OpenAI
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Olika slutsatser från samma data - Läkartidningen
+- Olika slutsatser från samma data - lakartidningen.se
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - lakartidningen.se
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - lakartidningen.se
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- 5 myter om öppen vetenskap - lakartidningen.se
+- I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
 ## Jordbruk
 
@@ -146,19 +146,19 @@ _Updated: 2026-08-07 12:28_
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Jordbruket har en nyckelroll för att rädda klimatet - land.se
+- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - land.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Visning av uppkomst efter direktsådd - land.se
+- Visning av uppkomst efter direktsådd - Land.se
 - Lantbrukslogik – nu och i framtiden - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Hellre plöjningsfri odling än ekologisk - land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
