@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-07 20:12_
+_Updated: 2026-08-07 21:29_
 
 ## Top Stories
 
-- Misstänks för mordet i skärgården – häktas av Nacka tingsrätt - SVT Nyheter
-- S vill slopa mängdrabatten för allvarliga brott - Västerbottens-Kuriren
-- Musik, tal och blommor – många tog farväl av polisman Christian Zedig - sverigesradio.se
 - Norsk myndighet: Brott mot vilotid på olycksfartyg – ”Riskerna ökar” - Dagens Nyheter
-- Jämställdhetsministern (L) vill satsa på deprimerade pappor - sverigesradio.se
+- Het strid om avskaffad straffrabatt: "Fantasier" - Göteborgs-Posten
+- Misstänks för mordet i skärgården – häktas av Nacka tingsrätt - SVT Nyheter
 - Trump rasar mot pausat balsalsbygge - Västerbottens-Kuriren
+- Här begravs 32-årige Christian – hyllades i stor arena - Aftonbladet
+- Förlossningsdepression hos pappor missas av vården - Kvartal
 - Efter eldolyckan i Visby – extra säkerhetstänk under medeltidsdagarna i Arboga - SVT Nyheter
 - Åklagaren i Brattåsfallet: ”Bevisläget är gott” - Västerbottens-Kuriren
-- Fick sparken efter mordförsök – nu stämmer hon arbetsgivaren - sverigesradio.se
-- Så vill Moderaterna finansiera sina vallöften - Göteborgs-Posten
+- Jörn Spolander: Därför strider miljövänner och forskare om synen på de svenska kräftorna - Dagens Nyheter
+- Vattenbristen i Skåne består trots minskad förbrukning: ”Fortsatt allvarligt läge” - Dagens Nyheter
 - Tyska regeringen i krismöte efter misstänkt drönarattack - Dagens Nyheter
-- Kung Harald till sjukhus för kontroll - SVT Nyheter
-- Klart: Nytt försvarssamarbete för Saudiarabien - Göteborgs-Posten
+- ”Vertikalt drickande” kan komma att begränsas i London - Dagens Nyheter
 - ”Vi visste att vattnet var minerat, men vi badade ändå” - Dagens Nyheter
-- Kommentar till Svensk Mäklarstatistik: Semesterlugnet dämpade bostadsrättspriserna – villapriserna steg - Mynewsdesk
+- Erdogan har landat för toppmöte i Saudiarabien - Göteborgs-Posten
 - Affärsvärlden landar i neutralt råd för Yubico - Affärsvärlden
+- Kommentar till Svensk Mäklarstatistik: Semesterlugnet dämpade bostadsrättspriserna – villapriserna steg - mynewsdesk.com
 - Får Ozempic på jobbet – kostar miljarder - Svenska Dagbladet
-- Stockholmsbörsen inleder i moll - Bohusläningen
+- Stockholmsbörsen tog helg svagt nedåt - Västerbottens-Kuriren
 - Snart solförmörkelse – så skyddar du ögonen - Medicinsk Access
 - Massuppsägningar väntar på EA efter uppköpet - m3.se
 
@@ -34,7 +34,7 @@ _Updated: 2026-08-07 20:12_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Möt Johanna Flood, journalisten som blev global miljöchef - new.abb.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
@@ -57,10 +57,10 @@ _Updated: 2026-08-07 20:12_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - mynewsdesk.com
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - blogg.avanza.se
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
@@ -74,25 +74,25 @@ _Updated: 2026-08-07 20:12_
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - mynewsdesk.com
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - mynewsdesk.com
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - mynewsdesk.com
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Vilken framtid arbetar du för? - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - mynewsdesk.com
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - mynewsdesk.com
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - mynewsdesk.com
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - mynewsdesk.com
+- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - mynewsdesk.com
+- Hans Skruvfors blir VD för Sambla Group - mynewsdesk.com
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - mynewsdesk.com
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - mynewsdesk.com
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - mynewsdesk.com
 
 ## Health
 
@@ -100,11 +100,11 @@ _Updated: 2026-08-07 20:12_
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Khalid satsar på digital vård – mot fetma - st.nu
 - Sju life science-trender 2026 - Business Region Göteborg
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - mynewsdesk.com
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
@@ -112,7 +112,7 @@ _Updated: 2026-08-07 20:12_
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - mynewsdesk.com
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 - Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
@@ -128,7 +128,7 @@ _Updated: 2026-08-07 20:12_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - sverigesradio.se
 - Sherry Nakhaeizadeh - Uppsala universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- SND at Almedalsveckan 2024 - snd.se
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
@@ -145,7 +145,7 @@ _Updated: 2026-08-07 20:12_
 - Dien Bien Agriculture: Väcker potential - Ökar värdet: [Del 5]: "Green Stream" välkomnar investerare - Vietnam.vn
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Doggy stolt partner till Göteborg Film Festival - mynewsdesk.com
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
@@ -154,7 +154,7 @@ _Updated: 2026-08-07 20:12_
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - mynewsdesk.com
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - Lantbrukslogik – nu och i framtiden - SLU
