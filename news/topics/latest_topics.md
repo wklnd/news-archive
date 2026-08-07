@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-07 07:14_
+_Updated: 2026-08-07 08:47_
 
 ## Top Stories
 
-- Kvinna började brinna igår kväll - flögs till Uppsala nu på morgonen - Sveriges Radio
-- Ukrainska Rädda Barnen angripet i ryska attacker - Göteborgs-Posten
+- Åtal väntas mot misstänkt för dubbelmordet i Brattås 2005 - SVT Nyheter
+- Tonåring sköt ihjäl lärare och elever nära Bangkok - gp.se
 - Trump rasande över känsliga läckan - Aftonbladet
-- Tidigare S-toppen: Socialdemokraterna har övergett arbetarna - Göteborgs-Posten
-- 17-åring mördade fel man – nu efterlyst i Göteborg - Göteborgs-Posten
-- Drönare hittades intill plan med krigsmateriel - Västerbottens-Kuriren
-- DN Direkt – Uppgifter: Marocko vill att barnen i Ceuta återvänder - Dagens Nyheter
-- Motorcyklist påkörd av lastbil på E4 - SVT Nyheter
-- Ny läcka ger akut vattenbrist - Göteborgs-Posten
-- V: Breven påverkar inte regeringsdugligheten – Senaste nytt om valet 2026 - SVT Nyheter
-- Saudiarabien: Flera skadade i Huthiattack - Västerbottens-Kuriren
+- INSÄNDARE: Hur länge ska vi nöja oss med löften om kortare vårdköer? - Kristianstadsbladet
+- Svensk underrättelsekälla: Det är typiskt för Ryssland - Omni – Alla nyheter. Alla perspektiv.
+- Våldsamma medborgargarden ska ”rensa” i Ceuta - Sveriges Radio
+- Artist fattade eld i Visby – allvarligt skadad - Corren
+- Stopp i trafiken på E4 söder om Gränna - SVT Nyheter
+- Ny läcka ger akut vattenbrist - gp.se
+- Man gripen för mord på kvinna i skärgården - gp.se
+- Hundratusentals evakueras när tyfonen ”Dolphin” sveper in över Japan - SVT Nyheter
+- Ukrainska Rädda Barnen angripet i ryska attacker - gp.se
 - Tiotusentals delfiner i Svarta havet har dött av kriget - Dagens Nyheter
-- Trump trotsar rätt till medborgarskap med nya dekret - Hufvudstadsbladet – HBL
-- Skolskjutning i Thailand – en död och flera skadade - SVT Nyheter
-- Bostadsrättspriserna sjunker – störst nedgång i Stockholm - Omni – Alla nyheter. Alla perspektiv.
-- Meta fälls i domstol för att ha skadat barn - Yle
+- Många döda i Huthiattacker i Jemen - Västerbottens-Kuriren
+- Kommentar till Mäklarstatistik: Vårens svårsålda bostäder skapar julidipp - Cision News
+- Tvåsiffrig organisk tillväxt för Clas Ohlson - Privata Affärer
+- Inflationen rasade i juli – sänkta skatter bakom - Bohusläningen
 - Socialdemokraterna avgör Googles AI-center i Torsboda - Sveriges Radio
-- Inflationen rasade i juli – sänkta skatter bakom - Västerbottens-Kuriren
 - Electronic Arts tillhör Saudiarabien och Jared Kushner nu – ”blodbad” väntar - MovieZine
 - Tre solförmörkelser på bara två år - Sydkusten
 
@@ -33,8 +33,8 @@ _Updated: 2026-08-07 07:14_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - via.tt.se
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Radisson satsar stort på långtidsboende globalt - travelnews-se
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
@@ -42,11 +42,11 @@ _Updated: 2026-08-07 07:14_
 - Visual Art köper Global Agencies - Dagens Media
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
-- Elektroniska hylletiketter (ESL) inom global detaljhandel: Marknadsimplementering, större implementeringar och strategiska implikationer (2026) – International Supermarket News - internationalsupermarketnews.com
 - 1 426 potential victims identified in global operation against human trafficking - Europol
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Intervision 2025 - Russia hosts Putin's answer to Eurovision - BBC
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Murdoch ber om ursäkt för avlyssning - Blekinge Läns Tidning
 
 ## Technology
 
@@ -59,7 +59,7 @@ _Updated: 2026-08-07 07:14_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- AI Sweden gathering forces to lead the development of edge learning - via.tt.se
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
@@ -78,7 +78,7 @@ _Updated: 2026-08-07 07:14_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - finanstid.se
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Vilken framtid arbetar du för? - EY
@@ -99,23 +99,23 @@ _Updated: 2026-08-07 07:14_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - lakartidningen.se
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Sju life science-trender 2026 - Business Region Göteborg
+- Sju life science-trender 2026 - businessregiongoteborg.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Örebro University’s first specialist physicians are now contributing to national healthcare - via.tt.se
+- Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - gp.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - lakartidningen.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 
 ## Science
 
@@ -123,42 +123,42 @@ _Updated: 2026-08-07 07:14_
 - AI for Scientific Research and Discovery - OpenAI
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Olika slutsatser från samma data - lakartidningen.se
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Täta band mellan turism och forskning på Svalbard - SLU
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Täta band mellan turism och forskning på Svalbard - slu.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - lakartidningen.se
+- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
+- 5 myter om öppen vetenskap - lakartidningen.se
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - lakartidningen.se
 
 ## Jordbruk
 
 - Dien Bien Agriculture: Väcker potential - Ökar värdet: [Del 5]: "Green Stream" välkomnar investerare - Vietnam.vn
-- Sveriges förändrade lantbruk - SLU
+- Sveriges förändrade lantbruk - slu.se
 - Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Brittiska bönder i massiv protest mot arvsskatten - ja.se
-- Jordbrukspolitik - naturvardsverket.se
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - atl.nu
-- Jord, kor och klimat - SLU
+- Jord, kor och klimat - slu.se
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - atl.nu
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
 - Visning av uppkomst efter direktsådd - Land.se
-- Lantbrukslogik – nu och i framtiden - SLU
-- Hellre plöjningsfri odling än ekologisk - Land.se
-- Kan agroekologi mätta världen? - SLU
+- Lantbrukslogik – nu och i framtiden - slu.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Kan agroekologi mätta världen? - slu.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - De blev grönsaksodlare tack vare lokalt stöd - Land.se
