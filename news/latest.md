@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-07 05:37_
+_Updated: 2026-08-07 07:22_
 
-- Trump again tries to limit US birthright citizenship with new executive orders - BBC
-- ‘Smart guy’: Trump says he stands by Pete Hegseth as defense secretary - NBC News
-- GOP Rep. Andy Ogles ousted in Tennessee primary - Politico
-- Senate committee votes to hold Fauci in contempt for refusing to answer COVID questions - AP News
+- Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’ - The New York Times
+- Trump Orders Leak Probe After Venting About Media Coverage of Munitions Stockpile - WSJ
 - Live updates: Iran says Hormuz deal is close but US must meet commitments before strait reopens - CNN
-- Mitch McConnell announces discharge from rehabilitation center - The Guardian
+- Republican US Senator Rand Paul asks Justice Department to prosecute Fauci after contempt vote - Reuters
+- Sen. Marsha Blackburn wins the Republican primary for governor of Tennessee - NBC News
+- McConnell discharged from rehab center, will continue recovery at home - The Washington Post
+- In Upset, Andy Ogles Loses to a Republican Challenger in Tennessee - The New York Times
 - Man who started Gann Fire was previously sentenced for causing 2018 fire - KCRA
-- Justice Department Accuses Duke Law School of Racial Discrimination - The New York Times
-- High court rebukes judge in parallel case to Lindsay Clancy trial - The Boston Globe
-- Stevens says of El-Sayed: "Differences were aired out" and "we did the unity deal" - CBS News
+- Remains found in Arizona yard in search for missing couple, and their son may have left country, police say - NBC News
+- Retrial Ordered in Child Killing With Parallels to Lindsay Clancy Case - The New York Times
+- Houthi attack on Saudi Arabia wounds 11 civilians as kingdom warns of wider threat - The Times of Israel
 - Jason Arday, Cambridge's youngest Black professor, resigns amid plagiarism allegations - CBS News
-- Houthi attack on Saudi Arabia wounds 11 civilians as kingdom warns of wider threat - Reuters
-- Israel strikes south Lebanon after two soldiers killed by explosion - BBC
-- Thousands of migrants still in Ceuta after border crisis, local leader says - BBC
-- Meta Ordered to Pay $942 Million to Address Harm to Kids From Social Media - WSJ
-- Trump imposes 15% tariff on key chip and solar panel material - BBC
-- Lower Oil Prices Lend Support For The Gold Rally - Crude Oil Prices Today | OilPrice.com
-- Sweetgreen cuts full-year outlook as cyclospora fears weigh on sales - CNBC
+- Thousands of migrants still in Ceuta after border crisis, local leader says - bbc.com
+- Leipzig drone bomb was found near Ukrainian plane carrying ammunition, say police - The Guardian
+- Meta Ordered to Pay $567 Million Fine by New Mexico Judge - The New York Times
+- Trump imposes 15% tariff on key chip material to counter China - bbc.com
+- Gold heads for best week since January; US jobs data in focus - Reuters
+- SpaceX to Build Natural Gas Power Plants for Texas Chip Factory - Bloomberg
 - OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400 - TechCrunch
-- Trevor Noah is hosting Google’s Pixel 11 launch event - The Verge
+- New Gemini overlay for Wear OS rolling out to Pixel Watch - 9to5Google
