@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-07 18:24_
+_Updated: 2026-08-07 19:24_
 
 ## Top Stories
 
 - Misstänks för mordet i skärgården – häktas av Nacka tingsrätt - SVT Nyheter
-- Tyska regeringen i krismöte efter misstänkt drönarattack - Dagens Nyheter
-- Åklagaren i Brattåsfallet: ”Bevisläget är gott” - Göteborgs-Posten
+- Musik, tal och blommor – många tog farväl av polisman Christian Zedig - sverigesradio.se
+- Jämställdhetsministern (L) vill satsa på deprimerade pappor - sverigesradio.se
+- 45-årig man åtalas för Brattåsmorden – efter 21 år - Göteborgs-Posten
 - ”Bonusprinsen” begärs häktad längre tid med fotboja - Dagens Nyheter
-- Elituniversitetet i kris: ”Grotesk rasism” - Svenska Dagbladet
-- Norsk myndighet: Brott mot vilotid på olycksfartyg – ”Riskerna ökar” - Dagens Nyheter
-- Kvinna fattade eld på medeltidsveckan i Visby - Corren
+- Tyska regeringen i krismöte efter misstänkt drönarattack - Dagens Nyheter
+- Efter eldolyckan i Visby – extra säkerhetstänk under medeltidsdagarna i Arboga - SVT Nyheter
 - Så vill Moderaterna finansiera sina vallöften - Göteborgs-Posten
-- Fick sparken efter mordförsök – nu stämmer hon arbetsgivaren - Sveriges Radio
-- Amanda Lind (MP) om nedlagda folkhögskolan: ”Sker inte i ett vakuum” - Dagens Nyheter
-- Nato-idén: Skjuta ner ryska robotar – över Ukraina - Expressen
+- Fick sparken efter mordförsök – nu stämmer hon arbetsgivaren - sverigesradio.se
+- Högsommarvärmen gör comeback i söder - Dagens Nyheter
+- Person klättrade på tysk högbro – störde tågtrafiken från Skandinavien - Sydsvenskan
+- Erdogan har landat för toppmöte i Saudiarabien - Göteborgs-Posten
 - Nordkoreaner uppmanas äta soppa med hundkött för att klara värmeböljan - Dagens Nyheter
-- Därför evakuerades Taiwans president mitt i natten - Dagens Nyheter
-- Domstol pausar Trumps bygge av balsal - Västerbottens-Kuriren
-- Kommentar till Svensk Mäklarstatistik: Semesterlugnet dämpade bostadsrättspriserna – villapriserna steg - Mynewsdesk
-- Affärsvärlden landar i neutralt råd för Yubico - Affärsvärlden
+- Extremvärmen kostar Europa miljarder – så dyr blir sommaren - Göteborgs-Posten
+- Bjurfors kommentar till Mäklarstatistik: Bostadsrätter backar tillfälligt medan villor står emot - Mynewsdesk
+- Affärsvärlden landar i neutralt råd för Yubico - affarsvarlden.se
 - Får Ozempic på jobbet – kostar miljarder - Svenska Dagbladet
-- Kallelse till extra bolagsstämma i Hemnet Group AB (publ) (MFN) - Aktiellt
+- Stockholmsbörsen inleder i moll - Bohusläningen
 - Snart solförmörkelse – så skyddar du ögonen - Medicinsk Access
 - Massuppsägningar väntar på EA efter uppköpet - m3.se
 
@@ -34,11 +34,11 @@ _Updated: 2026-08-07 18:24_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Möt Johanna Flood, journalisten som blev global miljöchef - new.abb.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Radisson satsar stort på långtidsboende globalt - travelnews.se
+- Radisson satsar stort på långtidsboende globalt - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Visual Art köper Global Agencies - Dagens Media
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
@@ -77,6 +77,7 @@ _Updated: 2026-08-07 18:24_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
@@ -86,19 +87,18 @@ _Updated: 2026-08-07 18:24_
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
@@ -106,12 +106,12 @@ _Updated: 2026-08-07 18:24_
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar HealthBench - openai.com
+- Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
@@ -120,25 +120,25 @@ _Updated: 2026-08-07 18:24_
 ## Science
 
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
-- AI for Scientific Research and Discovery - openai.com
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- AI for Scientific Research and Discovery - OpenAI
+- NESS activities for the public – Department of Earth Sciences - uu.se
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Sherry Nakhaeizadeh - Uppsala universitet
+- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - sverigesradio.se
+- Sherry Nakhaeizadeh - uu.se
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - openai.com
+- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - 5 myter om öppen vetenskap - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
