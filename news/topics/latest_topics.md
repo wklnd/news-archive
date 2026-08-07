@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-07 23:10_
+_Updated: 2026-08-08 00:06_
 
 ## Top Stories
 
 - Norsk myndighet: Brott mot vilotid på olycksfartyg – ”Riskerna ökar” - Dagens Nyheter
-- Het strid om avskaffad straffrabatt: "Fantasier" - Göteborgs-Posten
 - Polisen: Brottsligheten under Classic Car Week är ”misär” - Aftonbladet
-- DN Direkt – Italien går inte med på spanskt gränskrav - Dagens Nyheter
 - Underrättelsetjänst: Pressad Putin kan testa Natos försvar - Dagens Nyheter
-- Trump rasar mot pausat balsalsbygge - Västerbottens-Kuriren
+- Het strid om avskaffad straffrabatt: "Fantasier" - Göteborgs-Posten
+- Domstol pausar Trumps bygge av balsal - Corren
+- Misstänks för mordet i skärgården – häktas av Nacka tingsrätt - SVT Nyheter
+- DN Direkt – Misstänkt mordförsök i Katrineholm - Dagens Nyheter
 - Efter eldolyckan i Visby – extra säkerhetstänk under medeltidsdagarna i Arboga - SVT Nyheter
-- Kvinna påkörd och medvetslös • Drograttfylla vanligare • Spelaren tvingas vila – igen - Nya Wermlands-Tidningen
 - Högsommarvärmen gör comeback i söder - Dagens Nyheter
-- Jörn Spolander: Därför strider miljövänner och forskare om synen på de svenska kräftorna - Dagens Nyheter
-- ”Vertikalt drickande” kan komma att begränsas i London - Dagens Nyheter
+- Kvinna påkörd och medvetslös • Drograttfylla vanligare • Spelaren tvingas vila – igen - Nya Wermlands-Tidningen
 - Taxichaufförer döms efter migrantkrisen i Ceuta - Omni – Alla nyheter. Alla perspektiv.
 - Många döda i Huthiattacker i Jemen - Göteborgs-Posten
-- Klart: Nytt försvarssamarbete för Saudiarabien - Göteborgs-Posten
+- ”Vertikalt drickande” kan komma att begränsas i London - Dagens Nyheter
+- Tyska regeringen i krismöte efter misstänkt drönarattack - Dagens Nyheter
 - Affärsvärlden landar i neutralt råd för Yubico - Affärsvärlden
 - Stockholmsbörsen tog helg svagt nedåt - Västerbottens-Kuriren
-- DN Direkt – Svaga jobbsiffror gav bränsle till USA-börsen - Dagens Nyheter
-- Teknikbolag stärktes på gröna Europabörser - Dagens industri
+- Slår hårt: El Niño höjer matpriserna 5-9 procent 2027 - Dagens PS
+- Svaga jobbsiffror gav bränsle till USA-börsen - Göteborgs-Posten
 - Snart solförmörkelse – så skyddar du ögonen - Medicinsk Access
 - Massuppsägningar väntar på EA efter uppköpet - m3.se
 
 ## World News
 
 - World Cup: First win for Svensk, Aebersold dominates women’s class - International Orienteering Federation
-- How to follow the Orienteering World Cup in Czechia - International Orienteering Federation
 - England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - nhl.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Radisson satsar stort på långtidsboende globalt - travelnews-se
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
+- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
 - Visual Art köper Global Agencies - Dagens Media
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - 1 426 potential victims identified in global operation against human trafficking - Europol
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Intervision 2025 - Russia hosts Putin's answer to Eurovision - BBC
 - Murdoch ber om ursäkt för avlyssning - Blekinge Läns Tidning
 
 ## Technology
@@ -57,8 +57,8 @@ _Updated: 2026-08-07 23:10_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - mynewsdesk.com
-- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - swedbank-aktiellt.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -73,26 +73,26 @@ _Updated: 2026-08-07 23:10_
 
 ## Business
 
-- Dear Economy om Gotlands vattenbrist under Almedalen - ey.com
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - mynewsdesk.com
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - mynewsdesk.com
+- Dear Economy om Gotlands vattenbrist under Almedalen - EY
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - mynewsdesk.com
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
-- Vilken framtid arbetar du för? - ey.com
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - mynewsdesk.com
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - ey.com
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - mynewsdesk.com
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - mynewsdesk.com
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - mynewsdesk.com
-- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - mynewsdesk.com
-- Hans Skruvfors blir VD för Sambla Group - mynewsdesk.com
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - mynewsdesk.com
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - mynewsdesk.com
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - mynewsdesk.com
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - finanstid.se
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -104,7 +104,7 @@ _Updated: 2026-08-07 23:10_
 - Sju life science-trender 2026 - Business Region Göteborg
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
-- CGM Sverige och Tandem Health inleder samarbete - mynewsdesk.com
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
@@ -112,10 +112,10 @@ _Updated: 2026-08-07 23:10_
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - mynewsdesk.com
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
-- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
 
 ## Science
 
@@ -129,10 +129,10 @@ _Updated: 2026-08-07 23:10_
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- SND at Almedalsveckan 2024 - snd.se
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - 5 myter om öppen vetenskap - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
@@ -145,7 +145,7 @@ _Updated: 2026-08-07 23:10_
 - Dien Bien Agriculture: Väcker potential - Ökar värdet: [Del 5]: "Green Stream" välkomnar investerare - Vietnam.vn
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
-- Doggy stolt partner till Göteborg Film Festival - mynewsdesk.com
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
@@ -154,7 +154,7 @@ _Updated: 2026-08-07 23:10_
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - mynewsdesk.com
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - Lantbrukslogik – nu och i framtiden - SLU
