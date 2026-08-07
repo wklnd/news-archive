@@ -1,36 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-07 10:34_
+_Updated: 2026-08-07 11:34_
 
 ## Top Stories
 
-- Åtal väckt i omtalat mordfall - Nordsverige
-- Misstänks för mordet i skärgården – begärs häktad - svt.se
+- 45-årig man åtalas för Brattåsmorden – efter 21 år - gp.se
+- Misstänks för mordet i skärgården – begärs häktad - SVT Nyheter
 - Skolskjutning i Thailand – flera döda - Sveriges Radio
-- Trump rasande över känsliga läckan - Aftonbladet
-- 100 dog – uppmanas korsa gränsen på nytt - Expressen
-- Akut vattenbrist på nytt - Allehanda.se
-- Artist fattade eld i Visby – allvarligt skadad - svt.se
-- Varning för kraftigt regn i Norrbotten - Göteborgs-Posten
-- Hyresgästers förråd översvämmade efter byggmiss - Dagens Nyheter
-- Ny studie: Många pappor med förlossningsdepression missas - Sveriges Radio
-- Tiotusentals delfiner i Svarta havet har dött av kriget - Dagens Nyheter
-- Många döda i Huthiattacker i Jemen - Västerbottens-Kuriren
-- Ukrainska Rädda Barnen angripet i ryska attacker - Göteborgs-Posten
+- Alla fördömer tonläget i politiken – men har det förändrats? - gp.se
+- OLYCKA: Kvinna fattade eld under uppträdande - Helagotland
+- Ytterhögern i spinn efter Ceuta - expo.se
+- DN Direkt – Man åtalas för flera bränder i Stockholm - Dagens Nyheter
+- SMHI: Varning för översvämningar i Norrbotten - SVT Nyheter
+- Pensionären Bo tjatade sig fram i vården: ”Varför är det så här?” - Dagens Nyheter
+- Efter biljakten – ung man misstänkt för försök till mord - Sydsvenskan
+- Busschaufför sparkade ner bombdrönaren i Leipzig - gp.se
+- Många döda i Huthiattacker i Jemen - gp.se
 - Betty, 97, slog sitt eget högtflygande världsrekord - Dagens Nyheter
-- Kommentar till Mäklarstatistik: Vårens svårsålda bostäder skapar julidipp - Cision News
+- Direkt – Kriget i Ukraina – Ukrainska Rädda barnen angripet i ryska attacker - Dagens Nyheter
+- Bjurfors kommentar till Mäklarstatistik: Bostadsrätter backar tillfälligt medan villor står emot - Mynewsdesk
+- Lista: Skandiabanken har lägst boräntor – Ikano högst - Omni – Alla nyheter. Alla perspektiv.
 - Meta döms till ny miljardsmäll för ”kris av psykisk ohälsa” bland unga - nyteknik
-- Tvåsiffrig organisk tillväxt för Clas Ohlson - Privata Affärer
-- Socialdemokraterna avgör Googles AI-center i Torsboda - Sveriges Radio
+- Tvåsiffrig organisk försäljningsökning i juli för Clas Ohlson - EFN
 - Electronic Arts tillhör Saudiarabien och Jared Kushner nu – ”blodbad” väntar - MovieZine
 - AI har skapat virus – väcker förhoppningar och rädsla - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
 - How to follow the Orienteering World Cup in Czechia - International Orienteering Federation
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- GMMP: Global backlash syns i världens medier - fempers.se
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - bbc.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -51,20 +51,20 @@ _Updated: 2026-08-07 10:34_
 ## Technology
 
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Advita Ortho Showcases New AI-Driven Research Advancing Personalized Joint Replacement (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
@@ -76,7 +76,7 @@ _Updated: 2026-08-07 10:34_
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
@@ -109,7 +109,7 @@ _Updated: 2026-08-07 10:34_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - gp.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
