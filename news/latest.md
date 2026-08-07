@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-07 10:38_
+_Updated: 2026-08-07 11:39_
 
-- Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’ - The New York Times
-- Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll - NPR
-- Trump Orders Leak Probe After Venting About Media Coverage of Munitions Stockpile - WSJ
+- Iran moves to block US, Israeli shipments from Strait of Hormuz - The Hill
+- At Least 7 Dead After School Shooting in Thailand - The New York Times
 - Live coverage: Tennessee’s August primary election - Tennessee Lookout
-- Why Max Miller is staying in (for now) - Axios
-- Blackburn on track to succeed Lee as Tennessee governor after primary win - The Hill
+- A deal with Iran over the Strait of Hormuz may require a compromise from Trump - AP News
+- Republican US Senator Rand Paul asks Justice Department to prosecute Fauci after contempt vote - Reuters
+- Trump again tries to limit US birthright citizenship with new executive orders - BBC
 - Anti-Muslim US Congressman Andy Ogles loses Republican primary - Al Jazeera
-- McConnell discharged from rehab center, will continue recovery at home - The Washington Post
 - Detectives say Spokane fire suspect confessed to planning 'powerful, beautiful' blaze weeks in advance - The Spokesman-Review
-- One Dead in California Fire Started by Man Who Said He Lit It by Accident - The New York Times
-- Student kills at least 6 in a shooting at a high school in Thailand, authorities say - AP News
-- Exclusive | U.S. Intel Finds Putin Could Test NATO’s Resolve With Limited Incursion - WSJ
+- McConnell discharged from rehab center, will continue recovery at home - The Washington Post
+- Jerri Green wins Tennessee Democratic gubernatorial primary - WSMV
+- How Japan Minimized Deaths from a Major Quake - The New York Times
+- Exclusive | U.S. Intel Finds Putin Could Test NATO’s Resolve With Limited Incursion - wsj.com
+- Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks - theguardian.com
 - Jason Arday, Cambridge's youngest Black professor, resigns amid plagiarism allegations - CBS News
-- Trump insists Iran deal could be inked soon after previous forecasts don’t pan out - The Times of Israel
-- Trump imposes 15% tariff on key chip material to counter China - bbc.com
-- Meta ordered to pay $567 million in New Mexico for teen mental health fund - Reuters
-- A 'weaponized' yen: How the U.S.-Japan intervention may reshape global currency markets - CNBC
-- China’s exports jump almost a quarter in July - ft.com
-- ‘Grand Theft Auto VI’ Game To Debut Extended Look On Netflix This Month - Deadline
+- Trump to Impose 15% Tariff, Set Minimum Prices on Solar Panels and Components - wsj.com
+- Meta told to pay another $567m in New Mexico child safety lawsuit - BBC
+- Gold rises as Middle East risks offset steady dollar ahead of payrolls - Investing.com
+- Yen Surrenders Nearly Half Its Gains From US-Japan Intervention - Bloomberg.com
+- ‘Grand Theft Auto VI’ Game To Debut Extended Look On Netflix This Month - deadline.com
 - New Gemini overlay for Wear OS rolling out to Pixel Watch - 9to5Google
