@@ -1,56 +1,56 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-07 15:49_
+_Updated: 2026-08-07 17:25_
 
 ## Top Stories
 
-- 45-årig man åtalas för Brattåsmorden – efter 21 år - Göteborgs-Posten
-- Busschaufför sparkade ner bombdrönaren i Leipzig - Göteborgs-Posten
-- DEBATT: Nu blir Quisling-gate mest av allt gratis valreklam för SD - Värmlands Folkblad
+- Misstänks för mordet i skärgården – häktas av Nacka tingsrätt - SVT Nyheter
+- Åklagaren i Brattåsfallet: ”Bevisläget är gott” - Göteborgs-Posten
+- Alla fördömer tonläget i politiken – men har det förändrats? - Göteborgs-Posten
 - Elituniversitetet i kris: ”Grotesk rasism” - Svenska Dagbladet
-- Rådet: Fiska dina egna kräftor till skivan - Svenska Dagbladet
-- Så lever Marius med fotboja på kungliga Skaugum - Göteborgs-Posten
-- Så vill Moderaterna finansiera sina vallöften - Västerbottens-Kuriren
-- Trafiken stoppades till Stockholm - Nya Wermlands-Tidningen
-- Man åtalas för mordbrand på Stora Essingen - SVT Nyheter
-- DN Direkt – Varning för kraftigt regn i Norrbotten - Dagens Nyheter
-- Kung Harald till sjukhus för kontroll - Corren
-- Direkt – Kriget i Ukraina – Ukrainska Rädda barnen angripet i ryska attacker - Dagens Nyheter
+- Efterlysta ”Mrs Felicia” gripen i Thailand efter miljonsvindel - Aftonbladet
+- Nu firas svenska traditionen kräftskiva - Sveriges Radio
+- Så vill Moderaterna finansiera sina vallöften - Göteborgs-Posten
+- Amanda Lind (MP) om nedlagda folkhögskolan: ”Sker inte i ett vakuum” - Dagens Nyheter
+- Trafiken stoppades till Stockholm - nwt.se
+- Då kan ransonering bli aktuellt – så påverkas du - Göteborgs-Posten
 - Nordkoreaner uppmanas äta soppa med hundkött för att klara värmeböljan - Dagens Nyheter
-- Tyfon på väg mot Japan – tusentals evakueras - Västerbottens-Kuriren
-- Bjurfors kommentar till Mäklarstatistik: Bostadsrätter backar tillfälligt medan villor står emot - Mynewsdesk
-- Lista: Skandiabanken har lägst boräntor – Ikano högst - Omni – Alla nyheter. Alla perspektiv.
+- Busschaufför sparkade ner bombdrönaren i Leipzig - Göteborgs-Posten
+- Därför evakuerades Taiwans president mitt i natten - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Ukrainska Rädda barnen angripet i ryska attacker - Dagens Nyheter
+- Villapriserna steg i juli medan bostadsrätterna backade - Byggahus.se
 - Kallelse till extra bolagsstämma i Hemnet Group AB (publ) (MFN) - Aktiellt
-- Wall Street mot grön öppning efter jobbsiffror - Dagens industri
-- Snart solförmörkelse – så skyddar du ögonen - Medicinsk Access
+- Lista: Skandiabanken har lägst boräntor – Ikano högst - Omni – Alla nyheter. Alla perspektiv.
+- Trump kritiserar kongressens planer på AI-reglering (Finwire News) - Aktiellt
+- Se upp men försiktigt - dags för solförmörkelse - Västgöta-Bladet
 - Massuppsägningar väntar på EA efter uppköpet - m3.se
 
 ## World News
 
+- World Cup: First win for Svensk, Aebersold dominates women’s class - International Orienteering Federation
 - How to follow the Orienteering World Cup in Czechia - International Orienteering Federation
+- England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- GMMP: Global backlash syns i världens medier - fempers.se
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Radisson satsar stort på långtidsboende globalt - travelnews-se
-- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Visual Art köper Global Agencies - Dagens Media
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - 1 426 potential victims identified in global operation against human trafficking - Europol
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Intervision 2025 - Russia hosts Putin's answer to Eurovision - BBC
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Murdoch ber om ursäkt för avlyssning - Blekinge Läns Tidning
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Ulrika Jonsson stämmer News of the World - Sydsvenskan
 
 ## Technology
 
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - nyheter.ki.se
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -97,58 +97,58 @@ _Updated: 2026-08-07 15:49_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Låt oss prata hälsa – Intensivvård – Segment 1 - apollohospitals.com
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - firar 15 år av att skydda den globala hälsosektorn - health-isac.org
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - nyheter.ki.se
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - nyheter.ki.se
-- Mycket tidig medicinsk abort är effektivt och säkert - nyheter.ki.se
-- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
+- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
 ## Science
 
-- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
+- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - vietnam.vn
 - AI for Scientific Research and Discovery - OpenAI
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
-- Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
+- Skapar utrymme för forskning, testning och utveckling av ny teknik. - vietnam.vn
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
-- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - nyheter.ki.se
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - 5 myter om öppen vetenskap - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - nyheter.ki.se
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
 ## Jordbruk
 
-- Dien Bien Agriculture: Väcker potential - Ökar värdet: [Del 5]: "Green Stream" välkomnar investerare - Vietnam.vn
+- Dien Bien Agriculture: Väcker potential - Ökar värdet: [Del 5]: "Green Stream" välkomnar investerare - vietnam.vn
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - Naturvårdsverket
+- Jordbrukspolitik - naturvardsverket.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
