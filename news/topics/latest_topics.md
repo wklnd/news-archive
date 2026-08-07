@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-07 17:25_
+_Updated: 2026-08-07 18:24_
 
 ## Top Stories
 
 - Misstänks för mordet i skärgården – häktas av Nacka tingsrätt - SVT Nyheter
+- Tyska regeringen i krismöte efter misstänkt drönarattack - Dagens Nyheter
 - Åklagaren i Brattåsfallet: ”Bevisläget är gott” - Göteborgs-Posten
-- Alla fördömer tonläget i politiken – men har det förändrats? - Göteborgs-Posten
+- ”Bonusprinsen” begärs häktad längre tid med fotboja - Dagens Nyheter
 - Elituniversitetet i kris: ”Grotesk rasism” - Svenska Dagbladet
-- Efterlysta ”Mrs Felicia” gripen i Thailand efter miljonsvindel - Aftonbladet
-- Nu firas svenska traditionen kräftskiva - Sveriges Radio
+- Norsk myndighet: Brott mot vilotid på olycksfartyg – ”Riskerna ökar” - Dagens Nyheter
+- Kvinna fattade eld på medeltidsveckan i Visby - Corren
 - Så vill Moderaterna finansiera sina vallöften - Göteborgs-Posten
+- Fick sparken efter mordförsök – nu stämmer hon arbetsgivaren - Sveriges Radio
 - Amanda Lind (MP) om nedlagda folkhögskolan: ”Sker inte i ett vakuum” - Dagens Nyheter
-- Trafiken stoppades till Stockholm - nwt.se
-- Då kan ransonering bli aktuellt – så påverkas du - Göteborgs-Posten
+- Nato-idén: Skjuta ner ryska robotar – över Ukraina - Expressen
 - Nordkoreaner uppmanas äta soppa med hundkött för att klara värmeböljan - Dagens Nyheter
-- Busschaufför sparkade ner bombdrönaren i Leipzig - Göteborgs-Posten
 - Därför evakuerades Taiwans president mitt i natten - Dagens Nyheter
-- Direkt – Kriget i Ukraina – Ukrainska Rädda barnen angripet i ryska attacker - Dagens Nyheter
-- Villapriserna steg i juli medan bostadsrätterna backade - Byggahus.se
+- Domstol pausar Trumps bygge av balsal - Västerbottens-Kuriren
+- Kommentar till Svensk Mäklarstatistik: Semesterlugnet dämpade bostadsrättspriserna – villapriserna steg - Mynewsdesk
+- Affärsvärlden landar i neutralt råd för Yubico - Affärsvärlden
+- Får Ozempic på jobbet – kostar miljarder - Svenska Dagbladet
 - Kallelse till extra bolagsstämma i Hemnet Group AB (publ) (MFN) - Aktiellt
-- Lista: Skandiabanken har lägst boräntor – Ikano högst - Omni – Alla nyheter. Alla perspektiv.
-- Trump kritiserar kongressens planer på AI-reglering (Finwire News) - Aktiellt
-- Se upp men försiktigt - dags för solförmörkelse - Västgöta-Bladet
+- Snart solförmörkelse – så skyddar du ögonen - Medicinsk Access
 - Massuppsägningar väntar på EA efter uppköpet - m3.se
 
 ## World News
@@ -32,13 +32,13 @@ _Updated: 2026-08-07 17:25_
 - England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- GMMP: Global backlash syns i världens medier - fempers.se
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Radisson satsar stort på långtidsboende globalt - travelnews-se
+- Radisson satsar stort på långtidsboende globalt - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Visual Art köper Global Agencies - Dagens Media
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
@@ -54,7 +54,7 @@ _Updated: 2026-08-07 17:25_
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - fuf.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -96,17 +96,17 @@ _Updated: 2026-08-07 17:25_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - vietnam.vn
+- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
+- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Låt oss prata hälsa – Intensivvård – Segment 1 - apollohospitals.com
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- firar 15 år av att skydda den globala hälsosektorn - health-isac.org
+- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar HealthBench - OpenAI
+- Vi presenterar HealthBench - openai.com
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
@@ -119,12 +119,12 @@ _Updated: 2026-08-07 17:25_
 
 ## Science
 
-- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - vietnam.vn
-- AI for Scientific Research and Discovery - OpenAI
+- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
+- AI for Scientific Research and Discovery - openai.com
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
-- Skapar utrymme för forskning, testning och utveckling av ny teknik. - vietnam.vn
+- Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -133,7 +133,7 @@ _Updated: 2026-08-07 17:25_
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
+- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - openai.com
 - 5 myter om öppen vetenskap - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
@@ -142,13 +142,13 @@ _Updated: 2026-08-07 17:25_
 
 ## Jordbruk
 
-- Dien Bien Agriculture: Väcker potential - Ökar värdet: [Del 5]: "Green Stream" välkomnar investerare - vietnam.vn
+- Dien Bien Agriculture: Väcker potential - Ökar värdet: [Del 5]: "Green Stream" välkomnar investerare - Vietnam.vn
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - naturvardsverket.se
+- Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
