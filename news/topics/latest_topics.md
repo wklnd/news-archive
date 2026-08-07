@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-07 19:24_
+_Updated: 2026-08-07 20:12_
 
 ## Top Stories
 
 - Misstänks för mordet i skärgården – häktas av Nacka tingsrätt - SVT Nyheter
+- S vill slopa mängdrabatten för allvarliga brott - Västerbottens-Kuriren
 - Musik, tal och blommor – många tog farväl av polisman Christian Zedig - sverigesradio.se
+- Norsk myndighet: Brott mot vilotid på olycksfartyg – ”Riskerna ökar” - Dagens Nyheter
 - Jämställdhetsministern (L) vill satsa på deprimerade pappor - sverigesradio.se
-- 45-årig man åtalas för Brattåsmorden – efter 21 år - Göteborgs-Posten
-- ”Bonusprinsen” begärs häktad längre tid med fotboja - Dagens Nyheter
-- Tyska regeringen i krismöte efter misstänkt drönarattack - Dagens Nyheter
+- Trump rasar mot pausat balsalsbygge - Västerbottens-Kuriren
 - Efter eldolyckan i Visby – extra säkerhetstänk under medeltidsdagarna i Arboga - SVT Nyheter
-- Så vill Moderaterna finansiera sina vallöften - Göteborgs-Posten
+- Åklagaren i Brattåsfallet: ”Bevisläget är gott” - Västerbottens-Kuriren
 - Fick sparken efter mordförsök – nu stämmer hon arbetsgivaren - sverigesradio.se
-- Högsommarvärmen gör comeback i söder - Dagens Nyheter
-- Person klättrade på tysk högbro – störde tågtrafiken från Skandinavien - Sydsvenskan
-- Erdogan har landat för toppmöte i Saudiarabien - Göteborgs-Posten
-- Nordkoreaner uppmanas äta soppa med hundkött för att klara värmeböljan - Dagens Nyheter
-- Extremvärmen kostar Europa miljarder – så dyr blir sommaren - Göteborgs-Posten
-- Bjurfors kommentar till Mäklarstatistik: Bostadsrätter backar tillfälligt medan villor står emot - Mynewsdesk
-- Affärsvärlden landar i neutralt råd för Yubico - affarsvarlden.se
+- Så vill Moderaterna finansiera sina vallöften - Göteborgs-Posten
+- Tyska regeringen i krismöte efter misstänkt drönarattack - Dagens Nyheter
+- Kung Harald till sjukhus för kontroll - SVT Nyheter
+- Klart: Nytt försvarssamarbete för Saudiarabien - Göteborgs-Posten
+- ”Vi visste att vattnet var minerat, men vi badade ändå” - Dagens Nyheter
+- Kommentar till Svensk Mäklarstatistik: Semesterlugnet dämpade bostadsrättspriserna – villapriserna steg - Mynewsdesk
+- Affärsvärlden landar i neutralt råd för Yubico - Affärsvärlden
 - Får Ozempic på jobbet – kostar miljarder - Svenska Dagbladet
 - Stockholmsbörsen inleder i moll - Bohusläningen
 - Snart solförmörkelse – så skyddar du ögonen - Medicinsk Access
@@ -98,36 +98,36 @@ _Updated: 2026-08-07 19:24_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
+- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
 
 ## Science
 
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - AI for Scientific Research and Discovery - OpenAI
-- NESS activities for the public – Department of Earth Sciences - uu.se
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - sverigesradio.se
-- Sherry Nakhaeizadeh - uu.se
+- Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
