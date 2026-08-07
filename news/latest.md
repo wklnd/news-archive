@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-07 18:32_
+_Updated: 2026-08-07 19:31_
 
 - Sen. Bill Cassidy, a critical Republican holdout, backs Todd Blanche for attorney general - NBC News
 - U.S. appeals court blocks Trump’s $400 million White House ballroom project - CNBC
 - Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz - NPR
-- Max Miller Says He'll Lend $1 Million To His Campaign Despite Calls For Him Exit Race - Forbes
-- Lake Mead, nation's largest reservoir, reaches its lowest water level on record - ABC News - Breaking News, Latest News and Videos
-- Rogers makes early play for El-Sayed's coalition in Michigan after bruising primary - Politico
-- Candidate Field Set After Republicans Redrew Tennessee District Lines - The New York Times
+- Max Miller faces mounting calls to quit from Senate GOP - The Hill
+- Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil - Al Jazeera
+- Abdul El-Sayed’s Republican opponent directly pitches Democrats, hoping to capitalize after divisive primary - CNN
+- At a Glance: Spokane area fires - NonStop Local KHQ
 - Trump says voters are mad at other Republicans, not him, as midterms approach - Politico
-- Jeanine Pirro berated Doug Burgum. But Interior staffers have been angry at him for months. - Politico
-- Twin Falls Embraces Man Who Confronted Idaho In-N-Out Shooting - The New York Times
-- Live updates: Teen gunman dead after killing teachers in Thailand’s worst school shooting in years - cnn.com
-- Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates - Reuters
+- Candidate Field Set After Republicans Redrew Tennessee District Lines - The New York Times
+- Fauci made ‘huge mistake’ in pleading the Fifth: Chuck Todd - The Hill
+- Live updates: Teen gunman dead after killing teachers in Thailand’s worst school shooting in years - CNN
 - Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers - The New York Times
-- Spain gives Italy two days to lift border checks on Spanish travellers after Ceuta migrant rush - Euronews
-- US nonfarm payrolls unexpectedly decline in July; unemployment rate eases to 4.1% - Reuters
-- Meta says its AI model hacked another company, adding to worries about bots going rogue - AP News
-- Trump administration to pay German firm to halt US wind projects - BBC
+- Spain threatens retaliation on Italy if border controls not lifted - Reuters
+- Wildfire costs are surging — but much of the damage in Europe isn’t insured - CNBC
+- Stock Market Today: Dow Rises After Jobs Report Misses Forecasts — Live Updates - WSJ
+- Who is liable when AI goes rogue? Lawyers see new risks - Reuters
+- New Mexico court orders Meta to pay additional $567M in child safety case - TechCrunch
 - What the vicious Sandisk bears are forgetting - Yahoo Finance
 - I tested the new Samsung Galaxy Watch9: The health tracker’s most exciting features - New York Post
-- Werewolf transformed my old gadgets into USB-C powered ones - The Verge
+- I compared Google's pricier Pixel 11 series to Samsung's Galaxy lineup - here's the better value now - ZDNET
