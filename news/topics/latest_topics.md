@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-07 11:34_
+_Updated: 2026-08-07 12:28_
 
 ## Top Stories
 
-- 45-årig man åtalas för Brattåsmorden – efter 21 år - gp.se
+- 45-årig man åtalas för Brattåsmorden – efter 21 år - Göteborgs-Posten
 - Misstänks för mordet i skärgården – begärs häktad - SVT Nyheter
-- Skolskjutning i Thailand – flera döda - Sveriges Radio
-- Alla fördömer tonläget i politiken – men har det förändrats? - gp.se
-- OLYCKA: Kvinna fattade eld under uppträdande - Helagotland
-- Ytterhögern i spinn efter Ceuta - expo.se
-- DN Direkt – Man åtalas för flera bränder i Stockholm - Dagens Nyheter
-- SMHI: Varning för översvämningar i Norrbotten - SVT Nyheter
+- Alla fördömer tonläget i politiken – men har det förändrats? - Göteborgs-Posten
+- Minst tio skadade i skolskjutning - Folkbladet
+- Rådet: Fiska dina egna kräftor till skivan - Svenska Dagbladet
+- Ryssland kan attackera – med Ukrainas drönare - Svenska Dagbladet
+- DN Direkt – Varning för kraftigt regn i Norrbotten - Dagens Nyheter
+- Man åtalas efter uppmärksammade bränder - Västerbottens-Kuriren
 - Pensionären Bo tjatade sig fram i vården: ”Varför är det så här?” - Dagens Nyheter
-- Efter biljakten – ung man misstänkt för försök till mord - Sydsvenskan
-- Busschaufför sparkade ner bombdrönaren i Leipzig - gp.se
-- Många döda i Huthiattacker i Jemen - gp.se
-- Betty, 97, slog sitt eget högtflygande världsrekord - Dagens Nyheter
-- Direkt – Kriget i Ukraina – Ukrainska Rädda barnen angripet i ryska attacker - Dagens Nyheter
+- Varning för rådjur på vägen på E18 - eposten.se
+- Tyfon på väg mot Japan – tusentals evakueras - Västerbottens-Kuriren
+- Zelenskyj: Stora ryska raffinaderier i brand - Göteborgs-Posten
+- Busschaufför sparkade ner bombdrönaren i Leipzig - Göteborgs-Posten
+- Många döda i Huthiattacker i Jemen - Göteborgs-Posten
 - Bjurfors kommentar till Mäklarstatistik: Bostadsrätter backar tillfälligt medan villor står emot - Mynewsdesk
 - Lista: Skandiabanken har lägst boräntor – Ikano högst - Omni – Alla nyheter. Alla perspektiv.
-- Meta döms till ny miljardsmäll för ”kris av psykisk ohälsa” bland unga - nyteknik
-- Tvåsiffrig organisk försäljningsökning i juli för Clas Ohlson - EFN
+- Brutna sviter och rapportras på ljusröd börs i USA - EFN
+- Kina rundar EU:s tullar via Marocko och Turkiet: nu slår Bryssel larm - Dagens PS
+- Nu blir det fritt fram att chatta hur mycket som helst med Chat GPT - Computer Sweden
 - Electronic Arts tillhör Saudiarabien och Jared Kushner nu – ”blodbad” väntar - MovieZine
-- AI har skapat virus – väcker förhoppningar och rädsla - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
@@ -31,28 +31,28 @@ _Updated: 2026-08-07 11:34_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - bbc.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Radisson satsar stort på långtidsboende globalt - travelnews-se
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Visual Art köper Global Agencies - Dagens Media
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - bbc.com
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - 1 426 potential victims identified in global operation against human trafficking - Europol
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
-- Murdoch ber om ursäkt för avlyssning - Blekinge Läns Tidning
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- Murdoch ber om ursäkt för avlyssning - Blekinge Läns Tidning
 
 ## Technology
 
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
@@ -109,7 +109,7 @@ _Updated: 2026-08-07 11:34_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - gp.se
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
@@ -122,7 +122,7 @@ _Updated: 2026-08-07 11:34_
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - AI for Scientific Research and Discovery - OpenAI
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Kina drar om USA – bäst på forskning - svt.se
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
