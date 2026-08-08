@@ -1,35 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-08 19:58_
+_Updated: 2026-08-08 21:08_
 
 ## Top Stories
 
+- Minst fyra döda i robotattack mot Kiev - Göteborgs-Posten
+- Knapp seger för IFK Kumla – 2–1 mot Vänersborgs IF - Göteborgs-Posten
 - Tyska skospåret gäckar – trots genombrottet - Svenska Dagbladet
-- Uppgifter: USA söker ”symbolisk seger” i Iran åt Trump - Göteborgs-Posten
-- DN Direkt – KD föreslår ”mammabonus” i pensionssystemet - Dagens Nyheter
-- SMHI varnar – kuling och översvämningar - Norran
+- KD vill ha ”mammabonus” i pensionssystemet - Nya Wermlands-Tidningen
+- Trump går till attack mot åklagaren igen - Expressen
 - Svårt för många äldre att använda bank-id: ”En otrolig oro” - Dagens Nyheter
-- Expert: Dödläget i Gaza riskerar att fortsätta i tio år - Dagens Nyheter
 - Dödsfall under rally-sm i Vimmerby utreds av polis - Göteborgs-Posten
-- E4 avstängd efter olycka med A-traktor - Expressen
-- SD-ledaren: ”Det pratas väldigt lite om behovet av våra väljare” - Dagens Nyheter
-- Därför överlever valaffischen: ”Svår att undvika” - Västerbottens-Kuriren
-- Över 20 000 evakueras undan brand i Kanada - Corren
-- Förenade arabemiraten: Iransk attack mot oljetanker - Västerbottens-Kuriren
-- Drygt 4 300 döda i Libanon - Göteborgs-Posten
+- Just nu: Rådjur på fel sida av viltstängslet på E4 - unt.se
+- Polisen varnar för ökade bedrägerier - Nya Lidköpings-Tidningen
+- Kryss för Gamla Upsala SK mot Trelleborg - unt.se
+- Bränder rasar i Kanada – börjar närma sig städer - Sveriges Radio
 - Havsfyndet – 162 år gammal Guinness - Dagens Nyheter
-- Stockholmsbörsen tog helg svagt nedåt - Västerbottens-Kuriren
-- Bakslag i lågprisstriden: Blödande finanser och ledningskaos - EFN
+- Värmen ger frist åt lastbilar på Autobahn - TV4 Nyheterna
+- Expert: Dödläget i Gaza riskerar att fortsätta i tio år - Dagens Nyheter
+- Bästa begagnade kombi i långtest – budget slog Mercedes och BMW - Dagens PS
+- Stockholmsbörsen avslutar fredagen i moll - Lundin Gold lyfte på rapport (Finwire News) - Aktiellt
 - Här är svenskarnas drömhem på Rivieran – ”Njuter av livet fullt ut” - Aftonbladet
-- Svaga jobbsiffror gav bränsle till USA-börsen - Bohusläningen
-- Solförmörkelse nästa vecka – då syns den i länet - Östersunds-Posten
-- Uppgift: Det här blir priset på Open AI:s smarta högtalare - nyteknik
+- Bakslag i lågprisstriden: Blödande finanser och ledningskaos - EFN
+- Så ser du mäktiga solförmörkelsen – i Eskilstuna - Ekuriren
+- Motorola Edge 70 Neo har läckt ut med en 200 MP-kamera i ett kompakt, färgglatt hölje - notebookcheck.se
 
 ## World News
 
 - World Cup: First win for Svensk, Aebersold dominates women’s class - International Orienteering Federation
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
+- England defender Bronze backs UEFA in standoff with FIFA and Infantino - reuters.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
@@ -42,11 +42,11 @@ _Updated: 2026-08-08 19:58_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
-- Spelet bakom nedläggningen av News of the World - Expressen
+- 1 426 potential victims identified in global operation against human trafficking - Europol
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Intervision 2025 - Russia hosts Putin's answer to Eurovision - BBC
-- 1 426 potential victims identified in global operation against human trafficking - Europol
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
 
 ## Technology
 
@@ -55,7 +55,7 @@ _Updated: 2026-08-08 19:58_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
@@ -63,7 +63,7 @@ _Updated: 2026-08-08 19:58_
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Kina utökar övervakning i realtid av invånarna - omni.se
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
@@ -98,12 +98,12 @@ _Updated: 2026-08-08 19:58_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - vietnam.vn
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Khalid satsar på digital vård – mot fetma - st.nu
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
-- firar 15 år av att skydda den globala hälsosektorn - health-isac.org
+- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
@@ -119,12 +119,12 @@ _Updated: 2026-08-08 19:58_
 
 ## Science
 
-- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
+- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - vietnam.vn
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
+- Skapar utrymme för forskning, testning och utveckling av ny teknik. - vietnam.vn
 - Sherry Nakhaeizadeh - Uppsala universitet
 - AI for Scientific Research and Discovery - OpenAI
-- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Kina drar om USA – bäst på forskning - svt.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU
@@ -142,14 +142,14 @@ _Updated: 2026-08-08 19:58_
 
 ## Jordbruk
 
-- Dien Bien Agriculture: Väcker potential - Ökar värdet: [Del 5]: "Green Stream" välkomnar investerare - Vietnam.vn
+- Dien Bien Agriculture: Väcker potential - Ökar värdet: [Del 5]: "Green Stream" välkomnar investerare - vietnam.vn
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
