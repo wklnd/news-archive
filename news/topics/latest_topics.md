@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-08 19:02_
+_Updated: 2026-08-08 19:58_
 
 ## Top Stories
 
 - Tyska skospåret gäckar – trots genombrottet - Svenska Dagbladet
-- Misstänkte mördarens liv: Konst, vänner och restaurangbesök - Aftonbladet
-- Uppgifter: USA söker ”symbolisk seger” i Iran åt Trump - gp.se
+- Uppgifter: USA söker ”symbolisk seger” i Iran åt Trump - Göteborgs-Posten
 - DN Direkt – KD föreslår ”mammabonus” i pensionssystemet - Dagens Nyheter
 - SMHI varnar – kuling och översvämningar - Norran
-- DN Direkt – Segelbåt i kollision med färja i Stockholm - Dagens Nyheter
-- SD-ledaren: ”Det pratas väldigt lite om behovet av våra väljare” - Dagens Nyheter
-- Dödsfall under rally-sm i Vimmerby utreds av polis - gp.se
-- Epa-traktor i krock - Kuriren
-- Därför överlever valaffischen: ”Svår att undvika” - Västerbottens-Kuriren
-- Förenade arabemiraten: Iransk attack mot oljetanker - Västerbottens-Kuriren
-- Drygt 4 300 döda i Libanon - Corren
+- Svårt för många äldre att använda bank-id: ”En otrolig oro” - Dagens Nyheter
 - Expert: Dödläget i Gaza riskerar att fortsätta i tio år - Dagens Nyheter
-- Gryniga filmer och jättetriangel i nya ufo-filer - Svenska Dagbladet
+- Dödsfall under rally-sm i Vimmerby utreds av polis - Göteborgs-Posten
+- E4 avstängd efter olycka med A-traktor - Expressen
+- SD-ledaren: ”Det pratas väldigt lite om behovet av våra väljare” - Dagens Nyheter
+- Därför överlever valaffischen: ”Svår att undvika” - Västerbottens-Kuriren
+- Över 20 000 evakueras undan brand i Kanada - Corren
+- Förenade arabemiraten: Iransk attack mot oljetanker - Västerbottens-Kuriren
+- Drygt 4 300 döda i Libanon - Göteborgs-Posten
+- Havsfyndet – 162 år gammal Guinness - Dagens Nyheter
 - Stockholmsbörsen tog helg svagt nedåt - Västerbottens-Kuriren
-- Här är svenskarnas drömhem på Rivieran – ”Njuter av livet fullt ut” - Aftonbladet
 - Bakslag i lågprisstriden: Blödande finanser och ledningskaos - EFN
+- Här är svenskarnas drömhem på Rivieran – ”Njuter av livet fullt ut” - Aftonbladet
 - Svaga jobbsiffror gav bränsle till USA-börsen - Bohusläningen
 - Solförmörkelse nästa vecka – då syns den i länet - Östersunds-Posten
 - Uppgift: Det här blir priset på Open AI:s smarta högtalare - nyteknik
@@ -28,7 +28,7 @@ _Updated: 2026-08-08 19:02_
 ## World News
 
 - World Cup: First win for Svensk, Aebersold dominates women’s class - International Orienteering Federation
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -37,34 +37,34 @@ _Updated: 2026-08-08 19:02_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Radisson satsar stort på långtidsboende globalt - travelnews.se
+- Radisson satsar stort på långtidsboende globalt - travelnews-se
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - Spelet bakom nedläggningen av News of the World - Expressen
-- Etraveli rusar – 175 miljarder och global styrka - travelnews.se
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Intervision 2025 - Russia hosts Putin's answer to Eurovision - BBC
 - 1 426 potential victims identified in global operation against human trafficking - Europol
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - blogg.avanza.se
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
@@ -97,8 +97,9 @@ _Updated: 2026-08-08 19:02_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - st.nu
 - Sju life science-trender 2026 - Business Region Göteborg
@@ -108,21 +109,20 @@ _Updated: 2026-08-08 19:02_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - gp.se
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
-- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
 
 ## Science
 
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
-- NESS activities for the public – Department of Earth Sciences - uu.se
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
-- Sherry Nakhaeizadeh - uu.se
+- Sherry Nakhaeizadeh - Uppsala universitet
 - AI for Scientific Research and Discovery - OpenAI
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -144,7 +144,7 @@ _Updated: 2026-08-08 19:02_
 
 - Dien Bien Agriculture: Väcker potential - Ökar värdet: [Del 5]: "Green Stream" välkomnar investerare - Vietnam.vn
 - Sveriges förändrade lantbruk - SLU
-- Framtidens jordbruk - commission.europa.eu
+- Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
