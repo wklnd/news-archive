@@ -1,38 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-08 09:29_
+_Updated: 2026-08-08 10:06_
 
 ## Top Stories
 
 - DN Direkt – KD föreslår ”mammabonus” i pensionssystemet - Dagens Nyheter
 - Rysslands svar om drönaren: Utstuderad provokation - gp.se
 - Här reser sig nya sporthallen över Slottsskogen - gp.se
-- Regeringen vill ha fler fängelseplatser snabbare - Västerbottens-Kuriren
 - Minst tre döda i robotattack mot Kiev - Corren
 - Bidens cancer har spridit sig - Västerbottens-Kuriren
+- Fler vithajar vid Kaliforniens stränder – men betten ökar inte - sverigesradio.se
 - Två misshandlade under storbråk i Grebbestad - SVT Nyheter
+- Brand spräckte rutor • Polis släckte brand • Skyddsombud slår larm om livsfara - Nya Wermlands-Tidningen
 - Misstänkt brandattentat mot villa - Västerbottens-Kuriren
 - Spanien inför gränskontroller mot Italien - Corren
-- KD föreslår ”mammabonus” i pensionssystemet – Senaste nytt om valet 2026 - SVT Nyheter
 - Drygt 4 300 döda i Libanon - Corren
-- USA vill ge bistånd till Colombias nye president - gp.se
+- Högerman tar över i Colombia – Trump ger bistånd - gp.se
 - Experten om Irans besked: ”Ingen anledning att tro att problemet är löst” - Dagens Nyheter
 - Underrättelsetjänst: Pressad Putin kan testa Natos försvar - Dagens Nyheter
 - ”Fick panikångestattack av att köpa bär” - Svenska Dagbladet
 - Arvet kommer när det behövs som minst - Dagens Nyheter
+- Preventivmedlet: ”Fem år till börsen – eller uppköp” - affarsvarlden.se
 - Svaga jobbsiffror gav bränsle till USA-börsen - gp.se
-- Stockholmsbörsen tog helg svagt nedåt - Västerbottens-Kuriren
-- Se upp men försiktigt - dags för solförmörkelse - vastgotabladet.se
-- OpenAI ska sälja AI-donut med rörliga delar för 4.000 kronor - Breakit
+- Se upp men försiktigt - dags för solförmörkelse - Västgöta-Bladet
+- OpenAI ska sälja AI-donut med rörliga delar för 4.000 kronor - breakit.se
 
 ## World News
 
 - World Cup: First win for Svensk, Aebersold dominates women’s class - orienteering.sport
-- England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- GMMP: Global backlash syns i världens medier - fempers.se
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - bbc.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
@@ -45,7 +45,7 @@ _Updated: 2026-08-08 09:29_
 - 1 426 potential victims identified in global operation against human trafficking - europol.europa.eu
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Intervision 2025 - Russia hosts Putin's answer to Eurovision - BBC
+- Intervision 2025 - Russia hosts Putin's answer to Eurovision - bbc.com
 - DO Black - the world’s first credit card with a carbon limit - mastercard.com
 
 ## Technology
@@ -149,16 +149,16 @@ _Updated: 2026-08-08 09:29_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
-- Jord, kor och klimat - SLU
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Jord, kor och klimat - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - Lantbrukslogik – nu och i framtiden - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
