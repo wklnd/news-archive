@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-08 14:00_
+_Updated: 2026-08-08 15:31_
 
 - Senate confirms Todd Blanche as attorney general after weeks of uncertainty - NBC News
-- Senate passes bill to fund government in bid to avert shutdown ahead of midterm elections - CNN
-- Iran Sees an Opening to Kick the U.S. Out of the Gulf - WSJ
-- White House revives unprecedented effort to remove Fed governor Lisa Cook - Axios
-- What could the Mecca defence pact mean for the US role in the Middle East? - Al Jazeera
+- Senate Passes Stopgap Bill to Avert Shutdown, Avoiding Skirmish Before Midterms - The New York Times
+- Former Trump cabinet official says Iran-Oman Strait of Hormuz deal could be ‘very bad outcome’ - Fox News
+- After Supreme Court Win, Trump Officials Under Pressure to Deport Haitians - The New York Times
 - Trump maintains vandalism claims, calls on Pirro to ‘re-visit’ Reflecting Pool - The Hill
-- Appeals court rules Trump can’t build White House ballroom without congressional approval - apnews.com
+- Federal funds can't be used to give test strips to drug users, raising overdose fears - npr.org
 - Republicans face likely year-end test after punting Trump spending bill - Politico
+- White House revives unprecedented effort to remove Fed governor Lisa Cook - Axios
 - The Messy Dispute Over Fares That Could Cut Off Mackinac Island - The New York Times
-- Oregon drinking water system accessed in recent cyber attacks - Oregon Public Broadcasting - OPB
-- Families retrieve bodies after a 14-year-old killed at least 7 in a shooting outside Bangkok - apnews.com
-- U.S. Intel Links Russia to Explosive Drone at German Airport - WSJ
-- US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown - The Guardian
+- North Carolina pastor taken by ICE had a stroke in detention, family says - NBC News
+- Families retrieve bodies after deadly shooting rampage outside Bangkok - Al Jazeera
+- US pledges $1bn support to Colombia as Trump-backed president sworn in - BBC
+- Russia dismisses German drone incident as 'fabricated provocation' - Reuters
 - Yemen Teeters on Civil War as Regional Stability Hangs in the Balance - The New York Times
-- Markets Rally on Surprise U.S. Job Losses, Airbnb Soars and Trade Desk Tanks | Markets P.M. for Aug. 7 - WSJ
+- The Memo: Weak jobs report clouds economy as Trump barrels toward midterms - The Hill
 - Prince Harry Reacts to Meta Settlement: “Change Cannot Wait” - Town & Country Magazine
-- Burger King overtakes Wendy's as the nation's second-largest burger chain - CNBC
-- SpaceX's big week: Stock jumps despite earnings storm, lock-up expiration in crucial test for investors - Yahoo Finance
-- Nitecore’s latest power bank is the lightest and most compact yet - The Verge
-- iPhone 17 might get price increase next week, per new rumor - 9to5Mac
+- Berkshire Hathaway Q2 earnings on deck; look for buybacks, cash, float (BRK.B:NYSE) - Seeking Alpha
+- SpaceX 10GW in 2027 – Why It’s Real, Will Drive $300B ARR for SpaceX, and Why Microsoft Will Be the Largest Offtaker - SemiAnalysis
+- Here’s When Apple Will Reveal Its iPhone 18 Pro Special Event - Forbes
+- One of these Googlebook leaks is not like the other - Android Authority
