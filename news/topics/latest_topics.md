@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-08 21:08_
+_Updated: 2026-08-08 21:54_
 
 ## Top Stories
 
 - Minst fyra döda i robotattack mot Kiev - Göteborgs-Posten
 - Knapp seger för IFK Kumla – 2–1 mot Vänersborgs IF - Göteborgs-Posten
+- Krock mellan personbilar – en till sjukhus - sverigesradio.se
+- Två personbilar har kolliderat - aftonbladet.se
 - Tyska skospåret gäckar – trots genombrottet - Svenska Dagbladet
+- Vänstersvängen en reaktion på Trump – men kan stå Demokraterna dyrt - Dagens Nyheter
 - KD vill ha ”mammabonus” i pensionssystemet - Nya Wermlands-Tidningen
-- Trump går till attack mot åklagaren igen - Expressen
-- Svårt för många äldre att använda bank-id: ”En otrolig oro” - Dagens Nyheter
-- Dödsfall under rally-sm i Vimmerby utreds av polis - Göteborgs-Posten
-- Just nu: Rådjur på fel sida av viltstängslet på E4 - unt.se
-- Polisen varnar för ökade bedrägerier - Nya Lidköpings-Tidningen
-- Kryss för Gamla Upsala SK mot Trelleborg - unt.se
-- Bränder rasar i Kanada – börjar närma sig städer - Sveriges Radio
+- Man föll från höghöjdsbana i Ängelholm - svt.se
+- SMHI varnar – kuling och översvämningar - Norran
+- Just nu: Trafiken påverkas av stillastående personbil på E4 – stopp i ett körfält - UNT
+- Över 20 000 evakueras undan brand i Kanada - aftonbladet.se
 - Havsfyndet – 162 år gammal Guinness - Dagens Nyheter
-- Värmen ger frist åt lastbilar på Autobahn - TV4 Nyheterna
-- Expert: Dödläget i Gaza riskerar att fortsätta i tio år - Dagens Nyheter
-- Bästa begagnade kombi i långtest – budget slog Mercedes och BMW - Dagens PS
-- Stockholmsbörsen avslutar fredagen i moll - Lundin Gold lyfte på rapport (Finwire News) - Aktiellt
-- Här är svenskarnas drömhem på Rivieran – ”Njuter av livet fullt ut” - Aftonbladet
+- Gryniga filmer och jättetriangel i nya ufo-filer - Svenska Dagbladet
+- Barn dog i traktorolycka i Svenljunga kommun - Borås Tidning
+- Svårt för många äldre att använda bank-id: ”En otrolig oro” - Dagens Nyheter
+- AI skapade falska identiteter för att lura människor - Göteborgs-Posten
+- Stockholmsbörsen tog helg svagt nedåt - Västerbottens-Kuriren
 - Bakslag i lågprisstriden: Blödande finanser och ledningskaos - EFN
 - Så ser du mäktiga solförmörkelsen – i Eskilstuna - Ekuriren
 - Motorola Edge 70 Neo har läckt ut med en 200 MP-kamera i ett kompakt, färgglatt hölje - notebookcheck.se
@@ -29,11 +29,11 @@ _Updated: 2026-08-08 21:08_
 
 - World Cup: First win for Svensk, Aebersold dominates women’s class - International Orienteering Federation
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- England defender Bronze backs UEFA in standoff with FIFA and Infantino - reuters.com
+- England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Möt Johanna Flood, journalisten som blev global miljöchef - new.abb.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
@@ -50,12 +50,12 @@ _Updated: 2026-08-08 21:08_
 
 ## Technology
 
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - nyheter.ki.se
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
@@ -63,7 +63,7 @@ _Updated: 2026-08-08 21:08_
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - omni.se
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
@@ -106,7 +106,7 @@ _Updated: 2026-08-08 21:08_
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - nyheter.ki.se
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
@@ -114,8 +114,8 @@ _Updated: 2026-08-08 21:08_
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - nyheter.ki.se
+- Mycket tidig medicinsk abort är effektivt och säkert - nyheter.ki.se
 
 ## Science
 
@@ -128,14 +128,14 @@ _Updated: 2026-08-08 21:08_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
+- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - sverigesradio.se
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Olika slutsatser från samma data - Läkartidningen
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - nyheter.ki.se
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - 5 myter om öppen vetenskap - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Cell- och genterapi - från science fiction till sjukhussal - nyheter.ki.se
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
@@ -149,7 +149,7 @@ _Updated: 2026-08-08 21:08_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
