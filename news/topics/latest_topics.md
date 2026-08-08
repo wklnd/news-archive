@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-08 17:56_
+_Updated: 2026-08-08 19:02_
 
 ## Top Stories
 
+- Tyska skospåret gäckar – trots genombrottet - Svenska Dagbladet
 - Misstänkte mördarens liv: Konst, vänner och restaurangbesök - Aftonbladet
-- Uppgifter: USA söker ”symbolisk seger” i Iran åt Trump - Göteborgs-Posten
-- Hinnfors om V-krisen: Väljare kan stötas bort - Göteborgs-Posten
-- Kris för landets rikaste kvinna – efter nya slagen - Expressen
+- Uppgifter: USA söker ”symbolisk seger” i Iran åt Trump - gp.se
+- DN Direkt – KD föreslår ”mammabonus” i pensionssystemet - Dagens Nyheter
+- SMHI varnar – kuling och översvämningar - Norran
+- DN Direkt – Segelbåt i kollision med färja i Stockholm - Dagens Nyheter
 - SD-ledaren: ”Det pratas väldigt lite om behovet av våra väljare” - Dagens Nyheter
-- Minst tre döda i robotattack mot Kiev - Corren
-- Dödsfall under rally-sm i Vimmerby utreds av polis - Göteborgs-Posten
+- Dödsfall under rally-sm i Vimmerby utreds av polis - gp.se
 - Epa-traktor i krock - Kuriren
 - Därför överlever valaffischen: ”Svår att undvika” - Västerbottens-Kuriren
-- KD vill ha ”mammabonus” i pensionssystemet - Nya Wermlands-Tidningen
-- Drygt 4 300 döda i Libanon - Corren
 - Förenade arabemiraten: Iransk attack mot oljetanker - Västerbottens-Kuriren
+- Drygt 4 300 döda i Libanon - Corren
 - Expert: Dödläget i Gaza riskerar att fortsätta i tio år - Dagens Nyheter
-- Buss har vält i Norge – flera skadade - SVT Nyheter
-- Amazon bakom enorm gasanläggning för datacenter - Västerbottens-Kuriren
+- Gryniga filmer och jättetriangel i nya ufo-filer - Svenska Dagbladet
+- Stockholmsbörsen tog helg svagt nedåt - Västerbottens-Kuriren
 - Här är svenskarnas drömhem på Rivieran – ”Njuter av livet fullt ut” - Aftonbladet
-- Stockholmsbörsen avslutade veckan nedåt - affarsvarlden.se
+- Bakslag i lågprisstriden: Blödande finanser och ledningskaos - EFN
 - Svaga jobbsiffror gav bränsle till USA-börsen - Bohusläningen
-- Solförmörkelse nästa vecka – då syns den i länet - op.se
+- Solförmörkelse nästa vecka – då syns den i länet - Östersunds-Posten
 - Uppgift: Det här blir priset på Open AI:s smarta högtalare - nyteknik
 
 ## World News
@@ -42,11 +42,11 @@ _Updated: 2026-08-08 17:56_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
-- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Spelet bakom nedläggningen av News of the World - Expressen
 - Etraveli rusar – 175 miljarder och global styrka - travelnews.se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Intervision 2025 - Russia hosts Putin's answer to Eurovision - BBC
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- 1 426 potential victims identified in global operation against human trafficking - Europol
 
 ## Technology
 
@@ -60,7 +60,7 @@ _Updated: 2026-08-08 17:56_
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - blogg.avanza.se
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
@@ -77,7 +77,7 @@ _Updated: 2026-08-08 17:56_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Four European takes on open banking - Mastercard Data and Services - mastercard.com
+- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
@@ -100,15 +100,15 @@ _Updated: 2026-08-08 17:56_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Khalid satsar på digital vård – mot fetma - st.nu
 - Sju life science-trender 2026 - Business Region Göteborg
-- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- firar 15 år av att skydda den globala hälsosektorn - health-isac.org
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - gp.se
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
@@ -150,10 +150,10 @@ _Updated: 2026-08-08 17:56_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - atl.nu
+- Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Så ska det australiensiska jordbruket bli hållbart - atl.nu
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
