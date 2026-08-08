@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-08 04:28_
+_Updated: 2026-08-08 05:50_
 
 ## Top Stories
 
 - Tyska regeringen i krismöte efter misstänkt drönarattack - Dagens Nyheter
-- S vill slopa mängdrabatten för allvarliga brott - vk.se
+- S vill slopa mängdrabatten för allvarliga brott - Västerbottens-Kuriren
+- Bidens cancer har spridit sig - Svenska Dagbladet
+- Misstänkt mordbrand i Botkyrka - SVT Nyheter
+- Brott mot vilotider på Tjörnfartyget - Västerbottens-Kuriren
+- DN Direkt – Italien går inte med på spanskt gränskrav - Dagens Nyheter
+- Brand i återvinningscentral i Rosersberg - SVT Nyheter
+- Misstänks för mordet i skärgården – häktas av Nacka tingsrätt - SVT Nyheter
+- Det är då som den stora valspurten rullar in - altinget.se
+- Familjens ord om stödet efter Christians död: ”Visat att kärlek är starkare än hatet” - SVT Nyheter
 - Underrättelsetjänst: Pressad Putin kan testa Natos försvar - Dagens Nyheter
 - Drygt 4 300 döda i Libanon - Göteborgs-Posten
-- Norsk myndighet: Brott mot vilotid på olycksfartyg – ”Riskerna ökar” - Dagens Nyheter
-- DN Direkt – Spanien varnar för ”proportionella åtgärder” mot Italien - Dagens Nyheter
-- Högsommarvärmen gör comeback i söder - Dagens Nyheter
-- Åklagaren i Brattåsfallet: ”Bevisläget är gott” - vk.se
-- Det är då som den stora valspurten rullar in - Altinget.se
-- Misstänks för mordet i skärgården – häktas av Nacka tingsrätt - SVT Nyheter
-- Colombia har ny president - vk.se
 - Klart: Nytt försvarssamarbete för Saudiarabien - Göteborgs-Posten
-- Domstol pausar Trumps bygge av balsal - Corren
-- Många döda i Huthiattacker i Jemen - Göteborgs-Posten
+- USA vill ge bistånd till Colombias nye president - Västerbottens-Kuriren
 - Kommentar till Svensk Mäklarstatistik: Semesterlugnet dämpade bostadsrättspriserna – villapriserna steg - Mynewsdesk
+- Svaga jobbsiffror gav bränsle till USA-börsen - Göteborgs-Posten
+- Stockholmsbörsen tog helg svagt nedåt - Västerbottens-Kuriren
 - Köpstämpel på Yubico – banken höjer riktkursen kraftigt - EFN
-- Svaga jobbsiffror gav bränsle till USA-börsen - vk.se
-- Stockholmsbörsen avslutade veckan nedåt - Affärsvärlden
 - Se upp men försiktigt - dags för solförmörkelse - Västgöta-Bladet
 - Uppgift: Det här blir priset på Open AI:s smarta högtalare - nyteknik
 
@@ -125,7 +125,7 @@ _Updated: 2026-08-08 04:28_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
