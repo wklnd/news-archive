@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-09 00:58_
+_Updated: 2026-08-09 01:55_
 
 ## Top Stories
 
 - Direkt – Kriget i Ukraina – Zelenskyj: Inga fungerande värmekraftverk inför vintern - Dagens Nyheter
-- Ministern om Fröken Snusk-avbokning: ”Märkligt” - Corren
-- Gryniga filmer och jättetriangel i nya ufo-filer - Svenska Dagbladet
-- Två till sjukhus efter allvarlig olycka på Käglingevägen - Sydsvenskan
+- Svenska ”spökraketer” i amerikanska Pentagonfiler - Svenska Dagbladet
 - Barn död efter olycka med traktor - Expressen
-- Experten: Allt mer pekar på att Kamala Harris kommer kandidera - tv4.se
+- Ministern om Fröken Snusk-avbokning: ”Märkligt” - Corren
+- Två till sjukhus efter allvarlig olycka på Käglingevägen - Sydsvenskan
+- Experten: Allt mer pekar på att Kamala Harris kommer kandidera - TV4 Nyheterna
 - Knapp seger för IFK Kumla – 2–1 mot Vänersborgs IF - Göteborgs-Posten
 - Jörn Spolander: Därför strider miljövänner och forskare om synen på de svenska kräftorna - Dagens Nyheter
 - Just nu: Trafiken påverkas av stillastående personbil på E4 – stopp i ett körfält - UNT
-- KD vill ha ”mammabonus” i pensionssystemet - Nya Wermlands-Tidningen
+- 8 augusti 17.33, Vållande till kroppsskada, Ängelholm - polisen.se
 - DN Direkt – 200 evakuerade efter brand vid Gardasjön - Dagens Nyheter
 - Död kropp vid Mount Everest kan bärgas – efter 30 år - SVT Nyheter
-- Vänstersvängen en reaktion på Trump – men kan stå Demokraterna dyrt - Dagens Nyheter
-- Nathan Shachar: Planerade regimskifte i Iran – nu offras agenterna av Netanyahu - Dagens Nyheter
-- Svårt för många äldre att använda bank-id: ”En otrolig oro” - Dagens Nyheter
+- Förenade arabemiraten: Iransk attack mot oljetanker - Västerbottens-Kuriren
+- Hyllad Cambridgeprofessor utreds för fusk och lögner - Hufvudstadsbladet – HBL
 - Ny lag: ”Slutet på onödiga lyxförpackningar” - Aftonbladet
+- Svårt för många äldre att använda bank-id: ”En otrolig oro” - Dagens Nyheter
 - Stockholmsbörsen tog helg svagt nedåt - Västerbottens-Kuriren
 - AI skapade falska identiteter för att lura människor - Göteborgs-Posten
 - Så ser du mäktiga solförmörkelsen – i Eskilstuna - Ekuriren
@@ -39,11 +39,11 @@ _Updated: 2026-08-09 00:58_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - news.cision.com
-- Radisson satsar stort på långtidsboende globalt - travelnews-se
+- Radisson satsar stort på långtidsboende globalt - travelnews.se
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Etraveli rusar – 175 miljarder och global styrka - travelnews.se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - news.cision.com
 - Intervision 2025 - Russia hosts Putin's answer to Eurovision - BBC
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
@@ -51,12 +51,12 @@ _Updated: 2026-08-09 00:58_
 ## Technology
 
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - nyheter.ki.se
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Artificial intelligence in enterprises 2025 - scb.se
+- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
@@ -80,7 +80,7 @@ _Updated: 2026-08-09 00:58_
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Finansinspektionen varnar för finansbedragare - tv4.se
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
@@ -107,38 +107,38 @@ _Updated: 2026-08-09 00:58_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - nyheter.ki.se
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - di.se
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - nyheter.ki.se
+- Mycket tidig medicinsk abort är effektivt och säkert - nyheter.ki.se
 
 ## Science
 
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - vietnam.vn
-- Activities for the public – Department of Earth Sciences - Uppsala universitet
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - vietnam.vn
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- AI for Scientific Research and Discovery - OpenAI
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Olika slutsatser från samma data - Läkartidningen
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - nyheter.ki.se
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - 5 myter om öppen vetenskap - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Cell- och genterapi - från science fiction till sjukhussal - nyheter.ki.se
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
