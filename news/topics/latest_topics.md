@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-08 11:10_
+_Updated: 2026-08-08 12:03_
 
 ## Top Stories
 
 - Kommentar: V är märkligt blinda för de egna extremisterna - Göteborgs-Posten
-- Nytt totalstopp väntar: Först stängs viktig passage – sedan motorvägen - Sydsvenskan
-- Uppgifter: USA söker ”symbolisk seger” i Iran åt Trump - Göteborgs-Posten
-- Här reser sig nya sporthallen över Slottsskogen - Göteborgs-Posten
+- Kritik mot KD:s mammabonus: Straffa inte studier - vk.se
+- Glömde betala pizzan – blev skuldsatt - Aftonbladet
 - Minst tre döda i robotattack mot Kiev - Corren
-- Experten: Där skulle jag aldrig semestra - Göteborgs-Posten
-- DN Direkt – KD föreslår ”mammabonus” i pensionssystemet - Dagens Nyheter
-- Misstänkt brandattentat mot villa i Botkyrka - SVT Nyheter
-- 8 augusti 09.37, Trafikolycka, Helsingborg - polisen.se
-- SMHI: Varning för översvämningar i Norrbotten - SVT Nyheter
-- Många döda i Huthiattacker i Jemen - Göteborgs-Posten
-- Drygt 4 300 döda i Libanon - Corren
-- Rysslands svar om drönaren: Utstuderad provokation - Göteborgs-Posten
-- Han fick fota sex miljoner antiloper: ”Makalöst” - sverigesradio.se
-- ”Fick panikångestattack av att köpa bär” - Svenska Dagbladet
-- Arvet kommer när det behövs som minst - Dagens Nyheter
+- DN Direkt – Bidens cancer har spridit sig till skelettet - dn.se
+- Just nu: Rådjur på fel sida av viltstängslet på E4 - UNT
+- Elspark och fotgängare krockade – båda till sjukhus - SVT Nyheter
+- Crosskarts i olycka – helikopter rycker ut - Aftonbladet
+- Här är de giftiga växterna du bör se upp för - vk.se
+- Brandfarlig vätska kastades in i trapphus - Sveriges Radio
+- Jemenitisk militär: Åtta döda i attack – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Lånebok återlämnad efter 150 år - dn.se
+- Uppgifter: USA söker ”symbolisk seger” i Iran åt Trump - Göteborgs-Posten
+- Han fick fota sex miljoner antiloper: ”Makalöst” - Sveriges Radio
+- Arvet kommer när det behövs som minst - dn.se
 - Preventivmedlet: ”Fem år till börsen – eller uppköp” - Affärsvärlden
+- ”Fick panikångestattack av att köpa bär” - Svenska Dagbladet
 - Affärsvärlden landar i neutralt råd för Yubico (Finwire News) - Aktiellt
 - Då kan du se sällsynta solförmörkelsen - Nya Wermlands-Tidningen
-- Uppgift: Det här blir priset på Open AI:s smarta högtalare - nyteknik
+- Uppgift: Det här blir priset på Open AI:s smarta högtalare - nyteknik.se
 
 ## World News
 
@@ -40,8 +40,8 @@ _Updated: 2026-08-08 11:10_
 - Radisson satsar stort på långtidsboende globalt - travelnews-se
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Visual Art köper Global Agencies - Dagens Media
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - 1 426 potential victims identified in global operation against human trafficking - europol.europa.eu
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
@@ -55,7 +55,7 @@ _Updated: 2026-08-08 11:10_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
@@ -63,7 +63,7 @@ _Updated: 2026-08-08 11:10_
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - omni.se
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
@@ -78,8 +78,8 @@ _Updated: 2026-08-08 11:10_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - mastercard.com
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - finanstid.se
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Finansinspektionen varnar för finansbedragare - tv4.se
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Vilken framtid arbetar du för? - EY
@@ -126,7 +126,7 @@ _Updated: 2026-08-08 11:10_
 - Olika slutsatser från samma data - Läkartidningen
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - sverigesradio.se
+- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
