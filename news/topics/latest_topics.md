@@ -1,70 +1,70 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-08 16:58_
+_Updated: 2026-08-08 17:56_
 
 ## Top Stories
 
-- Uppgifter: USA söker ”symbolisk seger” i Iran åt Trump - Göteborgs-Posten
 - Misstänkte mördarens liv: Konst, vänner och restaurangbesök - Aftonbladet
-- Kommentar: V är märkligt blinda för de egna extremisterna - Göteborgs-Posten
+- Uppgifter: USA söker ”symbolisk seger” i Iran åt Trump - Göteborgs-Posten
+- Hinnfors om V-krisen: Väljare kan stötas bort - Göteborgs-Posten
 - Kris för landets rikaste kvinna – efter nya slagen - Expressen
 - SD-ledaren: ”Det pratas väldigt lite om behovet av våra väljare” - Dagens Nyheter
-- SMHI utökar vädervarning i Norrbotten - Västerbottens-Kuriren
+- Minst tre döda i robotattack mot Kiev - Corren
 - Dödsfall under rally-sm i Vimmerby utreds av polis - Göteborgs-Posten
 - Epa-traktor i krock - Kuriren
 - Därför överlever valaffischen: ”Svår att undvika” - Västerbottens-Kuriren
 - KD vill ha ”mammabonus” i pensionssystemet - Nya Wermlands-Tidningen
+- Drygt 4 300 döda i Libanon - Corren
 - Förenade arabemiraten: Iransk attack mot oljetanker - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – Minst fyra döda i robotattack mot Kiev - Dagens Nyheter
 - Expert: Dödläget i Gaza riskerar att fortsätta i tio år - Dagens Nyheter
-- Grönland ger ”skarp varning” till Trump-kopplat oljeprojekt - Dagens Nyheter
-- Amazons nya kraftverk kan släppa ut miljoner ton växthusgaser per år - Sydsvenskan
-- Hånades av Wall Street efter kraschen – nu står Silicon Valley i kö - EFN
-- Bästa begagnade kombi i långtest – budget slog Mercedes och BMW - Dagens PS
-- Stockholmsbörsen tog helg svagt nedåt - Västerbottens-Kuriren
-- Solförmörkelse nästa vecka – då syns den i länet - Östersunds-Posten
+- Buss har vält i Norge – flera skadade - SVT Nyheter
+- Amazon bakom enorm gasanläggning för datacenter - Västerbottens-Kuriren
+- Här är svenskarnas drömhem på Rivieran – ”Njuter av livet fullt ut” - Aftonbladet
+- Stockholmsbörsen avslutade veckan nedåt - affarsvarlden.se
+- Svaga jobbsiffror gav bränsle till USA-börsen - Bohusläningen
+- Solförmörkelse nästa vecka – då syns den i länet - op.se
 - Uppgift: Det här blir priset på Open AI:s smarta högtalare - nyteknik
 
 ## World News
 
 - World Cup: First win for Svensk, Aebersold dominates women’s class - International Orienteering Federation
-- England defender Bronze backs UEFA in standoff with FIFA and Infantino - reuters.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
+- England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Radisson satsar stort på långtidsboende globalt - travelnews.se
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - bbc.com
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
-- Spelet bakom nedläggningen av News of the World - Expressen
+- 1 426 potential victims identified in global operation against human trafficking - Europol
 - Etraveli rusar – 175 miljarder och global styrka - travelnews.se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Intervision 2025 - Russia hosts Putin's answer to Eurovision - BBC
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
 
 ## Technology
 
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - fuf.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
@@ -107,9 +107,9 @@ _Updated: 2026-08-08 16:58_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - lakartidningen.se
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
@@ -126,19 +126,19 @@ _Updated: 2026-08-08 16:58_
 - AI for Scientific Research and Discovery - OpenAI
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - lakartidningen.se
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Olika slutsatser från samma data - lakartidningen.se
+- Olika slutsatser från samma data - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
-- 5 myter om öppen vetenskap - lakartidningen.se
+- 5 myter om öppen vetenskap - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
-- Många fallgropar i arbetet att ta fram systematiska översikter - lakartidningen.se
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - lakartidningen.se
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
