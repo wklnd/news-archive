@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-08 15:26_
+_Updated: 2026-08-08 16:06_
 
 ## Top Stories
 
-- Skärgårdsmordet: Misstänkt på flykt i 33 timmar - Expressen
-- Uppgifter: USA söker ”symbolisk seger” i Iran åt Trump - gp.se
-- Hinnfors om V-krisen: Väljare kan stötas bort - gp.se
-- SD-ledaren: ”Det pratas väldigt lite om behovet av våra väljare” - dn.se
-- Glömde betala pizzan – blev skuldsatt - Aftonbladet
+- Messis pappa död – blev 68 år - Västerbottens-Kuriren
+- Misstänkte mördarens liv: Konst, vänner och restaurangbesök - Aftonbladet
+- Uppgifter: USA söker ”symbolisk seger” i Iran åt Trump - Göteborgs-Posten
+- SD-ledaren: ”Det pratas väldigt lite om behovet av våra väljare” - Dagens Nyheter
 - Minst tre döda i robotattack mot Kiev - Corren
+- Glömde betala pizzan – blev skuldsatt - Aftonbladet
 - Man död under rally-SM i Vimmerby - SVT Nyheter
 - KD vill ha ”mammabonus” i pensionssystemet - Nya Wermlands-Tidningen
-- Flera crosscarts i olycka: ”Gått in i räcke” - Nya Wermlands-Tidningen
 - Här är de giftiga växterna du bör se upp för - Västerbottens-Kuriren
+- Efter SD-spelning – bokar av Fröken Snusk - Göteborgs-Posten
 - Förenade arabemiraten: Iransk attack mot oljetanker - Västerbottens-Kuriren
 - Buss har vält i Norge – flera skadade - SVT Nyheter
-- Grönland ger ”skarp varning” till Trump-kopplat oljeprojekt - dn.se
-- Drönare sprängdes nära gasledning i Bulgarien - SVT Nyheter
+- Grönland ger ”skarp varning” till Trump-kopplat oljeprojekt - Dagens Nyheter
+- Drönare exploderade i Bulgarien nära Rumäniens gräns - Sveriges Radio
 - Amazons nya kraftverk kan släppa ut miljoner ton växthusgaser per år - Sydsvenskan
-- Hånades av Wall Street efter kraschen – nu står Silicon Valley i kö - EFN
-- Stockholmsbörsen avslutar fredagen i moll - Lundin Gold lyfte på rapport (Finwire News) - Aktiellt
+- Hånades av Wall Street efter kraschen – nu står Silicon Valley i kö - efn.se
+- Stockholmsbörsen tog helg svagt nedåt - Västerbottens-Kuriren
 - Svaga jobbsiffror gav bränsle till USA-börsen - Bohusläningen
-- Forskare upptäcker en dold värld av liv 500 meter under jordens yta – nu väcker fyndet en viktig fråga - illvet.se
-- Snart solförmörkelse – så skyddar man ögonen - orebronyheter.com
+- Se upp men försiktigt – dags för solförmörkelse - SkLT
+- Uppgift: Det här blir priset på Open AI:s smarta högtalare - nyteknik.se
 
 ## World News
 
@@ -37,13 +37,13 @@ _Updated: 2026-08-08 15:26_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Radisson satsar stort på långtidsboende globalt - travelnews-se
+- Radisson satsar stort på långtidsboende globalt - travelnews.se
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - 1 426 potential victims identified in global operation against human trafficking - Europol
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Etraveli rusar – 175 miljarder och global styrka - travelnews.se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Intervision 2025 - Russia hosts Putin's answer to Eurovision - BBC
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
@@ -54,13 +54,13 @@ _Updated: 2026-08-08 15:26_
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - fuf.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - blogg.avanza.se
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
@@ -97,8 +97,8 @@ _Updated: 2026-08-08 15:26_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - vietnam.vn
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
@@ -108,41 +108,41 @@ _Updated: 2026-08-08 15:26_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - gp.se
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - lakartidningen.se
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
-- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - vietnam.vn
+- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
 
 ## Science
 
-- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - vietnam.vn
-- NESS activities for the public – Department of Earth Sciences - uu.se
-- Skapar utrymme för forskning, testning och utveckling av ny teknik. - vietnam.vn
-- Sherry Nakhaeizadeh - uu.se
+- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
+- Sherry Nakhaeizadeh - Uppsala universitet
 - AI for Scientific Research and Discovery - OpenAI
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - lakartidningen.se
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Olika slutsatser från samma data - lakartidningen.se
+- Olika slutsatser från samma data - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
-- 5 myter om öppen vetenskap - lakartidningen.se
+- 5 myter om öppen vetenskap - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
-- Många fallgropar i arbetet att ta fram systematiska översikter - lakartidningen.se
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - lakartidningen.se
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
-- Dien Bien Agriculture: Väcker potential - Ökar värdet: [Del 5]: "Green Stream" välkomnar investerare - vietnam.vn
+- Dien Bien Agriculture: Väcker potential - Ökar värdet: [Del 5]: "Green Stream" välkomnar investerare - Vietnam.vn
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
