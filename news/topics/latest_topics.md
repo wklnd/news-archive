@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-08 21:54_
+_Updated: 2026-08-08 22:59_
 
 ## Top Stories
 
+- Ayari tvåmålsskytt i Brightons träningsmatch - Fotbollskanalen
+- Barn avlidit i olycka utanför Svenljunga - Sveriges Radio
 - Minst fyra döda i robotattack mot Kiev - Göteborgs-Posten
+- DN Direkt – Ministern om Fröken Snusk-avbokning: ”Märkligt” - Dagens Nyheter
+- Ukrainsk drönare exploderade i Bulgarien - Västerbottens-Kuriren
+- Bil totaldemolerad i trafikolycka – två till sjukhus - TV4 Nyheterna
 - Knapp seger för IFK Kumla – 2–1 mot Vänersborgs IF - Göteborgs-Posten
-- Krock mellan personbilar – en till sjukhus - sverigesradio.se
-- Två personbilar har kolliderat - aftonbladet.se
-- Tyska skospåret gäckar – trots genombrottet - Svenska Dagbladet
-- Vänstersvängen en reaktion på Trump – men kan stå Demokraterna dyrt - Dagens Nyheter
 - KD vill ha ”mammabonus” i pensionssystemet - Nya Wermlands-Tidningen
-- Man föll från höghöjdsbana i Ängelholm - svt.se
-- SMHI varnar – kuling och översvämningar - Norran
+- 8 augusti 17.33, Vållande till kroppsskada, Ängelholm - polisen.se
 - Just nu: Trafiken påverkas av stillastående personbil på E4 – stopp i ett körfält - UNT
-- Över 20 000 evakueras undan brand i Kanada - aftonbladet.se
+- 20 000 evakueras från skogsbrand i Kanada - Omni – Alla nyheter. Alla perspektiv.
+- DN Direkt – Känd bergsklättrare kan bärgas efter 30 år på Everest - Dagens Nyheter
+- Vänstersvängen en reaktion på Trump – men kan stå Demokraterna dyrt - Dagens Nyheter
 - Havsfyndet – 162 år gammal Guinness - Dagens Nyheter
-- Gryniga filmer och jättetriangel i nya ufo-filer - Svenska Dagbladet
-- Barn dog i traktorolycka i Svenljunga kommun - Borås Tidning
 - Svårt för många äldre att använda bank-id: ”En otrolig oro” - Dagens Nyheter
 - AI skapade falska identiteter för att lura människor - Göteborgs-Posten
 - Stockholmsbörsen tog helg svagt nedåt - Västerbottens-Kuriren
@@ -28,12 +28,12 @@ _Updated: 2026-08-08 21:54_
 ## World News
 
 - World Cup: First win for Svensk, Aebersold dominates women’s class - International Orienteering Federation
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Möt Johanna Flood, journalisten som blev global miljöchef - new.abb.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
@@ -50,7 +50,7 @@ _Updated: 2026-08-08 21:54_
 
 ## Technology
 
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - nyheter.ki.se
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -103,10 +103,10 @@ _Updated: 2026-08-08 21:54_
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
-- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- firar 15 år av att skydda den globala hälsosektorn - health-isac.org
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - nyheter.ki.se
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
@@ -114,8 +114,8 @@ _Updated: 2026-08-08 21:54_
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - nyheter.ki.se
-- Mycket tidig medicinsk abort är effektivt och säkert - nyheter.ki.se
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
 ## Science
 
@@ -124,18 +124,18 @@ _Updated: 2026-08-08 21:54_
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - vietnam.vn
 - Sherry Nakhaeizadeh - Uppsala universitet
 - AI for Scientific Research and Discovery - OpenAI
-- Kina drar om USA – bäst på forskning - svt.se
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - sverigesradio.se
+- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Olika slutsatser från samma data - Läkartidningen
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - nyheter.ki.se
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - 5 myter om öppen vetenskap - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - nyheter.ki.se
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
