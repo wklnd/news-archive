@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-08 02:04_
+_Updated: 2026-08-08 04:34_
 
-- Cassidy backs Blanche for attorney general, appearing to clear way for confirmation - The Washington Post
-- Trump renews push to fire Fed Governor Lisa Cook - NPR
-- After Supreme Court loss, Trump again targets birthright citizenship with new orders - Los Angeles Times
-- Trump Live Updates: White House Ballroom Blocked by Appeals Panel, Setting Up Supreme Court Fight - The New York Times
-- Lindsay Clancy trial spotlights psychiatric hospital stay before she killed her 3 children - AP News
-- Spain announces immediate border controls with Italy in migration spat - CNN
-- 'It's apocalyptic.' A look at the aftermath of catastrophic fires in Spokane - KUOW
-- US Senate passes Russia sanctions championed by Graham; US House next - Reuters
+- Appeals court rules Trump can’t build White House ballroom without congressional approval - AP News
+- Trump renews effort to fire Fed governor Lisa Cook after Supreme Court ruling - The Washington Post
+- Spain announces immediate border controls with Italy in migration spat - cnn.com
+- Remains of 56 people found decomposing at Chicago funeral home - The Guardian
 - Idaho police release chilling new video of In-N-Out mass shooting - NBC News
-- DOJ's top prosecutor in LA hires law enforcement liaison with pending battery charge, string of DUIs - CBS News
-- Hundreds of thousands of people in Puerto Rico wake up with no running water as rationing begins: "It's brutal" - CBS News
-- Colombia’s new president takes office in ceremony in Cali highlighting hard line on armed groups - AP News
-- US intel assesses Putin could launch attack aimed at testing NATO unity - CNN
-- Student gunman kills at least 7 near Bangkok, officials say - NPR
-- US suffers unexpected job losses in July, markets dial back rate hike expectations - Reuters
-- Shopping App Whatnot Valued at $20 Billion in New Funding - wsj.com
-- Burger King overtakes Wendy's as the nation's second-largest burger chain - CNBC
+- Cassidy backs Blanche for attorney general, clearing way for confirmation - CBS News
+- 'It's apocalyptic.' A look at the aftermath of catastrophic fires in Spokane - KUOW
+- El-Sayed faces 'uphill battle' winning Jewish support in Michigan - Detroit Free Press
+- What is birthright citizenship and how common is birth tourism in the US? - BBC
+- The Real Reason Rand Paul Put a DOJ Target on Anthony Fauci’s Back - Slate Magazine
+- U.S. intelligence agencies warn Putin could test NATO by authorizing provocative actions - CBS News
+- Trump ally 'El Tigre' sworn in as Colombia's new president amid continent's rightward shift - foxnews.com
+- Iran says agreement on Hormuz shipping reached with Oman - Fortune
+- 7 killed and more than 20 injured in Thailand school shooting - The Washington Post
+- Markets Rally on Surprise U.S. Job Losses, Airbnb Soars and Trade Desk Tanks | Markets P.M. for Aug. 7 - WSJ
+- Meta ordered to pay $567M by New Mexico court over child mental health harm - ABC News - Breaking News, Latest News and Videos
 - SpaceX Ended Its 4-Week Slump With a Bang - Barron's
-- I compared Google's pricier Pixel 11 series to Samsung's Galaxy lineup - here's the better value now - ZDNET
-- Microsoft Edge is about to lock out older ad blockers, just like Chrome did - The Verge
+- SpaceX 10GW in 2027 – Why It’s Real, Will Drive $500B ARR for SpaceX, and Why Microsoft Will Be the Largest Offtaker - SemiAnalysis
+- Samsung cuts Galaxy Z Fold 8 trade-ins & deals on release day – here's where to get the best price now - 9to5Google
+- iOS 26 Gets First Jailbreak Thanks to Dopamine - MacRumors
