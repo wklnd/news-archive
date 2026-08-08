@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-08 07:20_
+_Updated: 2026-08-08 08:06_
 
 ## Top Stories
 
-- KD föreslår ”mammabonus” i pensionssystemet - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – Minst tre döda i robotattack mot Kiev - Dagens Nyheter
-- DN Direkt – Italien går inte med på spanskt gränskrav - Dagens Nyheter
-- Misstänkt brandattentat mot villa i Botkyrka i natt - Omni – Alla nyheter. Alla perspektiv.
+- KD föreslår ”mammabonus” i pensionssystemet - Göteborgs-Posten
+- Tyska regeringen i krismöte efter misstänkt drönarattack - Dagens Nyheter
+- Minst tre döda i robotattack mot Kiev - Corren
 - Här reser sig nya sporthallen över Slottsskogen - Göteborgs-Posten
-- Bidens cancer har spridit sig - Västerbottens-Kuriren
-- Varningen: Avgiftsfria månader kan ge skattesmäll - Svenska Dagbladet
+- Regeringen vill ha fler fängelseplatser snabbare - Västerbottens-Kuriren
+- DN Direkt – Italien går inte med på spanskt gränskrav - Dagens Nyheter
 - KD föreslår ”mammabonus” i pensionssystemet – Senaste nytt om valet 2026 - SVT Nyheter
 - Högsommarvärmen gör comeback i söder - Dagens Nyheter
-- Misstänks för mordet i skärgården – häktas av Nacka tingsrätt - SVT Nyheter
-- Tyska regeringen i krismöte efter misstänkt drönarattack - Dagens Nyheter
-- Drygt 4 300 döda i Libanon - Göteborgs-Posten
-- USA vill ge bistånd till Colombias nye president - Västerbottens-Kuriren
+- Kvinna påkörd och medvetslös • Drograttfylla vanligare • Spelaren tvingas vila – igen - nwt.se
+- Misstänkt brandattentat mot villa - Västerbottens-Kuriren
+- Drygt 4 300 döda i Libanon - Corren
+- USA vill ge bistånd till Colombias nye president - Göteborgs-Posten
+- DN Direkt – Bidens cancer har spridit sig till skelettet - Dagens Nyheter
 - Klart: Nytt försvarssamarbete för Saudiarabien - Göteborgs-Posten
 - ”Fick panikångestattack av att köpa bär” - Svenska Dagbladet
-- Kommentar till Svensk Mäklarstatistik: Semesterlugnet dämpade bostadsrättspriserna – villapriserna steg - Mynewsdesk
 - Svaga jobbsiffror gav bränsle till USA-börsen - Göteborgs-Posten
 - Stockholmsbörsen tog helg svagt nedåt - Västerbottens-Kuriren
+- Breda uppgångar i Europa med tech i täten - EFN
 - OpenAI ska sälja AI-donut med rörliga delar för 4.000 kronor - Breakit
 - Se upp men försiktigt - dags för solförmörkelse - Västgöta-Bladet
 
@@ -34,7 +34,7 @@ _Updated: 2026-08-08 07:20_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Radisson satsar stort på långtidsboende globalt - travelnews-se
@@ -55,7 +55,7 @@ _Updated: 2026-08-08 07:20_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
@@ -63,7 +63,7 @@ _Updated: 2026-08-08 07:20_
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Kina utökar övervakning i realtid av invånarna - omni.se
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
@@ -107,7 +107,7 @@ _Updated: 2026-08-08 07:20_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
@@ -129,9 +129,9 @@ _Updated: 2026-08-08 07:20_
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Täta band mellan turism och forskning på Svalbard - SLU
+- Täta band mellan turism och forskning på Svalbard - slu.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
@@ -143,22 +143,22 @@ _Updated: 2026-08-08 07:20_
 ## Jordbruk
 
 - Dien Bien Agriculture: Väcker potential - Ökar värdet: [Del 5]: "Green Stream" välkomnar investerare - Vietnam.vn
-- Sveriges förändrade lantbruk - SLU
-- Framtidens jordbruk - commission.europa.eu
+- Sveriges förändrade lantbruk - slu.se
+- Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Brittiska bönder i massiv protest mot arvsskatten - ja.se
 - Jordbrukspolitik - Naturvårdsverket
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - Här är världens största jordbruk - ATL
-- Jord, kor och klimat - SLU
+- Jord, kor och klimat - slu.se
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
 - Visning av uppkomst efter direktsådd - Land.se
-- Lantbrukslogik – nu och i framtiden - SLU
+- Lantbrukslogik – nu och i framtiden - slu.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Kan agroekologi mätta världen? - SLU
+- Kan agroekologi mätta världen? - slu.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
