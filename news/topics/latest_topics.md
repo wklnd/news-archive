@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-08 05:50_
+_Updated: 2026-08-08 07:20_
 
 ## Top Stories
 
-- Tyska regeringen i krismöte efter misstänkt drönarattack - Dagens Nyheter
-- S vill slopa mängdrabatten för allvarliga brott - Västerbottens-Kuriren
-- Bidens cancer har spridit sig - Svenska Dagbladet
-- Misstänkt mordbrand i Botkyrka - SVT Nyheter
-- Brott mot vilotider på Tjörnfartyget - Västerbottens-Kuriren
+- KD föreslår ”mammabonus” i pensionssystemet - Västerbottens-Kuriren
+- Direkt – Kriget i Ukraina – Minst tre döda i robotattack mot Kiev - Dagens Nyheter
 - DN Direkt – Italien går inte med på spanskt gränskrav - Dagens Nyheter
-- Brand i återvinningscentral i Rosersberg - SVT Nyheter
+- Misstänkt brandattentat mot villa i Botkyrka i natt - Omni – Alla nyheter. Alla perspektiv.
+- Här reser sig nya sporthallen över Slottsskogen - Göteborgs-Posten
+- Bidens cancer har spridit sig - Västerbottens-Kuriren
+- Varningen: Avgiftsfria månader kan ge skattesmäll - Svenska Dagbladet
+- KD föreslår ”mammabonus” i pensionssystemet – Senaste nytt om valet 2026 - SVT Nyheter
+- Högsommarvärmen gör comeback i söder - Dagens Nyheter
 - Misstänks för mordet i skärgården – häktas av Nacka tingsrätt - SVT Nyheter
-- Det är då som den stora valspurten rullar in - altinget.se
-- Familjens ord om stödet efter Christians död: ”Visat att kärlek är starkare än hatet” - SVT Nyheter
-- Underrättelsetjänst: Pressad Putin kan testa Natos försvar - Dagens Nyheter
+- Tyska regeringen i krismöte efter misstänkt drönarattack - Dagens Nyheter
 - Drygt 4 300 döda i Libanon - Göteborgs-Posten
-- Klart: Nytt försvarssamarbete för Saudiarabien - Göteborgs-Posten
 - USA vill ge bistånd till Colombias nye president - Västerbottens-Kuriren
+- Klart: Nytt försvarssamarbete för Saudiarabien - Göteborgs-Posten
+- ”Fick panikångestattack av att köpa bär” - Svenska Dagbladet
 - Kommentar till Svensk Mäklarstatistik: Semesterlugnet dämpade bostadsrättspriserna – villapriserna steg - Mynewsdesk
 - Svaga jobbsiffror gav bränsle till USA-börsen - Göteborgs-Posten
 - Stockholmsbörsen tog helg svagt nedåt - Västerbottens-Kuriren
-- Köpstämpel på Yubico – banken höjer riktkursen kraftigt - EFN
+- OpenAI ska sälja AI-donut med rörliga delar för 4.000 kronor - Breakit
 - Se upp men försiktigt - dags för solförmörkelse - Västgöta-Bladet
-- Uppgift: Det här blir priset på Open AI:s smarta högtalare - nyteknik
 
 ## World News
 
@@ -34,19 +34,19 @@ _Updated: 2026-08-08 05:50_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Radisson satsar stort på långtidsboende globalt - travelnews.se
+- Radisson satsar stort på långtidsboende globalt - travelnews-se
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Visual Art köper Global Agencies - Dagens Media
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - 1 426 potential victims identified in global operation against human trafficking - Europol
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
-- Murdoch ber om ursäkt för avlyssning - Blekinge Läns Tidning
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- Intervision 2025 - Russia hosts Putin's answer to Eurovision - BBC
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
 
 ## Technology
 
@@ -75,15 +75,15 @@ _Updated: 2026-08-08 05:50_
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
@@ -123,28 +123,28 @@ _Updated: 2026-08-08 05:50_
 - AI for Scientific Research and Discovery - OpenAI
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
-- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Sherry Nakhaeizadeh - Uppsala universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
 - Dien Bien Agriculture: Väcker potential - Ökar värdet: [Del 5]: "Green Stream" välkomnar investerare - Vietnam.vn
 - Sveriges förändrade lantbruk - SLU
-- Framtidens jordbruk - European Commission
+- Framtidens jordbruk - commission.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
