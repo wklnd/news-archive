@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-08 10:06_
+_Updated: 2026-08-08 11:10_
 
 ## Top Stories
 
-- DN Direkt – KD föreslår ”mammabonus” i pensionssystemet - Dagens Nyheter
-- Rysslands svar om drönaren: Utstuderad provokation - gp.se
-- Här reser sig nya sporthallen över Slottsskogen - gp.se
+- Kommentar: V är märkligt blinda för de egna extremisterna - Göteborgs-Posten
+- Nytt totalstopp väntar: Först stängs viktig passage – sedan motorvägen - Sydsvenskan
+- Uppgifter: USA söker ”symbolisk seger” i Iran åt Trump - Göteborgs-Posten
+- Här reser sig nya sporthallen över Slottsskogen - Göteborgs-Posten
 - Minst tre döda i robotattack mot Kiev - Corren
-- Bidens cancer har spridit sig - Västerbottens-Kuriren
-- Fler vithajar vid Kaliforniens stränder – men betten ökar inte - sverigesradio.se
-- Två misshandlade under storbråk i Grebbestad - SVT Nyheter
-- Brand spräckte rutor • Polis släckte brand • Skyddsombud slår larm om livsfara - Nya Wermlands-Tidningen
-- Misstänkt brandattentat mot villa - Västerbottens-Kuriren
-- Spanien inför gränskontroller mot Italien - Corren
+- Experten: Där skulle jag aldrig semestra - Göteborgs-Posten
+- DN Direkt – KD föreslår ”mammabonus” i pensionssystemet - Dagens Nyheter
+- Misstänkt brandattentat mot villa i Botkyrka - SVT Nyheter
+- 8 augusti 09.37, Trafikolycka, Helsingborg - polisen.se
+- SMHI: Varning för översvämningar i Norrbotten - SVT Nyheter
+- Många döda i Huthiattacker i Jemen - Göteborgs-Posten
 - Drygt 4 300 döda i Libanon - Corren
-- Högerman tar över i Colombia – Trump ger bistånd - gp.se
-- Experten om Irans besked: ”Ingen anledning att tro att problemet är löst” - Dagens Nyheter
-- Underrättelsetjänst: Pressad Putin kan testa Natos försvar - Dagens Nyheter
+- Rysslands svar om drönaren: Utstuderad provokation - Göteborgs-Posten
+- Han fick fota sex miljoner antiloper: ”Makalöst” - sverigesradio.se
 - ”Fick panikångestattack av att köpa bär” - Svenska Dagbladet
 - Arvet kommer när det behövs som minst - Dagens Nyheter
-- Preventivmedlet: ”Fem år till börsen – eller uppköp” - affarsvarlden.se
-- Svaga jobbsiffror gav bränsle till USA-börsen - gp.se
-- Se upp men försiktigt - dags för solförmörkelse - Västgöta-Bladet
-- OpenAI ska sälja AI-donut med rörliga delar för 4.000 kronor - breakit.se
+- Preventivmedlet: ”Fem år till börsen – eller uppköp” - Affärsvärlden
+- Affärsvärlden landar i neutralt råd för Yubico (Finwire News) - Aktiellt
+- Då kan du se sällsynta solförmörkelsen - Nya Wermlands-Tidningen
+- Uppgift: Det här blir priset på Open AI:s smarta högtalare - nyteknik
 
 ## World News
 
@@ -31,7 +31,7 @@ _Updated: 2026-08-08 10:06_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- GMMP: Global backlash syns i världens medier - fempers.se
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - bbc.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -55,7 +55,7 @@ _Updated: 2026-08-08 10:06_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
@@ -63,7 +63,7 @@ _Updated: 2026-08-08 10:06_
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Kina utökar övervakning i realtid av invånarna - omni.se
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
@@ -97,7 +97,7 @@ _Updated: 2026-08-08 10:06_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Låt oss prata hälsa – Intensivvård – Segment 1 - apollohospitals.com
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
@@ -108,10 +108,10 @@ _Updated: 2026-08-08 10:06_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - gp.se
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
@@ -121,13 +121,13 @@ _Updated: 2026-08-08 10:06_
 
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - AI for Scientific Research and Discovery - OpenAI
-- NESS activities for the public – Department of Earth Sciences - uu.se
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - sverigesradio.se
-- Sherry Nakhaeizadeh - uu.se
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
@@ -149,16 +149,16 @@ _Updated: 2026-08-08 10:06_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
-- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Här är världens största jordbruk - ATL
+- Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Jord, kor och klimat - SLU
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - Lantbrukslogik – nu och i framtiden - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
