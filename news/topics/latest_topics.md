@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-08 13:54_
+_Updated: 2026-08-08 15:26_
 
 ## Top Stories
 
-- Efter SD-spelning – bokar av Fröken Snusk - Västerbottens-Kuriren
-- Kommentar: V är märkligt blinda för de egna extremisterna - Göteborgs-Posten
-- SD-ledaren: ”Det pratas väldigt lite om behovet av våra väljare” - Dagens Nyheter
-- Glömde betala pizzan – blev skuldsatt - aftonbladet.se
-- Regeringen vill ha fler fängelseplatser snabbare - Västerbottens-Kuriren
-- Buss har vält i Norge – flera skadade - Omni – Alla nyheter. Alla perspektiv.
-- Man död under rally-SM i Vimmerby - svt.se
-- SMHI utökar vädervarning i Norrbotten - Västerbottens-Kuriren
-- KD föreslår ”mammabonus” i pensionssystemet - Göteborgs-Posten
-- Crosscarts i olycka – ambulanshelikopter på plats - Expressen
-- Minst fyra döda i robotattack mot Kiev - Corren
+- Skärgårdsmordet: Misstänkt på flykt i 33 timmar - Expressen
+- Uppgifter: USA söker ”symbolisk seger” i Iran åt Trump - gp.se
+- Hinnfors om V-krisen: Väljare kan stötas bort - gp.se
+- SD-ledaren: ”Det pratas väldigt lite om behovet av våra väljare” - dn.se
+- Glömde betala pizzan – blev skuldsatt - Aftonbladet
+- Minst tre döda i robotattack mot Kiev - Corren
+- Man död under rally-SM i Vimmerby - SVT Nyheter
+- KD vill ha ”mammabonus” i pensionssystemet - Nya Wermlands-Tidningen
+- Flera crosscarts i olycka: ”Gått in i räcke” - Nya Wermlands-Tidningen
+- Här är de giftiga växterna du bör se upp för - Västerbottens-Kuriren
 - Förenade arabemiraten: Iransk attack mot oljetanker - Västerbottens-Kuriren
-- Många döda i Huthiattacker i Jemen - Göteborgs-Posten
-- Uppgifter: USA söker ”symbolisk seger” i Iran åt Trump - Göteborgs-Posten
-- Amazon bakom enorm gasanläggning för datacenter - Corren
+- Buss har vält i Norge – flera skadade - SVT Nyheter
+- Grönland ger ”skarp varning” till Trump-kopplat oljeprojekt - dn.se
+- Drönare sprängdes nära gasledning i Bulgarien - SVT Nyheter
+- Amazons nya kraftverk kan släppa ut miljoner ton växthusgaser per år - Sydsvenskan
 - Hånades av Wall Street efter kraschen – nu står Silicon Valley i kö - EFN
-- Arvet kommer när det behövs som minst - Dagens Nyheter
-- Femte värmebölja i Storbritannien - aftonbladet.se
-- Forskare upptäcker en dold värld av liv 500 meter under jordens yta – nu väcker fyndet en viktig fråga - Illustrerad Vetenskap
-- Snart solförmörkelse – så skyddar man ögonen - Örebronyheter
+- Stockholmsbörsen avslutar fredagen i moll - Lundin Gold lyfte på rapport (Finwire News) - Aktiellt
+- Svaga jobbsiffror gav bränsle till USA-börsen - Bohusläningen
+- Forskare upptäcker en dold värld av liv 500 meter under jordens yta – nu väcker fyndet en viktig fråga - illvet.se
+- Snart solförmörkelse – så skyddar man ögonen - orebronyheter.com
 
 ## World News
 
@@ -51,10 +51,10 @@ _Updated: 2026-08-08 13:54_
 ## Technology
 
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- I år ska AI visa affärsnytta. Igen. - computersweden.se
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - fuf.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -62,21 +62,21 @@ _Updated: 2026-08-08 13:54_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
-- Nu blir datorerna dyrare – efter prishöjning på minnen - computersweden.se
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - computersweden.se
-- Tiden för billig vibe coding kan vara över - computersweden.se
-- Albanien utser AI-bot till minister - computersweden.se
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - computersweden.se
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
@@ -96,9 +96,9 @@ _Updated: 2026-08-08 13:54_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
+- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - vietnam.vn
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
@@ -106,43 +106,43 @@ _Updated: 2026-08-08 13:54_
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar HealthBench - openai.com
+- Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - gp.se
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - lakartidningen.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
-- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
+- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - vietnam.vn
 
 ## Science
 
-- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
-- Sherry Nakhaeizadeh - Uppsala universitet
-- AI for Scientific Research and Discovery - openai.com
-- Kina drar om USA – bäst på forskning - svt.se
+- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - vietnam.vn
+- NESS activities for the public – Department of Earth Sciences - uu.se
+- Skapar utrymme för forskning, testning och utveckling av ny teknik. - vietnam.vn
+- Sherry Nakhaeizadeh - uu.se
+- AI for Scientific Research and Discovery - OpenAI
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - lakartidningen.se
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - sverigesradio.se
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Olika slutsatser från samma data - lakartidningen.se
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - openai.com
-- 5 myter om öppen vetenskap - Läkartidningen
+- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
+- 5 myter om öppen vetenskap - lakartidningen.se
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
+- Många fallgropar i arbetet att ta fram systematiska översikter - lakartidningen.se
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - lakartidningen.se
 
 ## Jordbruk
 
-- Dien Bien Agriculture: Väcker potential - Ökar värdet: [Del 5]: "Green Stream" välkomnar investerare - Vietnam.vn
+- Dien Bien Agriculture: Väcker potential - Ökar värdet: [Del 5]: "Green Stream" välkomnar investerare - vietnam.vn
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
