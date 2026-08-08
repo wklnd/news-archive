@@ -1,35 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-08 01:59_
+_Updated: 2026-08-08 04:28_
 
 ## Top Stories
 
 - Tyska regeringen i krismöte efter misstänkt drönarattack - Dagens Nyheter
-- Brott mot vilotider på Tjörnfartyget - Västerbottens-Kuriren
-- DN Direkt – Spanien varnar för ”proportionella åtgärder” mot Italien - Dagens Nyheter
+- S vill slopa mängdrabatten för allvarliga brott - vk.se
 - Underrättelsetjänst: Pressad Putin kan testa Natos försvar - Dagens Nyheter
-- Polisen: Brottsligheten under Classic Car Week är ”misär” - Aftonbladet
-- Direkt – Kriget i Ukraina – USA:s kongress röstade ja till sanktionspaket - Dagens Nyheter
-- Efter eldolyckan i Visby – extra säkerhetstänk under medeltidsdagarna i Arboga - SVT Nyheter
-- DN Direkt – Misstänkt mordförsök i Katrineholm - Dagens Nyheter
-- Kvinna påkörd och medvetslös • Drograttfylla vanligare • Spelaren tvingas vila – igen - Nya Wermlands-Tidningen
+- Drygt 4 300 döda i Libanon - Göteborgs-Posten
+- Norsk myndighet: Brott mot vilotid på olycksfartyg – ”Riskerna ökar” - Dagens Nyheter
+- DN Direkt – Spanien varnar för ”proportionella åtgärder” mot Italien - Dagens Nyheter
 - Högsommarvärmen gör comeback i söder - Dagens Nyheter
-- Många döda i Huthiattacker i Jemen - Göteborgs-Posten
-- Taxichaufförer döms efter migrantkrisen i Ceuta - Omni – Alla nyheter. Alla perspektiv.
-- Drygt 4 300 döda i Libanon - Västerbottens-Kuriren
+- Åklagaren i Brattåsfallet: ”Bevisläget är gott” - vk.se
+- Det är då som den stora valspurten rullar in - Altinget.se
+- Misstänks för mordet i skärgården – häktas av Nacka tingsrätt - SVT Nyheter
+- Colombia har ny president - vk.se
 - Klart: Nytt försvarssamarbete för Saudiarabien - Göteborgs-Posten
-- Affärsvärlden landar i neutralt råd för Yubico - Affärsvärlden
-- Stockholmsbörsen tog helg svagt nedåt - Västerbottens-Kuriren
-- DN Direkt – Svaga jobbsiffror gav bränsle till USA-börsen - Dagens Nyheter
-- Breda uppgångar i Europa med tech i täten - EFN
+- Domstol pausar Trumps bygge av balsal - Corren
+- Många döda i Huthiattacker i Jemen - Göteborgs-Posten
+- Kommentar till Svensk Mäklarstatistik: Semesterlugnet dämpade bostadsrättspriserna – villapriserna steg - Mynewsdesk
+- Köpstämpel på Yubico – banken höjer riktkursen kraftigt - EFN
+- Svaga jobbsiffror gav bränsle till USA-börsen - vk.se
+- Stockholmsbörsen avslutade veckan nedåt - Affärsvärlden
 - Se upp men försiktigt - dags för solförmörkelse - Västgöta-Bladet
-- Massuppsägningar väntar på EA efter uppköpet - m3.se
+- Uppgift: Det här blir priset på Open AI:s smarta högtalare - nyteknik
 
 ## World News
 
 - World Cup: First win for Svensk, Aebersold dominates women’s class - International Orienteering Federation
 - England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
@@ -37,7 +37,8 @@ _Updated: 2026-08-08 01:59_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Radisson satsar stort på långtidsboende globalt - travelnews-se
+- Radisson satsar stort på långtidsboende globalt - travelnews.se
+- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Visual Art köper Global Agencies - Dagens Media
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
@@ -45,8 +46,7 @@ _Updated: 2026-08-08 01:59_
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
 - Murdoch ber om ursäkt för avlyssning - Blekinge Läns Tidning
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Ulrika Jonsson stämmer News of the World - sydsvenskan.se
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- Ulrika Jonsson stämmer News of the World - Sydsvenskan
 
 ## Technology
 
@@ -64,7 +64,7 @@ _Updated: 2026-08-08 01:59_
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
@@ -75,16 +75,15 @@ _Updated: 2026-08-08 01:59_
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
@@ -93,12 +92,13 @@ _Updated: 2026-08-08 01:59_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
@@ -106,21 +106,21 @@ _Updated: 2026-08-08 01:59_
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar HealthBench - openai.com
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
+- Vi presenterar HealthBench - OpenAI
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
+- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
 
 ## Science
 
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
-- AI for Scientific Research and Discovery - openai.com
+- AI for Scientific Research and Discovery - OpenAI
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
@@ -131,13 +131,13 @@ _Updated: 2026-08-08 01:59_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - openai.com
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - 5 myter om öppen vetenskap - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
@@ -150,10 +150,10 @@ _Updated: 2026-08-08 01:59_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - atl.nu
+- Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Så ska det australiensiska jordbruket bli hållbart - atl.nu
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
