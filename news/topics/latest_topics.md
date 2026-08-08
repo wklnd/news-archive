@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-08 12:03_
+_Updated: 2026-08-08 13:01_
 
 ## Top Stories
 
 - Kommentar: V är märkligt blinda för de egna extremisterna - Göteborgs-Posten
-- Kritik mot KD:s mammabonus: Straffa inte studier - vk.se
+- Regeringen vill ha fler fängelseplatser snabbare - Västerbottens-Kuriren
 - Glömde betala pizzan – blev skuldsatt - Aftonbladet
+- DN Direkt – Todd Blanche godkänd som justitieminister i USA - Dagens Nyheter
+- Kritik mot KD:s mammabonus: Straffa inte studier - Corren
 - Minst tre döda i robotattack mot Kiev - Corren
-- DN Direkt – Bidens cancer har spridit sig till skelettet - dn.se
-- Just nu: Rådjur på fel sida av viltstängslet på E4 - UNT
-- Elspark och fotgängare krockade – båda till sjukhus - SVT Nyheter
-- Crosskarts i olycka – helikopter rycker ut - Aftonbladet
-- Här är de giftiga växterna du bör se upp för - vk.se
+- SMHI: Varning för översvämningar i Norrbotten - SVT Nyheter
+- Crosscarts i olycka – ambulanshelikopter på plats - Expressen
 - Brandfarlig vätska kastades in i trapphus - Sveriges Radio
-- Jemenitisk militär: Åtta döda i attack – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Lånebok återlämnad efter 150 år - dn.se
+- Här är de giftiga växterna du bör se upp för - Västerbottens-Kuriren
+- Lånebok återlämnad efter 150 år - Dagens Nyheter
+- Många döda i Huthiattacker i Jemen - Göteborgs-Posten
 - Uppgifter: USA söker ”symbolisk seger” i Iran åt Trump - Göteborgs-Posten
-- Han fick fota sex miljoner antiloper: ”Makalöst” - Sveriges Radio
-- Arvet kommer när det behövs som minst - dn.se
+- Drygt 4 300 döda i Libanon - Västerbottens-Kuriren
+- Arvet kommer när det behövs som minst - Dagens Nyheter
 - Preventivmedlet: ”Fem år till börsen – eller uppköp” - Affärsvärlden
-- ”Fick panikångestattack av att köpa bär” - Svenska Dagbladet
-- Affärsvärlden landar i neutralt råd för Yubico (Finwire News) - Aktiellt
-- Då kan du se sällsynta solförmörkelsen - Nya Wermlands-Tidningen
-- Uppgift: Det här blir priset på Open AI:s smarta högtalare - nyteknik.se
+- Svaga jobbsiffror från USA – så påverkas svensk ekonomi - Sveriges Radio
+- Stockholmsbörsen tog helg svagt nedåt - Västerbottens-Kuriren
+- Forskare upptäcker en dold värld av liv 500 meter under jordens yta – nu väcker fyndet en viktig fråga - Illustrerad Vetenskap
+- Snart solförmörkelse – så skyddar man ögonen - Örebronyheter
 
 ## World News
 
-- World Cup: First win for Svensk, Aebersold dominates women’s class - orienteering.sport
+- World Cup: First win for Svensk, Aebersold dominates women’s class - International Orienteering Federation
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - bbc.com
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Radisson satsar stort på långtidsboende globalt - travelnews-se
+- Radisson satsar stort på långtidsboende globalt - travelnews.se
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
-- 1 426 potential victims identified in global operation against human trafficking - europol.europa.eu
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Etraveli rusar – 175 miljarder och global styrka - travelnews.se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Intervision 2025 - Russia hosts Putin's answer to Eurovision - bbc.com
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- Intervision 2025 - Russia hosts Putin's answer to Eurovision - BBC
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
 
 ## Technology
 
@@ -77,9 +77,9 @@ _Updated: 2026-08-08 12:03_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Four European takes on open banking - Mastercard Data and Services - mastercard.com
+- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Finansinspektionen varnar för finansbedragare - tv4.se
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Vilken framtid arbetar du för? - EY
@@ -99,10 +99,10 @@ _Updated: 2026-08-08 12:03_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
-- Låt oss prata hälsa – Intensivvård – Segment 1 - apollohospitals.com
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Sju life science-trender 2026 - Business Region Göteborg
-- firar 15 år av att skydda den globala hälsosektorn - health-isac.org
+- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
@@ -110,12 +110,12 @@ _Updated: 2026-08-08 12:03_
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - di.se
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
-- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
 
 ## Science
 
