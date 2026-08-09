@@ -1,41 +1,41 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-09 21:58_
+_Updated: 2026-08-09 23:02_
 
 ## Top Stories
 
+- Trump: Vi har en dämpad taktik mot Iran - Västerbottens-Kuriren
+- Trump: Ny taktik mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Tre skadade i dansk skottlossning - Dagens Nyheter
-- Skogsbrand söder om Stockholm släckt - Västerbottens-Kuriren
-- Efter kritiken – L vill se över abortlagen - Svenska Dagbladet
-- Tidigare statsministern kampanjar för S – ska dra röster i Norrland - TV4 Nyheterna
+- L vill se över abortlagen: ”Inte mer än en vecka” - Svenska Dagbladet
 - Amerikanskt oljebolag förbereder borrning på Grönland – utan tillstånd - Göteborgs-Posten
-- Netanyahu trotsar Trump: ”Ligger illa till” - Aftonbladet
+- Skogsbrand i Kolartorp – helikoptrar hjälpte till i släckningen - Sveriges Radio
 - Skogsbrand i skärgården - SVT Nyheter
 - Andersson om V-samarbete: ”Behöver göra en rejäl resa” - Dagens Nyheter
 - Rådjur på fel sida viltstängslet på E18 - Enköpingsposten
-- S lovar extra barnbidrag inför jul- och sommarlov - Göteborgs-Posten
-- Trump: Vi har en dämpad taktik mot Iran - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – Ryska attacker mot Odessa och Charkiv - Dagens Nyheter
+- S lovar extra barnbidrag inför jul- och sommarlov - Corren
 - Misstänkt irländsk gangsterboss utlämnad - Västerbottens-Kuriren
-- Zelenskyj: Nordkorea skickar uppemot 50 000 soldater - Dagens Nyheter
-- Chefsekonom: För tidigt att ropa återhämtning – ”jokrar” kan störa - Tidningen Näringslivet
+- Sverige pekas ut som Nordens underrättelsenav – en av Europas främsta - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Ryska attacker mot Odessa och Charkiv - Dagens Nyheter
+- Ovanliga sköldpaddan har vilat upp sig – ska flygas 800 mil - Dagens Nyheter
 - Därför kan matpriserna bli högre igen - Nya Wermlands-Tidningen
+- Chefsekonom: För tidigt att ropa återhämtning – ”jokrar” kan störa - Tidningen Näringslivet
 - Toppanalytikerna: Tre aktier med stor uppsida - Dagens industri
 - Cowboyhattar, godis och karuseller – solig folkfest på Höörs marknad - Skånska Dagbladet
 - Universum är fullt av explosioner - Illustrerad Vetenskap
-- Dansbandspedofilens liv i fängelset – fyndet i cellen - Expressen
+- Solförmörkelse på onsdag – så ser du den säkert - Sveriges Radio
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på ikväll 18:00 - tv.nu
 - World Cup: First win for Svensk, Aebersold dominates women’s class - International Orienteering Federation
-- Radisson satsar stort på långtidsboende globalt - travelnews-se
+- Radisson satsar stort på långtidsboende globalt - travelnews.se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - media.smart.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
@@ -45,31 +45,31 @@ _Updated: 2026-08-09 21:58_
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Global Reseskydd erbjuder hemresegaranti - travelnews-se
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Global Reseskydd erbjuder hemresegaranti - travelnews.se
 
 ## Technology
 
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- I år ska AI visa affärsnytta. Igen. - computersweden.se
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Artificial intelligence in enterprises 2025 - scb.se
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - xpert.digital
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
-- Nu blir datorerna dyrare – efter prishöjning på minnen - computersweden.se
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - computersweden.se
-- Tiden för billig vibe coding kan vara över - computersweden.se
-- Albanien utser AI-bot till minister - computersweden.se
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - computersweden.se
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -98,7 +98,7 @@ _Updated: 2026-08-09 21:58_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - vietnam.vn
+- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
@@ -119,9 +119,9 @@ _Updated: 2026-08-09 21:58_
 
 ## Science
 
-- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - vietnam.vn
+- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- KIST - Hai Phong-teknikbron: Från forskning till praktisk tillämpning - vietnam.vn
+- KIST - Hai Phong-teknikbron: Från forskning till praktisk tillämpning - Vietnam.vn
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -146,7 +146,7 @@ _Updated: 2026-08-09 21:58_
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - naturvardsverket.se
+- Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
