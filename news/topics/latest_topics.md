@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-09 16:07_
+_Updated: 2026-08-09 17:01_
 
 ## Top Stories
 
-- S lovar extra barnbidrag inför jul- och sommarlov - SVT Nyheter
-- Netanyahu nobbar Gaza-reträtt - Västerbottens-Kuriren
-- Barn har dött efter olycka med traktor i Svenljunga - Sveriges Radio
-- Huthier hävdar attack mot saudiskt raffinaderi - Västerbottens-Kuriren
-- Jakt på gärningsperson efter skott i Huddinge - Göteborgs-Posten
+- Skogsbrand i Haninge – polisen stoppar privata drönare - Expressen
+- Netanyahu avfärdar Trumps Gazaförslag – Senaste nytt om kriget i Gaza - SVT Nyheter
+- S lovar extra barnbidrag inför jul- och sommarlov - Göteborgs-Posten
+- Varnar för ”jokrar” i ekonomin: ”Uppåtrisk” - Svenska Dagbladet
 - Sex amerikaner dog under hemliga uppdraget – på väg mot Göteborg - Göteborgs-Posten
-- Skogsbrand rasar söder om Stockholm - Västerbottens-Kuriren
-- Dykarna hittade den avlidna kvinnan efter Tjörnolyckan: ”Man vill få ett avslut” - Dagens Nyheter
-- Narkotikasmugglingen med tåg väntas öka - Expressen
-- Svårt skadad man hittad vid sjukhuset i Uddevalla - SVT Nyheter
+- Massevakuering när Tyfonen Dolphin drabbar Kina - Aftonbladet
+- Ufo-experten om ”spökraketerna”: Genuint gåtfullt - Svenska Dagbladet
+- Allvarligt skadad man hittad på väg i Uddevalla - Göteborgs-Posten
+- Kristersson vädjar till S om mängdrabatten – Senaste nytt om valet 2026 - SVT Nyheter
+- Skottlossning i Trångsund - Västerbottens-Kuriren
 - Zelenskyj: Nordkorea skickar uppemot 50 000 soldater - Dagens Nyheter
-- DN Direkt – S lovar extra barnbidrag inför jul- och sommarlov - Dagens Nyheter
 - Ryssland: Tre döda efter ukrainsk drönarattack - Västerbottens-Kuriren
 - Så spårar Israel terroristerna bakom attacken 7 oktober - Dagens Nyheter
+- Huthier hävdar attack mot saudiskt raffinaderi - Västerbottens-Kuriren
+- Arvet kommer för sent – pengarna behövdes för 30 år sedan - News55
 - Därför kan matpriserna bli högre igen - Nya Wermlands-Tidningen
+- Smarta dubbar, utfällbar husvagn och Audis comeback - Dagens PS
 - Stockholmsbörsen tog helg svagt nedåt - Västerbottens-Kuriren
-- AI skapade falska identiteter för att lura människor - Göteborgs-Posten
-- Brutna sviter och rapportras på ljusröd börs i USA - EFN
 - Missen på Jonna Lundells möhippa: ”Helvetet brakade lös” - Expressen
 - Dansbandspedofilens liv i fängelset – fyndet i cellen - Expressen
 
@@ -42,11 +42,11 @@ _Updated: 2026-08-09 16:07_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- New communications project on China’s global “Belt and Road Initiative” - ui.se
+- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global Reseskydd erbjuder hemresegaranti - travelnews-se
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 
 ## Technology
 
@@ -61,7 +61,7 @@ _Updated: 2026-08-09 16:07_
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - xpert.digital
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
@@ -76,12 +76,12 @@ _Updated: 2026-08-09 16:07_
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Finansinspektionen varnar för finansbedragare - tv4.se
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - finanstid.se
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
@@ -103,7 +103,7 @@ _Updated: 2026-08-09 16:07_
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
-- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- firar 15 år av att skydda den globala hälsosektorn - health-isac.org
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
@@ -126,7 +126,7 @@ _Updated: 2026-08-09 16:07_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Täta band mellan turism och forskning på Svalbard - SLU
+- Täta band mellan turism och forskning på Svalbard - slu.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
@@ -142,7 +142,8 @@ _Updated: 2026-08-09 16:07_
 
 ## Jordbruk
 
-- Sveriges förändrade lantbruk - SLU
+- Dien Bien Agriculture: Väcker potential - Ökar värdet: [Del 5]: "Green Stream" välkomnar investerare - Vietnam.vn
+- Sveriges förändrade lantbruk - slu.se
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
@@ -150,15 +151,14 @@ _Updated: 2026-08-09 16:07_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Jord, kor och klimat - SLU
+- Jord, kor och klimat - slu.se
 - Visning av uppkomst efter direktsådd - Land.se
-- Lantbrukslogik – nu och i framtiden - SLU
+- Lantbrukslogik – nu och i framtiden - slu.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Kan agroekologi mätta världen? - SLU
+- Kan agroekologi mätta världen? - slu.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
