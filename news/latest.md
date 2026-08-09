@@ -1,20 +1,20 @@
 # Top News Headlines
 
-_Updated: 2026-08-09 16:18_
+_Updated: 2026-08-09 17:05_
 
-- Israel rejects Trump's 15-point plan for Gaza, Netanyahu says - BBC
-- Iran sets out steep demands for reopening Hormuz despite hopes Oman deal could break impasse - NBC News
+- Iran says Oman deal is in 'final stages' but US must act to open Hormuz - Reuters
+- Israel rejects Trump’s 15-point plan for Gaza, Netanyahu says - NBC News
 - Dems blast Blanche as enabler of ‘Trump’s corruption’ after AG confirmation - The Hill
 - Houthis claim attacks on Saudi Arabian oil facility and Yemeni port, and other Mideast news - AP News
-- Woman and baby die after boat capsizes in New York Harbor - CNN
+- Trump and the GOP have a new bogeyman - Politico
 - Haunted by Hoover, Trump searches for an endgame in Iran - NPR
-- As fires devastate Spokane, suspect Aaron Farinucci’s troubled history comes into focus - NBC News
-- Obama and El-Sayed Spoke to Discuss Unity After Ugly Michigan Primary - The New York Times
-- Hunter Biden says his father's cancer has spread: "It's very painful and it's very debilitating" - CBS News
-- Naked champion swimmer accused of beating security guard to death with water bottle at Hawaiian resort - New York Post
-- Bulgaria, Germany drone incidents raise security fears amid Ukraine war - Al Jazeera
-- Roman shipwreck discovered off the coast of Sicily, Italy laden with ancient jars believed to be more than 2,000 years old - CBS News
-- Organised crime suspect Daniel Kinahan extradited from Dubai - Financial Times
+- Woman and baby are dead after boat capsizes near Statue of Liberty - NBC News
+- Nagasaki marks 81st atomic bomb anniversary as mayor says nuclear deterrence only increases risk - AP News
+- Rep. Ed Case defeats progressive primary challenger in Hawaii's 1st District - CBS News
+- Hunter Biden says Joe Biden's cancer has spread more and is 'very painful' - USA Today
+- Ancient Roman shipwreck discovered off Sicily coast - BBC
+- Syria and Russia reach deal on future of Tartous and Hmeimim bases after 18 months of talks - Reuters
+- UAE extradites alleged Irish crime gang boss Daniel Kinahan - CNN
 - China Issues Red Alert, Airports Cancel Flights as Typhoon Nears - Bloomberg.com
 - Abel puts a big chunk of Berkshire's cash to work - CNBC
 - How A Side Hustle Led To A Second Marriage And $2 Billion Fortune - Forbes
