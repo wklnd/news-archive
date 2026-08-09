@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-09 14:01_
+_Updated: 2026-08-09 15:35_
 
-- British Columbia wildfire forces more than 20,000 to flee, destroys homes - Al Jazeera
-- Canada Offers U.S. Concessions in Trade Talks but Demands a Comprehensive Deal - The New York Times
-- Iran says Strait of Hormuz will remain closed until US meets six demands - The Independent
-- Iran makes new strait demands, UAE says ship was targeted by Iranian missile - MS NOW
-- Residents who remained in Okanagan wildfire evacuation zone need to leave, officials say - globalnews.ca
-- Downtown Winnipeg restaurant burns for 3rd time since last fall, is demolished - CBC
-- Severe thunderstorm watch lifted in Toronto area following threat of damaging winds, large hail - Toronto Star
-- Taste of the Danforth draws huge crowds despite safety fears - CityNews Toronto
-- Man, 62, struck by TTC streetcar downtown dies in hospital - ctvnews.ca
-- Ontario town declares state of emergency as heavy rain floods roads - globalnews.ca
-- Hunter Biden says his father's prostate cancer is causing him pain even as he continues to speak out - ctvnews.ca
-- US immigration agency will finish body camera rollout this month, ICE leader says - Reuters
-- US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown - The Guardian
-- Trump’s former personal lawyer narrowly confirmed as US attorney general - Al Jazeera
-- Ottawa’s trade concessions with U.S., unemployment rate hits two-year low and the 100 best cities for renters: Must-read business and investing stories - The Globe and Mail
-- No seatbelt, no flight: Young child refuses to sit and buckle up, Toronto-bound Porter flight cancelled - Toronto Star
-- U.S. booze might end up back on Canadian shelves, but have we lost the taste for it? - Yahoo News Canada
-- Winnipeg family out $10K after Europe vacation derailed by WestJet’s pre-emptive cancellation - ctvnews.ca
-- Stripe Uses Graph Search and State Machines to Automate Database Remediation - infoq.com
-- Setting an alarm or keeping their own phones off - how do parents tackle summer screen time? - Yahoo Lifestyle Canada
+- Israel rejects Trump's 15-point plan for Gaza, Netanyahu says - bbc.com
+- Iran says deal with Oman is close — but its demands leave Hormuz opening uncertain - The Washington Post
+- Dems blast Blanche as enabler of ‘Trump’s corruption’ after AG confirmation - The Hill
+- Yemen’s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news - AP News
+- Iran-US war latest: Trump’s military chiefs ‘push to speed up weapons production’ amid Hormuz deal deadlock - The Independent
+- Nagasaki marks 81st atomic bomb anniversary as mayor says nuclear deterrence only increases risk - AP News
+- Woman and baby die after boat capsizes in New York Harbor - CNN
+- Spokane-area fires hold steady as crews face second day of red flag conditions - KOMO
+- Hunter Biden Says His Father’s Cancer Is Worsening - The New York Times
+- Trump posts examples of alleged Reflecting Pool vandalism amid push for Pirro to revisit decision - The Hill
+- Roman shipwreck discovered off the coast of Sicily, Italy laden with ancient jars believed to be more than 2,000 years old - CBS News
+- Organised crime suspect Daniel Kinahan extradited from Dubai - Financial Times
+- China Issues Red Alert, Airports Cancel Flights as Typhoon Nears - Bloomberg.com
+- Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia - The New York Times
+- Warren Buffett's successor is finally spending the huge cash pile he built at Berkshire Hathaway - Business Insider
+- Markets Rally on Surprise U.S. Job Losses, Airbnb Soars and Trade Desk Tanks | Markets P.M. for Aug. 7 - WSJ
+- China’s monthly inflation cools as impact from Iran war eases - Financial Times
+- After 66 years, Portlanders say goodbye to the Lloyd Center, old and new - OregonLive.com
+- iPhone Ultra colors: New leak reveals silver and dark blue - 9to5Mac
+- Google Pixel 11: Every rumor, leak, and teaser before Made By Google - Mashable
