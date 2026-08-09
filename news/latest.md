@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-09 13:05_
+_Updated: 2026-08-09 14:01_
 
-- Iran says deal on Strait of Hormuz is close but not enough to open the waterway - reuters.com
-- Todd Blanche narrowly confirmed as Trump's attorney general in overnight vote - PBS
-- 'It's apocalyptic.' A look at the aftermath of catastrophic fires in Spokane - KUOW
-- Hunter Biden says his father's cancer has spread: "It's very painful and it's very debilitating" - CBS News
-- Rep. Ed Case Holds Onto His Congressional Seat In A Landslide - Honolulu Civil Beat
-- Pentagon presses defense firms to build weapons as Iran war depletes stocks - The Washington Post
-- Woman and baby die after vessel overturns in New York harbor - CNN
-- GOP may be stuck with Rep. Max Miller in Ohio - Axios
-- Helicopter crash kills pilot and crew member amid Utah wildfire battle - Al Jazeera
-- Haitian pregnant woman in Florida fears deportation as TPS ends: "I've been in this country most of my life" - CBS News
-- Yemen’s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news - AP News
-- Bulgaria, Germany drone incidents raise security fears amid Ukraine war - Al Jazeera
-- The Wild History of the Russian Online Retail Giant Being Bombarded by Ukraine - WSJ
-- How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan - The New York Times
-- Warren Buffett's successor is finally spending the huge cash pile he built at Berkshire Hathaway - businessinsider.com
-- China’s monthly inflation cools as impact from Iran war eases - Financial Times
-- After 66 years, Portlanders say goodbye to the Lloyd Center, old and new - OregonLive.com
-- Some meat products containing jalapeños may be linked to salmonella outbreak, USDA says - CBS News
-- Google Pixel 11: Every rumor, leak, and teaser before Made By Google - Mashable
-- Does the Galaxy Z Fold 8 owe its success to the iPhone Ultra? - PhoneArena
+- British Columbia wildfire forces more than 20,000 to flee, destroys homes - Al Jazeera
+- Canada Offers U.S. Concessions in Trade Talks but Demands a Comprehensive Deal - The New York Times
+- Iran says Strait of Hormuz will remain closed until US meets six demands - The Independent
+- Iran makes new strait demands, UAE says ship was targeted by Iranian missile - MS NOW
+- Residents who remained in Okanagan wildfire evacuation zone need to leave, officials say - globalnews.ca
+- Downtown Winnipeg restaurant burns for 3rd time since last fall, is demolished - CBC
+- Severe thunderstorm watch lifted in Toronto area following threat of damaging winds, large hail - Toronto Star
+- Taste of the Danforth draws huge crowds despite safety fears - CityNews Toronto
+- Man, 62, struck by TTC streetcar downtown dies in hospital - ctvnews.ca
+- Ontario town declares state of emergency as heavy rain floods roads - globalnews.ca
+- Hunter Biden says his father's prostate cancer is causing him pain even as he continues to speak out - ctvnews.ca
+- US immigration agency will finish body camera rollout this month, ICE leader says - Reuters
+- US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown - The Guardian
+- Trump’s former personal lawyer narrowly confirmed as US attorney general - Al Jazeera
+- Ottawa’s trade concessions with U.S., unemployment rate hits two-year low and the 100 best cities for renters: Must-read business and investing stories - The Globe and Mail
+- No seatbelt, no flight: Young child refuses to sit and buckle up, Toronto-bound Porter flight cancelled - Toronto Star
+- U.S. booze might end up back on Canadian shelves, but have we lost the taste for it? - Yahoo News Canada
+- Winnipeg family out $10K after Europe vacation derailed by WestJet’s pre-emptive cancellation - ctvnews.ca
+- Stripe Uses Graph Search and State Machines to Automate Database Remediation - infoq.com
+- Setting an alarm or keeping their own phones off - how do parents tackle summer screen time? - Yahoo Lifestyle Canada
