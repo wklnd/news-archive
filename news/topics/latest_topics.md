@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-09 21:11_
+_Updated: 2026-08-09 21:58_
 
 ## Top Stories
 
-- Flera skjutna i Danmark - Aftonbladet
-- Löfven ska locka S-röster i norr - Västerbottens-Kuriren
+- Tre skadade i dansk skottlossning - Dagens Nyheter
+- Skogsbrand söder om Stockholm släckt - Västerbottens-Kuriren
 - Efter kritiken – L vill se över abortlagen - Svenska Dagbladet
-- Skogsbrand söder om Stockholm släckt - Göteborgs-Posten
-- Expert: ”Sydeuropa går mot fler och värre värmeböljor - Sveriges Radio
+- Tidigare statsministern kampanjar för S – ska dra röster i Norrland - TV4 Nyheterna
+- Amerikanskt oljebolag förbereder borrning på Grönland – utan tillstånd - Göteborgs-Posten
+- Netanyahu trotsar Trump: ”Ligger illa till” - Aftonbladet
+- Skogsbrand i skärgården - SVT Nyheter
 - Andersson om V-samarbete: ”Behöver göra en rejäl resa” - Dagens Nyheter
-- Aktiv skogsbrand i skärgården - SVT Nyheter
-- Pianist blev sjuk och fick sluta spela – då kom grannen med uppfinning - Dagens Nyheter
 - Rådjur på fel sida viltstängslet på E18 - Enköpingsposten
 - S lovar extra barnbidrag inför jul- och sommarlov - Göteborgs-Posten
+- Trump: Vi har en dämpad taktik mot Iran - Västerbottens-Kuriren
 - Direkt – Kriget i Ukraina – Ryska attacker mot Odessa och Charkiv - Dagens Nyheter
-- Zelenskyj: Tiotusentals nordkoreaner på väg - Västerbottens-Kuriren
-- Estland går vidare med kärnkraft nära ryska gränsen - Sveriges Radio
-- Direkt – Krisen i Mellanöstern – Iran: Avtal om Hormuzsundet nära - Dagens Nyheter
+- Misstänkt irländsk gangsterboss utlämnad - Västerbottens-Kuriren
+- Zelenskyj: Nordkorea skickar uppemot 50 000 soldater - Dagens Nyheter
 - Chefsekonom: För tidigt att ropa återhämtning – ”jokrar” kan störa - Tidningen Näringslivet
 - Därför kan matpriserna bli högre igen - Nya Wermlands-Tidningen
-- Toppanalytikerna: Tre aktier med stor uppsida - di.se
+- Toppanalytikerna: Tre aktier med stor uppsida - Dagens industri
 - Cowboyhattar, godis och karuseller – solig folkfest på Höörs marknad - Skånska Dagbladet
 - Universum är fullt av explosioner - Illustrerad Vetenskap
 - Dansbandspedofilens liv i fängelset – fyndet i cellen - Expressen
@@ -33,9 +33,9 @@ _Updated: 2026-08-09 21:11_
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- England defender Bronze backs UEFA in standoff with FIFA and Infantino - reuters.com
+- England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - media.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
@@ -51,9 +51,9 @@ _Updated: 2026-08-09 21:11_
 ## Technology
 
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - computersweden.se
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
@@ -61,15 +61,15 @@ _Updated: 2026-08-09 21:11_
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - xpert.digital
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - computersweden.se
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - computersweden.se
+- Tiden för billig vibe coding kan vara över - computersweden.se
+- Albanien utser AI-bot till minister - computersweden.se
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - computersweden.se
 
 ## Business
 
@@ -77,7 +77,7 @@ _Updated: 2026-08-09 21:11_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Four European takes on open banking - Mastercard Data and Services - mastercard.com
+- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
@@ -96,7 +96,7 @@ _Updated: 2026-08-09 21:11_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - vietnam.vn
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
@@ -108,11 +108,11 @@ _Updated: 2026-08-09 21:11_
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar HealthBench - openai.com
+- Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - di.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
@@ -126,7 +126,7 @@ _Updated: 2026-08-09 21:11_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- AI för vetenskaplig forskning och upptäckter - openai.com
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
@@ -145,7 +145,7 @@ _Updated: 2026-08-09 21:11_
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Brittiska bönder i massiv protest mot arvsskatten - ja.se
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - naturvardsverket.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
