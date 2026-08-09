@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-09 17:58_
+_Updated: 2026-08-09 19:59_
 
 ## Top Stories
 
 - Skogsbrand i Haninge – polisen stoppar privata drönare - Expressen
-- Netanyahu avfärdar Trumps Gazaförslag – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Löfven ska locka S-röster i norr - Västerbottens-Kuriren
-- Prästen rycker ut till bygden efter dödsolyckan - Aftonbladet
-- Sex amerikaner dog under hemliga uppdraget – på väg mot Göteborg - Göteborgs-Posten
-- Plåtjättens comeback – här är nya hemmet - Göteborgs-Posten
+- Tre skadade i dansk skottlossning - Dagens Nyheter
+- Expert: ”Sydeuropa går mot fler och värre värmeböljor - Sveriges Radio
+- Andersson om V-samarbete: ”Behöver göra en rejäl resa” - Dagens Nyheter
+- Plåtjättens comeback – här är nya hemmet - gp.se
 - Ufo-experten om ”spökraketerna”: Genuint gåtfullt - Svenska Dagbladet
-- Allvarligt skadad man hittad på väg i Uddevalla - Göteborgs-Posten
-- S lovar extra barnbidrag inför jul- och sommarlov - Corren
-- Kristersson vädjar till S om mängdrabatten – Senaste nytt om valet 2026 - SVT Nyheter
+- Aktiv skogsbrand i skärgården - SVT Nyheter
+- Pianist blev sjuk och fick sluta spela – då kom grannen med uppfinning - Dagens Nyheter
+- Stopp på väg 55 på grund av olycka med flera personbilar - UNT
 - Zelenskyj: Nordkorea skickar uppemot 50 000 soldater - Dagens Nyheter
 - Ryssland: Tre döda efter ukrainsk drönarattack - Västerbottens-Kuriren
-- DN Direkt – S lovar extra barnbidrag inför jul- och sommarlov - Dagens Nyheter
+- Estland går vidare med kärnkraft nära ryska gränsen - Sveriges Radio
 - Så spårar Israel terroristerna bakom attacken 7 oktober - Dagens Nyheter
-- Arvet kommer för sent – pengarna behövdes för 30 år sedan - News55
+- Chefsekonom: För tidigt att ropa återhämtning – ”jokrar” kan störa - Tidningen Näringslivet
 - Därför kan matpriserna bli högre igen - Nya Wermlands-Tidningen
-- Smarta dubbar, utfällbar husvagn och Audis comeback - Dagens PS
-- Cowboyhattar, godis och karuseller – solig folkfest på Höörs marknad - Skånska Dagbladet
+- Arvet kommer för sent – pengarna behövdes för 30 år sedan - News55
+- Toppanalytikerna: Tre aktier med stor uppsida - Dagens industri
+- Universum är fullt av explosioner - Illustrerad Vetenskap
 - Missen på Jonna Lundells möhippa: ”Helvetet brakade lös” - Expressen
-- Dansbandspedofilens liv i fängelset – fyndet i cellen - Expressen
 
 ## World News
 
@@ -37,12 +37,12 @@ _Updated: 2026-08-09 17:58_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - via.tt.se
+- New communications project on China’s global “Belt and Road Initiative” - ui.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global Reseskydd erbjuder hemresegaranti - travelnews-se
@@ -50,7 +50,7 @@ _Updated: 2026-08-09 17:58_
 
 ## Technology
 
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - nyheter.ki.se
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -58,8 +58,8 @@ _Updated: 2026-08-09 17:58_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - swedbank-aktiellt.se
+- AI Sweden gathering forces to lead the development of edge learning - via.tt.se
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -79,7 +79,7 @@ _Updated: 2026-08-09 17:58_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - finanstid.se
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -96,58 +96,58 @@ _Updated: 2026-08-09 17:58_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Sju life science-trender 2026 - Business Region Göteborg
-- firar 15 år av att skydda den globala hälsosektorn - health-isac.org
+- Sju life science-trender 2026 - businessregiongoteborg.se
+- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
+- Örebro University’s first specialist physicians are now contributing to national healthcare - via.tt.se
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar HealthBench - openai.com
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - nyheter.ki.se
+- Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - gp.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - nyheter.ki.se
+- Mycket tidig medicinsk abort är effektivt och säkert - nyheter.ki.se
 
 ## Science
 
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
+- KIST - Hai Phong-teknikbron: Från forskning till praktisk tillämpning - Vietnam.vn
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- AI för vetenskaplig forskning och upptäckter - openai.com
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - sverigesradio.se
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Cell- och genterapi - från science fiction till sjukhussal - nyheter.ki.se
 - Olika slutsatser från samma data - Läkartidningen
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - nyheter.ki.se
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 
 ## Jordbruk
 
 - Dien Bien Agriculture: Väcker potential - Ökar värdet: [Del 5]: "Green Stream" välkomnar investerare - Vietnam.vn
 - Sveriges förändrade lantbruk - SLU
-- Framtidens jordbruk - commission.europa.eu
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - Naturvårdsverket
+- Jordbrukspolitik - naturvardsverket.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
