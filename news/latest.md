@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-09 18:02_
+_Updated: 2026-08-09 19:11_
 
-- Iran sets out steep demands for reopening Hormuz despite hopes Oman deal could break impasse - nbcnews.com
-- Israel Rejects Trump’s 15-Point Plan to Disarm Hamas - The New York Times
-- Dems blast Blanche as enabler of ‘Trump’s corruption’ after AG confirmation - thehill.com
+- Iran sets out steep demands for reopening Hormuz despite hopes Oman deal could break impasse - NBC News
+- Israel Rejects Trump’s 15-Point Plan to Disarm Hamas - nytimes.com
+- Blanche as AG faces pressure from Trump, skeptical courts, low staff morale - The Washington Post
 - Houthis claim attacks on Saudi Arabian oil facility and Yemeni port, and other Mideast news - AP News
-- Haunted by Hoover, Trump searches for an endgame in Iran - NPR
-- Trump posts examples of alleged Reflecting Pool vandalism amid push for Pirro to revisit decision - thehill.com
-- Woman and baby are dead after boat capsizes near Statue of Liberty - nbcnews.com
+- Man arrested after boat capsizes near Statue of Liberty killing woman and infant - BBC
+- ‘Voters are fed up’: Michigan primary forces Democratic party to accept leftwing shift - The Guardian
+- South Carolina’s Senate race tests Trump — again - Politico
+- Sen. Bernie Sanders calls on Democratic leaders to end "corrupt system" of super PAC donations - CBS News
 - Nagasaki marks 81st atomic bomb anniversary as mayor says nuclear deterrence only increases risk - AP News
-- Obama and El-Sayed Spoke to Discuss Unity After Ugly Michigan Primary - The New York Times
-- Rep. Ed Case defeats progressive primary challenger in Hawaii's 1st District - CBS News
-- UAE extradites alleged Irish crime gang boss Daniel Kinahan - CNN
-- Syria Agrees to Reorganized Russian Military Presence - The New York Times
+- Hunter Biden Says His Father’s Cancer Is Worsening - nytimes.com
+- Syria says it reached deal with Moscow on future of Russian bases - Al Jazeera
 - Ancient Roman shipwreck discovered off Sicily coast - BBC
+- UAE extradites alleged Irish crime gang boss Daniel Kinahan - cnn.com
 - China Issues Red Alert, Airports Cancel Flights as Typhoon Nears - Bloomberg.com
-- Winning Powerball numbers for the $856 million jackpot on August 8, 2026: See all the prizes hit in Ohio - WKYC
-- Abel puts a big chunk of Berkshire's cash to work - CNBC
+- Winning Powerball numbers for the $856 million jackpot on August 8, 2026: See all the prizes hit in Ohio - wkyc.com
+- 'Very little to like': Wall Street assesses surprise July jobs report as stocks jump - Yahoo Finance
 - Watchdog for $46 billion tribal gambling industry can’t enforce the law without a chairperson - AP News
-- How A Side Hustle Led To A Second Marriage And $2 Billion Fortune - Forbes
-- Apple Tests Chinese Memory Chips as Supply Squeeze Bites - WSJ
-- iPhone Ultra colors: New leak reveals silver and dark blue - 9to5Mac
+- China’s monthly inflation cools as impact from Iran war eases - Financial Times
+- This ‘adversarial’ pattern can prevent surveillance cameras from detecting you - TechCrunch
+- Apple Explores Shaking Up Its Smartwatch for a New Era - Bloomberg.com
