@@ -1,22 +1,22 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-09 15:30_
+_Updated: 2026-08-09 16:07_
 
 ## Top Stories
 
+- S lovar extra barnbidrag inför jul- och sommarlov - SVT Nyheter
+- Netanyahu nobbar Gaza-reträtt - Västerbottens-Kuriren
 - Barn har dött efter olycka med traktor i Svenljunga - Sveriges Radio
 - Huthier hävdar attack mot saudiskt raffinaderi - Västerbottens-Kuriren
-- Varnar för ”jokrar” i ekonomin: ”Uppåtrisk” - Svenska Dagbladet
-- Netanyahu avfärdar Trumps Gazaförslag – Senaste nytt om kriget i Gaza - SVT Nyheter
-- S lovar extra barnbidrag inför jul- och sommarlov - Göteborgs-Posten
+- Jakt på gärningsperson efter skott i Huddinge - Göteborgs-Posten
 - Sex amerikaner dog under hemliga uppdraget – på väg mot Göteborg - Göteborgs-Posten
-- Skogsbrand i Haninge – polisen stoppar privata drönare - Expressen
+- Skogsbrand rasar söder om Stockholm - Västerbottens-Kuriren
 - Dykarna hittade den avlidna kvinnan efter Tjörnolyckan: ”Man vill få ett avslut” - Dagens Nyheter
-- Svårt skadad kostymklädd man hittad vid sjukhuset i Uddevalla - SVT Nyheter
-- Färre igelkottar – nu vill experterna ha din hjälp - norrahalland.se
-- Ryssland: Tre döda efter ukrainsk drönarattack - Västerbottens-Kuriren
-- Zelenskyj: Tiotusentals nordkoreaner på väg - Göteborgs-Posten
+- Narkotikasmugglingen med tåg väntas öka - Expressen
+- Svårt skadad man hittad vid sjukhuset i Uddevalla - SVT Nyheter
+- Zelenskyj: Nordkorea skickar uppemot 50 000 soldater - Dagens Nyheter
 - DN Direkt – S lovar extra barnbidrag inför jul- och sommarlov - Dagens Nyheter
+- Ryssland: Tre döda efter ukrainsk drönarattack - Västerbottens-Kuriren
 - Så spårar Israel terroristerna bakom attacken 7 oktober - Dagens Nyheter
 - Därför kan matpriserna bli högre igen - Nya Wermlands-Tidningen
 - Stockholmsbörsen tog helg svagt nedåt - Västerbottens-Kuriren
@@ -45,8 +45,8 @@ _Updated: 2026-08-09 15:30_
 - New communications project on China’s global “Belt and Road Initiative” - ui.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global Reseskydd erbjuder hemresegaranti - travelnews-se
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 
 ## Technology
 
@@ -75,16 +75,16 @@ _Updated: 2026-08-09 15:30_
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Finansinspektionen varnar för finansbedragare - tv4.se
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
@@ -104,15 +104,15 @@ _Updated: 2026-08-09 15:30_
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
@@ -131,11 +131,11 @@ _Updated: 2026-08-09 15:30_
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
