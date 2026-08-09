@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-09 17:01_
+_Updated: 2026-08-09 17:58_
 
 ## Top Stories
 
 - Skogsbrand i Haninge – polisen stoppar privata drönare - Expressen
 - Netanyahu avfärdar Trumps Gazaförslag – Senaste nytt om kriget i Gaza - SVT Nyheter
-- S lovar extra barnbidrag inför jul- och sommarlov - Göteborgs-Posten
-- Varnar för ”jokrar” i ekonomin: ”Uppåtrisk” - Svenska Dagbladet
+- Löfven ska locka S-röster i norr - Västerbottens-Kuriren
+- Prästen rycker ut till bygden efter dödsolyckan - Aftonbladet
 - Sex amerikaner dog under hemliga uppdraget – på väg mot Göteborg - Göteborgs-Posten
-- Massevakuering när Tyfonen Dolphin drabbar Kina - Aftonbladet
+- Plåtjättens comeback – här är nya hemmet - Göteborgs-Posten
 - Ufo-experten om ”spökraketerna”: Genuint gåtfullt - Svenska Dagbladet
 - Allvarligt skadad man hittad på väg i Uddevalla - Göteborgs-Posten
+- S lovar extra barnbidrag inför jul- och sommarlov - Corren
 - Kristersson vädjar till S om mängdrabatten – Senaste nytt om valet 2026 - SVT Nyheter
-- Skottlossning i Trångsund - Västerbottens-Kuriren
 - Zelenskyj: Nordkorea skickar uppemot 50 000 soldater - Dagens Nyheter
 - Ryssland: Tre döda efter ukrainsk drönarattack - Västerbottens-Kuriren
+- DN Direkt – S lovar extra barnbidrag inför jul- och sommarlov - Dagens Nyheter
 - Så spårar Israel terroristerna bakom attacken 7 oktober - Dagens Nyheter
-- Huthier hävdar attack mot saudiskt raffinaderi - Västerbottens-Kuriren
 - Arvet kommer för sent – pengarna behövdes för 30 år sedan - News55
 - Därför kan matpriserna bli högre igen - Nya Wermlands-Tidningen
 - Smarta dubbar, utfällbar husvagn och Audis comeback - Dagens PS
-- Stockholmsbörsen tog helg svagt nedåt - Västerbottens-Kuriren
+- Cowboyhattar, godis och karuseller – solig folkfest på Höörs marknad - Skånska Dagbladet
 - Missen på Jonna Lundells möhippa: ”Helvetet brakade lös” - Expressen
 - Dansbandspedofilens liv i fängelset – fyndet i cellen - Expressen
 
@@ -37,7 +37,7 @@ _Updated: 2026-08-09 17:01_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -61,7 +61,7 @@ _Updated: 2026-08-09 17:01_
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - xpert.digital
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
@@ -75,16 +75,16 @@ _Updated: 2026-08-09 17:01_
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - finanstid.se
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
@@ -96,7 +96,7 @@ _Updated: 2026-08-09 17:01_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
@@ -108,7 +108,7 @@ _Updated: 2026-08-09 17:01_
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar HealthBench - OpenAI
+- Vi presenterar HealthBench - openai.com
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -125,12 +125,12 @@ _Updated: 2026-08-09 17:01_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- AI för vetenskaplig forskning och upptäckter - OpenAI
-- Täta band mellan turism och forskning på Svalbard - slu.se
+- AI för vetenskaplig forskning och upptäckter - openai.com
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
+- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - sverigesradio.se
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
@@ -143,22 +143,22 @@ _Updated: 2026-08-09 17:01_
 ## Jordbruk
 
 - Dien Bien Agriculture: Väcker potential - Ökar värdet: [Del 5]: "Green Stream" välkomnar investerare - Vietnam.vn
-- Sveriges förändrade lantbruk - slu.se
-- Framtidens jordbruk - European Commission
+- Sveriges förändrade lantbruk - SLU
+- Framtidens jordbruk - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Jord, kor och klimat - slu.se
+- Jord, kor och klimat - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- Lantbrukslogik – nu och i framtiden - slu.se
+- Lantbrukslogik – nu och i framtiden - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Kan agroekologi mätta världen? - slu.se
+- Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
