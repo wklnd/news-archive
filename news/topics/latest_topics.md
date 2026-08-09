@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-09 13:55_
+_Updated: 2026-08-09 15:30_
 
 ## Top Stories
 
-- DN Direkt – Hon är årets Sommarskugga - Dagens Nyheter
-- Dödlig natt på båda sidor i Ukrainakriget - Göteborgs-Posten
-- Huthier hävdar attack mot saudiskt raffinaderi - vk.se
-- FN-kritiken: ”Utred poliser som hanterat forskaren David” - Aftonbladet
-- De samlar in pengar till familjen efter olyckan i Hakefjorden - Göteborgs-Posten
-- Stoppas för fortkörning – skyller på bilen: ”Jag körde inte!” - Expressen
-- Svårt skadad kostymklädd man hittad vid sjukhuset i Uddevalla - SVT Nyheter
+- Barn har dött efter olycka med traktor i Svenljunga - Sveriges Radio
+- Huthier hävdar attack mot saudiskt raffinaderi - Västerbottens-Kuriren
+- Varnar för ”jokrar” i ekonomin: ”Uppåtrisk” - Svenska Dagbladet
+- Netanyahu avfärdar Trumps Gazaförslag – Senaste nytt om kriget i Gaza - SVT Nyheter
+- S lovar extra barnbidrag inför jul- och sommarlov - Göteborgs-Posten
+- Sex amerikaner dog under hemliga uppdraget – på väg mot Göteborg - Göteborgs-Posten
+- Skogsbrand i Haninge – polisen stoppar privata drönare - Expressen
 - Dykarna hittade den avlidna kvinnan efter Tjörnolyckan: ”Man vill få ett avslut” - Dagens Nyheter
-- Sakerna som gör svensken lycklig - Dagens Nyheter
-- Kristersson vädjar till S om mängdrabatten – Senaste nytt om valet 2026 - SVT Nyheter
-- Zelenskyj: Nordkorea skickar uppemot 50 000 soldater - Dagens Nyheter
-- 20 000 evakueras från skogsbrand i Kanada - Omni – Alla nyheter. Alla perspektiv.
-- 40 000 ton rutten mat får Los Angeles att stinka - Omni – Alla nyheter. Alla perspektiv.
-- Turkiet: Egypten på väg in i försvarssamarbete - Göteborgs-Posten
+- Svårt skadad kostymklädd man hittad vid sjukhuset i Uddevalla - SVT Nyheter
+- Färre igelkottar – nu vill experterna ha din hjälp - norrahalland.se
+- Ryssland: Tre döda efter ukrainsk drönarattack - Västerbottens-Kuriren
+- Zelenskyj: Tiotusentals nordkoreaner på väg - Göteborgs-Posten
+- DN Direkt – S lovar extra barnbidrag inför jul- och sommarlov - Dagens Nyheter
+- Så spårar Israel terroristerna bakom attacken 7 oktober - Dagens Nyheter
 - Därför kan matpriserna bli högre igen - Nya Wermlands-Tidningen
-- Bolander: Fondspararna måste vakna upp - Privata Affärer
-- Stockholmsbörsen tog helg svagt nedåt - vk.se
-- Hånades av Wall Street efter kraschen – nu står Silicon Valley i kö - efn.se
+- Stockholmsbörsen tog helg svagt nedåt - Västerbottens-Kuriren
+- AI skapade falska identiteter för att lura människor - Göteborgs-Posten
+- Brutna sviter och rapportras på ljusröd börs i USA - EFN
 - Missen på Jonna Lundells möhippa: ”Helvetet brakade lös” - Expressen
 - Dansbandspedofilens liv i fängelset – fyndet i cellen - Expressen
 
@@ -29,47 +29,47 @@ _Updated: 2026-08-09 13:55_
 
 - GT World Challenge America, Sebring International Raceway på ikväll 18:00 - tv.nu
 - World Cup: First win for Svensk, Aebersold dominates women’s class - International Orienteering Federation
-- Radisson satsar stort på långtidsboende globalt - travelnews.se
+- Radisson satsar stort på långtidsboende globalt - travelnews-se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
-- Global Series stort för Karlsson: ”Fantastiskt” - nhl.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Möt Johanna Flood, journalisten som blev global miljöchef - new.abb.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
-- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
+- New communications project on China’s global “Belt and Road Initiative” - ui.se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Global Reseskydd erbjuder hemresegaranti - travelnews.se
-- Etraveli rusar – 175 miljarder och global styrka - travelnews.se
+- Global Reseskydd erbjuder hemresegaranti - travelnews-se
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 
 ## Technology
 
-- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - xpert.digital
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- I år ska AI visa affärsnytta. Igen. - computersweden.se
-- Nu blir datorerna dyrare – efter prishöjning på minnen - computersweden.se
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - computersweden.se
-- Tiden för billig vibe coding kan vara över - computersweden.se
-- Albanien utser AI-bot till minister - computersweden.se
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - computersweden.se
+- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -80,7 +80,7 @@ _Updated: 2026-08-09 13:55_
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Finansinspektionen varnar för finansbedragare - tv4.se
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Vilken framtid arbetar du för? - EY
@@ -120,7 +120,7 @@ _Updated: 2026-08-09 13:55_
 ## Science
 
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -129,16 +129,16 @@ _Updated: 2026-08-09 13:55_
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Konst, vetenskap och kritiskt kulturarv - gu.se
 
 ## Jordbruk
 
