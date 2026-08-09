@@ -1,47 +1,47 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-09 23:02_
+_Updated: 2026-08-09 23:58_
 
 ## Top Stories
 
 - Trump: Vi har en dämpad taktik mot Iran - Västerbottens-Kuriren
 - Trump: Ny taktik mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Tre skadade i dansk skottlossning - Dagens Nyheter
-- L vill se över abortlagen: ”Inte mer än en vecka” - Svenska Dagbladet
+- Trafikolycka vid Kungens kurva – tre bilar i krock - SVT Nyheter
 - Amerikanskt oljebolag förbereder borrning på Grönland – utan tillstånd - Göteborgs-Posten
 - Skogsbrand i Kolartorp – helikoptrar hjälpte till i släckningen - Sveriges Radio
+- Suu Kyi fick träffa Röda korset – men släpps inte - Västerbottens-Kuriren
 - Skogsbrand i skärgården - SVT Nyheter
-- Andersson om V-samarbete: ”Behöver göra en rejäl resa” - Dagens Nyheter
 - Rådjur på fel sida viltstängslet på E18 - Enköpingsposten
-- S lovar extra barnbidrag inför jul- och sommarlov - Corren
+- Misstänkta skärgårds- mördaren fåordig i förhör - Expressen
+- Stopp på väg 55 på grund av olycka med flera personbilar - UNT
 - Misstänkt irländsk gangsterboss utlämnad - Västerbottens-Kuriren
 - Sverige pekas ut som Nordens underrättelsenav – en av Europas främsta - Dagens Nyheter
-- Direkt – Kriget i Ukraina – Ryska attacker mot Odessa och Charkiv - Dagens Nyheter
-- Ovanliga sköldpaddan har vilat upp sig – ska flygas 800 mil - Dagens Nyheter
-- Därför kan matpriserna bli högre igen - Nya Wermlands-Tidningen
+- Tre skjutna i dansk skjutning: ”Hårdkokta kriminella” - Expressen
+- Dödlig natt på båda sidor i Ukrainakriget - Göteborgs-Posten
+- El Niño hotar pressa upp matpriserna i Sverige – experter varnar för ökningar - Börskollen
 - Chefsekonom: För tidigt att ropa återhämtning – ”jokrar” kan störa - Tidningen Näringslivet
 - Toppanalytikerna: Tre aktier med stor uppsida - Dagens industri
 - Cowboyhattar, godis och karuseller – solig folkfest på Höörs marknad - Skånska Dagbladet
-- Universum är fullt av explosioner - Illustrerad Vetenskap
 - Solförmörkelse på onsdag – så ser du den säkert - Sveriges Radio
+- Dansbandspedofilens liv i fängelset – fyndet i cellen - Expressen
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på ikväll 18:00 - tv.nu
 - World Cup: First win for Svensk, Aebersold dominates women’s class - International Orienteering Federation
 - Radisson satsar stort på långtidsboende globalt - travelnews.se
+- England defender Bronze backs UEFA in standoff with FIFA and Infantino - reuters.com
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
@@ -51,29 +51,29 @@ _Updated: 2026-08-09 23:02_
 ## Technology
 
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- I år ska AI visa affärsnytta. Igen. - computersweden.se
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Artificial intelligence in enterprises 2025 - scb.se
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - computersweden.se
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - computersweden.se
+- Tiden för billig vibe coding kan vara över - computersweden.se
+- Albanien utser AI-bot till minister - computersweden.se
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - computersweden.se
 
 ## Business
 
-- Dear Economy om Gotlands vattenbrist under Almedalen - EY
+- Dear Economy om Gotlands vattenbrist under Almedalen - ey.com
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
@@ -82,8 +82,8 @@ _Updated: 2026-08-09 23:02_
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Vilken framtid arbetar du för? - EY
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
+- Vilken framtid arbetar du för? - ey.com
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -132,9 +132,9 @@ _Updated: 2026-08-09 23:02_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- 5 myter om öppen vetenskap - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
