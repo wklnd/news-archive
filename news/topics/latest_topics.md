@@ -1,39 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-10 00:59_
+_Updated: 2026-08-10 01:58_
 
 ## Top Stories
 
 - Trump: Ny taktik mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Tysk minister: Varje dag utsätts vi för attacker - Omni – Alla nyheter. Alla perspektiv.
-- Skogsbrand i Kolartorp – helikoptrar hjälpte till i släckningen - Sveriges Radio
+- Skogsbrand söder om Stockholm släckt - Göteborgs-Posten
 - Amerikanskt oljebolag förbereder borrning på Grönland – utan tillstånd - Göteborgs-Posten
-- Suu Kyi fick träffa Röda korset – men släpps inte - Västerbottens-Kuriren
 - KRÖNIKA: Vi måste bli bättre på att ha semester - Hufvudstadsbladet – HBL
+- Tre skadade i dansk skottlossning - Dagens Nyheter
 - Andersson om V-samarbete: ”Behöver göra en rejäl resa” - Dagens Nyheter
-- Skogsbrand i skärgården - SVT Nyheter
 - Rådjur på fel sida viltstängslet på E18 - Enköpingsposten
+- Misstänkta skärgårds- mördaren fåordig i förhör - Expressen
 - Stopp på väg 55 på grund av olycka med flera personbilar - unt.se
-- Trump: Vi har en dämpad taktik mot Iran - Västerbottens-Kuriren
-- Misstänkt irländsk gangsterboss utlämnad - Västerbottens-Kuriren
+- S lovar extra barnbidrag inför jul- och sommarlov - Corren
+- Trump: Vi har en dämpad taktik mot Iran - Göteborgs-Posten
+- Experter: Kanada får vänja sig vid skogsbränder - Omni – Alla nyheter. Alla perspektiv.
 - Sverige pekas ut som Nordens underrättelsenav – en av Europas främsta - Dagens Nyheter
-- Tre skadade i skottlossning i ´Danmark - TV4 Nyheterna
-- El Niño hotar pressa upp matpriserna i Sverige – experter varnar för ökningar - borskollen.se
-- Chefsekonom: För tidigt att ropa återhämtning – ”jokrar” kan störa - Tidningen Näringslivet
+- Ovanliga sköldpaddan har vilat upp sig – ska flygas 800 mil - Dagens Nyheter
+- Därför kan matpriserna bli högre igen - Nya Wermlands-Tidningen
+- Varnar för ”jokrar” i ekonomin: ”Uppåtrisk” - Svenska Dagbladet
 - Toppanalytikerna: Tre aktier med stor uppsida - Dagens industri
 - Pekas ut – hjälpte inte strandsatt båt - Expressen
 - Dansbandspedofilens liv i fängelset – fyndet i cellen - Expressen
-- Här visas solförmörkelsen upp på Öland – utan att riskera synen: ”En av de bästa” - Ölandsbladet
+- Solförmörkelse på onsdag – så ser du den säkert - Sveriges Radio
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på ikväll 18:00 - tv.nu
 - World Cup: First win for Svensk, Aebersold dominates women’s class - International Orienteering Federation
-- Radisson satsar stort på långtidsboende globalt - travelnews.se
+- Radisson satsar stort på långtidsboende globalt - travelnews-se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- England defender Bronze backs UEFA in standoff with FIFA and Infantino - reuters.com
+- England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
@@ -46,7 +46,7 @@ _Updated: 2026-08-10 00:59_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Global Reseskydd erbjuder hemresegaranti - travelnews.se
+- Global Reseskydd erbjuder hemresegaranti - travelnews-se
 
 ## Technology
 
@@ -73,17 +73,17 @@ _Updated: 2026-08-10 00:59_
 
 ## Business
 
-- Dear Economy om Gotlands vattenbrist under Almedalen - ey.com
+- Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - finanstid.se
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
-- Vilken framtid arbetar du för? - ey.com
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
