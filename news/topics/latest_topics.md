@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-09 09:32_
+_Updated: 2026-08-09 10:09_
 
 ## Top Stories
 
-- Flera skott mot dörr i Trångsund – personer var i lägenheten - TV4 Nyheterna
 - Hambo krog i Kilafors totalförstörd i brand - Sveriges Radio
-- Turkiet: Egypten på väg in i försvarssamarbete - Göteborgs-Posten
-- DN Direkt – Skott genom dörr i Trångsund - Dagens Nyheter
+- Turkiet: Egypten på väg in i samarbete - Göteborgs-Posten
 - Zelenskyj: 50 000 nordkoreaner på väg - Expressen
-- Ulf Kristersson om framtida ministerposter: Finns ingen rättvisa - Aftonbladet
+- Har feministikonen gjort sig omöjlig? - Svenska Dagbladet
+- Analyser: Blanche står för total presidentmakt - Omni – Alla nyheter. Alla perspektiv.
+- Ministern om Fröken Snusk-avbokning: ”Märkligt” - Corren
 - Unga väljare har rört sig vänsterut - Dagens Nyheter
 - Sakerna som gör svensken lycklig - Dagens Nyheter
-- Ministern om Fröken Snusk-avbokning: ”Märkligt” - Corren
-- Avgick som partiledare – nu toppar Demirok (C) listan i Östergötland - SVT Nyheter
-- Död kropp vid Mount Everest kan bärgas – efter 30 år - SVT Nyheter
+- Skottlossning i Trångsund - Västerbottens-Kuriren
+- Tidigare C-ledaren kandiderar till riksdagen – Senaste nytt om valet 2026 - svt.se
+- Död kropp vid Mount Everest kan bärgas – efter 30 år - svt.se
 - Barn dött efter olycka med traktor i Svenljunga - Expressen
-- Direkt – Kriget i Ukraina – Minst fyra döda i robotattack mot Kiev - Dagens Nyheter
-- 20 000 evakueras från skogsbrand i Kanada - omni.se
-- Därför kan matpriserna bli högre igen - Svenska Dagbladet
-- Träder i kraft på tisdag: 800 000 kronor i böter – per samtal - Dagens PS
+- Huthier hävdar attack mot saudiskt raffinaderi - Västerbottens-Kuriren
+- 20 000 evakueras från skogsbrand i Kanada - Omni – Alla nyheter. Alla perspektiv.
+- Därför kan matpriserna bli högre igen - Corren
 - Stockholmsbörsen tog helg svagt nedåt - Västerbottens-Kuriren
 - AI skapade falska identiteter för att lura människor - Göteborgs-Posten
-- Här visas solförmörkelsen upp på Öland – utan att riskera synen: ”En av de bästa” - Ölandsbladet
-- Nytt efter kraschen på månen: dammoln och gaser - Sveriges Radio
+- Svensk doldisfamilj stenrik på Ikea-avtal - Expressen
+- Här visas solförmörkelsen upp på Öland – utan att riskera synen: ”En av de bästa” - olandsbladet.se
+- Nu är det över för dessa 4 mobiler – slutade uppdateras i sommar - Nyheter24
 
 ## World News
 
 - World Cup: First win for Svensk, Aebersold dominates women’s class - International Orienteering Federation
-- Radisson satsar stort på långtidsboende globalt - travelnews-se
+- Radisson satsar stort på långtidsboende globalt - travelnews.se
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
@@ -39,14 +40,13 @@ _Updated: 2026-08-09 09:32_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - via.tt.se
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Etraveli rusar – 175 miljarder och global styrka - travelnews.se
+- Global turism slog nytt rekord under 2025 - travelnews.se
 
 ## Technology
 
@@ -55,15 +55,15 @@ _Updated: 2026-08-09 09:32_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
-- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Artificial intelligence in enterprises 2025 - scb.se
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - AI Sweden gathering forces to lead the development of edge learning - via.tt.se
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Kina utökar övervakning i realtid av invånarna - omni.se
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
@@ -121,24 +121,24 @@ _Updated: 2026-08-09 09:32_
 
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- Skapar utrymme för forskning, testning och utveckling av ny teknik. - Vietnam.vn
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Kina drar om USA – bäst på forskning - SVT Nyheter
+- AI för vetenskaplig forskning och upptäckter - OpenAI
+- Kina drar om USA – bäst på forskning - svt.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Olika slutsatser från samma data - Läkartidningen
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - 5 myter om öppen vetenskap - Läkartidningen
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 
 ## Jordbruk
 
