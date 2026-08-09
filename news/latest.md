@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-09 15:35_
+_Updated: 2026-08-09 16:18_
 
-- Israel rejects Trump's 15-point plan for Gaza, Netanyahu says - bbc.com
-- Iran says deal with Oman is close — but its demands leave Hormuz opening uncertain - The Washington Post
+- Israel rejects Trump's 15-point plan for Gaza, Netanyahu says - BBC
+- Iran sets out steep demands for reopening Hormuz despite hopes Oman deal could break impasse - NBC News
 - Dems blast Blanche as enabler of ‘Trump’s corruption’ after AG confirmation - The Hill
-- Yemen’s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news - AP News
-- Iran-US war latest: Trump’s military chiefs ‘push to speed up weapons production’ amid Hormuz deal deadlock - The Independent
-- Nagasaki marks 81st atomic bomb anniversary as mayor says nuclear deterrence only increases risk - AP News
+- Houthis claim attacks on Saudi Arabian oil facility and Yemeni port, and other Mideast news - AP News
 - Woman and baby die after boat capsizes in New York Harbor - CNN
-- Spokane-area fires hold steady as crews face second day of red flag conditions - KOMO
-- Hunter Biden Says His Father’s Cancer Is Worsening - The New York Times
-- Trump posts examples of alleged Reflecting Pool vandalism amid push for Pirro to revisit decision - The Hill
+- Haunted by Hoover, Trump searches for an endgame in Iran - NPR
+- As fires devastate Spokane, suspect Aaron Farinucci’s troubled history comes into focus - NBC News
+- Obama and El-Sayed Spoke to Discuss Unity After Ugly Michigan Primary - The New York Times
+- Hunter Biden says his father's cancer has spread: "It's very painful and it's very debilitating" - CBS News
+- Naked champion swimmer accused of beating security guard to death with water bottle at Hawaiian resort - New York Post
+- Bulgaria, Germany drone incidents raise security fears amid Ukraine war - Al Jazeera
 - Roman shipwreck discovered off the coast of Sicily, Italy laden with ancient jars believed to be more than 2,000 years old - CBS News
 - Organised crime suspect Daniel Kinahan extradited from Dubai - Financial Times
 - China Issues Red Alert, Airports Cancel Flights as Typhoon Nears - Bloomberg.com
-- Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia - The New York Times
-- Warren Buffett's successor is finally spending the huge cash pile he built at Berkshire Hathaway - Business Insider
-- Markets Rally on Surprise U.S. Job Losses, Airbnb Soars and Trade Desk Tanks | Markets P.M. for Aug. 7 - WSJ
-- China’s monthly inflation cools as impact from Iran war eases - Financial Times
-- After 66 years, Portlanders say goodbye to the Lloyd Center, old and new - OregonLive.com
+- Abel puts a big chunk of Berkshire's cash to work - CNBC
+- How A Side Hustle Led To A Second Marriage And $2 Billion Fortune - Forbes
+- Watchdog for $46 billion tribal gambling industry can’t enforce the law without a chairperson - AP News
+- How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta - CNBC
+- Apple Tests Chinese Memory Chips as Supply Squeeze Bites - WSJ
 - iPhone Ultra colors: New leak reveals silver and dark blue - 9to5Mac
-- Google Pixel 11: Every rumor, leak, and teaser before Made By Google - Mashable
