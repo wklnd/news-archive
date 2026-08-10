@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-10 08:51_
+_Updated: 2026-08-10 10:57_
 
 ## Top Stories
 
-- V vill straffa matjättar: ”Gå in och bötfälla” - Omni – Alla nyheter. Alla perspektiv.
-- Svenska bröder hittades inlåsta i Schweiz – efter år av larm - Dagens Nyheter
-- LEDARE: Kristersson och Andersson: Släpp inte in SD och V i regering - Borås Tidning
-- Khameneis kansli: Mötte presidenten – Senaste nytt om kriget mellan Iran, USA och Israel - svt.se
+- Direkt – Kriget i Ukraina – Ryssland: 12 döda i ukrainsk drönarattack - Dagens Nyheter
+- Dansk nazist blev spermadonator i Sverige - Göteborgs-Posten
 - Rekordhet sommar i Västeuropa – och nu kommer nästa värmebölja - Dagens Nyheter
-- Karta: Här jobbar man minst i Europa - Göteborgs-Posten
+- LEDARE: Kristersson och Andersson: Släpp inte in SD och V i regering - Borås Tidning
+- Khameneis kansli: Mötte presidenten – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Svenska bröder hittades inlåsta i Schweiz – efter år av larm - Dagens Nyheter
 - Antalet drunkningsolyckor halverat i juli i år - Västerbottens-Kuriren
-- Polisens nya vapen: Dna avslöjar mördarens ålder - Corren
-- EDVARD HOLLERTZ: Allt fler barn i kläm – skolorna har blivit för stora - Corren
-- Polisen får flyga drönare utom synhåll i Norrköping – första gången i landet - svt.se
-- Trump: Ny taktik mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - svt.se
+- Polisens nya vapen: Dna avslöjar mördarens ålder - corren.se
+- Efter 38 år – tåg mellan Finland och Sverige igen - Göteborgs-Posten
+- DN Direkt – Flera skadade i skjutning i Danmark - Dagens Nyheter
+- Trump: Ny taktik mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Björn af Kleen: En kultplats för selfies som stinker av stekos - Dagens Nyheter
+- Stora bränder fortsätter att rasa i Kanada - Expressen
 - Sverige pekas ut som Nordens underrättelsenav – en av Europas främsta - Dagens Nyheter
-- Kanada i nödläge - skogsbränder rasar i British Columbia - Sveriges Radio
-- Misstänkt irländsk gangsterboss utlämnad - Västerbottens-Kuriren
+- Sverige får sitt första godkända organ för halalcertifiering för export till Indonesien – öppnar miljardmarknad - NewsMachine AB
+- Trots extremhettan – ingen prisrusning på olivolja - Dagligvarunytt
+- Därför kan matpriserna bli högre igen - Nya Wermlands-Tidningen
 - Ränterysaren: Stor oenighet om Thedéens nästa drag - EFN
-- Uppåt på börserna i Asien - Västerbottens-Kuriren
-- Oljepriset stiger efter osäkerhet kring Hormuz - Affärsvärlden
-- Ryanair kan bli ensamt kvar: så mycket kan det påverka din flygbiljett - Dagens PS
-- Så nära har du aldrig sett solen - Skaraborgs Allehanda
-- Solförmörkelse på onsdag – så ser du den säkert - Sveriges Radio
+- Rykten tyder på att Apple Watch kan få en rund skärm eller ingen skärm alls - notebookcheck.se
+- Dansbandspedofilens liv i fängelset – fyndet i cellen - Expressen
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på idag 06:05 - tv.nu
 - World Cup: First win for Svensk, Aebersold dominates women’s class - International Orienteering Federation
 - Radisson satsar stort på långtidsboende globalt - travelnews-se
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - news.cision.com
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- GMMP: Global backlash syns i världens medier - fempers.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Möt Johanna Flood, journalisten som blev global miljöchef - new.abb.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- New communications project on China’s global “Belt and Road Initiative” - ui.se
+- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - news.cision.com
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global Reseskydd erbjuder hemresegaranti - travelnews-se
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 
@@ -52,7 +52,7 @@ _Updated: 2026-08-10 08:51_
 
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - computersweden.se
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Leveraging AI in Swedish Development Cooperation - FUF.se
@@ -61,11 +61,11 @@ _Updated: 2026-08-10 08:51_
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - USA och Kina dominerar stort när det gäller AI-patent - computersweden.se
 - Nu blir datorerna dyrare – efter prishöjning på minnen - computersweden.se
+- Amazon lanserar kraftfulla AI-chippet Trainium 3 - computersweden.se
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - computersweden.se
 - Tiden för billig vibe coding kan vara över - computersweden.se
 - Albanien utser AI-bot till minister - computersweden.se
@@ -76,7 +76,7 @@ _Updated: 2026-08-10 08:51_
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
@@ -100,22 +100,22 @@ _Updated: 2026-08-10 08:51_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - news.cision.com
+- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - di.se
 
 ## Science
 
@@ -124,7 +124,7 @@ _Updated: 2026-08-10 08:51_
 - KIST - Hai Phong-teknikbron: Från forskning till praktisk tillämpning - Vietnam.vn
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Vietnam utbyter erfarenheter med Sydkorea om utveckling av mänskliga resurser och nationella metrologisystem. - Vietnam.vn
-- Kina drar om USA – bäst på forskning - svt.se
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - AI för vetenskaplig forskning och upptäckter - OpenAI
