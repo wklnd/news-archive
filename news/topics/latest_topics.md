@@ -1,36 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-10 12:43_
+_Updated: 2026-08-10 14:08_
 
 ## Top Stories
 
+- Rekordhet sommar i Västeuropa – och nu kommer nästa värmebölja - Dagens Nyheter
+- 57-åring häktad för Värmdö-mord – oklart motiv - Kvartal
+- Grafiken visar: Så gick dödsolyckan vid Tjörn till - Göteborgs-Posten
 - 9 000 år gammal gravid kvinna hittad utanför Gotland - Västerbottens-Kuriren
-- DN Direkt – Rekordvarm sommar i delar av Europa - dn.se
-- LEDARE: Kristersson och Andersson: Släpp inte in SD och V i regering - bt.se
-- Utredningsgrupp igång: ”Mycket material” - Svenska Dagbladet
-- Khameneis kansli: Mötte presidenten – Senaste nytt om kriget mellan Iran, USA och Israel - svt.se
-- Man skadad i Sandviken – träffad av fallande fönster - Expressen
-- Svenska bröder hittades inlåsta i Schweiz – efter år av larm - dn.se
-- Efter 38 år – tåg mellan Finland och Sverige igen - Västerbottens-Kuriren
-- Polisens nya vapen: Dna avslöjar mördarens ålder - svt.se
+- Bil voltade utanför Bjurholm – tre personer inblandade - SVT Nyheter
+- Svenska barnen försvann – hittades inlåsta i Schweiz - Expressen
+- DN Direkt – MP lovar elbilar för fler och bättre järnväg - Dagens Nyheter
 - Dansk nazist blev spermadonator i Sverige - Göteborgs-Posten
-- Hundratusentals i Kina har evakuerats på grund av tyfon - Sveriges Radio
-- Experter: Kanada får vänja sig vid skogsbränder - Omni – Alla nyheter. Alla perspektiv.
-- Trump: Vi har en dämpad taktik mot Iran - Göteborgs-Posten
-- Björn af Kleen: En kultplats för selfies som stinker av stekos - dn.se
-- Experter: Sex punkter som påverkar din privatekonomi i höst - di.se
-- Sverige får sitt första godkända organ för halalcertifiering för export till Indonesien – öppnar miljardmarknad - NewsMachine AB
-- Polen har fördubblat sin ekonomi på tio år – Sverige och Finland rasar - Dagens PS
-- Aktiestrategen: Sommarens börsrekord är missvisande - Omni – Alla nyheter. Alla perspektiv.
-- Inouye-teleskopet filmade plasmastormar på solen som kan lösa ett 50-årigt mysterium - Martin Cid Magazine
-- Apple kan släppa aktivitetsarmband utan skärm. Rund Apple Watch sägs också vara på tapeten. - Feber
+- Tonårspojke misshandlades med kedja - Göteborgs-Posten
+- Polisens nya vapen: Dna avslöjar mördarens ålder - Corren
+- Massevakuering när Dolphin drabbar Kina - TV4 Nyheterna
+- Vattenbrist kan kapa Rhen på mitten - Göteborgs-Posten
+- Kvinna död efter skogsbrand i Kanada - Svenska Dagbladet
+- Björn af Kleen: En kultplats för selfies som stinker av stekos - Dagens Nyheter
+- Osäker ekonomisk höst väntar svenska hushåll: ”Ta höjd för högre räntor” - Expressen
+- Sverige får sitt första godkända organ för halalcertifiering för export till Indonesien – öppnar miljardmarknad - press.newsmachine.com
+- Danske Bank: Börserna har mer att ge i höst - veckobrev (Finwire News) - Aktiellt
+- Bezos och Facebook-grundare nära miljardköp i Liverpool - Breakit
+- Nya bilder avslöjar tidigare okända virvlar på solen - Sveriges Radio
+- DN Direkt – Nasa hyr hel by under solförmörkelsen - Dagens Nyheter
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på idag 06:05 - tv.nu
 - World Cup: First win for Svensk, Aebersold dominates women’s class - International Orienteering Federation
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
@@ -60,11 +60,11 @@ _Updated: 2026-08-10 12:43_
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - xpert.digital
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- 290 million for digitalisation of Swedish industry - Vinnova
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
@@ -98,7 +98,7 @@ _Updated: 2026-08-10 12:43_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - vietnam.vn
+- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
@@ -112,19 +112,18 @@ _Updated: 2026-08-10 12:43_
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - di.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
 ## Science
 
-- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - vietnam.vn
+- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- KIST - Hai Phong-teknikbron: Från forskning till praktisk tillämpning - vietnam.vn
+- Vietnam utbyter erfarenheter med Sydkorea om utveckling av mänskliga resurser och nationella metrologisystem. - Vietnam.vn
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Vietnam utbyter erfarenheter med Sydkorea om utveckling av mänskliga resurser och nationella metrologisystem. - vietnam.vn
-- Kina drar om USA – bäst på forskning - svt.se
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - AI för vetenskaplig forskning och upptäckter - OpenAI
@@ -132,8 +131,9 @@ _Updated: 2026-08-10 12:43_
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
@@ -144,7 +144,7 @@ _Updated: 2026-08-10 12:43_
 
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - land.se
+- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
@@ -152,13 +152,13 @@ _Updated: 2026-08-10 12:43_
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Jord, kor och klimat - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - land.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Visning av uppkomst efter direktsådd - land.se
+- Visning av uppkomst efter direktsådd - Land.se
 - Lantbrukslogik – nu och i framtiden - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Hellre plöjningsfri odling än ekologisk - land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - land.se
-- De blev grönsaksodlare tack vare lokalt stöd - land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
