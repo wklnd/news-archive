@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-10 17:30_
+_Updated: 2026-08-10 18:23_
 
 ## Top Stories
 
 - Säpo: Rysk spionoperation i Sverige har stoppats - Dagens Nyheter
-- Ett barn träffades i foten när polis avlossade skott i Helsingborg - SVT Nyheter
 - Strömmer: Straffrättsomläggning inom räckhåll - Göteborgs-Posten
-- Marius Borg Høiby kvar häktad – med fotboja på Skaugum - Göteborgs-Posten
-- Nooshi Dadgostar (V): ”Det har blivit för dyrt att vara svensk” - oskarshamns-nytt.se
-- Polisens varning – bedragare låtsas vara blombud - Kuriren
-- DN Direkt – MP lovar elbilar för fler och bättre järnväg - Dagens Nyheter
-- Just nu: Förd med helikopter till sjukhus - Västerbottens-Kuriren
-- Antalet drunkningsolyckor halverat i juli i år - Göteborgs-Posten
-- Svenska bröder hittades inlåsta i Schweiz – efter år av larm - Dagens Nyheter
-- Kraftigt jordskalv i Colombia - SVT Nyheter
-- Stora bränder fortsätter att rasa i Kanada - Expressen
+- Ett barn träffades i foten när polis avlossade skott i Helsingborg - SVT Nyheter
+- Varningssignaler att ha koll på efter semestern - Arbetet
+- Restaurang på Liseberg stänger efter misstänkt matförgiftning - Göteborgs-Posten
+- Buss och MC i krock – helikopter skickad - Kungälvs-Posten
+- Antalet drunkningar har minskat drastiskt i Örebro län - SVT Nyheter
+- Bil voltade utanför Bjurholm – tre personer inblandade - SVT Nyheter
+- Timrås beslut om Google-etableringen skjuts upp - SVT Nyheter
+- Åklagaren efter mordet: ”Inte förekommit våld tidigare” - Aftonbladet
+- Kraftigt skalv i Colombia – flera döda - Dagens Nyheter
 - DN Direkt – Nästan 1 000 flyg inställda i stormdrabbat Shanghai - Dagens Nyheter
+- Långa köer på flygplatser efter gränsbråket mellan Spanien och Italien - Dagens Nyheter
 - Rekordhet sommar i Västeuropa – och nu kommer nästa värmebölja - Dagens Nyheter
 - Andreas Morfiadakis blir ny vd för SBB - Leiv Synnes lämnar med omedelbar verkan (uppdatering) - Placera.se
-- Osäker ekonomisk höst väntar svenska hushåll: ”Ta höjd för högre räntor” - Expressen
-- Affärsvärlden behåller köprådet för Nolato efter irländskt förvärv - Affärsvärlden
+- Amazon-miljardären nära köp av Liverpool FC - EFN
 - Danske Bank: Börserna har mer att ge i höst - veckobrev - Börsvärlden
+- Affärsvärlden behåller köprådet för Nolato efter irländskt förvärv - Affärsvärlden
 - Apples minneskris en varningsflagga för techbranschen - Computer Sweden
 - Nasa hyr hel by under solförmörkelsen - Aftonbladet
 
@@ -51,19 +51,19 @@ _Updated: 2026-08-10 17:30_
 ## Technology
 
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
@@ -100,6 +100,7 @@ _Updated: 2026-08-10 17:30_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
@@ -112,10 +113,9 @@ _Updated: 2026-08-10 17:30_
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
@@ -147,7 +147,7 @@ _Updated: 2026-08-10 17:30_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - Här är världens största jordbruk - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Jord, kor och klimat - SLU
