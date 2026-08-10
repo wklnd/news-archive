@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-10 20:31_
+_Updated: 2026-08-10 21:40_
 
-- Dozens reported dead as buildings collapse in Colombia after magnitude 7.4 earthquake - BBC
-- Benjamin Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word - BBC
-- RFK Jr. is targeting a decades-old loophole allowing chemicals in food supply - The Washington Post
-- Live Updates: Trump says U.S. only "semi-negotiating" with Iran after Tehran sets demands to reopen Strait of Hormuz - CBS News
-- An arts school where Epstein allegedly preyed on students reveals decades of abuse - NPR
-- Wildfires burn across the western US and Canada, Israel rejects Trump’s Gaza plan - AP News
-- Tupac Shakur: former gang boss to go on trial nearly 30 years after rapper’s killing - The Guardian
-- Hegseth can’t persuade Republicans to back his big budget - Politico
+- Colombia Earthquake Live Updates: At Least 28 Reported Dead in 7.4 Magnitude Disaster - The New York Times
+- Trump executive order would split up MMR vaccine - Axios
+- RFK Jr. is targeting a decades-old loophole allowing chemicals in food supply - washingtonpost.com
+- Watch Live: Lindsay Clancy trial resumes with cross-examination of psychiatrist Jennifer Tufts - CBS News
+- In rural Wisconsin, frustrations over Trump ag policies heat up House race - Reuters
+- What’s behind Trump’s shift to economic pressure on Iran? Will it work? - aljazeera.com
+- The race to unseat Philly Councilmember Jeffery Young Jr. is taking shape - Inquirer.com
+- Trump Concedes There Was ‘Some Contractor Error’ at Reflecting Pool - The New York Times
 - Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t. - The New York Times
-- Ocasio-Cortez says she’s freezing her eggs as she decides her next political moves - AP News
-- Ukrainian drone strikes 750 miles inside Russia kill at least 13, authorities say - CBS News
-- North Korea preparing to deploy another 50,000 soldiers to fight for Russia in Ukraine, Zelensky claims - The Independent
+- Capitol agenda: Republicans brace for Trump’s wrath - Politico
+- Ukrainian drone attack on an oil hub deep inside Russia kills 13, officials say - AP News
+- Benjamin Netanyahu’s rejection of US deal for Gaza is risky move - The Guardian
 - Live updates: US-Iran war news; Oil prices climb as Iran signals Strait of Hormuz will stay closed - CNN
-- Austria breaks up sanctions-evasion scheme supplying Russian arms industry - Reuters
+- North Korea to deploy 50,000 soldiers to Russia, Zelensky claims - The Independent
 - Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision - TechCrunch
-- Taylor Farms recalls jalapeno products after salmonella outbreak - BBC
-- Berkshire Earnings Were Good—Not Great. A Real Bright Spot Was This. - Barron's
-- Intel plans $15 billion stock offering as AI demand accelerates - CNBC
+- Taylor Farms recalls foods made with jalapeños over salmonella concerns - washingtonpost.com
+- Wall Street giants partner with Nvidia on $500bn AI financing deal - Financial Times
+- Berkshire Is Finally Deploying Its Cash Hoard Under New CEO Greg Abel - Investopedia
 - iPhone 18 Pro Costing Apple 38% More to Make, TrendForce Estimates - MacRumors
-- Live Updates From the ‘Made by Google’ Pixel 11 Event 🔴 - Gizmodo
+- What to expect from Google’s 2026 Pixel hardware launch event - The Verge
