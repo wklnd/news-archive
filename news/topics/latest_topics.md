@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-10 19:26_
+_Updated: 2026-08-10 20:23_
 
 ## Top Stories
 
 - Säpo: Rysk spionoperation i Sverige har stoppats - Dagens Nyheter
-- Ett barn träffades i foten när polis avlossade skott i Helsingborg - SVT Nyheter
 - Strömmer: Straffrättsomläggning inom räckhåll - Göteborgs-Posten
-- Restaurang på Liseberg stänger efter misstänkt matförgiftning - Göteborgs-Posten
-- DN Direkt – MP lovar elbilar för fler och bättre järnväg - Dagens Nyheter
-- Förlängd häktning med fotboja för Høiby - Västerbottens-Kuriren
-- Bedragare låtsas vara blombud – polisen varnar - SVT Nyheter
-- Noll drunkningar i Värmland: ”Ovanligt” - Nya Wermlands-Tidningen
-- Bil voltade utanför Bjurholm – tre personer inblandade - SVT Nyheter
-- Nytt drönartillstånd för polisen – inrättar "danger area" - NT
-- Kraftigt skalv i Colombia – flera döda - Dagens Nyheter
-- Rekordhet sommar i Västeuropa – och nu kommer nästa värmebölja - Dagens Nyheter
-- Kanada: 20 000 evakuerade i skogsbränder - Sveriges Radio
+- Ett barn träffades i foten när polis avlossade skott i Helsingborg - SVT Nyheter
+- Utredaren: ”Båten var kraftigt skadad” - Svenska Dagbladet
+- Direkt – Krisen i Mellanöstern – Trump: Iran måste betala - Dagens Nyheter
+- Polisens nya dna-metod kan fastslå mördares ålder - Göteborgs-Posten
+- Jättebygget tre år försenat – fortsatt oklart när bussterminalen öppnar - Dagens Nyheter
+- Ökning av bedrägeriförsök av typen ”sms från barn” - Polisen.se
+- MP: Uppenbart att vi behövs i en regering - Göteborgs-Posten
+- Antalet drunkningsolyckor halverat i juli i år - vk.se
+- Många döda i kraftigt skalv i Colombia - Dagens Nyheter
 - Iran: Eftergifter krävs från USA för Hormuzöppning - Corren
+- Michael Winiarski: Nu tappar Ryssland kontrollen över sina militärbaser i Syrien - Dagens Nyheter
+- Ryssland: Många döda i oljeanfall 100 mil bort - Göteborgs-Posten
 - Andreas Morfiadakis blir ny vd för SBB - Leiv Synnes lämnar med omedelbar verkan (uppdatering) - Placera.se
 - Börsexperterna efter lyftet: ”Har mer att ge” - Svenska Dagbladet
+- Affärsvärlden behåller köprådet för Nolato efter irländskt förvärv - Affärsvärlden
 - Stockholmsbörsen inledde veckan i moll - Göteborgs-Posten
-- Svenskarna samlar pengar på hög – experterna varnar för att vänta för länge - Börskollen
-- Apples minneskris en varningsflagga för techbranschen - Computer Sweden
 - Nasa hyr hel by under solförmörkelsen - Aftonbladet
+- DreamHack kommer till Sergels torg. Området blir en arena för gaming, liveshow, utmaningar och tävlingar. - Feber
 
 ## World News
 
@@ -39,20 +39,20 @@ _Updated: 2026-08-10 19:26_
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Radisson satsar stort på långtidsboende globalt - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Radisson satsar stort på långtidsboende globalt - travelnews-se
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Global Reseskydd erbjuder hemresegaranti - travelnews-se
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 
 ## Technology
 
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
@@ -102,17 +102,17 @@ _Updated: 2026-08-10 19:26_
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Khalid satsar på digital vård – mot fetma - st.nu
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
@@ -121,9 +121,8 @@ _Updated: 2026-08-10 19:26_
 
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- KIST - Hai Phong-teknikbron: Från forskning till praktisk tillämpning - Vietnam.vn
-- Sherry Nakhaeizadeh - Uppsala universitet
 - Vietnam utbyter erfarenheter med Sydkorea om utveckling av mänskliga resurser och nationella metrologisystem. - Vietnam.vn
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
@@ -132,8 +131,9 @@ _Updated: 2026-08-10 19:26_
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
@@ -147,7 +147,7 @@ _Updated: 2026-08-10 19:26_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Jord, kor och klimat - SLU
