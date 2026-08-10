@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-11 00:07_
+_Updated: 2026-08-11 01:06_
 
 ## Top Stories
 
-- Över 100 döda i kraftigt skalv i Colombia - dn.se
-- EDVARD HOLLERTZ: Dumpa Vänstern, Magdalena Andersson - Corren
+- 111 döda i Colombia efter jordbävning - Göteborgs-Posten
+- Nytt ryskt drag – luftkriget mot Ukraina trappas upp - Dagens Nyheter
 - Strömmer om spionaffär: ”Ingen koppling till valet” - Göteborgs-Posten
-- Nytt ryskt drag – luftkriget mot Ukraina trappas upp - dn.se
-- Misstänkte mördarens ex larmade polisen - Aftonbladet
+- Adam Cwejman: Vänsterpartiets problem är större än enskilda skandaler - Göteborgs-Posten
+- Ett år före Tjörnolyckan: Svensk lots flaggade för försummelse på olycksfartyg - Dagens Nyheter
 - Tusentals inom PKK kan släppas – ny lag godkänd - SVT Nyheter
 - Stor till extremt stor brandrisk i södra Sverige - Västerbottens-Kuriren
-- Jättebygget tre år försenat – fortsatt oklart när bussterminalen öppnar - dn.se
+- Jättebygget tre år försenat – fortsatt oklart när bussterminalen öppnar - Dagens Nyheter
+- Debatt om bidrag: ”Ska löna sig att arbeta” – Senaste nytt om valet 2026 - SVT Nyheter
 - Ökning av bedrägeriförsök av typen ”sms från barn” - Polisen.se
-- Ett barn träffades i foten när polis avlossade skott i Helsingborg - SVT Nyheter
 - Ryssland: Många döda i oljeanfall 100 mil bort - Göteborgs-Posten
 - Romerskt skeppsvrak upptäckt: ”Mest otroliga” - Corren
 - Sköterska mördade patienter – utreds för nya fall - NT
-- Mobilisering i Ukraina går trögt – värnpliktsvägrare grips - Sveriges Radio
+- Kriget i Ukraina: Kampanjen mot Krim har bara börjat - Dagens Nyheter
 - SBB FÖLL EFTER VD-BYTE, RAYSEARCH STEG, OMXS30 -0,2% - Placera.se
 - Små nedgångar på Wall Street – nytt lyft för Space X - Omni – Alla nyheter. Alla perspektiv.
-- Spretigt på Europabörserna - EFN
-- Nytt underlag skjuter upp beslut om Googles köp i Timrå - Sveriges Radio
+- EXTRA: Leiv Synnes lämnar SBB på dagen – han tar över - EFN
+- Högtryck på Europas börser – dessa aktier jagar investerarna - Börskollen
 - Nasa hyr hel by under solförmörkelsen - Aftonbladet
 - Apple kan släppa aktivitetsarmband utan skärm. Rund Apple Watch sägs också vara på tapeten. - Feber
 
@@ -59,7 +59,7 @@ _Updated: 2026-08-11 00:07_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - xpert.digital
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
@@ -128,7 +128,7 @@ _Updated: 2026-08-11 00:07_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Täta band mellan turism och forskning på Svalbard - slu.se
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
@@ -142,7 +142,7 @@ _Updated: 2026-08-11 00:07_
 
 ## Jordbruk
 
-- Sveriges förändrade lantbruk - slu.se
+- Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
@@ -150,15 +150,15 @@ _Updated: 2026-08-11 00:07_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Jord, kor och klimat - slu.se
+- Jord, kor och klimat - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - land.se
-- Lantbrukslogik – nu och i framtiden - slu.se
+- Lantbrukslogik – nu och i framtiden - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - land.se
-- Kan agroekologi mätta världen? - slu.se
+- Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - land.se
 - De blev grönsaksodlare tack vare lokalt stöd - land.se
