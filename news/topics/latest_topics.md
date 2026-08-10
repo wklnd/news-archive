@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-10 01:58_
+_Updated: 2026-08-10 04:41_
 
 ## Top Stories
 
 - Trump: Ny taktik mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Skogsbrand söder om Stockholm släckt - Göteborgs-Posten
+- Netanyahu nobbar Gazareträtt - Dagens Nyheter
+- Skjutning i Danmark – tre skadade - Göteborgs-Posten
+- Turistguide kan ha stoppat terrordåd - kvartal.se
 - Amerikanskt oljebolag förbereder borrning på Grönland – utan tillstånd - Göteborgs-Posten
-- KRÖNIKA: Vi måste bli bättre på att ha semester - Hufvudstadsbladet – HBL
-- Tre skadade i dansk skottlossning - Dagens Nyheter
-- Andersson om V-samarbete: ”Behöver göra en rejäl resa” - Dagens Nyheter
+- Ryssland: Tre döda efter ukrainsk drönarattack - Västerbottens-Kuriren
 - Rådjur på fel sida viltstängslet på E18 - Enköpingsposten
-- Misstänkta skärgårds- mördaren fåordig i förhör - Expressen
-- Stopp på väg 55 på grund av olycka med flera personbilar - unt.se
-- S lovar extra barnbidrag inför jul- och sommarlov - Corren
-- Trump: Vi har en dämpad taktik mot Iran - Göteborgs-Posten
+- Normalisera inte förräderiretoriken - Dagens Arena
+- Skottlossning i Trångsund - Göteborgs-Posten
+- Ufo-experten om ”spökraketerna”: Genuint gåtfullt - Svenska Dagbladet
 - Experter: Kanada får vänja sig vid skogsbränder - Omni – Alla nyheter. Alla perspektiv.
 - Sverige pekas ut som Nordens underrättelsenav – en av Europas främsta - Dagens Nyheter
-- Ovanliga sköldpaddan har vilat upp sig – ska flygas 800 mil - Dagens Nyheter
+- Flera fordon i krock på E4 - Expressen
+- 2 000 år gammalt skeppsvrak upptäckt utanför Sicilien - Dagens Nyheter
+- Familjen sa nej till 30 euro kvadratmetern – nu tvingas de lämna den för två - Dagens PS
+- Oljepriset klättrar - Västerbottens-Kuriren
 - Därför kan matpriserna bli högre igen - Nya Wermlands-Tidningen
-- Varnar för ”jokrar” i ekonomin: ”Uppåtrisk” - Svenska Dagbladet
-- Toppanalytikerna: Tre aktier med stor uppsida - Dagens industri
-- Pekas ut – hjälpte inte strandsatt båt - Expressen
+- Chefsekonom: För tidigt att ropa återhämtning – ”jokrar” kan störa - Tidningen Näringslivet
 - Dansbandspedofilens liv i fängelset – fyndet i cellen - Expressen
 - Solförmörkelse på onsdag – så ser du den säkert - Sveriges Radio
 
@@ -40,13 +40,13 @@ _Updated: 2026-08-10 01:58_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Kuriren nominerad för satsning på unga läsare - kuriren.nu
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
+- Kuriren nominerad för satsning på unga läsare - Kuriren
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Global Reseskydd erbjuder hemresegaranti - travelnews-se
 
 ## Technology
 
@@ -77,11 +77,11 @@ _Updated: 2026-08-10 01:58_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Four European takes on open banking - Mastercard Data and Services - mastercard.com
+- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - finanstid.se
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -97,7 +97,7 @@ _Updated: 2026-08-10 01:58_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
@@ -111,7 +111,7 @@ _Updated: 2026-08-10 01:58_
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
@@ -120,9 +120,9 @@ _Updated: 2026-08-10 01:58_
 ## Science
 
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
-- Activities for the public – Department of Earth Sciences - uu.se
+- Activities for the public – Department of Earth Sciences - Uppsala universitet
 - KIST - Hai Phong-teknikbron: Från forskning till praktisk tillämpning - Vietnam.vn
-- Sherry Nakhaeizadeh - uu.se
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
@@ -131,14 +131,14 @@ _Updated: 2026-08-10 01:58_
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Olika slutsatser från samma data - Läkartidningen
-- 5 myter om öppen vetenskap - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 
 ## Jordbruk
 
@@ -147,7 +147,7 @@ _Updated: 2026-08-10 01:58_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - Här är världens största jordbruk - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
