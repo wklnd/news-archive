@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-11 01:06_
+_Updated: 2026-08-11 02:00_
 
 ## Top Stories
 
-- 111 döda i Colombia efter jordbävning - Göteborgs-Posten
-- Nytt ryskt drag – luftkriget mot Ukraina trappas upp - Dagens Nyheter
-- Strömmer om spionaffär: ”Ingen koppling till valet” - Göteborgs-Posten
-- Adam Cwejman: Vänsterpartiets problem är större än enskilda skandaler - Göteborgs-Posten
-- Ett år före Tjörnolyckan: Svensk lots flaggade för försummelse på olycksfartyg - Dagens Nyheter
-- Tusentals inom PKK kan släppas – ny lag godkänd - SVT Nyheter
+- Nytt ryskt drag – luftkriget mot Ukraina trappas upp - dn.se
+- Katastrofläge utlyst – över 100 döda i Colombia - Göteborgs-Posten
+- DN Direkt – Nästan 1 000 flyg inställda i stormdrabbat Shanghai - dn.se
+- Rysk underrättelseofficer i hemligt möte med agent – på pub i Sverige - SVT Nyheter
+- 12-årige ”Younes” sköts i foten – berättar om skräckfärden i bilen - HD
+- EDVARD HOLLERTZ: Dumpa Vänstern, Magdalena Andersson - Corren
 - Stor till extremt stor brandrisk i södra Sverige - Västerbottens-Kuriren
-- Jättebygget tre år försenat – fortsatt oklart när bussterminalen öppnar - Dagens Nyheter
-- Debatt om bidrag: ”Ska löna sig att arbeta” – Senaste nytt om valet 2026 - SVT Nyheter
+- Svantesson (M) om V-breven: ”Blir mållös” – Senaste nytt om valet 2026 - SVT Nyheter
 - Ökning av bedrägeriförsök av typen ”sms från barn” - Polisen.se
+- Trafikverkets varning: rådjur på vägen på E4 - SN, Södermanlands Nyheter
+- DN Direkt – Över 6 300 bekräftat döda i Venezuela - dn.se
 - Ryssland: Många döda i oljeanfall 100 mil bort - Göteborgs-Posten
 - Romerskt skeppsvrak upptäckt: ”Mest otroliga” - Corren
-- Sköterska mördade patienter – utreds för nya fall - NT
-- Kriget i Ukraina: Kampanjen mot Krim har bara börjat - Dagens Nyheter
+- Ukrainas jordbruksminister ser lägre spannmålsexport efter ryska attacker - Reuters - Placera.se
 - SBB FÖLL EFTER VD-BYTE, RAYSEARCH STEG, OMXS30 -0,2% - Placera.se
 - Små nedgångar på Wall Street – nytt lyft för Space X - Omni – Alla nyheter. Alla perspektiv.
-- EXTRA: Leiv Synnes lämnar SBB på dagen – han tar över - EFN
-- Högtryck på Europas börser – dessa aktier jagar investerarna - Börskollen
+- Spretigt på Europabörserna - EFN
+- Börsexperterna efter lyftet: ”Har mer att ge” - Svenska Dagbladet
 - Nasa hyr hel by under solförmörkelsen - Aftonbladet
 - Apple kan släppa aktivitetsarmband utan skärm. Rund Apple Watch sägs också vara på tapeten. - Feber
 
@@ -32,7 +32,7 @@ _Updated: 2026-08-11 01:06_
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - nhl.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -42,7 +42,7 @@ _Updated: 2026-08-11 01:06_
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Radisson satsar stort på långtidsboende globalt - travelnews-se
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
@@ -60,12 +60,12 @@ _Updated: 2026-08-11 01:06_
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- 290 million for digitalisation of Swedish industry - Vinnova
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -78,7 +78,7 @@ _Updated: 2026-08-11 01:06_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - finanstid.se
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -99,7 +99,7 @@ _Updated: 2026-08-11 01:06_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - vietnam.vn
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
@@ -119,11 +119,11 @@ _Updated: 2026-08-11 01:06_
 
 ## Science
 
-- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
+- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- KIST - Hai Phong-teknikbron: Från forskning till praktisk tillämpning - Vietnam.vn
+- KIST - Hai Phong-teknikbron: Från forskning till praktisk tillämpning - vietnam.vn
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Vietnam utbyter erfarenheter med Sydkorea om utveckling av mänskliga resurser och nationella metrologisystem. - Vietnam.vn
+- Vietnam utbyter erfarenheter med Sydkorea om utveckling av mänskliga resurser och nationella metrologisystem. - vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
@@ -144,21 +144,21 @@ _Updated: 2026-08-11 01:06_
 
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - land.se
+- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - ATL
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
+- Här är världens största jordbruk - atl.nu
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Jord, kor och klimat - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - land.se
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Så ska det australiensiska jordbruket bli hållbart - atl.nu
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Visning av uppkomst efter direktsådd - land.se
+- Visning av uppkomst efter direktsådd - Land.se
 - Lantbrukslogik – nu och i framtiden - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Hellre plöjningsfri odling än ekologisk - land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - land.se
-- De blev grönsaksodlare tack vare lokalt stöd - land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
