@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-11 06:02_
+_Updated: 2026-08-11 07:34_
 
 ## Top Stories
 
-- Nytt ryskt drag – luftkriget mot Ukraina trappas upp - Dagens Nyheter
-- Över 130 döda i Colombia efter jordbävning - Göteborgs-Posten
+- Minst 132 döda i kraftigt skalv i Colombia - Dagens Nyheter
+- Londons parker gula av rekordtorkan: ”Som Sahara” - Aftonbladet
 - 12-årige ”Younes” sköts i foten – berättar om skräckfärden i bilen - HD
-- Man knivskuren efter bråk – utreds som mordförsök - Sveriges Radio
-- Bråk om Vänsterpartiets brev i TV-studion - Göteborgs-Posten
-- Så ser du mäktiga solförmörkelsen – i Enköping - Enköpingsposten
-- Strömmer om spionaffär: ”Ingen koppling till valet” - Göteborgs-Posten
+- KD vill införa ordningsbetyg och kvarsittning - Göteborgs-Posten
+- Direkt – Kriget i Ukraina – Flera döda i ryska attacker - Dagens Nyheter
+- ”Ryssarna kan bryta igenom till årsskiftet” - Svenska Dagbladet
+- Färre småpaket från utanför EU efter ny tullavgift - Sveriges Radio
+- Mammans klassresa präglade Kristersson: ”Nästan besatt av att jag skulle anstränga mig” - Sydsvenskan
+- Misstänkt mordförsök i Malmö – en man skadad - SVT Nyheter
 - Svantesson (M) om V-breven: ”Blir mållös” – Senaste nytt om valet 2026 - SVT Nyheter
-- Stor till extremt stor brandrisk i södra Sverige - Västerbottens-Kuriren
-- DN Direkt – Mc-förare död efter krock med buss - Dagens Nyheter
-- Sköterska mördade patienter – utreds för nya fall - Västerbottens-Kuriren
+- Flera döda i ryska attacker - Göteborgs-Posten
+- Nya detaljer: Trump smugglades ut ur flygplan i cateringbil - Dagens Nyheter
 - Världshaven rekordvarma i juli – El Niño bidrar - Göteborgs-Posten
-- Iran: Eftergifter krävs från USA för Hormuzöppning - Corren
-- Tusentals inom PKK kan släppas – ny lag godkänd - SVT Nyheter
-- Små nedgångar på Wall Street – nytt lyft för Space X - Omni – Alla nyheter. Alla perspektiv.
-- Spretigt på Europabörserna - EFN
-- USA:s oljereserv minsta på 43 år - Västerbottens-Kuriren
-- Flera kedjor höjer bensinpriset - Dagens industri
-- DreamHack kommer till Sergels torg. Området blir en arena för gaming, liveshow, utmaningar och tävlingar. - Feber
-- Dansbandspedofilens liv i fängelset – fyndet i cellen - Expressen
+- Tusentals inom PKK kan släppas – ny lag godkänd - Västerbottens-Kuriren
+- USA:s oljereserv på lägsta nivån sedan 1983 - Affärsvärlden
+- Miljardförlust för Trump Media – skrotar satsningar - Omni – Alla nyheter. Alla perspektiv.
+- Stigande livsmedelspriser i juli till följd av geopolitisk osäkerhet - unric
+- Asiens börser drar åt olika håll – osäkerhet präglar tisdagens handel - Börskollen
+- Så ser du solförmörkelsen utan att skada ögonen - Aftonbladet
+- Wolter, 82: ”En chock att flytta hem till Sverige” - Svenska Dagbladet
 
 ## World News
 
-- GT World Challenge America, Sebring International Raceway på idag 06:05 - tv.nu
-- World Cup: First win for Svensk, Aebersold dominates women’s class - International Orienteering Federation
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- GT World Challenge America, Sebring International Raceway på idag 11:40 - tv.nu
+- World Cup: First win for Svensk, Aebersold dominates women’s class - orienteering.sport
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - via.tt.se
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Radisson satsar stort på långtidsboende globalt - travelnews-se
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Nasdaq to Move Global Headquarters to 4 Times Square - via.tt.se
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -58,14 +58,14 @@ _Updated: 2026-08-11 06:02_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
-- AI Sweden gathering forces to lead the development of edge learning - via.tt.se
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -77,7 +77,7 @@ _Updated: 2026-08-11 06:02_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Four European takes on open banking - Mastercard Data and Services - Mastercard
+- Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
@@ -96,64 +96,65 @@ _Updated: 2026-08-11 06:02_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - lakartidningen.se
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - vietnam.vn
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
-- firar 15 år av att skydda den globala hälsosektorn - health-isac.org
-- Örebro University’s first specialist physicians are now contributing to national healthcare - via.tt.se
+- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar HealthBench - openai.com
+- Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - lakartidningen.se
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
-- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
+- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - vietnam.vn
 - Activities for the public – Department of Earth Sciences - uu.se
-- Vietnam utbyter erfarenheter med Sydkorea om utveckling av mänskliga resurser och nationella metrologisystem. - Vietnam.vn
+- Vietnam utbyter erfarenheter med Sydkorea om utveckling av mänskliga resurser och nationella metrologisystem. - vietnam.vn
 - Sherry Nakhaeizadeh - uu.se
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - lakartidningen.se
-- AI för vetenskaplig forskning och upptäckter - openai.com
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Olika slutsatser från samma data - lakartidningen.se
-- Exploaterar forskares strävan efter snabb granskning och publicering - lakartidningen.se
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
-- 5 myter om öppen vetenskap - lakartidningen.se
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - lakartidningen.se
-- Många fallgropar i arbetet att ta fram systematiska översikter - lakartidningen.se
+- Olika slutsatser från samma data - Läkartidningen
+- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 
 ## Jordbruk
 
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Jord, kor och klimat - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - Lantbrukslogik – nu och i framtiden - SLU
@@ -161,4 +162,3 @@ _Updated: 2026-08-11 06:02_
 - Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
