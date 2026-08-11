@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-11 19:28_
+_Updated: 2026-08-11 20:25_
 
 ## Top Stories
 
 - KD utmanar Liberalerna – lanserar sig själva som skolparti - Göteborgs-Posten
 - Ryska tältparet i Gävle – polisen utreder förberedelse till grov stöld - SVT Nyheter
-- Seismolog om skalvet i Colombia: ”Ovanligt stort” - Göteborgs-Posten
-- Kaptenens rapport: Lotsen lämnade båten före larmet - Aftonbladet
 - Kristersson om ryska spionoperationen: ”Det var nära politiken” - Dagens Nyheter
-- Nytt vittne såg Nybergs krasch: Hon ville köra direkt - Omni – Alla nyheter. Alla perspektiv.
-- Misstänkte mördaren: ”Uppenbart vad som hänt” - Göteborgs-Posten
+- Olycksfartyget saknade resplan – anmäldes - Göteborgs-Posten
+- Nya vittnet till kraschen: ”Hon plöjer ner alla skyltar” - Dagens Nyheter
+- ”Osannolikt att Iran skulle våga mörda Trump” - Västerbottens-Kuriren
 - Eldningsförbud införs i Östergötland: ”Extremt torrt” - SVT Nyheter
+- Misstänkte mördaren: ”Uppenbart vad som hänt” - Göteborgs-Posten
 - Ny högsommarvärme på väg – upp mot 27 grader - Nya Lidköpings-Tidningen
 - Skicka din fråga till Statsministermötet – Senaste nytt om valet 2026 - SVT Nyheter
-- Anna Bratt: Därför vill Trump att barn ska få färre vaccin - Dagens Nyheter
-- Källor: Trump gömdes i cateringbil – rädd för Iran - Göteborgs-Posten
-- Tusentals inom PKK kan släppas – ny lag godkänd - Västerbottens-Kuriren
+- Seismolog om skalvet i Colombia: ”Ovanligt stort” - Dagens Nyheter
+- Europas omstridda territorier utanför Europa – där Trump ofta har ett finger med i spelet - Dagens Nyheter
 - USA besköt fartyg på väg mot Iran - Västerbottens-Kuriren
-- Experterna: Därför kan Stockholmsbörsen fortsätta upp – och slå USA - Börskollen
-- Di: Storskogens rapport ger stöd för högre värdering - Börsvärlden
+- Zelenskyj: Robotar från Nordkorea i anfall - Hufvudstadsbladet – HBL
 - Småsparare rusade till notering av kinesiskt robotbolag - Omni – Alla nyheter. Alla perspektiv.
+- Storskogen rapporterar i linje med konsensus - Affärsvärlden
 - KI: Lågkonjunkturen över – nu väntar räntehöjningar - Västerbottens-Kuriren
-- Partiell solförmörkelse i Sverige – expert varnar - sverigesradio.se
+- Stockholmsbörsen föll i försiktig handel - Göteborgs-Posten
+- Bengt och Håkan har rest till Spanien för solförmörkelsen - Göteborgs-Posten
 - Härligt maxat – som bara fiktion från öst kan bjuda på - Aftonbladet
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på idag 11:40 - tv.nu
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - via.tt.se
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
-- Etraveli rusar – 175 miljarder och global styrka - travelnews.se
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - Shock as government axes funding for SDGs-related research - University World News
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- Spelet bakom nedläggningen av News of the World - Expressen
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -59,7 +59,7 @@ _Updated: 2026-08-11 19:28_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - xpert.digital
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
@@ -101,15 +101,15 @@ _Updated: 2026-08-11 19:28_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Låt oss prata hälsa – Intensivvård – Segment 1 - apollohospitals.com
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Sju life science-trender 2026 - Business Region Göteborg
+- Sju life science-trender 2026 - businessregiongoteborg.se
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
+- Örebro University’s first specialist physicians are now contributing to national healthcare - via.tt.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
@@ -130,19 +130,19 @@ _Updated: 2026-08-11 19:28_
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Vietnam utbyter erfarenheter med Sydkorea om utveckling av mänskliga resurser och nationella metrologisystem. - Vietnam.vn
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Täta band mellan turism och forskning på Svalbard - SLU
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Täta band mellan turism och forskning på Svalbard - slu.se
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 
 ## Jordbruk
 
-- Sveriges förändrade lantbruk - SLU
+- Sveriges förändrade lantbruk - slu.se
 - Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
@@ -150,15 +150,15 @@ _Updated: 2026-08-11 19:28_
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
-- Jord, kor och klimat - SLU
+- Jord, kor och klimat - slu.se
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
 - Visning av uppkomst efter direktsådd - Land.se
-- Lantbrukslogik – nu och i framtiden - SLU
+- Lantbrukslogik – nu och i framtiden - slu.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Kan agroekologi mätta världen? - SLU
+- Kan agroekologi mätta världen? - slu.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
