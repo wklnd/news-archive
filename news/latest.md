@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-11 16:04_
+_Updated: 2026-08-11 17:36_
 
-- Trump hid in catering truck in secret plane swap over Iran threat, reports say - bbc.com
-- Primaries test the Democratic Party and ‘red alert’ after Colombia earthquake: Morning Rundown - NBC News
-- WA leaders respond to Trump’s new order about child vaccine rules - The Seattle Times
+- Trump hid in catering truck in secret plane swap over Iran threat, reports say - BBC
+- American Academy of Pediatrics calls Trump vaccine order ‘dangerous’ - The Hill
 - Armed troops have patrolled D.C. for 1 year now. It's challenging democratic norms - NPR
-- Former Syrian President Assad sentenced to death in absentia for war crimes - AP News
-- Evacuation orders expand for Big Sur as Timber Fire grows to 1,723 acres - KSBW
-- Wisconsin considers democratic socialist for governor amid US wave of progressive wins - The Guardian
+- Ukraine war live: Putin using North Korean missiles to strike Kyiv, Zelensky says - The Independent
+- Wildfire Forces Evacuations in Big Sur, Along California’s Famed Central Coast - The New York Times
+- Exclusive | U.S. Fires on Ship Breaking Its Blockade of Iran - WSJ
+- Democratic socialist leads Wisconsin governor’s race as progressives gain ground - Financial Times
+- Luigi Mangione back in court as key questions remain over case ahead of murder trial - BBC
 - Judge Temporarily Blocks Mamdani’s Pied-à-Terre Tax - WSJ
-- Tyler Boebert arrested on child sexual exploitation charges - 6abc Philadelphia
-- Democrats Plan New Push to Defeat Max Miller in Ohio After Abuse Accusations - The New York Times
-- Colombia earthquake rescuers race to find survivors in rubble as death toll rises to at least 169 - CBS News
-- Gulf States Accept a New Normal in Hormuz: Iran Is in Control - WSJ
+- What to know about South Carolina’s election to replace Lindsey Graham - Al Jazeera
+- Live updates: Colombia earthquake; Race to find survivors with help yet to reach epicenter - CNN
+- Former Syrian President Assad sentenced to death in absentia for war crimes - AP News
 - Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War - The New York Times
-- ‘We Know They Are Coming’: A Syrian Holdout Province Fears Takeover - The New York Times
+- Three killed in attacks on ships in Red Sea, Gulf, sources say - Reuters
 - S&P 500 futures ticks higher as oil prices stabilize, Nvidia gains: Live updates - CNBC
 - Mark Zuckerberg’s latest manifesto promises to save America with AI - The Washington Post
-- Nvidia gets $500bn from Wall Street giants to develop AI projects - bbc.com
-- Salmonella outbreak casts spotlight on Taylor Farms as food safety crisis deepens - Axios
+- Nvidia gets $500bn from Wall Street giants to develop AI projects - BBC
+- Powerball winning numbers drawn for $905M jackpot. Check your ticket - USA Today
 - What to expect from Google’s 2026 Pixel hardware launch event - The Verge
-- The AI takeover of mathematics has begun - The Verge
+- Motorola Moto Watch (2026) Review: Looks Can Be Deceiving - Engadget
