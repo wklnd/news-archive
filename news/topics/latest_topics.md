@@ -1,38 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-11 02:00_
+_Updated: 2026-08-11 04:34_
 
 ## Top Stories
 
-- Nytt ryskt drag – luftkriget mot Ukraina trappas upp - dn.se
+- Nytt ryskt drag – luftkriget mot Ukraina trappas upp - Dagens Nyheter
 - Katastrofläge utlyst – över 100 döda i Colombia - Göteborgs-Posten
-- DN Direkt – Nästan 1 000 flyg inställda i stormdrabbat Shanghai - dn.se
-- Rysk underrättelseofficer i hemligt möte med agent – på pub i Sverige - SVT Nyheter
 - 12-årige ”Younes” sköts i foten – berättar om skräckfärden i bilen - HD
-- EDVARD HOLLERTZ: Dumpa Vänstern, Magdalena Andersson - Corren
-- Stor till extremt stor brandrisk i södra Sverige - Västerbottens-Kuriren
+- Man knivskuren efter bråk – utreds som mordförsök - Sveriges Radio
+- Bråk om Vänsterpartiets brev i TV-studion - Göteborgs-Posten
+- Solförmörkelsen är snart här – men du måste vara redo vid helt rätt tidpunkt - Illustrerad Vetenskap
+- Strömmer om spionaffär: ”Ingen koppling till valet” - Göteborgs-Posten
+- Västervik inför eldningsförbud - SVT Nyheter
+- Jättebygget tre år försenat – fortsatt oklart när bussterminalen öppnar - Dagens Nyheter
 - Svantesson (M) om V-breven: ”Blir mållös” – Senaste nytt om valet 2026 - SVT Nyheter
-- Ökning av bedrägeriförsök av typen ”sms från barn” - Polisen.se
-- Trafikverkets varning: rådjur på vägen på E4 - SN, Södermanlands Nyheter
-- DN Direkt – Över 6 300 bekräftat döda i Venezuela - dn.se
-- Ryssland: Många döda i oljeanfall 100 mil bort - Göteborgs-Posten
-- Romerskt skeppsvrak upptäckt: ”Mest otroliga” - Corren
-- Ukrainas jordbruksminister ser lägre spannmålsexport efter ryska attacker - Reuters - Placera.se
+- Tusentals inom PKK kan släppas – ny lag godkänd - SVT Nyheter
+- Sköterska mördade patienter – utreds för nya fall - Göteborgs-Posten
+- Rekordhet sommar i Västeuropa – och nu kommer nästa värmebölja - Dagens Nyheter
+- Iran: Eftergifter krävs från USA för Hormuzöppning - Corren
 - SBB FÖLL EFTER VD-BYTE, RAYSEARCH STEG, OMXS30 -0,2% - Placera.se
 - Små nedgångar på Wall Street – nytt lyft för Space X - Omni – Alla nyheter. Alla perspektiv.
 - Spretigt på Europabörserna - EFN
 - Börsexperterna efter lyftet: ”Har mer att ge” - Svenska Dagbladet
-- Nasa hyr hel by under solförmörkelsen - Aftonbladet
 - Apple kan släppa aktivitetsarmband utan skärm. Rund Apple Watch sägs också vara på tapeten. - Feber
+- Dansbandspedofilens liv i fängelset – fyndet i cellen - Expressen
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på idag 06:05 - tv.nu
 - World Cup: First win for Svensk, Aebersold dominates women’s class - International Orienteering Federation
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - news.cision.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
-- Global Series stort för Karlsson: ”Fantastiskt” - nhl.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -42,34 +42,34 @@ _Updated: 2026-08-11 02:00_
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Radisson satsar stort på långtidsboende globalt - travelnews-se
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
-- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - news.cision.com
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 
 ## Technology
 
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - computersweden.se
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - computersweden.se
+- Nu blir datorerna dyrare – efter prishöjning på minnen - computersweden.se
+- Amazon lanserar kraftfulla AI-chippet Trainium 3 - computersweden.se
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - computersweden.se
+- Tiden för billig vibe coding kan vara över - computersweden.se
+- Albanien utser AI-bot till minister - computersweden.se
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - computersweden.se
 
 ## Business
 
@@ -78,17 +78,17 @@ _Updated: 2026-08-11 02:00_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - finanstid.se
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
@@ -99,8 +99,8 @@ _Updated: 2026-08-11 02:00_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - vietnam.vn
-- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
+- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - news.cision.com
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
@@ -119,22 +119,22 @@ _Updated: 2026-08-11 02:00_
 
 ## Science
 
-- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - vietnam.vn
+- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- KIST - Hai Phong-teknikbron: Från forskning till praktisk tillämpning - vietnam.vn
+- Vietnam utbyter erfarenheter med Sydkorea om utveckling av mänskliga resurser och nationella metrologisystem. - Vietnam.vn
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Vietnam utbyter erfarenheter med Sydkorea om utveckling av mänskliga resurser och nationella metrologisystem. - vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
@@ -147,13 +147,13 @@ _Updated: 2026-08-11 02:00_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
-- Här är världens största jordbruk - atl.nu
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Här är världens största jordbruk - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Jord, kor och klimat - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Så ska det australiensiska jordbruket bli hållbart - atl.nu
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - Lantbrukslogik – nu och i framtiden - SLU
