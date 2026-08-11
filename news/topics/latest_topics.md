@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-11 11:31_
+_Updated: 2026-08-11 12:26_
 
 ## Top Stories
 
-- Svensk kvinna skjuten på turistgata i Lissabon - Västerbottens-Kuriren
-- Klippte fotbojan – nu har mördaren hittats - Expressen
-- Peking kan få en tredjedel av årets regn på ett dygn - Västerbottens-Kuriren
-- Trump undertecknar presidentorder om färre barnvaccin - Placera.se
-- Åkesson: Vill lägga exakt noll på integration - Göteborgs-Posten
-- Minst 132 döda i kraftigt skalv i Colombia - Dagens Nyheter
-- Västervik inför eldningsförbud - SVT Nyheter
+- Fotboll: Klart: Robbie Ure klar för Sevilla i rekordövergång - SVT Nyheter
+- Rapporter: Svensk kvinna skjuten i Lissabon - Göteborgs-Posten
+- Misstänkte mördaren varken erkänner eller förnekar: ”Tumultartat” - Sveriges Radio
+- Åkesson: Vill lägga exakt noll på integration - Västerbottens-Kuriren
 - KD vill införa ordningsbetyg – Senaste nytt om valet 2026 - SVT Nyheter
+- Trump undertecknar presidentorder om färre barnvaccin - Placera.se
+- Så blir vädret i slutet av semestern - Dagens Nyheter
+- Stor till extremt stor brandrisk i södra Sverige - Västerbottens-Kuriren
 - Just nu: En stillastående lastbil orsakar stopp i ett körfält på E4 - UNT
-- Allvarliga skador efter mordförsök i Malmö - Västerbottens-Kuriren
-- Källor: Trump gömdes i mattransport - hbl.fi
-- Flera döda i ryska attacker - Corren
-- Tusentals inom PKK kan släppas – ny lag godkänd - Västerbottens-Kuriren
-- Rumänien stänger kärnreaktor – Senaste nytt om väderläget i världen - SVT Nyheter
+- Efter rymningen – morddömda mannen hittad av polisen i Göteborg - Göteborgs-Posten
+- Jordbävning i Colombia: ”Hela staden föll omkring oss" - Göteborgs-Posten
+- Källor: Trump gömdes i cateringbil – efter mordhot - Corren
+- al-Assad döms till döden för brott mot mänskligheten - SVT Nyheter
+- Direkt – Kriget i Ukraina – Zelenskyj: Nordkoreanska robotar i dödlig attack i natt - Dagens Nyheter
+- FT: Astra Zenecas jätteaffär sprack i sista stund - EFN
 - USA:s oljereserv på lägsta nivån sedan 1983 - Affärsvärlden
-- Nvidia tar hjälp av Wall Street för AI-satsning på 500 miljarder dollar - Computer Sweden
-- Altor har sålt allt i Dustin - Affärsvärlden
 - Storskogen i linje med förväntan (uppdatering) - Placera.se
+- Värmeböljor kan påverka svenska matpriser - Tidningen Näringslivet
 - Solförmörkelsen – så skyddar du dina ögon - Svenska Dagbladet
-- Ny läcka: Så stort blir batteriet till nya Iphone 18 Pro Max - Ny Teknik
+- Ny läcka: Så stort blir batteriet till nya Iphone 18 Pro Max - nyteknik
 
 ## World News
 
@@ -32,19 +32,19 @@ _Updated: 2026-08-11 11:31_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - via.tt.se
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - bbc.com
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Spelet bakom nedläggningen av News of the World - Expressen
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
@@ -55,13 +55,13 @@ _Updated: 2026-08-11 11:31_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - fuf.se
-- Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - blogg.avanza.se
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - omni.se
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
@@ -105,7 +105,7 @@ _Updated: 2026-08-11 11:31_
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Örebro University’s first specialist physicians are now contributing to national healthcare - via.tt.se
+- Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
@@ -148,7 +148,7 @@ _Updated: 2026-08-11 11:31_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
