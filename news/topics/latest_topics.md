@@ -1,38 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-11 12:26_
+_Updated: 2026-08-11 13:20_
 
 ## Top Stories
 
-- Fotboll: Klart: Robbie Ure klar för Sevilla i rekordövergång - SVT Nyheter
-- Rapporter: Svensk kvinna skjuten i Lissabon - Göteborgs-Posten
-- Misstänkte mördaren varken erkänner eller förnekar: ”Tumultartat” - Sveriges Radio
+- Misstänkte mördaren: ”Uppenbart vad som hänt” - Göteborgs-Posten
 - Åkesson: Vill lägga exakt noll på integration - Västerbottens-Kuriren
-- KD vill införa ordningsbetyg – Senaste nytt om valet 2026 - SVT Nyheter
-- Trump undertecknar presidentorder om färre barnvaccin - Placera.se
+- Skicka din fråga till Statsministermötet – Senaste nytt om valet 2026 - SVT Nyheter
+- Nya presidentordern: Färre vaccin till barn - Svenska Dagbladet
+- Man död efter misshandel i Majorna – en häktad - Göteborgs-Posten
+- Svensk kvinna skjuten på turistgata i Lissabon - Västerbottens-Kuriren
+- Nu är det eldningsförbud i hela Kalmar län - SVT Nyheter
 - Så blir vädret i slutet av semestern - Dagens Nyheter
-- Stor till extremt stor brandrisk i södra Sverige - Västerbottens-Kuriren
 - Just nu: En stillastående lastbil orsakar stopp i ett körfält på E4 - UNT
 - Efter rymningen – morddömda mannen hittad av polisen i Göteborg - Göteborgs-Posten
-- Jordbävning i Colombia: ”Hela staden föll omkring oss" - Göteborgs-Posten
-- Källor: Trump gömdes i cateringbil – efter mordhot - Corren
+- Minst 132 döda i kraftigt skalv i Colombia - Dagens Nyheter
+- Tusentals inom PKK kan släppas – ny lag godkänd - Västerbottens-Kuriren
 - al-Assad döms till döden för brott mot mänskligheten - SVT Nyheter
-- Direkt – Kriget i Ukraina – Zelenskyj: Nordkoreanska robotar i dödlig attack i natt - Dagens Nyheter
-- FT: Astra Zenecas jätteaffär sprack i sista stund - EFN
+- Zelenskyj: Robotar från Nordkorea i anfall - Göteborgs-Posten
 - USA:s oljereserv på lägsta nivån sedan 1983 - Affärsvärlden
-- Storskogen i linje med förväntan (uppdatering) - Placera.se
-- Värmeböljor kan påverka svenska matpriser - Tidningen Näringslivet
+- Berkshire Hathaways rekordstora kassa minskar - Placera.se
+- Fem orosmoln som kan sänka börsen i höst - Dagens PS
+- DN Direkt – Stockholmsbörsen inleder i moll - Dagens Nyheter
 - Solförmörkelsen – så skyddar du dina ögon - Svenska Dagbladet
-- Ny läcka: Så stort blir batteriet till nya Iphone 18 Pro Max - nyteknik
+- Produktionskostnaden för Iphone 18 Pro väntas öka rejält - Computer Sweden
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på idag 11:40 - tv.nu
 - World Cup: First win for Svensk, Aebersold dominates women’s class - International Orienteering Federation
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - bbc.com
@@ -44,7 +45,6 @@ _Updated: 2026-08-11 12:26_
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
-- Spelet bakom nedläggningen av News of the World - Expressen
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
@@ -54,11 +54,11 @@ _Updated: 2026-08-11 12:26_
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - fuf.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - blogg.avanza.se
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
@@ -77,7 +77,7 @@ _Updated: 2026-08-11 12:26_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - nordea.com
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -109,7 +109,7 @@ _Updated: 2026-08-11 12:26_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
@@ -119,25 +119,25 @@ _Updated: 2026-08-11 12:26_
 
 ## Science
 
-- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Vietnam utbyter erfarenheter med Sydkorea om utveckling av mänskliga resurser och nationella metrologisystem. - Vietnam.vn
-- Sherry Nakhaeizadeh - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
+- Vietnam utbyter erfarenheter med Sydkorea om utveckling av mänskliga resurser och nationella metrologisystem. - Vietnam.vn
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- 5 myter om öppen vetenskap - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 
 ## Jordbruk
