@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-12 00:23_
+_Updated: 2026-08-12 01:23_
 
 - Trump took a secret flight out of Turkey in an elaborate plot to hide his location amid Iran war - NBC News
+- Primaries Live Updates: Wisconsin, South Carolina and Minnesota Elections Pose Test for Progressives and Trump - nytimes.com
 - Live updates: Over 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet - CNN
-- Trump wants to split the MMR vaccine. Experts say that's unlikely — and comes with consequences - CNBC
-- In Upper Midwest primaries, a test of progressive energy and Trump's influence - Reuters
+- 5 questions parents may have after Trump's latest vaccine move - NPR
 - Exclusive | U.S. Fires on Ship Breaking Its Blockade of Iran - WSJ
-- A year after D.C. takeover, Trump says crime has plummeted. It’s not that simple. - The Washington Post
-- Former US Marine Robert Gilman released from detention in Russia - The Hill
+- Wisconsin considers democratic socialist for governor amid US wave of progressive wins - The Guardian
 - Trump warns new Hochul, Mamdani pied-à-terre tax could accelerate NYC wealth exodus - Fox Business
+- Severe weather pounds Illinois and Indiana, knocking out power as tornado sirens blare - AP News
+- To Improve Student Mental Health, University of Michigan Eases Grading - nytimes.com
 - Luigi Mangione murder trial to have anonymous jury and overflow seating - BBC
-- White House asked DOJ about new Reflecting Pool case against David Hearn - CBS News
-- “Total Whitewash”: New Pentagon Report Claims U.S. Killed No Civilians in Boat Strikes - The Intercept
-- Russia's Sibur petrochemical plant in western Siberia shut after drone attack, sources say - Reuters
-- Former Syrian President Assad sentenced to death in absentia - Fox News
-- Spain prepares for eclipse under shadow of wildfire risk - Reuters
+- Farage vs Count Binface: What to know about UK snap poll - France 24
+- Hormuz to stay closed unless US meets Iran's conditions, Iran official says - Reuters
+- Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia - BBC
+- What really happens after Ukraine strikes a Russian oil refinery? Meduza analyzed unique satellite data to assess the damage. - Meduza
 - Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC
-- Stock Market Today: Dow Falls, Oil Rises As Iran Says This On Hormuz; Energy Play Eyes Entry (Live Coverage) - Investor's Business Daily
-- CoreWeave narrows Q2 losses, stock climbs 8% - Yahoo Finance
-- Trump Media says Wall Street firms are paying up to $100K for early access to Trump posts - CNN
+- CoreWeave Shares Jump 12% as Revenue Doubles From Year Earlier - WSJ
+- Wall Street ends down as US-Iran peace optimism fades - Reuters
+- Mamdani Backs Proposal to End Amazon's 'Exploitative' Delivery Model in New York City - Common Dreams
 - Sonos will launch new wireless headphones next month, official filing suggests - What Hi-Fi?
-- iPhone Users Who Pay for Enough iCloud Storage Get New iOS 27 Perks - MacRumors
+- Every Galaxy phone and tablet eligible to get One UI 9 (Android 17) update - SamMobile
