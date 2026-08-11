@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-11 21:44_
+_Updated: 2026-08-11 22:24_
 
-- Trump hid in catering truck in secret plane swap over Iran threat, reports say - BBC
-- Primary elections underway in Minnesota, Wisconsin and more states - Fox News
+- Trump's secret plane switch: How Air Force One protects the president from threats - Axios
+- What to watch Tuesday: Primaries in Wisconsin and Minnesota showcase Democratic divide - AP News
+- Live updates: Over 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet - CNN
+- ‘This is not TripAdvisor’: Lindsay Clancy fights to add TikTok creator to witness list - Court TV
 - Armed troops have patrolled D.C. for 1 year now. It's challenging democratic norms - NPR
-- Colombia searches for over 3,000 missing after a powerful earthquake kills more than 100 - apnews.com
-- Trump dives headfirst back into vaccine minefield ahead of the midterm elections - axios.com
-- Exclusive | U.S. Fires on Ship Breaking Its Blockade of Iran - WSJ
-- Trump lambasts pied-à-terre tax he will likely have to pay - Politico
-- Robert Gilman, U.S. Marine veteran, freed from Russian prison after nearly 4 years - CBS News
+- Famed tourist destinations evacuated as wildfire threatens California’s Big Sur - The Guardian
+- Former US Marine Robert Gilman released from detention in Russia - The Hill
 - Francesca Hong aims to ride progressive wave in Wisconsin primary for governor - The Guardian
 - Jury in Luigi Mangione’s state trial will be anonymous, judge rules - NBC News
-- Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - apnews.com
-- Former Syrian dictator Bashar al-Assad is sentenced to death in absentia - The Washington Post
-- What really happens after Ukraine strikes a Russian oil refinery? Meduza analyzed unique satellite data to assess the damage. - Meduza
+- Trump lambasts pied-à-terre tax he will likely have to pay - politico.com
+- Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia - BBC
+- Russia's Sibur petrochemical plant in western Siberia shut after drone attack, sources say - Reuters
+- Six Killed in Houthi Strikes on Red Sea Ship, Yemeni Government Says - The New York Times
 - Russian attacks kill 12, Zelenskyy claims use of North Korean missiles - Al Jazeera
-- Stock Market Today: Dow, Nasdaq Sink; Oil Nears $90; Intel, Trump Media in Focus — Live Updates - WSJ
+- Stock Market Today: Dow, S&P 500 and Nasdaq fall as oil prices rise, as hopes for a Middle East peace deal fade - MarketWatch
 - AI, chip stocks mixed after Nvidia's $500B AI financing deal - Seeking Alpha
-- Toyota recalls 655K Camrys over display error that may deactivate turn signals and other indicators - ABC News - Breaking News, Latest News and Videos
-- US existing homes fall 1.7% in July as record prices, high mortgage rates stifle would be-buyers - apnews.com
-- New photos show a canceled 2014 Microsoft Surface Phone prototype - Windows Central
+- Wall St inches lower as tech drags, US-Iran peace optimism fades - Reuters
+- Mamdani Takes on Amazon in New Battle Over New York’s Delivery Workers - WSJ
+- Grok Bot is an all-new iPhone and Mac app from SpaceXAI and Cursor - 9to5Mac
 - Google’s upcoming Pixel phones are for the fans, even if its launch event isn’t - The Verge
