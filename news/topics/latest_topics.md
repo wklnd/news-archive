@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-11 08:30_
+_Updated: 2026-08-11 09:45_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Man knivskuren efter bråk – misstänkt mordförsök - dn.se
-- USA skickar nödhjälp till Colombia - Göteborgs-Posten
-- Åkesson: Vill lägga exakt noll på integration - Göteborgs-Posten
+- Dubbla knivskärningar i Malmö under natten - omni.se
+- Minst 132 döda i kraftigt skalv i Colombia - dn.se
+- Bråk om Vänsterpartiets brev i TV-studion - Göteborgs-Posten
+- KD vill införa ordningsbetyg och kvarsittning - Svenska Dagbladet
+- JUST NU: Klippte fotbojan – nu har mördaren hittats - Expressen
 - Londons parker gula av rekordtorkan: ”Som Sahara” - Aftonbladet
-- Mördare hittad av polis - expressen.se
-- V-veteranen kritisk mot Dadgostar - Kvartal
-- Färre småpaket från utanför EU efter ny tullavgift - Sveriges Radio
+- Åkesson: Vill lägga exakt noll på integration - Göteborgs-Posten
+- KD vill införa ordningsbetyg – Senaste nytt om valet 2026 - SVT Nyheter
 - Mammans klassresa präglade Kristersson: ”Nästan besatt av att jag skulle anstränga mig” - Sydsvenskan
-- Personbil stillastående på E4 – stopp i ett körfält - unt.se
-- Svantesson (M) om V-breven: ”Blir mållös” – Senaste nytt om valet 2026 - SVT Nyheter
-- Flera döda och många skadade efter ryska attacker – Senaste nytt om kriget i Ukraina - SVT Nyheter
-- Källor: Trump gömdes i mattransport - Hufvudstadsbladet – HBL
-- Direkt – Krisen i Mellanöstern – Källa: Fredsplanen för Gaza fortfarande i kraft - dn.se
+- Just nu: En stillastående lastbil orsakar stopp i ett körfält på E4 - unt.se
+- Källor: Trump gömdes i mattransport - Göteborgs-Posten
+- Flera döda i ryska attacker - Corren
+- Peking kan få en tredjedel av årets regn på ett dygn - Aftonbladet
 - Världshaven rekordvarma i juli – El Niño bidrar - Göteborgs-Posten
 - USA:s oljereserv på lägsta nivån sedan 1983 - affarsvarlden.se
-- Högsta matpriserna på flera år – risk för ny inflationssmäll - Omni – Alla nyheter. Alla perspektiv.
-- Börsen mot ny försiktig start: ”Oljepriset pressas” - EFN
-- Avvaktande på Asienbörserna efter låst Irankonflikt - EFN
+- Källor: Astra Zeneca drog sig ur jätteaffär efter aktieras - omni.se
+- Bättre än väntat från Storskogen - Privata Affärer
+- Värmeböljor kan påverka svenska matpriser - Tidningen Näringslivet
 - Så ser du solförmörkelsen utan att skada ögonen - Aftonbladet
-- V65 Momarken | 2026-08-10 - ATG
+- Dansbandspedofilens liv i fängelset – fyndet i cellen - Expressen
 
 ## World News
 
@@ -32,19 +32,19 @@ _Updated: 2026-08-11 08:30_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - via.tt.se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Etraveli rusar – 175 miljarder och global styrka - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews.se
 
@@ -55,14 +55,14 @@ _Updated: 2026-08-11 08:30_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - swedbank-aktiellt.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- AI Sweden gathering forces to lead the development of edge learning - via.tt.se
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - blogg.avanza.se
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Kina utökar övervakning i realtid av invånarna - omni.se
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
@@ -96,7 +96,7 @@ _Updated: 2026-08-11 08:30_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
@@ -105,10 +105,10 @@ _Updated: 2026-08-11 08:30_
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
+- Örebro University’s first specialist physicians are now contributing to national healthcare - via.tt.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar HealthBench - openai.com
+- Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
@@ -126,19 +126,19 @@ _Updated: 2026-08-11 08:30_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- AI för vetenskaplig forskning och upptäckter - openai.com
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 
 ## Jordbruk
 
