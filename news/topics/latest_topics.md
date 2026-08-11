@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-11 18:24_
+_Updated: 2026-08-11 19:28_
 
 ## Top Stories
 
+- KD utmanar Liberalerna – lanserar sig själva som skolparti - Göteborgs-Posten
 - Ryska tältparet i Gävle – polisen utreder förberedelse till grov stöld - SVT Nyheter
-- Seismolog om skalvet i Colombia: ”Ovanligt stort” - gp.se
-- Nya vittnet till kraschen: ”Hon plöjer ner alla skyltar” - Dagens Nyheter
-- Tidö-stressen: MP och V lobbar hos deras ledamöter - gp.se
-- S KU-anmäler Forssell efter Ceuta-uttalanden – Senaste nytt om valet 2026 - SVT Nyheter
-- Åkesson: Vill lägga exakt noll på integration - Aftonbladet
-- Misstänkte mördaren: ”Uppenbart vad som hänt” - gp.se
+- Seismolog om skalvet i Colombia: ”Ovanligt stort” - Göteborgs-Posten
+- Kaptenens rapport: Lotsen lämnade båten före larmet - Aftonbladet
+- Kristersson om ryska spionoperationen: ”Det var nära politiken” - Dagens Nyheter
+- Nytt vittne såg Nybergs krasch: Hon ville köra direkt - Omni – Alla nyheter. Alla perspektiv.
+- Misstänkte mördaren: ”Uppenbart vad som hänt” - Göteborgs-Posten
 - Eldningsförbud införs i Östergötland: ”Extremt torrt” - SVT Nyheter
-- Så blir vädret i slutet av semestern - Dagens Nyheter
-- Rådet till politikerna i Sundsvall: Omförhandla Googleavtalet - SVT Nyheter
-- Källor: Trump gömdes i cateringbil – rädd för Iran - Västerbottens-Kuriren
+- Ny högsommarvärme på väg – upp mot 27 grader - Nya Lidköpings-Tidningen
+- Skicka din fråga till Statsministermötet – Senaste nytt om valet 2026 - SVT Nyheter
+- Anna Bratt: Därför vill Trump att barn ska få färre vaccin - Dagens Nyheter
+- Källor: Trump gömdes i cateringbil – rädd för Iran - Göteborgs-Posten
+- Tusentals inom PKK kan släppas – ny lag godkänd - Västerbottens-Kuriren
 - USA besköt fartyg på väg mot Iran - Västerbottens-Kuriren
-- Zelenskyj: Robotar från Nordkorea i anfall - Hufvudstadsbladet – HBL
-- DN Direkt – Turkiet benådar tusentals medlemmar i PKK - Dagens Nyheter
-- Stockholmsbörsen mot ny försiktig start: ”Oljepriset pressas” - EFN
+- Experterna: Därför kan Stockholmsbörsen fortsätta upp – och slå USA - Börskollen
+- Di: Storskogens rapport ger stöd för högre värdering - Börsvärlden
 - Småsparare rusade till notering av kinesiskt robotbolag - Omni – Alla nyheter. Alla perspektiv.
-- Storskogen rapporterar i linje med konsensus - Affärsvärlden
-- KI flaggar för att lågkonjunkturen är över nästa år - sverigesradio.se
-- Två ovanliga himlafenomen i Sverige – under samma kväll - Expressen
+- KI: Lågkonjunkturen över – nu väntar räntehöjningar - Västerbottens-Kuriren
+- Partiell solförmörkelse i Sverige – expert varnar - sverigesradio.se
 - Härligt maxat – som bara fiktion från öst kan bjuda på - Aftonbladet
 
 ## World News
@@ -39,14 +39,14 @@ _Updated: 2026-08-11 18:24_
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Etraveli rusar – 175 miljarder och global styrka - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - Shock as government axes funding for SDGs-related research - University World News
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Global turism slog nytt rekord under 2025 - travelnews.se
 
 ## Technology
 
@@ -60,13 +60,13 @@ _Updated: 2026-08-11 18:24_
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- 290 million for digitalisation of Swedish industry - Vinnova
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
@@ -77,6 +77,7 @@ _Updated: 2026-08-11 18:24_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -92,12 +93,11 @@ _Updated: 2026-08-11 18:24_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
@@ -110,7 +110,7 @@ _Updated: 2026-08-11 18:24_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - gp.se
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
@@ -119,26 +119,26 @@ _Updated: 2026-08-11 18:24_
 
 ## Science
 
-- Activities for the public – Department of Earth Sciences - uu.se
+- Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Sherry Nakhaeizadeh - uu.se
-- KIST - Hai Phong-teknikbron: Från forskning till praktisk tillämpning - Vietnam.vn
-- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
+- Forskningsutvärdering med kvalitet i fokus - Jönköping University
+- Vietnam utbyter erfarenheter med Sydkorea om utveckling av mänskliga resurser och nationella metrologisystem. - Vietnam.vn
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Vietnam utbyter erfarenheter med Sydkorea om utveckling av mänskliga resurser och nationella metrologisystem. - Vietnam.vn
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
 
