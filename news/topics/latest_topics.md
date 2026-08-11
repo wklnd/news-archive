@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-11 17:29_
+_Updated: 2026-08-11 18:24_
 
 ## Top Stories
 
 - Ryska tältparet i Gävle – polisen utreder förberedelse till grov stöld - SVT Nyheter
-- SMHI-prognos: Chans till ny högsommarvärme - Aftonbladet
-- Nya vittnet till kraschen: ”Hon plöjer ner alla skyltar” - dn.se
-- S KU-anmäler Forssell efter Ceuta-uttalanden – Senaste nytt om valet 2026 - SVT Nyheter
+- Seismolog om skalvet i Colombia: ”Ovanligt stort” - gp.se
+- Nya vittnet till kraschen: ”Hon plöjer ner alla skyltar” - Dagens Nyheter
 - Tidö-stressen: MP och V lobbar hos deras ledamöter - gp.se
-- Man död efter misshandel i Majorna – en häktad - gp.se
+- S KU-anmäler Forssell efter Ceuta-uttalanden – Senaste nytt om valet 2026 - SVT Nyheter
+- Åkesson: Vill lägga exakt noll på integration - Aftonbladet
 - Misstänkte mördaren: ”Uppenbart vad som hänt” - gp.se
 - Eldningsförbud införs i Östergötland: ”Extremt torrt” - SVT Nyheter
-- Oppositionen vill stoppa förslaget – hoppas på L-ledamöter: ”Väldigt jämnt” - SVT Nyheter
-- (M) om Googleaffären: ”Kan inte bara hanteras av kommunpolitiker ” - SVT Nyheter
-- Jordbävningen i Colombia: ”Hela staden föll” - gp.se
+- Så blir vädret i slutet av semestern - Dagens Nyheter
+- Rådet till politikerna i Sundsvall: Omförhandla Googleavtalet - SVT Nyheter
 - Källor: Trump gömdes i cateringbil – rädd för Iran - Västerbottens-Kuriren
-- DN Direkt – Turkiet benådar tusentals medlemmar i PKK - dn.se
-- Svensk kvinna skjuten på turistgata i Lissabon - UNT
-- SBB FÖLL EFTER VD-BYTE, RAYSEARCH STEG, OMXS30 -0,2% - Placera.se
-- Di: Storskogens rapport ger stöd för högre värdering - Börsvärlden
-- USA:s oljereserv minsta på 43 år - tn.se
-- Bensinpriset höjs – igen - TV4 Nyheterna
+- USA besköt fartyg på väg mot Iran - Västerbottens-Kuriren
+- Zelenskyj: Robotar från Nordkorea i anfall - Hufvudstadsbladet – HBL
+- DN Direkt – Turkiet benådar tusentals medlemmar i PKK - Dagens Nyheter
+- Stockholmsbörsen mot ny försiktig start: ”Oljepriset pressas” - EFN
+- Småsparare rusade till notering av kinesiskt robotbolag - Omni – Alla nyheter. Alla perspektiv.
+- Storskogen rapporterar i linje med konsensus - Affärsvärlden
+- KI flaggar för att lågkonjunkturen är över nästa år - sverigesradio.se
 - Två ovanliga himlafenomen i Sverige – under samma kväll - Expressen
 - Härligt maxat – som bara fiktion från öst kan bjuda på - Aftonbladet
 
@@ -33,7 +33,7 @@ _Updated: 2026-08-11 17:29_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
@@ -97,7 +97,7 @@ _Updated: 2026-08-11 17:29_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
@@ -119,13 +119,13 @@ _Updated: 2026-08-11 17:29_
 
 ## Science
 
-- Activities for the public – Department of Earth Sciences - Uppsala universitet
+- Activities for the public – Department of Earth Sciences - uu.se
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Sherry Nakhaeizadeh - Uppsala universitet
+- Sherry Nakhaeizadeh - uu.se
 - KIST - Hai Phong-teknikbron: Från forskning till praktisk tillämpning - Vietnam.vn
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -138,27 +138,27 @@ _Updated: 2026-08-11 17:29_
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Konst, vetenskap och kritiskt kulturarv - gu.se
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 
 ## Jordbruk
 
 - Sveriges förändrade lantbruk - SLU
-- Framtidens jordbruk - commission.europa.eu
+- Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Jordbruket har en nyckelroll för att rädda klimatet - land.se
+- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - land.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Visning av uppkomst efter direktsådd - land.se
+- Visning av uppkomst efter direktsådd - Land.se
 - Lantbrukslogik – nu och i framtiden - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Hellre plöjningsfri odling än ekologisk - land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
