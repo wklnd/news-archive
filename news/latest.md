@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-12 08:57_
+_Updated: 2026-08-12 10:50_
 
-- Primary Elections Live Updates: Key Races in Wisconsin, Minnesota and South Carolina - The New York Times
-- Trump's dramatic plane swap hints at personal stakes of Iran war - bbc.com
-- Trump-backed Mike Lindell loses primary for Minnesota governor to Lisa Demuth - NPR
+- Live updates: Democrats Francesca Hong and David Crowley locked in tight race for Wisconsin governor - CNN
+- Jimmy Fallon Recreates Trump’s Catering Container Escape - The New York Times
+- Progressive Peggy Flanagan wins Democratic Senate primary in Minnesota - npr.org
+- Mike Lindell Fails To Win Republican Nomination For Minnesota Governor - Forbes
 - Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - AP News
 - 3 dead, more than 1 million without power as severe storms strike Midwest - NBC News
-- Timber Fire nears 3,000 acres in Big Sur as Highway 1 closes, evacuations continue - KSBW
-- Rep. John Larson ouster makes 2026 a record year for Democratic primary losses - Axios
-- South Carolina Senate Primary Special Election 2026 Live Results: Graham, Norman, Fry and More - NBC News
+- Luke Bronin defeats Rep. John Larson in CT 1st District primary - CT Mirror
 - Mamdani's nemesis sued to block the city's pied-à-terre tax. The city froze the judge's pause - Fortune
-- University of Michigan Will Ease Up on Grades for Student Mental Health - The New York Times
+- South Carolina GOP Senate primary heads to a runoff - axios.com
+- AOC reportedly split from fiancé Riley Roberts months before she started freezing her eggs - The Independent
 - A whisper from the rubble led to baby’s rescue after Colombia earthquake - CNN
+- vHow Nigel Farage Ended Up Running Against a Man Dressed as a Trash Can - The New York Times
+- 2026's only total solar eclipse happens Wednesday. Here's the path and times of visibility. - CBS News
 - Russia's Sibur petrochemical plant in western Siberia shut after drone attack, sources say - Reuters
-- ‘We are still here’: a day in the life of 12 Afghan women - The Guardian
-- North Korea fires missile ahead of major US-South Korea drills - Reuters
+- Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC
+- Bessent-Takaichi Split on BOJ Risks Undermining Joint Yen Rescue - Bloomberg.com
+- CoreWeave’s stock soars as earnings show major AI momentum - MarketWatch
 - Trump Media has struggled to grow. Now it's selling $100,000 contracts for access to Truth Social. - CBS News
-- Why the historic U.S.-Japan intervention has failed to halt the yen’s slide - CNBC
-- CoreWeave Shares Jump as Revenue Doubles From Year Earlier - WSJ
-- Nvidia’s New AI Plan Could Make the Stock Riskier. Cathie Wood Is Piling In. - barrons.com
-- Samsung’s Galaxy Buds are getting an FDA-approved hearing aid feature - 9to5Google
-- Authors Face Backlash For Participation In 2022 Google AI Study - engadget.com
+- Wolverine-Themed PlayStation 5 Consoles And Controllers Drop In September - Game Informer
+- FDA approves Samsung's Hearing Aid feature on Galaxy Buds - GSMArena.com news - GSMArena.com
