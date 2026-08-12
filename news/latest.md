@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-12 20:34_
+_Updated: 2026-08-12 21:46_
 
-- Crowley pushes unity after surprise win against democratic socialist Francesca Hong - Politico
-- Live Updates: Trump says U.S. has "total control" over Strait of Hormuz and might "keep it" - cbsnews.com
-- Members of Trump's cabinet remained on decoy plane, after president's quiet exit - BBC
+- Democratic Socialist Falls in Tight Wisconsin Primary for Governor - The New York Times
+- Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit - BBC
 - Millions of people in Iceland and Spain set for 'event of the century' eclipse - AOL.com
-- NRSC pushes Republicans to endorse Darline Graham - Politico
-- 17-year-old located after woman, teen found dead in Acton home - WCVB
-- 3 dead, almost 1 million without power as severe storms strike Midwest - NBC News
-- Baby with heart defect carried by surrogate must receive treatment, Texas court rules, after intended parents request abortion - cbsnews.com
-- Is AOC Single? - The Cut
+- Live Updates: Trump says U.S. has "total control" over Strait of Hormuz and might "keep it" - CBS News
+- Trump administration set to spend at least $900 million on White House construction - The Washington Post
+- Timber Fire passes 3,000 acres as Highway 1 closure, evacuations remain in Big Sur - KSBW
 - MyPillow Founder Mike Lindell Won’t Concede Losing Minnesota Republican Gubernatorial Primary - Forbes
-- Video shows baby being pulled from Colombia earthquake rubble - WESH
-- Count Binface, the man in a can with a plan, seeks Parliament seat in Britain’s wackiest election - NBC News
-- Iran says no progress on reviving interim peace deal with US - Reuters
+- 3 people found dead, including child, at daycare in Minneapolis area - NBC News
+- Arkansas trooper threw teen down and punched her in the face during traffic stop, lawsuit says - NBC News
+- No grades for first-semester U-M freshmen next year in new program - WOODTV.com
+- Video shows baby being pulled from Colombia earthquake rubble - WLWT
 - Rescuers evacuate more than 200 from a ferry fire that left at least 1 dead near Bali - AP News
+- Count Binface, the man in a can with a plan, seeks Parliament seat in Britain’s wackiest election - NBC News
+- U.S. and Iran close to a "peace arrangement or a deal," Pakistan says - CBS News
 - US consumer inflation mild in July, economy still not out of the woods - Reuters
-- Nvidia's $70 billion bet on OpenAI, Anthropic, and others could pay off big for shareholders - Yahoo Finance
-- CoreWeave Earnings Beat Amid Operating Margin Upside. AI Stock Jumps. - Investor's Business Daily
-- Investor Nelson Peltz prepares bid for US burger chain Wendy’s - Financial Times
-- Everything announced at Made by Google '26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features - TechCrunch
-- Honor Has Radically Reinvented the Phone for the Robot Age. I Played With It, and It’s Wild - CNET
+- Trump sued over $100,000-a-month early-access offer to Truth Social posts - theguardian.com
+- Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management - CNBC
+- LA Lakers Owner Walter Seeks Cash to Pay Down Loans Amid DOJ Probe - Bloomberg.com
+- Google’s Pixel 11 phone preorders come with up to $350 in gift cards - The Verge
+- Google takes on AirTag with the new $29 Pixel Tag - TechCrunch
