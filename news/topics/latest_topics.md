@@ -1,60 +1,60 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-12 01:23_
+_Updated: 2026-08-12 02:07_
 
 ## Top Stories
 
 - Direkt – Kriget i Ukraina – Zelenskyj: Har lämnat förslag till förhandlarna - dn.se
 - Över 180 döda i Colombia efter jordbävning - Göteborgs-Posten
-- Kristersson om ryska spionoperationen: ”Det var nära politiken” - dn.se
-- Donald Trump smugglades ut med mattransport – efter mordhot - SVT Nyheter
-- Tidigare sambo slog larm efter bråk: ”Rädd” - Expressen
-- ”Det finns inspelningar av ljud från fartygets brygga” - Göteborgs-Posten
+- Tidigare sambo slog larm efter bråk: ”Rädd” - expressen.se
+- Färja har kapsejsat i Zimbabwe – minst 15 omkomna - Västerbottens-Kuriren
+- Strömstedts fadäs i TV4: ”Inte urinläckage” - Aftonbladet
+- Ryska tältparet i Gävle – beslutet om förvar hävs - SVT Nyheter
 - Kriminella tvättar pengar med Pokémonkort - Västerbottens-Kuriren
 - Marmorstein: ”M vill få till en konflikt med S” – Senaste nytt om valet 2026 - SVT Nyheter
 - Rådet till politikerna i Sundsvall: Omförhandla Googleavtalet - SVT Nyheter
-- Ryska tältparet i Gävle – beslutet om förvar hävs - SVT Nyheter
-- Färja har kapsejsat i Zimbabwe – minst 15 omkomna - Västerbottens-Kuriren
-- USA besköt fartyg på väg mot Iran - Västerbottens-Kuriren
-- Europas omstridda territorier utanför Europa – där Trump ofta har ett finger med i spelet - dn.se
-- DN Direkt – Orbánkritisk domare väntas bli president i Ungern - dn.se
-- Kryptosmäll gav storförlust för Trump Media - EFN
-- Det ljusnar i Storskogen - Dagens industri
+- Kristersson om ryska spionoperationen: ”Det var nära politiken” - dn.se
+- Donald Trump smugglades ut med mattransport – efter mordhot - SVT Nyheter
+- USA besköt fartyg på väg mot Iran - Göteborgs-Posten
+- Sex döda i attack mot fartyg i Röda havet - Göteborgs-Posten
+- DN Direkt – Kissattacker på bibliotek – 5 800 filmrullar skadade - dn.se
+- Storskogens vd räknar med fler förvärv i år än i fjol - Di - Affärsvärlden
 - Oljepriset steg – Wall Street föll - Västerbottens-Kuriren
-- Stockholmsbörsen föll i försiktig handel - Göteborgs-Posten
-- Experten varnar inför solförmörkelsen: Kolla inte på solen - Sveriges Radio
+- Kryptosmäll gav storförlust för Trump Media - EFN
+- Börsen idag: Öppning uppåt väntas - Placera.se
+- Hotellpriser rusar inför solförmörkelsen - Svenska Dagbladet
 - Härligt maxat – som bara fiktion från öst kan bjuda på - Aftonbladet
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på idag 11:40 - tv.nu
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - nhl.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - media.smart.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
+- New communications project on China’s global “Belt and Road Initiative” - ui.se
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - Shock as government axes funding for SDGs-related research - University World News
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - fuf.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
@@ -73,15 +73,15 @@ _Updated: 2026-08-12 01:23_
 
 ## Business
 
-- Dear Economy om Gotlands vattenbrist under Almedalen - EY
+- Dear Economy om Gotlands vattenbrist under Almedalen - ey.com
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Vilken framtid arbetar du för? - EY
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
+- Vilken framtid arbetar du för? - ey.com
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -102,20 +102,20 @@ _Updated: 2026-08-12 01:23_
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Khalid satsar på digital vård – mot fetma - st.nu
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
@@ -125,10 +125,10 @@ _Updated: 2026-08-12 01:23_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Forskningsutvärdering med kvalitet i fokus - ju.se
+- Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Vietnam utbyter erfarenheter med Sydkorea om utveckling av mänskliga resurser och nationella metrologisystem. - Vietnam.vn
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
@@ -143,11 +143,11 @@ _Updated: 2026-08-12 01:23_
 ## Jordbruk
 
 - Sveriges förändrade lantbruk - SLU
-- Framtidens jordbruk - European Commission
+- Framtidens jordbruk - commission.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - naturvardsverket.se
+- Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
