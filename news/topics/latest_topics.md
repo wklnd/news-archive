@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-12 15:57_
+_Updated: 2026-08-12 17:29_
 
 ## Top Stories
 
-- Misstänkt sexualbrott på sjukhus i Jönköping - Göteborgs-Posten
-- DN Direkt – Thomas Bodström (S): Hafsverk av regeringen - Dagens Nyheter
-- Analyser: Etablissemanget slår tillbaka mot vänstern - Omni – Alla nyheter. Alla perspektiv.
-- Flicka förd till sjukhus med livshotande skador efter mopedolycka - svt.se
-- Storstaden som vill ge kortare arbetstid till 60-plussare - Arbetet
-- M rasar mot Juholts gravstensbild: ”Passerar alla gränser” - aftonbladet.se
-- DN Direkt – Cyklist påkörd i Karlstad – en anhållen - Dagens Nyheter
-- Vandalisering av valaffischer redan första veckan - NT
-- Utredning mot ryska tältparet fortsätter – polis dyker på platsen - svt.se
-- S och C slår tillbaka efter M:s löfte om tvångsmedel – Senaste nytt om valet 2026 - svt.se
-- Kravet från Vance till Zelenskyj: Stoppa oljeattackerna - Dagens Nyheter
-- Fler än 280 gripna för bränder i Grekland - Västerbottens-Kuriren
-- Brist på Patriot till Ukraina – tar två år att bygga - Göteborgs-Posten
-- Zelenskyj: Robotar från Nordkorea i anfall - Hufvudstadsbladet – HBL
+- Personal på Ryhov misstänks för sexualbrott – på patient - vn.se
+- Tonårsflicka livshotande skadad efter mopedkrock - Västerbottens-Kuriren
+- Barägaren: ”De har varit här flera gånger” - Svenska Dagbladet
+- MP slår tillbaka mot Borg: ”Desperat” - Omni – Alla nyheter. Alla perspektiv.
+- Man död i arbetsplatsolycka - Göteborgs-Posten
+- S-löftet: Kortare arbetstid med full pension - Göteborgs-Posten
+- DN Direkt – Skyddsglasögon till solförmörkelsen slutsålda i Stockholm - Dagens Nyheter
+- V vill stärka sjukvården med fem förslag - Västerbottens-Kuriren
+- 17 000 väntar på att få övningsköra – myndigheten överbelastad - Dagens Nyheter
+- Strömmer anklagar S för att mjukna om brottslingar - Dagens Nyheter
+- Jordbävning i Colombia – detta vet vi - SVT Nyheter
+- Zelenskyj: ”Sista stora fästet i Svarta havet” träffat - Hufvudstadsbladet – HBL
+- Direkt – Kriget i Ukraina – Zelenskyj: Nordkoreanska robotar i dödlig attack i natt - Dagens Nyheter
+- Trump bekräftar flygbyte efter hot - Corren
 - Akelius nobbar Synnes-comeback: ”Van vid helt andra löner” - Affärsvärlden
 - Svenska AI-bolaget värderas högre än verkstadsjättarna - Dagens industri
-- ”Kommer att sticka i ögonen på folk” - Svenska Dagbladet
-- Hushållens konsumtion tar fart – tydlig ökning i juni enligt SCB - Börskollen
-- Glasögon slutsålda – så kollar du på solförmörkelsen ändå - mitti.se
-- Missa inte en fullkomligt enastående kväll på stjärnhimlen: Två mycket speciella fenomen äger rum inom loppet av ett par timmar - Illustrerad Vetenskap
+- Riksbankens miljardrenovering väcker kritik: Kan missförstås - Omni – Alla nyheter. Alla perspektiv.
+- FlexQube: Vändningen hänger på en enda kund - Affärsvärlden
+- Missa inte en fullkomligt enastående kväll på stjärnhimlen: Två mycket speciella fenomen äger rum inom loppet av ett par timmar - illvet.se
+- Spotify lägger till märkning för AI-artister - Computer Sweden
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på inatt 00:00 - tv.nu
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - news.cision.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- GMMP: Global backlash syns i världens medier - fempers.se
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
-- Etraveli rusar – 175 miljarder och global styrka - travelnews.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - Vietnam.vn
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - news.cision.com
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -56,12 +56,12 @@ _Updated: 2026-08-12 15:57_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - swedbank-aktiellt.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - 290 million for digitalisation of Swedish industry - Vinnova
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
@@ -97,17 +97,17 @@ _Updated: 2026-08-12 15:57_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - lakartidningen.se
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
-- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - news.cision.com
-- Låt oss prata hälsa – Intensivvård – Segment 1 - apollohospitals.com
+- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Sju life science-trender 2026 - Business Region Göteborg
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Sju life science-trender 2026 - businessregiongoteborg.se
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - lakartidningen.se
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
@@ -119,46 +119,46 @@ _Updated: 2026-08-12 15:57_
 
 ## Science
 
-- Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Kina drar om USA – bäst på forskning - svt.se
+- Activities for the public – Department of Earth Sciences - uu.se
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
-- Registrering av forskning baserad på nationella hälsoregister - lakartidningen.se
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Olika slutsatser från samma data - lakartidningen.se
-- Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
+- Sherry Nakhaeizadeh - uu.se
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- 5 myter om öppen vetenskap - lakartidningen.se
-- Exploaterar forskares strävan efter snabb granskning och publicering - lakartidningen.se
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Jordbruket har en nyckelroll för att rädda klimatet - land.se
 - Jordbrukspolitik - Naturvårdsverket
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Visning av uppkomst efter direktsådd - Land.se
+- Visning av uppkomst efter direktsådd - land.se
 - Lantbrukslogik – nu och i framtiden - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - land.se
 - Kan agroekologi mätta världen? - SLU
-- Hellre plöjningsfri odling än ekologisk - Land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Hellre plöjningsfri odling än ekologisk - land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - land.se
