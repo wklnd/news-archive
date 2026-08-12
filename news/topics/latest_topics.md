@@ -1,62 +1,62 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-12 13:23_
+_Updated: 2026-08-12 14:11_
 
 ## Top Stories
 
 - DN Direkt – Thomas Bodström (S): Hafsverk av regeringen - Dagens Nyheter
-- Ohederlig debatt om mängdrabatt - Dagens Arena
-- Andersson om V i regering: Rejäl resa - Göteborgs-Posten
-- Uppgifter: Skjutna svenska kvinnan i Portugal ”utom fara” - SVT Nyheter
-- Andersson om hoten om höjd ränta: ”Då får man byta bank” - Omni – Alla nyheter. Alla perspektiv.
-- Flicka livshotande skadad efter krock i Västerås - Omni – Alla nyheter. Alla perspektiv.
-- DN Direkt – Cyklist påkörd i Karlstad – en anhållen - Dagens Nyheter
-- Ätstörningsvården hett debattämne i valrörelsen - Dagens Nyheter
-- SVT erfar: M lovar förlängning av polisens preventiva tvångsmedel – Senaste nytt om valet 2026 - SVT Nyheter
-- Hit kommer ”Musikhjälpen” i år - Göteborgs-Posten
-- Zelenskyj: ”Sista stora fästet i Svarta havet” träffat - hbl.fi
-- Trump bekräftar flygbyte efter hot - Corren
-- Vänsterdemokrat i nagelbitare i Wisconsin - Västerbottens-Kuriren
-- Jordbävning i Colombia – detta vet vi - SVT Nyheter
+- 12 augusti 08.07, Trafikolycka, personskada, Västerås - polisen.se
+- Här försöker Ryssland avvärja ukrainska attacker - Expressen
+- Krisen inför solförmörkelsen: Glasögonen slut på många håll i landet - svt.se
+- Tonårsflicka livshotande skadad efter mopedolycka - Aftonbladet
+- Uppgifter: Skjutna svenska kvinnan i Portugal ”utom fara” - svt.se
+- Läkaren Lotta svårt sjuk i anorexia – kritisk mot vården i Region Stockholm - Dagens Nyheter
+- Vandalisering av valaffischer redan första veckan - NT
+- SVT erfar: M lovar förlängning av polisens preventiva tvångsmedel – Senaste nytt om valet 2026 - svt.se
+- Utredning mot ryska tältparet fortsätter – polis dyker på platsen - svt.se
+- Zelenskyj: ”Sista stora fästet i Svarta havet” träffat - Hufvudstadsbladet – HBL
+- Jordbävning i Colombia – detta vet vi - svt.se
+- Vänsterdemokrat i nagelbitare i Wisconsin - gp.se
+- Rysk expert: Därför oroar ”äppelpartiet” Putinregimen - Dagens Nyheter
 - KÖPER AKTIER I KLARABO OCH ARLANDASTAD, SÄLJER STUDENTBOSTÄDER - Placera.se
-- Renoverar för miljarder – ”Kan ju missförstås” - Svenska Dagbladet
-- Hushållens konsumtion tar fart – tydlig ökning i juni enligt SCB - Börskollen
-- Mangobolaget rasar på vinstvarning - Affärsvärlden
-- Bygg din egen ”tittlåda” – bättre än glasögon för solförmörkelse - SVT Nyheter
+- ”Kommer att sticka i ögonen på folk” - Svenska Dagbladet
+- Kurskollaps i norska mangobolaget - EFN
+- SCB: Konsumtionen ökade i juni - Kvartal
+- Missa inte en fullkomligt enastående kväll på stjärnhimlen: Två mycket speciella fenomen äger rum inom loppet av ett par timmar - Illustrerad Vetenskap
 - Spotify lägger till märkning för AI-artister - Computer Sweden
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på inatt 00:00 - tv.nu
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - Vietnam.vn
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - nyheter.ki.se
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - swedbank-aktiellt.se
+- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - 290 million for digitalisation of Swedish industry - Vinnova
@@ -101,20 +101,20 @@ _Updated: 2026-08-12 13:23_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Låt oss prata hälsa – Intensivvård – Segment 1 - apollohospitals.com
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Sju life science-trender 2026 - businessregiongoteborg.se
-- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Sju life science-trender 2026 - Business Region Göteborg
+- firar 15 år av att skydda den globala hälsosektorn - health-isac.org
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - nyheter.ki.se
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - gp.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - nyheter.ki.se
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
@@ -122,7 +122,7 @@ _Updated: 2026-08-12 13:23_
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Kina drar om USA – bäst på forskning - svt.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -131,10 +131,10 @@ _Updated: 2026-08-12 13:23_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
-- Cell- och genterapi - från science fiction till sjukhussal - nyheter.ki.se
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - nyheter.ki.se
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
