@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-12 14:30_
+_Updated: 2026-08-12 16:04_
 
-- Primary Elections Live Updates: Crowley, a Moderate Democrat, Defeats Hong in Wisconsin Primary for Governor - nytimes.com
-- Trump says security threat spurred secret plane swap in Turkey - NBC News
-- Zhu Rongji, Former Premier Who Pushed China to a Market Economy, Dies at 97 - nytimes.com
-- Mike Lindell Fails To Win Republican Nomination For Minnesota Governor - Forbes
-- Are hacks of U.S. water facilities a new front in the Iran war? - NPR
-- A whisper from the rubble led to baby’s rescue after Colombia earthquake - CNN
+- Primary Elections Live Updates: Crowley, a Moderate Democrat, Defeats Hong in Wisconsin Primary for Governor - The New York Times
+- Trump says Secret Service and the military wanted him off Air Force One in Turkey due to threat - AP News
+- Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship - CNBC
+- Trump administration set to spend at least $900 million on White House construction - The Washington Post
+- Zhu Rongji, Former Premier Who Pushed China to a Market Economy, Dies at 97 - The New York Times
+- Trump and RFK Jr. Repeat False and Misleading Vaccine Claims - FactCheck.org
+- 3 dead, almost 1 million without power as severe storms strike Midwest - NBC News
+- Mamdani’s Honeymoon With New York Is Over - wsj.com
+- An inflation report Wednesday should be a big deal for the Fed. Here's what to expect - CNBC
 - Progressive Democrats get another win in Minnesota US Senate primary - AP News
-- Deadly storms and tornadoes slam Midwest, leaving hundreds of thousands without power - CBS News
-- AOC reportedly split from fiancé Riley Roberts months before she started freezing her eggs - The Independent
-- Siena: Hochul has 10-point lead over Blakeman in first poll of likely voters - Politico
+- Baby rescued from rubble in Colombia after devastating earthquake kills at least 181 - CBS News
+- Count Binface, the man in a can with a plan, seeks Parliament seat in Britain’s wackiest election - NBC News
+- Putin threatens retaliatory seizures of European ships - Euronews.com
 - Indonesian rescuers evacuate dozens from a ferry fire that left at least 1 dead near Bali - AP News
-- Strait of Hormuz Traffic Sank To Just Six Vessels Monday - Crude Oil Prices Today | OilPrice.com
-- Live Updates: U.S. and Iran close to a "peace arrangement or a deal," Pakistan says - CBS News
-- In Europe, the Total Solar Eclipse Is Hours Away - nytimes.com
-- Stock futures inch higher ahead of Wednesday's big inflation report: Live updates - CNBC
+- Live Updates: Strait of Hormuz traffic falls to new low as Iran-backed Houthis kill 6 in Red Sea, authorities say - CBS News
 - Here's how gyms, salons and ice cream are changing America's Main Streets - NPR
-- Social Security adds 14 health conditions to fast-track list - upi.com
-- AI chatbots are offering financial advice. Should you trust them? - NPR
-- How to watch the Made by Google event stream and Pixel 11 announcement - 9to5Google
-- Google’s free streaming service now lets you pick shows and movies to watch - The Verge
+- CoreWeave stock soars 20% after earnings and 'an important inflection point' - finance.yahoo.com
+- World's largest sovereign wealth fund posts record $184 billion profit as it reveals SpaceX stake for the first time - CNBC
+- 'iPhone Ultra' Screen Protectors Reveal Asymmetric Corners - MacRumors
+- New Insta360 X6 leaks confirm pricing with specs before global launch - Notebookcheck
