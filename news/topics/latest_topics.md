@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-12 12:34_
+_Updated: 2026-08-12 13:23_
 
 ## Top Stories
 
 - DN Direkt – Thomas Bodström (S): Hafsverk av regeringen - Dagens Nyheter
-- DN Direkt – Magdalena Andersson ifrågasätter om V kan sitta i regering - Dagens Nyheter
-- Ryska tältparet i Gävle – beslutet om förvar hävs - SVT Nyheter
+- Ohederlig debatt om mängdrabatt - Dagens Arena
+- Andersson om V i regering: Rejäl resa - Göteborgs-Posten
+- Uppgifter: Skjutna svenska kvinnan i Portugal ”utom fara” - SVT Nyheter
 - Andersson om hoten om höjd ränta: ”Då får man byta bank” - Omni – Alla nyheter. Alla perspektiv.
-- Olycka på 56:an – flicka förd till sjukhus med livshotande skador - SVT Nyheter
-- William, 15, såg båtarna brinna i småbåtshamnen - Göteborgs-Posten
+- Flicka livshotande skadad efter krock i Västerås - Omni – Alla nyheter. Alla perspektiv.
+- DN Direkt – Cyklist påkörd i Karlstad – en anhållen - Dagens Nyheter
 - Ätstörningsvården hett debattämne i valrörelsen - Dagens Nyheter
-- Kriminella tvättar pengar med Pokémonkort - Västerbottens-Kuriren
 - SVT erfar: M lovar förlängning av polisens preventiva tvångsmedel – Senaste nytt om valet 2026 - SVT Nyheter
-- Glädjebeskedet: Musikhjälpen gör comeback i Linköping - Corren
-- Zelenskyj: ”Sista stora fästet i Svarta havet” träffat - Hufvudstadsbladet – HBL
-- Jordbävning i Colombia – detta vet vi - SVT Nyheter
+- Hit kommer ”Musikhjälpen” i år - Göteborgs-Posten
+- Zelenskyj: ”Sista stora fästet i Svarta havet” träffat - hbl.fi
 - Trump bekräftar flygbyte efter hot - Corren
-- Svensk kvinna skjuten i Lissabon - Göteborgs-Posten
-- Analytiker: Uppsida i SBB – men skulderna måste kapas - Affärsvärlden
-- Medvind för vindkraftsbolag – aktien rusar i Köpenhamn - skd.se
-- Konsumtionen ökade i juni - Tidningen Näringslivet
+- Vänsterdemokrat i nagelbitare i Wisconsin - Västerbottens-Kuriren
+- Jordbävning i Colombia – detta vet vi - SVT Nyheter
+- KÖPER AKTIER I KLARABO OCH ARLANDASTAD, SÄLJER STUDENTBOSTÄDER - Placera.se
+- Renoverar för miljarder – ”Kan ju missförstås” - Svenska Dagbladet
+- Hushållens konsumtion tar fart – tydlig ökning i juni enligt SCB - Börskollen
 - Mangobolaget rasar på vinstvarning - Affärsvärlden
 - Bygg din egen ”tittlåda” – bättre än glasögon för solförmörkelse - SVT Nyheter
-- Spotify lanserar märkning av AI-artister - Hufvudstadsbladet – HBL
+- Spotify lägger till märkning för AI-artister - Computer Sweden
 
 ## World News
 
@@ -50,13 +50,13 @@ _Updated: 2026-08-12 12:34_
 
 ## Technology
 
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - nyheter.ki.se
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
+- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - swedbank-aktiellt.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - 290 million for digitalisation of Swedish industry - Vinnova
@@ -96,46 +96,46 @@ _Updated: 2026-08-12 12:34_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Sju life science-trender 2026 - Business Region Göteborg
+- Sju life science-trender 2026 - businessregiongoteborg.se
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar HealthBench - openai.com
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - nyheter.ki.se
+- Vi presenterar HealthBench - OpenAI
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - nyheter.ki.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
-- Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Kina drar om USA – bäst på forskning - SVT Nyheter
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Olika slutsatser från samma data - Läkartidningen
+- Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - openai.com
+- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
+- Cell- och genterapi - från science fiction till sjukhussal - nyheter.ki.se
+- Olika slutsatser från samma data - Läkartidningen
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - nyheter.ki.se
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
