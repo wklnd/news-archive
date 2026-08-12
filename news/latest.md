@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-12 23:26_
+_Updated: 2026-08-13 00:22_
 
 - White House press secretary Karoline Leavitt to step down - NBC News
-- David Crowley pulls off stunning comeback victory over Francesca Hong - jsonline.com
+- David Crowley's razor-thin primary win sets up Wisconsin governor's race against Trump's pick - AP News
 - Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit - BBC
+- Live Updates: Trump says U.S. has "total control" over Strait of Hormuz and might "keep it" - CBS News
 - Trump administration set to spend at least $900 million on White House construction - The Washington Post
-- Millions of people in Iceland and Spain set for 'event of the century' eclipse - AOL.com
-- Timber Fire passes 3,000 acres as Highway 1 closure, evacuations remain in Big Sur - KSBW
 - 2 dead after military helicopter crashes in central Texas - CNN
-- Baby with heart defect born to surrogate must receive treatment, Texas court rules, after intended parents request abortion - CBS News
-- Hopkins daycare deaths: 3 dead including suspect - FOX 9 Minneapolis-St. Paul
-- Trump’s justice department arrests expert on far right as part of SPLC crackdown - The Guardian
+- Burnsville homicide connected to Hopkins daycare deaths, police say - FOX 9 Minneapolis-St. Paul
+- Extremism expert charged in case targeting Southern Poverty Law Center’s use of informants - NBC News
+- MyPillow Founder Mike Lindell Won’t Concede Losing Minnesota Republican Gubernatorial Primary - Forbes
+- US immigration officers to be equipped with gloves that deliver electric shocks - BBC
+- Live updates: Total solar eclipse sweeps across Europe - CNN
 - Colombia declares three days of mourning after deadly earthquake - Al Jazeera
-- Ukraine pounds Black Sea Fleet’s ‘last major stronghold’ while Putin flexes naval power in Pacific - Fox News
+- An overnight Ukrainian blitz damages Russia’s Black Sea naval stronghold, Zelenskyy says - AP News
 - One dead, more than 200 rescued after Indonesian ferry from Bali catches fire - Reuters
-- Israel says Gaza drone strike targeted a Hamas commander, and other developments in the Mideast - AP News
+- Trump sued on First and Fifth Amendment grounds over paid Truth Social access - CNN
 - US consumer inflation mild in July, economy still not out of the woods - Reuters
-- Trump sued over Truth Social's $100,000 early access service - BBC
-- Nebius Stock Soars 28% as Revenue Beat Bolsters AI Rally. Michael Burry May Be Helping. - Barron's
-- LA Lakers Owner Walter Seeks Cash to Pay Down Loans Amid DOJ Probe - Bloomberg.com
+- Cisco Networking Sales Surge on AI Demand. Why the Stock Is Down. - Barron's
+- Major Food Recall Expands To Trader Joe’s, Walmart, Target & More As 345 People Get Sick - Yahoo
 - Google’s Pixel 11 phone preorders come with up to $350 in gift cards - The Verge
-- Google takes on AirTag with the new $29 Pixel Tag - TechCrunch
+- Twitch Is Now Using Your Content To Train Amazon AI Models And Has Hidden The Option To Opt Out - Kotaku
