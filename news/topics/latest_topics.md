@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-13 00:10_
+_Updated: 2026-08-13 01:22_
 
 ## Top Stories
 
-- Presschef Karoline Leavitt lämnar Vita huset - dn.se
+- Presschef Karoline Leavitt lämnar Vita huset - Dagens Nyheter
 - Väljarbarometer augusti 2026 - Demoskop
-- Expert om Putins hot: Skulle öppna upp en ny front - dn.se
+- Expert om Putins hot: Skulle öppna upp en ny front - Dagens Nyheter
+- Hjälpen når inte överlevarna – 250 döda i Colombia - gp.se
+- Colombia och USA i samarbete mot knarksmugglare - Västerbottens-Kuriren
 - Brist på Patriot till Ukraina – tar två år att bygga - gp.se
-- Tältande ryssar inte längre brottsmisstänkta - Västerbottens-Kuriren
-- Hemliga möten på puben kantades av wienerschnitzel - Aftonbladet
-- Man död i drunkningsolycka i Hökarängen - SVT Nyheter
-- Misstänkt sexualbrott på sjukhus i Jönköping - gp.se
 - Melatonin till barn ökar kraftigt: osäkerhet om långtidseffekter - Sveriges Radio
-- Hårda ord om migrationslag: ”Abort eller utvisning” - Västerbottens-Kuriren
-- DN Direkt – EM-guld till Sjöström - dn.se
-- Zelenskyj: 26 byar befriade i offensiv - gp.se
-- Jordbävning i Colombia – detta vet vi - SVT Nyheter
+- Man död i drunkningsolycka i Hökarängen - svt.se
+- DN Direkt – Skyddsglasögon till solförmörkelsen slutsålda i Stockholm - Dagens Nyheter
+- S och C slår tillbaka efter M:s löfte om tvångsmedel – Senaste nytt om valet 2026 - svt.se
+- Direkt – Kriget i Ukraina – Zelenskyj: 26 byar befriade i offensiv - Dagens Nyheter
 - WHO: Ebolautbrottet kan bli det värsta någonsin - Västerbottens-Kuriren
+- Chatt: Fråga SVT:s korrespondenter om kriget i Ukraina - svt.se
+- DN Direkt – Tidernas tidigaste skörd i Champagne - Dagens Nyheter
 - Guldlyft efter USA-inflationen: ”Perfekt läge” - Dagens industri
 - Inflationssiffror gav små rörelser på Wall Street - Aftonbladet
 - Rött på Europabörserna - efn.se
 - Akelius nobbar Synnes-comeback: ”Van vid helt andra löner” - affarsvarlden.se
-- ”Det är magiskt” – miljoner följde solförmörkelsen i Europa - dn.se
-- Google sätter Gemini i centrum för nya Pixel 11 - Börsvärlden
+- ”Som dödsstjärnan” – solförmörkelsen fascinerade många - Dagens Nyheter
+- Jag tillbringade ett par timmar med nya Google Pixel 11 Pro Fold – ingen revolution, men ett steg närmare perfektion - TechRadar
 
 ## World News
 
@@ -59,7 +59,7 @@ _Updated: 2026-08-13 00:10_
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - blogg.avanza.se
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Ho Chi Minh-museet anordnade en specialiserad utbildningskonferens om "Tillämpning av artificiell intelligens (AI) i museiledning och drift". - Vietnam.vn
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
@@ -77,22 +77,22 @@ _Updated: 2026-08-13 00:10_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -109,7 +109,7 @@ _Updated: 2026-08-13 00:10_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - gp.se
-- Sju life science-trender 2026 - businessregiongoteborg.se
+- Sju life science-trender 2026 - Business Region Göteborg
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
@@ -120,12 +120,12 @@ _Updated: 2026-08-13 00:10_
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Kina drar om USA – bäst på forskning - svt.se
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
