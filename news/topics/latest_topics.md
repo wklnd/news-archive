@@ -1,36 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-12 20:26_
+_Updated: 2026-08-12 21:37_
 
 ## Top Stories
 
-- Glasögon slutsålda – så kollar du på solförmörkelsen ändå - mitti.se
 - Väljarbarometer augusti 2026 - Demoskop
+- Brist på Patriot till Ukraina – tar två år att bygga - gp.se
+- Björn af Kleen: Socialisternas triumftåg tog slut i Wisconsin - Dagens Nyheter
 - Barägaren: ”De har varit här flera gånger” - Svenska Dagbladet
-- Misstänkt sexualbrott på länssjukhuset Ryhov: ”Mycket allvarlig händelse” - Sveriges Radio
-- Undantagstillstånd i hamnstad efter ukrainsk attack – Senaste nytt om kriget i Ukraina - SVT Nyheter
-- 12 augusti 08.07, Trafikolycka, personskada, Västerås - polisen.se
-- Man död i drunkningsolycka i Hökarängen - SVT Nyheter
-- V vill stärka sjukvården med fem förslag - Västerbottens-Kuriren
+- Anställd misstänks för sexualbrott på Länssjukhuset Ryhov – frihetsberövades efter polisjakt - SVT Nyheter
+- DN Direkt – Tidernas tidigaste skörd i Champagne - Dagens Nyheter
+- Man har drunknat i södra Stockholm - Västerbottens-Kuriren
 - Melatonin till barn ökar kraftigt: osäkerhet om långtidseffekter - Sveriges Radio
-- Hårda ord om migrationslag: ”Abort eller utvisning” - Göteborgs-Posten
+- Hårda ord om migrationslag: ”Abort eller utvisning” - gp.se
+- 17 000 väntar på att få övningsköra – myndigheten överbelastad - Dagens Nyheter
 - Jordbävning i Colombia – detta vet vi - SVT Nyheter
-- WHO: Ebolautbrottet kan bli det värsta någonsin - Hufvudstadsbladet – HBL
+- Zelenskyj: Robotar från Nordkorea i anfall - Hufvudstadsbladet – HBL
+- WHO: Ebolautbrottet kan bli det värsta någonsin - TV4 Nyheterna
 - Trump bekräftar flygbyte efter hot - Corren
-- Fler än 280 gripna för bränder i Grekland - Göteborgs-Posten
-- Guldpriset stiger inför USA:s inflationssiffra - affarsvarlden.se
-- Nära noll avkastning på 20 år: ”Katastrof” - Svenska Dagbladet
 - Bedragare fejkar Downs syndrom – Tiktok ger grönt ljus - Dagens Nyheter
-- Flexqube får spekulativt köpråd av Affärsvärlden (FinWire Smallcap) - Aktiellt
-- Missa inte en fullkomligt enastående kväll på stjärnhimlen: Två mycket speciella fenomen äger rum inom loppet av ett par timmar - Illustrerad Vetenskap
-- Spotify lägger till märkning för AI-artister - Computer Sweden
+- Nära noll avkastning på 20 år: ”Katastrof” - Svenska Dagbladet
+- FlexQube: Vändningen hänger på en enda kund - Affärsvärlden
+- Guldlyft efter USA-inflationen: ”Perfekt läge” - Dagens industri
+- Solförmörkelsen i Europa: Bortfall motsvarar tio kärnkraftreaktorer - SVT Nyheter
+- På onsdag sker en blandning av himlafenomen nya i vår tid - Sveriges Radio
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på inatt 00:00 - tv.nu
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - media.smart.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -39,19 +39,19 @@ _Updated: 2026-08-12 20:26_
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - entrackr.com
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- Global Series stort för Karlsson: ”Fantastiskt” - nhl.com
 - Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - Vietnam.vn
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - nyheter.ki.se
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
@@ -108,14 +108,14 @@ _Updated: 2026-08-12 20:26_
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - nyheter.ki.se
 - Vi presenterar HealthBench - OpenAI
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - gp.se
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - nyheter.ki.se
+- Mycket tidig medicinsk abort är effektivt och säkert - nyheter.ki.se
 
 ## Science
 
@@ -124,6 +124,7 @@ _Updated: 2026-08-12 20:26_
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
@@ -131,14 +132,13 @@ _Updated: 2026-08-12 20:26_
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - nyheter.ki.se
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Cell- och genterapi - från science fiction till sjukhussal - nyheter.ki.se
 - 5 myter om öppen vetenskap - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -146,7 +146,7 @@ _Updated: 2026-08-12 20:26_
 - Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Jordbrukspolitik - Naturvårdsverket
+- Jordbrukspolitik - naturvardsverket.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
