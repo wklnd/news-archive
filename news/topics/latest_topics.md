@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-12 02:07_
+_Updated: 2026-08-12 05:04_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Zelenskyj: Har lämnat förslag till förhandlarna - dn.se
+- Direkt – Kriget i Ukraina – Zelenskyj: Har lämnat förslag till förhandlarna - Dagens Nyheter
 - Över 180 döda i Colombia efter jordbävning - Göteborgs-Posten
-- Tidigare sambo slog larm efter bråk: ”Rädd” - expressen.se
-- Färja har kapsejsat i Zimbabwe – minst 15 omkomna - Västerbottens-Kuriren
-- Strömstedts fadäs i TV4: ”Inte urinläckage” - Aftonbladet
-- Ryska tältparet i Gävle – beslutet om förvar hävs - SVT Nyheter
-- Kriminella tvättar pengar med Pokémonkort - Västerbottens-Kuriren
-- Marmorstein: ”M vill få till en konflikt med S” – Senaste nytt om valet 2026 - SVT Nyheter
-- Rådet till politikerna i Sundsvall: Omförhandla Googleavtalet - SVT Nyheter
-- Kristersson om ryska spionoperationen: ”Det var nära politiken” - dn.se
 - Donald Trump smugglades ut med mattransport – efter mordhot - SVT Nyheter
-- USA besköt fartyg på väg mot Iran - Göteborgs-Posten
+- Larmet: Urin på tusentals mikrofilmer - Svenska Dagbladet
+- Marmorstein: ”M vill få till en konflikt med S” – Senaste nytt om valet 2026 - SVT Nyheter
+- Tidigare sambo slog larm efter bråk: ”Rädd” - Expressen
+- Kriminella tvättar pengar med Pokémonkort - Västerbottens-Kuriren
+- ”Det finns inspelningar av ljud från fartygets brygga” - Göteborgs-Posten
+- EDVARD HOLLERTZ: Prata inte jobb på dejt i Linköping – handlar om rikets säkerhet - Corren
+- Rösta nej till 14-åringar ifängelse - Dagens Arena
+- Färja har kapsejsat i Zimbabwe – minst 15 omkomna - Västerbottens-Kuriren
+- DN Direkt – Orbánkritisk domare väntas bli president i Ungern - Dagens Nyheter
+- USA besköt fartyg på väg mot Iran - Västerbottens-Kuriren
 - Sex döda i attack mot fartyg i Röda havet - Göteborgs-Posten
-- DN Direkt – Kissattacker på bibliotek – 5 800 filmrullar skadade - dn.se
-- Storskogens vd räknar med fler förvärv i år än i fjol - Di - Affärsvärlden
-- Oljepriset steg – Wall Street föll - Västerbottens-Kuriren
 - Kryptosmäll gav storförlust för Trump Media - EFN
-- Börsen idag: Öppning uppåt väntas - Placera.se
-- Hotellpriser rusar inför solförmörkelsen - Svenska Dagbladet
+- Oljepriset steg – Wall Street föll - Västerbottens-Kuriren
+- QR-kod och nya symboler på alla förpackningar - Sveriges Radio
+- Chefsstrategens optimism: ”Tjänas bra pengar där ute” - EFN
+- Solförmörkelse över Sverige – då syns den i Värmland - Sveriges Radio
 - Härligt maxat – som bara fiktion från öst kan bjuda på - Aftonbladet
 
 ## World News
@@ -30,23 +30,23 @@ _Updated: 2026-08-12 02:07_
 - GT World Challenge America, Sebring International Raceway på idag 11:40 - tv.nu
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Global Series stort för Karlsson: ”Fantastiskt” - nhl.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- New communications project on China’s global “Belt and Road Initiative” - ui.se
+- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
-- Shock as government axes funding for SDGs-related research - University World News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -56,8 +56,8 @@ _Updated: 2026-08-12 02:07_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - 290 million for digitalisation of Swedish industry - Vinnova
@@ -73,16 +73,16 @@ _Updated: 2026-08-12 02:07_
 
 ## Business
 
-- Dear Economy om Gotlands vattenbrist under Almedalen - ey.com
+- Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
-- Vilken framtid arbetar du för? - ey.com
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
@@ -105,17 +105,17 @@ _Updated: 2026-08-12 02:07_
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
 ## Science
 
@@ -124,21 +124,21 @@ _Updated: 2026-08-12 02:07_
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
-- Sherry Nakhaeizadeh - Uppsala universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Vietnam utbyter erfarenheter med Sydkorea om utveckling av mänskliga resurser och nationella metrologisystem. - Vietnam.vn
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
@@ -146,9 +146,9 @@ _Updated: 2026-08-12 02:07_
 - Framtidens jordbruk - commission.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
