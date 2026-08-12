@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-12 01:23_
+_Updated: 2026-08-12 02:41_
 
-- Trump took a secret flight out of Turkey in an elaborate plot to hide his location amid Iran war - NBC News
-- Primaries Live Updates: Wisconsin, South Carolina and Minnesota Elections Pose Test for Progressives and Trump - nytimes.com
+- Trump hid in catering truck in secret plane swap over Iran threat, reports say - BBC
+- In South Carolina, GOP Voters decide who they want to replace the late Sen. Lindsey Graham - NPR
 - Live updates: Over 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet - CNN
-- 5 questions parents may have after Trump's latest vaccine move - NPR
+- Trump wants to split the MMR vaccine. Experts say that's unlikely — and comes with consequences - CNBC
 - Exclusive | U.S. Fires on Ship Breaking Its Blockade of Iran - WSJ
-- Wisconsin considers democratic socialist for governor amid US wave of progressive wins - The Guardian
-- Trump warns new Hochul, Mamdani pied-à-terre tax could accelerate NYC wealth exodus - Fox Business
-- Severe weather pounds Illinois and Indiana, knocking out power as tornado sirens blare - AP News
-- To Improve Student Mental Health, University of Michigan Eases Grading - nytimes.com
-- Luigi Mangione murder trial to have anonymous jury and overflow seating - BBC
+- What to watch in tonight’s primaries - Politico
+- Trump Threatens to Take Federal Action to Block Mamdani’s Pied-à-Terre Tax - WSJ
+- Russia frees ailing ex-US Marine Robert Gilman from detention - reuters.com
+- Jury in Luigi Mangione’s state trial will be anonymous, judge rules - NBC News
+- High school football player in Arkansas practices with a venomous snake in his helmet - apnews.com
 - Farage vs Count Binface: What to know about UK snap poll - France 24
-- Hormuz to stay closed unless US meets Iran's conditions, Iran official says - Reuters
-- Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia - BBC
-- What really happens after Ukraine strikes a Russian oil refinery? Meduza analyzed unique satellite data to assess the damage. - Meduza
+- Syria sentences absent Bashar al-Assad to death over killings and torture - reuters.com
+- Iran war latest: Trump claims control of Hormuz as assassination threat revealed - The Independent
+- Nearly 400 civilians killed, wounded in U.S. strikes on Yemen last year - The Washington Post
 - Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC
-- CoreWeave Shares Jump 12% as Revenue Doubles From Year Earlier - WSJ
-- Wall Street ends down as US-Iran peace optimism fades - Reuters
-- Mamdani Backs Proposal to End Amazon's 'Exploitative' Delivery Model in New York City - Common Dreams
+- CoreWeave Earnings Beat Amid Operating Margin Upside - Investor's Business Daily
+- Trump Media says Wall Street firms are paying up to $100K for early access to Trump posts - CNN
+- Supermicro tops Q4 earnings expectations, offers strong Q1 guidance, stock jumps - finance.yahoo.com
 - Sonos will launch new wireless headphones next month, official filing suggests - What Hi-Fi?
-- Every Galaxy phone and tablet eligible to get One UI 9 (Android 17) update - SamMobile
+- Xbox Elite 3 prototype pad leaks with tiny built-in screen - theverge.com
