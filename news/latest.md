@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-12 02:41_
+_Updated: 2026-08-12 05:09_
 
+- Primary Elections Live Updates: Wisconsin, Minnesota and South Carolina Vote in Key Races - The New York Times
 - Trump hid in catering truck in secret plane swap over Iran threat, reports say - BBC
-- In South Carolina, GOP Voters decide who they want to replace the late Sen. Lindsey Graham - NPR
-- Live updates: Over 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet - CNN
-- Trump wants to split the MMR vaccine. Experts say that's unlikely — and comes with consequences - CNBC
-- Exclusive | U.S. Fires on Ship Breaking Its Blockade of Iran - WSJ
-- What to watch in tonight’s primaries - Politico
-- Trump Threatens to Take Federal Action to Block Mamdani’s Pied-à-Terre Tax - WSJ
-- Russia frees ailing ex-US Marine Robert Gilman from detention - reuters.com
-- Jury in Luigi Mangione’s state trial will be anonymous, judge rules - NBC News
-- High school football player in Arkansas practices with a venomous snake in his helmet - apnews.com
+- Sen. Darline Graham and Rep. Ralph Norman advance to GOP Senate primary runoff in South Carolina - NBC News
+- Doppler radar-confirmed tornado blasts through Chicago's south suburbs - CBS News
+- A judge expands a block on U.S. Postal Service work on Trump's mail-in voting order - NPR
+- Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - AP News
+- Democratic Rep. John Larson loses his primary to opponent calling for generational change - NBC News
+- Trump warns new Hochul, Mamdani pied-à-terre tax could accelerate NYC wealth exodus - Fox Business
+- Luigi Mangione murder trial to have anonymous jury - BBC
+- Ocasio-Cortez Opened Up About Freezing Her Eggs. She Got Women Talking. - The New York Times
+- As search for thousands of missing pushes on, Colombia earthquake tests new president - AP News
+- Syria sentences absent Bashar al-Assad to death over killings and torture - Reuters
 - Farage vs Count Binface: What to know about UK snap poll - France 24
-- Syria sentences absent Bashar al-Assad to death over killings and torture - reuters.com
 - Iran war latest: Trump claims control of Hormuz as assassination threat revealed - The Independent
-- Nearly 400 civilians killed, wounded in U.S. strikes on Yemen last year - The Washington Post
 - Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC
-- CoreWeave Earnings Beat Amid Operating Margin Upside - Investor's Business Daily
-- Trump Media says Wall Street firms are paying up to $100K for early access to Trump posts - CNN
-- Supermicro tops Q4 earnings expectations, offers strong Q1 guidance, stock jumps - finance.yahoo.com
-- Sonos will launch new wireless headphones next month, official filing suggests - What Hi-Fi?
-- Xbox Elite 3 prototype pad leaks with tiny built-in screen - theverge.com
+- Trump Media has struggled to grow. Now it's selling $100,000 contracts for access to Truth Social. - CBS News
+- CoreWeave Shares Jump as Revenue Doubles From Year Earlier - WSJ
+- Supermicro tops Q4 earnings expectations, offers strong Q1 guidance, stock jumps - Yahoo Finance
+- FDA approves Samsung's Hearing Aid feature on Galaxy Buds - GSMArena.com news - GSMArena.com
+- Xbox Elite 3 prototype pad leaks with tiny built-in screen - The Verge
