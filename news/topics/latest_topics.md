@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-13 07:17_
+_Updated: 2026-08-13 08:56_
 
 ## Top Stories
 
-- Zelenskyj: Så många robotar behövs - Västerbottens-Kuriren
-- DN Direkt – Första samtalen klara i Venezuela - Dagens Nyheter
+- C-ledaren om karensdagen: "Då får vi förhandla" - Västerbottens-Kuriren
+- Man död efter misstänkt koattack i Valdemarsvik - Omni – Alla nyheter. Alla perspektiv.
+- DEBATT: S: Tidöpartierna sprider lögner om vår syn på mängdrabatten - Norran
 - Ambulansfack kräver säkerhetsvakter vid farliga utryckningar - Sveriges Radio
-- Väljarbarometer augusti 2026 - Demoskop
-- Fick bolån med falska anställningsavtal: ”Systemhotande” - Dagens Nyheter
-- Teorierna kring barnmorden – misstankar mot pappan sprids på nätet - Aftonbladet
+- Zelenskyj: Så många robotar behövs - Västerbottens-Kuriren
+- KD vill servera alkohol vid sin valstuga i Malmö - Omni – Alla nyheter. Alla perspektiv.
+- Polisen söker död mans identitet: ”Ensam vagabond” - Sydsvenskan
 - 2 000 barn skadas i trafiken när skolan startar - Dagens Nyheter
-- Hårda ord om migrationslag: ”Abort eller utvisning” - Västerbottens-Kuriren
 - Tältande ryssar inte längre brottsmisstänkta - Corren
 - Melatonin till barn ökar kraftigt: osäkerhet om långtidseffekter - Sveriges Radio
-- Caféprotester synliggör konflikt mellan ultraortodoxa och sekulära i Israel - Sveriges Radio
 - Farage i omval – soptunnan Binface stark utmanare - Göteborgs-Posten
+- Caféprotester synliggör konflikt mellan ultraortodoxa och sekulära i Israel - Sveriges Radio
+- Extremt låga vattenstånd pressar Europas stålindustri - METALLERochGRUVOR.se
 - Dödssiffran stiger efter skalvet - Aftonbladet
-- Tate-bröderna hade falska pass – med Bond-namn - Expressen
-- Därför minskar inte arbetslösheten snabbare - Dagens Nyheter
-- Inflationssiffror gav små rörelser på Wall Street - Bohusläningen
-- Kalkyl: Nya fritidshus kostar runt 100 000 kronor om året - Omni – Alla nyheter. Alla perspektiv.
-- Kriminella tvättar pengar med Pokémonkort - Privata Affärer
-- ”Som dödsstjärnan” – solförmörkelsen fascinerade många - Dagens Nyheter
-- Google presenterar Pixel 11 – satsar stort på Gemini - m3.se
+- Vinstlyft för Embracer - Göteborgs-Posten
+- Fick bolån med falska anställningsavtal: ”Systemhotande” - Dagens Nyheter
+- Inflationen rasar – lägre elpriser bakom fallet - Svenska Dagbladet
+- Därför minskar inte arbetslösheten snabbare - Nya Wermlands-Tidningen
+- Se de bästa bilderna från solförmörkelsen - Svenska Dagbladet
+- AI-chefen: ”Claude är ett geni jag är skeptisk mot” - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på inatt 00:00 - tv.nu
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - Vietnam.vn
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Visual Art köper Global Agencies - Dagens Media
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
@@ -53,20 +53,20 @@ _Updated: 2026-08-13 07:17_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
@@ -77,7 +77,6 @@ _Updated: 2026-08-13 07:17_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
@@ -87,35 +86,36 @@ _Updated: 2026-08-13 07:17_
 - Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Sju life science-trender 2026 - Business Region Göteborg
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
-- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- firar 15 år av att skydda den globala hälsosektorn - health-isac.org
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
+- Sju life science-trender 2026 - businessregiongoteborg.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Ny WHO-rapport visar hur vårdinsatser i Gaza försvårats av blockad och attacker - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
@@ -125,7 +125,7 @@ _Updated: 2026-08-13 07:17_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
@@ -143,13 +143,13 @@ _Updated: 2026-08-13 07:17_
 ## Jordbruk
 
 - Sveriges förändrade lantbruk - SLU
-- Framtidens jordbruk - European Commission
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Framtidens jordbruk - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Jordbrukspolitik - Naturvårdsverket
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Brittiska bönder i massiv protest mot arvsskatten - ja.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jord, kor och klimat - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
