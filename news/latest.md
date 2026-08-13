@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-13 18:33_
+_Updated: 2026-08-13 19:40_
 
-- Exclusive | U.S. Sending Fresh Aircraft Carrier to Middle East Amid Iran War Strain - WSJ
-- Flock unveils changes after Post report on police misuse of its network - The Washington Post
-- Settler siege of Palestinian homes in the West Bank a 'horrific act of terror,' US ambassador says - AP News
-- Iran's state media mock Trump over airplane switch, meme shows him hiding in a catering truck - Reuters
-- Lindsay Clancy sobs, says ‘I can’t do this’ during autopsy testimony - NewsNation
+- Sailor went overboard from the USS Abraham Lincoln last month as conditions on the ship prompt lawmakers’ demand for answers - CNN
+- Flock boss admits surveillance firm took too long to act over police abuse - BBC
+- U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror' - NPR
+- Watch Live: Lindsay Clancy murder trial resumes with testimony from Massachusetts State Police investigators - CBS News
 - Luigi Mangione, Facing Stalking Charges in Federal Court, Is Expected to Plead Guilty - The New York Times
-- I-70 drivers will see messages about a closure in Indiana. Here's why - 10tv.com
-- Former Trump spokesman ‘very surprised’ Leavitt leaving without replacement - The Hill
+- Judge dismisses Trump lawsuit that claimed Harvard failed to protect Jewish students - The Guardian
+- Tropical Storm Lala forms in the Pacific and hurricane watch is issued for the Big Island of Hawaii - AP News
+- 2 soldiers killed in Texas helicopter crash - The Hill
 - Live Updates: Tehran says Strait of Hormuz "under Iran's control" after Trump threatens U.S. might "keep it" - CBS News
-- Wisconsin, Michigan primaries expose limits of polls and prediction markets - CNBC
+- Three men will be executed the same day as US sees steep rise in death penalty - BBC
 - NJ mother died saving daughter in Colombia earthquake, family says - 6abc Philadelphia
-- The best photos from Wednesday’s solar eclipse - cnn.com
+- ‘Absolutely unacceptable’: Japan condemns visit by Vladimir Putin to disputed Kuril Islands - The Guardian
+- The best photos from Wednesday’s solar eclipse - CNN
 - Taiwan Weaponizes Coast Guard to Prepare for Battle With China - WSJ
-- Turkey lays out plans for defence pact with Pakistan and Saudi Arabia - Reuters
-- Lawsuit seeks to ban Trump Media from charging for early access to president's posts on US policy - AP News
-- Why Illinois Powerball player who hit $1.04B jackpot may never be known — and how much they'd take home after taxes - New York Post
-- US Producer Price Growth Decelerates by More Than Forecast - Bloomberg.com
-- S&P 500 futures tick higher after more encouraging inflation data; Cisco weighs on Nasdaq: Live updates - CNBC
-- Everything announced at Made by Google today, including Pixel 11, Pixel Watch 4, and Pixel Tag - Mashable
-- iPhone 18 Pro Event Tipped As Apple Shifts Key Release Schedule Date - Forbes
+- Wholesale price inflation slows last month as gas, food costs fall - AP News
+- Midwest Powerball winner gets $1 billion; 2 Michigan tickets worth $50K - The Detroit News
+- Trump sued over "brazen" scheme to sell Truth Social API access for $100K a month - Ars Technica
+- US wholesale inflation up 4.7% over the past year, BLS says - Forex Factory
+- Google’s Tensor G6 in Pixel 11 isn’t the first 2nm smartphone chip after all - 9to5Google
+- NVIDIA GeForce NOW native Linux app leaves beta, Frame Generation gets lower latency - VideoCardz.com
