@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-13 05:13_
+_Updated: 2026-08-13 07:21_
 
-- Karoline Leavitt is leaving her role as Trump's White House press secretary - PBS
-- David Crowley's razor-thin primary win sets up Wisconsin governor's race against Trump's pick - AP News
+- Donald Trump loses his favourite press secretary as Karoline Leavitt exits - Financial Times
 - CIA had ‘low confidence’ in Iranian threat before Trump switched planes in Turkey - The Washington Post
-- Trump administration plans to give ICE officers electric-shock gloves - Al Jazeera
+- Wisconsin Gubernatorial Race Moves to Leans Democratic After the Establishment’s Great Escape; Other Primary Takeaways; Rating Changes in Montana and Ohio - Sabato's Crystal Ball - centerforpolitics.org
+- ICE’s plan to give officers electric shock gloves draws outrage and fears of misuse - AP News
 - South Carolina Senate Runoff Kicks Off With Chick-fil-A and Trump Calls - The New York Times
-- Timber Fire passes 3,700 acres as Highway 1 closure, evacuations remain in Big Sur - KSBW
+- Timber Fire explodes to nearly 4,000 acres as iconic California sites threatened, major road closure continues - New York Post
+- A Fight Over Abortion and Surrogacy Ends With a Baby Born in Texas - The New York Times
 - Two soldiers are dead after a military helicopter crashes in Texas, sparking a fire - NBC News
-- Apparent Murder-Suicide at Minnesota Day Care Center Leaves 3 Dead - The New York Times
 - Republicans fear Hegseth’s Democrat brushoff could backfire - Politico
-- Woman Arrested After Confessing to Starting Nevada Fire, Officials Say - The New York Times
-- First Total Eclipse in Europe in Decades Turns Day to Night - The New York Times
-- Colombia declares three days of mourning after deadly earthquake - Al Jazeera
-- Major Russian grain export terminals hit in Ukraine Black Sea port attack - bbc.com
-- At least 1 dead, scores rescued from Indonesian ferry that caught fire in rough seas near Bali - CBS News
+- Police: 2 adults, 1 child dead in suspected murder-suicide at Hopkins daycare; case linked to Burnsville homicide - 5 EYEWITNESS NEWS
+- The Best Photos of the Big August Solar Eclipse - WIRED
+- Colombia earthquake death toll rises as frantic search for survivors continues - CBS News
+- Ebola outbreak on track to be deadliest ever, WHO chief says - BBC
+- An overnight Ukrainian blitz damages Russia’s Black Sea naval stronghold, Zelenskyy says - AP News
 - Stock futures are little changed as traders await more inflation data: Live updates - CNBC
-- 'Profoundly corrupt': Trump sued in federal court over selling early access to Truth Social posts - abcnews.com
-- Cisco Networking Sales Surge on AI Demand. Why the Stock Is Down. - Barron's
-- Elon Musk Says AI Revenue Will Eclipse the Rest of SpaceX by September. Here’s What Investors Need to Know - Yahoo Finance
+- 'Profoundly corrupt': Trump sued in federal court over selling early access to Truth Social posts - ABC News - Breaking News, Latest News and Videos
+- Cisco forecasts annual revenue above estimates on sustained AI spending - Reuters
+- Nebius Stock Soars 28% as Revenue Beat Bolsters AI Rally. Michael Burry May Be Helping. - Barron's
 - Everything announced at Made by Google today, including Pixel 11, Pixel Watch 4, and Pixel Tag - Mashable
-- Helldivers 2: Devoid of Liberty – Meet the SEAF Squad Assembled to Take on The Illuminate - XBOX Wire
+- Exclusive | Apple in Talks to Pay Publishers to Improve AI-Powered Siri - WSJ
