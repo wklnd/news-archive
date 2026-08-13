@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-13 19:28_
+_Updated: 2026-08-13 20:27_
 
 ## Top Stories
 
 - Tidö fick igenom straffrabatterna – S lovar omtag vid valvinst - Dagens Nyheter
-- Åklagaren vill ha mer tid för att utreda båtolyckan vid Tjörn - SVT Nyheter
-- Hon sköts i Lissabon – kulan kvar: ”Inte arg” - Aftonbladet
-- Kvinnlig passagerare död i mc-olycka i centrala Stockholm - TV4 Nyheterna
 - Demenssjuk engelsman utvisas på grund av brexit - Dagens Nyheter
-- Tiden före mordet: Han högg ved – hon klippte gräs - Aftonbladet
-- Pappa drunknade när han försökte rädda sin son - Dagens Nyheter
-- Röklukt ombord flyg – vänder tillbaka mot Arlanda - SVT Nyheter
+- Då kolliderade båtarna utanför Tjörn - Aftonbladet
+- Pappa drunknade – försökte rädda barn - Mitt i
+- Riksdagen röstar om prestigeförslagen - Expressen
+- Bråket innan mordet – egna orden i förhör - Expressen
+- DN Direkt – Bris: Historiskt bakslag för barns rättigheter - Dagens Nyheter
 - För dig som missade solförmörkelsen – här är fler rymdfenomen att spana på - SVT Nyheter
-- Regeringen vinner omröstning om anhöriginvandring - Göteborgs-Posten
+- Plan till Vasa fick nödlanda – ”Nöd” - Västerbottens-Kuriren
+- DN Direkt – En gripen efter våldsbrott i Söderhamn - Dagens Nyheter
 - Ungerns akuta plan: Stenmur ska få i gång reaktorer - Västerbottens-Kuriren
 - Valet en förödmjukelse för Farage – ställs mot ”greve soptunna” - Dagens Nyheter
 - USA om belägring på Västbanken: ”Motbjudande” - Göteborgs-Posten
-- DN Direkt – Över 30 grader varmt för 135 miljoner européer - Dagens Nyheter
-- IF Metall avbryter strejken mot Tesla - SVT Nyheter
-- Holdings: Kenneth Dart har köpt 0,6 procent av aktierna i Hacksaw - Placera.se
+- Över 30 grader varmt för 135 miljoner européer - Västerbottens-Kuriren
+- IF Metall avbryter Tesla-konflikten efter utköp - Placera.se
+- Dart lägger budpliktsbud på Evolution – ratar utköp - Omni – Alla nyheter. Alla perspektiv.
 - Stordalens förlust: Hundratals miljoner - Expressen
 - Åklagare varnar för falska bolån: "Systemhotande” - Bostadspolitik
 - Googles nya AI-modell förstår teckenspråk - Computer Sweden
@@ -28,23 +28,23 @@ _Updated: 2026-08-13 19:28_
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på inatt 00:00 - tv.nu
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - via.tt.se
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - entrackr.com
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - Vietnam.vn
 - Visual Art köper Global Agencies - Dagens Media
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Vorwerk Group Continues Global Expansion in Direct Sales - via.tt.se
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
@@ -84,8 +84,8 @@ _Updated: 2026-08-13 19:28_
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Blue Shield of California Appoints Veteran Finance Leader Kevin Jacobsen to Board of Directors (PR Newswire) - Aktiellt
 - Vilken framtid arbetar du för? - EY
+- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -96,26 +96,26 @@ _Updated: 2026-08-13 19:28_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - lakartidningen.se
+- Digital transformation inom hälso- och sjukvården: Att bygga en plattform för att hantera människors hälsa under hela deras livscykel. - Vietnam.vn
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
 - Sju life science-trender 2026 - Business Region Göteborg
-- Örebro University’s first specialist physicians are now contributing to national healthcare - via.tt.se
+- Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar HealthBench - openai.com
+- Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - lakartidningen.se
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Ny WHO-rapport visar hur vårdinsatser i Gaza försvårats av blockad och attacker - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
@@ -128,7 +128,7 @@ _Updated: 2026-08-13 19:28_
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - uu.se
-- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - openai.com
+- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
@@ -146,7 +146,7 @@ _Updated: 2026-08-13 19:28_
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - ja.se
-- Jordbrukspolitik - Naturvårdsverket
+- Jordbrukspolitik - naturvardsverket.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
