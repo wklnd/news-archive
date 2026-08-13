@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-13 18:24_
+_Updated: 2026-08-13 19:28_
 
 ## Top Stories
 
-- Just nu IF Metall avbryter Tesla-konflikten efter utköp - Placera.se
-- S går till val på att slopa mängdrabatten på riktigt – Tidöpartiernas förslag om mängdrabatt är en bluff - Socialdemokraterna
-- Pappa drunknade – försökte rädda sin son - Aftonbladet
+- Tidö fick igenom straffrabatterna – S lovar omtag vid valvinst - Dagens Nyheter
+- Åklagaren vill ha mer tid för att utreda båtolyckan vid Tjörn - SVT Nyheter
+- Hon sköts i Lissabon – kulan kvar: ”Inte arg” - Aftonbladet
+- Kvinnlig passagerare död i mc-olycka i centrala Stockholm - TV4 Nyheterna
 - Demenssjuk engelsman utvisas på grund av brexit - Dagens Nyheter
-- Aggressiv man inne i Bellevuemoskén - Göteborgs-Posten
-- Mannen som misstänks för sexbrott på sjukhus inte längre frihetsberövad - SVT Nyheter
+- Tiden före mordet: Han högg ved – hon klippte gräs - Aftonbladet
+- Pappa drunknade när han försökte rädda sin son - Dagens Nyheter
 - Röklukt ombord flyg – vänder tillbaka mot Arlanda - SVT Nyheter
 - För dig som missade solförmörkelsen – här är fler rymdfenomen att spana på - SVT Nyheter
-- Regeringskansliets jakt på försvunna anteckningsboken – "Kan du ringa upp omgående?" - Dagens Nyheter
-- Kvinna död efter motorcykelolycka på Centralbron - SVT Nyheter
+- Regeringen vinner omröstning om anhöriginvandring - Göteborgs-Posten
+- Ungerns akuta plan: Stenmur ska få i gång reaktorer - Västerbottens-Kuriren
 - Valet en förödmjukelse för Farage – ställs mot ”greve soptunna” - Dagens Nyheter
-- Israels militär bryter belägring på Västbanken - Västerbottens-Kuriren
-- Över 30 grader varmt för 135 miljoner européer - Göteborgs-Posten
-- Uppgifter om ”psykisk ohälsokris” på amerikanskt hangarfartyg - Dagens Nyheter
+- USA om belägring på Västbanken: ”Motbjudande” - Göteborgs-Posten
+- DN Direkt – Över 30 grader varmt för 135 miljoner européer - Dagens Nyheter
+- IF Metall avbryter strejken mot Tesla - SVT Nyheter
 - Holdings: Kenneth Dart har köpt 0,6 procent av aktierna i Hacksaw - Placera.se
 - Stordalens förlust: Hundratals miljoner - Expressen
-- Fick bolån med falska anställningsavtal: ”Systemhotande” - Dagens Nyheter
-- Blandat i Norden – fraktbolag lyfte - Dagens industri
+- Åklagare varnar för falska bolån: "Systemhotande” - Bostadspolitik
 - Googles nya AI-modell förstår teckenspråk - Computer Sweden
 - Stor protest när Xbox besökte Bethesda - Aftonbladet
 
@@ -55,18 +55,18 @@ _Updated: 2026-08-13 18:24_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
+- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - borskollen.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
+- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- Touareg Group Expands Global Presence with Establishment of U.S. Technology Subsidiary (PR Newswire) - Aktiellt
+- AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
@@ -84,8 +84,8 @@ _Updated: 2026-08-13 18:24_
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Blue Shield of California Appoints Veteran Finance Leader Kevin Jacobsen to Board of Directors (PR Newswire) - Aktiellt
 - Vilken framtid arbetar du för? - EY
-- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -102,7 +102,7 @@ _Updated: 2026-08-13 18:24_
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
 - Sju life science-trender 2026 - Business Region Göteborg
 - Örebro University’s first specialist physicians are now contributing to national healthcare - via.tt.se
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
@@ -110,7 +110,7 @@ _Updated: 2026-08-13 18:24_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - openai.com
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - lakartidningen.se
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
@@ -119,26 +119,26 @@ _Updated: 2026-08-13 18:24_
 
 ## Science
 
-- Activities for the public – Department of Earth Sciences - Uppsala universitet
+- Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
+- Activities for the public – Department of Earth Sciences - uu.se
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Olika slutsatser från samma data - lakartidningen.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Sherry Nakhaeizadeh - Uppsala universitet
+- Sherry Nakhaeizadeh - uu.se
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - openai.com
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - lakartidningen.se
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - 5 myter om öppen vetenskap - lakartidningen.se
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
-- Exploaterar forskares strävan efter snabb granskning och publicering - lakartidningen.se
 
 ## Jordbruk
 
