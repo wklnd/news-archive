@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-13 09:01_
+_Updated: 2026-08-13 10:53_
 
-- Donald Trump loses his favourite press secretary as Karoline Leavitt exits - Financial Times
+- First Total Eclipse in Europe in Decades Turns Day to Night - The New York Times
 - Wisconsin Gubernatorial Race Moves to Leans Democratic After the Establishment’s Great Escape; Other Primary Takeaways; Rating Changes in Montana and Ohio - Sabato's Crystal Ball - The Center for Politics at UVA
-- CIA had ‘low confidence’ in Iranian threat before Trump switched planes in Turkey - The Washington Post
-- ICE plans to put electric-shock gloves on officers' hands - Axios
+- Karoline Leavitt stepping down as White House press secretary - Axios
 - Live Updates: Trump says U.S. has "total control" over Strait of Hormuz and might "keep it" - CBS News
+- US immigration agency plans to buy electric shock gloves, raising alarm among rights advocates - Reuters
 - Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC
 - A Fight Over Abortion and Surrogacy Ends With a Baby Born in Texas - The New York Times
-- Two soldiers are dead after a military helicopter crashes in Texas, sparking a fire - NBC News
-- Hopkins, Burnsville murder-suicide leaves 4 dead - FOX 9 Minneapolis-St. Paul
-- Republicans fear Hegseth’s Democrat brushoff could backfire - Politico
-- In pictures: Sky watchers gather for solar eclipse - BBC
+- Police: 2 adults, 1 child dead in suspected murder-suicide at Hopkins daycare; case linked to Burnsville homicide - 5 EYEWITNESS NEWS
+- 2 soldiers killed as Apache helicopter from Fort Hood crashes in Salado, Texas - CBS News
+- Rain begins to move out before another threat for storms, flooding Thursday - WLWT
+- CIA had ‘low confidence’ in Iranian threat before Trump switched planes in Turkey - The Washington Post
 - Colombia earthquake death toll rises as frantic search for survivors continues - CBS News
-- Congo’s Ebola outbreak is on track to surpass the deadliest one in history, WHO chief says - AP News
-- Europeans, Braced for 5th Heat Wave of 2026, Have Had Enough - The New York Times
+- ‘An English Summer Is Not the Same Anymore’ - The New York Times
+- Zambia elections haunted by ghost of incumbent president’s arch-rival - The Guardian
 - Stock futures are little changed as traders await more inflation data: Live updates - CNBC
-- Cisco forecasts annual revenue above estimates on sustained AI spending - reuters.com
-- Nebius Stock Soars 28% as Revenue Beat Bolsters AI Rally. Michael Burry May Be Helping. - Barron's
-- Anthropic Said in Talks to Buy Startup Decart for $6 Billion - Bloomberg.com
-- Everything announced at Made by Google today, including Pixel 11, Pixel Watch 4, and Pixel Tag - Mashable
-- Exclusive | Apple in Talks to Pay Publishers to Improve AI-Powered Siri - WSJ
+- Twitch users can now block Amazon from using their content to train AI - BBC
+- Cisco forecasts annual revenue above estimates on sustained AI spending - Reuters
+- Powerball player in Illinois wins $1 billion jackpot - ABC News - Breaking News, Latest News and Videos
+- We're Live at Made By Google Sharing Every Pixel 11, Pro Fold, and Watch 5 Announcement - pcmag.com
+- Honor Launches Its Long-Awaited Robot Phone And Yes It Can Wiggle At You - Engadget
