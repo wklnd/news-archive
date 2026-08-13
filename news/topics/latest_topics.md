@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-13 02:07_
+_Updated: 2026-08-13 05:07_
 
 ## Top Stories
 
-- Presschef Karoline Leavitt lämnar Vita huset - Dagens Nyheter
 - Väljarbarometer augusti 2026 - Demoskop
-- Dödssiffran stiger efter skalvet - Svenska Dagbladet
+- Presschef Karoline Leavitt lämnar Vita huset - Dagens Nyheter
 - Expert om Putins hot: Skulle öppna upp en ny front - Dagens Nyheter
-- Colombia och USA i samarbete - Svenska Dagbladet
-- Över sjuhundra såg solförmörkelsen från observatoriet i Oxie: ”En högtid” - Sydsvenskan
-- Melatonin till barn ökar kraftigt: osäkerhet om långtidseffekter - Sveriges Radio
-- S och SD ryker ihop i skattefrågan: ”Orättvis politik” – Senaste nytt om valet 2026 - SVT Nyheter
+- Teorierna kring barnmorden – misstankar mot pappan sprids på nätet - Aftonbladet
+- Hjälpen når inte överlevarna – 250 döda i Colombia - Göteborgs-Posten
+- Zelenskyj: Så många robotar behövs - Västerbottens-Kuriren
 - Tältande ryssar inte längre brottsmisstänkta - Västerbottens-Kuriren
+- S och SD ryker ihop i skattefrågan: ”Orättvis politik” – Senaste nytt om valet 2026 - SVT Nyheter
+- Melatonin till barn ökar kraftigt: osäkerhet om långtidseffekter - Sveriges Radio
 - M och V anklagar varandra för kommunism - Göteborgs-Posten
 - Direkt – Kriget i Ukraina – Zelenskyj: 26 byar befriade i offensiv - Dagens Nyheter
 - WHO: Ebolautbrottet kan bli det värsta någonsin - Hufvudstadsbladet – HBL
 - Chatt: Fråga SVT:s korrespondenter om kriget i Ukraina - SVT Nyheter
-- Brist på Patriot till Ukraina – tar två år att bygga - Göteborgs-Posten
-- Guldpriset stiger inför USA:s inflationssiffra - Affärsvärlden
+- Colombia och USA i samarbete mot knarksmugglare - Västerbottens-Kuriren
 - DN Direkt – AI-bolag steg på Wall Street efter inflationssiffror - Dagens Nyheter
-- Rött på Europabörserna - EFN
-- SBB stuvar om i portföljen – säljer Studentbostäder - Fastighetsnytt
+- Dow sjunker 180 p när oljepriset stiger på Hormuz-oro; Nasdaq backar inför KPI - invezz.com
+- Stockholmsbörsen inleder i moll - Folkbladet
+- Guldlyft efter USA-inflationen: ”Perfekt läge” - Dagens industri
+- ”Som dödsstjärnan” – solförmörkelsen fascinerade många - Dagens Nyheter
 - Jag tillbringade ett par timmar med nya Google Pixel 11 Pro Fold – ingen revolution, men ett steg närmare perfektion - TechRadar
-- Missa inte en fullkomligt enastående kväll på stjärnhimlen: Två mycket speciella fenomen äger rum inom loppet av ett par timmar - illvet.se
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på inatt 00:00 - tv.nu
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - Vietnam.vn
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
@@ -59,7 +59,7 @@ _Updated: 2026-08-13 02:07_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - blogg.avanza.se
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
@@ -115,7 +115,7 @@ _Updated: 2026-08-13 02:07_
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Ny WHO-rapport visar hur vårdinsatser i Gaza försvårats av blockad och attacker - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
@@ -125,7 +125,7 @@ _Updated: 2026-08-13 02:07_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
-- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
@@ -146,7 +146,7 @@ _Updated: 2026-08-13 02:07_
 - Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Jordbrukspolitik - naturvardsverket.se
+- Jordbrukspolitik - Naturvårdsverket
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
