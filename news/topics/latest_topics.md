@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-14 00:11_
+_Updated: 2026-08-14 01:11_
 
 ## Top Stories
 
-- Misstänkt mord i Söderhamn – en gripen - Göteborgs-Posten
+- Man död efter misstänkt mord i Söderhamn - omni.se
+- DN Direkt – Pojke död i trafikolycka i Eskilstuna - Dagens Nyheter
+- Joyce, 78, utvisas efter 21 år i Sverige - Göteborgs-Posten
 - Strömmers prestigereform gick igenom – S: ”Bluff” - Göteborgs-Posten
-- Demenssjuk engelsman utvisas på grund av brexit - Dagens Nyheter
-- Båtolyckan utanför Tjörn: åklagaren begär mer tid - Sveriges Radio
-- S om hanteringen av anteckningsboken: ”Det är pinsamt” - Dagens Nyheter
-- Trafikolycka utanför Eskilstuna – pojke avliden - svt.se
+- Då kolliderade båtarna utanför Tjörn - Aftonbladet
+- Vädervarningar i svenskparadiset - Expressen
 - Insändare. S bör inte rösta ja till att sätta 14-åringar i fängelse - Dagens Nyheter
 - Jörn Spolander: Zombielaxarna – ett orostecken inför framtiden - Dagens Nyheter
+- S om hanteringen av anteckningsboken: ”Det är pinsamt” - Dagens Nyheter
 - Regeringen vinner omröstning om anhöriginvandring - Göteborgs-Posten
-- Nya uppgifter från mordplatsen: Glasbitar i en hög - TV4 Nyheterna
-- Palestinska hem på Västbanken belägras av bosättare - svt.se
-- Domstol avfärdar Trumps Harvard-stämning - Hufvudstadsbladet – HBL
-- Ungerns akuta plan: Stenmur ska få i gång reaktorer - Västerbottens-Kuriren
 - Väckte den björn som sover – 50 000 i böter - Göteborgs-Posten
+- Domstol avfärdar Trumps Harvard-stämning - Hufvudstadsbladet – HBL
+- Cancerpatienter i Gaza dör efter att vården har slagits ut - Dagens Nyheter
+- USA skickar nytt hangarfartyg till Mellanöstern - Göteborgs-Posten
 - IF Metall avbryter Tesla-konflikten efter utköp - Placera.se
-- Väntat men uselt bud – så ska ägarna tänka nu - EFN
-- Maersk krossar förväntningarna – höjer helårsprognosen - Affärsvärlden
+- Kenneth Dart lägger budpliktsbud på Evolution - Dagens industri
+- Spretigt på börserna i Norden – Maersk steg på rapport - EFN
 - Nytt rekord på Wall Street - Västerbottens-Kuriren
 - TV: Blickarna mot skyn – dubbla himlafenomen - Skaraborgs Allehanda
-- Google presenterar Pixel 11 – satsar stort på Gemini - m3.se
+- Googles Pixel 11 får AI-funktion som kan göra om teckenspråk till text - m3.se
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på inatt 00:00 - tv.nu
-- Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
+- Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - Vietnam.vn
+- Visual Art köper Global Agencies - Dagens Media
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - Vietnam.vn
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
@@ -53,15 +53,15 @@ _Updated: 2026-08-14 00:11_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Albanien utser AI-bot till minister - Computer Sweden
-- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - blogg.avanza.se
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Kina utökar övervakning i realtid av invånarna - omni.se
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
@@ -77,21 +77,21 @@ _Updated: 2026-08-14 00:11_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Vilken framtid arbetar du för? - EY
-- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
-- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
@@ -106,7 +106,7 @@ _Updated: 2026-08-14 00:11_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Sju life science-trender 2026 - Business Region Göteborg
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
-- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- firar 15 år av att skydda den globala hälsosektorn - health-isac.org
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
@@ -119,12 +119,11 @@ _Updated: 2026-08-14 00:11_
 
 ## Science
 
-- Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Kina drar om USA – bäst på forskning - svt.se
+- Kina drar om USA – bäst på forskning - SVT Nyheter
+- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
@@ -133,12 +132,13 @@ _Updated: 2026-08-14 00:11_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
