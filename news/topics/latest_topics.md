@@ -1,34 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-13 21:34_
+_Updated: 2026-08-13 22:06_
 
 ## Top Stories
 
 - Tidö fick igenom slopade straffrabatter – S lovar omtag vid valvinst - Dagens Nyheter
-- Joyce, 78, utvisas efter 21 år i Sverige - gp.se
-- Grovt våldsbrott i Söderhamn – man gripen - Expressen
-- Regeringskansliets jakt på försvunna anteckningsboken – "Kan du ringa upp omgående?" - Dagens Nyheter
+- Joyce, 78, utvisas efter 21 år i Sverige - Göteborgs-Posten
+- Trafikolycka utanför Eskilstuna – pojke avliden - SVT Nyheter
 - Då kolliderade båtarna utanför Tjörn - Aftonbladet
+- Grovt våldsbrott i Söderhamn – man gripen - Expressen
 - Uppgifter om ”psykisk ohälsokris” på amerikanskt hangarfartyg - Dagens Nyheter
-- Klubbat: 14-åringar kan dömas till fängelse - gp.se
+- Insändare. S bör inte rösta ja till att sätta 14-åringar i fängelse - Dagens Nyheter
+- Jörn Spolander: Zombielaxarna – ett orostecken inför framtiden - Dagens Nyheter
 - Pappa drunknade när han försökte rädda sin son - Dagens Nyheter
-- För dig som missade solförmörkelsen – här är fler rymdfenomen att spana på - SVT Nyheter
-- Regeringen vinner omröstning om anhöriginvandring - gp.se
-- Ungerns akuta plan: Stenmur ska få i gång reaktorer - gp.se
+- S om hanteringen av anteckningsboken: ”Det är pinsamt” - Dagens Nyheter
+- Ungerns akuta plan: Stenmur ska få i gång reaktorer - Göteborgs-Posten
 - Palestinska hem på Västbanken belägras av bosättare - SVT Nyheter
-- Väckte den björn som sover – 50 000 i böter - Västerbottens-Kuriren
-- DN Direkt – Över 30 grader varmt för 135 miljoner européer - Dagens Nyheter
+- DN Direkt – Kvinna död i mc-olycka mitt i Stockholm - Dagens Nyheter
+- Över 30 grader varmt för 135 miljoner européer - Västerbottens-Kuriren
 - Holdings: Kenneth Dart har köpt 0,6 procent av aktierna i Hacksaw - Placera.se
 - IF Metall avbryter strejken mot Tesla - SVT Nyheter
 - Stordalens förlust: Hundratals miljoner - Expressen
 - Blandat i Norden – fraktbolag lyfte - Dagens industri
-- Googles nya AI-modell förstår teckenspråk - Computer Sweden
-- Stor protest när Xbox besökte Bethesda - Aftonbladet
+- TV: Blickarna mot skyn – dubbla himlafenomen - Skaraborgs Allehanda
+- Google presenterar Pixel 11 – satsar stort på Gemini - m3.se
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på inatt 00:00 - tv.nu
-- Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -39,18 +38,19 @@ _Updated: 2026-08-13 21:34_
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - entrackr.com
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
+- Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - Vietnam.vn
 - Visual Art köper Global Agencies - Dagens Media
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - Vietnam.vn
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - nyheter.ki.se
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
@@ -58,16 +58,16 @@ _Updated: 2026-08-13 21:34_
 - Albanien utser AI-bot till minister - Computer Sweden
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
-- AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
+- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
@@ -82,6 +82,7 @@ _Updated: 2026-08-13 21:34_
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Vilken framtid arbetar du för? - EY
@@ -92,30 +93,29 @@ _Updated: 2026-08-13 21:34_
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Juridicum etablerar ny fokusmiljö i hälsorätt - su.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Digital transformation inom hälso- och sjukvården: Att bygga en plattform för att hantera människors hälsa under hela deras livscykel. - Vietnam.vn
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
-- Khalid satsar på digital vård – mot fetma - st.nu
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Sju life science-trender 2026 - Business Region Göteborg
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - nyheter.ki.se
 - Vi presenterar HealthBench - OpenAI
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - gp.se
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Ny WHO-rapport visar hur vårdinsatser i Gaza försvårats av blockad och attacker - Karolinska Institutet
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Ny WHO-rapport visar hur vårdinsatser i Gaza försvårats av blockad och attacker - nyheter.ki.se
 
 ## Science
 
@@ -125,18 +125,18 @@ _Updated: 2026-08-13 21:34_
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
-- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - nyheter.ki.se
 - 5 myter om öppen vetenskap - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Cell- och genterapi - från science fiction till sjukhussal - nyheter.ki.se
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
@@ -152,11 +152,11 @@ _Updated: 2026-08-13 21:34_
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jord, kor och klimat - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
-- Visning av uppkomst efter direktsådd - Land.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Visning av uppkomst efter direktsådd - Land.se
 - Lantbrukslogik – nu och i framtiden - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
