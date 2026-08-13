@@ -1,47 +1,47 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-13 05:07_
+_Updated: 2026-08-13 07:17_
 
 ## Top Stories
 
-- Väljarbarometer augusti 2026 - Demoskop
-- Presschef Karoline Leavitt lämnar Vita huset - Dagens Nyheter
-- Expert om Putins hot: Skulle öppna upp en ny front - Dagens Nyheter
-- Teorierna kring barnmorden – misstankar mot pappan sprids på nätet - Aftonbladet
-- Hjälpen når inte överlevarna – 250 döda i Colombia - Göteborgs-Posten
 - Zelenskyj: Så många robotar behövs - Västerbottens-Kuriren
-- Tältande ryssar inte längre brottsmisstänkta - Västerbottens-Kuriren
-- S och SD ryker ihop i skattefrågan: ”Orättvis politik” – Senaste nytt om valet 2026 - SVT Nyheter
+- DN Direkt – Första samtalen klara i Venezuela - Dagens Nyheter
+- Ambulansfack kräver säkerhetsvakter vid farliga utryckningar - Sveriges Radio
+- Väljarbarometer augusti 2026 - Demoskop
+- Fick bolån med falska anställningsavtal: ”Systemhotande” - Dagens Nyheter
+- Teorierna kring barnmorden – misstankar mot pappan sprids på nätet - Aftonbladet
+- 2 000 barn skadas i trafiken när skolan startar - Dagens Nyheter
+- Hårda ord om migrationslag: ”Abort eller utvisning” - Västerbottens-Kuriren
+- Tältande ryssar inte längre brottsmisstänkta - Corren
 - Melatonin till barn ökar kraftigt: osäkerhet om långtidseffekter - Sveriges Radio
-- M och V anklagar varandra för kommunism - Göteborgs-Posten
-- Direkt – Kriget i Ukraina – Zelenskyj: 26 byar befriade i offensiv - Dagens Nyheter
-- WHO: Ebolautbrottet kan bli det värsta någonsin - Hufvudstadsbladet – HBL
-- Chatt: Fråga SVT:s korrespondenter om kriget i Ukraina - SVT Nyheter
-- Colombia och USA i samarbete mot knarksmugglare - Västerbottens-Kuriren
-- DN Direkt – AI-bolag steg på Wall Street efter inflationssiffror - Dagens Nyheter
-- Dow sjunker 180 p när oljepriset stiger på Hormuz-oro; Nasdaq backar inför KPI - invezz.com
-- Stockholmsbörsen inleder i moll - Folkbladet
-- Guldlyft efter USA-inflationen: ”Perfekt läge” - Dagens industri
+- Caféprotester synliggör konflikt mellan ultraortodoxa och sekulära i Israel - Sveriges Radio
+- Farage i omval – soptunnan Binface stark utmanare - Göteborgs-Posten
+- Dödssiffran stiger efter skalvet - Aftonbladet
+- Tate-bröderna hade falska pass – med Bond-namn - Expressen
+- Därför minskar inte arbetslösheten snabbare - Dagens Nyheter
+- Inflationssiffror gav små rörelser på Wall Street - Bohusläningen
+- Kalkyl: Nya fritidshus kostar runt 100 000 kronor om året - Omni – Alla nyheter. Alla perspektiv.
+- Kriminella tvättar pengar med Pokémonkort - Privata Affärer
 - ”Som dödsstjärnan” – solförmörkelsen fascinerade många - Dagens Nyheter
-- Jag tillbringade ett par timmar med nya Google Pixel 11 Pro Fold – ingen revolution, men ett steg närmare perfektion - TechRadar
+- Google presenterar Pixel 11 – satsar stort på Gemini - m3.se
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på inatt 00:00 - tv.nu
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - Vietnam.vn
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
+- Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - Vietnam.vn
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -77,45 +77,45 @@ _Updated: 2026-08-13 05:07_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 
 ## Health
 
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
+- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Sju life science-trender 2026 - Business Region Göteborg
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
+- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- Sju life science-trender 2026 - Business Region Göteborg
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Ny WHO-rapport visar hur vårdinsatser i Gaza försvårats av blockad och attacker - Karolinska Institutet
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
