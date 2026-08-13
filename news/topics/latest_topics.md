@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-13 01:22_
+_Updated: 2026-08-13 02:07_
 
 ## Top Stories
 
 - Presschef Karoline Leavitt lämnar Vita huset - Dagens Nyheter
 - Väljarbarometer augusti 2026 - Demoskop
+- Dödssiffran stiger efter skalvet - Svenska Dagbladet
 - Expert om Putins hot: Skulle öppna upp en ny front - Dagens Nyheter
-- Hjälpen når inte överlevarna – 250 döda i Colombia - gp.se
-- Colombia och USA i samarbete mot knarksmugglare - Västerbottens-Kuriren
-- Brist på Patriot till Ukraina – tar två år att bygga - gp.se
+- Colombia och USA i samarbete - Svenska Dagbladet
+- Över sjuhundra såg solförmörkelsen från observatoriet i Oxie: ”En högtid” - Sydsvenskan
 - Melatonin till barn ökar kraftigt: osäkerhet om långtidseffekter - Sveriges Radio
-- Man död i drunkningsolycka i Hökarängen - svt.se
-- DN Direkt – Skyddsglasögon till solförmörkelsen slutsålda i Stockholm - Dagens Nyheter
-- S och C slår tillbaka efter M:s löfte om tvångsmedel – Senaste nytt om valet 2026 - svt.se
+- S och SD ryker ihop i skattefrågan: ”Orättvis politik” – Senaste nytt om valet 2026 - SVT Nyheter
+- Tältande ryssar inte längre brottsmisstänkta - Västerbottens-Kuriren
+- M och V anklagar varandra för kommunism - Göteborgs-Posten
 - Direkt – Kriget i Ukraina – Zelenskyj: 26 byar befriade i offensiv - Dagens Nyheter
-- WHO: Ebolautbrottet kan bli det värsta någonsin - Västerbottens-Kuriren
-- Chatt: Fråga SVT:s korrespondenter om kriget i Ukraina - svt.se
-- DN Direkt – Tidernas tidigaste skörd i Champagne - Dagens Nyheter
-- Guldlyft efter USA-inflationen: ”Perfekt läge” - Dagens industri
-- Inflationssiffror gav små rörelser på Wall Street - Aftonbladet
-- Rött på Europabörserna - efn.se
-- Akelius nobbar Synnes-comeback: ”Van vid helt andra löner” - affarsvarlden.se
-- ”Som dödsstjärnan” – solförmörkelsen fascinerade många - Dagens Nyheter
+- WHO: Ebolautbrottet kan bli det värsta någonsin - Hufvudstadsbladet – HBL
+- Chatt: Fråga SVT:s korrespondenter om kriget i Ukraina - SVT Nyheter
+- Brist på Patriot till Ukraina – tar två år att bygga - Göteborgs-Posten
+- Guldpriset stiger inför USA:s inflationssiffra - Affärsvärlden
+- DN Direkt – AI-bolag steg på Wall Street efter inflationssiffror - Dagens Nyheter
+- Rött på Europabörserna - EFN
+- SBB stuvar om i portföljen – säljer Studentbostäder - Fastighetsnytt
 - Jag tillbringade ett par timmar med nya Google Pixel 11 Pro Fold – ingen revolution, men ett steg närmare perfektion - TechRadar
+- Missa inte en fullkomligt enastående kväll på stjärnhimlen: Två mycket speciella fenomen äger rum inom loppet av ett par timmar - illvet.se
 
 ## World News
 
@@ -34,16 +34,16 @@ _Updated: 2026-08-13 01:22_
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - Vietnam.vn
+- The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
@@ -52,24 +52,24 @@ _Updated: 2026-08-13 01:22_
 
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - blogg.avanza.se
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Ho Chi Minh-museet anordnade en specialiserad utbildningskonferens om "Tillämpning av artificiell intelligens (AI) i museiledning och drift". - Vietnam.vn
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
-- 7 sätt att använda AI i den fysiska världen - computersweden.se
-- I år ska AI visa affärsnytta. Igen. - computersweden.se
-- Nu blir datorerna dyrare – efter prishöjning på minnen - computersweden.se
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - computersweden.se
-- Albanien utser AI-bot till minister - computersweden.se
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - computersweden.se
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -97,6 +97,7 @@ _Updated: 2026-08-13 01:22_
 ## Health
 
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
@@ -108,19 +109,18 @@ _Updated: 2026-08-13 01:22_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - gp.se
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Sju life science-trender 2026 - Business Region Göteborg
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Ny WHO-rapport visar hur vårdinsatser i Gaza försvårats av blockad och attacker - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Kina drar om USA – bäst på forskning - svt.se
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -131,7 +131,7 @@ _Updated: 2026-08-13 01:22_
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Täta band mellan turism och forskning på Svalbard - slu.se
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
@@ -142,23 +142,23 @@ _Updated: 2026-08-13 01:22_
 
 ## Jordbruk
 
-- Sveriges förändrade lantbruk - slu.se
+- Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Jordbrukspolitik - Naturvårdsverket
+- Jordbrukspolitik - naturvardsverket.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
-- Jord, kor och klimat - slu.se
+- Jord, kor och klimat - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- Lantbrukslogik – nu och i framtiden - slu.se
+- Lantbrukslogik – nu och i framtiden - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Kan agroekologi mätta världen? - slu.se
+- Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
