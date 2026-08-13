@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-13 19:40_
+_Updated: 2026-08-13 20:35_
 
-- Sailor went overboard from the USS Abraham Lincoln last month as conditions on the ship prompt lawmakers’ demand for answers - CNN
-- Flock boss admits surveillance firm took too long to act over police abuse - BBC
-- U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror' - NPR
-- Watch Live: Lindsay Clancy murder trial resumes with testimony from Massachusetts State Police investigators - CBS News
-- Luigi Mangione, Facing Stalking Charges in Federal Court, Is Expected to Plead Guilty - The New York Times
+- USS Abraham Lincoln to be replaced amid poor troop conditions - NBC News
 - Judge dismisses Trump lawsuit that claimed Harvard failed to protect Jewish students - The Guardian
-- Tropical Storm Lala forms in the Pacific and hurricane watch is issued for the Big Island of Hawaii - AP News
-- 2 soldiers killed in Texas helicopter crash - The Hill
-- Live Updates: Tehran says Strait of Hormuz "under Iran's control" after Trump threatens U.S. might "keep it" - CBS News
-- Three men will be executed the same day as US sees steep rise in death penalty - BBC
+- Flock unveils changes after Post report on police misuse of vast camera network - The Washington Post
+- Luigi Mangione, Facing Stalking Charges in Federal Court, Is Expected to Plead Guilty - The New York Times
+- Iran's state media mock Trump over airplane switch, meme shows him hiding in a catering truck - Reuters
+- Settler siege of Palestinian homes in the West Bank a 'horrific act of terror,' US ambassador says - AP News
+- Who could potentially replace White House Press Secretary Karoline Leavitt? - BBC
+- ‘Life-threatening flooding’ possible in Hawaii this weekend from forming tropical storm - The Washington Post
+- Kennedy Center board moves forward with a two-year closure to allow for renovations, AP sources say - AP News
+- Tennessee executes death row inmate Darrell Hines for 1985 murder of Catherine Jenkins - WZTV
+- Putin angers Japan with visit to islands seized by Soviet Union in WWII - The Washington Post
+- Will all-out war in Yemen reignite as the Houthis escalate attacks? - Al Jazeera
 - NJ mother died saving daughter in Colombia earthquake, family says - 6abc Philadelphia
-- ‘Absolutely unacceptable’: Japan condemns visit by Vladimir Putin to disputed Kuril Islands - The Guardian
-- The best photos from Wednesday’s solar eclipse - CNN
-- Taiwan Weaponizes Coast Guard to Prepare for Battle With China - WSJ
-- Wholesale price inflation slows last month as gas, food costs fall - AP News
-- Midwest Powerball winner gets $1 billion; 2 Michigan tickets worth $50K - The Detroit News
-- Trump sued over "brazen" scheme to sell Truth Social API access for $100K a month - Ars Technica
-- US wholesale inflation up 4.7% over the past year, BLS says - Forex Factory
-- Google’s Tensor G6 in Pixel 11 isn’t the first 2nm smartphone chip after all - 9to5Google
-- NVIDIA GeForce NOW native Linux app leaves beta, Frame Generation gets lower latency - VideoCardz.com
+- Presidential pardon for French alleged spy accused of plotting Mali coup - BBC
+- $1 billion Powerball jackpot has a winner - The Washington Post
+- Lawsuit seeks to ban Trump Media from charging for early access to president's posts on US policy - AP News
+- Tech stocks power S&P 500 to record high as oil prices, producer inflation ease - Reuters
+- Stock Market Today: Dow's Gain Vanishes; Credo Technology Approaches New Entry (Live Coverage) - Investor's Business Daily
+- Google’s Tensor G6 in Pixel 11 isn’t a 2nm smartphone chip after all - 9to5Google
+- Microsoft kills off unsuccessful AI features while merging its separate Copilot apps - TechCrunch
