@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-13 23:21_
+_Updated: 2026-08-14 00:11_
 
 ## Top Stories
 
-- Pojke på moped död i trafikolycka - Göteborgs-Posten
-- Tidö tog hem omröstning om mängdrabatten - Corren
+- Misstänkt mord i Söderhamn – en gripen - Göteborgs-Posten
+- Strömmers prestigereform gick igenom – S: ”Bluff” - Göteborgs-Posten
 - Demenssjuk engelsman utvisas på grund av brexit - Dagens Nyheter
-- Då kolliderade båtarna utanför Tjörn - Aftonbladet
-- Meteor fångas på poliskameran - Expressen
-- Klart: 14-åringar kan dömas till fängelse i Sverige - Hufvudstadsbladet – HBL
+- Båtolyckan utanför Tjörn: åklagaren begär mer tid - Sveriges Radio
 - S om hanteringen av anteckningsboken: ”Det är pinsamt” - Dagens Nyheter
+- Trafikolycka utanför Eskilstuna – pojke avliden - svt.se
+- Insändare. S bör inte rösta ja till att sätta 14-åringar i fängelse - Dagens Nyheter
 - Jörn Spolander: Zombielaxarna – ett orostecken inför framtiden - Dagens Nyheter
-- Misstänkt mord i Söderhamn – en gripen - Västerbottens-Kuriren
 - Regeringen vinner omröstning om anhöriginvandring - Göteborgs-Posten
+- Nya uppgifter från mordplatsen: Glasbitar i en hög - TV4 Nyheterna
+- Palestinska hem på Västbanken belägras av bosättare - svt.se
+- Domstol avfärdar Trumps Harvard-stämning - Hufvudstadsbladet – HBL
 - Ungerns akuta plan: Stenmur ska få i gång reaktorer - Västerbottens-Kuriren
-- Palestinska hem på Västbanken belägras av bosättare - SVT Nyheter
-- Domstol avfärdar Trumps stämning av Harvard - Dagens industri
 - Väckte den björn som sover – 50 000 i böter - Göteborgs-Posten
 - IF Metall avbryter Tesla-konflikten efter utköp - Placera.se
 - Väntat men uselt bud – så ska ägarna tänka nu - EFN
-- Blandat i Norden – fraktbolag lyfte - Dagens industri
+- Maersk krossar förväntningarna – höjer helårsprognosen - Affärsvärlden
 - Nytt rekord på Wall Street - Västerbottens-Kuriren
 - TV: Blickarna mot skyn – dubbla himlafenomen - Skaraborgs Allehanda
-- Googles Pixel 11 får AI-funktion som kan göra om teckenspråk till text - m3.se
+- Google presenterar Pixel 11 – satsar stort på Gemini - m3.se
 
 ## World News
 
@@ -34,8 +34,8 @@ _Updated: 2026-08-13 23:21_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
@@ -112,16 +112,16 @@ _Updated: 2026-08-13 23:21_
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Ny WHO-rapport visar hur vårdinsatser i Gaza försvårats av blockad och attacker - Karolinska Institutet
 
 ## Science
 
 - Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Kina drar om USA – bäst på forskning - svt.se
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
@@ -143,17 +143,17 @@ _Updated: 2026-08-13 23:21_
 ## Jordbruk
 
 - Sveriges förändrade lantbruk - SLU
-- Framtidens jordbruk - commission.europa.eu
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - atl.nu
+- Här är världens största jordbruk - ATL
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Så ska det australiensiska jordbruket bli hållbart - atl.nu
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - SLU
 - Visning av uppkomst efter direktsådd - Land.se
