@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-14 17:21_
+_Updated: 2026-08-14 18:23_
 
 ## Top Stories
 
-- Radhuslänga nedbrunnen i Arboga – elden sprids - Aftonbladet
 - Befälhavaren för Misje Verde fortsatt häktad efter båtolyckan utanför Tjörn - SVT Nyheter
+- Storbrand i Arboga – flera bostäder nedbrunna - Expressen
 - Regeringens expert sågar Åkesson: ”På en annan planet” - Göteborgs-Posten
-- Polisen utreder mord i Kalmar län - SVT Nyheter
-- Oro för drastiskt Putindrag ökar – ett nytt krig - Aftonbladet
 - S vill säkra pengar till vården med KD - Göteborgs-Posten
-- KD varnar för ”slakt” på vägunderhåll - Västerbottens-Kuriren
-- Nu kommer värmen: "Ökad påfrestning" - UNT
-- Idrottsledare döms för övergrepp mot flicka - Göteborgs-Posten
+- USA hotar Iran med ekonomiska åtgärder utan motstycke - Placera.se
+- Ukraina: Oljehamnen i Laukaansuu bombad – 25% av USA:s flotta av stora drönare nedskjutna – drönare nedskjuten över Lettland - Cornucopia?
+- DN Direkt – Idrottsledare döms för övergrepp mot flicka - Dagens Nyheter
+- Misshandel i Göteborg – polis skadad vid gripandet - Sveriges Radio
 - Torbjörn Nilsson: Då frågar de – var går smärtgränsen? - Svenska Dagbladet
+- Timrås kommunstyrelse röstar också ja till Googles köp av Torsbodabolaget - SVT Nyheter
 - Storbrand i Kroatien – boende evakueras - Göteborgs-Posten
 - Dansk ”problemvarg” skjuten efter drönarjakt - Västerbottens-Kuriren
-- Vance: Vi krigar för lågt oljepris - Västerbottens-Kuriren
-- DN Direkt – Sex döda i kraftiga regn i Japan - Dagens Nyheter
+- USA:s krig mot Iran pressar vapenindustrin - Sveriges Radio
+- Nigel Farage vinner fyllnadsvalet - SVT Nyheter
 - Här landar notan för Teslastrejken: ”Det finns gränser” - Dagens industri
-- Siffrorna som avslöjar varför börsen fortsätter stiga - Börskollen
+- Börsen dyrast sedan IT-bubblan. Här är aktierna som klarar en börskrasch - Dagens PS
+- DN Direkt – Mangione erkänner att han skjutit Brian Thompson - Dagens Nyheter
 - Näthandlare ser trendbrott: Kvinnor handlar kläder igen - Omni – Alla nyheter. Alla perspektiv.
-- Dupeparfymer skapar ”skuggindustri” – 80 procent billigare än originalet - Dagens Nyheter
-- Här kan man uppleva nästa totala solförmörkelse - Örebronyheter
+- Här kan man uppleva nästa totala solförmörkelse - orebronyheter.com
 - Lyser 100 miljarder gånger starkare än solen: Världens största rymdteleskop har hittat något i universum som vi aldrig tidigare har sett - Illustrerad Vetenskap
 
 ## World News
@@ -38,35 +38,35 @@ _Updated: 2026-08-14 17:21_
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Megaaffären lyfter American Express Global Business Travel - travelnews.se
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - via.tt.se
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
-- Vorwerk Group Continues Global Expansion in Direct Sales - via.tt.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Etraveli rusar – 175 miljarder och global styrka - travelnews.se
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - Vietnam.vn
 
 ## Technology
 
 - Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
-- Ho Chi Minh-museet anordnade en specialiserad utbildningskonferens om "Tillämpning av artificiell intelligens (AI) i museiledning och drift". - Vietnam.vn
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Ho Chi Minh-museet anordnade en specialiserad utbildningskonferens om "Tillämpning av artificiell intelligens (AI) i museiledning och drift". - Vietnam.vn
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
-- Albanien utser AI-bot till minister - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
@@ -81,7 +81,7 @@ _Updated: 2026-08-14 17:21_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - tv4.se
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
 - Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -91,20 +91,20 @@ _Updated: 2026-08-14 17:21_
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 
 ## Health
 
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Juridicum etablerar ny fokusmiljö i hälsorätt - su.se
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Örebro University’s first specialist physicians are now contributing to national healthcare - via.tt.se
+- Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
@@ -113,7 +113,7 @@ _Updated: 2026-08-14 17:21_
 - Sju life science-trender 2026 - Business Region Göteborg
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Ny WHO-rapport visar hur vårdinsatser i Gaza försvårats av blockad och attacker - Karolinska Institutet
 
@@ -129,7 +129,7 @@ _Updated: 2026-08-14 17:21_
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
-- Forskningsutvärdering med kvalitet i fokus - Jönköping University
+- Forskningsutvärdering med kvalitet i fokus - ju.se
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU
@@ -148,12 +148,12 @@ _Updated: 2026-08-14 17:21_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - ATL
+- Här är världens största jordbruk - atl.nu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Framtidens jordbruk är här - Shaping Europe’s digital future
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Visning av uppkomst efter direktsådd - Land.se
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Så ska det australiensiska jordbruket bli hållbart - atl.nu
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
