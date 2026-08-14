@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-14 20:24_
+_Updated: 2026-08-14 21:28_
 
 ## Top Stories
 
-- Radhusbrand i Arboga – 20 hushåll drabbade - SVT Nyheter
-- Åklagaren om Tjörn: Fritidsbåten syntes på radar - Expressen
+- Åklagaren: Fritidsbåten syntes på radarn i god tid före olyckan - SVT Nyheter
+- Stor radhusbrand i Arboga – barn skadade - Aftonbladet
 - DN Direkt – Moderaternas bild på Magdalena Andersson kan vara otillåten - Dagens Nyheter
-- Polisen ökar närvaron i Söderhamn: Grannar kan ha sett våldsdådet - sverigesradio.se
-- Experter: Säkerhetsläget motiverade ingripandet mot exilryssar - Dagens Nyheter
-- Två skadade efter seriekrock på E6 – trafiken leds om - SVT Nyheter
-- S vill säkra pengar till vården med KD - Göteborgs-Posten
-- Moped och personbil i krock – en till sjukhus - sverigesradio.se
-- DN Direkt – Idrottsledare döms för övergrepp mot flicka - Dagens Nyheter
-- Timrås kommunstyrelse röstar också ja till Googles köp av Torsbodabolaget - SVT Nyheter
-- Storbrand i Kroatien – boende evakueras - Göteborgs-Posten
+- Hettan under Paris zinktak dödar – ”det är som en bastu där inne” - Dagens Nyheter
+- Cyklist allvarligt skadad i trafikolycka i natt - TV4 Nyheterna
+- ”Tidiga insatser en viktig del i att vända en negativ spiral” - Fastighetstidningen
+- Polisen utreder höghusbrand som grov mordbrand - NT
+- Moped och personbil i krock – en till sjukhus - Sveriges Radio
+- Idrottsledare döms för övergrepp mot flicka - Göteborgs-Posten
+- Hot om skolskjutning klottrat på skola - Expressen
 - Dansk ”problemvarg” skjuten efter drönarjakt - Västerbottens-Kuriren
-- USA:s vapenlager sinar efter krig mot Iran - sverigesradio.se
+- Storbrand i Kroatien – boende evakueras - Göteborgs-Posten
 - Vance: Vi krigar för lågt oljepris - Västerbottens-Kuriren
-- Här landar notan för Teslastrejken: ”Det finns gränser” - di.se
-- Börsen dyrast sedan IT-bubblan. Här är aktierna som klarar en börskrasch - Dagens PS
-- Stockholmsbörsen runt nollan – Björn Borg faller på rapport - Omni – Alla nyheter. Alla perspektiv.
-- Europavinst lyfter börser – fondförvaltare ser nya "superssektorer" - Finanswatch.se
-- Här kan man uppleva nästa totala solförmörkelse - Örebronyheter
+- Frukosten dukades fram – då började marken skaka - UNT
+- Här landar notan för Teslastrejken: ”Det finns gränser” - Dagens industri
+- Siffrorna som avslöjar varför börsen fortsätter stiga - Börskollen
+- Saab mot strömmen på Stockholmsbörsen som stängde rött - EFN
+- Omsvängning: Britterna sänker målen för elbilar - Dagens PS
+- Solkusten drar vinstlott vid nästa års solförmörkelse - Sydkusten
 - Lyser 100 miljarder gånger starkare än solen: Världens största rymdteleskop har hittat något i universum som vi aldrig tidigare har sett - Illustrerad Vetenskap
 
 ## World News
@@ -34,16 +34,16 @@ _Updated: 2026-08-14 20:24_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - swedbank-aktiellt.se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - via.tt.se
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - swedbank-aktiellt.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - via.tt.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - vietnam.vn
@@ -51,7 +51,7 @@ _Updated: 2026-08-14 20:24_
 ## Technology
 
 - Behärska teknologi, upprätthålla journalistikens värderingar. - vietnam.vn
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - nyheter.ki.se
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -77,7 +77,7 @@ _Updated: 2026-08-14 20:24_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Four European takes on open banking - Mastercard Data and Services - Mastercard
+- Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - swedbank-aktiellt.se
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
@@ -101,20 +101,20 @@ _Updated: 2026-08-14 20:24_
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - apollohospitals.com
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - vietnam.vn
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - firar 15 år av att skydda den globala hälsosektorn - health-isac.org
-- Örebro University’s first specialist physicians are now contributing to national healthcare - via.tt.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - nyheter.ki.se
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Sju life science-trender 2026 - businessregiongoteborg.se
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Ny WHO-rapport visar hur vårdinsatser i Gaza försvårats av blockad och attacker - Karolinska Institutet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 
 ## Science
@@ -125,8 +125,8 @@ _Updated: 2026-08-14 20:24_
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - vietnam.vn
-- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - sverigesradio.se
-- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
+- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
@@ -134,9 +134,9 @@ _Updated: 2026-08-14 20:24_
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - nyheter.ki.se
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - nyheter.ki.se
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
