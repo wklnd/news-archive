@@ -1,72 +1,72 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-14 21:28_
+_Updated: 2026-08-14 22:03_
 
 ## Top Stories
 
+- Radhusbrand i Arboga – 20 hushåll drabbade - SVT Nyheter
 - Åklagaren: Fritidsbåten syntes på radarn i god tid före olyckan - SVT Nyheter
-- Stor radhusbrand i Arboga – barn skadade - Aftonbladet
 - DN Direkt – Moderaternas bild på Magdalena Andersson kan vara otillåten - Dagens Nyheter
+- Mangione erkänner: Jag sköt honom - Göteborgs-Posten
 - Hettan under Paris zinktak dödar – ”det är som en bastu där inne” - Dagens Nyheter
-- Cyklist allvarligt skadad i trafikolycka i natt - TV4 Nyheterna
-- ”Tidiga insatser en viktig del i att vända en negativ spiral” - Fastighetstidningen
+- Två skadade efter seriekrock på E6 – trafiken leddes om - SVT Nyheter
 - Polisen utreder höghusbrand som grov mordbrand - NT
-- Moped och personbil i krock – en till sjukhus - Sveriges Radio
-- Idrottsledare döms för övergrepp mot flicka - Göteborgs-Posten
-- Hot om skolskjutning klottrat på skola - Expressen
-- Dansk ”problemvarg” skjuten efter drönarjakt - Västerbottens-Kuriren
-- Storbrand i Kroatien – boende evakueras - Göteborgs-Posten
-- Vance: Vi krigar för lågt oljepris - Västerbottens-Kuriren
+- ”Tidiga insatser en viktig del i att vända en negativ spiral” - Fastighetstidningen
+- DN Direkt – Idrottsledare döms för övergrepp mot flicka - Dagens Nyheter
+- Fler kan dömas hårdare – nya beslutet klubbat: ”Dubbelt så stränga straff” - Värmlands Folkblad
+- Dansk ”problemvarg” skjuten efter drönarjakt - vk.se
 - Frukosten dukades fram – då började marken skaka - UNT
-- Här landar notan för Teslastrejken: ”Det finns gränser” - Dagens industri
+- Vance: Vi krigar för lågt oljepris - Göteborgs-Posten
+- Ukraina: Minst tre döda i ryska attacker - Corren
+- Björn Jeffery: Omvänd effekt: Intäkterna rasar - Svenska Dagbladet
 - Siffrorna som avslöjar varför börsen fortsätter stiga - Börskollen
+- Här landar notan för Teslastrejken: ”Det finns gränser” - Dagens industri
 - Saab mot strömmen på Stockholmsbörsen som stängde rött - EFN
-- Omsvängning: Britterna sänker målen för elbilar - Dagens PS
 - Solkusten drar vinstlott vid nästa års solförmörkelse - Sydkusten
-- Lyser 100 miljarder gånger starkare än solen: Världens största rymdteleskop har hittat något i universum som vi aldrig tidigare har sett - Illustrerad Vetenskap
+- Lyser 100 miljarder gånger starkare än solen: Världens största rymdteleskop har hittat något i universum som vi aldrig tidigare har sett - illvet.se
 
 ## World News
 
-- Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - vietnam.vn
+- Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - GT World Challenge America, Sebring International Raceway på idag 11:40 - tv.nu
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - vietnam.vn
+- Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - swedbank-aktiellt.se
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
+- World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Möt Johanna Flood, journalisten som blev global miljöchef - new.abb.com
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
-- Ontario International Airport earns top global honor for customer experience from Airports Council International - swedbank-aktiellt.se
+- Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - vietnam.vn
+- Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - Vietnam.vn
 
 ## Technology
 
-- Behärska teknologi, upprätthålla journalistikens värderingar. - vietnam.vn
+- Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - swedbank-aktiellt.se
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Albanien utser AI-bot till minister - Computer Sweden
+- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - swedbank-aktiellt.se
+- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - swedbank-aktiellt.se
+- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - swedbank-aktiellt.se
+- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
@@ -77,12 +77,12 @@ _Updated: 2026-08-14 21:28_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Four European takes on open banking - Mastercard Data and Services - mastercard.com
+- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - swedbank-aktiellt.se
+- Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - swedbank-aktiellt.se
+- Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
 - Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -96,36 +96,36 @@ _Updated: 2026-08-14 21:28_
 
 ## Health
 
-- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - vietnam.vn
+- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
-- Låt oss prata hälsa – Intensivvård – Segment 1 - apollohospitals.com
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
-- firar 15 år av att skydda den globala hälsosektorn - health-isac.org
+- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- Sju life science-trender 2026 - businessregiongoteborg.se
+- Sju life science-trender 2026 - Business Region Göteborg
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Ny WHO-rapport visar hur vårdinsatser i Gaza försvårats av blockad och attacker - Karolinska Institutet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - vietnam.vn
+- Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - vietnam.vn
-- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
+- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
+- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - sverigesradio.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
@@ -147,13 +147,13 @@ _Updated: 2026-08-14 21:28_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - ATL
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
+- Här är världens största jordbruk - atl.nu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Visning av uppkomst efter direktsådd - Land.se
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Så ska det australiensiska jordbruket bli hållbart - atl.nu
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
