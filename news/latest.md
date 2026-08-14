@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-14 13:26_
+_Updated: 2026-08-14 14:27_
 
 - New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln - npr.org
-- What happens if Luigi Mangione pleads guilty in federal court? - bbc.com
-- US to Roll Out ‘Economic Isolation’ Plan for Iran Next Week - Bloomberg
-- White House accuses over 40 countries of helping China avoid US tariffs - The Hill
-- Reform UK leader Nigel Farage beats Count Binface in widely mocked British election - AP News
-- Lindsay Clancy searched 'can you treat a sociopath' prior to killing children: Investigator - ABC News - Breaking News, Latest News and Videos
-- American Missionary Kidnapped in Niger Soon to Be Reunited With Family - The New York Times
-- Who are the biggest social media stars in Congress? - Politico
+- US to Roll Out ‘Economic Isolation’ Plan for Iran Next Week - Bloomberg.com
 - Life-threatening flooding possible in Hawaii from Tropical Storm Lala - The Washington Post
-- Documents show federal surveillance operation in Minnesota targeted progressive groups, unions - CNN
+- What Happens If Luigi Mangione Pleads Guilty in Federal Court Tomorrow? - Rolling Stone
+- White House accuses over 40 countries of helping China avoid US tariffs - thehill.com
+- ICE uses controversial program to boost deportations. Here's how it works in 1 county - npr.org
+- American Missionary Kidnapped in Niger Soon to Be Reunited With Family - nytimes.com
+- Flock announces changes amid backlash over its license plate reader network - apnews.com
+- Who are the biggest social media stars in Congress? - Politico
+- Flash flooding underway in Indiana and Illinois as storms slam the flood-ravaged Midwest for a sixth-straight day - cnn.com
+- Farage Wins Special U.K. Election That He Initiated, as Expected - nytimes.com
+- Live Updates: UAE accuses Iran of attacks in Strait of Hormuz as Vance says cheap oil and gas are "goal number one" - cbsnews.com
 - Millions across Europe swelter under fresh wave of extreme heat - Euronews.com
-- UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz - Al Jazeera
-- Will Sudan’s El Obeid Become the Next El Fasher? What to Know. - The New York Times
-- Rescuers call for silence around earthquake rubble as window for survival narrows in Colombia - AP News
+- NATO jets shoot down drone over Latvia - politico.eu
 - Anthropic Investors Think It’s Worth $2 Trillion - Gizmodo
-- Billionaire Bill Ackman Just Invested 5% of Pershing Square Capital Management's Portfolio in Netflix. Should Investors Follow Suit? - The Motley Fool
+- Bill Ackman's latest bets, including Netflix and Visa, mark major portfolio overhaul - Seeking Alpha
+- Stock Market Today: Dow Futures Waver — Live Updates - wsj.com
 - AI-driven surge in bond yields could be next risk for markets and growth - Reuters
-- Tyson Foods Will Close or Sell Three U.S. Beef Facilities as Industry Struggles - Successful Farming
-- Organic-looking brake assemblies debut on new Czinger 21C Spyder - Ars Technica
-- Samsung’s $1,900 Z Fold 8 is still vulnerable to pocket lint - The Verge
+- Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price - Ars Technica
+- iPhone 18 Pro Event Tipped As Apple Shifts Key Release Schedule Date - Forbes
