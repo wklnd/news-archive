@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-14 14:27_
+_Updated: 2026-08-14 16:01_
 
-- New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln - npr.org
-- US to Roll Out ‘Economic Isolation’ Plan for Iran Next Week - Bloomberg.com
+- New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln - NPR
+- Luigi Mangione Expected To Plead Guilty In Federal Court Today - Forbes
 - Life-threatening flooding possible in Hawaii from Tropical Storm Lala - The Washington Post
-- What Happens If Luigi Mangione Pleads Guilty in Federal Court Tomorrow? - Rolling Stone
-- White House accuses over 40 countries of helping China avoid US tariffs - thehill.com
-- ICE uses controversial program to boost deportations. Here's how it works in 1 county - npr.org
-- American Missionary Kidnapped in Niger Soon to Be Reunited With Family - nytimes.com
-- Flock announces changes amid backlash over its license plate reader network - apnews.com
+- US threatens ‘indefinite’ blockade against Iran: How long can it last? - Al Jazeera
+- ICE uses controversial program to boost deportations. Here's how it works in 1 county - NPR
+- US missionary released following kidnap in Niger, Christian group says - BBC
+- Trump asks Supreme Court to allow White House ballroom construction to continue - NBC News
 - Who are the biggest social media stars in Congress? - Politico
-- Flash flooding underway in Indiana and Illinois as storms slam the flood-ravaged Midwest for a sixth-straight day - cnn.com
-- Farage Wins Special U.K. Election That He Initiated, as Expected - nytimes.com
-- Live Updates: UAE accuses Iran of attacks in Strait of Hormuz as Vance says cheap oil and gas are "goal number one" - cbsnews.com
-- Millions across Europe swelter under fresh wave of extreme heat - Euronews.com
-- NATO jets shoot down drone over Latvia - politico.eu
-- Anthropic Investors Think It’s Worth $2 Trillion - Gizmodo
+- L.A. surrogate defies parents’ wishes, gives birth to baby with heart defect amid legal battle - KTLA
+- Flash flooding underway in Indiana and Illinois as storms slam the flood-ravaged Midwest for a sixth-straight day - CNN
+- Nigel Farage faces renewed watchdog probe after Clacton by-election victory - BBC
+- Live Updates: UAE accuses Iran of attacks in Strait of Hormuz as Vance says cheap oil and gas are "goal number one" - CBS News
+- Europe’s economy faces a one-two punch from extreme weather and war - CNN
+- NATO aircraft shoot down drone over Latvia, which blames 'Russian electromagnetic warfare' - CNBC
+- US Retail Sales Fall by the Most in More Than a Year - Bloomberg.com
+- Anthropic needs to bring in Amazon-style earnings to justify its $2 trillion valuation—but it’s barely turned a profit - Fortune
 - Bill Ackman's latest bets, including Netflix and Visa, mark major portfolio overhaul - Seeking Alpha
-- Stock Market Today: Dow Futures Waver — Live Updates - wsj.com
-- AI-driven surge in bond yields could be next risk for markets and growth - Reuters
-- Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price - Ars Technica
-- iPhone 18 Pro Event Tipped As Apple Shifts Key Release Schedule Date - Forbes
+- Stock Market Today: Dow Falls Ahead Of Retail Sales Data; Applied Materials Dives On Earnings (Live Coverage) - Investor's Business Daily
+- Google has another Pixel 11 discount for up to $175 off, here’s where to find it - 9to5Google
+- Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price - arstechnica.com
