@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-14 20:30_
+_Updated: 2026-08-14 21:35_
 
 - Live updates: Luigi Mangione pleads guilty in federal case - CNN
 - US aircraft carrier on way to relieve USS Lincoln after issues reported on board - BBC
 - Trump asks Supreme Court to allow White House ballroom construction to continue - NBC News
-- Suspect arrested in World War II Memorial vandalism in Washington, Pirro says - AP News
-- US threatens ‘indefinite’ blockade against Iran: How long can it last? - Al Jazeera
 - Mark Kelly on aircraft carrier catapult order: ‘Donald Trump knows nothing about this stuff’ - The Hill
+- Suspect arrested in World War II Memorial vandalism in Washington - AP News
+- US threatens ‘indefinite’ blockade against Iran: How long can it last? - aljazeera.com
 - Timber Fire passes 4,500 acres, threatens 503 structures in Big Sur as evacuations remain - KSBW
-- Russell Fry Backs Darline Graham in South Carolina Senate Runoff Amid Trump Pressure - The New York Times
+- DeSantis says he doesn’t support embattled Florida Rep. Cory Mills - Politico
 - U.S. missionary who was kidnapped in Niger is released - NPR
-- State of emergency declared in Hamilton County - Fox 59
+- Live updates: Noxious odors, emergency orders and a rescued toddler - IndyStar
 - Count Binface wins hearts, if not the election, in bid to defeat Trump ally Nigel Farage in U.K. - CBS News
-- The Taliban has taken a terrible toll on the education of girls — and boys as well - NPR
-- Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia - BBC
+- Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule - BBC
+- Colombia grapples with rebuilding a shattered nation after a deadly earthquake - AP News
 - Why Europe Keeps Being Pummeled by Heat Waves - The New York Times
+- US retail sales post first decline in nine months in July - reuters.com
 - SpaceX, Sandisk, Micron, Workday, Applied Materials, Reddit, Unusual Machines, and More Stocks That Explain Today’s Market - Barron's
-- US retail sales post first decline in nine months in July - Reuters
-- Anthropic’s $2 trillion problem: Its underlying business is nowhere near the IPO valuation it wants - Fortune
-- Wall St subdued as markets pause after S&P record high; data, Mideast in focus - Reuters
-- Google has another Pixel 11 discount for up to $175 off, here’s where to find it - 9to5google.com
-- Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price - Ars Technica
+- Stock Market Today: Dow lower as stocks see muted open; S&P 500, Nasdaq head for winning weeks - MarketWatch
+- Kalshi Ordered to Cease Most Operations in Washington State - The New York Times
+- Google has another Pixel 11 discount for up to $175 off, here’s where to find it - 9to5Google
+- Judge gives Google one week to fix "anticompetitive" app store download in Google Play - Ars Technica
