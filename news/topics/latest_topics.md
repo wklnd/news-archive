@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-14 12:32_
+_Updated: 2026-08-14 13:20_
 
 ## Top Stories
 
 - JUST NU: SMHI värmevarnar – extrem risk - Expressen
-- S kritisk till Kristerssons närbild efter omröstningen - Omni – Alla nyheter. Alla perspektiv.
-- S vill säkra pengar till vården med KD - Göteborgs-Posten
-- L-toppen: ”Blir galen på alla stenciler” - Svenska Dagbladet
-- KD varnar för ”slakt” på vägunderhåll - Västerbottens-Kuriren
-- Farage vinner fyllnadsval - Västerbottens-Kuriren
+- DN Direkt – S-ledaren till Busch: ”Min dörr står öppen” - Dagens Nyheter
+- Kaptenen motsäger sig förlängd häktning - Aftonbladet
+- DN Direkt – Moderaternas bild på Magdalena Andersson kan vara otillåten - Dagens Nyheter
+- Fackets larm i flera år: För få i besättningen på fartygen - Expressen
+- Han befriade de inlåsta svenska barnen: ”Gav mig en kram” - Dagens Nyheter
 - Man anhållen för mord i Söderhamn - Västerbottens-Kuriren
 - Tomas Ramberg: Räkna med uppmjukad migrationspolitik om Andersson tar över - Dagens Nyheter
 - Lena Philipson blir ny chefredaktör på Sydsvenskan - Skånska Dagbladet
-- Kritik mot Sveriges plan för att renovera naturen: "Kommer inte att räcka" - Impact Loop
+- Kommunstyrelsen i Sundsvall säger ja till Googleaffären i Torsboda - SVT Nyheter
 - Storbrand i Kroatien – boende evakueras - Göteborgs-Posten
 - Dansk ”problemvarg” skjuten efter drönarjakt - Västerbottens-Kuriren
+- Nigel Farage vinner fyllnadsvalet - SVT Nyheter
 - Flera hem slukades av elden under brittiskt värmerekord - Dagens Nyheter
-- Sex döda i kraftiga regn i Japan - Hufvudstadsbladet – HBL
 - Här landar notan för Teslastrejken: ”Det finns gränser” - di.se
-- Näthandlare ser trendbrott: Kvinnor handlar kläder igen - Omni – Alla nyheter. Alla perspektiv.
 - Kapitalförsäkringar tappar fart på grund av lagändring - Finanswatch.se
+- Pensionen kan ge lägre bolåneränta – bankerna vill inte säga hur mycket - Affärsvärlden
 - Dupeparfymer skapar ”skuggindustri” – 80 procent billigare än originalet - Dagens Nyheter
+- Microsoft slår ihop Copilot-appar – steg mot ny ”super-app” - computersweden.se
 - Här kan man uppleva nästa totala solförmörkelse - Örebronyheter
-- Googles Pixel 11 får AI-funktion som kan göra om teckenspråk till text - m3.se
 
 ## World News
 
-- Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
+- Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - vietnam.vn
 - GT World Challenge America, Sebring International Raceway på inatt 00:00 - tv.nu
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -38,69 +39,68 @@ _Updated: 2026-08-14 12:32_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- Visual Art köper Global Agencies - Dagens Media
+- The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - Vietnam.vn
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - vietnam.vn
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Vietnam kommer att vara värd för WAN-IFRA 2026 International AI Forum för första gången. - Vietnam.vn
+- Vietnam kommer att vara värd för WAN-IFRA 2026 International AI Forum för första gången. - vietnam.vn
 
 ## Technology
 
-- Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
+- Behärska teknologi, upprätthålla journalistikens värderingar. - vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- 7 sätt att använda AI i den fysiska världen - computersweden.se
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - computersweden.se
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
-- Albanien utser AI-bot till minister - Computer Sweden
+- Albanien utser AI-bot till minister - computersweden.se
 - AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
+- Nu blir datorerna dyrare – efter prishöjning på minnen - computersweden.se
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - computersweden.se
 
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
-- Vilken framtid arbetar du för? - EY
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
+- Will Chen joins Westfield Specialty as U.S. Chief Financial Officer (PR Newswire) - Aktiellt
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 
 ## Health
 
-- Digital transformation inom hälso- och sjukvården: Att bygga en plattform för att hantera människors hälsa under hela deras livscykel. - Vietnam.vn
+- Digital transformation inom hälso- och sjukvården: Att bygga en plattform för att hantera människors hälsa under hela deras livscykel. - vietnam.vn
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Khalid satsar på digital vård – mot fetma - st.nu
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
@@ -119,12 +119,12 @@ _Updated: 2026-08-14 12:32_
 
 ## Science
 
-- Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
+- Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
+- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - vietnam.vn
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - sverigesradio.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
@@ -138,7 +138,7 @@ _Updated: 2026-08-14 12:32_
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
 
