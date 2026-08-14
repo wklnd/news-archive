@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-14 23:50_
+_Updated: 2026-08-15 01:48_
 
 ## Top Stories
 
-- Radhusbrand i Arboga – 20 hushåll drabbade - SVT Nyheter
-- Kaptenen har delgivits fler misstankar efter dödsolyckan - Sveriges Radio
-- DN Direkt – Moderaternas bild på Magdalena Andersson kan vara otillåten - Dagens Nyheter
-- Hettan under Paris zinktak dödar – ”det är som en bastu där inne” - Dagens Nyheter
-- Tar tillbaka förlorad mark: ”Framtiden oviss” - Svenska Dagbladet
-- Varnar för vanlig missuppfattning – sommarvärmen återvänder - TV4 Nyheterna
-- DN Direkt – Seriekrock på E6 – två till sjukhus - Dagens Nyheter
-- Polisen utreder höghusbrand som grov mordbrand - NT
-- ”Tidiga insatser en viktig del i att vända en negativ spiral” - Fastighetstidningen
-- Fler kan dömas hårdare – nya beslutet klubbat: ”Dubbelt så stränga straff” - Värmlands Folkblad
-- Larmet: Katastrofala förhållanden på militärfartyg - Göteborgs-Posten
-- Direkt – Krisen i Mellanöstern – Netanyahu pressas att fördöma bosättarna - Dagens Nyheter
-- Demonstranter kräver svar: ”Zelenskyj måste förklara varför försvarsministern fick gå” - Dagens Nyheter
-- Dansk ”problemvarg” skjuten efter drönarjakt - Västerbottens-Kuriren
-- Här landar notan för Teslastrejken: ”Det finns gränser” - Dagens industri
-- Björn Jeffery: Omvänd effekt: Intäkterna rasar - Svenska Dagbladet
-- Lätt nedgång på Stockholmsbörsen med Invisio som vinnare, OMXS30-index backade 0,2 procent (Finwire News) - swedbank-aktiellt.se
-- USA-börserna stänger på rött – nytt rally i minnesbolag - Privata Affärer
+- Misstänkt mord i Kiruna – man död - SVT Nyheter
+- Stor radhusbrand i Arboga – barn skadade - aftonbladet.se
+- Efter smygbilden – Riksdagsförvaltningen har informerat M om kammarens fotoregler – Senaste nytt om valet 2026 - SVT Nyheter
+- Kraftig jordbävning i Indonesien - Svenska Dagbladet
+- Mangione erkänner: Jag sköt honom - SVT Nyheter
+- Elituniversitetens intellektuella kollaps - Stockholm Report
+- Två skadade efter seriekrock på E6 – trafiken leddes om - SVT Nyheter
+- MC-olycka – en till sjukhus - Nynäshamns Posten
+- S vill säkra pengar till vården med KD - gp.se
+- EDVARD HOLLERTZ: Vill du bo här? Då måste du köpa att två killar älskar varandra - Corren
+- Skulle lägga avlopp – hittade guldskatt värd miljoner - expressen.se
+- Larmet: Katastrofala förhållanden på militärfartyg - gp.se
+- Trump: Ska förklara Hormuz som amerikanskt – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Demonstranter kräver svar: ”Zelenskyj måste förklara varför försvarsministern fick gå” - dn.se
+- Tankesmedja: Strejkrätten har brister som bör ordnas - Omni – Alla nyheter. Alla perspektiv.
+- Lätt nedgång på Stockholmsbörsen med Invisio som vinnare, OMXS30-index backade 0,2 procent (Finwire News) - Aktiellt
+- USA-börsen vänder ned - Dagens industri
+- Europavinst lyfter börser – fondförvaltare ser nya "superssektorer" - Finanswatch.se
 - Solkusten drar vinstlott vid nästa års solförmörkelse - Sydkusten
 - Spionvarning från Apple går ut i 110 länder - Omni – Alla nyheter. Alla perspektiv.
 
@@ -35,14 +35,14 @@ _Updated: 2026-08-14 23:50_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - swedbank-aktiellt.se
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
-- Ontario International Airport earns top global honor for customer experience from Airports Council International - swedbank-aktiellt.se
+- Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
@@ -54,22 +54,22 @@ _Updated: 2026-08-14 23:50_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - swedbank-aktiellt.se
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Leveraging AI in Swedish Development Cooperation - fuf.se
-- Albanien utser AI-bot till minister - Computer Sweden
-- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - swedbank-aktiellt.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Albanien utser AI-bot till minister - computersweden.se
+- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - swedbank-aktiellt.se
-- 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - swedbank-aktiellt.se
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
+- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
+- 7 sätt att använda AI i den fysiska världen - computersweden.se
+- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
+- I år ska AI visa affärsnytta. Igen. - computersweden.se
+- Nu blir datorerna dyrare – efter prishöjning på minnen - computersweden.se
+- Amazon lanserar kraftfulla AI-chippet Trainium 3 - computersweden.se
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - computersweden.se
 
 ## Business
 
@@ -78,11 +78,10 @@ _Updated: 2026-08-14 23:50_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - swedbank-aktiellt.se
+- Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - swedbank-aktiellt.se
+- Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
 - Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -93,6 +92,7 @@ _Updated: 2026-08-14 23:50_
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -109,12 +109,12 @@ _Updated: 2026-08-14 23:50_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - gp.se
 - Sju life science-trender 2026 - Business Region Göteborg
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Ny WHO-rapport visar hur vårdinsatser i Gaza försvårats av blockad och attacker - Karolinska Institutet
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 
 ## Science
@@ -123,22 +123,22 @@ _Updated: 2026-08-14 23:50_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Olika slutsatser från samma data - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
 ## Jordbruk
 
@@ -148,12 +148,12 @@ _Updated: 2026-08-14 23:50_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - ATL
+- Här är världens största jordbruk - atl.nu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Visning av uppkomst efter direktsådd - Land.se
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Så ska det australiensiska jordbruket bli hållbart - atl.nu
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
