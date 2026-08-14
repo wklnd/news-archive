@@ -1,74 +1,74 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-14 02:07_
+_Updated: 2026-08-14 05:06_
 
 ## Top Stories
 
-- Man död efter misstänkt mord i Söderhamn - Omni – Alla nyheter. Alla perspektiv.
-- Joyce, 78, utvisas efter 21 år i Sverige - gp.se
-- Såg dödsvideo med försvunna kvinnor: Mörkt - Aftonbladet
-- Soldaternas larm från skeppet: Ruttet kött och ingen mjölk - Expressen
-- Strömmers prestigereform gick igenom – S: ”Bluff” - gp.se
-- Åklagaren vill ha mer tid för Tjörnolyckan - Västerbottens-Kuriren
-- Insändare. S bör inte rösta ja till att sätta 14-åringar i fängelse - Dagens Nyheter
-- Jörn Spolander: Zombielaxarna – ett orostecken inför framtiden - Dagens Nyheter
-- Regeringen vinner omröstning om anhöriginvandring - Västerbottens-Kuriren
+- Nya protester i Ukraina – Zelenskyj pressad - Sveriges Radio
+- Farage utropar valseger – rösträkningen pågår - Svenska Dagbladet
+- USA skickar nytt hangarfartyg till Mellanöstern - Aftonbladet
+- Strömmers prestigereform gick igenom – S: ”Bluff” - Göteborgs-Posten
+- DN Direkt – Bris: Historiskt bakslag för barns rättigheter - Dagens Nyheter
 - Skärgårdsmordet: Glasbitar i en hög på mordplatsen - TV4 Nyheterna
-- Väckte den björn som sover – 50 000 i böter - gp.se
-- Cancerpatienter i Gaza dör efter att vården har slagits ut - Dagens Nyheter
+- Åklagaren vill ha mer tid för Tjörnolyckan - Göteborgs-Posten
+- Misstänkt mord i Söderhamn – en gripen - Västerbottens-Kuriren
+- Trafikolycka utanför Eskilstuna – pojke avliden - SVT Nyheter
+- Regeringen vinner omröstning om anhöriginvandring - Västerbottens-Kuriren
+- Väckte den björn som sover – 50 000 i böter - Göteborgs-Posten
 - Ukrainsk attack slår ut stort ryskt raffinaderi - Västerbottens-Kuriren
-- Domstol avfärdar Trumps Harvard-stämning - Hufvudstadsbladet – HBL
-- Spretigt på börserna i Norden – Maersk steg på rapport - efn.se
-- Nytt rekord på Wall Street - Västerbottens-Kuriren
-- Dart gör intåg i Hacksaw: "Positivt besked" - Affärsvärlden
-- Advokater varnar för Googles avtal om Torsboda - Sveriges Radio
+- Vårdförbundet: Flaggning av adresser är en prioritet - Sveriges Radio
+- Ungerns akuta plan: Stenmur ska få i gång reaktorer - Västerbottens-Kuriren
+- Efter nästan tre år – IF Metall avbryter Tesla-strejken - etc.se
+- Spretigt på Wall Street – teknikaktier går som tåget - EFN
+- HACKSAW LYFTER EFTER STORKÖP, OMXS30 -0,3% - Placera.se
+- Embracer och Intrum rusar på oförändrad börs - Affärsvärlden
 - TV: Blickarna mot skyn – dubbla himlafenomen - Skaraborgs Allehanda
-- Stor protest när Xbox besökte Bethesda - Aftonbladet
+- Googles Pixel 11 får AI-funktion som kan göra om teckenspråk till text - m3.se
 
 ## World News
 
 - GT World Challenge America, Sebring International Raceway på inatt 00:00 - tv.nu
+- Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Megaaffären lyfter American Express Global Business Travel - travelnews.se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - entrackr.com
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
-- Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - Vietnam.vn
-- Visual Art köper Global Agencies - Dagens Media
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Visual Art köper Global Agencies - dagensmedia.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Etraveli rusar – 175 miljarder och global styrka - travelnews.se
+- Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - Vietnam.vn
+- Global turism slog nytt rekord under 2025 - travelnews.se
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - blogg.avanza.se
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
-- AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
 - Albanien utser AI-bot till minister - Computer Sweden
+- AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
@@ -102,7 +102,6 @@ _Updated: 2026-08-14 02:07_
 - Digital transformation inom hälso- och sjukvården: Att bygga en plattform för att hantera människors hälsa under hela deras livscykel. - Vietnam.vn
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Sju life science-trender 2026 - Business Region Göteborg
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
@@ -110,25 +109,27 @@ _Updated: 2026-08-14 02:07_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - gp.se
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Ny WHO-rapport visar hur vårdinsatser i Gaza försvårats av blockad och attacker - Karolinska Institutet
 
 ## Science
 
+- Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Olika slutsatser från samma data - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
+- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
-- Forskningsutvärdering med kvalitet i fokus - ju.se
+- Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
@@ -136,9 +137,8 @@ _Updated: 2026-08-14 02:07_
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -151,7 +151,7 @@ _Updated: 2026-08-14 02:07_
 - Här är världens största jordbruk - ATL
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
+- Framtidens jordbruk är här - Shaping Europe’s digital future
 - Visning av uppkomst efter direktsådd - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
