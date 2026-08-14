@@ -1,56 +1,56 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-14 22:03_
+_Updated: 2026-08-14 22:55_
 
 ## Top Stories
 
 - Radhusbrand i Arboga – 20 hushåll drabbade - SVT Nyheter
-- Åklagaren: Fritidsbåten syntes på radarn i god tid före olyckan - SVT Nyheter
-- DN Direkt – Moderaternas bild på Magdalena Andersson kan vara otillåten - Dagens Nyheter
-- Mangione erkänner: Jag sköt honom - Göteborgs-Posten
-- Hettan under Paris zinktak dödar – ”det är som en bastu där inne” - Dagens Nyheter
-- Två skadade efter seriekrock på E6 – trafiken leddes om - SVT Nyheter
+- Kaptenen och lotsen medger: Borde ha kunnat se båten - Göteborgs-Posten
+- DN Direkt – Moderaternas bild på Magdalena Andersson kan vara otillåten - dn.se
+- Tar tillbaka förlorad mark: ”Framtiden oviss” - Svenska Dagbladet
+- Hettan under Paris zinktak dödar – ”det är som en bastu där inne” - dn.se
+- Statsvetare: Positionering bakom flirten mellan S och KD - sverigesradio.se
 - Polisen utreder höghusbrand som grov mordbrand - NT
-- ”Tidiga insatser en viktig del i att vända en negativ spiral” - Fastighetstidningen
-- DN Direkt – Idrottsledare döms för övergrepp mot flicka - Dagens Nyheter
+- DN Direkt – Seriekrock på E6 – två till sjukhus - dn.se
 - Fler kan dömas hårdare – nya beslutet klubbat: ”Dubbelt så stränga straff” - Värmlands Folkblad
-- Dansk ”problemvarg” skjuten efter drönarjakt - vk.se
-- Frukosten dukades fram – då började marken skaka - UNT
-- Vance: Vi krigar för lågt oljepris - Göteborgs-Posten
-- Ukraina: Minst tre döda i ryska attacker - Corren
+- 25 procent fler väljer buss i Dalarna efter halverad kostnad för månadskort - SVT Nyheter
+- Larmet: Katastrofala förhållanden på militärfartyg - Göteborgs-Posten
+- Direkt – Krisen i Mellanöstern – Netanyahu pressas att fördöma bosättarna - dn.se
+- Demonstranter kräver svar: ”Zelenskyj måste förklara varför försvarsministern fick gå” - dn.se
+- Dansk ”problemvarg” skjuten efter drönarjakt - Västerbottens-Kuriren
+- Här landar notan för Teslastrejken: ”Det finns gränser” - Dagens industri
 - Björn Jeffery: Omvänd effekt: Intäkterna rasar - Svenska Dagbladet
 - Siffrorna som avslöjar varför börsen fortsätter stiga - Börskollen
-- Här landar notan för Teslastrejken: ”Det finns gränser” - Dagens industri
-- Saab mot strömmen på Stockholmsbörsen som stängde rött - EFN
+- Lätt nedgång på Stockholmsbörsen med Invisio som vinnare, OMXS30-index backade 0,2 procent (Finwire News) - Aktiellt
 - Solkusten drar vinstlott vid nästa års solförmörkelse - Sydkusten
-- Lyser 100 miljarder gånger starkare än solen: Världens största rymdteleskop har hittat något i universum som vi aldrig tidigare har sett - illvet.se
+- Spionvarning från Apple går ut i 110 länder - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
-- Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
+- Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - vietnam.vn
 - GT World Challenge America, Sebring International Raceway på idag 11:40 - tv.nu
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - vietnam.vn
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - new.abb.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - Vietnam.vn
+- Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - vietnam.vn
 
 ## Technology
 
-- Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
+- Behärska teknologi, upprätthålla journalistikens värderingar. - vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
@@ -76,7 +76,7 @@ _Updated: 2026-08-14 22:03_
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
@@ -96,12 +96,11 @@ _Updated: 2026-08-14 22:03_
 
 ## Health
 
-- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
+- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - vietnam.vn
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
@@ -115,16 +114,17 @@ _Updated: 2026-08-14 22:03_
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Ny WHO-rapport visar hur vårdinsatser i Gaza försvårats av blockad och attacker - Karolinska Institutet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
+- Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
+- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - vietnam.vn
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - sverigesradio.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
@@ -146,14 +146,14 @@ _Updated: 2026-08-14 22:03_
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - Naturvårdsverket
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
-- Här är världens största jordbruk - atl.nu
+- Jordbrukspolitik - naturvardsverket.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Här är världens största jordbruk - ATL
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Visning av uppkomst efter direktsådd - Land.se
-- Så ska det australiensiska jordbruket bli hållbart - atl.nu
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
