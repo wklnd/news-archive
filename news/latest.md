@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-14 10:47_
+_Updated: 2026-08-14 12:38_
 
 - New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln - NPR
+- US to Roll Out ‘Economic Isolation’ Plan for Iran Next Week - Bloomberg.com
 - White House accuses over 40 countries of helping China avoid US tariffs - The Hill
-- Parliamentary investigation resumes into Nigel Farage hours after he wins Clacton by-election - live updates - BBC
-- Three inmates are executed on same day in US for first time since 2010 - USA Today
 - ‘Unprecedented’ rain kills four in Japan as thousands stranded at airport - The Guardian
-- 'Act of terror': U.S. condemns Israeli settler siege of Palestinian homes in West Bank - PBS
+- Luigi Mangione expected to plead guilty in federal case in UnitedHealthcare killing, AP source says - AP News
+- Tennessee executes death row inmate Darrell Hines for 1985 murder of Catherine Jenkins - WZTV
 - Jimmy Fallon Reacts to Karoline Leavitt’s White House Exit - The New York Times
-- Flock Safety's CEO says safeguards will be added to cameras in January - WRAL
-- California Ignored Sexual Abuse of Women in Prison, Justice Dept. Says - The New York Times
+- Flock announces changes amid backlash over its license plate reader network - AP News
+- Who are the biggest social media stars in Congress? - Politico
 - Kennedy Center board votes to inscribe Trump’s name on building - The Washington Post
-- Rescuers call for silence around earthquake rubble as window for survival narrows in Colombia - AP News
-- Russian plot to kill Ukrainian American thwarted in Warsaw, says Polish PM - The Guardian
+- Reform UK leader Nigel Farage beats Count Binface in widely mocked British election - AP News
+- Another Day of Extreme Heat Bakes Europe, but Relief Is on the Horizon - The New York Times
 - Ust-Luga Ablaze Again as 54 Ukrainian Drones Hit Russia’s Key Baltic Oil Port - Kyiv Post
-- Kushner set to visit Israel, Egypt next week for Gaza talks - Axios
-- Even Claude Is in the Dark About Dario Amodei’s Wife—and Her Influence at Anthropic - WSJ
+- UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz - Al Jazeera
+- Anthropic Investors Think It’s Worth $2 Trillion - Gizmodo
+- Billionaire Bill Ackman Just Invested 5% of Pershing Square Capital Management's Portfolio in Netflix. Should Investors Follow Suit? - The Motley Fool
+- Goldman in talks with investors on Nvidia financing deal after landing prized role, sources say - Reuters
 - Jim Cramer says Cisco’s post-earnings plunge is a buying opportunity. Here’s why - CNBC
-- US producer prices unchanged in July, further dimming rate hike odds - Reuters
-- Asian stocks head for strong weekly gains as US rate hike bets fade - Reuters
-- ChatGPT for Mac adds opt-in Computer History feature, replacing Chronicle - 9to5Mac
-- Google Meet rolling out ‘Take Notes’ for in-person meetings on Android, web, & iOS - 9to5Google
+- Czinger debuts topology-optimized brakes with 21C Spyder - Ars Technica
+- One UI 9.5 will finally bring app lock feature to your Galaxy phone or tablet - SamMobile
