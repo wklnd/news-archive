@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-14 15:53_
+_Updated: 2026-08-14 17:21_
 
 ## Top Stories
 
-- Flera radhus brinner i Arboga: ”Risk för spridning” - Omni – Alla nyheter. Alla perspektiv.
-- SMHI varnar – extrem brandrisk - Expressen
-- S vill säkra pengar till vården med KD - gp.se
-- Befälhavaren för Misje Verde fortsatt häktad efter båtolyckan utanför Tjörn - svt.se
-- Smygbild från riksdagen: ”Är inte förvånad” - Aftonbladet
-- Regeringens expert sågar Åkesson: ”På en annan planet” - gp.se
+- Radhuslänga nedbrunnen i Arboga – elden sprids - Aftonbladet
+- Befälhavaren för Misje Verde fortsatt häktad efter båtolyckan utanför Tjörn - SVT Nyheter
+- Regeringens expert sågar Åkesson: ”På en annan planet” - Göteborgs-Posten
+- Polisen utreder mord i Kalmar län - SVT Nyheter
+- Oro för drastiskt Putindrag ökar – ett nytt krig - Aftonbladet
+- S vill säkra pengar till vården med KD - Göteborgs-Posten
 - KD varnar för ”slakt” på vägunderhåll - Västerbottens-Kuriren
-- Idrottsledare i Borås döms för övergrepp mot flicka - svt.se
+- Nu kommer värmen: "Ökad påfrestning" - UNT
+- Idrottsledare döms för övergrepp mot flicka - Göteborgs-Posten
 - Torbjörn Nilsson: Då frågar de – var går smärtgränsen? - Svenska Dagbladet
-- Tomas Ramberg: Räkna med uppmjukad migrationspolitik om Andersson tar över - Dagens Nyheter
-- Storbrand i Kroatien – boende evakueras - gp.se
+- Storbrand i Kroatien – boende evakueras - Göteborgs-Posten
 - Dansk ”problemvarg” skjuten efter drönarjakt - Västerbottens-Kuriren
-- DN Direkt – Sex döda i kraftiga regn i Japan - Dagens Nyheter
 - Vance: Vi krigar för lågt oljepris - Västerbottens-Kuriren
+- DN Direkt – Sex döda i kraftiga regn i Japan - Dagens Nyheter
 - Här landar notan för Teslastrejken: ”Det finns gränser” - Dagens industri
-- Dupeparfymer skapar ”skuggindustri” – 80 procent billigare än originalet - Dagens Nyheter
+- Siffrorna som avslöjar varför börsen fortsätter stiga - Börskollen
 - Näthandlare ser trendbrott: Kvinnor handlar kläder igen - Omni – Alla nyheter. Alla perspektiv.
-- Stockholmsbörsen inleder trevande - Västerbottens-Kuriren
+- Dupeparfymer skapar ”skuggindustri” – 80 procent billigare än originalet - Dagens Nyheter
 - Här kan man uppleva nästa totala solförmörkelse - Örebronyheter
-- Microsoft slår ihop Copilot-appar – steg mot ny ”super-app” - Computer Sweden
+- Lyser 100 miljarder gånger starkare än solen: Världens största rymdteleskop har hittat något i universum som vi aldrig tidigare har sett - Illustrerad Vetenskap
 
 ## World News
 
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - GT World Challenge America, Sebring International Raceway på inatt 00:00 - tv.nu
+- Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -37,36 +38,35 @@ _Updated: 2026-08-14 15:53_
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Megaaffären lyfter American Express Global Business Travel - travelnews.se
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - via.tt.se
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - via.tt.se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Etraveli rusar – 175 miljarder och global styrka - travelnews.se
 - Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - Vietnam.vn
-- Global turism slog nytt rekord under 2025 - travelnews-se
-- Vietnam kommer att vara värd för WAN-IFRA 2026 International AI Forum för första gången. - Vietnam.vn
 
 ## Technology
 
 - Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Ho Chi Minh-museet anordnade en specialiserad utbildningskonferens om "Tillämpning av artificiell intelligens (AI) i museiledning och drift". - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Ho Chi Minh-museet anordnade en specialiserad utbildningskonferens om "Tillämpning av artificiell intelligens (AI) i museiledning och drift". - Vietnam.vn
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- Supertips: Sex bortglömda aktier i AI-boomen - dagensps.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Albanien utser AI-bot till minister - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
-- 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
+- Albanien utser AI-bot till minister - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
@@ -96,39 +96,39 @@ _Updated: 2026-08-14 15:53_
 
 ## Health
 
-- Digital transformation inom hälso- och sjukvården: Att bygga en plattform för att hantera människors hälsa under hela deras livscykel. - Vietnam.vn
+- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
+- Örebro University’s first specialist physicians are now contributing to national healthcare - via.tt.se
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar HealthBench - openai.com
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - gp.se
+- Vi presenterar HealthBench - OpenAI
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Sju life science-trender 2026 - Business Region Göteborg
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Ny WHO-rapport visar hur vårdinsatser i Gaza försvårats av blockad och attacker - Karolinska Institutet
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
-- Kina drar om USA – bäst på forskning - svt.se
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - openai.com
+- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
