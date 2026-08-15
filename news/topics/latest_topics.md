@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-15 10:55_
+_Updated: 2026-08-15 11:50_
 
 ## Top Stories
 
-- Stor radhusbrand i Arboga – barn skadade - Aftonbladet
+- Minst 18 lägenheter totalförstörda i Arboga - Aftonbladet
 - DN Direkt – Nu skrivs det första medborgarskapsprovet - Dagens Nyheter
+- Misstänkt mord i Kiruna – man död efter bråk - SVT Nyheter
 - TOVE HOVEMYR: Uppsalavalet kommer att bli en rysare - UNT
-- ”Vattnet blev lika klart som på 1950-talet” - Svenska Dagbladet
-- Tomas Ramberg: Är 2 procent Mohamssons nya skamgräns? - Dagens Nyheter
-- Slopade prissänkningen – vill nu ha halva priset - Göteborgs-Posten
+- Nu skickas röstkorten ut – för första gången digitalt - Göteborgs-Posten
+- Afsana förlorade jobbet när talibanerna kom till makten - Sveriges Radio
 - INSÄNDARE: Valet kan bli rena rama lotteriet - UNT
 - Simona Mohamsson: ”Jag lever en kvart i taget” - Dagens Nyheter
-- Nu skickas röstkorten ut – för första gången digitalt - Corren
-- Misstänkt mord i Kiruna – man död efter bråk - SVT Nyheter
-- Libanon: Sju dödade i israeliska attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Flera döda i israelisk attack mot Libanon - Göteborgs-Posten
-- Kritiserad professor hittad död i Storbritannien - SVT Nyheter
-- ”Zelenskyj är som ett barn som ständigt måste vaktas” - Dagens Nyheter
+- Efter solförmörkelsen: Flera har ringt 1177 om ögonbesvär - Sveriges Radio
+- Vita huset: Trump skämtade om Hormuzsundet - Dagens Nyheter
+- Panik vid skalvet i Indonesien: ”Väldigt rädda” - Göteborgs-Posten
+- Flera döda i israelisk attack mot Libanon - Västerbottens-Kuriren
+- Libanon går mot strömmen – avskaffar dödsstraff och släpper fångar - Dagens Nyheter
+- Direkt konkurrent till Volvo ES90 med betydligt lägre pris - Dagens Nyheter
 - Så kan du pressa notan för skolstarten - Svenska Dagbladet
 - Fick lägenhet – efter en månad i Stockholmskön - mitti.se
-- Nu tömmer bedragare ditt konto – utan BankID - Dagens PS
-- Tankesmedja: Strejkrätten har brister som bör ordnas - Omni – Alla nyheter. Alla perspektiv.
+- USA uppmanar Apple att inte använda kinesiska chip - Omni – Alla nyheter. Alla perspektiv.
 - Solkusten drar vinstlott vid nästa års solförmörkelse - Sydkusten
-- Nya Seiko Presage Classic-klockor med automatisk uppdragning och handgjorda urtavlor kan nu förbeställas - notebookcheck.se
+- Spionvarning från Apple går ut i 110 länder - Omni – Alla nyheter. Alla perspektiv.
+- Nystartade företagen i Umeå – konsultföretag ett av dem - Västerbottens-Kuriren
 
 ## World News
 
-- Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - GT World Challenge America, Sebring International Raceway på idag 11:40 - tv.nu
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - news.cision.com
+- Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - The Swedish Migration Agency warns of abuse of student visas - universitetslararen.se
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 
 ## Technology
 
@@ -54,21 +54,21 @@ _Updated: 2026-08-15 10:55_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Albanien utser AI-bot till minister - Computer Sweden
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
+- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
+- Albanien utser AI-bot till minister - Computer Sweden
+- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
@@ -97,10 +97,10 @@ _Updated: 2026-08-15 10:55_
 ## Health
 
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - news.cision.com
+- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
@@ -111,7 +111,7 @@ _Updated: 2026-08-15 10:55_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar HealthBench - OpenAI
+- Vi presenterar HealthBench - openai.com
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
@@ -120,25 +120,25 @@ _Updated: 2026-08-15 10:55_
 ## Science
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- AI för vetenskaplig forskning och upptäckter - OpenAI
+- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
+- AI för vetenskaplig forskning och upptäckter - openai.com
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Täta band mellan turism och forskning på Svalbard - SLU
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
+- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - openai.com
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
-- Täta band mellan turism och forskning på Svalbard - SLU
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
 
@@ -146,7 +146,7 @@ _Updated: 2026-08-15 10:55_
 - Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Brittiska bönder i massiv protest mot arvsskatten - ja.se
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
