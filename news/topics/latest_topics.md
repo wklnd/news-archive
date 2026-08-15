@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-15 15:07_
+_Updated: 2026-08-15 15:52_
 
 ## Top Stories
 
-- Pojke hittad i vatten – till sjukhus med helikopter - Aftonbladet
-- Branden i Arboga: ”Oerhört snabbt förlopp” - Göteborgs-Posten
-- Nu kommer röstkorten – digitalt - Dagens Nyheter
-- Karlstadsbon först ut i medborgarprov - nwt.se
 - Algblomning i Malmö – svart flagg hissad vid alla havsbad - SVT Nyheter
+- Pojke hittad i vatten – till sjukhus med helikopter - Aftonbladet
+- DN Direkt – Nu skrivs det första medborgarskapsprovet - Dagens Nyheter
 - M gläds åt slopad mängdrabatt – ger bränsle åt fängelseplaner - Ljusnan
+- M: Dejtingappar ska få göra bakgrundskontroll - Dagens Nyheter
+- Panik vid skalvet i Indonesien: ”Väldigt rädda” - Göteborgs-Posten
+- Stort engagemang för de drabbade efter branden i Arboga - SVT Nyheter
 - M: Inför ett öppet förövarregister – Senaste nytt om valet 2026 - SVT Nyheter
 - Man som hittades skadad vid väg i Uddevalla är död - Corren
 - Polisens kameror får ansiktsigenkänning i realtid - Dagens Nyheter
-- Experten om kampen mot talibanerna: ”De har inte gett upp” - Aftonbladet
 - Vita huset: Trump skämtade om Hormuzsundet - Dagens Nyheter
+- Libanon: Dödade kvinnor och barn inte militära mål - Göteborgs-Posten
 - Källor: Putin beordrade Kreml att "förstöra Nato och EU inifrån" - Dagens Nyheter
 - Kongo på väg mot värsta ebolautbrottet hittills - Dagens Nyheter
-- Panik vid skalvet i Indonesien: ”Väldigt rädda” - Göteborgs-Posten
 - Direkt konkurrent till Volvo ES90 med betydligt lägre pris - Dagens Nyheter
 - Börsen backade hela veckan – här är vinnarna och förlorarna - Dagens industri
 - Tankesmedja: Strejkrätten har brister som bör ordnas - Omni – Alla nyheter. Alla perspektiv.
@@ -28,20 +28,20 @@ _Updated: 2026-08-15 15:07_
 ## World News
 
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
+- GT World Challenge America, Sebring International Raceway på idag 11:40 - tv.nu
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- GT World Challenge America, Sebring International Raceway på idag 11:40 - tv.nu
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -96,15 +96,15 @@ _Updated: 2026-08-15 15:07_
 
 ## Health
 
-- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Sju life science-trender 2026 - businessregiongoteborg.se
+- Sju life science-trender 2026 - Business Region Göteborg
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -135,18 +135,18 @@ _Updated: 2026-08-15 15:07_
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 
 ## Jordbruk
 
+- Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
