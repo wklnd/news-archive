@@ -1,34 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-15 05:12_
+_Updated: 2026-08-15 06:04_
 
 ## Top Stories
 
-- Misstänkt mord i Kiruna – man död efter bråk - svt.se
-- Nu skickas digitala röstkort ut – det här gäller - Sveriges Radio
+- Misstänkt mord i Kiruna – man död - Västerbottens-Kuriren
 - Åklagaren: Fritidsbåten syntes på radarn - Aftonbladet
+- Trump: Ska förklara Hormuz som amerikanskt - Corren
+- En månad kvar till valet – nu växlar Lindesbergs kommun upp - Örebronyheter
 - Plötsligt började marken skaka - UNT
-- Trump: Ska förklara Hormuz som amerikanskt - Västerbottens-Kuriren
+- Jordbävning i Indonesien – tsunamivarning utfärdades - svt.se
 - Anders hus brann ner till grunden i radhusbranden: ”Det var bara att få ut alla ur huset” - Dagens Nyheter
 - ”Tidiga insatser en viktig del i att vända en negativ spiral” - Fastighetstidningen
-- Två skadade efter seriekrock på E6 – trafiken leddes om - svt.se
 - EDVARD HOLLERTZ: Vill du bo här? Då måste du köpa att två killar älskar varandra - Corren
 - 25 procent fler väljer buss i Dalarna efter halverad kostnad för månadskort - svt.se
-- Skulle lägga avlopp – hittade guldskatt värd miljoner - Expressen
+- Förenade arabemiraten: Fartyg attackerat i Hormuz - Göteborgs-Posten
 - Venezuela släpper över 130 politiska fångar - Västerbottens-Kuriren
-- Larmet: Katastrofala förhållanden på militärfartyg - gp.se
-- Europabränder härjar – över 30 skadade i Kroatien - hbl.fi
+- Larmet: Besättning hoppar överbord - hbl.fi
+- Ukraina: Minst tre döda i ryska attacker - Corren
 - Tankesmedja: Strejkrätten har brister som bör ordnas - Omni – Alla nyheter. Alla perspektiv.
-- Förenade arabemiraten: Fartyg attackerat i Hormuz - Västerbottens-Kuriren
 - Lätt nedgång på Stockholmsbörsen med Invisio som vinnare, OMXS30-index backade 0,2 procent (Finwire News) - Aktiellt
 - USA-börsen vänder ned - Dagens industri
+- Goolsbee: Ny inflationsdata visar på förbättring av Investing.com - Investing.com Sverige
 - Solkusten drar vinstlott vid nästa års solförmörkelse - Sydkusten
 - Spionvarning från Apple går ut i 110 länder - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
-- Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - GT World Challenge America, Sebring International Raceway på idag 11:40 - tv.nu
+- Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -41,7 +41,7 @@ _Updated: 2026-08-15 05:12_
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- The Swedish Migration Agency warns of abuse of student visas - universitetslararen.se
+- The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
@@ -104,14 +104,14 @@ _Updated: 2026-08-15 05:12_
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Sju life science-trender 2026 - businessregiongoteborg.se
+- Sju life science-trender 2026 - Business Region Göteborg
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - openai.com
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - gp.se
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Ny WHO-rapport visar hur vårdinsatser i Gaza försvårats av blockad och attacker - Karolinska Institutet
@@ -131,7 +131,7 @@ _Updated: 2026-08-15 05:12_
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - openai.com
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - SND at Almedalsveckan 2024 - snd.se
-- Täta band mellan turism och forskning på Svalbard - slu.se
+- Täta band mellan turism och forskning på Svalbard - SLU
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
@@ -142,7 +142,7 @@ _Updated: 2026-08-15 05:12_
 
 ## Jordbruk
 
-- Sveriges förändrade lantbruk - slu.se
+- Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
@@ -150,15 +150,15 @@ _Updated: 2026-08-15 05:12_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Visning av uppkomst efter direktsådd - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Lantbrukslogik – nu och i framtiden - slu.se
+- Lantbrukslogik – nu och i framtiden - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Jord, kor och klimat - slu.se
+- Jord, kor och klimat - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Kan agroekologi mätta världen? - slu.se
+- Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
