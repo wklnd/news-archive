@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-15 09:06_
+_Updated: 2026-08-15 09:52_
 
 ## Top Stories
 
-- Branden i Arboga under kontroll – 16 bostäder förstörda - Dagens Nyheter
 - Man död efter bråk i Kiruna – misstänkt mord - Sveriges Radio
+- Radhusbrand i Arboga – 20 hushåll drabbade - SVT Nyheter
 - TOVE HOVEMYR: Uppsalavalet kommer att bli en rysare - UNT
-- Dadgostar: Kommer inte riva upp Tidös kriminalpolitik - Omni – Alla nyheter. Alla perspektiv.
-- Nu skickas röstkorten ut – för första gången digitalt - Göteborgs-Posten
 - Slopade prissänkningen – vill nu ha halva priset - Göteborgs-Posten
-- Estländare om svenska fångar: ”Folk är förbannade” - Göteborgs-Posten
-- Valet 2026 blir en folkomröstning om väldigt många röda linjer - altinget.se
-- Mohamsson: Om vi åker ut styr S väldigt, väldigt länge - Omni – Alla nyheter. Alla perspektiv.
+- Trump: Ska förklara Hormuz som amerikanskt - Corren
+- Här ska hundratals svenska fångar sitta i Estland - Göteborgs-Posten
+- Nu skickas röstkorten ut – för första gången digitalt - Corren
+- Valet 2026 blir en folkomröstning om väldigt många röda linjer - Altinget.se
+- Simona Mohamsson: ”Jag lever en kvart i taget” - Dagens Nyheter
 - "Min sommar med Glenn": Glenn möter Glenn - Skillingaryd.nu
-- Trump: Ska förklara Hormuz som amerikanskt - Göteborgs-Posten
-- Kraftig jordbävning i Indonesien – minst två döda - Corren
-- Flera döda i israelisk attack mot Libanon - Västerbottens-Kuriren
-- Förenade arabemiraten: Fartyg attackerat i Hormuz - Västerbottens-Kuriren
-- Så kan du pressa notan för skolstarten - sydsvenskan.se
+- SvD Morgonrapport: Kraftig jordbävning i Indonesien – minst 20 döda - Svenska Dagbladet
+- Flera döda i israelisk attack mot Libanon - Göteborgs-Posten
+- USA testar Natoländernas lojalitet med frågeformulär – tolkas som utpressning - Dagens Nyheter
+- Kritiserad professor hittad död i Storbritannien - SVT Nyheter
+- Så kan du pressa notan för skolstarten - Dagens industri
 - Fick lägenhet – efter en månad i Stockholmskön - mitti.se
-- Tankesmedja: Strejkrätten har brister som bör ordnas - Omni – Alla nyheter. Alla perspektiv.
-- Lätt nedgång på Stockholmsbörsen med Invisio som vinnare, OMXS30-index backade 0,2 procent (Finwire News) - Aktiellt
+- LEDARE: Tesla – något mycket större än en prestigeförlust för IF Metall - Smålandsposten
+- Förenade arabemiraten: Fartyg attackerat i Hormuz - Aftonbladet
 - Solkusten drar vinstlott vid nästa års solförmörkelse - Sydkusten
-- Vestlyds hemmamonitorer har förstärkaren inbyggd - Ljud & Bild
+- Nya Seiko Presage Classic-klockor med automatisk uppdragning och handgjorda urtavlor kan nu förbeställas - notebookcheck.se
 
 ## World News
 
@@ -119,7 +119,7 @@ _Updated: 2026-08-15 09:06_
 
 ## Science
 
-- Activities for the public – Department of Earth Sciences - Uppsala universitet
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - AI för vetenskaplig forskning och upptäckter - OpenAI
@@ -129,7 +129,8 @@ _Updated: 2026-08-15 09:06_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
-- Täta band mellan turism och forskning på Svalbard - slu.se
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Täta band mellan turism och forskning på Svalbard - SLU
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
@@ -138,11 +139,10 @@ _Updated: 2026-08-15 09:06_
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 
 ## Jordbruk
 
-- Sveriges förändrade lantbruk - slu.se
+- Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
@@ -150,15 +150,15 @@ _Updated: 2026-08-15 09:06_
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Visning av uppkomst efter direktsådd - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Lantbrukslogik – nu och i framtiden - slu.se
+- Lantbrukslogik – nu och i framtiden - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Jord, kor och klimat - slu.se
+- Jord, kor och klimat - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Kan agroekologi mätta världen? - slu.se
+- Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
