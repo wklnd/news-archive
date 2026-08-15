@@ -1,34 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-15 15:52_
+_Updated: 2026-08-15 16:49_
 
 ## Top Stories
 
-- Algblomning i Malmö – svart flagg hissad vid alla havsbad - SVT Nyheter
-- Pojke hittad i vatten – till sjukhus med helikopter - Aftonbladet
+- Skådespelaren Örjan Ramberg död - SVT Nyheter
 - DN Direkt – Nu skrivs det första medborgarskapsprovet - Dagens Nyheter
-- M gläds åt slopad mängdrabatt – ger bränsle åt fängelseplaner - Ljusnan
 - M: Dejtingappar ska få göra bakgrundskontroll - Dagens Nyheter
-- Panik vid skalvet i Indonesien: ”Väldigt rädda” - Göteborgs-Posten
+- M gläds åt slopad mängdrabatt – ger bränsle åt fängelseplaner - Ljusnan
+- Panik vid skalvet i Indonesien: ”Väldigt rädda” - Folkbladet
+- INSÄNDARE: Valet kan bli rena rama lotteriet - UNT
 - Stort engagemang för de drabbade efter branden i Arboga - SVT Nyheter
-- M: Inför ett öppet förövarregister – Senaste nytt om valet 2026 - SVT Nyheter
 - Man som hittades skadad vid väg i Uddevalla är död - Corren
+- Pojke hittad i vatten – till sjukhus med helikopter - Göteborgs-Posten
 - Polisens kameror får ansiktsigenkänning i realtid - Dagens Nyheter
-- Vita huset: Trump skämtade om Hormuzsundet - Dagens Nyheter
+- Vita huset: Trump skämtade om Hormuzsundet - Västerbottens-Kuriren
 - Libanon: Dödade kvinnor och barn inte militära mål - Göteborgs-Posten
 - Källor: Putin beordrade Kreml att "förstöra Nato och EU inifrån" - Dagens Nyheter
 - Kongo på väg mot värsta ebolautbrottet hittills - Dagens Nyheter
-- Direkt konkurrent till Volvo ES90 med betydligt lägre pris - Dagens Nyheter
+- Eldrivna lastbilar lönsamma – men förlustaffär i Sverige - Dagens Nyheter
 - Börsen backade hela veckan – här är vinnarna och förlorarna - Dagens industri
+- Direkt konkurrent till Volvo ES90 med betydligt lägre pris - Dagens Nyheter
 - Tankesmedja: Strejkrätten har brister som bör ordnas - Omni – Alla nyheter. Alla perspektiv.
-- Kommunstyrelserna i Sundsvall och Timrå föreslår att affären om Torsboda Industrial Park går vidare - harnosand.se
 - Solkusten drar vinstlott vid nästa års solförmörkelse - sydkusten.es
-- Helt oväntat: Nasarobot träffade på en märklig sten på Mars och gjorde en besynnerlig upptäckt inuti - Illustrerad Vetenskap
+- Mysig och soft start på WOW:s sista festivaldag - Göteborgs-Posten
 
 ## World News
 
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
-- GT World Challenge America, Sebring International Raceway på idag 11:40 - tv.nu
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
@@ -39,6 +38,7 @@ _Updated: 2026-08-15 15:52_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- GT World Challenge America, Sebring International Raceway på idag 11:40 - tv.nu
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
@@ -54,22 +54,22 @@ _Updated: 2026-08-15 15:52_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - iffs.se
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
+- AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- 7 sätt att använda AI i den fysiska världen - computersweden.se
+- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
+- I år ska AI visa affärsnytta. Igen. - computersweden.se
 - FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - computersweden.se
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
-- AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
-- Albanien utser AI-bot till minister - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Albanien utser AI-bot till minister - computersweden.se
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - computersweden.se
 
 ## Business
 
@@ -96,10 +96,9 @@ _Updated: 2026-08-15 15:52_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
@@ -112,29 +111,30 @@ _Updated: 2026-08-15 15:52_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Ny WHO-rapport visar hur vårdinsatser i Gaza försvårats av blockad och attacker - Karolinska Institutet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 
 ## Science
 
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
