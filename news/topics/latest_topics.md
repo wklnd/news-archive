@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-15 16:49_
+_Updated: 2026-08-15 17:46_
 
 ## Top Stories
 
-- Skådespelaren Örjan Ramberg död - SVT Nyheter
 - DN Direkt – Nu skrivs det första medborgarskapsprovet - Dagens Nyheter
-- M: Dejtingappar ska få göra bakgrundskontroll - Dagens Nyheter
+- Pojke hittad i vatten – till sjukhus med helikopter - Aftonbladet
+- Experten om Afghanistan: ”Jag känner sorg” - Dagens Nyheter
+- 18 lägenheter förstördes i radhusbrand - Skånska Dagbladet
+- Dansk fiskebåt i sjönöd utanför Västkusten - Göteborgs-Posten
 - M gläds åt slopad mängdrabatt – ger bränsle åt fängelseplaner - Ljusnan
-- Panik vid skalvet i Indonesien: ”Väldigt rädda” - Folkbladet
-- INSÄNDARE: Valet kan bli rena rama lotteriet - UNT
-- Stort engagemang för de drabbade efter branden i Arboga - SVT Nyheter
+- M: Inför ett öppet förövarregister – Senaste nytt om valet 2026 - SVT Nyheter
 - Man som hittades skadad vid väg i Uddevalla är död - Corren
-- Pojke hittad i vatten – till sjukhus med helikopter - Göteborgs-Posten
+- M: Dejtingappar ska få göra bakgrundskontroll - Dagens Nyheter
 - Polisens kameror får ansiktsigenkänning i realtid - Dagens Nyheter
-- Vita huset: Trump skämtade om Hormuzsundet - Västerbottens-Kuriren
-- Libanon: Dödade kvinnor och barn inte militära mål - Göteborgs-Posten
+- Vita huset: Trump skämtade om Hormuzsundet - vk.se
+- Flera döda i israelisk attack mot Libanon - Göteborgs-Posten
 - Källor: Putin beordrade Kreml att "förstöra Nato och EU inifrån" - Dagens Nyheter
 - Kongo på väg mot värsta ebolautbrottet hittills - Dagens Nyheter
 - Eldrivna lastbilar lönsamma – men förlustaffär i Sverige - Dagens Nyheter
 - Börsen backade hela veckan – här är vinnarna och förlorarna - Dagens industri
-- Direkt konkurrent till Volvo ES90 med betydligt lägre pris - Dagens Nyheter
+- Kommunstyrelserna i Sundsvall och Timrå föreslår att affären om Torsboda Industrial Park går vidare - Harnosand.se
 - Tankesmedja: Strejkrätten har brister som bör ordnas - Omni – Alla nyheter. Alla perspektiv.
 - Solkusten drar vinstlott vid nästa års solförmörkelse - sydkusten.es
 - Mysig och soft start på WOW:s sista festivaldag - Göteborgs-Posten
@@ -53,23 +53,23 @@ _Updated: 2026-08-15 16:49_
 - Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - iffs.se
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- 7 sätt att använda AI i den fysiska världen - computersweden.se
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
-- I år ska AI visa affärsnytta. Igen. - computersweden.se
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
-- Nu blir datorerna dyrare – efter prishöjning på minnen - computersweden.se
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
-- Albanien utser AI-bot till minister - computersweden.se
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - computersweden.se
+- Albanien utser AI-bot till minister - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -100,41 +100,41 @@ _Updated: 2026-08-15 16:49_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 
 ## Science
 
-- Activities for the public – Department of Earth Sciences - Uppsala universitet
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - AI för vetenskaplig forskning och upptäckter - OpenAI
+- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
