@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-15 12:56_
+_Updated: 2026-08-15 13:54_
 
-- Luigi Mangione reveals motive for CEO's killing after pleading guilty in federal case - PBS
-- Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least 20 - The Guardian
-- Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera
-- Iran says Strait of Hormuz 'will remain Iranian' after Trump warning - Euronews.com
+- Indonesia earthquake: 7.7-magnitude quake strikes off coast of Indonesia, killing at least 5 - ABC7 Los Angeles
+- New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln - PBS
+- Iran rejects ‘delusions’ after Trump says he wants the Strait of Hormuz to be a U.S. territory - NBC News
+- Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead - bbc.com
+- Five years after the Taliban won, Afghanistan is still losing - CNN
 - Trump stumps in N.Y. suburbs, highlighting a dilemma for his party - The Washington Post
-- DFW Airport scraps controversial Islamic foot-washing station plan as Texas Gov Abbott takes aim - Fox News
-- Trump Backed Away From a Wall at Big Bend. But the Bulldozers Are Here. - The New York Times
+- What comes next after Luigi Mangione pleads guilty to federal charges in killing of UnitedHealthcare CEO - CNN
 - Live flood updates: Hogsett declares local disaster emergency, Indy evacuations start - IndyStar
+- 'Super' El Niño is super likely as California braces for impact - Los Angeles Times
 - Hawaii’s Big Island under rare hurricane landfall threat as Tropical Storm Lala strengthens - AP News
-- Super El Niño on the way: What it means for DC weather - FOX 5 DC
-- Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power - The New York Times
 - Construction workers find gold stash estimated to be worth $10 million during renovations in Belgium - CBS News
-- Jason Arday, ex-Cambridge professor accused of plagiarism, found dead week after resigning - NBC News
+- Xi calls for improving disaster prevention as floods, landslides batter China - Reuters
 - Iran targets tankers in ‘unprovoked attacks’ in Strait of Hormuz, UAE says - Fox News
+- There’s a reason why Israel has done little to rein in settler violence. It’s not just Netanyahu - AP News
 - EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say - Reuters
 - SpaceX, Sandisk, Micron, Workday, Applied Materials, Reddit, Unusual Machines, and More Stocks That Explain Today’s Market - Barron's
+- Situational Awareness filing shows AI bets before forced portfolio sale to Citadel - CNBC
 - FDA upgrades egg recall to highest risk level as salmonella sickens dozens across several states - Fox Business
-- Trump-appointed regulator OKs banking license for Trump-linked crypto firm - Politico
+- Aston Martin's Latest Special Supercar Is A V12 Villain - Motor1.com
 - Lamborghini’s flagship Revuelto levels up with SV trim - The Verge
-- Madden NFL 27 Review: Third And Long - Game Informer
