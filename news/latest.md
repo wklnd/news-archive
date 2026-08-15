@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-15 13:54_
+_Updated: 2026-08-15 15:16_
 
-- Indonesia earthquake: 7.7-magnitude quake strikes off coast of Indonesia, killing at least 5 - ABC7 Los Angeles
-- New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln - PBS
-- Iran rejects ‘delusions’ after Trump says he wants the Strait of Hormuz to be a U.S. territory - NBC News
-- Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead - bbc.com
+- Magnitude-7.7 quake hits off coast of Indonesia, killing at least 38 - NBC News
+- Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck - CNBC
+- Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln - Axios
+- Luigi Mangione reveals motive for CEO's killing after pleading guilty in federal case - pbs.org
+- Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead - The New York Times
 - Five years after the Taliban won, Afghanistan is still losing - CNN
-- Trump stumps in N.Y. suburbs, highlighting a dilemma for his party - The Washington Post
-- What comes next after Luigi Mangione pleads guilty to federal charges in killing of UnitedHealthcare CEO - CNN
-- Live flood updates: Hogsett declares local disaster emergency, Indy evacuations start - IndyStar
-- 'Super' El Niño is super likely as California braces for impact - Los Angeles Times
-- Hawaii’s Big Island under rare hurricane landfall threat as Tropical Storm Lala strengthens - AP News
-- Construction workers find gold stash estimated to be worth $10 million during renovations in Belgium - CBS News
+- Multiple shooters and people shot at Virginia State University - AP News
+- How $600B of Biden’s clean energy funding escaped Trump’s cuts - Politico
+- After Trump’s DEI cuts, communities struggle to fix problems with raw sewage, air pollution and erosion - NBC News
+- Trump Backed Away From a Wall at Big Bend. But the Bulldozers Are Here. - The New York Times
+- Construction workers uncover $10 million in gold while building sewer under former brewery - Fox News
+- Lebanon front heats up as Iran warns Israel over strategic ridge - Ynetnews
 - Xi calls for improving disaster prevention as floods, landslides batter China - Reuters
-- Iran targets tankers in ‘unprovoked attacks’ in Strait of Hormuz, UAE says - Fox News
-- There’s a reason why Israel has done little to rein in settler violence. It’s not just Netanyahu - AP News
+- Live updates: US-Iran war; Trump says he ‘did the right thing’ and would ‘never apologize’ - CNN
 - EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say - Reuters
+- David Tepper’s Appaloosa sells AI memory stocks while loading up on Magnificent Seven in the second quarter - CNBC
+- I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare - CNBC
 - SpaceX, Sandisk, Micron, Workday, Applied Materials, Reddit, Unusual Machines, and More Stocks That Explain Today’s Market - Barron's
-- Situational Awareness filing shows AI bets before forced portfolio sale to Citadel - CNBC
-- FDA upgrades egg recall to highest risk level as salmonella sickens dozens across several states - Fox Business
-- Aston Martin's Latest Special Supercar Is A V12 Villain - Motor1.com
-- Lamborghini’s flagship Revuelto levels up with SV trim - The Verge
+- 30 New Things Your iPhone Can Do in iOS 27 - MacRumors
+- Samsung has new Galaxy headphones in the works - The Verge
