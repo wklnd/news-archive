@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-15 06:56_
+_Updated: 2026-08-15 07:51_
 
 ## Top Stories
 
-- Branden i Arboga under kontroll – 16 bostäder förstördes - Sveriges Radio
+- Man död efter bråk i Kiruna – misstänkt mord - Sveriges Radio
+- Stor radhusbrand i Arboga – barn skadade - Aftonbladet
 - En månad kvar till valet – nu växlar Lindesbergs kommun upp - Örebronyheter
-- Iran efter Trumps hot: Sundet förblir vårt - Västerbottens-Kuriren
 - Slopade prissänkningen – vill nu ha halva priset - Göteborgs-Posten
-- DN Direkt – Kraftig jordbävning i Indonesien – minst fem döda - Dagens Nyheter
-- Åklagaren: Fritidsbåten syntes på radarn - Aftonbladet
-- Misstänkt mord i Kiruna – man död - Corren
-- Silas Aliki: Sverige saknar verklig opposition - Arbetaren
+- Kraftig jordbävning i Indonesien – minst två döda - Corren
+- Här ska hundratals svenska fångar sitta i Estland - Göteborgs-Posten
+- Simona Mohamsson: ”Jag lever en kvart i taget” - Dagens Nyheter
+- "Min sommar med Glenn": Glenn möter Glenn - Skillingaryd.nu
+- Experten: Så ska du agera i björnmöten - Dagens Nyheter
 - ”Tidiga insatser en viktig del i att vända en negativ spiral” - Fastighetstidningen
-- EDVARD HOLLERTZ: Vill du bo här? Då måste du köpa att två killar älskar varandra - Corren
-- Förenade arabemiraten: Fartyg attackerat i Hormuz - Göteborgs-Posten
-- Plötsligt började marken skaka - UNT
+- Trump: Ska förklara Hormuz som amerikanskt - Göteborgs-Posten
+- Förenade arabemiraten: Fartyg attackerat i Hormuz - Västerbottens-Kuriren
 - DN Direkt – Jordbävning skakade stora delar av Spanien - Dagens Nyheter
-- Venezuela släpper över 130 politiska fångar - Västerbottens-Kuriren
+- Plötsligt började marken skaka - UNT
+- Så kan du pressa notan för skolstarten - Svenska Dagbladet
 - Tankesmedja: Strejkrätten har brister som bör ordnas - Omni – Alla nyheter. Alla perspektiv.
 - Lätt nedgång på Stockholmsbörsen med Invisio som vinnare, OMXS30-index backade 0,2 procent (Finwire News) - Aktiellt
 - USA-börsen vänder ned - Dagens industri
-- Goolsbee: Ny inflationsdata visar på förbättring av Investing.com - Investing.com Sverige
 - Solkusten drar vinstlott vid nästa års solförmörkelse - Sydkusten
 - Minnesord om Putte Lundmark, Umeå - Folkbladet
 
@@ -30,17 +30,17 @@ _Updated: 2026-08-15 06:56_
 - GT World Challenge America, Sebring International Raceway på idag 11:40 - tv.nu
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -129,9 +129,9 @@ _Updated: 2026-08-15 06:56_
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - SND at Almedalsveckan 2024 - snd.se
-- Täta band mellan turism och forskning på Svalbard - SLU
+- Forskningsutvärdering med kvalitet i fokus - Jönköping University
+- Täta band mellan turism och forskning på Svalbard - slu.se
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
@@ -142,23 +142,23 @@ _Updated: 2026-08-15 06:56_
 
 ## Jordbruk
 
-- Sveriges förändrade lantbruk - SLU
+- Sveriges förändrade lantbruk - slu.se
 - Framtidens jordbruk - European Commission
+- Doggy stolt partner till Göteborg Film Festival - mynewsdesk.com
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - naturvardsverket.se
+- Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
-- Doggy stolt partner till Göteborg Film Festival - mynewsdesk.com
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Visning av uppkomst efter direktsådd - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - mynewsdesk.com
-- Lantbrukslogik – nu och i framtiden - SLU
+- Lantbrukslogik – nu och i framtiden - slu.se
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Jord, kor och klimat - SLU
+- Jord, kor och klimat - slu.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Kan agroekologi mätta världen? - SLU
+- Kan agroekologi mätta världen? - slu.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
