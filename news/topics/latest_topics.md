@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-15 07:51_
+_Updated: 2026-08-15 09:06_
 
 ## Top Stories
 
+- Branden i Arboga under kontroll – 16 bostäder förstörda - Dagens Nyheter
 - Man död efter bråk i Kiruna – misstänkt mord - Sveriges Radio
-- Stor radhusbrand i Arboga – barn skadade - Aftonbladet
-- En månad kvar till valet – nu växlar Lindesbergs kommun upp - Örebronyheter
+- TOVE HOVEMYR: Uppsalavalet kommer att bli en rysare - UNT
+- Dadgostar: Kommer inte riva upp Tidös kriminalpolitik - Omni – Alla nyheter. Alla perspektiv.
+- Nu skickas röstkorten ut – för första gången digitalt - Göteborgs-Posten
 - Slopade prissänkningen – vill nu ha halva priset - Göteborgs-Posten
-- Kraftig jordbävning i Indonesien – minst två döda - Corren
-- Här ska hundratals svenska fångar sitta i Estland - Göteborgs-Posten
-- Simona Mohamsson: ”Jag lever en kvart i taget” - Dagens Nyheter
+- Estländare om svenska fångar: ”Folk är förbannade” - Göteborgs-Posten
+- Valet 2026 blir en folkomröstning om väldigt många röda linjer - altinget.se
+- Mohamsson: Om vi åker ut styr S väldigt, väldigt länge - Omni – Alla nyheter. Alla perspektiv.
 - "Min sommar med Glenn": Glenn möter Glenn - Skillingaryd.nu
-- Experten: Så ska du agera i björnmöten - Dagens Nyheter
-- ”Tidiga insatser en viktig del i att vända en negativ spiral” - Fastighetstidningen
 - Trump: Ska förklara Hormuz som amerikanskt - Göteborgs-Posten
+- Kraftig jordbävning i Indonesien – minst två döda - Corren
+- Flera döda i israelisk attack mot Libanon - Västerbottens-Kuriren
 - Förenade arabemiraten: Fartyg attackerat i Hormuz - Västerbottens-Kuriren
-- DN Direkt – Jordbävning skakade stora delar av Spanien - Dagens Nyheter
-- Plötsligt började marken skaka - UNT
-- Så kan du pressa notan för skolstarten - Svenska Dagbladet
+- Så kan du pressa notan för skolstarten - sydsvenskan.se
+- Fick lägenhet – efter en månad i Stockholmskön - mitti.se
 - Tankesmedja: Strejkrätten har brister som bör ordnas - Omni – Alla nyheter. Alla perspektiv.
 - Lätt nedgång på Stockholmsbörsen med Invisio som vinnare, OMXS30-index backade 0,2 procent (Finwire News) - Aktiellt
-- USA-börsen vänder ned - Dagens industri
 - Solkusten drar vinstlott vid nästa års solförmörkelse - Sydkusten
-- Minnesord om Putte Lundmark, Umeå - Folkbladet
+- Vestlyds hemmamonitorer har förstärkaren inbyggd - Ljud & Bild
 
 ## World News
 
@@ -41,7 +41,7 @@ _Updated: 2026-08-15 07:51_
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
+- The Swedish Migration Agency warns of abuse of student visas - universitetslararen.se
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
@@ -59,7 +59,7 @@ _Updated: 2026-08-15 07:51_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Albanien utser AI-bot till minister - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - mynewsdesk.com
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -74,25 +74,25 @@ _Updated: 2026-08-15 07:51_
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - mynewsdesk.com
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - mynewsdesk.com
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - mynewsdesk.com
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
 - Vilken framtid arbetar du för? - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - mynewsdesk.com
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - mynewsdesk.com
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - mynewsdesk.com
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - mynewsdesk.com
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - mynewsdesk.com
-- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - mynewsdesk.com
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - mynewsdesk.com
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - mynewsdesk.com
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
+- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 
 ## Health
 
@@ -106,45 +106,45 @@ _Updated: 2026-08-15 07:51_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Sju life science-trender 2026 - Business Region Göteborg
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- CGM Sverige och Tandem Health inleder samarbete - mynewsdesk.com
+- Örebro University’s first specialist physicians are now contributing to national healthcare - Via TT
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Ny WHO-rapport visar hur vårdinsatser i Gaza försvårats av blockad och attacker - Karolinska Institutet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- SND at Almedalsveckan 2024 - snd.se
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - slu.se
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 
 ## Jordbruk
 
 - Sveriges förändrade lantbruk - slu.se
 - Framtidens jordbruk - European Commission
-- Doggy stolt partner till Göteborg Film Festival - mynewsdesk.com
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
@@ -154,7 +154,7 @@ _Updated: 2026-08-15 07:51_
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Visning av uppkomst efter direktsådd - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - mynewsdesk.com
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - slu.se
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Jord, kor och klimat - slu.se
