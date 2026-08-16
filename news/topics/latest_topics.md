@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-16 19:45_
+_Updated: 2026-08-16 20:56_
 
 ## Top Stories
 
-- Guld i EM-finalen - nu är Habostjärnan nära OS - Jönköpings-Posten
 - Personbil och lastbil i frontalkrock på E20 utanför Mariestad - SVT Nyheter
 - Uppgifter: Pågående insats på Ljusterö - Aftonbladet
-- JUST NU: Färjeolycka – tre skadade - Expressen
-- Professorn: ”Nationalism light” temat på årets valaffischer - Dagens Nyheter
+- Djurgårdsfärja i olycka – tre personer skadade - Expressen
 - Ukrainsk drönarattack mot Ryssland – sex döda - Västerbottens-Kuriren
-- Anna Bratt: Därför är det så svårt att få tag på östrogen - Dagens Nyheter
+- De lyckades med Fire – och började jobba igen - Svenska Dagbladet
+- Kvinnor korsar finska gränsen i jakten på östrogen - Dagens Nyheter
+- SD-ledamot: "Sluta vara muslimer" - Västerbottens-Kuriren
 - Brand i lantbruksbyggnad utanför Kalmar under kontroll - SVT Nyheter
 - Kristersson om opinionen: ”Då är man ju en loser” - Dagens Nyheter
-- KRÖNIKA: Det var verkligen jobbigt att inte få ha slavar längre - Sydsvenskan
+- Oron när affischerna sattes upp: "Väldigt otrygg" - UNT
 - DN Direkt – Över 50 döda efter jordbävning i Indonesien - Dagens Nyheter
-- Påven manar till slut på våldet på Västbanken - Göteborgs-Posten
-- Trumps nydesign på fartyg kan kosta miljarder dollar - Dagens Nyheter
-- Bränderna i Europa: Två döda i Grekland - Corren
+- Trump vill att hangarfartyg ska se ut som förr - Göteborgs-Posten
+- Demokratisk socialist: Detta är sista alternativet innan vi tar till våld - Dagens Nyheter
+- Påven manar till slut på våldet på Västbanken - Västerbottens-Kuriren
 - Paradoxen: Kristerssons lån kan hjälpa kronan - Svenska Dagbladet
 - LEDARE: Elon Musk har inte krossat den svenska modellen - Borås Tidning
 - Så höjer du lönen med nya lönetransparensdirektivet - Sveriges Radio
@@ -41,7 +41,7 @@ _Updated: 2026-08-16 19:45_
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
@@ -53,8 +53,8 @@ _Updated: 2026-08-16 19:45_
 - Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - iffs.se
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - nyheter.ki.se
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
@@ -102,13 +102,13 @@ _Updated: 2026-08-16 19:45_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Sju life science-trender 2026 - Business Region Göteborg
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - nyheter.ki.se
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -122,7 +122,7 @@ _Updated: 2026-08-16 19:45_
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Cell- och genterapi - från science fiction till sjukhussal - nyheter.ki.se
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -134,7 +134,7 @@ _Updated: 2026-08-16 19:45_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - nyheter.ki.se
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
@@ -146,8 +146,8 @@ _Updated: 2026-08-16 19:45_
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Här är världens största jordbruk - ATL
+- Brittiska bönder i massiv protest mot arvsskatten - ja.se
+- Här är världens största jordbruk - atl.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
