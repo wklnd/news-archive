@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-16 20:56_
+_Updated: 2026-08-16 21:44_
 
 ## Top Stories
 
-- Personbil och lastbil i frontalkrock på E20 utanför Mariestad - SVT Nyheter
+- Tre svårt skadade i trafikolycka på E20 - Göteborgs-Posten
 - Uppgifter: Pågående insats på Ljusterö - Aftonbladet
-- Djurgårdsfärja i olycka – tre personer skadade - Expressen
 - Ukrainsk drönarattack mot Ryssland – sex döda - Västerbottens-Kuriren
+- Djurgårdsfärja i olycka – fem skadade - Sveriges Radio
 - De lyckades med Fire – och började jobba igen - Svenska Dagbladet
-- Kvinnor korsar finska gränsen i jakten på östrogen - Dagens Nyheter
-- SD-ledamot: "Sluta vara muslimer" - Västerbottens-Kuriren
-- Brand i lantbruksbyggnad utanför Kalmar under kontroll - SVT Nyheter
+- S: Förbjud koncernbildningar i skolan - Göteborgs-Posten
 - Kristersson om opinionen: ”Då är man ju en loser” - Dagens Nyheter
-- Oron när affischerna sattes upp: "Väldigt otrygg" - UNT
+- Anna Bratt: Därför är det så svårt att få tag på östrogen - Dagens Nyheter
+- SD-ledamot: "Sluta vara muslimer" - Corren
+- Brand i lantbruksbyggnad utanför Kalmar under kontroll - SVT Nyheter
 - DN Direkt – Över 50 döda efter jordbävning i Indonesien - Dagens Nyheter
-- Trump vill att hangarfartyg ska se ut som förr - Göteborgs-Posten
 - Demokratisk socialist: Detta är sista alternativet innan vi tar till våld - Dagens Nyheter
-- Påven manar till slut på våldet på Västbanken - Västerbottens-Kuriren
+- Bränderna i Europa: Två döda i Grekland - Göteborgs-Posten
+- Påven manar till slut på våldet på Västbanken - Göteborgs-Posten
 - Paradoxen: Kristerssons lån kan hjälpa kronan - Svenska Dagbladet
 - LEDARE: Elon Musk har inte krossat den svenska modellen - Borås Tidning
-- Så höjer du lönen med nya lönetransparensdirektivet - Sveriges Radio
 - Lätt nedgång på Stockholmsbörsen - Affärsvärlden
+- Så höjer du lönen med nya lönetransparensdirektivet - Sveriges Radio
 - Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - Aftonbladet
 - Genombrott: Forskare tar de hittills skarpaste bilderna av solen och löser ett tiotals år gammalt mysterium - Illustrerad Vetenskap
 
@@ -59,7 +59,7 @@ _Updated: 2026-08-16 20:56_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
@@ -77,22 +77,22 @@ _Updated: 2026-08-16 20:56_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
+- Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - tv4.se
-- Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
+- Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
 - Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
