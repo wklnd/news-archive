@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-16 18:51_
+_Updated: 2026-08-16 19:45_
 
 ## Top Stories
 
+- Guld i EM-finalen - nu är Habostjärnan nära OS - Jönköpings-Posten
+- Personbil och lastbil i frontalkrock på E20 utanför Mariestad - SVT Nyheter
+- Uppgifter: Pågående insats på Ljusterö - Aftonbladet
 - JUST NU: Färjeolycka – tre skadade - Expressen
 - Professorn: ”Nationalism light” temat på årets valaffischer - Dagens Nyheter
-- Uppgifter: Pågående insats på Ljusterö - Aftonbladet
-- På en kräftskiva i Bålsta fick gästerna en objuden gäst som vägrade gå - Sveriges Radio
-- Trumps nydesign på fartyg kan kosta miljarder dollar - Dagens Nyheter
-- C: Haverikommission varje gång ett barn dödas - Göteborgs-Posten
-- Valurnor på Ikea – utlandssvenskar kan börja rösta - Västerbottens-Kuriren
-- KRÖNIKA: Det var verkligen jobbigt att inte få ha slavar längre - Sydsvenskan
-- Kristersson om opinionen: ”Då är man ju en loser” - Dagens Nyheter
+- Ukrainsk drönarattack mot Ryssland – sex döda - Västerbottens-Kuriren
+- Anna Bratt: Därför är det så svårt att få tag på östrogen - Dagens Nyheter
 - Brand i lantbruksbyggnad utanför Kalmar under kontroll - SVT Nyheter
+- Kristersson om opinionen: ”Då är man ju en loser” - Dagens Nyheter
+- KRÖNIKA: Det var verkligen jobbigt att inte få ha slavar längre - Sydsvenskan
 - DN Direkt – Över 50 döda efter jordbävning i Indonesien - Dagens Nyheter
 - Påven manar till slut på våldet på Västbanken - Göteborgs-Posten
-- Ukraina och Ryssland utbyter attacker – tolv döda - Västerbottens-Kuriren
-- Tolv döda i bussolycka i Ungern - Hufvudstadsbladet – HBL
+- Trumps nydesign på fartyg kan kosta miljarder dollar - Dagens Nyheter
+- Bränderna i Europa: Två döda i Grekland - Corren
 - Paradoxen: Kristerssons lån kan hjälpa kronan - Svenska Dagbladet
 - LEDARE: Elon Musk har inte krossat den svenska modellen - Borås Tidning
-- Börsen backade hela veckan – här är vinnarna och förlorarna - Dagens industri
-- Storbankerna ser fyndläge i Europa - EFN
+- Så höjer du lönen med nya lönetransparensdirektivet - Sveriges Radio
+- Lätt nedgång på Stockholmsbörsen - Affärsvärlden
 - Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - Aftonbladet
 - Genombrott: Forskare tar de hittills skarpaste bilderna av solen och löser ett tiotals år gammalt mysterium - Illustrerad Vetenskap
 
@@ -31,14 +31,15 @@ _Updated: 2026-08-16 18:51_
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
 - Vietnam kommer att vara värd för WAN-IFRA 2026 International AI Forum för första gången. - Vietnam.vn
-- Megaaffären lyfter American Express Global Business Travel - travelnews.se
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - fempers.se
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Kuriren nominerad för satsning på unga läsare - Kuriren
@@ -46,28 +47,27 @@ _Updated: 2026-08-16 18:51_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 
 ## Technology
 
 - Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - iffs.se
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
-- Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
 - Albanien utser AI-bot till minister - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
@@ -79,7 +79,7 @@ _Updated: 2026-08-16 18:51_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Finansinspektionen varnar för finansbedragare - tv4.se
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
 - Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -98,47 +98,47 @@ _Updated: 2026-08-16 18:51_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - lakartidningen.se
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - lakartidningen.se
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - lakartidningen.se
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
-- NESS activities for the public – Department of Earth Sciences - uu.se
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Olika slutsatser från samma data - lakartidningen.se
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Sherry Nakhaeizadeh - uu.se
-- 5 myter om öppen vetenskap - lakartidningen.se
+- Sherry Nakhaeizadeh - Uppsala universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
-- I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
-- Registrering av forskning baserad på nationella hälsoregister - lakartidningen.se
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
