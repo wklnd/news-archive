@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-16 23:45_
+_Updated: 2026-08-17 00:54_
 
 ## Top Stories
 
-- Källor: Ukraina använder brittiska drönare i långdistansattacker - Dagens Nyheter
 - Tre svårt skadade i trafikolycka på E20 - Göteborgs-Posten
-- Falska valaffischer sattes upp – utreds enligt uppgift – Senaste nytt om valet 2026 - SVT Nyheter
-- Pensionerade sig vid 40 – nu jobbar de igen - Svenska Dagbladet
-- Svenska vattenbombare bekämpar bränder i Belgien - Göteborgs-Posten
-- Efter Bondi-dådet: Kvarts miljon vapen ska lösas in - Göteborgs-Posten
+- Falska valaffischer sattes upp – utreds enligt uppgift – Senaste nytt om valet 2026 - svt.se
+- Ukrainsk drönarattack mot Ryssland – sex döda - Västerbottens-Kuriren
+- Iran: 300 000 kronor till den som dödar en amerikansk soldat - Dagens Nyheter
+- Bortglömd svensk styr världens penningpolitik - Svenska Dagbladet
+- SD trappar upp retoriken: ”Sluta vara muslimer” - Dagens Nyheter
 - DN Direkt – Djurgårdsfärja körde in i kaj – tre skadade - Dagens Nyheter
-- Stor insats i Stockholms skärgård – en gripen - Svenska Dagbladet
+- Stor insats på Ljusterö – en person har gripits - Omni – Alla nyheter. Alla perspektiv.
+- Oro när affischerna sattes upp: "Väldigt otrygg" - UNT
 - Kristersson om opinionen: ”Då är man ju en loser” - Dagens Nyheter
-- SD-ledamot: "Sluta vara muslimer" - Corren
-- DN Direkt – Tonåringar döda i bilolycka i Irland - Dagens Nyheter
-- Bränderna i Europa: Två döda i Grekland - Göteborgs-Posten
-- Demokratisk socialist: Detta är sista alternativet innan vi tar till våld - Dagens Nyheter
-- Kushner mötte Hamasledare i Kairo – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Efter Bondi-dådet: Kvarts miljon vapen ska lösas in - Västerbottens-Kuriren
+- S: Förbjud koncernbildningar i skolan - Folkbladet
+- Man död i motorcykelolycka - Expressen
+- Hamastopp och Trumps svärson möttes i Kairo - Göteborgs-Posten
+- Anmälningarna mot SAS rusar – det här ger EU-reglerna dig rätt till - Dagens PS
 - LEDARE: Elon Musk har inte krossat den svenska modellen - Borås Tidning
 - Lätt nedgång på Stockholmsbörsen - Affärsvärlden
 - Storbankerna ser fyndläge i Europa - EFN
-- DEBATT: Vem har räknat på priset för att lova bort framtidens el? - Sundsvalls Tidning
-- Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - aftonbladet.se
+- Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - Aftonbladet
 - Genombrott: Forskare tar de hittills skarpaste bilderna av solen och löser ett tiotals år gammalt mysterium - Illustrerad Vetenskap
 
 ## World News
@@ -32,13 +32,13 @@ _Updated: 2026-08-16 23:45_
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
 - Vietnam kommer att vara värd för WAN-IFRA 2026 International AI Forum för första gången. - Vietnam.vn
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - news.cision.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- GMMP: Global backlash syns i världens medier - fempers.se
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - news.cision.com
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - media.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -56,7 +56,7 @@ _Updated: 2026-08-16 23:45_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - fuf.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -76,10 +76,10 @@ _Updated: 2026-08-16 23:45_
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - tv4.se
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
 - Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -101,12 +101,12 @@ _Updated: 2026-08-16 23:45_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
-- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
+- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - news.cision.com
+- Låt oss prata hälsa – Intensivvård – Segment 1 - apollohospitals.com
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Sju life science-trender 2026 - Business Region Göteborg
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- firar 15 år av att skydda den globala hälsosektorn - health-isac.org
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
@@ -114,13 +114,13 @@ _Updated: 2026-08-16 23:45_
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - health-isac.org
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Kina drar om USA – bäst på forskning - svt.se
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
@@ -131,14 +131,14 @@ _Updated: 2026-08-16 23:45_
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
@@ -148,7 +148,7 @@ _Updated: 2026-08-16 23:45_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
