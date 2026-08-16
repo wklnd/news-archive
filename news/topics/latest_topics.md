@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-16 09:54_
+_Updated: 2026-08-16 10:56_
 
 ## Top Stories
 
-- Räddningsinsats efter drunkningslarm i centrala Göteborg - SVT Nyheter
-- Misstänkt våldtäkt vid festival - Västerbottens-Kuriren
+- Båt med motorn igång hittad tom utanför Ljungskile – helikopter och sjöräddning på plats - SVT Nyheter
 - C-ledaren: Vi vill bilda regering med Socialdemokraterna och Kristdemokraterna - Dagens Nyheter
+- Tomas Ramberg: Thand Ringqvist kan få det svettigt efter valet - Dagens Nyheter
+- Flygplan har nödlandat på åker - Göteborgs-Posten
 - Jeanettes 11-åring isolerar sig hemma: ”Kommer aldrig gå tillbaka” - Aftonbladet
 - Den bruna stugan – spåren efter flickmordet ledde till stor pedofilring - Göteborgs-Posten
-- Minst en död i Ukraina efter robotattacker - Dagens Nyheter
-- Mobilförbud i skolan: ”Hoppas på bättre resultat” - Göteborgs-Posten
 - Polisen: Barn rekryteras i samma omfattning - Sveriges Radio
+- Mobilförbud i skolan: ”Hoppas på bättre resultat” - Göteborgs-Posten
 - Kräftskiva spårade ur – man vägrade lämna - Enköpingsposten
-- M vill införa femicid som ny brottsrubricering - Dagens Nyheter
-- Över 45 döda efter jordbävning i Indonesien - Corren
-- Tolv döda i bussolycka i Ungern - Hufvudstadsbladet – HBL
-- Ukraina: Träffade rysk rymdfabrik - Västerbottens-Kuriren
-- Argentina: pensionärer protesterar mot Mileis politik - Sveriges Radio
+- M vill införa femicid som ny brottsrubricering - Västerbottens-Kuriren
+- Tolv döda i bussolycka i Ungern - Göteborgs-Posten
+- Dramatiskt minskad export av spannmål från Ukraina - Sveriges Radio
+- Robotangrepp mot Kiev – nattliga explosioner - Västerbottens-Kuriren
+- Ukraina: Träffade rysk rymdfabrik - Corren
 - YLVA NILSSON: Musk-bråket kan ta en oväntad vändning - Expressen
-- Börsen backade hela veckan – här är vinnarna och förlorarna - di.se
-- Tio nya miljonärer på Lotto – hela 20 vinster återstår - oskarshamns-nytt.se
+- Lätt nedgång på Stockholmsbörsen - Affärsvärlden
 - DEBATT: Vem har räknat på priset för att lova bort framtidens el? - Sundsvalls Tidning
-- Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - Aftonbladet
+- Tio nya miljonärer på Lotto – hela 20 vinster återstår - oskarshamns-nytt.se
 - Efter två tuffa år – nu har arbete och välfärd klättrat upp ur det ekonomiska svarta hålet - Sydöstran
+- Fick inte låna testbil av Audi – köpte han en egen RS5 Avant - Carup.se
 
 ## World News
 
@@ -31,20 +31,20 @@ _Updated: 2026-08-16 09:54_
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
 - Vietnam kommer att vara värd för WAN-IFRA 2026 International AI Forum för första gången. - Vietnam.vn
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Megaaffären lyfter American Express Global Business Travel - travelnews.se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - fempers.se
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 
@@ -76,16 +76,16 @@ _Updated: 2026-08-16 09:54_
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
-- Four European takes on open banking - Mastercard Data and Services - Mastercard
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Finansinspektionen varnar för finansbedragare - tv4.se
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
 - Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
@@ -145,20 +145,20 @@ _Updated: 2026-08-16 09:54_
 - Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Jordbruket har en nyckelroll för att rädda klimatet - land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - land.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Jord, kor och klimat - SLU
-- Visning av uppkomst efter direktsådd - Land.se
+- Visning av uppkomst efter direktsådd - land.se
 - KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Hellre plöjningsfri odling än ekologisk - Land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - land.se
+- Hellre plöjningsfri odling än ekologisk - land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - land.se
+- De blev grönsaksodlare tack vare lokalt stöd - land.se
