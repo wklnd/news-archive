@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-16 01:55_
+_Updated: 2026-08-16 04:10_
 
-- Lala becomes a hurricane; forecasters warn Hawaii of torrential rains - USA Today
-- Iran Accuses Trump Of ‘Fanciful Delusions,’ Says Strait Of Hormuz ‘Cannot Be Seized By Tweet’ - Forbes
-- Magnitude-7.7 quake hits off coast of Indonesia, killing at least 47 - NBC News
+- The Last Hurricane to Hit Hawaii Became a Movie Star - The New York Times
+- Trump says he may declare Strait of Hormuz a US territory ‘after we finish defeating Iran’ - foxnews.com
+- Iran War Commander Visits the USS Abraham Lincoln - WSJ
+- Rescuers search for survivors of powerful Indonesia earthquake - BBC
+- At least 6 dead in storms that swept through Indiana - ABC News - Breaking News, Latest News and Videos
+- Navy weighs major warship redesign to match Trump’s preferences - The Washington Post
 - Double jeopardy could spell end of state case after Luigi Mangione’s guilty plea - The Guardian
-- Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board - NPR
-- The Midwest braces for more heavy flooding, as Indiana seeks federal aid - NPR
-- Live flood updates: At least 5 dead from Indiana storms, officials say - IndyStar
-- Multiple suspects at large after five shot at Virginia State University, police say - BBC
-- Trump heads into general election season with string of primary losses - Politico
-- Democrats Reshape 2028 Presidential Primary Calendar, and Put South Carolina First - The New York Times
+- Teen boy among 6 dead including suspect in Michigan shootings; girl survived - AP News
+- 5 people injured in shooting with multiple shooters at Virginia State University - CBS News
+- US Democrats finalise major shakeup to 2028 presidential primary calendar - Al Jazeera
 - Jason Arday, Cambridge professor accused of plagiarism, is found dead - NPR
-- Taliban mark five years in power as aid groups warn of crisis - Reuters
+- Chart-topping game No 10: Full Confidence puts you in prime minister's shoes - BBC
 - How to beat an earthquake: The Colombian city where no one died - The Washington Post
-- They were on the plane when Trump secretly left. Here’s what they noticed. - The Washington Post
-- Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter - CNBC
-- Tracking Berkshire Hathaway Portfolio – Q2 2026 Update (NYSE:BRK.A) - Seeking Alpha
-- SanDisk CEO reveals what’s next after explosive 3,150% stock rally - thestreet.com
+- Taliban mark five years in power as aid groups warn of crisis - Reuters
+- Berkshire adds $17 billion to Alphabet stake - cnbc.com
+- Sandisk stock surges as Wall Street cheers flash memory maker's bullish outlook - Yahoo Finance
+- Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies - Bloomberg.com
 - Massive egg recall in US south and south-west due to salmonella outbreak - The Guardian
-- Don’t overlook Elektron’s budget electronic music instruments - The Verge
 - Top Stories: iOS 27 Beta 5, iPhone 18 Pro Rumors, and More - MacRumors
+- Don’t overlook Elektron’s budget electronic music instruments - The Verge
