@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-16 01:45_
+_Updated: 2026-08-16 04:06_
 
 ## Top Stories
 
-- Gula varningar för skyfall över Sverige - SVT Nyheter
 - Man död – hittades vid Uddevalla sjukhus förra helgen - Sveriges Radio
-- Viktig hamn i Jemen stänger efter attacker - Sveriges Radio
-- Första medborgarskapsprovet: ”Pluggade mycket" - Göteborgs-Posten
 - ROKS dömer ut förslag: ”Falsk trygghet” – Senaste nytt om valet 2026 - SVT Nyheter
-- Kläderna ingen köper får inte längre förstöras - Svenska Dagbladet
+- Första medborgarskapsprovet: ”Pluggade mycket" - Göteborgs-Posten
+- Hundratals evakuerade i branddrabbade Belgien - Västerbottens-Kuriren
+- DN Direkt – SMHI varnar för skyfall - Dagens Nyheter
+- DN Direkt – Dödssiffran stiger efter jordbävningen i Colombia - Dagens Nyheter
 - Stort engagemang för de drabbade efter branden i Arboga - SVT Nyheter
-- Klimataktivister spred solrosfrön – kan få miljonfakturor - Dagens Nyheter
-- Algblomning i Malmö – svart flagg hissad vid alla havsbad - SVT Nyheter
-- M: Dejtingappar ska få göra bakgrundskontroll - Dagens Nyheter
-- Jinny Lu är världens fulaste hund - sydsvenskan.se
-- DN Direkt – Största skogsbranden någonsin rasar i Belgien - Dagens Nyheter
-- DN Direkt – Svenskt EM-silver på 1500 meter - Dagens Nyheter
-- Vita huset: Trump skämtade om Hormuzsundet - Västerbottens-Kuriren
+- DN Direkt – Badavrådan på alla badplatser i Malmö - Dagens Nyheter
+- Pojke hittad i vatten – till sjukhus med helikopter - Göteborgs-Posten
+- Talibanerna firar fem år vid makten – utan kvinnor - Göteborgs-Posten
+- Jinny Lu är världens fulaste hund - Västerbottens-Kuriren
+- Flera döda i översvämningar i USA - Göteborgs-Posten
+- Vita huset: Trump skämtade om Hormuzsundet - Corren
+- Kritiserad professor hittad död i Storbritannien - SVT Nyheter
 - Börsen backade hela veckan – här är vinnarna och förlorarna - Dagens industri
 - Tankesmedja: Strejkrätten har brister som bör ordnas - Omni – Alla nyheter. Alla perspektiv.
 - Kommunstyrelserna i Sundsvall och Timrå föreslår att affären om Torsboda Industrial Park går vidare - Harnosand.se
 - ABB-chef säljer aktier för nära 20 miljoner - EFN
-- Solkusten drar vinstlott vid nästa års solförmörkelse - Sydkusten
+- Här kan man uppleva nästa totala solförmörkelse - Örebronyheter
 - Sombr håller inte igen på Way Out West – han är helt gränslös - Göteborgs-Posten
 
 ## World News
@@ -30,23 +30,23 @@ _Updated: 2026-08-16 01:45_
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
 - Vietnam kommer att vara värd för WAN-IFRA 2026 International AI Forum för första gången. - Vietnam.vn
-- Megaaffären lyfter American Express Global Business Travel - travelnews.se
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- GT World Challenge America, Sebring International Raceway på idag 11:40 - tv.nu
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Radisson satsar stort på långtidsboende globalt - travelnews-se
 
 ## Technology
 
@@ -80,6 +80,7 @@ _Updated: 2026-08-16 01:45_
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
 - Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -92,53 +93,52 @@ _Updated: 2026-08-16 01:45_
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
-- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Sju life science-trender 2026 - businessregiongoteborg.se
+- Sju life science-trender 2026 - Business Region Göteborg
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- AI för vetenskaplig forskning och upptäckter - OpenAI
-- Olika slutsatser från samma data - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- AI för vetenskaplig forskning och upptäckter - OpenAI
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - SLU
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
 
 ## Jordbruk
 
