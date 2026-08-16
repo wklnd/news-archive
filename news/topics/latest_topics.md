@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-16 09:08_
+_Updated: 2026-08-16 09:54_
 
 ## Top Stories
 
+- Räddningsinsats efter drunkningslarm i centrala Göteborg - SVT Nyheter
+- Misstänkt våldtäkt vid festival - Västerbottens-Kuriren
 - C-ledaren: Vi vill bilda regering med Socialdemokraterna och Kristdemokraterna - Dagens Nyheter
 - Jeanettes 11-åring isolerar sig hemma: ”Kommer aldrig gå tillbaka” - Aftonbladet
 - Den bruna stugan – spåren efter flickmordet ledde till stor pedofilring - Göteborgs-Posten
-- Porrarp, Rumperöd, Sexmansvägen – de har Skånes mest vågade hemadresser - Sydsvenskan
-- Rysk media: Ny Wildberries-attack i Moskva – Senaste nytt om kriget i Ukraina - SVT Nyheter
-- Iran och Oman har nått en överenskommelse om sjövägar genom Hormuzsundet. - Vietnam.vn
-- Polisen: Barn rekryteras i samma omfattning - Sveriges Radio
-- Misstänkt våldtäkt vid festival - Västerbottens-Kuriren
+- Minst en död i Ukraina efter robotattacker - Dagens Nyheter
 - Mobilförbud i skolan: ”Hoppas på bättre resultat” - Göteborgs-Posten
+- Polisen: Barn rekryteras i samma omfattning - Sveriges Radio
+- Kräftskiva spårade ur – man vägrade lämna - Enköpingsposten
 - M vill införa femicid som ny brottsrubricering - Dagens Nyheter
-- Flera döda i översvämningar i USA - Västerbottens-Kuriren
-- Dödstalet i färjeolycka i Zimbabwe växer - Göteborgs-Posten
-- Mc-förare vårdas med allvarliga skador efter olycka - SVT Nyheter
 - Över 45 döda efter jordbävning i Indonesien - Corren
+- Tolv döda i bussolycka i Ungern - Hufvudstadsbladet – HBL
+- Ukraina: Träffade rysk rymdfabrik - Västerbottens-Kuriren
+- Argentina: pensionärer protesterar mot Mileis politik - Sveriges Radio
 - YLVA NILSSON: Musk-bråket kan ta en oväntad vändning - Expressen
-- Börsen backade hela veckan – här är vinnarna och förlorarna - Dagens industri
-- Ny studie visar: Avgörande draget för högre tillväxt - EFN
+- Börsen backade hela veckan – här är vinnarna och förlorarna - di.se
 - Tio nya miljonärer på Lotto – hela 20 vinster återstår - oskarshamns-nytt.se
-- Återupplev solförmörkelsen - Filipstads Tidning
-- Familjegården satsar stort: ”Sjuk kapacitet” - Sundsvalls Tidning
+- DEBATT: Vem har räknat på priset för att lova bort framtidens el? - Sundsvalls Tidning
+- Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - Aftonbladet
+- Efter två tuffa år – nu har arbete och välfärd klättrat upp ur det ekonomiska svarta hålet - Sydöstran
 
 ## World News
 
@@ -31,7 +31,7 @@ _Updated: 2026-08-16 09:08_
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
 - Vietnam kommer att vara värd för WAN-IFRA 2026 International AI Forum för första gången. - Vietnam.vn
-- Megaaffären lyfter American Express Global Business Travel - travelnews.se
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - fempers.se
@@ -42,11 +42,11 @@ _Updated: 2026-08-16 09:08_
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - bbc.com
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 
 ## Technology
 
@@ -106,12 +106,12 @@ _Updated: 2026-08-16 09:08_
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- firar 15 år av att skydda den globala hälsosektorn - health-isac.org
+- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
@@ -136,8 +136,8 @@ _Updated: 2026-08-16 09:08_
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - su.se
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
