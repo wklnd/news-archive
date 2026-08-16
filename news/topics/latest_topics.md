@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-16 13:46_
+_Updated: 2026-08-16 15:09_
 
 ## Top Stories
 
-- Ukraina och Ryssland utbyter attacker – tolv döda - Göteborgs-Posten
-- Tomas Ramberg: Thand Ringqvist kan få det svettigt efter valet - Dagens Nyheter
-- Flygplan har nödlandat på åker - Göteborgs-Posten
-- 12 döda i bussolycka i Ungern - SVT Nyheter
+- Dödsmisshandeln av Christian Zedig har fångats på film - Aftonbladet
 - 15 svenskar: Så mycket tjänar jag – och det här gör jag för mina pengar - Dagens Nyheter
-- DN Direkt – Ännu en attack mot Wildberries i Ryssland - Dagens Nyheter
+- C: Haverikommission varje gång ett barn dödas - Göteborgs-Posten
+- Professorn: ”Nationalism light” temat på årets valaffischer - Dagens Nyheter
+- Ukrainsk drönarattack mot Ryssland – sex döda - Västerbottens-Kuriren
+- Källor: Hamas-topp till Kairo för samtal om Gaza – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Tom båt hittad med motorn igång - Göteborgs-Posten
 - Forskningsfartyg på grund utanför Möja, fast mycket nära land - Dagens Nyheter
-- Tom båt med motorn igång hittad utanför Ljungskile – räddningsinsats avslutad - SVT Nyheter
 - Brand i lantbruksbyggnad utanför Kalmar - SVT Nyheter
-- Valurnor på Ikea – utlandssvenskar kan börja rösta - vk.se
+- KRÖNIKA: Det var verkligen jobbigt att inte få ha slavar längre - Sydsvenskan
 - Dramatiskt minskad export av spannmål från Ukraina - Sveriges Radio
-- DN Direkt – Över 50 döda efter jordbävning i Indonesien - Dagens Nyheter
+- Tolv döda i bussolycka i Ungern - Göteborgs-Posten
 - Ukraina: Träffade rysk rymdfabrik - Corren
-- C-ledaren: Vi vill bilda regering med Socialdemokraterna och Kristdemokraterna - Dagens Nyheter
+- DN Direkt – Över 50 döda efter jordbävning i Indonesien - Dagens Nyheter
 - Nu höjs biltullarna i Stockholm – så mycket dyrare blir det - Dagens PS
-- Insändare. Facktoppar bör avgå efter förlorad kamp mot Tesla - Dagens Nyheter
+- LEDARE: Elon Musk har inte krossat den svenska modellen - Borås Tidning
 - Lina Lund: Rätten till lika lön anklagas för att vara ett administrativt monster - Dagens Nyheter
-- Lätt nedgång på Stockholmsbörsen - Affärsvärlden
+- Börsen backade hela veckan – här är vinnarna och förlorarna - Dagens industri
 - Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - Aftonbladet
 - Genombrott: Forskare tar de hittills skarpaste bilderna av solen och löser ett tiotals år gammalt mysterium - Illustrerad Vetenskap
 
@@ -31,12 +31,12 @@ _Updated: 2026-08-16 13:46_
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
 - Vietnam kommer att vara värd för WAN-IFRA 2026 International AI Forum för första gången. - Vietnam.vn
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - news.cision.com
+- Megaaffären lyfter American Express Global Business Travel - travelnews.se
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - news.cision.com
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
@@ -53,7 +53,7 @@ _Updated: 2026-08-16 13:46_
 - Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - iffs.se
 - AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
@@ -101,12 +101,12 @@ _Updated: 2026-08-16 13:46_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
-- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - news.cision.com
-- Låt oss prata hälsa – Intensivvård – Segment 1 - apollohospitals.com
+- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- firar 15 år av att skydda den globala hälsosektorn - health-isac.org
+- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
@@ -145,20 +145,20 @@ _Updated: 2026-08-16 13:46_
 - Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - land.se
+- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - land.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Jord, kor och klimat - SLU
-- Visning av uppkomst efter direktsådd - land.se
+- Visning av uppkomst efter direktsådd - Land.se
 - KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - land.se
-- Hellre plöjningsfri odling än ekologisk - land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - land.se
-- De blev grönsaksodlare tack vare lokalt stöd - land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
