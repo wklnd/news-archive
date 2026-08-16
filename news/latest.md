@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-16 04:10_
+_Updated: 2026-08-16 05:31_
 
-- The Last Hurricane to Hit Hawaii Became a Movie Star - The New York Times
-- Trump says he may declare Strait of Hormuz a US territory ‘after we finish defeating Iran’ - foxnews.com
-- Iran War Commander Visits the USS Abraham Lincoln - WSJ
+- Hurricane Lala lashing Hawaii with torrential rains, damaging winds - USA Today
+- Iran responds after Trump teases Strait of Hormuz becoming US territory - Fox News
 - Rescuers search for survivors of powerful Indonesia earthquake - BBC
-- At least 6 dead in storms that swept through Indiana - ABC News - Breaking News, Latest News and Videos
-- Navy weighs major warship redesign to match Trump’s preferences - The Washington Post
+- Iran War Commander Visits the USS Abraham Lincoln - WSJ
+- Jason Arday, Cambridge professor accused of plagiarism, is found dead - NPR
+- Indiana authorities say at least 5 people have died as severe weather crosses the state - AP News
 - Double jeopardy could spell end of state case after Luigi Mangione’s guilty plea - The Guardian
 - Teen boy among 6 dead including suspect in Michigan shootings; girl survived - AP News
-- 5 people injured in shooting with multiple shooters at Virginia State University - CBS News
+- Police have arrested a 19-year-old in connection with Virginia State University shooting - WTOP
 - US Democrats finalise major shakeup to 2028 presidential primary calendar - Al Jazeera
-- Jason Arday, Cambridge professor accused of plagiarism, is found dead - NPR
-- Chart-topping game No 10: Full Confidence puts you in prime minister's shoes - BBC
-- How to beat an earthquake: The Colombian city where no one died - The Washington Post
-- Taliban mark five years in power as aid groups warn of crisis - Reuters
-- Berkshire adds $17 billion to Alphabet stake - cnbc.com
-- Sandisk stock surges as Wall Street cheers flash memory maker's bullish outlook - Yahoo Finance
+- Hopes fade in Colombia as more bodies recovered days after powerful quake - Reuters
+- Fired Ukrainian defense minister says Ukraine is in a "technological war" with Russia - Yahoo
+- Takaichi skips controversial shrine on 81st anniversary of Japan's World War II surrender - Politico
+- While Taliban leaders mark 5 years in power in Afghanistan, a UN official warns of a rights crisis - AP News
+- Berkshire Hathaway boosted stake in Alphabet, homebuilders in the second quarter - AP News
+- Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market - CNBC
 - Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies - Bloomberg.com
 - Massive egg recall in US south and south-west due to salmonella outbreak - The Guardian
 - Top Stories: iOS 27 Beta 5, iPhone 18 Pro Rumors, and More - MacRumors
-- Don’t overlook Elektron’s budget electronic music instruments - The Verge
+- Lamborghini's pricey Revuelto SV supercar debuts at Monterey with scarcity as its strategy, CEO says - Yahoo Finance
