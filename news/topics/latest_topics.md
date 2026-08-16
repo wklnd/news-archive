@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-16 16:49_
+_Updated: 2026-08-16 17:47_
 
 ## Top Stories
 
-- Ukrainsk drönarattack mot Ryssland – sex döda - Västerbottens-Kuriren
 - Professorn: ”Nationalism light” temat på årets valaffischer - Dagens Nyheter
-- Trump vill att hangarfartyg ska se ut som förr - Göteborgs-Posten
-- Dödsmisshandeln av Christian Zedig har fångats på film - Aftonbladet
-- Pilotens ord efter nödlandningen - Göteborgs-Posten
+- Uppgifter: Pågående insats på Ljusterö - aftonbladet.se
+- Ukrainsk drönarattack mot Ryssland – sex döda - Västerbottens-Kuriren
+- På en kräftskiva i Bålsta fick gästerna en objuden gäst som vägrade gå - Sveriges Radio
+- Trumps nydesign på fartyg kan kosta miljarder dollar - Dagens Nyheter
 - C: Haverikommission varje gång ett barn dödas - Göteborgs-Posten
-- Poliser i insats med dragna vapen på Ljusterö - Omni – Alla nyheter. Alla perspektiv.
-- Tom båt med motorn igång hittad utanför Ljungskile – räddningsinsats avslutad - svt.se
+- Brand i lantbruksbyggnad utanför Kalmar – stor spridningsrisk - SVT Nyheter
 - Valurnor på Ikea – utlandssvenskar kan börja rösta - Västerbottens-Kuriren
 - KRÖNIKA: Det var verkligen jobbigt att inte få ha slavar längre - Sydsvenskan
+- Dödsmisshandeln av Christian Zedig har fångats på film - aftonbladet.se
 - DN Direkt – Över 50 döda efter jordbävning i Indonesien - Dagens Nyheter
 - Påven manar till slut på våldet på Västbanken - Göteborgs-Posten
+- Bränderna i Europa: Två döda i Grekland - corren.se
 - Tolv döda i bussolycka i Ungern - Hufvudstadsbladet – HBL
-- Dramatiskt minskad export av spannmål från Ukraina - Sveriges Radio
-- Nu höjs biltullarna i Stockholm – så mycket dyrare blir det - Dagens PS
+- Paradoxen: Kristerssons lån kan hjälpa kronan - Svenska Dagbladet
 - LEDARE: Elon Musk har inte krossat den svenska modellen - Borås Tidning
-- Lättare för unga att köpa bostad – men hjälp hemifrån avgör fortfarande - Dagens Nyheter
 - Börsen backade hela veckan – här är vinnarna och förlorarna - Dagens industri
-- Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - Aftonbladet
+- Lättare för unga att köpa bostad – men hjälp hemifrån avgör fortfarande - Dagens Nyheter
+- Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - aftonbladet.se
 - Genombrott: Forskare tar de hittills skarpaste bilderna av solen och löser ett tiotals år gammalt mysterium - Illustrerad Vetenskap
 
 ## World News
@@ -33,7 +33,7 @@ _Updated: 2026-08-16 16:49_
 - Vietnam kommer att vara värd för WAN-IFRA 2026 International AI Forum för första gången. - Vietnam.vn
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
@@ -99,43 +99,43 @@ _Updated: 2026-08-16 16:49_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - lakartidningen.se
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - lakartidningen.se
-- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- firar 15 år av att skydda den globala hälsosektorn - health-isac.org
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - lakartidningen.se
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - health-isac.org
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Kina drar om USA – bäst på forskning - svt.se
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Olika slutsatser från samma data - lakartidningen.se
+- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - lakartidningen.se
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
-- I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
-- Registrering av forskning baserad på nationella hälsoregister - lakartidningen.se
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
