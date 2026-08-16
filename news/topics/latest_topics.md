@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-16 22:48_
+_Updated: 2026-08-16 23:45_
 
 ## Top Stories
 
+- Källor: Ukraina använder brittiska drönare i långdistansattacker - Dagens Nyheter
 - Tre svårt skadade i trafikolycka på E20 - Göteborgs-Posten
-- Ukrainsk drönarattack mot Ryssland – sex döda - Västerbottens-Kuriren
-- Regeringens utredare: ”Gör om Sis från grunden" - Västerbottens-Kuriren
-- Uppgifter: Pågående insats på Ljusterö - Aftonbladet
-- Bortglömd svensk styr världens penningpolitik - Svenska Dagbladet
-- SD trappar upp retoriken: ”Sluta vara muslimer” - Dagens Nyheter
+- Falska valaffischer sattes upp – utreds enligt uppgift – Senaste nytt om valet 2026 - SVT Nyheter
+- Pensionerade sig vid 40 – nu jobbar de igen - Svenska Dagbladet
+- Svenska vattenbombare bekämpar bränder i Belgien - Göteborgs-Posten
+- Efter Bondi-dådet: Kvarts miljon vapen ska lösas in - Göteborgs-Posten
 - DN Direkt – Djurgårdsfärja körde in i kaj – tre skadade - Dagens Nyheter
+- Stor insats i Stockholms skärgård – en gripen - Svenska Dagbladet
 - Kristersson om opinionen: ”Då är man ju en loser” - Dagens Nyheter
-- Anna Bratt: Därför är det så svårt att få tag på östrogen - Dagens Nyheter
-- Oro när affischerna sattes upp: "Väldigt otrygg" - UNT
-- Efter Bondi-dådet: Kvarts miljon vapen ska lösas in - Svenska Dagbladet
-- DN Direkt – Över 50 döda efter jordbävning i Indonesien - Dagens Nyheter
-- Demokratisk socialist: Detta är sista alternativet innan vi tar till våld - Dagens Nyheter
+- SD-ledamot: "Sluta vara muslimer" - Corren
+- DN Direkt – Tonåringar döda i bilolycka i Irland - Dagens Nyheter
 - Bränderna i Europa: Två döda i Grekland - Göteborgs-Posten
+- Demokratisk socialist: Detta är sista alternativet innan vi tar till våld - Dagens Nyheter
+- Kushner mötte Hamasledare i Kairo – Senaste nytt om kriget i Gaza - SVT Nyheter
 - LEDARE: Elon Musk har inte krossat den svenska modellen - Borås Tidning
 - Lätt nedgång på Stockholmsbörsen - Affärsvärlden
 - Storbankerna ser fyndläge i Europa - EFN
 - DEBATT: Vem har räknat på priset för att lova bort framtidens el? - Sundsvalls Tidning
-- Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - Aftonbladet
-- Genombrott: Forskare tar de hittills skarpaste bilderna av solen och löser ett tiotals år gammalt mysterium - illvet.se
+- Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - aftonbladet.se
+- Genombrott: Forskare tar de hittills skarpaste bilderna av solen och löser ett tiotals år gammalt mysterium - Illustrerad Vetenskap
 
 ## World News
 
@@ -45,27 +45,27 @@ _Updated: 2026-08-16 22:48_
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - bbc.com
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
 
 ## Technology
 
 - Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - fuf.se
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -76,7 +76,7 @@ _Updated: 2026-08-16 22:48_
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - tv4.se
@@ -146,7 +146,7 @@ _Updated: 2026-08-16 22:48_
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Brittiska bönder i massiv protest mot arvsskatten - ja.se
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
