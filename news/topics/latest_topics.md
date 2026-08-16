@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-16 07:54_
+_Updated: 2026-08-16 09:08_
 
 ## Top Stories
 
-- Misstänkt våldtäkt vid festival - Västerbottens-Kuriren
 - C-ledaren: Vi vill bilda regering med Socialdemokraterna och Kristdemokraterna - Dagens Nyheter
-- Polisen: Barn rekryteras i samma omfattning - Sveriges Radio
+- Jeanettes 11-åring isolerar sig hemma: ”Kommer aldrig gå tillbaka” - Aftonbladet
 - Den bruna stugan – spåren efter flickmordet ledde till stor pedofilring - Göteborgs-Posten
-- DN Direkt – Drönare nedskjuten i Rumänien - Dagens Nyheter
-- Minst en död i Ukraina efter robotattacker - Dagens Nyheter
-- Mobilförbud i skolan: ”Hoppas på bättre resultat” - Västerbottens-Kuriren
-- Klimataktivister spred solrosfrön – kan få miljonfakturor - Dagens Nyheter
-- M vill införa femicid som ny brottsrubricering - Göteborgs-Posten
-- ROKS dömer ut förslag: ”Falsk trygghet” – Senaste nytt om valet 2026 - SVT Nyheter
-- DN Direkt – Flera döda i översvämningar i USA - Dagens Nyheter
-- Argentina: pensionärer protesterar mot Mileis politik - Sveriges Radio
-- Över 45 döda efter jordbävning i Indonesien - Hufvudstadsbladet – HBL
-- Total eufori – sätter nytt världsrekord - Västerbottens-Kuriren
+- Porrarp, Rumperöd, Sexmansvägen – de har Skånes mest vågade hemadresser - Sydsvenskan
+- Rysk media: Ny Wildberries-attack i Moskva – Senaste nytt om kriget i Ukraina - SVT Nyheter
+- Iran och Oman har nått en överenskommelse om sjövägar genom Hormuzsundet. - Vietnam.vn
+- Polisen: Barn rekryteras i samma omfattning - Sveriges Radio
+- Misstänkt våldtäkt vid festival - Västerbottens-Kuriren
+- Mobilförbud i skolan: ”Hoppas på bättre resultat” - Göteborgs-Posten
+- M vill införa femicid som ny brottsrubricering - Dagens Nyheter
+- Flera döda i översvämningar i USA - Västerbottens-Kuriren
+- Dödstalet i färjeolycka i Zimbabwe växer - Göteborgs-Posten
+- Mc-förare vårdas med allvarliga skador efter olycka - SVT Nyheter
+- Över 45 döda efter jordbävning i Indonesien - Corren
 - YLVA NILSSON: Musk-bråket kan ta en oväntad vändning - Expressen
 - Börsen backade hela veckan – här är vinnarna och förlorarna - Dagens industri
+- Ny studie visar: Avgörande draget för högre tillväxt - EFN
 - Tio nya miljonärer på Lotto – hela 20 vinster återstår - oskarshamns-nytt.se
-- Kommunstyrelserna i Sundsvall och Timrå föreslår att affären om Torsboda Industrial Park går vidare - Harnosand.se
-- Här kan man uppleva nästa totala solförmörkelse - Örebronyheter
-- Stora nyheter i senaste betaversionen av Android 17, inklusive applås - Swedroid
+- Återupplev solförmörkelsen - Filipstads Tidning
+- Familjegården satsar stort: ”Sjuk kapacitet” - Sundsvalls Tidning
 
 ## World News
 
@@ -33,8 +33,8 @@ _Updated: 2026-08-16 07:54_
 - Vietnam kommer att vara värd för WAN-IFRA 2026 International AI Forum för första gången. - Vietnam.vn
 - Megaaffären lyfter American Express Global Business Travel - travelnews.se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- GMMP: Global backlash syns i världens medier - fempers.se
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -45,7 +45,7 @@ _Updated: 2026-08-16 07:54_
 - Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - bbc.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 
 ## Technology
@@ -55,28 +55,28 @@ _Updated: 2026-08-16 07:54_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- 7 sätt att använda AI i den fysiska världen - computersweden.se
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
-- Nu blir datorerna dyrare – efter prishöjning på minnen - computersweden.se
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
-- Albanien utser AI-bot till minister - computersweden.se
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Intelligence Connects All, AI Empowers the Future: 2025 China International Consumer Electronics Exposition Opens in Qingdao (PR Newswire) - Aktiellt
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - computersweden.se
+- Albanien utser AI-bot till minister - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
@@ -102,16 +102,16 @@ _Updated: 2026-08-16 07:54_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- firar 15 år av att skydda den globala hälsosektorn - health-isac.org
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
@@ -136,8 +136,8 @@ _Updated: 2026-08-16 07:54_
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - su.se
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
@@ -147,18 +147,18 @@ _Updated: 2026-08-16 07:54_
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Lantbrukslogik – nu och i framtiden - SLU
-- Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Visning av uppkomst efter direktsådd - Land.se
+- KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - De blev grönsaksodlare tack vare lokalt stöd - Land.se
