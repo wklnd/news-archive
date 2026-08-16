@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-16 21:00_
+_Updated: 2026-08-16 21:52_
 
-- Lala is again a tropical storm, sending drenching rain and winds across Hawaii - NPR
 - Top US commander visits aircraft carrier, Gaza talks in Egypt and other Mideast news - AP News
-- Blanche says he's not Trump's personal servant - Politico
-- SC to hold first 2028 Democratic primary. What it means for candidates - USA Today
 - Live flood updates: President Trump approves emergency declaration - IndyStar
-- Angry at the Supreme Court, liberals push a slew of plans for overhauling it - The Washington Post
+- Lala is again a tropical storm, sending drenching rain and winds across Hawaii - NPR
+- Blanche says he's not Trump's personal servant - Politico
+- Supreme Court Fight Erupts Over Plot to End MAGA’s Grip - The Daily Beast
+- BBC visits smouldering Kyiv market after Russian strikes - BBC
+- Transcript: Rep. Don Bacon on "Face the Nation with Margaret Brennan," Aug. 16, 2026 - CBS News
 - AIPAC Targets Progressive Democrat in Race to Replace Swalwell - The New York Times
 - Years of Trump Support Came Undone in 15 Minutes in an Airport. - The New York Times
 - Five shot in Lexington, Kentucky, park, leaving one dead - NBC News
-- Cassidy attacks ‘crazy, stupid’ Trump comments on vaccines as he denies regret for RFK Jr. vote - The Independent
 - Calls for public inquiry into Jason Arday 'witch hunt' - BBC
-- Ukraine presses drone attacks on Moscow and Russian logistics - Financial Times
-- Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party - Reuters
+- Ukrainian drone attack on Russia kills at least six, says Moscow - The Guardian
 - What really happened in Ceuta? Why we may never find out - NPR
+- Rescuers in Indonesia recover 6 more bodies in earthquake aftermath, raising death toll to 53 - AP News
 - At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl - Bloomberg.com
 - Stock-Market Calm Masks Fast Shifting Investor Sentiment - Bloomberg.com
-- Micron: I Think We Could Get An Upside Breakout (NASDAQ:MU) - Seeking Alpha
 - Maker of ice cream sold at grocery stores nationwide files for bankruptcy as it appeals $23.8M judgment - Fox Business
-- Does Apple Still Support iTunes? - bgr.com
-- Former Square Enix Exec Says Disc-Free Games Will Lower Prices - Kotaku
+- How to Protect Your Home While You’re on Vacation - The New York Times
+- Weekly poll: which Google Pixel 11 model would you buy? - GSMArena.com news - GSMArena.com
+- Will PlayStation games actually get cheaper once physical discs disappear? - Eurogamer
