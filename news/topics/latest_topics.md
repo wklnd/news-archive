@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-16 10:56_
+_Updated: 2026-08-16 11:51_
 
 ## Top Stories
 
-- Båt med motorn igång hittad tom utanför Ljungskile – helikopter och sjöräddning på plats - SVT Nyheter
-- C-ledaren: Vi vill bilda regering med Socialdemokraterna och Kristdemokraterna - Dagens Nyheter
 - Tomas Ramberg: Thand Ringqvist kan få det svettigt efter valet - Dagens Nyheter
-- Flygplan har nödlandat på åker - Göteborgs-Posten
-- Jeanettes 11-åring isolerar sig hemma: ”Kommer aldrig gå tillbaka” - Aftonbladet
-- Den bruna stugan – spåren efter flickmordet ledde till stor pedofilring - Göteborgs-Posten
-- Polisen: Barn rekryteras i samma omfattning - Sveriges Radio
-- Mobilförbud i skolan: ”Hoppas på bättre resultat” - Göteborgs-Posten
-- Kräftskiva spårade ur – man vägrade lämna - Enköpingsposten
-- M vill införa femicid som ny brottsrubricering - Västerbottens-Kuriren
 - Tolv döda i bussolycka i Ungern - Göteborgs-Posten
+- Flygplan har nödlandat på åker - Göteborgs-Posten
+- C-ledaren: Vi vill bilda regering med Socialdemokraterna och Kristdemokraterna - Dagens Nyheter
+- Drunkningslarm i Göteborg – sökinsats vid Stenpiren - Sveriges Radio
+- Flera attacker i Ryssland – lagerlokal i Mskva i lågor - Expressen
+- Båt med motorn igång hittad tom utanför Ljungskile – helikopter och sjöräddning på plats - SVT Nyheter
+- 170 unga barn rekryterade till våldsdåd i år - Omni – Alla nyheter. Alla perspektiv.
+- Mobilförbud i skolan: ”Hoppas på bättre resultat” - Göteborgs-Posten
+- Branden i Arboga: ”Oerhört snabbt förlopp” - Västerbottens-Kuriren
 - Dramatiskt minskad export av spannmål från Ukraina - Sveriges Radio
-- Robotangrepp mot Kiev – nattliga explosioner - Västerbottens-Kuriren
+- Ukrainsk drönarattack mot Ryssland – sex döda - Västerbottens-Kuriren
+- Över 45 döda efter jordbävning i Indonesien - Corren
 - Ukraina: Träffade rysk rymdfabrik - Corren
-- YLVA NILSSON: Musk-bråket kan ta en oväntad vändning - Expressen
+- Greentech-vinterns svenska offer – ”politisk ignorans” - Dagens PS
+- Insändare. Facktoppar bör avgå efter förlorad kamp mot Tesla - Dagens Nyheter
 - Lätt nedgång på Stockholmsbörsen - Affärsvärlden
 - DEBATT: Vem har räknat på priset för att lova bort framtidens el? - Sundsvalls Tidning
-- Tio nya miljonärer på Lotto – hela 20 vinster återstår - oskarshamns-nytt.se
-- Efter två tuffa år – nu har arbete och välfärd klättrat upp ur det ekonomiska svarta hålet - Sydöstran
-- Fick inte låna testbil av Audi – köpte han en egen RS5 Avant - Carup.se
+- Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - Aftonbladet
+- 60 år av stolthet: Nya retrotröjan är klar – beställ den redan idag! - Hockeyettan.se
 
 ## World News
 
@@ -31,12 +31,12 @@ _Updated: 2026-08-16 10:56_
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
 - Vietnam kommer att vara värd för WAN-IFRA 2026 International AI Forum för första gången. - Vietnam.vn
-- Megaaffären lyfter American Express Global Business Travel - travelnews.se
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - news.cision.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - news.cision.com
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -45,7 +45,7 @@ _Updated: 2026-08-16 10:56_
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 
 ## Technology
@@ -79,7 +79,7 @@ _Updated: 2026-08-16 10:56_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - tv4.se
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
 - Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -101,8 +101,8 @@ _Updated: 2026-08-16 10:56_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
-- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - news.cision.com
+- Låt oss prata hälsa – Intensivvård – Segment 1 - apollohospitals.com
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
@@ -122,21 +122,21 @@ _Updated: 2026-08-16 10:56_
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
+- Olika slutsatser från samma data - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
@@ -145,20 +145,20 @@ _Updated: 2026-08-16 10:56_
 - Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - land.se
+- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - land.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Jord, kor och klimat - SLU
-- Visning av uppkomst efter direktsådd - land.se
+- Visning av uppkomst efter direktsådd - Land.se
 - KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - land.se
-- Hellre plöjningsfri odling än ekologisk - land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - land.se
-- De blev grönsaksodlare tack vare lokalt stöd - land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
