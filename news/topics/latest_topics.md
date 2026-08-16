@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-16 04:06_
+_Updated: 2026-08-16 05:26_
 
 ## Top Stories
 
-- Man död – hittades vid Uddevalla sjukhus förra helgen - Sveriges Radio
+- Förslag: Bevaka politikers sociala medier för hot - Göteborgs-Posten
+- SMHI varnar för skyfall - Västerbottens-Kuriren
 - ROKS dömer ut förslag: ”Falsk trygghet” – Senaste nytt om valet 2026 - SVT Nyheter
-- Första medborgarskapsprovet: ”Pluggade mycket" - Göteborgs-Posten
-- Hundratals evakuerade i branddrabbade Belgien - Västerbottens-Kuriren
-- DN Direkt – SMHI varnar för skyfall - Dagens Nyheter
-- DN Direkt – Dödssiffran stiger efter jordbävningen i Colombia - Dagens Nyheter
-- Stort engagemang för de drabbade efter branden i Arboga - SVT Nyheter
-- DN Direkt – Badavrådan på alla badplatser i Malmö - Dagens Nyheter
-- Pojke hittad i vatten – till sjukhus med helikopter - Göteborgs-Posten
+- DN Direkt – Nu skrivs det första medborgarskapsprovet - Dagens Nyheter
+- Robotangrepp mot Kiev – nattliga explosioner - Västerbottens-Kuriren
+- Över 45 döda efter jordbävning i Indonesien - Göteborgs-Posten
+- Algblomning i Malmö – svart flagg hissad vid alla havsbad - SVT Nyheter
+- Branden i Arboga: ”Oerhört snabbt förlopp” - Göteborgs-Posten
+- En historiskt mörk dag för barns rättigheter - - Fagersta Nyheter
 - Talibanerna firar fem år vid makten – utan kvinnor - Göteborgs-Posten
-- Jinny Lu är världens fulaste hund - Västerbottens-Kuriren
-- Flera döda i översvämningar i USA - Göteborgs-Posten
+- Flera döda i översvämningar i USA - Västerbottens-Kuriren
+- DN Direkt – Största skogsbranden någonsin rasar i Belgien - Dagens Nyheter
 - Vita huset: Trump skämtade om Hormuzsundet - Corren
-- Kritiserad professor hittad död i Storbritannien - SVT Nyheter
+- DN Direkt – Dödssiffran stiger efter jordbävningen i Colombia - Dagens Nyheter
 - Börsen backade hela veckan – här är vinnarna och förlorarna - Dagens industri
 - Tankesmedja: Strejkrätten har brister som bör ordnas - Omni – Alla nyheter. Alla perspektiv.
 - Kommunstyrelserna i Sundsvall och Timrå föreslår att affären om Torsboda Industrial Park går vidare - Harnosand.se
@@ -58,7 +58,7 @@ _Updated: 2026-08-16 04:06_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Leveraging AI in Swedish Development Cooperation - fuf.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -98,7 +98,7 @@ _Updated: 2026-08-16 04:06_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
@@ -112,14 +112,14 @@ _Updated: 2026-08-16 04:06_
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- NESS activities for the public – Department of Earth Sciences - uu.se
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
@@ -127,18 +127,18 @@ _Updated: 2026-08-16 04:06_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Sherry Nakhaeizadeh - Uppsala universitet
+- Sherry Nakhaeizadeh - uu.se
 - Olika slutsatser från samma data - Läkartidningen
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- 5 myter om öppen vetenskap - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
 
@@ -154,11 +154,11 @@ _Updated: 2026-08-16 04:06_
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Visning av uppkomst efter direktsådd - Land.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Jord, kor och klimat - SLU
+- Lantbrukslogik – nu och i framtiden - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
-- Kan agroekologi mätta världen? - SLU
+- Jord, kor och klimat - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - De blev grönsaksodlare tack vare lokalt stöd - Land.se
