@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-16 17:47_
+_Updated: 2026-08-16 18:51_
 
 ## Top Stories
 
+- JUST NU: Färjeolycka – tre skadade - Expressen
 - Professorn: ”Nationalism light” temat på årets valaffischer - Dagens Nyheter
-- Uppgifter: Pågående insats på Ljusterö - aftonbladet.se
-- Ukrainsk drönarattack mot Ryssland – sex döda - Västerbottens-Kuriren
+- Uppgifter: Pågående insats på Ljusterö - Aftonbladet
 - På en kräftskiva i Bålsta fick gästerna en objuden gäst som vägrade gå - Sveriges Radio
 - Trumps nydesign på fartyg kan kosta miljarder dollar - Dagens Nyheter
 - C: Haverikommission varje gång ett barn dödas - Göteborgs-Posten
-- Brand i lantbruksbyggnad utanför Kalmar – stor spridningsrisk - SVT Nyheter
 - Valurnor på Ikea – utlandssvenskar kan börja rösta - Västerbottens-Kuriren
 - KRÖNIKA: Det var verkligen jobbigt att inte få ha slavar längre - Sydsvenskan
-- Dödsmisshandeln av Christian Zedig har fångats på film - aftonbladet.se
+- Kristersson om opinionen: ”Då är man ju en loser” - Dagens Nyheter
+- Brand i lantbruksbyggnad utanför Kalmar under kontroll - SVT Nyheter
 - DN Direkt – Över 50 döda efter jordbävning i Indonesien - Dagens Nyheter
 - Påven manar till slut på våldet på Västbanken - Göteborgs-Posten
-- Bränderna i Europa: Två döda i Grekland - corren.se
+- Ukraina och Ryssland utbyter attacker – tolv döda - Västerbottens-Kuriren
 - Tolv döda i bussolycka i Ungern - Hufvudstadsbladet – HBL
 - Paradoxen: Kristerssons lån kan hjälpa kronan - Svenska Dagbladet
 - LEDARE: Elon Musk har inte krossat den svenska modellen - Borås Tidning
 - Börsen backade hela veckan – här är vinnarna och förlorarna - Dagens industri
-- Lättare för unga att köpa bostad – men hjälp hemifrån avgör fortfarande - Dagens Nyheter
-- Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - aftonbladet.se
+- Storbankerna ser fyndläge i Europa - EFN
+- Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - Aftonbladet
 - Genombrott: Forskare tar de hittills skarpaste bilderna av solen och löser ett tiotals år gammalt mysterium - Illustrerad Vetenskap
 
 ## World News
@@ -31,22 +31,22 @@ _Updated: 2026-08-16 17:47_
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
 - Vietnam kommer att vara värd för WAN-IFRA 2026 International AI Forum för första gången. - Vietnam.vn
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Megaaffären lyfter American Express Global Business Travel - travelnews.se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- GMMP: Global backlash syns i världens medier - fempers.se
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - media.smart.com
-- Två fina priser till NTM i årets INMA Global Awards - ntm.se
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 
 ## Technology
 
@@ -98,44 +98,44 @@ _Updated: 2026-08-16 17:47_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - lakartidningen.se
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- firar 15 år av att skydda den globala hälsosektorn - health-isac.org
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - lakartidningen.se
+- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - health-isac.org
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - lakartidningen.se
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- NESS activities for the public – Department of Earth Sciences - uu.se
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Olika slutsatser från samma data - Läkartidningen
+- Olika slutsatser från samma data - lakartidningen.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Sherry Nakhaeizadeh - uu.se
+- 5 myter om öppen vetenskap - lakartidningen.se
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
+- Registrering av forskning baserad på nationella hälsoregister - lakartidningen.se
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
@@ -147,7 +147,7 @@ _Updated: 2026-08-16 17:47_
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Här är världens största jordbruk - atl.nu
+- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
