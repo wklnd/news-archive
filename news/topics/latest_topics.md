@@ -1,45 +1,45 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-17 23:50_
+_Updated: 2026-08-18 00:51_
 
 ## Top Stories
 
-- DN Direkt – Busch känga i partiledardebatten: ”Vi tittar på” - Dagens Nyheter
 - V-ledarens attack i partiledardebatten: ”Deras politik är förlegad” - Dagens Nyheter
-- Kristersson om Jomshof: Saboterar valrörelsen - Göteborgs-Posten
-- Ordbråk direkt – svarar på kritiken - Expressen
-- Kung Harald av Norge är inlagd på sjukhus - SVT Nyheter
-- Kristersson pressas: Ny mätning visar stort gap - SVT Nyheter
+- Ebba Busch (KD): ”Får spader på SD” - Göteborgs-Posten
+- Person skjuten i Södertälje – misstänkt gripen - Västerbottens-Kuriren
+- Henrik Torehammar: Mohamsson klarar inte att leka Busch - Svenska Dagbladet
+- ”Helveteslarven” i Sverige – fynd i Skåne - Sveriges Radio
+- Kushner: Gaza-planen är win-win för Israel - Göteborgs-Posten
 - Se dramat på bussen – passagerarna tar över när chauffören svimmar - SVT Nyheter
-- Person skjuten i Södertälje – misstänkt gripen - vk.se
 - Så blir ditt radhus brandsäkert: ”Gå ihop i grannskapet” - Dagens Nyheter
-- DN Direkt – Man häktad för mord i Söderhamn - Dagens Nyheter
-- Källor: Kushner och Netanyahu eniga om Gaza - Göteborgs-Posten
+- Stor sorg efter olyckan: "Man kan inte ens börja försöka förstå" - UNT
+- Tre döda i trafikolycka på E20 - Göteborgs-Posten
+- Kung Harald inlagd på sjukhus – har blodbrist - Dagens Nyheter
 - Analys: Trump vill minska militärövningen mot Nordkorea – riktar kritik mot Sydkorea - SVT Nyheter
-- Varnade för att Ryssland förlorar – fick sparken - vk.se
-- Över 2 300 döda i ebola – vaccin utvecklas - SVT Nyheter
-- Ferraris första elbil såld – för sanslösa 380 miljoner - m3.se
+- Varnade för att Ryssland förlorar – fick sparken - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Trump: Vill inte förlänga vapenvilan med Iran - Dagens Nyheter
+- Silverpriset sticker uppåt – industrin dammsuger marknaden - Dagens PS
+- Strid om kritiken mot Googleaffären som inte politikerna i Timrå fick se - SVT Nyheter
 - Oron tilltar på Wall Street – tekniksektorn mot strömmen - Dagens industri
-- Sundsvall och Timrå säger ja till att sälja Torsboda - SVT Nyheter
-- Stockholmsbörsen handlades ned under tisdagen - Placera.se
-- Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - Aftonbladet
+- Börsen ner för nionde dagen i rad - Göteborgs-Posten
+- Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - aftonbladet.se
 - Barn lurades på falska Pokémonkort: "Jätteolyckligt" - Nya Wermlands-Tidningen
 
 ## World News
 
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 18:45 - tv.nu
-- Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
+- Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - vietnam.vn
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
+- Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - vietnam.vn
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
@@ -50,26 +50,26 @@ _Updated: 2026-08-17 23:50_
 
 ## Technology
 
-- Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
+- Behärska teknologi, upprätthålla journalistikens värderingar. - vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- 7 sätt att använda AI i den fysiska världen - computersweden.se
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- I år ska AI visa affärsnytta. Igen. - computersweden.se
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
-- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - computersweden.se
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Hyperlink InfoSystem Delivers Tailored AI Agent Solutions to Help Businesses Save Up to 90% in Operational Costs with Intelligent Automation (PR Newswire) - Aktiellt
-- Nu blir datorerna dyrare – efter prishöjning på minnen - computersweden.se
-- Albanien utser AI-bot till minister - computersweden.se
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
@@ -85,10 +85,10 @@ _Updated: 2026-08-17 23:50_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
@@ -97,7 +97,7 @@ _Updated: 2026-08-17 23:50_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
+- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
@@ -107,7 +107,7 @@ _Updated: 2026-08-17 23:50_
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - vietnam.vn
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
@@ -115,17 +115,17 @@ _Updated: 2026-08-17 23:50_
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
-- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
+- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - vietnam.vn
 
 ## Science
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - vietnam.vn
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
+- Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - vietnam.vn
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
@@ -134,11 +134,11 @@ _Updated: 2026-08-17 23:50_
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
 
@@ -149,7 +149,7 @@ _Updated: 2026-08-17 23:50_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
