@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-17 20:01_
+_Updated: 2026-08-17 21:14_
 
-- Hayden Panettiere, actor known for "Heroes" and "Remember the Titans," dies at 36 - CBS News
-- Live updates: Trump threatens to bomb US ally Oman as Iran agreement expires - CNN
-- Trump’s Overture to North Korea Strains Alliance With the South - The New York Times
+- Live Updates: Trump threatens to bomb Oman with Iran war stuck in stalemate as 60-day negotiation period ends - CBS News
+- South Korea hopes for talks between US and North Korea after Trump downsizes military drills - AP News
 - Kushner and Netanyahu agree U.S. general should oversee Hamas ‘demilitarization,’ source says - NBC News
+- Prosecution rests in Lindsay Clancy’s triple-murder trial - CNN
+- USS Washington to relieve USS Lincoln after concerns about the crew's mental health - NPR
 - Trump fails to undo E. Jean Carroll verdict at Supreme Court - Axios
-- Power out for 178k HECO customers; company says ‘prepare for extended outages’ - Honolulu Star-Advertiser
-- Live updates: Flooding ongoing in parts of Indiana as others turn to cleanup - indystar.com
-- Jon Ossoff calls Trump’s handling of Iran war ‘uniquely despicable’ in excoriating speech - The Guardian
-- Watch Live: Prosecution rests in Lindsay Clancy murder trial, defense set to call witnesses - CBS News
-- USS Lincoln crisis: How it compares to past aircraft carrier deployments - Al Jazeera
-- US-Iran ceasefire set to expire as Trump admin meets with Israel's Netanyahu - foxnews.com
+- White River cresting around Martinsville | Monday A.M. River Update Across Indiana - WTHR
+- Las Vegas gang leader masterminded Tupac's drive-by killing, prosecutor tells jury - Reuters
+- Ossoff targets a close Trump aide, launching a personal feud with the White House as midterms loom - CNN
+- Teen lifeguard who saved boy at Seabright Beach to meet President Trump at White House - KSBW
+- Palestinian American returns to West Bank to defend his home under siege by Israeli settlers - AP News
 - How Ukraine’s Satellites Help Drive Its War Drones - The New York Times
-- Ukraine takes aim at Russia’s economy and morale by attacking online retailer - AP News
+- Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict - cnbc.com
 - Senior Israeli official calls for killing of "30 to 40" people in Gaza every night: "They're not even people" - CBS News
-- Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center - Reuters
-- New Mexico’s attorney general pushes new social media safety laws after $900m court victory over Meta - The Guardian
-- S&P 500 is little changed as traders weigh AI optimism vs. Iran tensions: Live updates - CNBC
+- Meta heads to trial over alleged social media addiction, risks to children - Fox Business
 - Ice cream brand sold at Target, Kroger and Walmart files for bankruptcy after judge’s ruling - AL.com
+- US Bond Selloff Drives 30-Year Yields to Highest Since 2007 - Bloomberg.com
+- Stock Market Today: Dow Slips; AI Stocks, Iran Tensions in Focus — Live Updates - WSJ
+- YouTube is changing how it counts views to give the numbers a boost - The Verge
 - Sonos just launched Live Activities on iPhone - 9to5Mac
-- Apple retains clear smartwatch market lead, but a new contender is rising in a key wearable segment - PhoneArena
