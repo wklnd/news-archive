@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-17 23:57_
+_Updated: 2026-08-18 00:58_
 
 - Live updates: Trump threatens to bomb US ally Oman as Iran agreement expires - CNN
-- US-Iran Memorandum of Understanding expires: How and why it fell apart - Al Jazeera
-- South Korea hopes for talks between US and North Korea after Trump downsizes military drills - AP News
 - USS Washington to relieve USS Lincoln after concerns about the crew's mental health - NPR
+- ‘The slowest negotiators ever’: How lagging South Korean investment pledges are hurting its U.S. security relationship - Politico
+- White House fires back at ‘theater kid’ Ossoff - The Hill
 - Luigi Mangione’s state murder trial effectively postponed - CNN
-- Jon Ossoff calls Trump’s handling of Iran war ‘uniquely despicable’ in excoriating speech - theguardian.com
+- Family says Massachusetts mother who killed children struggled with mental illness - Reuters
 - Trump administration briefly pauses contentious border project in Texas' Big Bend National Park - AP News
-- Tupac Shakur Murder Trial Begins With Revenge Motive and Defendant’s Own Words - The New York Times
-- House Democrat investigated over alleged 'inappropriate sexual contact' with staffer - Fox News
-- What We Know About Damages From Hurricane Lala in Hawaii - The New York Times
+- House Ethics investigating Rep. Jimmy Gomez over sexual misconduct allegations - Axios
+- Trump dismisses USS Lincoln criticism and snaps at CNN reporter to ‘be quiet’ - theguardian.com
+- Teen lifeguard who saved boy at Seabright Beach meets President Trump at White House - ksbw.com
 - Palestinian American returns to West Bank to defend his home under siege by Israeli settlers - AP News
 - Kushner urges Netanyahu to test Hamas disarmament in Gaza - Axios
 - How Ukraine’s Satellites Help Drive Its War Drones - The New York Times
-- Ukraine has hit seven of Russian online retailer Wildberries' 10 biggest warehouses, military says - Euronews.com
-- Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center - Reuters
-- Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay - CNBC
+- 60 days after signing Iran deal, Trump stuck in quagmire as war drags on - The Washington Post
 - Meta heads to trial over alleged social media addiction, risks to children - Fox Business
-- Anthropic Revenue Run Rate Surpasses $65 Billion Ahead of IPO - Bloomberg.com
-- Google Pixel 11 Pro XL benchmarks leak ahead of release day, here's how it compares to last year's model - PC Guide
-- Sonos finally added Live Activities controls for your iPhone lockscreen - The Verge
+- Paramount wants a $1.9 billion bond from state AGs fighting the Warner Bros. merger | CNN Business - CNN
+- US Bond Selloff Drives 30-Year Yields to Highest Since 2007 - Bloomberg.com
+- Anthropic tells investors annualized revenue run rate climbed to $65 billion in July - CNBC
+- Apple Seeds Sixth iOS 27 and iPadOS 27 Betas to Developers - MacRumors
+- YouTube is changing how it counts views to give the numbers a boost - The Verge
