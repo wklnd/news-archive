@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-17 08:03_
+_Updated: 2026-08-17 09:37_
 
-- Hayden Panettiere dies at 36 - ABC News - Breaking News, Latest News and Videos
-- Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience - The Guardian
-- Multiple people dead as flooding continues in Indiana - NPR
-- Live updates: Jared Kushner meets with regional leaders as multiple conflicts roil the Middle East - CNN
-- Trump's views can factor into prosecutions, Attorney General Todd Blanche says - Axios
+- Trump says US to reduce military drills with South Korea after it stayed out of Iran war - BBC
+- At least 7 dead in historic rainstorms in Indiana as floodwaters begin to recede - ABC News - Breaking News, Latest News and Videos
+- Blanche refuses to pledge DOJ independence from White House - usatoday.com
 - Hurricane Lala cuts power to thousands in Hawaii — rural outages could last months - San Francisco Chronicle
+- Trump says White House needs ‘military complex’ as courts block his ballroom - The Washington Post
+- How AOC is rewriting her own "Woke 1" history - axios.com
 - Centcom commander addresses mental health concerns for troops on USS Abraham Lincoln - The Hill
-- Lake Powell hits record low, threatening key water and electricity supply for millions - PBS
-- L.A. street takeover acts as cover while thieves ransack local business - KTLA
+- L.A. street takeover acts as cover while thieves ransack liquor store - KTLA
+- Has your car been Flocked? Website shows whether your vehicle is in the database. - 5 EYEWITNESS NEWS
 - Sirens will sound before detonations bring down Centennial Mills water tower Monday - KGW
+- Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan - Al Jazeera
 - EU plans most far-reaching sanctions package against Russia in autumn, foreign chief says - Reuters
+- Ukraine takes aim at Russia’s economy and morale by attacking online retailer - AP News
 - Iran betting it can outlast Trump if Dems take Congress, Gingrich says - New York Post
-- Ukraine-Russia war latest: Seven dead as Kyiv blows up ‘Russian Amazon’ hub in largest drone attack of 2026 - The Independent
-- Firefighters battle wildfires in Belgium and Greece as 2 die on an island near Athens - AP News
-- Japan’s Economy Keeps Growing, But Weakness Could Vex BOJ - WSJ
-- Oil rises as US-Iran peace talks stall, Hormuz shipping slows - Reuters
 - Ferrari's first ever electric car sold for record $40m at auction - BBC
-- Stock futures mixed after S&P 500 posts three-week win streak: Live updates - CNBC
+- Asian shares rise, dollar slips as markets pare Fed rate risks - Reuters
+- Nvidia scales back OpenAI data-center guarantee to less than $120B, WSJ reports (NVDA:NASDAQ) - Seeking Alpha
+- Japan second-quarter GDP grows 1.1% on an annualized basis, missing expectations - CNBC
 - ChatGPT’s Computer History tracks your clicks and keystrokes - The Verge
-- Intel Reportedly Splits Its Handheld Strategy As A Tiny 4-Xe3 Panther Lake Chip Targets The Budget Buyers Arc G3 Ignored - Wccftech
+- Android 17 Pixel Update Adds Quick Settings Feature We've Dreamed Of - Droid Life
