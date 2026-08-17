@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-17 17:57_
+_Updated: 2026-08-17 19:01_
 
-- South Korea hopes for talks between US and North Korea after Trump downsizes military drills - AP News
-- Trump threatens to bomb Oman if it ‘gets in the way’ of Iran deal as Kushner meets Netanyahu – Middle East crisis live - The Guardian
+- Live Updates: Trump threatens to bomb Oman with Iran war stuck in stalemate as 60-day negotiation period ends - CBS News
+- Trump’s Overture to Kim Jong-un Strains Alliance With South Korea - nytimes.com
 - US Supreme Court again rebuffs Trump in $5 million E. Jean Carroll case - Reuters
-- Watch Live: Lindsay Clancy murder trial resumes with 4th week of witness testimony - CBS News
+- Prosecution rests in Lindsay Clancy murder trial. Defense now gets its turn calling witnesses - AP News
 - Power outages impact 179K across Hawaii after Lala damages grid lines - Hawaii News Now
-- RFK Jr.'s quiet hunt for autism culprits stalls as Trump orders baseless changes to childhood shots - CBS News
-- Live updates: Flooding ongoing in parts of Indiana as others turn to cleanup - IndyStar
 - USS Lincoln crisis: How it compares to past aircraft carrier deployments - Al Jazeera
-- Capitol agenda: Congress tries again to police itself - Politico
-- A tire in the road, then a father shot dead. Now a man accused of planning it goes on trial - CNN
-- British drones used in Ukrainian attacks deep inside Russia for first time, says report - The Independent
-- Jared Kushner holds talks with Benjamin Netanyahu after meeting Hamas leader - Financial Times
-- Ukraine takes aim at Russia’s economy and morale by attacking online retailer - AP News
-- Thousands await aid after deadly Indonesia quake as rescue work under way - Al Jazeera
+- Live updates: Flooding ongoing in parts of Indiana as others turn to cleanup - IndyStar
+- Trump roasted over ‘flying palace’ trips with aide: ‘He wants to build his ballroom and travel with Natalie’ - The Independent
+- Mark Cuban and Other Founders Wade Into Wealth Tax Debate - nytimes.com
+- Is Congress finally ready to take its ethics woes seriously? - Politico
+- Kushner has hourslong meeting with Netanyahu on Gaza a day after talking with Hamas - AP News
+- How Satellite Advances Are Changing the Game for Ukraine - nytimes.com
+- Senior Israeli official calls for killing of "30 to 40" people in Gaza every night: "They're not even people" - CBS News
+- Why Kyiv keeps attacking Russian retail giant Wildberries - DW.com
+- Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center - Reuters
 - Stock Market Today: Indexes Mixed in Early Trading After S&P 500, Nasdaq Notch 3rd Straight Week of Gains; Memory Shares Outperform - Investopedia
-- Nvidia to invest $1.5 billion in SB Energy under OpenAI data center deal - Reuters
 - Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California - CNBC
-- Credit card issuer Synchrony partners with OpenAI for ChatGPT shopping - CNBC
+- The mistake that helped cost Rebel Creamery $23.8 million and pushed it into bankruptcy - Yahoo
+- iPhone 18 Pro: Six new features are coming next month - 9to5Mac
 - Whisker’s AI-powered litter robot thinks my cats swapped bodies - The Verge
-- Google quietly resurrects a Pixel gesture we first spotted over a year ago - Android Authority
