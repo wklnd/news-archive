@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-17 12:56_
+_Updated: 2026-08-17 13:50_
 
 ## Top Stories
 
-- Dubbelmordet i Brattås – nu inleds rättegången - Sveriges Radio
-- Nya uppgifter om misstänkta mordet – kvinna död - UNT
+- Tre döda i trafikolycka på E20 - Göteborgs-Posten
+- Rättsläkaren: Gerd Viklund var vid liv när hon släpades in i ladan - Sveriges Radio
+- Man häktad efter mordet på Tommy, 45 - Expressen
 - Kommunalråd Jessica Rask (M) avgår – Svenne Svensson tar över i Uppvidinge - SVT Nyheter
-- Besvärlig situation på USA:s hangarfartyg retar upp Trumps kritker - Sveriges Radio
-- Han vägrar begrava sin son: ”De har inte utrett varför Linus dog” - Dagens Nyheter
 - Ministern: Då borde du få ersättning av vårdgivaren - Göteborgs-Posten
+- Direkt – Kriget i Ukraina – Ryssland: Sex döda i ukrainsk robotattack - Dagens Nyheter
 - Gul varning för skyfallsliknande regn på Gotland - SVT Nyheter
-- Lastbil i frontalkrock med bil – flera svårt skadade - Göteborgs-Posten
-- Man häktad för mord i Söderhamn - SVT Nyheter
-- Pojke död efter drunkningsolyckan i helgen - UNT
-- Rekordtorka och brutal värme i England: ”Olidligt” - Göteborgs-Posten
-- Ukraina: Egna ballistiska robotar ”tre till sex månader” bort – Senaste nytt om kriget i Ukraina - SVT Nyheter
-- Ryssland har 59 nya avfyrningsramper nära Nato och Ukraina - Dagens Nyheter
+- Experter varnar Sverige: Inför inte sociala medier-förbud - Dagens Nyheter
+- Pojke död efter drunkningsolycka utanför Uppsala - Aftonbladet
+- L vill se insatsstyrka mot tvångsäktenskap – Senaste nytt om valet 2026 - SVT Nyheter
+- Ryssland eskalerar informationskriget mot Frankrike – inför valet - Hufvudstadsbladet – HBL
 - Flera ihjältrampade i tempel i Indien - Göteborgs-Posten
+- Rekordtorka och brutal värme i England: ”Olidligt” - Skånska Dagbladet
+- Bränderna i Europa: Två döda i Grekland - Corren
 - Börsen ner för nionde dagen i rad - Göteborgs-Posten
-- Saudiarabiens SpaceX-smäll – nära 5 miljarder - Affärsvärlden
-- Sundsvall varnar för dyrt återköp i Googleaffären – Timrås underlag är tunnare - SVT Nyheter
-- Blandad handel i Asien, Nikkei 225-index stiger 0,3 procent (Finwire News) - Aktiellt
-- Solförmörkelse sveper in över Lysekil under onsdagskvällen - lysekilsposten.se
-- ”Gör allt för att få de där blå strålarna” - Svenska Dagbladet
+- Skistar ser starkare vinterbokningar - Affärsvärlden
+- Saudiarabiens SpaceX-smäll – nära 50 miljarder borta - Affärsvärlden
+- Chipaktier stiger i Europa efter Anthropics intäktslyft - mjukvarubolag pressas - borsvarlden.com
+- Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - Aftonbladet
+- ”Gör allt för att suga åt mig de blå strålarna” - Svenska Dagbladet
 
 ## World News
 
@@ -59,7 +59,7 @@ _Updated: 2026-08-17 12:56_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - mynewsdesk.com
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
@@ -74,25 +74,25 @@ _Updated: 2026-08-17 12:56_
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - mynewsdesk.com
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - mynewsdesk.com
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
-- Finansinspektionen varnar för finansbedragare - tv4.se
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - mynewsdesk.com
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
 - Vilken framtid arbetar du för? - EY
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - mynewsdesk.com
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - mynewsdesk.com
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - mynewsdesk.com
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - mynewsdesk.com
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - mynewsdesk.com
-- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - mynewsdesk.com
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - mynewsdesk.com
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - mynewsdesk.com
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - mynewsdesk.com
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
+- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 
 ## Health
 
@@ -100,11 +100,11 @@ _Updated: 2026-08-17 12:56_
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - mynewsdesk.com
+- Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Sju life science-trender 2026 - businessregiongoteborg.se
+- Sju life science-trender 2026 - Business Region Göteborg
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
@@ -112,10 +112,10 @@ _Updated: 2026-08-17 12:56_
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- CGM Sverige och Tandem Health inleder samarbete - mynewsdesk.com
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - mynewsdesk.com
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
@@ -145,20 +145,20 @@ _Updated: 2026-08-17 12:56_
 - Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Jordbruket har en nyckelroll för att rädda klimatet - land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Doggy stolt partner till Göteborg Film Festival - mynewsdesk.com
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - mynewsdesk.com
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Jord, kor och klimat - SLU
-- Visning av uppkomst efter direktsådd - Land.se
-- KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - mynewsdesk.com
+- Visning av uppkomst efter direktsådd - land.se
+- KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Hellre plöjningsfri odling än ekologisk - Land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - land.se
+- Hellre plöjningsfri odling än ekologisk - land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - land.se
+- De blev grönsaksodlare tack vare lokalt stöd - land.se
