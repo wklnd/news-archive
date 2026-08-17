@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-17 13:01_
+_Updated: 2026-08-17 13:57_
 
-- Trump orders military to ‘substantially reduce’ joint exercises with South Korea - NBC News
+- Actor Hayden Panettiere, known for roles in ‘Heroes’ and ‘Nashville,’ dies at 36 - NBC News
+- Trump’s Overture to Kim Jong-un Strains Alliance With South Korea - The New York Times
+- Live Updates: U.S. and Iran locked in a stalemate as 60-day negotiation period ends - CBS News
+- Hurricane Lala cuts power to thousands in Hawaii — rural outages could last months - San Francisco Chronicle
 - Blanche refuses to pledge DOJ independence from White House - USA Today
-- School closures: All HIDOE, some private schools closed Monday - Hawaii News Now
-- Live Updates: U.S. and Iran locked in a stalemate as 60-day negotiation period ends - cbsnews.com
-- Why has Israel escalated attacks in southern Lebanon despite ceasefire? - Al Jazeera
-- Thousands in Indonesia await aid after quake kills 55, overshadowing Independence Day - AP News
-- Revoking Protected Status for Haitian Workers Triggers Labor Crunch in Florida - WSJ
-- Centcom commander addresses mental health concerns for troops on USS Abraham Lincoln - The Hill
+- Trump says White House needs ‘military complex’ as courts block his ballroom - The Washington Post
 - At least 7 people have died from days of heavy rain and record-setting flooding in Indiana - AP News
-- Has your car been Flocked? Website shows whether your vehicle is in the database. - 5 EYEWITNESS NEWS
+- Revoking Protected Status for Haitian Workers Triggers Labor Crunch in Florida - WSJ
+- Is Congress up for an ethics overhaul? - Politico
+- Murder Drops to Historic Lows in Baltimore - The New York Times
+- Thousands in Indonesia await aid after quake kills 68, overshadowing Independence Day - AP News
 - Live updates: Kushner meets Netanyahu after talks with Hamas on stalled Gaza peace plan - CNN
 - Ukraine attacks Wildberries, Russia's biggest online market - DW.com
 - ‘Posh George,’ the Convicted Fraudster in Nigel Farage’s Inner Circle - The New York Times
-- Hundreds attend emotional Cambridge vigil for Jason Arday - BBC
-- Stock Market Today: Tech Stocks Set to Gain, Oil Holds Steady — Live Updates - WSJ
+- China investment slump deepens as economy shows signs of weakness - Financial Times
+- Bets on imminent Fed rate hike fade; retail earnings ahead - what’s moving markets - Investing.com
 - Emerging markets march out of 'valley of tears' as investors diversify - Reuters
-- Goldman Says Markets Too Hawkish on Betting Fed Will Hike Rates - Bloomberg.com
-- Ferrari's first ever electric car sold for record $40m at auction - BBC
+- Technology Stocks Lift Equities as Treasuries Rise: Markets Wrap - Bloomberg.com
 - I’m hooked on Peak Design’s new City bags - The Verge
-- Google Adds Sweet New Security App Lock Feature in Surprise Pixel Update - Droid Life
+- We’ve uncovered the first Snapdragon X-powered Googlebook tablet - Chrome Unboxed
