@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-17 16:01_
+_Updated: 2026-08-17 16:54_
 
 ## Top Stories
 
 - Tre döda efter frontalkrock i Mariestad - Aftonbladet
 - Följ rättegången om dubbelmordet i Brattås 2005 - SVT Nyheter
 - DN Direkt – Ebolautbrottet det dödligaste någonsin i Kongo - Dagens Nyheter
-- Trump hotar att bomba Oman - Corren
-- Ryssland: Sex döda i ukrainsk robotattack - Västerbottens-Kuriren
+- Trump hotar att bomba Oman – Iran står på sig - Göteborgs-Posten
+- Meteorologen: ”Anmärkningsvärt” - Östersunds-Posten
 - Experter varnar Sverige: Inför inte sociala medier-förbud - Dagens Nyheter
-- Svensk medborgare skjuten i Syrien - Västerbottens-Kuriren
+- Svensk medborgare skjuten i Syrien - vk.se
+- Så blir ditt radhus brandsäkert: ”Gå ihop i grannskapet” - Dagens Nyheter
 - Polisen söker försvunnen man - Nya Wermlands-Tidningen
 - DN Direkt – Man häktad för mord i Söderhamn - Dagens Nyheter
-- DN Direkt – Pojke i drunkningsolycka död - Dagens Nyheter
+- Ryssland: Sex döda i ukrainsk robotattack - vk.se
+- Direkt – Kriget i Ukraina – Elva års fängelse för känd rysk oppositionspolitiker - Dagens Nyheter
 - Ryssland eskalerar informationskriget mot Frankrike – inför valet - hbl.fi
-- Storbritannien går mot rekordsommar i värme - SVT Nyheter
-- Direkt – Kriget i Ukraina – Varnade för att Ryssland förlorar – fick sparken - Dagens Nyheter
-- Flera ihjältrampade i tempel i Indien - Aftonbladet
+- Rekordtorka och brutal värme i England: ”Olidligt” - Göteborgs-Posten
 - Rekordmånad för Saab – slår hela årets uppgång - Affärsvärlden
+- Kunder luras in i avtal där elbolag bryter lag - Svenska Dagbladet
 - Ferraris första elbil såld – för sanslösa 380 miljoner - m3.se
 - Skistar ser starkare vinterbokningar - Affärsvärlden
-- AstraZeneca lägger ned fas III-studie med volrustomig - Biostock
 - Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - Aftonbladet
 - Microsoft rullar ut dynamiska uppdateringar för Windows 10 och 11 - pcforalla.se
 
@@ -29,23 +29,23 @@ _Updated: 2026-08-17 16:01_
 
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 18:45 - tv.nu
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - news.cision.com
-- Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - news.cision.com
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 
 ## Technology
@@ -55,21 +55,21 @@ _Updated: 2026-08-17 16:01_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- I år ska AI visa affärsnytta. Igen. - computersweden.se
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
-- 7 sätt att använda AI i den fysiska världen - computersweden.se
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
-- Nu blir datorerna dyrare – efter prishöjning på minnen - computersweden.se
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Hyperlink InfoSystem Delivers Tailored AI Agent Solutions to Help Businesses Save Up to 90% in Operational Costs with Intelligent Automation (PR Newswire) - Aktiellt
-- Albanien utser AI-bot till minister - computersweden.se
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - computersweden.se
+- Albanien utser AI-bot till minister - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -101,7 +101,7 @@ _Updated: 2026-08-17 16:01_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
-- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - news.cision.com
+- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Sju life science-trender 2026 - Business Region Göteborg
@@ -147,8 +147,8 @@ _Updated: 2026-08-17 16:01_
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Här är världens största jordbruk - ATL
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
