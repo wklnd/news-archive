@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-17 16:54_
+_Updated: 2026-08-17 17:50_
 
 ## Top Stories
 
 - Tre döda efter frontalkrock i Mariestad - Aftonbladet
-- Följ rättegången om dubbelmordet i Brattås 2005 - SVT Nyheter
+- Stopp i tågtrafiken mellan Göteborg och Stockholm – i båda riktningar - Sveriges Radio
 - DN Direkt – Ebolautbrottet det dödligaste någonsin i Kongo - Dagens Nyheter
-- Trump hotar att bomba Oman – Iran står på sig - Göteborgs-Posten
+- Följ rättegången om dubbelmordet i Brattås 2005 - SVT Nyheter
 - Meteorologen: ”Anmärkningsvärt” - Östersunds-Posten
-- Experter varnar Sverige: Inför inte sociala medier-förbud - Dagens Nyheter
-- Svensk medborgare skjuten i Syrien - vk.se
+- DN Direkt – De lockade flest lyssnare till ”Sommar i P1” - Dagens Nyheter
 - Så blir ditt radhus brandsäkert: ”Gå ihop i grannskapet” - Dagens Nyheter
 - Polisen söker försvunnen man - Nya Wermlands-Tidningen
-- DN Direkt – Man häktad för mord i Söderhamn - Dagens Nyheter
-- Ryssland: Sex döda i ukrainsk robotattack - vk.se
-- Direkt – Kriget i Ukraina – Elva års fängelse för känd rysk oppositionspolitiker - Dagens Nyheter
-- Ryssland eskalerar informationskriget mot Frankrike – inför valet - hbl.fi
-- Rekordtorka och brutal värme i England: ”Olidligt” - Göteborgs-Posten
+- Experter varnar Sverige: Inför inte sociala medier-förbud - Dagens Nyheter
+- Svensk medborgare skjuten i Syrien - Västerbottens-Kuriren
+- Hamastopp och Trumps svärson möttes i Kairo - Göteborgs-Posten
+- Flera migranter döda utanför Libyens kust - Västerbottens-Kuriren
+- 11 års fängelse för känd rysk oppositionspolitiker - Corren
+- Historisk torka sätter press på golfbanorna - Svensk Golf
 - Rekordmånad för Saab – slår hela årets uppgång - Affärsvärlden
-- Kunder luras in i avtal där elbolag bryter lag - Svenska Dagbladet
-- Ferraris första elbil såld – för sanslösa 380 miljoner - m3.se
-- Skistar ser starkare vinterbokningar - Affärsvärlden
+- FI varnar för 197 aktörer – bedragare lockar med AI och falska tradingplattformar - Finansinspektionen
+- Kunder luras in i avtal där elbolag bryter lag - Sydsvenskan
+- Test: Fota maten och få kalorimängden – så bra funkar apparna - Expressen
 - Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - Aftonbladet
-- Microsoft rullar ut dynamiska uppdateringar för Windows 10 och 11 - pcforalla.se
+- ”Gör allt för att suga åt mig de blå strålarna” - Svenska Dagbladet
 
 ## World News
 
@@ -42,27 +42,27 @@ _Updated: 2026-08-17 16:54_
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
 - Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
@@ -100,22 +100,22 @@ _Updated: 2026-08-17 16:54_
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Sju life science-trender 2026 - Business Region Göteborg
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 
 ## Science
 
@@ -124,13 +124,13 @@ _Updated: 2026-08-17 16:54_
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
-- Täta band mellan turism och forskning på Svalbard - slu.se
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
@@ -143,21 +143,21 @@ _Updated: 2026-08-17 16:54_
 ## Jordbruk
 
 - Jordbrukspolitik - Naturvårdsverket
-- Sveriges förändrade lantbruk - slu.se
+- Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Brittiska bönder i massiv protest mot arvsskatten - ja.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Jord, kor och klimat - slu.se
+- Jord, kor och klimat - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
-- Kan agroekologi mätta världen? - slu.se
+- Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
