@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-17 08:00_
+_Updated: 2026-08-17 09:32_
 
 ## Top Stories
 
-- Pojke död efter helgens drunkningsolycka i Uppsala - omni.se
-- Belgisk brand inte längre ett hot för Tyskland - Göteborgs-Posten
-- Storbrand i Nykvarn – flera fordon förstörda - SN, Södermanlands Nyheter
-- Putins plan: Kaos i lilla landet ska försvaga EU - Svenska Dagbladet
+- Pojke död efter helgens drunkningsolycka i Uppsala - Omni – Alla nyheter. Alla perspektiv.
+- Misstänkte Brattåsmördaren i rätten – nekar - Göteborgs-Posten
+- Kommunalråd Jessica Rask (M) avgår – Svenne Svensson tar över i Uppvidinge - svt.se
+- Tolv bilar förstörda i brand i Nykvarn – en gripen - Sveriges Radio
 - Han vägrar begrava sin son: ”De har inte utrett varför Linus dog” - Dagens Nyheter
-- Festen på Karlskronaplan inte kul för alla: ”Folk drivs ur sina lägenheter” - Sydsvenskan
+- Putins plan: Kaos i lilla landet ska försvaga EU - Svenska Dagbladet
 - Tre svårt skadade i trafikolycka på E20 - Göteborgs-Posten
-- Stor brist på meteorologer: Pensionärer hoppar in - Corren
-- Skola vädjar till föräldrar: Låt mobilerna stanna hemma - Dagens Nyheter
-- Falska valaffischer sattes upp – utreds enligt uppgift – Senaste nytt om valet 2026 - SVT Nyheter
-- Ryssland: Sex döda i ukrainsk robotattack - Västerbottens-Kuriren
-- Observatörer: Pausad rösträkning sprider oro - omni.se
+- Stor brist på meteorologer: Pensionärer hoppar in - Dagens Nyheter
+- Färja körde in i kaj – tre skadade - Västerbottens-Kuriren
+- Falska valaffischer sattes upp – utreds enligt uppgift – Senaste nytt om valet 2026 - svt.se
+- Rekordtorka och brutal värme i England: ”Olidligt” - Västerbottens-Kuriren
 - Demokratisk socialist: Detta är sista alternativet innan vi tar till våld - Dagens Nyheter
-- Dödstalet stiger – passerar utbrottet 2018 – Senaste nytt om ebolautbrottet i Kongo-Kinshasa - SVT Nyheter
+- Ukraina och Ryssland utbyter attacker – tolv döda - Göteborgs-Posten
+- Svenska vattenbombare bekämpar bränder i Belgien - Göteborgs-Posten
 - Klart: Saab är världens bästa försvarsaktie - EFN
-- Börsen väntas bryta nedåtgående trend - Västerbottens-Kuriren
-- Spretig inledning av veckan i Asien - Bohusläningen
-- Experten: Ingen vändning i sikte för tidigare börsstjärnan - Dagens PS
+- Stockholmsbörsen tappar fart - Dagens industri
+- Uppåt på Asiens börser - Privata Affärer
+- Kjell Group vänder utvecklingen – växer igen - Ehandel.se
 - Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - Aftonbladet
-- DEBATT: Så knäcker vi arbetslösheten i Värmland - nwt.se
+- Elkunder fast i ogiltiga avtal – elbolag kringgår lagen vid försäljning - Börskollen
 
 ## World News
 
@@ -31,22 +31,22 @@ _Updated: 2026-08-17 08:00_
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Vietnam kommer att vara värd för WAN-IFRA 2026 International AI Forum för första gången. - Vietnam.vn
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Tran Huyen Trang har blivit utvald att representera Vietnam i Miss Global 2026. - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - media.smart.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Radisson satsar stort på långtidsboende globalt - travelnews-se
 
 ## Technology
 
@@ -56,12 +56,12 @@ _Updated: 2026-08-17 08:00_
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - omni.se
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
@@ -102,9 +102,9 @@ _Updated: 2026-08-17 08:00_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
-- Khalid satsar på digital vård – mot fetma - st.nu
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Sju life science-trender 2026 - businessregiongoteborg.se
+- Sju life science-trender 2026 - Business Region Göteborg
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
@@ -120,7 +120,7 @@ _Updated: 2026-08-17 08:00_
 ## Science
 
 - NESS activities for the public – Department of Earth Sciences - uu.se
-- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Kina drar om USA – bäst på forskning - svt.se
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
@@ -146,7 +146,7 @@ _Updated: 2026-08-17 08:00_
 - Sveriges förändrade lantbruk - slu.se
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Brittiska bönder i massiv protest mot arvsskatten - ja.se
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
