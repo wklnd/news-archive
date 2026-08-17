@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-17 12:14_
+_Updated: 2026-08-17 13:01_
 
 - Trump orders military to ‘substantially reduce’ joint exercises with South Korea - NBC News
-- Trump's views can factor into prosecutions, Attorney General Todd Blanche says - Axios
-- Hurricane Lala cuts power to thousands in Hawaii — rural outages could last months - San Francisco Chronicle
-- At least 7 people have died from days of heavy rain and record-setting flooding in Indiana - AP News
-- Iran’s Secret Plan to Escalate the War - WSJ
+- Blanche refuses to pledge DOJ independence from White House - USA Today
+- School closures: All HIDOE, some private schools closed Monday - Hawaii News Now
+- Live Updates: U.S. and Iran locked in a stalemate as 60-day negotiation period ends - cbsnews.com
 - Why has Israel escalated attacks in southern Lebanon despite ceasefire? - Al Jazeera
+- Thousands in Indonesia await aid after quake kills 55, overshadowing Independence Day - AP News
+- Revoking Protected Status for Haitian Workers Triggers Labor Crunch in Florida - WSJ
 - Centcom commander addresses mental health concerns for troops on USS Abraham Lincoln - The Hill
-- Suspect arrested in deadly Lexington mass shooting - WKYT
+- At least 7 people have died from days of heavy rain and record-setting flooding in Indiana - AP News
 - Has your car been Flocked? Website shows whether your vehicle is in the database. - 5 EYEWITNESS NEWS
-- Luigi Mangione's GiveSendGo Fund Doesn't Violate Platform Policy, Despite Guilty Plea - TMZ
-- Search for Indonesia earthquake victims underway on Independence Day - Reuters
-- Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan - Al Jazeera
-- Live Updates: U.S.-Iran memorandum of understanding deadline about to expire without a deal, amid stalemate - CBS News
+- Live updates: Kushner meets Netanyahu after talks with Hamas on stalled Gaza peace plan - CNN
+- Ukraine attacks Wildberries, Russia's biggest online market - DW.com
 - ‘Posh George,’ the Convicted Fraudster in Nigel Farage’s Inner Circle - The New York Times
-- Ferrari's first ever electric car sold for record $40m at auction - BBC
+- Hundreds attend emotional Cambridge vigil for Jason Arday - BBC
+- Stock Market Today: Tech Stocks Set to Gain, Oil Holds Steady — Live Updates - WSJ
 - Emerging markets march out of 'valley of tears' as investors diversify - Reuters
-- Asian shares mark time as Gulf war keeps oil prices up - Yahoo Finance
 - Goldman Says Markets Too Hawkish on Betting Fed Will Hike Rates - Bloomberg.com
-- I’m hooked on Peak Design’s new City bags - theverge.com
+- Ferrari's first ever electric car sold for record $40m at auction - BBC
+- I’m hooked on Peak Design’s new City bags - The Verge
 - Google Adds Sweet New Security App Lock Feature in Surprise Pixel Update - Droid Life
