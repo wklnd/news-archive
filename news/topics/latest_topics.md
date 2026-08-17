@@ -1,47 +1,47 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-17 12:05_
+_Updated: 2026-08-17 12:56_
 
 ## Top Stories
 
-- Trump vill banta övning: ”Nordkorea visar respekt” - Västerbottens-Kuriren
-- DN Direkt – Man häktad för mord i Söderhamn - Dagens Nyheter
+- Dubbelmordet i Brattås – nu inleds rättegången - Sveriges Radio
+- Nya uppgifter om misstänkta mordet – kvinna död - UNT
 - Kommunalråd Jessica Rask (M) avgår – Svenne Svensson tar över i Uppvidinge - SVT Nyheter
+- Besvärlig situation på USA:s hangarfartyg retar upp Trumps kritker - Sveriges Radio
 - Han vägrar begrava sin son: ”De har inte utrett varför Linus dog” - Dagens Nyheter
 - Ministern: Då borde du få ersättning av vårdgivaren - Göteborgs-Posten
-- Rekordtorka och brutal värme i England: ”Olidligt” - Nerikes Allehanda
 - Gul varning för skyfallsliknande regn på Gotland - SVT Nyheter
-- Stor brist på meteorologer: Pensionärer hoppar in - Dagens Nyheter
-- L vill se insatsstyrka mot tvångsäktenskap – Senaste nytt om valet 2026 - SVT Nyheter
-- Lastbil i frontalkrock med bil – flera svårt skadade - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – Ryssland: Sex döda i ukrainsk robotattack - Dagens Nyheter
+- Lastbil i frontalkrock med bil – flera svårt skadade - Göteborgs-Posten
+- Man häktad för mord i Söderhamn - SVT Nyheter
+- Pojke död efter drunkningsolyckan i helgen - UNT
+- Rekordtorka och brutal värme i England: ”Olidligt” - Göteborgs-Posten
+- Ukraina: Egna ballistiska robotar ”tre till sex månader” bort – Senaste nytt om kriget i Ukraina - SVT Nyheter
 - Ryssland har 59 nya avfyrningsramper nära Nato och Ukraina - Dagens Nyheter
-- Bränderna i Europa: Två döda i Grekland - Corren
 - Flera ihjältrampade i tempel i Indien - Göteborgs-Posten
-- Stockholmsbörsen tappar fart - di.se
-- Saabs supertrend: Är nu världens bästa försvarsaktie - EFN
-- LF: Storuman bäst för äldre – storstäderna långt ner - Bostadspolitik
-- Sundsvall och Timrå kommunfullmäktige röstar i Googleaffären - Sveriges Radio
-- Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - Aftonbladet
-- Mic’d up med Halvorstorps IS tränare Elias Blom. - TTELA
+- Börsen ner för nionde dagen i rad - Göteborgs-Posten
+- Saudiarabiens SpaceX-smäll – nära 5 miljarder - Affärsvärlden
+- Sundsvall varnar för dyrt återköp i Googleaffären – Timrås underlag är tunnare - SVT Nyheter
+- Blandad handel i Asien, Nikkei 225-index stiger 0,3 procent (Finwire News) - Aktiellt
+- Solförmörkelse sveper in över Lysekil under onsdagskvällen - lysekilsposten.se
+- ”Gör allt för att få de där blå strålarna” - Svenska Dagbladet
 
 ## World News
 
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 18:45 - tv.nu
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
@@ -52,14 +52,14 @@ _Updated: 2026-08-17 12:05_
 
 - Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - mynewsdesk.com
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
@@ -75,17 +75,17 @@ _Updated: 2026-08-17 12:05_
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - mynewsdesk.com
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - mynewsdesk.com
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - mynewsdesk.com
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - mynewsdesk.com
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Finansinspektionen varnar för finansbedragare - tv4.se
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - mynewsdesk.com
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
 - Vilken framtid arbetar du för? - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - mynewsdesk.com
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - mynewsdesk.com
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - mynewsdesk.com
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - mynewsdesk.com
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - mynewsdesk.com
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - mynewsdesk.com
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - mynewsdesk.com
@@ -104,7 +104,7 @@ _Updated: 2026-08-17 12:05_
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Sju life science-trender 2026 - Business Region Göteborg
+- Sju life science-trender 2026 - businessregiongoteborg.se
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
@@ -151,8 +151,8 @@ _Updated: 2026-08-17 12:05_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Doggy stolt partner till Göteborg Film Festival - mynewsdesk.com
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Framtidens jordbruk är här - Shaping Europe’s digital future
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - mynewsdesk.com
 - Jord, kor och klimat - SLU
 - Visning av uppkomst efter direktsådd - Land.se
