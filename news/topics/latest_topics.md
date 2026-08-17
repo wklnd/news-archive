@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-17 22:54_
+_Updated: 2026-08-17 23:50_
 
 ## Top Stories
 
-- DN Direkt – Kängan innan debatten: ”Tänker inte låta dem ducka undan - Dagens Nyheter
-- Ebba Busch (KD): ”Får spader på SD” - Göteborgs-Posten
-- Ingen minns den misstänkte mannen: ”Slog ned som en bomb” - Aftonbladet
-- Person skjuten i Södertälje – misstänkt gripen - Västerbottens-Kuriren
-- Därför dröjer det innan fler fria IVF-försök erbjuds i Västra Götalandsregionen - Göteborgs-Posten
-- Övernattar på ”Plattan” – för att byta regering - Svenska Dagbladet
+- DN Direkt – Busch känga i partiledardebatten: ”Vi tittar på” - Dagens Nyheter
+- V-ledarens attack i partiledardebatten: ”Deras politik är förlegad” - Dagens Nyheter
+- Kristersson om Jomshof: Saboterar valrörelsen - Göteborgs-Posten
+- Ordbråk direkt – svarar på kritiken - Expressen
+- Kung Harald av Norge är inlagd på sjukhus - SVT Nyheter
+- Kristersson pressas: Ny mätning visar stort gap - SVT Nyheter
 - Se dramat på bussen – passagerarna tar över när chauffören svimmar - SVT Nyheter
+- Person skjuten i Södertälje – misstänkt gripen - vk.se
 - Så blir ditt radhus brandsäkert: ”Gå ihop i grannskapet” - Dagens Nyheter
 - DN Direkt – Man häktad för mord i Söderhamn - Dagens Nyheter
-- Tre döda i trafikolycka på E20 - Göteborgs-Posten
-- Kung Harald av Norge är inlagd på sjukhus - SVT Nyheter
-- Källor: Kushner och Netanyahu eniga om Gaza - Dagens Nyheter
-- Analys: Trumps utspel om vänskapen överraskade - Göteborgs-Posten
-- Chefsekonom varnade för att Ryssland förlorar – fick sparken - Hufvudstadsbladet – HBL
-- Grönt ljus för Google – så reagerar politikerna - Sveriges Radio
-- Oron tilltar på Wall Street – tekniksektorn mot strömmen - Dagens industri
+- Källor: Kushner och Netanyahu eniga om Gaza - Göteborgs-Posten
+- Analys: Trump vill minska militärövningen mot Nordkorea – riktar kritik mot Sydkorea - SVT Nyheter
+- Varnade för att Ryssland förlorar – fick sparken - vk.se
+- Över 2 300 döda i ebola – vaccin utvecklas - SVT Nyheter
 - Ferraris första elbil såld – för sanslösa 380 miljoner - m3.se
+- Oron tilltar på Wall Street – tekniksektorn mot strömmen - Dagens industri
+- Sundsvall och Timrå säger ja till att sälja Torsboda - SVT Nyheter
 - Stockholmsbörsen handlades ned under tisdagen - Placera.se
 - Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - Aftonbladet
-- Utredningar att hålla koll på hösten 2026 - Läkartidningen
+- Barn lurades på falska Pokémonkort: "Jätteolyckligt" - Nya Wermlands-Tidningen
 
 ## World News
 
@@ -32,10 +32,10 @@ _Updated: 2026-08-17 22:54_
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - fempers.se
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Det kommande WAN-IFRA 2026 International AI Forum i Hanoi kommer att diskutera journalistikens framtid. - Vietnam.vn
-- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - media.smart.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
@@ -55,21 +55,21 @@ _Updated: 2026-08-17 22:54_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- 7 sätt att använda AI i den fysiska världen - computersweden.se
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - computersweden.se
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - computersweden.se
 - FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
 - Hyperlink InfoSystem Delivers Tailored AI Agent Solutions to Help Businesses Save Up to 90% in Operational Costs with Intelligent Automation (PR Newswire) - Aktiellt
-- Albanien utser AI-bot till minister - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - computersweden.se
+- Albanien utser AI-bot till minister - computersweden.se
 
 ## Business
 
@@ -85,10 +85,10 @@ _Updated: 2026-08-17 22:54_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
@@ -122,42 +122,42 @@ _Updated: 2026-08-17 22:54_
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskningsutvärdering med kvalitet i fokus - ju.se
-- Täta band mellan turism och forskning på Svalbard - slu.se
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
+- Forskningsutvärdering med kvalitet i fokus - Jönköping University
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- 5 myter om öppen vetenskap - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
 
 - Jordbrukspolitik - Naturvårdsverket
-- Sveriges förändrade lantbruk - slu.se
+- Sveriges förändrade lantbruk - SLU
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Jord, kor och klimat - slu.se
+- Jord, kor och klimat - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
-- Kan agroekologi mätta världen? - slu.se
+- Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
