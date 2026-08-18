@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-18 10:03_
+_Updated: 2026-08-18 11:02_
 
 ## Top Stories
 
+- E20 byggs om för att bli säkrare – fyra har dött på sträckan - Göteborgs-Posten
 - Skjutning vid skola – minderåriga gripna - Svenska Dagbladet
 - V-ledarens attack i partiledardebatten: ”Deras politik är förlegad” - Dagens Nyheter
-- E20 byggs om för att bli säkrare – fyra har dött på sträckan - Göteborgs-Posten
-- Fakta i frågan: Är skärm sämre än tryckta skolböcker? - Dagens Nyheter
-- Ryssland: Över 80 drönare mot Moskva - vk.se
-- Ebola: Värsta utbrottet i landets historia - Aftonbladet
+- Regnkaos i Norrbotten – väg bortspolad av regnet - Sveriges Radio
+- Ryssland: Hundratals drönare mot Moskva i natt - Västerbottens-Kuriren
+- Rönningeåtal dröjer – väntar svar på teknisk analys - Omni – Alla nyheter. Alla perspektiv.
 - ”Larven från helvetet” hittad i Skåne - SVT Nyheter
-- Kristersson om Jomshof: Saboterar valrörelsen - Corren
+- Ingen ljusning för Tidöpartierna i ny mätning - aftonbladet.se
 - Chatt om skärmtid: Tydliga regler eller obegränsat? Hur gör du? - SVT Nyheter
-- Nya siffror: Glädjebesked för C - Aftonbladet
+- Politikerna pratade pengar - 8 Sidor
 - Analys: Trumps utspel om vänskapen överraskade - Göteborgs-Posten
 - Irankriget: Fristen passerade – ingen fred i sikte - Dagens Nyheter
 - Marocko – EU:s partner och fruktade rival - Dagens Nyheter
-- Källor: Kushner och Netanyahu eniga om Gaza - Corren
+- Nathan Shachar: Netanyahu bestämmer nästan allt - Dagens Nyheter
 - SBAB spår två räntehöjningar redan i år - SVT Nyheter
+- ”Skött det så bra man bara kunnat” - Arbetet
 - Experten: Därför kan börsens historiska "pyspunka-ras" vara köpläge - Dagens PS
-- DN Direkt – Tio dagar i rad med nedgång på börsen - Dagens Nyheter
-- Efter slutet på vapenvilan – nedåt i Asien - Dagens industri
+- Börsen öppnar ner för tionde dagen i rad - Västerbottens-Kuriren
 - Susanna Stubberöd - Magasin K
 - TV: Så blir nya vägen i Hudiksvall - Hudiksvalls Tidning
 
@@ -34,14 +34,14 @@ _Updated: 2026-08-18 10:03_
 - GMMP: Global backlash syns i världens medier - fempers.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - via.tt.se
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - via.tt.se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - Vietnam.vn
@@ -101,20 +101,20 @@ _Updated: 2026-08-18 10:03_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
-- Khalid satsar på digital vård – mot fetma - st.nu
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Sju life science-trender 2026 - Business Region Göteborg
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
 
 ## Science
