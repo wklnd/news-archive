@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-18 05:22_
+_Updated: 2026-08-18 06:07_
 
 ## Top Stories
 
-- V-ledarens attack i partiledardebatten: ”Deras politik är förlegad” - Dagens Nyheter
+- Privatekonomi fick partiledare att ryka ihop - Göteborgs-Posten
+- Ryssland: Hundratals drönare mot Moskva i natt - Västerbottens-Kuriren
 - Minderåriga gripna efter skjutning i Södertälje - Svenska Dagbladet
-- Ryssland: Hundratals drönare mot Moskva i natt - Göteborgs-Posten
 - ”Larven från helvetet” hittad i Skåne - Göteborgs-Posten
 - Blir pressad om Nathalie, 35 – då exploderar Trump - Aftonbladet
-- Flörten: ”Kom över till den här sidan” - Expressen
+- Fakta i frågan: Är skärm sämre än tryckta skolböcker? - Dagens Nyheter
 - Kristersson om Jomshof: Saboterar valrörelsen - Corren
 - Se dramat på bussen – passagerarna tar över när chauffören svimmar - SVT Nyheter
 - Så blir ditt radhus brandsäkert: ”Gå ihop i grannskapet” - Dagens Nyheter
-- Adam Yngve, Svenska Nyhetsbyrån Magdalena Andersson är regeringens bästa valarbetare - NT
-- Trump: Vill inte förlänga vapenvila - Västerbottens-Kuriren
+- Dadgostar: Nu är vi med i Nato och då ska vi vara medlemmar – Senaste nytt om valet 2026 - SVT Nyheter
+- Trump: Vill inte förlänga vapenvila - Göteborgs-Posten
+- DN Direkt – Hichilema återvald till president i Zambia - Dagens Nyheter
 - Källor: Kushner och Netanyahu eniga om Gaza - Corren
-- DN Direkt – Ebolautbrottet det dödligaste någonsin i Kongo - Dagens Nyheter
-- Analys: Trumps utspel om vänskapen överraskade - Göteborgs-Posten
+- Risk för översvämning i Norrbotten - Göteborgs-Posten
+- Johan Carlström: Spännande framtid väntar hushållen - Svenska Dagbladet
 - Expertens drag: Så kan du få en miljon extra till pensionen - Expressen
-- Nvidia backar Open AI-projekt med fantasisumma - omni.se
-- Sundsvall och Timrå säger ja till att sälja Torsboda - SVT Nyheter
-- Oron tilltar på Wall Street – tekniksektorn mot strömmen - di.se
+- DN Direkt – Shakira lovar hjälp till skolor i Colombia - Dagens Nyheter
+- Erdogan: Fortsätt förhandla med Iran - Aftonbladet
 - Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - Aftonbladet
 - TV: Så blir nya vägen i Hudiksvall - ht.se
 
@@ -35,18 +35,18 @@ _Updated: 2026-08-18 05:22_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Megaaffären lyfter American Express Global Business Travel - travelnews.se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - via.tt.se
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Vorwerk Group Continues Global Expansion in Direct Sales - via.tt.se
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Etraveli rusar – 175 miljarder och global styrka - travelnews.se
 
 ## Technology
 
@@ -57,11 +57,11 @@ _Updated: 2026-08-18 05:22_
 - AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - omni.se
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
@@ -78,6 +78,7 @@ _Updated: 2026-08-18 05:22_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
 - Vilken framtid arbetar du för? - EY
@@ -85,10 +86,9 @@ _Updated: 2026-08-18 05:22_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
-- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
