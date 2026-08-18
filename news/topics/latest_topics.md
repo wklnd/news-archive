@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-18 07:55_
+_Updated: 2026-08-18 09:19_
 
 ## Top Stories
 
-- DN Direkt – Minderåriga gripna efter skjutning i Södertälje - Dagens Nyheter
-- Ryssland: Hundratals drönare mot Moskva i natt - Göteborgs-Posten
+- DN Direkt – Två flickor gripna för Södertäljeskjutning - Dagens Nyheter
 - V-ledarens attack i partiledardebatten: ”Deras politik är förlegad” - Dagens Nyheter
 - Fakta i frågan: Är skärm sämre än tryckta skolböcker? - Dagens Nyheter
-- Ingen ljusning för Tidöpartierna i ny mätning - Göteborgs-Posten
-- ”Larven från helvetet” hittad i Skåne - Göteborgs-Posten
+- Ryssland: Hundratals drönare mot Moskva i natt - Västerbottens-Kuriren
+- Rönningeåtal dröjer – väntar svar på teknisk analys - Omni – Alla nyheter. Alla perspektiv.
+- Privatekonomi fick partiledare att ryka ihop - Göteborgs-Posten
+- Det finns flera skäl till att inte räkna ut Tidöpartierna - Altinget.se
 - Kristersson om Jomshof: Saboterar valrörelsen - Corren
 - Chatt om skärmtid: Tydliga regler eller obegränsat? Hur gör du? - SVT Nyheter
 - ”Framstod nästan lite desperat” – Senaste nytt om valet 2026 - SVT Nyheter
-- Extra fartkontroller vid skolorna i kommunen - märsta.nu
-- Marocko – EU:s partner och fruktade rival - Dagens Nyheter
+- Analys: Trumps utspel om vänskapen överraskade - Göteborgs-Posten
 - Källor: Kushner och Netanyahu eniga om Gaza - Corren
+- Marocko – EU:s partner och fruktade rival - Dagens Nyheter
 - Nathan Shachar: Netanyahu bestämmer nästan allt - Dagens Nyheter
-- Trump hotar att bomba Oman – Iran står på sig - Hufvudstadsbladet – HBL
-- SBAB spår två räntehöjningar före årsskiftet - Affärsvärlden
-- Börsen mot ännu en röd öppning - Göteborgs-Posten
+- SBAB spår två räntehöjningar redan i år - SVT Nyheter
+- DN Direkt – Tio dagar i rad med nedgång på börsen - Dagens Nyheter
+- Efter slutet på vapenvilan – nedåt i Asien - Dagens industri
 - Expertens drag: Så kan du få en miljon extra till pensionen - Expressen
-- DN Direkt – Shakira lovar hjälp till skolor i Colombia - Dagens Nyheter
 - Varningen inför solförmörkelsen: Som att bränna med förstoringsglas - Aftonbladet
 - Susanna Stubberöd - Magasin K
 
@@ -31,28 +31,28 @@ _Updated: 2026-08-18 07:55_
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- GMMP: Global backlash syns i världens medier - fempers.se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - bbc.com
-- Megaaffären lyfter American Express Global Business Travel - travelnews.se
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Etraveli rusar – 175 miljarder och global styrka - travelnews.se
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - Vietnam.vn
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
 - Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -101,7 +101,7 @@ _Updated: 2026-08-18 07:55_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Khalid satsar på digital vård – mot fetma - st.nu
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Sju life science-trender 2026 - Business Region Göteborg
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
@@ -148,11 +148,11 @@ _Updated: 2026-08-18 07:55_
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Här är världens största jordbruk - ATL
+- Här är världens största jordbruk - atl.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Så ska det australiensiska jordbruket bli hållbart - atl.nu
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Jord, kor och klimat - SLU
 - Visning av uppkomst efter direktsådd - Land.se
