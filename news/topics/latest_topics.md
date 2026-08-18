@@ -1,84 +1,61 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-18 17:57_
+_Updated: 2026-08-18 18:58_
 
 ## Top Stories
 
-- Minst tio döda i Ukraina - Dagens Nyheter
-- Estland stoppar en majoritet av svenska fångar - SVT Nyheter
-- Tre dog i krock - 8 Sidor
-- C och MP vill lyfta klimatet med debatturné - Göteborgs-Posten
+- Börsexperter tonar ner oron: ”En återställare efter rallyt” - Omni – Alla nyheter. Alla perspektiv.
 - Uppgifter: Flicka misstänks för skjutningen i Ronna – hade vapnet i bh:n - Aftonbladet
-- Tingsrätten dömer man till rättspsykiatrisk vård efter dödsolycka - Sveriges Domstolar
-- Chatt om skärmtid: Tydliga regler eller obegränsat? Hur gör du? - SVT Nyheter
-- M: Skärpta straff för våldtäkt mot äldre - Göteborgs-Posten
-- Äldre nekas boende – anhöriga förstår inte varför - Dagens Nyheter
-- ”Larven från helvetet” hittad i Skåne - Västerbottens-Kuriren
-- Israel bombar Syrien som en varning till Turkiet - Dagens Nyheter
-- Iran: USA måste leverera om sundet ska öppnas - Västerbottens-Kuriren
-- Vita huset till angrepp mot journalist efter konflikt med Trump - Dagens Nyheter
-- DN Direkt – SD vill se modern version av mentalsjukhus - Dagens Nyheter
+- Uppgifter: Estland stoppar svenska fångar - SVT Nyheter
+- Minst tio döda i Ukraina - dn.se
+- Kristersson: Låg under i alla mätningar förra valet - Västerbottens-Kuriren
+- Vita huset till angrepp mot journalist efter konflikt med Trump - dn.se
+- Elva smittade i mässling – spårning pågår - Göteborgs-Posten
+- ”Det känns nervöst att lämna ifrån sig mobilen” - UNT
+- M: Skärpta straff för våldtäkt mot äldre - Västerbottens-Kuriren
+- Mindre än en månad till val – ställ dina frågor om svensk politik - SVT Nyheter
+- Tidsfristen för Irankriget har passerat – vad händer nu? - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Bashar al-Assads kusin dömd till döden - dn.se
+- Israel bombar Syrien som en varning till Turkiet - dn.se
+- DN Direkt – SD vill se modern version av mentalsjukhus - dn.se
 - Klarna rasar – röd öppning i USA - Placera.se
-- SBAB spår två räntehöjningar redan i år - SVT Nyheter
 - Trump bygger en offensiv mot de som utmanar hans rika kompisar - Arbetet
-- Experter: Därför har börsen backat tio dagar i rad - Dagens Nyheter
+- Skuggdirektionen: Räntehöjning rycker närmare - DI
+- Nasdaq i USA siktar på 23 timmars handel - Affärsvärlden
 - Nu har Microsoft plockat bort WMIC från Windows 11 - Computer Sweden
-- Sonderwunsch har byggt unik Flachbau-modell. Kund ville ha något ingen annan har. - feber.se
-
-## World News
-
-- GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 18:45 - tv.nu
-- Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
-- World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Sonderwunsch har byggt unik Flachbau-modell. Kund ville ha något ingen annan har. - Feber
 
 ## Technology
 
-- Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
-- Ho Chi Minh-museet anordnade en specialiserad utbildningskonferens om "Tillämpning av artificiell intelligens (AI) i museiledning och drift". - Vietnam.vn
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
+- Behärska teknologi, upprätthålla journalistikens värderingar. - vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Ho Chi Minh-museet anordnade en specialiserad utbildningskonferens om "Tillämpning av artificiell intelligens (AI) i museiledning och drift". - vietnam.vn
+- Supertips: Sex bortglömda aktier i AI-boomen - dagensps.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
-- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
-- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
 - Albanien utser AI-bot till minister - Computer Sweden
-- Hyperlink InfoSystem Delivers Tailored AI Agent Solutions to Help Businesses Save Up to 90% in Operational Costs with Intelligent Automation (PR Newswire) - Aktiellt
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
 - Vilken framtid arbetar du för? - EY
@@ -97,39 +74,39 @@ _Updated: 2026-08-18 17:57_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
+- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Khalid satsar på digital vård – mot fetma - st.nu
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Sju life science-trender 2026 - Business Region Göteborg
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- firar 15 år av att skydda den globala hälsosektorn - health-isac.org
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - vietnam.vn
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
-- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - health-isac.org
+- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - vietnam.vn
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 
 ## Science
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
+- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - vietnam.vn
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
+- Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - vietnam.vn
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskningsutvärdering med kvalitet i fokus - Jönköping University
+- Forskningsutvärdering med kvalitet i fokus - ju.se
 - Täta band mellan turism och forskning på Svalbard - SLU
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
@@ -146,19 +123,19 @@ _Updated: 2026-08-18 17:57_
 - Sveriges förändrade lantbruk - SLU
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - land.se
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Brittiska bönder i massiv protest mot arvsskatten - ja.se
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - land.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
 - KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
-- Visning av uppkomst efter direktsådd - land.se
+- Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Hellre plöjningsfri odling än ekologisk - land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - land.se
-- De blev grönsaksodlare tack vare lokalt stöd - land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
