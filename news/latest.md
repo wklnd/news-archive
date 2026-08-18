@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-18 19:02_
+_Updated: 2026-08-18 20:00_
 
-- Disney-owned ABC files First Amendment lawsuit against FCC - CNBC
-- U.S.-Iran Updates: Trump says no talks with Iran taking place as standoff over Strait of Hormuz continues - CBS News
+- Disney and ABC sue Trump's media regulator to stop early licence renewal - BBC
+- Trump says US has no talks planned with Iran and other news from the Middle East - AP News
 - Election Live Updates: Florida, Alaska and Wyoming Hold Key Primaries - The New York Times
-- Florida GOP seeks unity after ‘rough and tumble’ primary season - Politico
-- Vessel struck by unknown projectile in Strait of Hormuz, crew casualty reported, UKMTO says - Reuters
-- Suspect wearing 'Chucky doll' face mask accused of terrorizing people in Philadelphia: Police - ABC News - Breaking News, Latest News and Videos
+- DeSantis Ally In Florida Arrested On Child Sex-Abuse Charges - Forbes
+- Trump’s approval rating sinks to new low at 33 percent - Al Jazeera
+- AIPAC has a new target to exert influence over Democrats - The Washington Post
 - Ossoff just went viral again. That was probably the point. - Politico
-- White House attacks CNN reporter after Trump clash, invoking her children - The Washington Post
+- Penn State frat pledges were made to cut and bag cocaine for college drug ring, authorities say - AP News
 - Watch Live: Lindsay Clancy trial resumes with Patrick Clancy's mother testifying, "She was begging for help" - CBS News
-- Family Presses for Information About Fatal ICE Shooting in Maine - The New York Times
-- South Korean president jumps to invest in military after Trump cuts joint exercises - Fox News
+- White House Aide Natalie Harp Is at Center of Messy Brawl - WSJ
 - The Moscow region is hit by a drone blitz as Russian missiles kill 10 in a Ukrainian village - AP News
-- Israeli airstrikes hit Syrian airbase, drawing Turkish condemnation - Reuters
+- South Korea president calls for military independence in wake of Trump call to cut joint drills - The Guardian
 - Zambia Says President Won Re-election After Tumultuous Campaign - The New York Times
+- Dubai alert LIVE: Missile warning sent to UAE as Iran war sparks panic in Middle East - Daily Express
+- Meta goes on trial over social media addiction and child privacy claims - BBC
 - Global bond markets put governments on notice over fiscal, inflation risks - Reuters
-- Meta goes on trial over social media addiction and child privacy claims - bbc.com
-- OpenAI introduces ‘ChatGPT for Teens’ experience amid scrutiny over child safety - CNN
+- OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow - The New York Times
 - Home Depot customers stick to smaller projects as housing costs stay high - Fox Business
-- Nimble SharePower Review: Two Battery Packs For The Price Of One - Engadget
-- Firefox’s Smart Window promises a better AI browser - The Verge
+- iPhone 18 Pro Max Rumored to Get Exclusive Camera Upgrade - MacRumors
+- PlayStation's Official Desktop Speakers Arrive in November for $220 - Push Square
