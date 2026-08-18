@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-18 23:56_
+_Updated: 2026-08-19 00:58_
 
-- Trump says US has no talks planned with Iran and other news from the Middle East - AP News
-- Lindsay Clancy begged for help before her children's killings, mother-in-law testifies - BBC
-- Election Live Updates: Primaries in Florida, Alaska and Wyoming Will Shape November Midterms - The New York Times
-- Ossoff calls Trump a ‘draft-dodging, crook president,’ intensifying his feud with White House - CNN
-- Trump is weighing whether to grant Canada a tariff reprieve - Politico
-- Ballroom opponents ask Supreme Court to keep Trump project on hold - The Washington Post
-- Hawaii’s Storm Ravages a Cemetery, Setting Off a Hunt for the Dead - The New York Times
+- Iran has lost significant control of the Strait of Hormuz - CNN
+- ABC and Disney sue FCC, alleging First Amendment violations - NPR
+- Trump’s Ballroom Is Rising at Breakneck Speed: 20 Hours a Day, 7 Days a Week - The New York Times
+- Data centers, crypto, and tax revisions take center stage in Tuesday primaries - CNBC
+- TPS' slow bleed leaves thousands in limbo - Axios
+- Lindsay Clancy said she "heard male voice ordering her" to kill children, psychologist testifies during murder trial - CBS News
 - Trump seeks to open millions of acres of national forests to roads - The Washington Post
-- Father charged in suspected cocaine ring at Penn State is Pittsburgh attorney - triblive.com
-- Gov. Josh Shapiro signs executive order placing guardrails on Pa. data centers - NBC10 Philadelphia
+- Hawaii’s Storm Ravages a Cemetery, Setting Off a Hunt for the Dead - The New York Times
+- Father charged in suspected cocaine ring at Penn State is Pittsburgh attorney - TribLIVE.com
+- Pennsylvania Governor Shapiro Puts ‘Guardrails’ on Data Centers - Bloomberg
 - South Korea president calls for military independence in wake of Trump call to cut joint drills - The Guardian
-- The Moscow region is hit by a drone blitz as Russian missiles kill 10 in a Ukrainian village - AP News
-- Israeli Strike on Syrian Military Air Base Draws U.S. Criticism - The New York Times
-- As rubble clears, Colombia begins focusing on recovery after the earthquake - Al Jazeera
-- Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007 - The New York Times
+- Chocó, Colombia, Faces Deeper Hardship After an Earthquake - The New York Times
+- US working on deconfliction mechanism among Turkey, Israel and Syria, US envoy says - reuters.com
+- UAE Says Iran Fired Two Missiles at Country as War Drags On - Yahoo Finance
+- Tech selloff weighs down Wall Street as bond yields climb - reuters.com
 - Meta 'hid the truth' over child safety, court hears, as social media trial begins - BBC
 - Home Depot customers stick to smaller projects as housing costs stay high - Fox Business
-- Anthropic Pre-IPO Credit Facility Set to Climb Past $10 Billion - bloomberg.com
+- OpenAI introduces ‘ChatGPT for Teens’ experience amid scrutiny over child safety - CNN
 - Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear - TechCrunch
 - Gemini in Chrome and auto browse roll out on Android in the US - 9to5Google
