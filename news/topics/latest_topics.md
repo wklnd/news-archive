@@ -1,43 +1,43 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-18 21:49_
+_Updated: 2026-08-18 22:50_
 
 ## Top Stories
 
 - DN Direkt – Busschafförer protesterade – SD-reklam tas ner - Dagens Nyheter
 - Kristersson: Låg under i alla mätningar förra valet - Västerbottens-Kuriren
-- Uppgifter: Estland stoppar svenska fångar - SVT Nyheter
-- Val 2026 i SVT – allt om valbevakningen, Valkompassen, partiledarutfrågningar, Statsministermötet och Slutdebatten - SVT Om oss
-- Hot om ”konsekvenser” i rysk-brittisk konflikt - Svenska Dagbladet
-- Larmet: Allt fler unga flickor involverade i gängkonflikten - TV4 Nyheterna
-- DN Direkt – Person i Värmland smittad av mässling - Dagens Nyheter
+- JEANETTE WIDÉN: Därför kan svenska fångar flyttas till Estland - NT
+- Explosion i Malmö – nationella bombskyddet inkallat - Sveriges Radio
+- SD:s bussreklam tas ner – Senaste nytt om valet 2026 - SVT Nyheter
+- Ukraina: Tio mördade i rysk bombning mot Charkivs rusnignstrafik - Cornucopia?
 - Facit: Över 50 000 igelkottar: ”Så glada och häpna” - Corren
 - Valaffischer nedrivna på flera platser - LT
 - Kvinna påkörd av buss på Södermalm - Expressen
+- Kriminolog: Det driver unga tjejer att begå kontraktsmord - Dagens Nyheter
 - Irankriget: Fristen passerade – ingen fred i sikte - Dagens Nyheter
-- Dödliga attacker mot Charkiv och drönare i Moskva - Göteborgs-Posten
+- Förre försvarsministern manar till ukrainska val - Göteborgs-Posten
 - Syrien: Bashar al-Assads kusin dömd till döden - Västerbottens-Kuriren
 - Michael Winiarski: Ryssland fördjupar banden till Nordkorea - Dagens Nyheter
+- Börsen backar för tionde dagen i rad – inte hänt på 25 år - TV4 Nyheterna
+- Wall Street tyngdes av AI och olja - Västerbottens-Kuriren
+- Klarnas aktie störtdök på Wall Street - Expressen
 - Ekonomerna om ränteläget: ”En höjning rycker närmare” - Omni – Alla nyheter. Alla perspektiv.
-- Lärdomar av Tesla-konflikten - Företagarna
-- Över 3 000 mål mot Meta i stor federal rättegång - Sveriges Radio
-- Klarna söker nya toppchefer - Västerbottens-Kuriren
 - Sonderwunsch har byggt unik Flachbau-modell. Kund ville ha något ingen annan har. - Feber
-- IKEA hintar om samarbete med Xbox - Teknikveckan
+- IKEA hintar om samarbete med Xbox - teknikveckan.se
 
 ## World News
 
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 18:45 - tv.nu
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - news.cision.com
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Megaaffären lyfter American Express Global Business Travel - travelnews.se
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
@@ -45,8 +45,8 @@ _Updated: 2026-08-18 21:49_
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - news.cision.com
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Etraveli rusar – 175 miljarder och global styrka - travelnews.se
 
 ## Technology
 
@@ -74,18 +74,18 @@ _Updated: 2026-08-18 21:49_
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -101,7 +101,7 @@ _Updated: 2026-08-18 21:49_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Låt oss prata hälsa – Intensivvård – Segment 1 - apollohospitals.com
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -127,7 +127,7 @@ _Updated: 2026-08-18 21:49_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
-- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - SLU
