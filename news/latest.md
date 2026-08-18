@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-18 21:14_
+_Updated: 2026-08-18 21:56_
 
-- Iran is losing control of the Strait of Hormuz - CNN
-- Election Live Updates: Florida, Alaska and Wyoming Hold Key Primaries - The New York Times
-- Disney and ABC sue Trump's media regulator to stop early licence renewal - BBC
 - U.S.-Iran Updates: Trump says no talks with Iran taking place as standoff over Strait of Hormuz continues - CBS News
-- DeSantis Ally In Florida Arrested On Child Sex-Abuse Charges - Forbes
-- Canada battles the clock, politics in scramble to avert Trump’s tariffs - Al Jazeera
-- Penn State students accused of running cocaine-trafficking ring at fraternity houses - The Guardian
-- Minnesota attorney general sues Texas governor to compel extradition of ICE agent for trial - AP News
-- Ossoff just went viral again. That was probably the point. - Politico
-- Watch Live: Lindsay Clancy trial resumes with Patrick Clancy's mother testifying, "She was begging for help" - CBS News
-- The Moscow region is hit by a drone blitz as Russian missiles kill 10 in a Ukrainian village - AP News
+- ABC sues FCC, claiming First Amendment violations, escalating months-long feud - The Washington Post
+- Iran is losing control of the Strait of Hormuz - CNN
+- Trump is weighing whether to grant Canada a tariff reprieve - Politico
+- Lindsay Clancy begged for help before her children's killings, mother-in-law testifies - BBC
+- Election Live Updates: Florida, Alaska and Wyoming Hold Key Primaries - The New York Times
+- Hurricane Lala Destroyed a Hawaii Cemetery, Setting Off a Hunt for the Dead - The New York Times
+- Trump administration to rescind rule protecting old growth forests - The Guardian
+- Penn State frat pledges were made to cut and bag cocaine for college drug ring, authorities say - AP News
+- Ossoff: ‘Zero interest’ in running for president in 2028 - The Hill
 - S. Korea stresses US alliance amid confusion over Trump drill cut - NPR
+- The Moscow region is hit by a drone blitz as Russian missiles kill 10 in a Ukrainian village - AP News
 - Chocó, Colombia, Faces Deeper Hardship After an Earthquake - The New York Times
-- Zambia’s President Hakainde Hichilema wins second term - Al Jazeera
+- Israeli strikes on Syrian air base criticised by US and Turkey - Financial Times
 - Meta 'hid the truth' over child safety, court hears, as social media trial begins - BBC
-- Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007 - The New York Times
 - OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks - Reuters
 - Anthropic Pre-IPO Credit Facility Set to Climb Past $10 Billion - Bloomberg
-- Apple’s new macOS update reportedly contains a video of AirPods with a camera - techcrunch.com
-- PlayStation's Official Desktop Speakers Arrive in November for $220 - pushsquare.com
+- S&P 500 falls, hurt by elevated global bond yields and oil prices: Live updates - CNBC
+- Google Wallet's fancy new colorful UI is finally rolling out - Android Authority
+- PlayStation's Official Desktop Speakers Arrive in November for $220 - Push Square
