@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-18 11:13_
+_Updated: 2026-08-18 12:02_
 
-- Dems plan Oman war powers push after Trump threatens bombing - Axios
-- Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-un - The New York Times
+- Congressional Democrats plan Oman war powers push after Trump threatens bombing - Axios
+- Trump lashes out at South Korea over its refusal to join Iran war - pbs.org
+- Trump says concern about USS Abraham Lincoln is ‘a CNN fake report’ - The Hill
+- Family says Massachusetts mother who killed children struggled with mental illness - Reuters
+- The 60-day deadline for an Iran peace deal is expiring. Here’s where things stand - AP News
 - Penn State cocaine bust nets 14 arrests over alleged pledge coke-cutting ‘indoctrination' rituals - Fox News
-- Maps capture the travel strain on USS Abraham Lincoln aircraft carrier - USA Today
-- Who is Natalie Harp? Ossoff ignites personal feud over Trump’s aide - CNN
-- Without new water, America's second-largest reservoir may collapse - SFGATE
 - Trump administration briefly pauses contentious border project in Texas' Big Bend National Park - AP News
 - Judge delays Mangione’s state trial after lawyers sought dismissal - The Washington Post
 - Family Presses for Information About Fatal ICE Shooting in Maine - The New York Times
-- Justice Department asks court to reinstate criminal charges against Kilmar Abrego Garcia - CBS News
+- Inside Ossoff’s meticulously viral campaign - Politico
 - Russia warns Britain of 'consequences' for supplying drones to Ukraine - Reuters
 - Shakira makes surprise visit in earthquake-damaged Colombia and commits to rebuilding schools - AP News
-- Thousands await aid after deadly Indonesia quake as rescue work under way - Al Jazeera
-- Senior Israeli official calls for killing of "30 to 40" people in Gaza every night: "They're not even people" - CBS News
-- Meta Stares Down Trillion-Dollar Threat as Landmark Social Media Trial Begins - Bloomberg
+- Kushner urges Netanyahu to test Hamas disarmament in Gaza - Axios
+- Zambia’s President Hakainde Hichilema wins second term - Al Jazeera
+- Meta Stares Down Trillion-Dollar Threat as Landmark Social Media Trial Begins - Bloomberg.com
 - US 30-year yields hit highest level since 2007 as war, oil worries fester - Reuters
-- Anthropic’s annualized revenue surges to $65B - TechCrunch
-- Stock futures are little changed after Wall Street starts the week with losses, hurt by higher oil prices and rising yields: Live updates - CNBC
-- Apple's Camera-Equipped AirPods Confirmed: See Them in Action - MacRumors
-- Reddit’s AI is turning posts into podcasts and short videos - The Verge
+- L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4% - CNBC
+- Stock market today: Dow, S&P 500, Nasdaq futures extend losses amid US-Iran tensions - Yahoo Finance
+- Apple’s camera-equipped AirPods appear in leaked video - The Verge
+- Reddit begins testing a new audio and video experience, similar to popular TikTok videos - TechCrunch
