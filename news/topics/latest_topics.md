@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-18 17:02_
+_Updated: 2026-08-18 17:57_
 
 ## Top Stories
 
 - Minst tio döda i Ukraina - Dagens Nyheter
-- Uppgifter: Flicka misstänks för skjutningen i Ronna – hade vapnet i bh:n - aftonbladet.se
 - Estland stoppar en majoritet av svenska fångar - SVT Nyheter
 - Tre dog i krock - 8 Sidor
-- DN Direkt – C och MP drar ut på gemensam klimatturné - Dagens Nyheter
-- 39-årig man körde ihjäl en 14-årig flicka i Malmö – döms till vård - Sydsvenskan
-- Misstänkta sexövergreppen inom hemtjänsten: Nu totalt sju anmälningar - SVT Nyheter
+- C och MP vill lyfta klimatet med debatturné - Göteborgs-Posten
+- Uppgifter: Flicka misstänks för skjutningen i Ronna – hade vapnet i bh:n - Aftonbladet
+- Tingsrätten dömer man till rättspsykiatrisk vård efter dödsolycka - Sveriges Domstolar
+- Chatt om skärmtid: Tydliga regler eller obegränsat? Hur gör du? - SVT Nyheter
+- M: Skärpta straff för våldtäkt mot äldre - Göteborgs-Posten
+- Äldre nekas boende – anhöriga förstår inte varför - Dagens Nyheter
 - ”Larven från helvetet” hittad i Skåne - Västerbottens-Kuriren
-- Kriminolog: Det driver unga tjejer att begå kontraktsmord - Dagens Nyheter
-- Mindre än en månad till val – ställ dina frågor om svensk politik - SVT Nyheter
-- Trump: Inga samtal på gång med Iran - Göteborgs-Posten
-- Syrien: Bashar al-Assads kusin dömd till döden - Västerbottens-Kuriren
 - Israel bombar Syrien som en varning till Turkiet - Dagens Nyheter
+- Iran: USA måste leverera om sundet ska öppnas - Västerbottens-Kuriren
 - Vita huset till angrepp mot journalist efter konflikt med Trump - Dagens Nyheter
-- SBAB spår två räntehöjningar redan i år - SVT Nyheter
+- DN Direkt – SD vill se modern version av mentalsjukhus - Dagens Nyheter
 - Klarna rasar – röd öppning i USA - Placera.se
+- SBAB spår två räntehöjningar redan i år - SVT Nyheter
 - Trump bygger en offensiv mot de som utmanar hans rika kompisar - Arbetet
-- Nasdaq om nya USA-schemat: Så blir det i Stockholm - DI
+- Experter: Därför har börsen backat tio dagar i rad - Dagens Nyheter
 - Nu har Microsoft plockat bort WMIC från Windows 11 - Computer Sweden
 - Sonderwunsch har byggt unik Flachbau-modell. Kund ville ha något ingen annan har. - feber.se
 
@@ -146,19 +146,19 @@ _Updated: 2026-08-18 17:02_
 - Sveriges förändrade lantbruk - SLU
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Jordbruket har en nyckelroll för att rädda klimatet - land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
 - KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
-- Visning av uppkomst efter direktsådd - Land.se
+- Visning av uppkomst efter direktsådd - land.se
 - Jord, kor och klimat - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - land.se
 - Kan agroekologi mätta världen? - SLU
-- Hellre plöjningsfri odling än ekologisk - Land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Hellre plöjningsfri odling än ekologisk - land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - land.se
+- De blev grönsaksodlare tack vare lokalt stöd - land.se
