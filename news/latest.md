@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-18 10:05_
+_Updated: 2026-08-18 11:13_
 
 - Dems plan Oman war powers push after Trump threatens bombing - Axios
+- Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-un - The New York Times
 - Penn State cocaine bust nets 14 arrests over alleged pledge coke-cutting ‘indoctrination' rituals - Fox News
-- Trump says concern about USS Abraham Lincoln is ‘a CNN fake report’ - The Hill
-- Lindsay Clancy's mother testifies "she had thoughts of harming the children," as defense begins in murder trial - CBS News
-- Trump’s approval rating sinks to new low at 33 percent - Al Jazeera
+- Maps capture the travel strain on USS Abraham Lincoln aircraft carrier - USA Today
 - Who is Natalie Harp? Ossoff ignites personal feud over Trump’s aide - CNN
-- 1 death linked to Tropical Storm Lala as more than 100,000 remain without power in Hawaii - AP News
-- Feds pausing Big Bend border construction while CBP commissioner visits the park - The Texas Tribune
+- Without new water, America's second-largest reservoir may collapse - SFGATE
+- Trump administration briefly pauses contentious border project in Texas' Big Bend National Park - AP News
+- Judge delays Mangione’s state trial after lawyers sought dismissal - The Washington Post
 - Family Presses for Information About Fatal ICE Shooting in Maine - The New York Times
 - Justice Department asks court to reinstate criminal charges against Kilmar Abrego Garcia - CBS News
-- Trump says N Korea’s Kim has responded to his request for a conversation - Al Jazeera
-- "Would Pay A Price": Moscow Warns UK After British-Made Drones Hit Russia - NDTV
-- Indonesian mother 'grateful' after emergency birth during 7.7 quake - Reuters
+- Russia warns Britain of 'consequences' for supplying drones to Ukraine - Reuters
+- Shakira makes surprise visit in earthquake-damaged Colombia and commits to rebuilding schools - AP News
+- Thousands await aid after deadly Indonesia quake as rescue work under way - Al Jazeera
 - Senior Israeli official calls for killing of "30 to 40" people in Gaza every night: "They're not even people" - CBS News
-- Meta Stares Down Trillion-Dollar Threat as Landmark Social Media Trial Begins - Bloomberg.com
-- The 30-year Treasury yield just hit a 19-year high. Three things could drive it even higher - CNBC
-- Paramount wants a $1.9 billion bond from state AGs fighting the Warner Bros. merger - CNN
-- US prosecutors focus on four businesses tied to billionaire Mark Walter, WSJ reports - Reuters
+- Meta Stares Down Trillion-Dollar Threat as Landmark Social Media Trial Begins - Bloomberg
+- US 30-year yields hit highest level since 2007 as war, oil worries fester - Reuters
+- Anthropic’s annualized revenue surges to $65B - TechCrunch
+- Stock futures are little changed after Wall Street starts the week with losses, hurt by higher oil prices and rising yields: Live updates - CNBC
 - Apple's Camera-Equipped AirPods Confirmed: See Them in Action - MacRumors
-- Reddit’s AI is turning posts into podcasts and short videos - theverge.com
+- Reddit’s AI is turning posts into podcasts and short videos - The Verge
