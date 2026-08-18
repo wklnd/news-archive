@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-18 04:04_
+_Updated: 2026-08-18 05:25_
 
-- Live updates: Trump threatens to bomb US ally Oman as Iran agreement expires - CNN
+- Trump says US in contact with IRGC and calls on Iran to surrender - Al Jazeera
 - Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-un - The New York Times
-- White House fires back at ‘theater kid’ Ossoff - The Hill
-- Trump’s approval rating sinks to new low at 33 percent - Al Jazeera
-- Luigi Mangione’s state murder trial postponed indefinitely amid double jeopardy fight - AP News
-- House ethics panel says it’s investigating Rep. Jimmy Gomez over allegation of ‘sexual misconduct’ - NBC News
-- Thousands without power after Tropical Storm Lala uproots trees in Hawaii - AP News
-- Big Bend border wall construction paused by Trump administration - Axios
-- Lindsay Clancy 'had thoughts of harming the children,' her mother testifies in murder trial - wcvb.com
-- Baby with heart defect at center of surrogate dispute receives first surgery, parents' lawyer says - CBS News
-- Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza - The New York Times
-- US officials to reportedly tour West Bank town besieged by settler extremists - The Times of Israel
-- Cambridge professor’s death shakes Britain as supporters condemn media ‘witch hunt’ - NBC News
+- Penn State cocaine bust nets 14 arrests over alleged pledge coke-cutting ‘indoctrination' rituals - Fox News
+- Trump Fumes At CNN Reporter Who Asked About North Korean Leader - Deadline
+- Lake Powell, second-largest reservoir in US, hits record-low water level - The Hill
+- EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds - Reuters
+- Trump administration briefly pauses contentious border project in Texas' Big Bend National Park - AP News
+- ‘Deeply Emotional’: Luigi Mangione’s Friends React to His Guilty Plea - Rolling Stone
+- What We Know About Damages From Hurricane Lala in Hawaii - The New York Times
+- Family Presses for Information About Fatal ICE Shooting in Maine - The New York Times
+- ‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says - Al Jazeera
+- Thousands in Indonesia await aid after quake kills 68, overshadowing Independence Day - AP News
 - Senior Israeli official calls for killing of "30 to 40" people in Gaza every night: "They're not even people" - CBS News
+- 60 days after signing Iran deal, Trump stuck in quagmire as war drags on - The Washington Post
 - Meta Stares Down Trillion-Dollar Threat as Landmark Social Media Trial Begins - Bloomberg.com
-- Paramount wants a $1.9 billion bond from state AGs fighting the Warner Bros. merger - CNN
-- Mark Walter probe raises fears of ripple effects across Wall Street’s $1T insurance bet - New York Post
-- Stock Market News, Aug. 17, 2026: 30-Year Treasury Yield Hits Fresh High - WSJ
-- Google rolling out Android 17 QPR1 Beta 9 for Pixel - 9to5Google
-- macOS 27 Golden Gate beta 6 features redesigned traffic light window controls - 9to5Mac
+- Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center - Reuters
+- US Bond Selloff Drives 30-Year Yields to Highest Since 2007 - Yahoo Finance
+- The Lakers sale and a federal probe put Mark Walter in a spotlight he never sought - The Athletic - The New York Times
+- Apple's Camera-Equipped AirPods Confirmed: See Them in Action - MacRumors
+- 5 Anker Gadgets Under $25 Worth Adding To Your Kit - bgr.com
