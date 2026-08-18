@@ -1,38 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-18 22:50_
+_Updated: 2026-08-18 23:48_
 
 ## Top Stories
 
 - DN Direkt – Busschafförer protesterade – SD-reklam tas ner - Dagens Nyheter
-- Kristersson: Låg under i alla mätningar förra valet - Västerbottens-Kuriren
-- JEANETTE WIDÉN: Därför kan svenska fångar flyttas till Estland - NT
-- Explosion i Malmö – nationella bombskyddet inkallat - Sveriges Radio
-- SD:s bussreklam tas ner – Senaste nytt om valet 2026 - SVT Nyheter
-- Ukraina: Tio mördade i rysk bombning mot Charkivs rusnignstrafik - Cornucopia?
+- Explosion vid port i Malmö – två unga män gripna - TV4 Nyheterna
+- Uppgifter: Estland stoppar svenska fångar - SVT Nyheter
+- ”Man hoppas att det inte var någons fel” - Göteborgs-Posten
+- Förre försvarsministern manar till ukrainska val - Västerbottens-Kuriren
+- Val 2026 i SVT – allt om valbevakningen, Valkompassen, partiledarutfrågningar, Statsministermötet och Slutdebatten - SVT Om oss
 - Facit: Över 50 000 igelkottar: ”Så glada och häpna” - Corren
-- Valaffischer nedrivna på flera platser - LT
-- Kvinna påkörd av buss på Södermalm - Expressen
-- Kriminolog: Det driver unga tjejer att begå kontraktsmord - Dagens Nyheter
-- Irankriget: Fristen passerade – ingen fred i sikte - Dagens Nyheter
-- Förre försvarsministern manar till ukrainska val - Göteborgs-Posten
+- Moderaternas valaffischer förstörda i Örebro - Sveriges Radio
+- Skjuten pojke inte livshotande skadad – 14-åringar gripna - Dagens Nyheter
+- ”Det känns nervöst att lämna ifrån sig mobilen” - UNT
+- Irankriget: Fristen passerade – ingen fred i sikte - Göteborgs-Posten
+- Dödliga attacker mot Charkiv och drönare i Moskva - Västerbottens-Kuriren
 - Syrien: Bashar al-Assads kusin dömd till döden - Västerbottens-Kuriren
-- Michael Winiarski: Ryssland fördjupar banden till Nordkorea - Dagens Nyheter
+- Vita huset till angrepp mot journalist efter konflikt med Trump - Dagens Nyheter
 - Börsen backar för tionde dagen i rad – inte hänt på 25 år - TV4 Nyheterna
-- Wall Street tyngdes av AI och olja - Västerbottens-Kuriren
+- Olja och räntor pressade Wall Street – Klarnas aktie rasade - Omni – Alla nyheter. Alla perspektiv.
 - Klarnas aktie störtdök på Wall Street - Expressen
-- Ekonomerna om ränteläget: ”En höjning rycker närmare” - Omni – Alla nyheter. Alla perspektiv.
-- Sonderwunsch har byggt unik Flachbau-modell. Kund ville ha något ingen annan har. - Feber
-- IKEA hintar om samarbete med Xbox - teknikveckan.se
+- Lärdomar av Tesla-konflikten - Företagarna
+- IKEA hintar om samarbete med Xbox - Teknikveckan
+- Fairphone får en prestandaboost. Här är Fairphone 6+. - Feber
 
 ## World News
 
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 18:45 - tv.nu
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - World Liberty Financial to Tokenize Trump International Hotel & Resort, Maldives, in Partnership with DarGlobal and Securitize (PR Newswire) - Aktiellt
-- Megaaffären lyfter American Express Global Business Travel - travelnews.se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -41,12 +40,13 @@ _Updated: 2026-08-18 22:50_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Etraveli rusar – 175 miljarder och global styrka - travelnews.se
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 
 ## Technology
 
@@ -57,8 +57,8 @@ _Updated: 2026-08-18 22:50_
 - AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Ho Chi Minh-museet anordnade en specialiserad utbildningskonferens om "Tillämpning av artificiell intelligens (AI) i museiledning och drift". - Vietnam.vn
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -126,14 +126,14 @@ _Updated: 2026-08-18 22:50_
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
-- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
@@ -144,12 +144,12 @@ _Updated: 2026-08-18 22:50_
 
 - Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
