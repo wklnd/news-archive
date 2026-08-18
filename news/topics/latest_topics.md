@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-18 12:55_
+_Updated: 2026-08-18 13:51_
 
 ## Top Stories
 
 - Grannarnas chock – efter dödsolyckan: ”Alldeles tagna” - Aftonbladet
 - Flicka ihjälkörd på övergångsställe – man döms - TV4 Nyheterna
+- Skjutning i Södertälje - 8 Sidor
 - Regnkaos i Norrbotten – väg bortspolad av regnet - Sveriges Radio
 - JLC-guldstriden över – miljontackor lämnas ut - Svenska Dagbladet
-- Ryssland: Hundratals drönare mot Moskva i natt - Göteborgs-Posten
-- ”Ovanliga lögner från S om mängdrabatt” - Svenska Dagbladet
-- Chatt om skärmtid: Tydliga regler eller obegränsat? Hur gör du? - SVT Nyheter
+- Flera bank-id-problem när dottern behöver hjälp - Dagens Nyheter
 - ”Larven från helvetet” hittad i Skåne - SVT Nyheter
+- Skola vädjar till föräldrar: Låt mobilerna stanna hemma - Dagens Nyheter
+- M: Skärpta straff för våldtäkt mot äldre - Västerbottens-Kuriren
 - C och MP vill lyfta klimatet med debatturné - Västerbottens-Kuriren
-- Torkan på Österlen påverkar ångtåget: ”Tråkigt – det är ett kulturarv” - Sveriges Radio
+- Ukrainare döms för rysk sabotageplan i Tyskland - Västerbottens-Kuriren
 - Analys: Trumps utspel om vänskapen överraskade - Göteborgs-Posten
 - Direkt – Krisen i Mellanöstern – Bashar al-Assads kusin dömd till döden - Dagens Nyheter
 - Iran: USA måste leverera om sundet ska öppnas - Göteborgs-Posten
-- Michael Winiarski: Polska högerns spricka kan missgynna Donald Tusk - Dagens Nyheter
 - SBAB spår två räntehöjningar redan i år - SVT Nyheter
 - Trump bygger en offensiv mot de som utmanar hans rika kompisar - Arbetet
-- Klart: Nasdaq i USA utökar öppettider - Göteborgs-Posten
-- Experten: Därför kan börsens historiska "pyspunka-ras" vara köpläge - Dagens PS
+- Nasdaq i USA siktar på 23 timmars handel - affarsvarlden.se
+- USA:s långränta på högsta nivån på 19 år - Omni – Alla nyheter. Alla perspektiv.
+- Sonderwunsch har byggt unik Flachbau-modell. Kund ville ha något ingen annan har. - Feber
 - Susanna Stubberöd - Magasin K
-- 28-åring startar nytt konsultföretag i Partille - Partille Tidning
 
 ## World News
 
@@ -31,44 +31,44 @@ _Updated: 2026-08-18 12:55_
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - via.tt.se
-- CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Vorwerk Group Continues Global Expansion in Direct Sales - via.tt.se
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Megaaffären lyfter American Express Global Business Travel - travelnews.se
+- CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Etraveli rusar – 175 miljarder och global styrka - travelnews.se
 - Vietnam är värd för WAN-IFRA International Artificial Intelligence Forum för första gången. - Vietnam.vn
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Global turism slog nytt rekord under 2025 - travelnews.se
 
 ## Technology
 
 - Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Ho Chi Minh-museet anordnade en specialiserad utbildningskonferens om "Tillämpning av artificiell intelligens (AI) i museiledning och drift". - Vietnam.vn
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- Albanien utser AI-bot till minister - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
+- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
+- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
+- Albanien utser AI-bot till minister - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 
 ## Business
@@ -109,7 +109,7 @@ _Updated: 2026-08-18 12:55_
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
@@ -137,17 +137,17 @@ _Updated: 2026-08-18 12:55_
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 
 ## Jordbruk
 
-- Jordbrukspolitik - Naturvårdsverket
+- Jordbrukspolitik - naturvardsverket.se
 - Sveriges förändrade lantbruk - SLU
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Brittiska bönder i massiv protest mot arvsskatten - ja.se
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
