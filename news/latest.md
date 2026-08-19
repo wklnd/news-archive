@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-19 09:23_
+_Updated: 2026-08-19 10:06_
 
-- A Stunning Win for the Left in Florida: 6 Takeaways From Tuesday’s Primaries - The New York Times
+- Election Live Updates: Top Alaska Senate Candidates Advance as Angie Nixon Wins in Florida - The New York Times
 - Trump pauses 50% tariffs on Canadian goods for 3 days - Axios
+- U.S. military drills with South Korea are cut short after surprise Trump order - NBC News
 - Embattled incumbent Cory Mills ousted in Florida primary - Politico
-- Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim - cnbc.com
 - Trump’s pick for Wyoming governor is the latest endorsee to lose primary - Politico
-- Lindsay Clancy said she heard male voice telling her to 'kill her children and kill herself': testimony - New York Post
+- U.S.-Iran Updates: Trump says no talks with Iran taking place as standoff over Strait of Hormuz continues - CBS News
+- Lindsay Clancy begged for help before her children's killings, mother-in-law testifies - BBC
 - Alleged leader of Penn State frat cocaine ring arraigned, denied bail - The Washington Post
 - Florida governor's race is set - Politico
-- Trump to tap Heidi Overton as FDA commissioner - Axios
-- Haitians in Springfield Hunker Down as ICE Begins Detentions - The New York Times
-- Sacked Ukrainian defence minister calls for presidential election - BBC
-- Erin Patterson, Woman Convicted in Australia’s Mushroom Murder Case, Appeals - The New York Times
-- The Moscow region is hit by almost 800 drones as Russian missiles kill 10 in a Ukrainian village - PBS
-- Trump threatened to bomb Oman because he's unhappy with country's deal with Iran, officials say - AP News
-- Chinese humanoid robot maker surges 600% in trading debut - Financial Times
-- Anthropic Pre-IPO Credit Facility Set to Climb Past $10 Billion - Bloomberg.com
-- Meta 'hid the truth' over child safety, court hears, as social media trial begins - BBC
-- Target is set to report earnings before the bell. Here's what to expect - cnbc.com
+- Trump administration moves to kill ‘roadless rule,’ but Colorado has its own protections - Colorado Public Radio
+- Zelenskyy faces challenge to his wartime rule as former defense chief calls for election - CNBC
+- Israel defends strike on Syria as U.S. frustration with Bibi grows - Axios
+- 'Catastrophic' hotel blunder caused unfair trial, mushroom murderer's lawyers tell court - BBC
+- A warehouse burns near Moscow. In Ukraine, drone crews prepare to strike again - apnews.com
+- Unitree soars in Shanghai debut, a milestone for China's humanoid robotics sector - Reuters
+- Meta social media addiction trial kicks off with major implications for company’s future - Yahoo Finance
+- Asian Stocks Set for Losses as Bond Jitters Linger: Markets Wrap - Bloomberg.com
+- Target is set to report earnings before the bell. Here's what to expect - CNBC
 - Google just set the date for its big Googlebook event in New York - Android Central
-- GTA 6 gameplay and map leaks see DMCA strikes, as confidence grows in their legitimacy - Notebookcheck
+- GTA 6 Gameplay Leaked Ahead Of Its New Trailer, And Rockstar Is Taking Down The Videos - Engadget
