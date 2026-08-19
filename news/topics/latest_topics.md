@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-19 10:03_
+_Updated: 2026-08-19 11:04_
 
 ## Top Stories
 
-- Två anhållna efter explosion i Malmö - Sveriges Radio
+- De tävlar i ”På spåret” hösten 2026 - TV4 Nyheterna
 - DN Direkt – Stor vattenläcka i Skåne - Dagens Nyheter
+- SD vill benåda personer som hängt ut pedofiler - Göteborgs-Posten
+- DN Direkt – Svensk allvarligt skadad efter fall i Österrike - Dagens Nyheter
 - Jimmie Åkesson: ”Kan långsiktigt vara bra för SD att hamna i opposition” - Dagens Nyheter
-- Villa i brand – tak har rasat in - Aftonbladet
 - Dadgostar: Svenska företag hoppas på regeringsskifte - Omni – Alla nyheter. Alla perspektiv.
-- Polisen rustar för ökat tryck på nya pass - Polisen.se
-- Misstänkt mordförsök i Kramfors – en gripen - Göteborgs-Posten
-- DN Direkt – Äldre kvinna död i lägenhetsbrand - Dagens Nyheter
+- Kristofer Ahlström: Vill politikerna – på riktigt – dö för sitt land? - Dagens Nyheter
 - SD vill benåda förtalsdömda – Senaste nytt om valet 2026 - SVT Nyheter
 - Estland säger nej till en del fångar från Sverige - Hufvudstadsbladet – HBL
-- DN Direkt – Sydkoreas och USA:s militärövning kortas på Trumps order - Dagens Nyheter
+- Misstänkt farligt föremål i Bjursås – var ofarligt - Expressen
+- Iran: USA måste leverera om sundet ska öppnas - Västerbottens-Kuriren
 - Därför är Medelhavet varmt som en barnpool - Göteborgs-Posten
-- Minst fyra döda efter rysk attack mot Cherson - Norra Skåne
 - DN Direkt – Flera döda i hotellbrand i Indien - Dagens Nyheter
+- Minst fyra döda efter rysk attack mot Cherson - Västerbottens-Kuriren
+- Pareto: Starkt kvartal bäddar för att Surgical Science når marginalmålet i förtid - Placera.se
 - Stort techras på Asienbörserna - Affärsvärlden
-- SER UT ATT STIGA BLYGSAMT VID ÖPPNING - Placera.se
-- Avskaffa ROT- och RUT-avdragen nu - Dagens Arena
-- Stor rättegång mot Meta - 8sidor.se
+- Sluga bluffen: Använde 94-åriga Svenssons för att få ROT-avdrag - SVT Nyheter
+- Stor rättegång mot Meta - 8 Sidor
 - Nya GTA 6-läckor – hackergrupp hotar med fler attacker - Aftonbladet
-- Därför blir det stopp i astronauters magar - Folkbladet
+- Är Siri AI en Chat GPT-konkurrent? - mobil.se
 
 ## World News
 
-- ”Fireshine” lyfte Enad Global 7 - Dagens industri
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
@@ -43,6 +42,7 @@ _Updated: 2026-08-19 10:03_
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
@@ -56,6 +56,7 @@ _Updated: 2026-08-19 10:03_
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Ho Chi Minh-museet anordnade en specialiserad utbildningskonferens om "Tillämpning av artificiell intelligens (AI) i museiledning och drift". - Vietnam.vn
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Leveraging AI in Swedish Development Cooperation - FUF.se
@@ -65,17 +66,16 @@ _Updated: 2026-08-19 10:03_
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
@@ -103,19 +103,19 @@ _Updated: 2026-08-19 10:03_
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
