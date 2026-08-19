@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-19 01:47_
+_Updated: 2026-08-19 04:01_
 
 ## Top Stories
 
-- DN Direkt – Explosion utanför port i Malmö – två gripna - Dagens Nyheter
-- ”Man hoppas att det inte var någons fel” - Göteborgs-Posten
-- Västtrafik tar ner valreklam från SD i Skaraborg: ”Valsabotage” - SVT Nyheter
-- SD:s bussreklam tas ner – Senaste nytt om valet 2026 - SVT Nyheter
+- Sydkoreas och USA:s militärövning kortas - Göteborgs-Posten
+- DN Direkt – Busschafförer protesterade – SD-reklam tas ner - Dagens Nyheter
+- Två gripna efter explosion i Malmö - Sveriges Radio
+- Professorn om opinionsläget: ”Enorm uppförsbacke” – Senaste nytt om valet 2026 - SVT Nyheter
 - Förre försvarsministern manar till ukrainska val - Västerbottens-Kuriren
-- Expert: Trump beredd att kasta allierade under bussen - Dagens Nyheter
-- Uppgifter: Estland stoppar svenska fångar - SVT Nyheter
-- Facit: Över 50 000 igelkottar: ”Så glada och häpna” - corren.se
-- Kvinna påkörd av buss på Södermalm - Expressen
+- Turkiet avvisar Israels uttalande - Västerbottens-Kuriren
+- Svenska fångar stoppade av Estland - Dagens Nyheter
+- ”Man hoppas att det inte var någons fel” - Göteborgs-Posten
 - ”Det känns nervöst att lämna ifrån sig mobilen” - UNT
-- Tidsfristen för Irankriget har passerat – vad händer nu? - SVT Nyheter
-- Ukrainare döms för rysk sabotageplan i Tyskland - Västerbottens-Kuriren
-- Dödliga attacker mot Charkiv och drönare i Moskva - Göteborgs-Posten
-- Risk för översvämning i Norrbotten - Göteborgs-Posten
+- Fler partier drabbade av skadegörelse - Arvika Nyheter
+- Minst 30 döda efter gruvolycka i Centralafrikanska republiken - SVT Nyheter
+- Iran: USA måste leverera om sundet ska öppnas - Västerbottens-Kuriren
+- Dödliga attacker mot Charkiv och drönare i Moskva - Hufvudstadsbladet – HBL
+- DN Direkt – Ebolautbrottet det dödligaste någonsin i Kongo - Dagens Nyheter
 - Börsen backar för tionde dagen i rad – inte hänt på 25 år - TV4 Nyheterna
-- Vinstkross för Klarna – men varnar för svaga tyskar - Breakit
 - Ekonomerna om ränteläget: ”En höjning rycker närmare” - Omni – Alla nyheter. Alla perspektiv.
-- Lärdomar av Tesla-konflikten - Företagarna
-- IKEA hintar om samarbete med Xbox - Teknikveckan
-- Fairphone 6+ lanserad – Våra första intryck - mobil.se
+- Klarna ökar intäkterna men sänker prognosen - Sveriges Radio
+- Google redo att omförhandla avtalet med Torsbodabolaget - Sveriges Radio
+- Därför blir det stopp i astronauters magar - Aftonbladet
+- Apple har släppt ny uppdatering för Ios - mobil.se
 
 ## World News
 
@@ -37,10 +37,10 @@ _Updated: 2026-08-19 01:47_
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - bbc.com
+- Ontario International Airport earns top global honor for customer experience from Airports Council International - swedbank-aktiellt.se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -54,21 +54,21 @@ _Updated: 2026-08-19 01:47_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
+- AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - swedbank-aktiellt.se
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Ho Chi Minh-museet anordnade en specialiserad utbildningskonferens om "Tillämpning av artificiell intelligens (AI) i museiledning och drift". - Vietnam.vn
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - swedbank-aktiellt.se
 - Albanien utser AI-bot till minister - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
+- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - swedbank-aktiellt.se
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
+- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - swedbank-aktiellt.se
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
-- Hyperlink InfoSystem Delivers Tailored AI Agent Solutions to Help Businesses Save Up to 90% in Operational Costs with Intelligent Automation (PR Newswire) - Aktiellt
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 
 ## Business
@@ -77,9 +77,9 @@ _Updated: 2026-08-19 01:47_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - finanstid.se
-- Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
+- Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - swedbank-aktiellt.se
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - swedbank-aktiellt.se
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -124,35 +124,35 @@ _Updated: 2026-08-19 01:47_
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
-- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
+- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - slu.se
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
 ## Jordbruk
 
-- Jordbrukspolitik - naturvardsverket.se
+- Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - slu.se
-- Framtidens jordbruk - commission.europa.eu
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Här är världens största jordbruk - ATL
+- Här är världens största jordbruk - atl.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Så ska det australiensiska jordbruket bli hållbart - atl.nu
 - Lantbrukslogik – nu och i framtiden - slu.se
 - KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
