@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-19 11:04_
+_Updated: 2026-08-19 11:58_
 
 ## Top Stories
 
-- De tävlar i ”På spåret” hösten 2026 - TV4 Nyheterna
+- Ung svensk man föll 30 meter under vandring i Österrike - Sveriges Radio
 - DN Direkt – Stor vattenläcka i Skåne - Dagens Nyheter
 - SD vill benåda personer som hängt ut pedofiler - Göteborgs-Posten
-- DN Direkt – Svensk allvarligt skadad efter fall i Österrike - Dagens Nyheter
-- Jimmie Åkesson: ”Kan långsiktigt vara bra för SD att hamna i opposition” - Dagens Nyheter
 - Dadgostar: Svenska företag hoppas på regeringsskifte - Omni – Alla nyheter. Alla perspektiv.
-- Kristofer Ahlström: Vill politikerna – på riktigt – dö för sitt land? - Dagens Nyheter
-- SD vill benåda förtalsdömda – Senaste nytt om valet 2026 - SVT Nyheter
-- Estland säger nej till en del fångar från Sverige - Hufvudstadsbladet – HBL
-- Misstänkt farligt föremål i Bjursås – var ofarligt - Expressen
-- Iran: USA måste leverera om sundet ska öppnas - Västerbottens-Kuriren
+- Jimmie Åkesson: ”Kan långsiktigt vara bra för SD att hamna i opposition” - Dagens Nyheter
+- ”Få skatter som har lett till lägre priser” - Svenska Dagbladet
+- DN Direkt – Äldre kvinna död i lägenhetsbrand - Dagens Nyheter
+- Så mår svensk ekonomi inför valet - Sveriges Radio
+- Torkan slår hårt mot gräsmattorna – så får du dem gröna igen - Dagens Nyheter
+- Valet 2026 i Jönköpings län - SVT Nyheter
+- Över 5 000 fall – WHO planerar nya rekommendationer – Senaste nytt om ebolautbrottet i Kongo-Kinshasa - SVT Nyheter
 - Därför är Medelhavet varmt som en barnpool - Göteborgs-Posten
-- DN Direkt – Flera döda i hotellbrand i Indien - Dagens Nyheter
-- Minst fyra döda efter rysk attack mot Cherson - Västerbottens-Kuriren
+- Uppgifter: Iran kan anfalla mål i sydöstra Europa - Dagens Nyheter
+- Trumplojalist kan bli Floridas näste guvernör - Västerbottens-Kuriren
 - Pareto: Starkt kvartal bäddar för att Surgical Science når marginalmålet i förtid - Placera.se
-- Stort techras på Asienbörserna - Affärsvärlden
 - Sluga bluffen: Använde 94-åriga Svenssons för att få ROT-avdrag - SVT Nyheter
 - Stor rättegång mot Meta - 8 Sidor
-- Nya GTA 6-läckor – hackergrupp hotar med fler attacker - Aftonbladet
-- Är Siri AI en Chat GPT-konkurrent? - mobil.se
+- Börsen går mot ny röd öppning - Västerbottens-Kuriren
+- Efterlängtad funktion på väg till Windows 11 - PC för Alla
+- Nya GTA-läckor: ”Är ett budskap” - Aftonbladet
 
 ## World News
 
@@ -35,7 +35,7 @@ _Updated: 2026-08-19 11:04_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - new.abb.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
@@ -78,7 +78,7 @@ _Updated: 2026-08-19 11:04_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - finanstid.se
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
@@ -96,32 +96,32 @@ _Updated: 2026-08-19 11:04_
 
 ## Health
 
+- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar HealthBench - OpenAI
+- Vi presenterar HealthBench - openai.com
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
-- AI för vetenskaplig forskning och upptäckter - OpenAI
+- AI för vetenskaplig forskning och upptäckter - openai.com
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
