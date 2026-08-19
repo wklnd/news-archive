@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-20 00:58_
+_Updated: 2026-08-20 01:56_
 
-- Prince Harry and Meghan to return to UK - BBC
-- Losses are piling up for Trump-backed candidates - CNN
-- Trump shows off his new helipad, brags about construction projects - The Washington Post
 - Lindsay Clancy trial ends earlier than expected Wednesday due to "unforeseen circumstance" - CBS News
-- Trump backed down from 50 percent tariffs on Canada. It’s not a TACO. - Politico
-- In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8 - NPR
-- How the soaring federal debt affects you personally - Yahoo Finance
-- Lindsey Graham’s sister and fill-in senator says she’s ‘not that informed on national security’ - The Guardian
-- Trump picks Dr. Heidi Overton, a top White House aide, to lead the Food and Drug Administration - AP News
-- Too close to call? Democratic internal poll shows David Jolly one point ahead of Byron Donalds - Florida Politics
-- 5 Americans among 7 killed in Kenya helicopter crash, including Telemundo executive - NBC News
-- UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight - Reuters
-- ‘Don’t’: Netanyahu says he warned Turkey before Israel struck Syrian base - The Times of Israel
-- Defense minister dismissed by Zelensky demands elections in Ukraine - The Washington Post
-- Stock Market Today: Dow Opens Higher, Bond Yields Dive After Treasury Steps Up Buybacks — Live Updates - WSJ
-- Merck and Moderna say cancer vaccine shows promise in preventing recurrence of melanoma - NBC News
+- Trump shows off his new helipad, brags about construction projects - The Washington Post
+- Canada and US say they are finalising a trade deal, but details remain murky - BBC
+- Kennedy Center tells court it won’t try to restore Trump’s name to the building before Sept. 8 - AP News
+- Jimmy Gomez being investigated for 'sexual harassments and assault,' lawyers allege - politico.com
+- Moskowitz dunks on the DSA - politico.com
+- Darline Graham says she's "not that informed on national security" at debate - CBS News
+- 5 Things to Know About Byron Donalds, Republican Nominee for Florida Governor - The New York Times
+- 8 takeaways and surprises from Florida, Wyoming and Alaska primaries - The Washington Post
+- L.A. officer who recorded colleagues’ racist remarks won’t face felony charges - The Washington Post
+- Kenya tourist helicopter crash kills seven, including five Americans - Reuters
+- Trump’s Plan to Squeeze Iran’s Economy Will Live or Die in Dubai - WSJ
+- Harry and Meghan Will Move Back to Britain After 6 Years in U.S. - The New York Times
+- Syrian foreign minister to Axios: Israeli bombing of airbase was unjustified - axios.com
+- Bessent acts to break bond market fever, head off rising borrowing costs - The Washington Post
+- US debt crosses $40 trillion threshold after doubling under Trump and Biden - Reuters
 - Whistleblower Arturo Béjar leads testimony in landmark trial against Meta - NPR
 - US retail giant receives $1bn boost from tariff refunds - BBC
 - Google Pixel 11 series review: Is the magic fading? - Ars Technica
-- Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required - TechCrunch
+- Apple is about to launch best reason yet to wear AirPods all day long - 9to5Mac
