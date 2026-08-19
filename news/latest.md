@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-19 21:06_
+_Updated: 2026-08-19 21:57_
 
 - Trump and Canada’s Carney Seem to Make Progress on a Tariff Deal, but Questions Linger - The New York Times
-- Sabato’s Crystal Ball moves Florida Senate race to safely Republican after Nixon win - The Hill
-- UAE trade embargo could shut Iran’s key economic escape route: Here’s why - Al Jazeera
-- Key takeaways from Tuesday’s primaries in Florida, Alaska and Wyoming - CNN
+- Democratic socialist Angie Nixon won Tuesday's primary in Florida. Can she win in November? - AP News
+- Iran loses key economic lifeline in Middle East that Trump's sanctions couldn't reach as deadlock persists - Fox News
+- Losses are piling up for Trump-backed candidates - cnn.com
 - Lindsay Clancy's trial put postpartum psychosis on the map. Experts want progress to follow - BBC
-- Losses are piling up for Trump-backed candidates - CNN
-- Lindsey Graham’s sister makes security blunder in car-crash debate - The Telegraph
-- 'We are not a bunch of woke Marxist liberals here': Rural voters scramble Texas election - Politico
-- Republican senator Dan Sullivan and Democrat Mary Peltola advance in Alaska Senate primary - The Guardian
-- ‘Tit for tat’: Why is Trump cosying up to North Korea’s Kim Jong Un again? - Al Jazeera
+- 8 takeaways and surprises from Florida, Wyoming and Alaska primaries - The Washington Post
+- Trump selects Heidi Overton, White House aide, to lead FDA - The Washington Post
+- Trump says he will meet with Kim Jong Un this year - NBC News
+- Prosecutor Reduces Charges Against L.A.P.D. Whistle-Blower After Uproar - The New York Times
+- U.S. Senate race will have two Dan Sullivans and a Mary Peltola - Alaska Public Media
+- Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - AP News
 - Defense minister dismissed by Zelensky demands elections in Ukraine - The Washington Post
 - EXCLUSIVE: Mossad director, Syria foreign minister discussed Turkish military deployments before strikes, sources say - Reuters
-- 4 Americans killed in helicopter crash in Kenya - NBC News
-- Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - AP News
+- 5 Americans among 7 killed in Kenya helicopter crash, including Telemundo executive - NBC News
 - Merck and Moderna say cancer vaccine shows promise in preventing recurrence of melanoma - NBC News
 - Stock Market Today: Dow Opens Higher, Bond Yields Dive After Treasury Steps Up Buybacks — Live Updates - WSJ
-- Why bond markets are unnerving rich-world politicians - The Economist
 - US retail giant receives $1bn boost from tariff refunds - BBC
+- Fed officials saw need for rate hike if inflation doesn't cool, minutes show - CNBC
 - Google Pixel 11 series review: Is the magic fading? - Ars Technica
 - GTA VI keeps leaking ahead of its gameplay premiere - The Verge
