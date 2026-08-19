@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-19 21:02_
+_Updated: 2026-08-19 21:50_
 
 ## Top Stories
 
 - DN Direkt – MP-språkrör vill inte ingå i C-ledarens drömregering - Dagens Nyheter
-- Hål i Essingeleden – körfält avstängt till 23 i kväll - Mitt i
-- Estland nekade svenskarna – men gängkriminalitet nämns inte i avtalet - ETC.se
-- Två kvinnor döda – krockade med älg och lastbil - Aftonbladet
-- Kräver val i Ukraina – kan han hota Zelenskyj? - Svenska Dagbladet
+- Ökad översvämningsrisk i Norrbotten – orange varning - SVT Nyheter
+- Slukhål på Essingeleden – risk för störningar tills i morgon bitti - Sveriges Radio
 - Brodern om Harps Trumplojalitet: ”Ohälsosam besatthet” - Dagens Nyheter
-- Tio nya fall av mässling efter festival - Norran
+- Två kvinnor döda – krockade med älg och lastbil - Aftonbladet
+- Ledare: Kulturkriget utbytt mot plånboksfrågor - Omni – Alla nyheter. Alla perspektiv.
 - 60 000 kronor i böter i trafikkontroll på E4 - Göteborgs-Posten
+- Facket om SD:s affischer på bussarna: ”Busschaufförerna mådde väldigt dåligt” - SVT Nyheter
+- 22-åring döms för våldtäkt på Malmö C - Västerbottens-Kuriren
 - JOHAN RUDSTRÖM: Fler ”hårda” regler behövs även på Valsätraskolan - UNT
-- Männen hittades döda i tält i Härjedalen – dödsorsaken klarlagd - SVT Nyheter
 - Hundratals barn i Ceuta får stanna i Spanien - Göteborgs-Posten
+- Minst 30 döda efter gruvolycka i Centralafrikanska republiken - SVT Nyheter
 - Ryssar tar ut rekordstora summor från banken – kris hotar - Dagens Nyheter
-- Husrannsakan mot Zelenskyjs vice stabschef - Västerbottens-Kuriren
 - Analys: SVT:s Bert Sundström: ”Ryssarna vet vad som pågår – och gillar det inte” - SVT Nyheter
-- Lovande resultat för behandling av svår hudcancer - Svenska Dagbladet
-- Strategen: "Pyspunka på Stockholmsbörsen - Placera.se
-- Ekonomerna om ränteläget: ”En höjning rycker närmare” - Omni – Alla nyheter. Alla perspektiv.
-- Essity gör förvärv i Brasilien för 2,7 miljarder - EFN
+- Genombrott för individanpassat cancervaccin i fas III-studie - Biostock
+- Stockholmsbörsen stängde onsdagen oförändrat - Affärsvärlden
+- Statspapper sätter fart på USA-börser - Svenska Dagbladet
+- SEB tror att Riksbanken låter styrräntan ligga - Finanswatch.se
 - Månkraschen: Se Nasas nya bilder på kratern - Dagens Nyheter
 - Hackare läcker GTA 6-klipp – avslöjar detaljer om efterlängtade spelet - nyteknik.se
 
@@ -34,9 +34,9 @@ _Updated: 2026-08-19 21:02_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - news.cision.com
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - media.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
@@ -74,25 +74,25 @@ _Updated: 2026-08-19 21:02_
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
-- Vilken framtid arbetar du för? - EY
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
+- Vilken framtid arbetar du för? - EY
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -128,7 +128,7 @@ _Updated: 2026-08-19 21:02_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
-- Täta band mellan turism och forskning på Svalbard - slu.se
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
@@ -147,7 +147,7 @@ _Updated: 2026-08-19 21:02_
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - Så ska det australiensiska jordbruket bli hållbart - atl.nu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - SLU
