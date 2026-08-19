@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-19 13:50_
+_Updated: 2026-08-19 15:25_
 
 ## Top Stories
 
-- Storaffären: Försvaret får ”kamikazedrönare” - aftonbladet.se
-- DN Direkt – Kvinnor döda i olycka med älg och lastbil - Dagens Nyheter
-- DN Direkt – Svensk allvarligt skadad efter fall i Österrike - Dagens Nyheter
-- Centern: Här är vår önskeregering - Göteborgs-Posten
-- SD vill benåda personer som hängt ut pedofiler - Göteborgs-Posten
-- DN Direkt – Busschaufförer protesterade – SD-reklam tas ner - Dagens Nyheter
-- Tomas Ramberg: Vad blir det av Åkessons parti om Tidö förlorar? - Dagens Nyheter
+- 10 nya mässlingsfall - Aftonbladet
+- Håkan Boström: Västtrafik sjabblar till det om SD-reklam - Göteborgs-Posten
+- DN Direkt – MP-språkrör vill inte ingå i C-ledarens drömregering - Dagens Nyheter
+- Stabiliserat läge efter vattenläcka i Skåne - Göteborgs-Posten
+- Två döda i trafikolycka – krockade med älg sen lastbil - Expressen
+- SD vill benåda personer som hängt ut pedofiler - Västerbottens-Kuriren
+- DN Direkt – Minst 21 döda i trafikolycka i Brasilien - Dagens Nyheter
 - Torkan slår hårt mot gräsmattorna – så får du dem gröna igen - Dagens Nyheter
-- Så mår svensk ekonomi inför valet - Sveriges Radio
-- V lovar halvera kommunal ”skatteorättvisa” – Senaste nytt om valet 2026 - SVT Nyheter
-- Därför är Medelhavet varmt som en barnpool - Corren
-- Över 5 000 fall – WHO planerar nya rekommendationer – Senaste nytt om ebolautbrottet i Kongo-Kinshasa - SVT Nyheter
-- Uppgifter: Iran kan anfalla mål i sydöstra Europa - Dagens Nyheter
+- Amanda Lind (MP): Nej till C:s mittenalternativ – Senaste nytt om valet 2026 - svt.se
+- Torrt? Det var värre sommaren 2018 - Dagens Nyheter
+- DN Direkt – Svensk allvarligt skadad efter fall i Österrike - Dagens Nyheter
+- Över 5 000 fall – WHO planerar nya rekommendationer – Senaste nytt om ebolautbrottet i Kongo-Kinshasa - svt.se
 - Portugal förbjuder heltäckande slöja - Västerbottens-Kuriren
-- Pareto: Starkt kvartal bäddar för att Surgical Science når marginalmålet i förtid - Placera.se
+- Därför är Medelhavet varmt som en barnpool - Corren
 - Svensk man död på Mallorca – fick lyktstolpe över sig - Expressen
-- Sluga bluffen: Använde 94-åriga Svenssons för att få ROT-avdrag - SVT Nyheter
-- Riskbomber i svenskarnas sparfavoriter - Dagens Nyheter
+- DNB Carnegie räknar med tre räntehöjningar - Affärsvärlden
+- Pareto: Starkt kvartal bäddar för att Surgical Science når marginalmålet i förtid - Placera.se
+- Börsen idag: Stockholmsindex öppnar kring nollan – forskningsbolag rasar - borskollen.se
+- Vibe-kodning pekas ut som en säkerhetsrisk - Computer Sweden
 - Microsoft utlovar förbättringar av Utforskaren och Kontextmenyn - Computer Sweden
-- Efterlängtad funktion på väg till Windows 11 - PC för Alla
 
 ## World News
 
@@ -33,8 +33,8 @@ _Updated: 2026-08-19 13:50_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - media.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
@@ -43,7 +43,7 @@ _Updated: 2026-08-19 13:50_
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Tidningsjätte i England lägger ner efter skandal - svd.se
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
@@ -62,10 +62,10 @@ _Updated: 2026-08-19 13:50_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Albanien utser AI-bot till minister - Computer Sweden
+- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
@@ -108,7 +108,7 @@ _Updated: 2026-08-19 13:50_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
@@ -130,14 +130,14 @@ _Updated: 2026-08-19 13:50_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Mötet mellan konst och vetenskap i tidigmodern tid - su.se
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
@@ -145,20 +145,20 @@ _Updated: 2026-08-19 13:50_
 - Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Jordbruket har en nyckelroll för att rädda klimatet - land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - SLU
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
-- Visning av uppkomst efter direktsådd - Land.se
+- Visning av uppkomst efter direktsådd - land.se
 - Jord, kor och klimat - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - land.se
 - Kan agroekologi mätta världen? - SLU
-- Hellre plöjningsfri odling än ekologisk - Land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Hellre plöjningsfri odling än ekologisk - land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - land.se
+- De blev grönsaksodlare tack vare lokalt stöd - land.se
