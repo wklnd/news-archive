@@ -1,58 +1,58 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-19 21:50_
+_Updated: 2026-08-19 22:54_
 
 ## Top Stories
 
 - DN Direkt – MP-språkrör vill inte ingå i C-ledarens drömregering - Dagens Nyheter
-- Ökad översvämningsrisk i Norrbotten – orange varning - SVT Nyheter
-- Slukhål på Essingeleden – risk för störningar tills i morgon bitti - Sveriges Radio
-- Brodern om Harps Trumplojalitet: ”Ohälsosam besatthet” - Dagens Nyheter
+- Håkan Boström: Västtrafik sjabblar till det om SD-reklam - Göteborgs-Posten
+- Vägskada på Essingeleden – två körfält stängs av - Västerbottens-Kuriren
+- 22-åring döms för våldtäkt på Malmö C - TV4 Nyheterna
 - Två kvinnor döda – krockade med älg och lastbil - Aftonbladet
-- Ledare: Kulturkriget utbytt mot plånboksfrågor - Omni – Alla nyheter. Alla perspektiv.
-- 60 000 kronor i böter i trafikkontroll på E4 - Göteborgs-Posten
-- Facket om SD:s affischer på bussarna: ”Busschaufförerna mådde väldigt dåligt” - SVT Nyheter
-- 22-åring döms för våldtäkt på Malmö C - Västerbottens-Kuriren
-- JOHAN RUDSTRÖM: Fler ”hårda” regler behövs även på Valsätraskolan - UNT
+- Brodern om Harps Trumplojalitet: ”Ohälsosam besatthet” - Dagens Nyheter
+- DN Direkt – 60 000 kronor i böter i trafikkontroll på E4 - Dagens Nyheter
+- 22-åring döms för våldtäkt på Malmö C - Göteborgs-Posten
+- Männen hittades döda i tält i Härjedalen – dödsorsaken klarlagd - SVT Nyheter
+- Tio nya fall av mässling efter festival - norran.se
 - Hundratals barn i Ceuta får stanna i Spanien - Göteborgs-Posten
-- Minst 30 döda efter gruvolycka i Centralafrikanska republiken - SVT Nyheter
 - Ryssar tar ut rekordstora summor från banken – kris hotar - Dagens Nyheter
+- Husrannsakan mot Zelenskyjs vice stabschef - Västerbottens-Kuriren
 - Analys: SVT:s Bert Sundström: ”Ryssarna vet vad som pågår – och gillar det inte” - SVT Nyheter
-- Genombrott för individanpassat cancervaccin i fas III-studie - Biostock
+- Lovande resultat för behandling av svår hudcancer - Svenska Dagbladet
+- JUST NU: Stockholmsbörsen snubblade på mållinjen - EFN
 - Stockholmsbörsen stängde onsdagen oförändrat - Affärsvärlden
-- Statspapper sätter fart på USA-börser - Svenska Dagbladet
-- SEB tror att Riksbanken låter styrräntan ligga - Finanswatch.se
+- Essity köper verksamhet i Brasilien för 2,7 miljarder - Omni – Alla nyheter. Alla perspektiv.
 - Månkraschen: Se Nasas nya bilder på kratern - Dagens Nyheter
 - Hackare läcker GTA 6-klipp – avslöjar detaljer om efterlängtade spelet - nyteknik.se
 
 ## World News
 
+- GT World Challenge Asia, Sepang International Circuit, Malaysia på igår 06:50 - tv.nu
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
-- Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - news.cision.com
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - news.cision.com
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - media.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
+- Megaaffären lyfter American Express Global Business Travel - travelnews.se
+- CNN International | Kanalinfo | Kanalpaket - bredbandsval.se
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Etraveli rusar – 175 miljarder och global styrka - travelnews.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Global turism slog nytt rekord under 2025 - travelnews.se
 
 ## Technology
 
 - Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
 - Ny rapport: Utvecklare tillhör de mest motståndskraftiga yrkesgrupperna i AI-eran - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - nyheter.ki.se
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
@@ -85,14 +85,14 @@ _Updated: 2026-08-19 21:50_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 
 ## Health
 
@@ -103,19 +103,19 @@ _Updated: 2026-08-19 21:50_
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
-- firar 15 år av att skydda den globala hälsosektorn - health-isac.org
+- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - nyheter.ki.se
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - health-isac.org
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - nyheter.ki.se
 
 ## Science
 
@@ -131,9 +131,9 @@ _Updated: 2026-08-19 21:50_
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - nyheter.ki.se
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Cell- och genterapi - från science fiction till sjukhussal - nyheter.ki.se
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
@@ -145,20 +145,20 @@ _Updated: 2026-08-19 21:50_
 - Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Jordbruket har en nyckelroll för att rädda klimatet - land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
-- Så ska det australiensiska jordbruket bli hållbart - atl.nu
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - SLU
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Här är världens största jordbruk - atl.nu
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - land.se
+- Här är världens största jordbruk - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
-- Visning av uppkomst efter direktsådd - Land.se
+- Visning av uppkomst efter direktsådd - land.se
 - Jord, kor och klimat - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - land.se
 - Kan agroekologi mätta världen? - SLU
-- Hellre plöjningsfri odling än ekologisk - Land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Hellre plöjningsfri odling än ekologisk - land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - land.se
+- De blev grönsaksodlare tack vare lokalt stöd - land.se
