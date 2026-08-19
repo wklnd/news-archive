@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-19 17:05_
+_Updated: 2026-08-19 18:02_
 
-- A Stunning Win for the Left in Florida: 6 Takeaways From Tuesday’s Primaries - The New York Times
+- Socialists capture major Florida victory on hit-or-miss night for Trump-endorsed primary candidates - Fox News
 - U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries - NPR
-- U.S. Senate race will have two Dan Sullivans and a Mary Peltola - Alaska Public Media
 - Lindsay Clancy was ‘begging for help’ before killing her children, former mother-in-law testifies - NBC News
-- Rep. Cory Mills loses Florida primary amid Ethics probe - Axios
-- 15 states have laws that allow corporal punishment in schools. Here's where, and why - NPR
-- US Rep Byron Donalds wins GOP nod for Florida governor against Ex-Rep David Jolly for the Democrats - apnews.com
-- Ohio death row inmate Tyrone Noling gets rare chance to ask parole board for pardon - NBC News
-- ‘I’m Not That Informed on National Security,’ Graham Says in South Carolina Debate - The New York Times
-- Trump says Iran blockade remains in effect as Pentagon addresses stockpile concerns - Fox News
-- Live updates: UAE halts trade with Iran after accusing Tehran of firing ballistic missiles - CNN
-- U.S. military drills with South Korea are cut short after surprise Trump order - NBC News
-- Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza - BBC
-- Ukraine’s Ex-Defense Minister Calls for Election, Cementing Break With Zelensky - The New York Times
+- Key takeaways from Tuesday’s primaries in Florida, Alaska and Wyoming - cnn.com
+- Trump Administration Moves to Allow Logging in Pristine National Forests - The New York Times
+- Ossoff tests Democrats' appetite for going low - Axios
+- Mary Peltola and Dan Sullivan Advance in Key Alaska Senate Contest - The New York Times
+- US Rep Byron Donalds wins GOP nod for Florida governor against Ex-Rep David Jolly for the Democrats - AP News
+- National security question trips up Sen. Darline Graham in South Carolina debate - AP News
+- Trump tries to quiet his mass deportation campaign. Voters aren’t moving. - politico.com
+- Defense minister dismissed by Zelensky demands elections in Ukraine - The Washington Post
+- U.A.E. Halts Trade Ties With Iran and Says It Was Targeted With Missiles - The New York Times
+- Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza - BBC
+- A warehouse burns near Moscow. In Ukraine, drone crews prepare to strike again - AP News
+- Moderna Shares Double on Success of mRNA Cancer Vaccine - WSJ
 - Stock futures jump as Treasury action relieves bond market pressure: Live updates - CNBC
-- Merck and Moderna say cancer vaccine shows promise in preventing recurrence of melanoma - NBC News
 - Meta social media addiction trial kicks off with major implications for company’s future - Yahoo Finance
-- Target doubles profit, boosted by $1 billion tariff refund - Star Tribune
-- Apple's iPhone 18 Release Schedule: What's Coming and When - MacRumors
-- Pixel Watch 1 not losing Google Health sleep, workout support - 9to5google.com
+- US retail giant receives $1bn boost from tariff refunds - BBC
+- Apple Accidentally Leaked More Than 10 New Products in macOS Update - MacRumors
+- Two camera features may be unique to the iPhone 18 Pro Max, suggests leaker - 9to5Mac
