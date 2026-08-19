@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-19 12:02_
+_Updated: 2026-08-19 13:00_
 
-- Angie Nixon scores socialist breakthrough in Trump's Florida - Axios
-- Trump’s Tariffs on Hold as President Claims Deal With Canada Is Near - The New York Times
-- U.S. military drills with South Korea are cut short after surprise Trump order - NBC News
-- U.S. Senate race will have two Dan Sullivans and a Mary Peltola - Alaska Public Media
-- Trump’s choice for Wyoming governor loses GOP primary - The Hill
-- Embattled incumbent Cory Mills ousted in Florida primary - politico.com
-- US Rep Byron Donalds wins GOP nod for Florida governor against Ex-Rep David Jolly for the Democrats - AP News
-- Alleged leader of Penn State frat cocaine ring arraigned, denied bail - The Washington Post
+- A Stunning Win for the Left in Florida: 6 Takeaways From Tuesday’s Primaries - The New York Times
+- Trump pauses 50 percent tariffs on Canada in last-minute deal - Al Jazeera
 - Lindsay Clancy begged for help before her children's killings, mother-in-law testifies - BBC
-- Trump administration moves to kill ‘roadless rule,’ but Colorado has its own protections - cpr.org
-- Ebola cases in Congo exceed 5,000, government data shows - reuters.com
-- Israel defends strike on Syria as U.S. frustration with Bibi grows - Axios
-- Zelenskyy faces challenge to his wartime rule as former defense chief calls for election - CNBC
-- China completes first stage of work at disputed South China Sea reef, images show - reuters.com
-- Chinese Robot Maker Unitree Soars 500 Percent in Trading Debut - The New York Times
-- Meta social media addiction trial kicks off with major implications for company’s future - finance.yahoo.com
-- Asian stocks slump as chip selloff deepens; KOSPI plunges 5% - Investing.com
+- Rep. Cory Mills loses Florida primary amid Ethics probe - Axios
+- U.S.-Iran Updates: Trump says no talks with Iran taking place as standoff over Strait of Hormuz continues - CBS News
+- U.S. military drills with South Korea are cut short after surprise Trump order - NBC News
+- Democrat Mary Peltola and Republican Dan Sullivan lead in Alaska primary for US Senate – US politics live - The Guardian
+- Alleged leader of Penn State frat cocaine ring arraigned, denied bail - The Washington Post
+- US Rep Byron Donalds wins GOP nod for Florida governor against Ex-Rep David Jolly for the Democrats - AP News
+- Trump Administration Moves to Allow Logging in Pristine National Forests - The New York Times
+- Erin Patterson appeals 3 murder convictions in Australia over death cap mushroom lunch - ABC News - Breaking News, Latest News and Videos
+- Israel attacks airbase in Syria’s Idlib as US, Turkiye slam ‘escalation’ - Al Jazeera
+- Ousted Ukraine defense minister urges wartime elections, warning of a governance crisis - AP News
+- China completes first stage of work at disputed South China Sea reef, images show - Reuters
+- Chinese humanoid robot maker surges 600% in trading debut - Financial Times
+- Stock futures are little changed after S&P 500 posts third straight losing day: Live updates - CNBC
 - Target is set to report earnings before the bell. Here's what to expect - CNBC
-- Googlebooks are finally getting their big reveal on September 15 - androidauthority.com
+- Meta social media addiction trial kicks off with major implications for company’s future - Yahoo Finance
+- Googlebooks are finally getting their big reveal on September 15 - Android Authority
 - Framework's Cheapest Laptop Just Got A Major Spec Bump - Engadget
