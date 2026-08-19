@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-19 05:24_
+_Updated: 2026-08-19 06:07_
 
 ## Top Stories
 
-- Västtrafik tar ner SD:s valreklam från bussar - Göteborgs-Posten
-- Två gripna efter explosion i Malmö - Sveriges Radio
-- Sydkoreas och USA:s militärövning kortas - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – Förre försvarsministern manar till ukrainska val - Dagens Nyheter
+- DN Direkt – Busschafförer protesterade – SD-reklam tas ner - Dagens Nyheter
+- 18 augusti 21.22, Explosion, Malmö - Polisen.se
+- Sydkoreas och USA:s militärövning kortas - Göteborgs-Posten
+- S backar – men glappet till Tidöpartierna består - Göteborgs-Posten
 - Karen, 58, jagas efter polismord: ”Sågs i pyjamasbyxor” - Aftonbladet
-- Professorn om opinionsläget: ”Enorm uppförsbacke” – Senaste nytt om valet 2026 - SVT Nyheter
+- Ukraina: Tio mördade i rysk bombning mot Charkivs rusnignstrafik - Cornucopia?
+- Panelen: Liberalerna åker ur riksdagen – Senaste nytt om valet 2026 - SVT Nyheter
 - JEANETTE WIDÉN: Därför kan svenska fångar flyttas till Estland - NT
-- ”Man hoppas att det inte var någons fel” - Göteborgs-Posten
-- ”Det känns nervöst att lämna ifrån sig mobilen” - UNT
-- Strömmer om skjutningen i Södertälje: ”Våldet finns fortfarande där och bubblar under ytan” - SVT Nyheter
-- Dödliga attacker mot Charkiv och drönare i Moskva - Göteborgs-Posten
+- Tungbärgare placeras ut inför en intensiv trafikhelg på E4 - trailer.se
+- Insamling till drabbade efter radhusbranden i Arboga - Sveriges Radio
+- Minst 30 döda efter gruvolycka i Centralafrikanska republiken - SVT Nyheter
+- Zelenskyj manas att utlysa val - Hufvudstadsbladet – HBL
+- Trump: Inga samtal på gång med Iran - Göteborgs-Posten
 - Emiraten: Iran avfyrade robotar - Västerbottens-Kuriren
-- Irankriget: Fristen passerade – ingen fred i sikte - Dagens Nyheter
-- Ebolautbrottet i Kongo är nu det största och dödligaste i landets historia - Yle
-- Börsen backar för tionde dagen i rad – inte hänt på 25 år - TV4 Nyheterna
-- Klarna ökar intäkterna men sänker prognosen - Sveriges Radio
-- Ekonomerna om ränteläget: ”En höjning rycker närmare” - Omni – Alla nyheter. Alla perspektiv.
+- Stockholmsbörsen på dagslägsta – verkstadsjättar i botten - EFN
 - Lärdomar av Tesla-konflikten - Företagarna
+- Elen dyr i Ljusdal på onsdag – högsta priset på över tre månader - Newsworthy
+- Ekonomerna om ränteläget: ”En höjning rycker närmare” - Omni – Alla nyheter. Alla perspektiv.
+- iPhone 18 Pro kommer snart: 6 uppgraderingar som kommer att få även 17 Pro-användare att vilja uppgradera. - Vietnam.vn
 - Därför blir det stopp i astronauters magar - Aftonbladet
-- Apple har släppt ny uppdatering för Ios - mobil.se
 
 ## World News
 
@@ -35,7 +35,7 @@ _Updated: 2026-08-19 05:24_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - new.abb.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
@@ -102,63 +102,63 @@ _Updated: 2026-08-19 05:24_
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - lakartidningen.se
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - lakartidningen.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - lakartidningen.se
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 
 ## Science
 
-- Kina drar om USA – bäst på forskning - SVT Nyheter
-- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
-- Olika slutsatser från samma data - Läkartidningen
+- AI för vetenskaplig forskning och upptäckter - OpenAI
+- Olika slutsatser från samma data - lakartidningen.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
-- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
+- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Täta band mellan turism och forskning på Svalbard - SLU
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
+- I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - lakartidningen.se
+- Många fallgropar i arbetet att ta fram systematiska översikter - lakartidningen.se
+- 5 myter om öppen vetenskap - lakartidningen.se
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - lakartidningen.se
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- 5 myter om öppen vetenskap - Läkartidningen
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
 ## Jordbruk
 
 - Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - land.se
+- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - land.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
 - KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
-- Visning av uppkomst efter direktsådd - land.se
+- Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Hellre plöjningsfri odling än ekologisk - land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - land.se
-- De blev grönsaksodlare tack vare lokalt stöd - land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
