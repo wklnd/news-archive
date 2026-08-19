@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-19 11:14_
+_Updated: 2026-08-19 12:02_
 
-- A Stunning Win for the Left in Florida: 6 Takeaways From Tuesday’s Primaries - The New York Times
-- Trump pauses 50% tariffs on Canadian goods for 3 days - Axios
-- Ryan Elijah beats Cory Mills, wins Republican nomination for US House, AP projects - WESH
+- Angie Nixon scores socialist breakthrough in Trump's Florida - Axios
+- Trump’s Tariffs on Hold as President Claims Deal With Canada Is Near - The New York Times
 - U.S. military drills with South Korea are cut short after surprise Trump order - NBC News
-- Trump’s choice for Wyoming governor loses GOP primary - thehill.com
-- Alleged leader of Penn State frat cocaine ring arraigned, denied bail - The Washington Post
+- U.S. Senate race will have two Dan Sullivans and a Mary Peltola - Alaska Public Media
+- Trump’s choice for Wyoming governor loses GOP primary - The Hill
+- Embattled incumbent Cory Mills ousted in Florida primary - politico.com
 - US Rep Byron Donalds wins GOP nod for Florida governor against Ex-Rep David Jolly for the Democrats - AP News
-- Former Mother-in-Law Describes Lindsay Clancy’s Mental Health Struggle in Murder Trial - The New York Times
-- GOP Sen. Dan Sullivan and Democrat Mary Peltola advance to battleground Senate election in Alaska - NBC News
-- Trump to tap Heidi Overton as FDA commissioner - Axios
+- Alleged leader of Penn State frat cocaine ring arraigned, denied bail - The Washington Post
+- Lindsay Clancy begged for help before her children's killings, mother-in-law testifies - BBC
+- Trump administration moves to kill ‘roadless rule,’ but Colorado has its own protections - cpr.org
+- Ebola cases in Congo exceed 5,000, government data shows - reuters.com
 - Israel defends strike on Syria as U.S. frustration with Bibi grows - Axios
 - Zelenskyy faces challenge to his wartime rule as former defense chief calls for election - CNBC
-- A warehouse burns near Moscow. In Ukraine, drone crews prepare to strike again - AP News
-- Trump’s threats anger Omanis, leave observers puzzled - cnn.com
-- Chinese humanoid robot maker surges 600% in trading debut - Financial Times
-- Meta social media addiction trial kicks off with major implications for company’s future - Yahoo Finance
-- Target is set to report earnings before the bell. Here's what to expect - CNBC
+- China completes first stage of work at disputed South China Sea reef, images show - reuters.com
+- Chinese Robot Maker Unitree Soars 500 Percent in Trading Debut - The New York Times
+- Meta social media addiction trial kicks off with major implications for company’s future - finance.yahoo.com
 - Asian stocks slump as chip selloff deepens; KOSPI plunges 5% - Investing.com
-- Google just set the date for its big Googlebook event in New York - Android Central
-- Claude can now send emails in Gmail, even without your approval - 9to5Google
+- Target is set to report earnings before the bell. Here's what to expect - CNBC
+- Googlebooks are finally getting their big reveal on September 15 - androidauthority.com
+- Framework's Cheapest Laptop Just Got A Major Spec Bump - Engadget
