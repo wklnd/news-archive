@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-19 04:01_
+_Updated: 2026-08-19 05:24_
 
 ## Top Stories
 
-- Sydkoreas och USA:s militärövning kortas - Göteborgs-Posten
-- DN Direkt – Busschafförer protesterade – SD-reklam tas ner - Dagens Nyheter
+- Västtrafik tar ner SD:s valreklam från bussar - Göteborgs-Posten
 - Två gripna efter explosion i Malmö - Sveriges Radio
+- Sydkoreas och USA:s militärövning kortas - Västerbottens-Kuriren
+- Direkt – Kriget i Ukraina – Förre försvarsministern manar till ukrainska val - Dagens Nyheter
+- Karen, 58, jagas efter polismord: ”Sågs i pyjamasbyxor” - Aftonbladet
 - Professorn om opinionsläget: ”Enorm uppförsbacke” – Senaste nytt om valet 2026 - SVT Nyheter
-- Förre försvarsministern manar till ukrainska val - Västerbottens-Kuriren
-- Turkiet avvisar Israels uttalande - Västerbottens-Kuriren
-- Svenska fångar stoppade av Estland - Dagens Nyheter
+- JEANETTE WIDÉN: Därför kan svenska fångar flyttas till Estland - NT
 - ”Man hoppas att det inte var någons fel” - Göteborgs-Posten
 - ”Det känns nervöst att lämna ifrån sig mobilen” - UNT
-- Fler partier drabbade av skadegörelse - Arvika Nyheter
-- Minst 30 döda efter gruvolycka i Centralafrikanska republiken - SVT Nyheter
-- Iran: USA måste leverera om sundet ska öppnas - Västerbottens-Kuriren
-- Dödliga attacker mot Charkiv och drönare i Moskva - Hufvudstadsbladet – HBL
-- DN Direkt – Ebolautbrottet det dödligaste någonsin i Kongo - Dagens Nyheter
+- Strömmer om skjutningen i Södertälje: ”Våldet finns fortfarande där och bubblar under ytan” - SVT Nyheter
+- Dödliga attacker mot Charkiv och drönare i Moskva - Göteborgs-Posten
+- Emiraten: Iran avfyrade robotar - Västerbottens-Kuriren
+- Irankriget: Fristen passerade – ingen fred i sikte - Dagens Nyheter
+- Ebolautbrottet i Kongo är nu det största och dödligaste i landets historia - Yle
 - Börsen backar för tionde dagen i rad – inte hänt på 25 år - TV4 Nyheterna
-- Ekonomerna om ränteläget: ”En höjning rycker närmare” - Omni – Alla nyheter. Alla perspektiv.
 - Klarna ökar intäkterna men sänker prognosen - Sveriges Radio
-- Google redo att omförhandla avtalet med Torsbodabolaget - Sveriges Radio
+- Ekonomerna om ränteläget: ”En höjning rycker närmare” - Omni – Alla nyheter. Alla perspektiv.
+- Lärdomar av Tesla-konflikten - Företagarna
 - Därför blir det stopp i astronauters magar - Aftonbladet
 - Apple har släppt ny uppdatering för Ios - mobil.se
 
 ## World News
 
-- GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 18:45 - tv.nu
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
@@ -36,13 +35,14 @@ _Updated: 2026-08-19 04:01_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - bbc.com
-- Ontario International Airport earns top global honor for customer experience from Airports Council International - swedbank-aktiellt.se
+- Möt Johanna Flood, journalisten som blev global miljöchef - new.abb.com
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Tidningsjätte i England lägger ner efter skandal - svd.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
@@ -52,20 +52,20 @@ _Updated: 2026-08-19 04:01_
 
 - Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - swedbank-aktiellt.se
+- AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Ho Chi Minh-museet anordnade en specialiserad utbildningskonferens om "Tillämpning av artificiell intelligens (AI) i museiledning och drift". - Vietnam.vn
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - swedbank-aktiellt.se
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Albanien utser AI-bot till minister - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - swedbank-aktiellt.se
+- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - swedbank-aktiellt.se
+- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -77,9 +77,9 @@ _Updated: 2026-08-19 04:01_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - swedbank-aktiellt.se
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - swedbank-aktiellt.se
+- Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - finanstid.se
+- Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -119,46 +119,46 @@ _Updated: 2026-08-19 04:01_
 
 ## Science
 
+- Kina drar om USA – bäst på forskning - SVT Nyheter
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
-- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
-- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
-- Täta band mellan turism och forskning på Svalbard - slu.se
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- 5 myter om öppen vetenskap - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 
 ## Jordbruk
 
 - Jordbrukspolitik - Naturvårdsverket
-- Sveriges förändrade lantbruk - slu.se
+- Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Jordbruket har en nyckelroll för att rädda klimatet - land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Här är världens största jordbruk - atl.nu
+- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Så ska det australiensiska jordbruket bli hållbart - atl.nu
-- Lantbrukslogik – nu och i framtiden - slu.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - land.se
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Lantbrukslogik – nu och i framtiden - SLU
 - KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
-- Visning av uppkomst efter direktsådd - Land.se
-- Jord, kor och klimat - slu.se
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Kan agroekologi mätta världen? - slu.se
-- Hellre plöjningsfri odling än ekologisk - Land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Visning av uppkomst efter direktsådd - land.se
+- Jord, kor och klimat - SLU
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - land.se
+- Kan agroekologi mätta världen? - SLU
+- Hellre plöjningsfri odling än ekologisk - land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - land.se
+- De blev grönsaksodlare tack vare lokalt stöd - land.se
