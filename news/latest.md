@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-19 18:02_
+_Updated: 2026-08-19 19:01_
 
-- Socialists capture major Florida victory on hit-or-miss night for Trump-endorsed primary candidates - Fox News
+- A Stunning Win for the Left in Florida: 6 Takeaways From Tuesday’s Primaries - The New York Times
+- Watch Live: Lindsay Clancy trial resumes with cross-examination of psychologist who met with her after murders - CBS News
+- ‘Tit for tat’: Why is Trump cosying up to North Korea’s Kim Jong Un again? - Al Jazeera
+- Losses are piling up for Trump-backed candidates - CNN
+- U.S. Senate race will have two Dan Sullivans and a Mary Peltola - Alaska Public Media
 - U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries - NPR
-- Lindsay Clancy was ‘begging for help’ before killing her children, former mother-in-law testifies - NBC News
-- Key takeaways from Tuesday’s primaries in Florida, Alaska and Wyoming - cnn.com
-- Trump Administration Moves to Allow Logging in Pristine National Forests - The New York Times
-- Ossoff tests Democrats' appetite for going low - Axios
-- Mary Peltola and Dan Sullivan Advance in Key Alaska Senate Contest - The New York Times
-- US Rep Byron Donalds wins GOP nod for Florida governor against Ex-Rep David Jolly for the Democrats - AP News
-- National security question trips up Sen. Darline Graham in South Carolina debate - AP News
-- Trump tries to quiet his mass deportation campaign. Voters aren’t moving. - politico.com
+- Trump to nominate Heidi Overton to lead the FDA - NBC News
+- Florida Primary: Byron Donalds, David Jolly to compete for Florida governor in November - FOX 35 Orlando
+- ‘I Want Things To Always Be Right Between Us,’ Natalie Harp Reportedly Wrote To Trump - Forbes
+- Trump tries to quiet his mass deportation campaign. Voters aren’t moving. - Politico
+- U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran - The New York Times
+- Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - AP News
 - Defense minister dismissed by Zelensky demands elections in Ukraine - The Washington Post
-- U.A.E. Halts Trade Ties With Iran and Says It Was Targeted With Missiles - The New York Times
-- Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza - BBC
-- A warehouse burns near Moscow. In Ukraine, drone crews prepare to strike again - AP News
-- Moderna Shares Double on Success of mRNA Cancer Vaccine - WSJ
-- Stock futures jump as Treasury action relieves bond market pressure: Live updates - CNBC
-- Meta social media addiction trial kicks off with major implications for company’s future - Yahoo Finance
+- The Moscow region is hit by almost 800 drones as Russian missiles kill 10 in a Ukrainian village - PBS
+- Markets Rally After U.S. Treasury Tries to Ease Bond Market Stress - The New York Times
+- Merck and Moderna say cancer vaccine shows promise in preventing recurrence of melanoma - NBC News
 - US retail giant receives $1bn boost from tariff refunds - BBC
+- Clarity Act Vote Set, SEC Proposes Crypto Rules Ahead Of White House Summit - Investor's Business Daily
+- Google’s New Pixel 11 Comes With Plenty of A.I., but It’s Not Very Helpful - The New York Times
 - Apple Accidentally Leaked More Than 10 New Products in macOS Update - MacRumors
-- Two camera features may be unique to the iPhone 18 Pro Max, suggests leaker - 9to5Mac
