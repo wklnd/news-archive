@@ -1,39 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-19 11:58_
+_Updated: 2026-08-19 12:54_
 
 ## Top Stories
 
-- Ung svensk man föll 30 meter under vandring i Österrike - Sveriges Radio
-- DN Direkt – Stor vattenläcka i Skåne - Dagens Nyheter
+- DN Direkt – Svensk allvarligt skadad efter fall i Österrike - Dagens Nyheter
+- Stabiliserat läge efter vattenläcka i Skåne - Göteborgs-Posten
+- Svensk död på Mallorca – fick stolpe på sig - Västerbottens-Kuriren
 - SD vill benåda personer som hängt ut pedofiler - Göteborgs-Posten
-- Dadgostar: Svenska företag hoppas på regeringsskifte - Omni – Alla nyheter. Alla perspektiv.
+- DN Direkt – Explosion utanför port i Malmö – två anhållna - Dagens Nyheter
 - Jimmie Åkesson: ”Kan långsiktigt vara bra för SD att hamna i opposition” - Dagens Nyheter
-- ”Få skatter som har lett till lägre priser” - Svenska Dagbladet
-- DN Direkt – Äldre kvinna död i lägenhetsbrand - Dagens Nyheter
-- Så mår svensk ekonomi inför valet - Sveriges Radio
 - Torkan slår hårt mot gräsmattorna – så får du dem gröna igen - Dagens Nyheter
-- Valet 2026 i Jönköpings län - SVT Nyheter
+- V lovar halvera kommunal ”skatteorättvisa” – Senaste nytt om valet 2026 - SVT Nyheter
+- Estland säger nej till en del fångar från Sverige - Hufvudstadsbladet – HBL
+- C vill regera med S, KD, C och kanske MP - Corren
 - Över 5 000 fall – WHO planerar nya rekommendationer – Senaste nytt om ebolautbrottet i Kongo-Kinshasa - SVT Nyheter
 - Därför är Medelhavet varmt som en barnpool - Göteborgs-Posten
 - Uppgifter: Iran kan anfalla mål i sydöstra Europa - Dagens Nyheter
-- Trumplojalist kan bli Floridas näste guvernör - Västerbottens-Kuriren
+- Minst fyra döda efter rysk attack mot Cherson - Västerbottens-Kuriren
+- Svensk man död på Mallorca – fick lyktstolpe över sig - Expressen
 - Pareto: Starkt kvartal bäddar för att Surgical Science når marginalmålet i förtid - Placera.se
-- Sluga bluffen: Använde 94-åriga Svenssons för att få ROT-avdrag - SVT Nyheter
+- Chatta om ROT-fusket med Uppdrag granskning - SVT Nyheter
 - Stor rättegång mot Meta - 8 Sidor
-- Börsen går mot ny röd öppning - Västerbottens-Kuriren
+- Microsoft utlovar förbättringar av Utforskaren och Kontextmenyn - Computer Sweden
 - Efterlängtad funktion på väg till Windows 11 - PC för Alla
-- Nya GTA-läckor: ”Är ett budskap” - Aftonbladet
 
 ## World News
 
-- Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
+- Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
@@ -50,13 +50,13 @@ _Updated: 2026-08-19 11:58_
 
 ## Technology
 
-- Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
+- Behärska teknologi, upprätthålla journalistikens värderingar. - vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Ho Chi Minh-museet anordnade en specialiserad utbildningskonferens om "Tillämpning av artificiell intelligens (AI) i museiledning och drift". - Vietnam.vn
+- Ho Chi Minh-museet anordnade en specialiserad utbildningskonferens om "Tillämpning av artificiell intelligens (AI) i museiledning och drift". - vietnam.vn
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Leveraging AI in Swedish Development Cooperation - FUF.se
@@ -76,7 +76,7 @@ _Updated: 2026-08-19 11:58_
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - finanstid.se
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
@@ -97,12 +97,12 @@ _Updated: 2026-08-19 11:58_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - openai.com
-- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
+- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - vietnam.vn
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -114,19 +114,19 @@ _Updated: 2026-08-19 11:58_
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
+- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - vietnam.vn
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - Vietnam.vn
+- CHENGDU UNIVERSITET BYGGER AI-EKOSYSTEM I UTBILDNINGEN - vietnam.vn
 - AI för vetenskaplig forskning och upptäckter - openai.com
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
+- Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - vietnam.vn
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - SLU
@@ -138,7 +138,7 @@ _Updated: 2026-08-19 11:58_
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - kungahuset.se
 
 ## Jordbruk
 
@@ -150,10 +150,10 @@ _Updated: 2026-08-19 11:58_
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Lantbrukslogik – nu och i framtiden - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Lantbrukslogik – nu och i framtiden - SLU
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
