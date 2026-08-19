@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-19 17:02_
+_Updated: 2026-08-19 17:57_
 
 ## Top Stories
 
+- S och M öppnar för SD:s förslag om benådning - Sveriges Radio
 - Håkan Boström: Västtrafik sjabblar till det om SD-reklam - Göteborgs-Posten
-- SD vill benåda personer som hängt ut pedofiler - vk.se
-- Sverige köper attackdrönare för 350 miljoner - di.se
-- DN Direkt – MP-språkrör vill inte ingå i C-ledarens drömregering - Dagens Nyheter
-- Hål i Essingeleden – körfält avstängda till 23 i kväll - Mitt i
-- Stabiliserat läge efter vattenläcka i Skåne - Göteborgs-Posten
-- Flera nya fall av mässling – ett nytt i Västerbotten - SVT Nyheter
-- Ökad översvämningsrisk i Norrbotten – orange varning - SVT Nyheter
+- Ukraina: Chmara godkänd som ny försvarsminister - Göteborgs-Posten
+- DN Direkt – Läget stabilt efter stora vattenläckan - dn.se
+- Estland nekade svenskarna – men gängkriminalitet nämns inte i avtalet - ETC.se
+- Två kvinnor döda – krockade med älg och lastbil - Aftonbladet
+- Ytterligare tre mässlingsfall i Stockholm efter festivalen Urkult - SVT Nyheter
 - JOHAN RUDSTRÖM: Fler ”hårda” regler behövs även på Valsätraskolan - UNT
-- Två kvinnor döda – krockade med älg och lastbil - vk.se
+- DN Direkt – Orange varning för översvämning i norr - dn.se
+- C vill regera med S, KD, C och kanske MP - vk.se
+- DN Direkt – Skärpt straff för skolanställd som fotograferade nakna pojkar - dn.se
 - Svensk föll 30 meter – livshotande skadad - vk.se
-- Husrannsakan mot Zelenskyjs vice stabschef - Göteborgs-Posten
-- Därför är Medelhavet varmt som en barnpool - Corren
-- DN Direkt – Portugal förbjuder heltäckande slöja - Dagens Nyheter
-- Strategen: "Pyspunka på Stockholmsbörsen - Placera.se
-- DNB Carnegie räknar med tre räntehöjningar - Affärsvärlden
-- Pareto: Surgical Science når lönsamhetsmålet ett år före plan - EFN
-- Lägre substans i Latour – lyft i onoterade rörelsen - EFN
+- DN Direkt – Portugal förbjuder heltäckande slöja - dn.se
+- Över 5 000 fall – WHO planerar nya rekommendationer – Senaste nytt om ebolautbrottet i Kongo-Kinshasa - SVT Nyheter
+- Riksbanken väntas hålla räntan oförändrad på torsdag - borsvarlden.com
+- Statspapper sätter fart på USA-börser - Svenska Dagbladet
+- JUST NU: Stockholmsbörsen snubblade på mållinjen - EFN
+- Latours rabatt växer – så går investmentbolagen - Affärsvärlden
 - Vibe-kodning pekas ut som en säkerhetsrisk - Computer Sweden
 - Hackare läcker GTA 6-klipp – avslöjar detaljer om efterlängtade spelet - Ny Teknik
 
@@ -29,10 +29,9 @@ _Updated: 2026-08-19 17:02_
 
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på igår 06:50 - tv.nu
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
@@ -40,24 +39,25 @@ _Updated: 2026-08-19 17:02_
 - Möt Johanna Flood, journalisten som blev global miljöchef - new.abb.com
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - via.tt.se
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
-- Open AI inför nya säkerhetsåtgärder efter Hugging Face-intrånget - Computer Sweden
 - Ytterligare en kinesisk AI-modell utmanar Claude Mythos - Computer Sweden
-- Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
 - Google köper data från konkursat flygbolag – för AI-träning - Computer Sweden
+- Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
+- Hur IT-arbetare kan skydda sig i AI-eran - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Hur IT-arbetare kan skydda sig i AI-eran - Computer Sweden
+- Nvidia backar Open AI-datacenter med 105 miljarder dollar - Computer Sweden
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Open AI visar upp ultrasnabb version av GPT-5.6 Sol - Computer Sweden
 - Så kommer vattenstämplingen i Claude att fungera - Computer Sweden
@@ -68,8 +68,8 @@ _Updated: 2026-08-19 17:02_
 - Svenska Lovable värderas till över 13 miljarder dollar - Computer Sweden
 - AI-riktlinjer fungerar bättre när medarbetarna är med och utformar dem - Computer Sweden
 - AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
-- AI ska användas för att minska utsläppen från flyg - Computer Sweden
-- Snart kan bara AI skydda oss mot AI - Computer Sweden
+- Alibabas öppna AI-modeller är nu världens mest nedladdade - Computer Sweden
+- AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
 
 ## Business
 
@@ -108,7 +108,7 @@ _Updated: 2026-08-19 17:02_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - openai.com
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - di.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
