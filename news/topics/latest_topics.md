@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-20 12:57_
+_Updated: 2026-08-20 13:53_
 
 ## Top Stories
 
 - Busch om regeringsfrågan: ”Kan tänka mig Centerpartiet” - Göteborgs-Posten
+- Emma Bouvin: Ministern struntar i att världen fördömer hans galgbacke - Dagens Nyheter
 - Man gripen i Tyskland – misstänkt för mord i Kalmar - SVT Nyheter
-- DN Direkt – S lovar fast läkare till alla äldre - Dagens Nyheter
-- Almgren och Pihlström till Finnkampen - Göteborgs-Posten
 - Stora anfall mot Kiev - sorgedag utlyst - Västerbottens-Kuriren
-- Trumps hemliga operation: ”Varit extremt effektiv” - Expressen
-- Försvarsmakten köpte ut Alexander Forsman efter dispyt - Sveriges Radio
+- Snart är det dags att rösta i valet 2026 - Skövde kommun
+- ”Få skatter som har lett till lägre priser” - Svenska Dagbladet
+- Tre gripna för åldringsbrott - Expressen
+- Stora regnmängder och översvämningar i Norrbotten - Dagens Nyheter
+- Kommunanställd häktad för våldtäkt på boende - Västerbottens-Kuriren
 - Får tillbaka miljonbelopp efter misstänkt vårdfusk - Sveriges Radio
-- Kan du tänka dig att ta ett förtroendeuppdrag i politiken? - Dagens Nyheter
-- S löfte: Ska stoppa minutstyrning i hemtjänsten – Senaste nytt om valet 2026 - SVT Nyheter
+- Källor: USA har öppnat korridor för oljetankrar genom Hormuzsundet - Yle
 - Uppgifter: Trumps assistent jobbade i över ett år utan säkerhetsklassning - Dagens Nyheter
-- Ben-Gvir: Döda ”30 eller 40” Gazabor varje dag - Västerbottens-Kuriren
-- Ny fångutväxling mellan Ukraina och Ryssland - Göteborgs-Posten
+- Ny fångutväxling mellan Ukraina och Ryssland - Västerbottens-Kuriren
 - Trump hotar Iranstödjare med ekonomiska straff – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Styrräntan oförändrad – flaggar för höjning - Aftonbladet
 - Lovande resultat för behandling av svår hudcancer - Corren
-- Skanska bygger datacenter i sydöstra USA för USD 1,2 miljarder - Nya Projekt -
 - USA:s statsskuld på rekordnivå – 40.000.0000.000.000 dollar - Dagens industri
+- Skanska bygger datacenter i sydöstra USA för USD 1,2 miljarder - Nya Projekt -
+- Test: Google Pixel 11 Pro XL gör det enklare att få saker gjorda - Computer Sweden
 - Månkraschen: Se Nasas nya bilder på kratern - Dagens Nyheter
-- Linux 7.3-uppdateringen ger 7 gånger högre minsta FPS i spel som körs på äldre hårdvara - notebookcheck.se
 
 ## World News
 
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på igår 06:50 - tv.nu
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
@@ -96,26 +96,26 @@ _Updated: 2026-08-20 12:57_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
-- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
+- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
@@ -142,12 +142,12 @@ _Updated: 2026-08-20 12:57_
 
 ## Jordbruk
 
-- Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
@@ -160,5 +160,5 @@ _Updated: 2026-08-20 12:57_
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Han tror stenhårt på jordbruket - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
