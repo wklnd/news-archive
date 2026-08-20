@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-20 19:56_
+_Updated: 2026-08-20 21:10_
 
 ## Top Stories
 
-- Blytungt för Mjällby – förlorade på tilläggstid - Aftonbladet
-- 24-åring misstänks för skjutning i Ronna och Trångsund - SVT Nyheter
-- Stora regnmängder och översvämningar i Norrbotten - Dagens Nyheter
-- Nord Stream-misstänkt greps på filminspelning - Svenska Dagbladet
-- Ilskan mot Ben-Gvir efter galgen - Göteborgs-Posten
-- S lovar fast läkare till alla äldre - Göteborgs-Posten
-- Fyra bilar i krock på E6 utanför Helsingborg - SVT Nyheter
-- Mänskliga kvarlevor hittade efter brand - Västerbottens-Kuriren
-- Vitt snus kan ge sår i munnen - Corren
+- Stora anfall mot Kiev - sorgedag utlyst - Göteborgs-Posten
+- S: Gängkriminella bör förbjudas att äga hund - Omni – Alla nyheter. Alla perspektiv.
+- Tonåringarna dog i lågorna: ’Helt ofattbart’ - Aftonbladet
+- Blytungt för Mjällby – förlorade på tilläggstid - Göteborgs-Posten
+- Bedragare greps under pågående bedrägeriförsök - polisen.se
+- Emma Bouvin: Ministern struntar i att världen fördömer hans galgbacke - Dagens Nyheter
 - Djursmitta drabbar människor – flera fall i Sverige - Dagens Nyheter
+- Mänskliga kvarlevor hittade efter brand - Västerbottens-Kuriren
+- Fyra bilar krockade på E6 utanför Helsingborg - SVT Nyheter
+- Vitt snus kan ge sår i munnen - Corren
+- DN Direkt – Akademiker stängs av efter professors död - Dagens Nyheter
 - Ungern: Nu sänds tv-nyheter igen - SVT Nyheter
-- Stora anfall mot Kiev - sorgedag utlyst - Västerbottens-Kuriren
-- USA: Irans regim ska kollapsa av ekonomisk press - Dagens Nyheter
-- Huthirörelsen angriper saudisk oljeanläggning - Västerbottens-Kuriren
+- Hemlig operation har öppnat Hormuzsundet för tankfartyg - Dagens Nyheter
+- Bessent: Inför hårdaste sanktionerna någonsin – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - SEB: Riksbankens räntebesked mer duvaktigt än väntat - Placera.se
+- USA:s statsskuld på rekordnivå - Privata Affärer
+- SSAB pressas av uppgifter om sänkta ståltullar - Metal Supply
 - Affärsvärlden lämnar ett neutralt råd för ABB - Affärsvärlden
-- Lovande resultat för behandling av svår hudcancer - Corren
-- Stockholmsbörsen vände uppåt på torsdagen efter långvarig nedgång, OMXS30-index steg 0,5 procent (Finwire News) - Aktiellt
 - Nya bilder visar Space X-raketens krater på månen - Omni – Alla nyheter. Alla perspektiv.
 - Samsung One UI kommer låta användare skapa egna widgetar - Swedroid
 
@@ -74,25 +74,25 @@ _Updated: 2026-08-20 19:56_
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -109,13 +109,13 @@ _Updated: 2026-08-20 19:56_
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
+- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
@@ -142,18 +142,19 @@ _Updated: 2026-08-20 19:56_
 
 ## Jordbruk
 
-- Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
@@ -161,4 +162,3 @@ _Updated: 2026-08-20 19:56_
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Han tror stenhårt på jordbruket - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
