@@ -1,38 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-20 17:05_
+_Updated: 2026-08-20 17:58_
 
 ## Top Stories
 
-- Stora regnmängder och översvämningar i Norrbotten - Dagens Nyheter
-- Ben-Gvir: Döda ”30 eller 40” Gazabor varje dag - Göteborgs-Posten
-- Misstänkt mordbrand – mänskliga kvarlevor hittade - Expressen
-- Magdalena Andersson (S) lovar ”enormt” paket för äldreomsorgen - Aftonbladet
-- Kriget i Ukraina: Stora anfall mot Kiev – många döda - Dagens Nyheter
+- Emma Bouvin: Ministern struntar i att världen fördömer hans galgbacke - Dagens Nyheter
+- S lovar fast läkare till alla äldre - Göteborgs-Posten
+- Öresundsbron stängd - Omni – Alla nyheter. Alla perspektiv.
+- Rekordmycket regn och översvämningar i Norrbotten - Västerbottens-Kuriren
+- Tolv döda i attack mot Kiev – Zelenskyj vädjar om luftförsvar - Sveriges Radio
 - Hatet mot Mohamsson – Strandhäll raderar inlägg - 100.se
-- Ytterligare ett fall av mässling i Värmland efter Urkult - SVT Nyheter
+- Totalt 24 smittade med mässling efter festivalen - Göteborgs-Posten
 - Fyra bilar i krock på E6 utanför Helsingborg - SVT Nyheter
-- Pojke sköts i magen vid skola – 24-åring häktad - Dagens Nyheter
-- Kommunanställd häktad för våldtäkt på boende - Göteborgs-Posten
+- Mänskliga kvarlevor hittade efter villabrand i Vara - Göteborgs-Posten
+- Misstänkt olovlig avlyssning på Kumlaanstalten - Dagens Nyheter
+- Ungern: Nu sänds tv-nyheter igen - SVT Nyheter
 - Huthirörelsen angriper saudisk oljeanläggning - Västerbottens-Kuriren
-- Trump hotar Iranstödjare med ekonomiska straff – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Rumänska F16-plan förstörde drönare nära gasprojekt - Omni – Alla nyheter. Alla perspektiv.
-- Franska brandmän hotar med strejk – ”brist på allt” - Dagens Nyheter
-- Efter räntebeskedet – så kan du tänka med bolånet - Svenska Dagbladet
+- Bank: Extremvärmen kostar när produktiviteten rasar - Omni – Alla nyheter. Alla perspektiv.
+- Trumps nya Iranhot: ”Hårdaste någonsin” - Corren
+- SEB: Räntebeskedet mer duvaktigt än väntat - Affärsvärlden
 - SSAB faller på uppgifter om lägre USA-tullar mot Kanada - Placera.se
-- Lovande resultat för behandling av svår hudcancer - Corren
-- Skanska bygger datacenter i sydöstra USA för USD 1,2 miljarder - Nya Projekt -
-- Test: Google Pixel 11 Pro XL gör det enklare att få saker gjorda - Computer Sweden
+- USA:s statsskuld på rekordnivå - Aftonbladet
+- Affärsvärlden lämnar ett neutralt råd för ABB - Affärsvärlden
 - Nya bilder visar Space X-raketens krater på månen - Omni – Alla nyheter. Alla perspektiv.
+- Samsung One UI kommer låta användare skapa egna widgetar - Swedroid
 
 ## World News
 
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -44,6 +43,7 @@ _Updated: 2026-08-20 17:05_
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
@@ -51,25 +51,25 @@ _Updated: 2026-08-20 17:05_
 ## Technology
 
 - Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
-- Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Google uppges ha försenat Gemini 3.5 Pro med flera månader - Computer Sweden
-- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
-- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
-- Hyperlink InfoSystem Delivers Tailored AI Agent Solutions to Help Businesses Save Up to 90% in Operational Costs with Intelligent Automation (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
-- 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
+- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -109,13 +109,13 @@ _Updated: 2026-08-20 17:05_
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 
 ## Science
 
