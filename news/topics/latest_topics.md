@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-20 10:05_
+_Updated: 2026-08-20 11:05_
 
 ## Top Stories
 
-- Byggföretagen om räntebeskedet: ”Positivt för byggmarknaden” - Byggföretagen
-- Ben-Gvir visar upp platsen där terrordömda ska hängas - Sveriges Radio
-- Man från Halmstad misstänks ha rekryterat barn till morduppdrag - SVT Nyheter
-- Villaidyllen blev slagfält i segregationsstriden - Svenska Dagbladet
+- Riksbanken varnar för räntehöjning - Svenska Dagbladet
+- Försvarsmakten köpte ut Alexander Forsman efter dispyt - Sveriges Radio
+- Uppgifter: Mördare jagas – tros gömma sig utomlands - Aftonbladet
+- Trumps hemliga operation: ”Varit extremt effektiv” - Expressen
+- Busch om mittenregering: Blågula bäst för Sverige - Göteborgs-Posten
 - Uppgifter: Trumps assistent jobbade i över ett år utan säkerhetsklassning - Dagens Nyheter
-- Ukraina: Flera döda i ryska attacker - Göteborgs-Posten
-- Mc-förare död efter krock med personbil - SVT Nyheter
-- Varnar: Tältet kan bli dödsfälla – fem förgiftade på kort tid - Dagens Nyheter
-- I dag startar röstningen utomlands – Senaste nytt om valet 2026 - SVT Nyheter
-- Försvarsmakten köpte ut anställda för flera miljoner - Omni – Alla nyheter. Alla perspektiv.
-- Källor: USA har öppnat korridor för oljetankrar genom Hormuzsundet - Yle
+- Mohamsson: Då är det kört för Moderaterna - Västerbottens-Kuriren
+- DN Direkt – Man misstänks för tusentals kriminella annonser - Dagens Nyheter
+- 22-åring döms för våldtäkt på Malmö C - SVT Nyheter
+- Busch: ”En hagelsvärm i regeringsfrågan” – Senaste nytt om valet 2026 - SVT Nyheter
+- Kriget i Ukraina: Stora anfall mot Kiev – många döda - Dagens Nyheter
+- Ben-Gvir: Döda ”30 eller 40” Gazabor varje dag - Västerbottens-Kuriren
 - Trump hotar Iranstödjare med ekonomiska straff – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Buss i krock med busskur på Södermalm - Mitt i
-- USA riktar sanktioner mot ICC-domare - SVT Nyheter
-- Lovande resultat för behandling av svår hudcancer - Corren
 - Dyr nota för kraftmätningen IF Metall–Tesla - ETC.se
+- Lovande resultat för behandling av svår hudcancer - Corren
 - USA:s statsskuld på rekordnivå – 40.000.0000.000.000 dollar - Dagens industri
 - Skanska bygger datacenter för 11,2 miljarder - Affärsvärlden
 - Månkraschen: Se Nasas nya bilder på kratern - Dagens Nyheter
@@ -39,8 +39,8 @@ _Updated: 2026-08-20 10:05_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på igår 06:50 - tv.nu
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
@@ -63,10 +63,10 @@ _Updated: 2026-08-20 10:05_
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
-- AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 - FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
+- AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- Hyperlink InfoSystem Delivers Tailored AI Agent Solutions to Help Businesses Save Up to 90% in Operational Costs with Intelligent Automation (PR Newswire) - Aktiellt
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -96,24 +96,24 @@ _Updated: 2026-08-20 10:05_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
-- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 
@@ -127,7 +127,7 @@ _Updated: 2026-08-20 10:05_
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskningsutvärdering med kvalitet i fokus - ju.se
+- Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
