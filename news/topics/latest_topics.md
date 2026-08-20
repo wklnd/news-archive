@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-20 11:05_
+_Updated: 2026-08-20 12:00_
 
 ## Top Stories
 
-- Riksbanken varnar för räntehöjning - Svenska Dagbladet
-- Försvarsmakten köpte ut Alexander Forsman efter dispyt - Sveriges Radio
-- Uppgifter: Mördare jagas – tros gömma sig utomlands - Aftonbladet
-- Trumps hemliga operation: ”Varit extremt effektiv” - Expressen
-- Busch om mittenregering: Blågula bäst för Sverige - Göteborgs-Posten
-- Uppgifter: Trumps assistent jobbade i över ett år utan säkerhetsklassning - Dagens Nyheter
-- Mohamsson: Då är det kört för Moderaterna - Västerbottens-Kuriren
+- Busch om regeringsfrågan: ”Kan tänka mig Centerpartiet” - Göteborgs-Posten
+- Man gripen i Tyskland – misstänkt för mord i Kalmar - SVT Nyheter
+- Alexander köptes ut efter dispyt med Försvarsmakten - Sveriges Radio
+- Stora regnmängder och översvämningar i Norrbotten - Västerbottens-Kuriren
+- Almgren och Pihlström till Finnkampen - Göteborgs-Posten
+- Stora anfall mot Kiev - sorgedag utlyst - Västerbottens-Kuriren
+- Västra götaland betala tillbaka miljoner till andra regioner - Sveriges Radio
 - DN Direkt – Man misstänks för tusentals kriminella annonser - Dagens Nyheter
-- 22-åring döms för våldtäkt på Malmö C - SVT Nyheter
 - Busch: ”En hagelsvärm i regeringsfrågan” – Senaste nytt om valet 2026 - SVT Nyheter
-- Kriget i Ukraina: Stora anfall mot Kiev – många döda - Dagens Nyheter
-- Ben-Gvir: Döda ”30 eller 40” Gazabor varje dag - Västerbottens-Kuriren
+- Ben-Gvir: Döda ”30 eller 40” Gazabor varje dag - Svenska Dagbladet
+- Källor: USA har öppnat korridor för oljetankrar genom Hormuzsundet - Yle
+- Uppgifter: Trumps assistent jobbade i över ett år utan säkerhetsklassning - Dagens Nyheter
+- Ny fångutväxling mellan Ukraina och Ryssland - Västerbottens-Kuriren
 - Trump hotar Iranstödjare med ekonomiska straff – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Buss i krock med busskur på Södermalm - Mitt i
-- Dyr nota för kraftmätningen IF Metall–Tesla - ETC.se
+- Styrräntan oförändrad – flaggar för höjning - Aftonbladet
 - Lovande resultat för behandling av svår hudcancer - Corren
 - USA:s statsskuld på rekordnivå – 40.000.0000.000.000 dollar - Dagens industri
-- Skanska bygger datacenter för 11,2 miljarder - Affärsvärlden
-- Månkraschen: Se Nasas nya bilder på kratern - Dagens Nyheter
+- Skanska bygger datacenter i sydöstra USA för USD 1,2 miljarder - Nya Projekt -
+- Nya bilder visar Space X-raketens krater på månen - Omni – Alla nyheter. Alla perspektiv.
 - Massiv kritik mot butikens bristande öppettider – nu flyttas paketen - Blekinge Läns Tidning
 
 ## World News
@@ -33,7 +33,7 @@ _Updated: 2026-08-20 11:05_
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -42,11 +42,11 @@ _Updated: 2026-08-20 11:05_
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -56,36 +56,36 @@ _Updated: 2026-08-20 11:05_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
+- SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
 - Google uppges ha försenat Gemini 3.5 Pro med flera månader - Computer Sweden
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
-- Albanien utser AI-bot till minister - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
 - AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -130,15 +130,15 @@ _Updated: 2026-08-20 11:05_
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
