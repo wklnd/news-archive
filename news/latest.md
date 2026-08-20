@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-20 16:18_
+_Updated: 2026-08-20 17:14_
 
-- A Russian missile and drone barrage kills at least 16 in Ukraine’s Kyiv region - AP News
 - Trump’s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say - The New York Times
-- Trump says Iran's economy is collapsing. A former central bank adviser in Tehran pushes back - CNBC
-- How Trump Is Trying to Crush California’s Environmental Policies - The New York Times
-- North Korea fires 10 missiles day after Trump curtails South Korea joint drills - The Guardian
-- #Resistance Democrats are flopping in primaries - Politico
 - White House faces scrutiny over top Trump aide Natalie Harp – live - The Guardian
-- Jimmy Fallon Teases Trump’s Efforts to Rekindle North Korea Bromance - The New York Times
+- A Russian missile and drone barrage kills at least 16 in Ukraine’s Kyiv region - AP News
+- El Niño will upend winter weather in the US. Here’s who will feel it the most - CNN
+- Democrats narrow their list of 2028 presidential convention sites to Boston, Denver and Philadelphia - AP News
+- North Korea fires a suspected missile toward the sea, Japan says - NPR
+- Watch Live: Lindsay Clancy murder trial resumes as defense could call final witness - CBS News
+- Capitol agenda: Trump 1.0 enemies face brutal primaries - Politico
 - What we know about deadly plane crash involving Pennsylvania State Police helicopter at Carlisle Regional Airport - 6abc Philadelphia
-- Harry and Meghan's security arrangements a private matter, PM says - BBC
-- The Nazi shipwrecks emerging from the Danube - BBC
+- After Six Years, Harry and Meghan Are Coming Home. What Changed? - The New York Times
+- Chinese court sentences founder of troubled property developer Evergrande to life in prison - AP News
 - Trump’s Plan to Squeeze Iran’s Economy Will Live or Die in Dubai - WSJ
-- Romania destroys marine drone near Neptun Deep gas project, minister says - Reuters
-- Melting Swiss glacier reveals remains of two Belgian mountaineers missing since 1992 - Fox News
-- Stock Market Today: Bond Yields Jump, Largely Wiping Effect of Bessent Intervention, Dow Futures Slip — Live Updates - WSJ
-- Bond markets rattle economy, forcing controversial buyback ‘Band-Aid’ - The Hill
+- Fishermen found alive floating on cooler 150 miles off Mexico 5 days after going missing - CBS News
+- Russia runs out of petrol at seven in 10 stations as fuel crisis worsens - Euronews.com
+- US long-term bonds slide as Bessent intervention fails to soothe investors - Financial Times
+- Mark Zuckerberg encouraged growth over child safety, ex-Meta executive testifies at trial - NBC News
 - Walmart reports rare sales miss as consumers cut spending, shares fall - Reuters
-- Whistleblower Arturo Béjar leads testimony in landmark trial against Meta - NPR
-- Using the Pixel 11 Pro for a week confirmed my biggest fear about Pixel's future - Android Authority
+- After Moderna stock surge of 177% on cancer drug breakthrough, here's what Wall Street thinks happens next - Yahoo Finance
+- The Google Pixel 11 series is now on sale - GSMArena.com news - GSMArena.com
 - Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries - The Verge
