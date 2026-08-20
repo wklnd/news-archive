@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-21 00:55_
+_Updated: 2026-08-21 01:50_
 
 ## Top Stories
 
-- Ilskan mot Ben-Gvir efter galgen - Göteborgs-Posten
-- Rysk luftfarkost misstänks ha kränkt finskt territorium - Hufvudstadsbladet – HBL
 - Varnar för dödsfällan – flera förgiftade i svenska fjällen - Expressen
-- Fartyg kapat utanför Jemens kust - Västerbottens-Kuriren
 - Lily Hooper: Mardrömmen – 8 minuter efter lyckobeskedet - Aftonbladet
+- Ilskan mot Ben-Gvir efter galgen - Göteborgs-Posten
+- Fartyg kapat utanför Jemens kust - Västerbottens-Kuriren
 - Varningen: ”Regnområdena lämnar ju inte riktigt” - Aftonbladet
-- Djursmitta drabbar människor – flera fall i Sverige - Dagens Nyheter
-- Fyra bilar krockade på E6 utanför Helsingborg - SVT Nyheter
+- Amanda Lind: Centern lanserar högerregering - Svenska Dagbladet
 - KD och V rök ihop om vården: ”Ren lögn” – Senaste nytt om valet 2026 - SVT Nyheter
+- Fyra bilar krockade på E6 utanför Helsingborg - SVT Nyheter
 - Totalt 24 smittade med mässling efter festivalen - Göteborgs-Posten
+- Krismöte med Estland – vill inte ta emot vissa brottslingar - Aftonbladet
 - Direkt – Krisen i Mellanöstern – Kritiken växer mot Israels expansion av bosättningar - Dagens Nyheter
-- Kurder: Integrationen med Syriens armé är klar - Göteborgs-Posten
+- Kurder: Integrationen med Syriens armé är klar - Västerbottens-Kuriren
 - Jennifer Hegseth har fått ”unik” position - Dagens Nyheter
 - Omfattande jordskalv drabbade södra Peru - Corren
-- Efter räntebeskedet – så kan du tänka med bolånet - Svenska Dagbladet
-- Hexagons aktieinnehav i Hangzhou Yushu Technology Co., Ltd (Unitree Technologies) - Cision News
+- SEB: Riksbankens räntebesked mer duvaktigt än väntat - Placera.se
+- Roboten rusade – upp 500 procent - Svenska Dagbladet
 - Affärsvärlden lämnar ett neutralt råd för ABB - Affärsvärlden
 - Ränterusningen kan inte dämpas med kaffepengar - EFN
 - Nya bilder visar Space X-raketens krater på månen - Omni – Alla nyheter. Alla perspektiv.
@@ -115,7 +115,7 @@ _Updated: 2026-08-21 00:55_
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - di.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
@@ -154,7 +154,7 @@ _Updated: 2026-08-21 00:55_
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
