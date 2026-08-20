@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-20 21:10_
+_Updated: 2026-08-20 21:55_
 
 ## Top Stories
 
-- Stora anfall mot Kiev - sorgedag utlyst - Göteborgs-Posten
+- Bara världsrekordet saknades i Lausanne - Dagens Nyheter
+- Stabsläge efter regnet – ”kritiskt” - Svenska Dagbladet
+- Rysk luftfarkost misstänks ha kränkt finskt territorium - Hufvudstadsbladet – HBL
+- Tolv döda i attack mot Kiev – Zelenskyj vädjar om luftförsvar - Sveriges Radio
 - S: Gängkriminella bör förbjudas att äga hund - Omni – Alla nyheter. Alla perspektiv.
-- Tonåringarna dog i lågorna: ’Helt ofattbart’ - Aftonbladet
-- Blytungt för Mjällby – förlorade på tilläggstid - Göteborgs-Posten
-- Bedragare greps under pågående bedrägeriförsök - polisen.se
-- Emma Bouvin: Ministern struntar i att världen fördömer hans galgbacke - Dagens Nyheter
+- Ilskan mot Ben-Gvir efter galgen - Göteborgs-Posten
 - Djursmitta drabbar människor – flera fall i Sverige - Dagens Nyheter
-- Mänskliga kvarlevor hittade efter brand - Västerbottens-Kuriren
+- Mänskliga kvarlevor hittade efter villabrand i Vara - Göteborgs-Posten
 - Fyra bilar krockade på E6 utanför Helsingborg - SVT Nyheter
-- Vitt snus kan ge sår i munnen - Corren
+- Männen hittades döda i tält i Härjedalen – dödsorsaken klarlagd - SVT Nyheter
 - DN Direkt – Akademiker stängs av efter professors död - Dagens Nyheter
 - Ungern: Nu sänds tv-nyheter igen - SVT Nyheter
 - Hemlig operation har öppnat Hormuzsundet för tankfartyg - Dagens Nyheter
 - Bessent: Inför hårdaste sanktionerna någonsin – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - SEB: Riksbankens räntebesked mer duvaktigt än väntat - Placera.se
-- USA:s statsskuld på rekordnivå - Privata Affärer
-- SSAB pressas av uppgifter om sänkta ståltullar - Metal Supply
 - Affärsvärlden lämnar ett neutralt råd för ABB - Affärsvärlden
+- USA:s statsskuld på rekordnivå - Privata Affärer
+- Ränterusningen kan inte dämpas med kaffepengar - EFN
 - Nya bilder visar Space X-raketens krater på månen - Omni – Alla nyheter. Alla perspektiv.
 - Samsung One UI kommer låta användare skapa egna widgetar - Swedroid
 
@@ -115,7 +115,7 @@ _Updated: 2026-08-20 21:10_
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - di.se
 
 ## Science
 
