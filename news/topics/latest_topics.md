@@ -1,43 +1,43 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-20 12:00_
+_Updated: 2026-08-20 12:57_
 
 ## Top Stories
 
 - Busch om regeringsfrågan: ”Kan tänka mig Centerpartiet” - Göteborgs-Posten
 - Man gripen i Tyskland – misstänkt för mord i Kalmar - SVT Nyheter
-- Alexander köptes ut efter dispyt med Försvarsmakten - Sveriges Radio
-- Stora regnmängder och översvämningar i Norrbotten - Västerbottens-Kuriren
+- DN Direkt – S lovar fast läkare till alla äldre - Dagens Nyheter
 - Almgren och Pihlström till Finnkampen - Göteborgs-Posten
 - Stora anfall mot Kiev - sorgedag utlyst - Västerbottens-Kuriren
-- Västra götaland betala tillbaka miljoner till andra regioner - Sveriges Radio
-- DN Direkt – Man misstänks för tusentals kriminella annonser - Dagens Nyheter
-- Busch: ”En hagelsvärm i regeringsfrågan” – Senaste nytt om valet 2026 - SVT Nyheter
-- Ben-Gvir: Döda ”30 eller 40” Gazabor varje dag - Svenska Dagbladet
-- Källor: USA har öppnat korridor för oljetankrar genom Hormuzsundet - Yle
+- Trumps hemliga operation: ”Varit extremt effektiv” - Expressen
+- Försvarsmakten köpte ut Alexander Forsman efter dispyt - Sveriges Radio
+- Får tillbaka miljonbelopp efter misstänkt vårdfusk - Sveriges Radio
+- Kan du tänka dig att ta ett förtroendeuppdrag i politiken? - Dagens Nyheter
+- S löfte: Ska stoppa minutstyrning i hemtjänsten – Senaste nytt om valet 2026 - SVT Nyheter
 - Uppgifter: Trumps assistent jobbade i över ett år utan säkerhetsklassning - Dagens Nyheter
-- Ny fångutväxling mellan Ukraina och Ryssland - Västerbottens-Kuriren
+- Ben-Gvir: Döda ”30 eller 40” Gazabor varje dag - Västerbottens-Kuriren
+- Ny fångutväxling mellan Ukraina och Ryssland - Göteborgs-Posten
 - Trump hotar Iranstödjare med ekonomiska straff – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Styrräntan oförändrad – flaggar för höjning - Aftonbladet
 - Lovande resultat för behandling av svår hudcancer - Corren
-- USA:s statsskuld på rekordnivå – 40.000.0000.000.000 dollar - Dagens industri
 - Skanska bygger datacenter i sydöstra USA för USD 1,2 miljarder - Nya Projekt -
-- Nya bilder visar Space X-raketens krater på månen - Omni – Alla nyheter. Alla perspektiv.
-- Massiv kritik mot butikens bristande öppettider – nu flyttas paketen - Blekinge Läns Tidning
+- USA:s statsskuld på rekordnivå – 40.000.0000.000.000 dollar - Dagens industri
+- Månkraschen: Se Nasas nya bilder på kratern - Dagens Nyheter
+- Linux 7.3-uppdateringen ger 7 gånger högre minsta FPS i spel som körs på äldre hårdvara - notebookcheck.se
 
 ## World News
 
+- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på igår 06:50 - tv.nu
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
@@ -55,20 +55,20 @@ _Updated: 2026-08-20 12:00_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- AlarMax Appoints Steve Teitelbaum as Chief Technology Officer, Uniting Industry Legacy with AI-Driven Innovation - Aktiellt
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Google uppges ha försenat Gemini 3.5 Pro med flera månader - Computer Sweden
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Hyperlink InfoSystem Delivers Tailored AI Agent Solutions to Help Businesses Save Up to 90% in Operational Costs with Intelligent Automation (PR Newswire) - Aktiellt
 - AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 
 ## Business
@@ -96,24 +96,24 @@ _Updated: 2026-08-20 12:00_
 
 ## Health
 
-- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 
@@ -154,7 +154,7 @@ _Updated: 2026-08-20 12:00_
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
