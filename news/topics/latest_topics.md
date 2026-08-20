@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-20 13:53_
+_Updated: 2026-08-20 15:26_
 
 ## Top Stories
 
-- Busch om regeringsfrågan: ”Kan tänka mig Centerpartiet” - Göteborgs-Posten
+- Flera nya fall av mässling efter festivalen Urkult - Sveriges Radio
 - Emma Bouvin: Ministern struntar i att världen fördömer hans galgbacke - Dagens Nyheter
-- Man gripen i Tyskland – misstänkt för mord i Kalmar - SVT Nyheter
-- Stora anfall mot Kiev - sorgedag utlyst - Västerbottens-Kuriren
-- Snart är det dags att rösta i valet 2026 - Skövde kommun
-- ”Få skatter som har lett till lägre priser” - Svenska Dagbladet
-- Tre gripna för åldringsbrott - Expressen
-- Stora regnmängder och översvämningar i Norrbotten - Dagens Nyheter
-- Kommunanställd häktad för våldtäkt på boende - Västerbottens-Kuriren
-- Får tillbaka miljonbelopp efter misstänkt vårdfusk - Sveriges Radio
+- Stora regnmängder och översvämningar i Norrbotten - Göteborgs-Posten
+- S vallöfte: Personal ska få utbilda sig utan lån i äldreomsorgen - Arbetet
+- Finansministern om S bankskatteförslag: ”Oseriöst” - Finanswatch.se
+- Dansken som skyddar Göteborg från skogsbrand - Göteborgs-Posten
+- 24-åring misstänks för skjutning i Ronna och Trångsund - SVT Nyheter
+- Man i Tyskland gripen för mord i Kalmar - Västerbottens-Kuriren
+- Kommunanställd häktad för våldtäkt på boende - Göteborgs-Posten
+- Misstänkt olovlig avlyssning på Kumlaanstalten - Dagens Nyheter
+- Stora anfall mot Kiev - sorgedag utlyst - Göteborgs-Posten
 - Källor: USA har öppnat korridor för oljetankrar genom Hormuzsundet - Yle
 - Uppgifter: Trumps assistent jobbade i över ett år utan säkerhetsklassning - Dagens Nyheter
-- Ny fångutväxling mellan Ukraina och Ryssland - Västerbottens-Kuriren
-- Trump hotar Iranstödjare med ekonomiska straff – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Styrräntan oförändrad – flaggar för höjning - Aftonbladet
+- Franska brandmän hotar med strejk – ”brist på allt” - Dagens Nyheter
+- Efter räntebeskedet – så kan du tänka med bolånet - Svenska Dagbladet
+- Svenska ståljätten backar på Trumps tullbesked - Omni – Alla nyheter. Alla perspektiv.
 - Lovande resultat för behandling av svår hudcancer - Corren
-- USA:s statsskuld på rekordnivå – 40.000.0000.000.000 dollar - Dagens industri
-- Skanska bygger datacenter i sydöstra USA för USD 1,2 miljarder - Nya Projekt -
+- Karnov överväger exit – kan Legora vara sugen på affär? - Breakit
 - Test: Google Pixel 11 Pro XL gör det enklare att få saker gjorda - Computer Sweden
-- Månkraschen: Se Nasas nya bilder på kratern - Dagens Nyheter
+- Nya bilder visar Space X-raketens krater på månen - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
@@ -40,8 +40,8 @@ _Updated: 2026-08-20 13:53_
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på igår 06:50 - tv.nu
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
@@ -55,21 +55,21 @@ _Updated: 2026-08-20 13:53_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
+- Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- Google uppges ha försenat Gemini 3.5 Pro med flera månader - Computer Sweden
+- SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Google uppges ha försenat Gemini 3.5 Pro med flera månader - Computer Sweden
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
-- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Hyperlink InfoSystem Delivers Tailored AI Agent Solutions to Help Businesses Save Up to 90% in Operational Costs with Intelligent Automation (PR Newswire) - Aktiellt
 - AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Ofantliga summor ska spenderas på nya datacenter - Computer Sweden
 
 ## Business
 
@@ -87,12 +87,12 @@ _Updated: 2026-08-20 13:53_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -109,13 +109,13 @@ _Updated: 2026-08-20 13:53_
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 
 ## Science
 
@@ -130,15 +130,15 @@ _Updated: 2026-08-20 13:53_
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
