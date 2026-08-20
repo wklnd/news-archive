@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-20 09:22_
+_Updated: 2026-08-20 10:05_
 
 ## Top Stories
 
-- Trump hotar Iranstödjare med ekonomiska straff – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Byggföretagen om räntebeskedet: ”Positivt för byggmarknaden” - Byggföretagen
 - Ben-Gvir visar upp platsen där terrordömda ska hängas - Sveriges Radio
-- Uppgifter: Trumps assistent jobbade i över ett år utan säkerhetsklassning - Dagens Nyheter
+- Man från Halmstad misstänks ha rekryterat barn till morduppdrag - SVT Nyheter
 - Villaidyllen blev slagfält i segregationsstriden - Svenska Dagbladet
-- Ukraina: Flera döda i ryska attacker - gp.se
-- Uppgifter om Estland-fångar hemligstämplas av Kriminalvården - Omni – Alla nyheter. Alla perspektiv.
-- Mohamsson: Då är det kört för Moderaterna - Corren
+- Uppgifter: Trumps assistent jobbade i över ett år utan säkerhetsklassning - Dagens Nyheter
+- Ukraina: Flera döda i ryska attacker - Göteborgs-Posten
 - Mc-förare död efter krock med personbil - SVT Nyheter
 - Varnar: Tältet kan bli dödsfälla – fem förgiftade på kort tid - Dagens Nyheter
-- Rekordmånga vildsvin: Köttet kan vara lösningen - gp.se
+- I dag startar röstningen utomlands – Senaste nytt om valet 2026 - SVT Nyheter
+- Försvarsmakten köpte ut anställda för flera miljoner - Omni – Alla nyheter. Alla perspektiv.
 - Källor: USA har öppnat korridor för oljetankrar genom Hormuzsundet - Yle
+- Trump hotar Iranstödjare med ekonomiska straff – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Buss i krock med busskur på Södermalm - Mitt i
 - USA riktar sanktioner mot ICC-domare - SVT Nyheter
-- Trump: Ska träffa Nordkoreas Kim senare i år - Corren
-- Analys: Iran har börjat tappa kontrollen i Hormuz - Corren
 - Lovande resultat för behandling av svår hudcancer - Corren
-- Dyr nota för kraftmätningen IF Metall–Tesla - Sydsvenskan
-- Bedömningen: Då höjs räntan - expressen.se
+- Dyr nota för kraftmätningen IF Metall–Tesla - ETC.se
 - USA:s statsskuld på rekordnivå – 40.000.0000.000.000 dollar - Dagens industri
-- Hackare läcker GTA 6-klipp – avslöjar detaljer om efterlängtade spelet - nyteknik
+- Skanska bygger datacenter för 11,2 miljarder - Affärsvärlden
 - Månkraschen: Se Nasas nya bilder på kratern - Dagens Nyheter
+- Massiv kritik mot butikens bristande öppettider – nu flyttas paketen - Blekinge Läns Tidning
 
 ## World News
 
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
-- Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på igår 06:50 - tv.nu
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Megaaffären lyfter American Express Global Business Travel - travelnews.se
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Etraveli rusar – 175 miljarder och global styrka - travelnews.se
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -123,7 +123,7 @@ _Updated: 2026-08-20 09:22_
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
 - Olika slutsatser från samma data - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
