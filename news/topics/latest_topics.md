@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-20 19:01_
+_Updated: 2026-08-20 19:56_
 
 ## Top Stories
 
+- Blytungt för Mjällby – förlorade på tilläggstid - Aftonbladet
+- 24-åring misstänks för skjutning i Ronna och Trångsund - SVT Nyheter
 - Stora regnmängder och översvämningar i Norrbotten - Dagens Nyheter
+- Nord Stream-misstänkt greps på filminspelning - Svenska Dagbladet
 - Ilskan mot Ben-Gvir efter galgen - Göteborgs-Posten
-- Nord Stream-misstänkt greps vid filminspelning - Göteborgs-Posten
-- Tonåringarna dog i lågorna: ’Helt ofattbart’ - Aftonbladet
-- Rumänien förstörde drönare nära gasprojekt - Expressen
 - S lovar fast läkare till alla äldre - Göteborgs-Posten
-- Totalt 24 smittade med mässling efter festivalen - Göteborgs-Posten
 - Fyra bilar i krock på E6 utanför Helsingborg - SVT Nyheter
-- Mänskliga kvarlevor hittade efter villabrand i Vara - Göteborgs-Posten
-- Vattenexperten om att kissa i handfatet: Fantastisk idé - Sveriges Radio
+- Mänskliga kvarlevor hittade efter brand - Västerbottens-Kuriren
+- Vitt snus kan ge sår i munnen - Corren
+- Djursmitta drabbar människor – flera fall i Sverige - Dagens Nyheter
 - Ungern: Nu sänds tv-nyheter igen - SVT Nyheter
 - Stora anfall mot Kiev - sorgedag utlyst - Västerbottens-Kuriren
 - USA: Irans regim ska kollapsa av ekonomisk press - Dagens Nyheter
 - Huthirörelsen angriper saudisk oljeanläggning - Västerbottens-Kuriren
-- Efter räntebeskedet – så kan du tänka med bolånet - Svenska Dagbladet
-- Moderna rusar över 100% på cancervaccin - Placera.se
+- SEB: Riksbankens räntebesked mer duvaktigt än väntat - Placera.se
 - Affärsvärlden lämnar ett neutralt råd för ABB - Affärsvärlden
-- USA:s statsskuld på rekordnivå – 40.000.0000.000.000 dollar - Dagens industri
+- Lovande resultat för behandling av svår hudcancer - Corren
+- Stockholmsbörsen vände uppåt på torsdagen efter långvarig nedgång, OMXS30-index steg 0,5 procent (Finwire News) - Aktiellt
 - Nya bilder visar Space X-raketens krater på månen - Omni – Alla nyheter. Alla perspektiv.
 - Samsung One UI kommer låta användare skapa egna widgetar - Swedroid
 
@@ -51,23 +51,23 @@ _Updated: 2026-08-20 19:01_
 ## Technology
 
 - Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
+- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
+- Google uppges ha försenat Gemini 3.5 Pro med flera månader - Computer Sweden
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Google uppges ha försenat Gemini 3.5 Pro med flera månader - Computer Sweden
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
 - AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ofantliga summor ska spenderas på nya datacenter - Computer Sweden
 
@@ -109,36 +109,36 @@ _Updated: 2026-08-20 19:01_
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
-- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
