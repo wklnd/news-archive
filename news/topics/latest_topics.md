@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-20 21:55_
+_Updated: 2026-08-20 22:56_
 
 ## Top Stories
 
-- Bara världsrekordet saknades i Lausanne - Dagens Nyheter
-- Stabsläge efter regnet – ”kritiskt” - Svenska Dagbladet
-- Rysk luftfarkost misstänks ha kränkt finskt territorium - Hufvudstadsbladet – HBL
-- Tolv döda i attack mot Kiev – Zelenskyj vädjar om luftförsvar - Sveriges Radio
-- S: Gängkriminella bör förbjudas att äga hund - Omni – Alla nyheter. Alla perspektiv.
-- Ilskan mot Ben-Gvir efter galgen - Göteborgs-Posten
+- Svenske Daniel på plats i Kiev: ”Massivt anfall efter midnatt” - Aftonbladet
+- Varnar för dödsfällan – flera förgiftade i svenska fjällen - Expressen
+- Somaliska pirater har vind i seglen igen - Svenska Dagbladet
+- Nytt utspel om dödsstraff skakar Israel - Sveriges Radio
+- Räddningstjänsten i stabsläge: ”Värsta jag sett” - Aftonbladet
+- Bedragare greps under pågående bedrägeriförsök - Polisen.se
 - Djursmitta drabbar människor – flera fall i Sverige - Dagens Nyheter
-- Mänskliga kvarlevor hittade efter villabrand i Vara - Göteborgs-Posten
 - Fyra bilar krockade på E6 utanför Helsingborg - SVT Nyheter
-- Männen hittades döda i tält i Härjedalen – dödsorsaken klarlagd - SVT Nyheter
-- DN Direkt – Akademiker stängs av efter professors död - Dagens Nyheter
-- Ungern: Nu sänds tv-nyheter igen - SVT Nyheter
-- Hemlig operation har öppnat Hormuzsundet för tankfartyg - Dagens Nyheter
-- Bessent: Inför hårdaste sanktionerna någonsin – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- SEB: Riksbankens räntebesked mer duvaktigt än väntat - Placera.se
+- Mänskliga kvarlevor hittade efter villabrand i Vara - Göteborgs-Posten
+- KD och V rök ihop om vården: ”Ren lögn” – Senaste nytt om valet 2026 - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Kritiken växer mot Israels expansion av bosättningar - Dagens Nyheter
+- Akademiker stängs av efter professors död - Västerbottens-Kuriren
+- Jennifer Hegseth har fått en ”unik” position i Vita huset - Dagens Nyheter
+- Jordskalv med magnitud 6,7 drabbar Peru - Corren
+- Efter räntebeskedet – så kan du tänka med bolånet - Svenska Dagbladet
 - Affärsvärlden lämnar ett neutralt råd för ABB - Affärsvärlden
 - USA:s statsskuld på rekordnivå - Privata Affärer
 - Ränterusningen kan inte dämpas med kaffepengar - EFN
 - Nya bilder visar Space X-raketens krater på månen - Omni – Alla nyheter. Alla perspektiv.
-- Samsung One UI kommer låta användare skapa egna widgetar - Swedroid
+- Nothing OS 5.0 visas upp den 25 augusti - mobil.se
 
 ## World News
 
@@ -39,8 +39,8 @@ _Updated: 2026-08-20 21:55_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
@@ -74,25 +74,25 @@ _Updated: 2026-08-20 21:55_
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 
 ## Health
 
