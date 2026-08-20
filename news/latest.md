@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-20 19:04_
+_Updated: 2026-08-20 20:00_
 
-- FBI raids former Rep. Eric Swalwell’s home, seizes devices in probe tied to sexual assault claims - CNN
-- Trump Threat Puts Focus on Iran’s Trading Partners - The New York Times
+- F.B.I. Agents Search Eric Swalwell’s Home as Part of Federal Inquiry - The New York Times
+- Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure - CNBC
 - White House faces scrutiny over top Trump aide Natalie Harp – live - The Guardian
+- Judge sends Lindsay Clancy trial jurors home after chaplain testimony - ABC7 Los Angeles
+- Atlanta mayor pans city’s DNC snub - Politico
 - El Niño will upend winter weather in the US. Here’s who will feel it the most - CNN
-- Watch Live: Lindsay Clancy trial testimony ends early as defense winds down case - CBS News
-- Senate Health Panel Chairman Voices Strong Reservations About F.D.A. Nominee - The New York Times
-- #Resistance Democrats are flopping in primaries - Politico
-- ICE Arrests Captain in New York Boat Accident That Killed 2 - The New York Times
-- Harry and Meghan's security arrangements a private matter, PM says - BBC
-- Democrats narrow their list of 2028 presidential convention sites to Boston, Denver and Philadelphia - AP News
-- China Sentences Evergrande Founder to Life in Prison - The New York Times
+- Capitol agenda: Trump 1.0 enemies face brutal primaries - Politico
+- Speedboat driver in fatal New York Harbor capsizing was in the US illegally, authorities say - AP News
+- Harry and Meghan’s California Neighbors Shrug as Their Idyll Ends - The New York Times
+- North Korea fires 10 missiles day after Trump curtails South Korea joint drills - The Guardian
+- Chinese court sentences founder of property developer Evergrande to life in prison - NPR
 - Russian missile barrage kills at least 16 people in Ukraine’s Kyiv - Al Jazeera
 - Pirates hijack cargo ship carrying Turkish weapons off Somalia’s coast, official says - AP News
 - Romania destroys marine drone near Neptun Deep gas project, minister says - Reuters
-- Bessent says Treasury buyback operation could be more than $4 billion - CNBC
-- Mark Zuckerberg encouraged growth over child safety, ex-Meta executive testifies at trial - NBC News
-- U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns - NPR
+- Stock Market Today: Bessent Signals Treasury Buybacks Could Exceed $4 Billion - WSJ
 - Walmart stock drops as sales growth slows, customers make 'trade-offs' amid high fuel costs - Yahoo Finance
+- Three things to know about the $40 trillion federal debt - NPR
+- Mark Zuckerberg encouraged growth over child safety, ex-Meta executive testifies at trial - NBC News
+- Someone already figured out how to fully control Pixel 11 Pro's 'HiLight' and make it useful [Gallery] - 9to5Google
 - The Google Pixel 11 series is now on sale - GSMArena.com news - GSMArena.com
-- Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries - The Verge
