@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-20 16:08_
+_Updated: 2026-08-20 17:05_
 
 ## Top Stories
 
 - Stora regnmängder och översvämningar i Norrbotten - Dagens Nyheter
-- Emma Bouvin: Ministern struntar i att världen fördömer hans galgbacke - Dagens Nyheter
-- S vallöfte: Slopad minutstyrning i äldreomsorgen - Arbetet
-- Finansministern om S bankskatteförslag: ”Oseriöst” - Finanswatch.se
-- Rumänska F16-plan förstörde drönare nära gasprojekt - Omni – Alla nyheter. Alla perspektiv.
-- Busch om regeringsfrågan: ”Kan tänka mig Centerpartiet” - Göteborgs-Posten
-- Ytterligare tre smittade av mässling - SVT Nyheter
+- Ben-Gvir: Döda ”30 eller 40” Gazabor varje dag - Göteborgs-Posten
+- Misstänkt mordbrand – mänskliga kvarlevor hittade - Expressen
+- Magdalena Andersson (S) lovar ”enormt” paket för äldreomsorgen - Aftonbladet
+- Kriget i Ukraina: Stora anfall mot Kiev – många döda - Dagens Nyheter
+- Hatet mot Mohamsson – Strandhäll raderar inlägg - 100.se
+- Ytterligare ett fall av mässling i Värmland efter Urkult - SVT Nyheter
+- Fyra bilar i krock på E6 utanför Helsingborg - SVT Nyheter
+- Pojke sköts i magen vid skola – 24-åring häktad - Dagens Nyheter
 - Kommunanställd häktad för våldtäkt på boende - Göteborgs-Posten
-- Misstänkt olovlig avlyssning på Kumlaanstalten - Dagens Nyheter
-- 24-åring misstänks för skjutning i Ronna och Trångsund - SVT Nyheter
-- Stora anfall mot Kiev - sorgedag utlyst - Göteborgs-Posten
+- Huthirörelsen angriper saudisk oljeanläggning - Västerbottens-Kuriren
+- Trump hotar Iranstödjare med ekonomiska straff – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Rumänska F16-plan förstörde drönare nära gasprojekt - Omni – Alla nyheter. Alla perspektiv.
 - Franska brandmän hotar med strejk – ”brist på allt” - Dagens Nyheter
-- Uppgifter: Trumps assistent jobbade i över ett år utan säkerhetsklassning - Dagens Nyheter
-- Ny fångutväxling mellan Ukraina och Ryssland - Göteborgs-Posten
 - Efter räntebeskedet – så kan du tänka med bolånet - Svenska Dagbladet
-- SSAB pressas av uppgifter om sänkta ståltullar - Metal Supply
-- Karnov rusar på oregelbunden Stockholmsbörs - Placera.se
+- SSAB faller på uppgifter om lägre USA-tullar mot Kanada - Placera.se
 - Lovande resultat för behandling av svår hudcancer - Corren
+- Skanska bygger datacenter i sydöstra USA för USD 1,2 miljarder - Nya Projekt -
 - Test: Google Pixel 11 Pro XL gör det enklare att få saker gjorda - Computer Sweden
 - Nya bilder visar Space X-raketens krater på månen - Omni – Alla nyheter. Alla perspektiv.
 
@@ -29,9 +29,10 @@ _Updated: 2026-08-20 16:08_
 
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -43,7 +44,6 @@ _Updated: 2026-08-20 16:08_
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
@@ -58,18 +58,18 @@ _Updated: 2026-08-20 16:08_
 - Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Google uppges ha försenat Gemini 3.5 Pro med flera månader - Computer Sweden
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
+- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
+- Hyperlink InfoSystem Delivers Tailored AI Agent Solutions to Help Businesses Save Up to 90% in Operational Costs with Intelligent Automation (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Ofantliga summor ska spenderas på nya datacenter - Computer Sweden
 
 ## Business
 
@@ -85,34 +85,34 @@ _Updated: 2026-08-20 16:08_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
-- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
+- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
@@ -142,19 +142,18 @@ _Updated: 2026-08-20 16:08_
 
 ## Jordbruk
 
+- Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
@@ -162,3 +161,4 @@ _Updated: 2026-08-20 16:08_
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Han tror stenhårt på jordbruket - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
