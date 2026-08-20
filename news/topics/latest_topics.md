@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-20 22:56_
+_Updated: 2026-08-20 23:53_
 
 ## Top Stories
 
-- Svenske Daniel på plats i Kiev: ”Massivt anfall efter midnatt” - Aftonbladet
+- Ilskan mot Ben-Gvir efter galgen - Göteborgs-Posten
+- Rysk luftfarkost misstänks ha kränkt finskt territorium - Hufvudstadsbladet – HBL
 - Varnar för dödsfällan – flera förgiftade i svenska fjällen - Expressen
-- Somaliska pirater har vind i seglen igen - Svenska Dagbladet
-- Nytt utspel om dödsstraff skakar Israel - Sveriges Radio
+- Fartyg kapat utanför Jemens kust - Västerbottens-Kuriren
+- Ukrainas plan: Slå ut alla flyg till och från Moskva - Svenska Dagbladet
 - Räddningstjänsten i stabsläge: ”Värsta jag sett” - Aftonbladet
-- Bedragare greps under pågående bedrägeriförsök - Polisen.se
 - Djursmitta drabbar människor – flera fall i Sverige - Dagens Nyheter
 - Fyra bilar krockade på E6 utanför Helsingborg - SVT Nyheter
-- Mänskliga kvarlevor hittade efter villabrand i Vara - Göteborgs-Posten
+- Mänskliga kvarlevor hittade efter brand - Aftonbladet
 - KD och V rök ihop om vården: ”Ren lögn” – Senaste nytt om valet 2026 - SVT Nyheter
 - Direkt – Krisen i Mellanöstern – Kritiken växer mot Israels expansion av bosättningar - Dagens Nyheter
-- Akademiker stängs av efter professors död - Västerbottens-Kuriren
+- Kurder: Integrationen med Syriens armé är klar - Västerbottens-Kuriren
+- Omfattande jordskalv drabbade södra Peru - Corren
 - Jennifer Hegseth har fått en ”unik” position i Vita huset - Dagens Nyheter
-- Jordskalv med magnitud 6,7 drabbar Peru - Corren
-- Efter räntebeskedet – så kan du tänka med bolånet - Svenska Dagbladet
+- SEB: Riksbankens räntebesked mer duvaktigt än väntat - Placera.se
 - Affärsvärlden lämnar ett neutralt råd för ABB - Affärsvärlden
-- USA:s statsskuld på rekordnivå - Privata Affärer
 - Ränterusningen kan inte dämpas med kaffepengar - EFN
+- Stockholmsbörsen vände uppåt på torsdagen efter långvarig nedgång, OMXS30-index steg 0,5 procent (Finwire News) - Aktiellt
 - Nya bilder visar Space X-raketens krater på månen - Omni – Alla nyheter. Alla perspektiv.
-- Nothing OS 5.0 visas upp den 25 augusti - mobil.se
+- GPD Win Max 3 bekräftas bli rejält dyr - Nordichardware
 
 ## World News
 
@@ -60,8 +60,8 @@ _Updated: 2026-08-20 22:56_
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Google uppges ha försenat Gemini 3.5 Pro med flera månader - Computer Sweden
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -121,24 +121,24 @@ _Updated: 2026-08-20 22:56_
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- AI för vetenskaplig forskning och upptäckter - OpenAI
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
