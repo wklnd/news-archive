@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-20 01:56_
+_Updated: 2026-08-20 04:05_
 
-- Lindsay Clancy trial ends earlier than expected Wednesday due to "unforeseen circumstance" - CBS News
 - Trump shows off his new helipad, brags about construction projects - The Washington Post
-- Canada and US say they are finalising a trade deal, but details remain murky - BBC
-- Kennedy Center tells court it won’t try to restore Trump’s name to the building before Sept. 8 - AP News
-- Jimmy Gomez being investigated for 'sexual harassments and assault,' lawyers allege - politico.com
-- Moskowitz dunks on the DSA - politico.com
-- Darline Graham says she's "not that informed on national security" at debate - CBS News
-- 5 Things to Know About Byron Donalds, Republican Nominee for Florida Governor - The New York Times
-- 8 takeaways and surprises from Florida, Wyoming and Alaska primaries - The Washington Post
-- L.A. officer who recorded colleagues’ racist remarks won’t face felony charges - The Washington Post
-- Kenya tourist helicopter crash kills seven, including five Americans - Reuters
+- Lindsay Clancy trial ends earlier than expected Wednesday due to "unforeseen circumstance" - CBS News
+- Trump announces ‘most crushing economic operation ever’ against Iran - Al Jazeera
+- Trump and Canada’s Carney Seem to Make Progress on a Tariff Deal, but Questions Linger - The New York Times
+- Jimmy Gomez being investigated for 'sexual harassments and assault,' lawyers allege - Politico
+- Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records - NPR
+- Sen. Darline Graham avoids giving direct answer to national security question in S.C. debate: 'Not my thing' - PBS
+- The Freedom Caucus is having a brutal primary run - Politico
+- Police helicopter and small plane collide in the air near Pennsylvania airport - CNN
+- Trump picks Dr. Heidi Overton, a top White House aide, to lead the Food and Drug Administration - AP News
+- Defense minister dismissed by Zelensky demands elections in Ukraine - The Washington Post
+- Bodies of Belgian climbers who vanished in 1992 found in Swiss Alps - Euronews.com
+- Trump’s snub of South Korea sends region scrambling - Politico
 - Trump’s Plan to Squeeze Iran’s Economy Will Live or Die in Dubai - WSJ
-- Harry and Meghan Will Move Back to Britain After 6 Years in U.S. - The New York Times
-- Syrian foreign minister to Axios: Israeli bombing of airbase was unjustified - axios.com
-- Bessent acts to break bond market fever, head off rising borrowing costs - The Washington Post
-- US debt crosses $40 trillion threshold after doubling under Trump and Biden - Reuters
+- Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed - CNBC
+- US national debt hits $40 trillion, rising by $90K per second - WJLA
 - Whistleblower Arturo Béjar leads testimony in landmark trial against Meta - NPR
-- US retail giant receives $1bn boost from tariff refunds - BBC
+- Fed officials warned rate hikes may be needed if inflation stays high - Axios
 - Google Pixel 11 series review: Is the magic fading? - Ars Technica
-- Apple is about to launch best reason yet to wear AirPods all day long - 9to5Mac
+- Apple’s Camera-Equipped AI AirPods Remain on Track for 2027 Despite Video Leak - Bloomberg.com
