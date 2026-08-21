@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-21 17:08_
+_Updated: 2026-08-21 18:02_
 
 - Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets - Al Jazeera
-- Navy discusses renaming aircraft carrier after Trump instead of heroic Black sailor - NBC News
+- Navy Reportedly In Talks To Name New Ship After Trump Instead Of Black WWII Hero - Forbes
 - As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR
-- Plane Crash Near Remote Military Radar Site in Alaska Kills 8 - WSJ
-- Amid intense backlash, people are vandalizing Flock surveillance cameras - NPR
-- Trump tries to push Sen. Darline Graham across the finish line over some Republicans’ objections - CNN
+- Alaska charter plane crash kills 8 people, including 2 U.S. Army Corps of Engineers employees - NBC News
+- Flock camera vandals strike nationwide and navy carrier could honor Trump instead of hero: Morning Rundown - NBC News
+- Trump appears on radio show of Michael Cohen, mending fences with former fixer-turned-foe - CBS News
 - Return of Harry and Meghan to U.K. Renews Questions About Their Security Fears - The New York Times
-- Storms cause flood, tornado warnings in New York City, Tri-State | Live Updates - ABC7 New York
-- State lawmaker Aisha Wahab wins California special election to replace former Rep. Swalwell - PBS
-- Democrats put Trump’s ‘corruption’ front and center as they plan possible 2027 probes - Politico
+- Trump seeks to boost Darline Graham in South Carolina homestretch - The Hill
+- Nebraska’s largest school district asks police to stop using electric shock gloves on students - NBC News
+- Watch Live: Lindsay Clancy trial jury to hear testimony from Dr. Phillip Resnick, key witness in Andrea Yates case - CBS News
 - U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May - CNBC
 - Peru earthquake damages buildings and causes power cuts - BBC
-- Gunmen seize tanker off Yemen amid resurgence of Somali piracy - Al Jazeera
-- At 77, She Walked 9 Miles Under Drone-Filled Skies to Escape From ‘Hell’ - The New York Times
+- Live Updates: Iran looks to boost regional trade ties as U.S. turns from bombs to economic warfare - CBS News
+- Prince Harry and 6 others to learn initial cost of failed Daily Mail case - AP News
 - Here's how America's $40 trillion debt can hit your wallet - Axios
-- Longer-dated Treasury yields hold steady after Bessent's bond buyback rally fizzles out - CNBC
-- Stock Market Today: Dow Opens Higher; Yields Steady — Live Updates - WSJ
-- Why bitcoin prices are suddenly rallying big-time - Yahoo Finance
-- Xbox Series X25 Price & Release Date Details Are Starting To Leak Out - Pure Xbox
-- Google posts Pixel Watch 5 factory images with one unified build - 9to5Google
+- One day after doubling Treasury buybacks, Bessent says he's ready to boost them further to push down long-term yields - Yahoo Finance
+- Stock futures rise as Wall Street tries to recover from yield-driven sell-off: Live updates - CNBC
+- Trump temporarily waives higher beef tariffs in bid to lower prices - CBS News
+- Pixel Watch 5’s AI watch face generator keeps the same form factor feeling fresh [Gallery] - 9to5Google
+- 5 Android phones you should buy instead of the Pixel 11 Pro XL - Android Authority
