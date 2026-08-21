@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-21 21:55_
+_Updated: 2026-08-21 22:58_
 
 - Supreme Court allows Trump’s ballroom construction to continue for now - NPR
-- Trump warns of ‘economic D-Day’ against Iran, but Tehran is well acquainted with sanctions - AP News
-- Watch Live: Lindsay Clancy told children "go to God" during murders, prosecution psychiatrist says at trial - CBS News
-- Oil prices little changed after Iran's president indicates Tehran wants war to end soon - CNBC
-- Eight die in plane crash at remote Alaskan military site, air force says - BBC
+- Natalie Harp, the devoted ‘human printer’ in Trump’s entourage - Financial Times
 - Negotiators say Canada tariff deal is 'very close,' with concessions on the table from autos to liquor - Yahoo Finance
+- Trump lawyer to liberal think tank: Retract National Guard report that defames president - The Hill
+- Flock camera vandals strike nationwide and navy carrier could honor Trump instead of hero: Morning Rundown - NBC News
+- President Trump to stump for Sen. Darline Graham days ahead of South Carolina's GOP Senate runoff - AP News
+- 2 US Army Corps of Engineers workers among 8 killed in small plane crash in Alaska near radar site - AP News
 - Trump faces backlash over reports US navy carrier could be named after him instead of Black war hero - The Guardian
-- Trump Administration Has a Different Way to Drain Harvard Funding - The New York Times
-- Nebraska’s largest school district asks police to stop using electric shock gloves on students - NBC News
-- Trump US attorney pick can no longer investigate one of the president’s top foes, court rules - CNN
-- U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May - CNBC
-- World’s oldest person Ethel Caterham celebrates 117th birthday - CNN
+- Trump Announces Move to Lift Ground Beef Tariffs in Bid to Lower Prices - The New York Times
+- Iran warns of ‘devastating’ response to US sanctions as America prepares for new phase of war - Fox News
+- Russian drones kill 15 people at a shopping mall in a central Ukrainian city, officials say - AP News
+- World's oldest living person just turned one year older. Meet Ethel - USA Today
 - Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million - The New York Times
-- US, South Korean militaries wrap up drill early, a day after North Korea’s missile barrage - AP News
-- Here's how America's $40 trillion debt can hit your wallet - Axios
+- U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May - CNBC
 - Bond yields head higher again, giving back almost all gains since Treasury Department intervention - Yahoo Finance
-- Trump announces plan to lower beef prices, but ranchers and some Republicans are already balking - AP News
-- Dow jumps 500 points, but stocks are still headed for a losing week: Live updates - CNBC
+- Dow surges 500 points Friday, but index posts back-to-back weekly losses: Live updates - CNBC
+- Alfalfa sprouts linked to dozens of illnesses from 2 different bacteria, CDC reports - NBC News
+- EXCLUSIVE: Dutch regulator fines Uber $966 million for automating driver suspensions - Reuters
 - Pixel 11 Pro vs. iPhone 17 Pro: Can a re-run contend with a re-do [Video] - 9to5Google
-- ChatGPT On Mac Can Now Read And Respond To Apple iMessages - Engadget
+- Apple Cuts Jobs in Siri, Vision Pro Immersive Video and Gaming Teams - Bloomberg.com
