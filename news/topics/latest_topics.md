@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-21 07:58_
+_Updated: 2026-08-21 09:23_
 
 ## Top Stories
 
 - Två män gripna efter Gunnar Strömmers besök på Drottningtorget - Göteborgs-Posten
 - Nytt utfall: L störtdyker – sista hopp pekas ut - Svenska Dagbladet
+- Mordmisstänkt berättar med egna ord – och pressas om nya fyndet - Katrineholms-Kuriren
 - ”Om det innebär att vi förlorar mark vill jag inte att kriget ska ta slut” - Dagens Nyheter
 - DN Direkt – Birgitta Eds stiftelse utreds av länsstyrelsen - Dagens Nyheter
-- Ilskan mot Ben-Gvir efter galgen - Göteborgs-Posten
-- USS Lincoln på väg tillbaka till USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Skåningar väntar längst i landet på akuten - Sydsvenskan
+- DN Direkt – Polisen söker man efter branden i radhuslänga i Arboga - Dagens Nyheter
+- Njurskadad efter miss vid kejsarsnitt - Västerbottens-Kuriren
 - S föreslår hundförbud för gängkriminella – Senaste nytt om valet 2026 - SVT Nyheter
 - Åkesson: Inte vårt ansvar att rädda L - Göteborgs-Posten
-- Sverige strängast i EU mot brexitbritter – regeringen öppnar för att fler kan få stanna - Dagens Nyheter
-- Alexander köptes ut efter dispyt med Försvarsmakten - Sveriges Radio
 - Alltid vid Trumps sida – så blev Natalie Harp en snackis - Corren
 - Fortsatt oro i Cueta efter stormningen - Sveriges Radio
-- Kritiken växer mot Israels expansion av bosättningar - Västerbottens-Kuriren
-- OVÄNTADE ÖPPNINGAR FÖR DEMOKRATERNA ATT VINNA SENATEN - Placera.se
+- USS Lincoln på väg tillbaka till USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Direkt – Kriget i Ukraina – Många dödade i Kiev – Zelenskyj vädjar om fler patriotrobotar - Dagens Nyheter
+- Växande statsskuld pressar USA:s långa räntor - DagensNaringsliv.se
 - Rädd för räntechock? Så ska du tänka med bolånet - Jönköpings-Posten
 - Bad Bunny och dynamiska priser drev upp inflationen - Omni – Alla nyheter. Alla perspektiv.
-- Anthropic till börsen inom veckor - Svenska Dagbladet
-- Lugn börsöppning väntas - Västerbottens-Kuriren
+- Anthropic uppges sikta på rekordstor börsnotering - BN - Börsvärlden
 - Ny studie: Värmestress redan vid 1,5 grader - Senioren
 - TV: Överstyvt! Jönköping en av världens lyckligaste städer - Jönköpings-Posten
 
@@ -30,20 +30,20 @@ _Updated: 2026-08-21 07:58_
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
@@ -52,19 +52,19 @@ _Updated: 2026-08-21 07:58_
 
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
-- Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Google uppges ha försenat Gemini 3.5 Pro med flera månader - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
+- Vietnam värdar för WAN-IFRA:s internationella forum för artificiell intelligens (AI) år 2026 - Vietnam.vn
+- SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
-- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
+- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Hyperlink InfoSystem Delivers Tailored AI Agent Solutions to Help Businesses Save Up to 90% in Operational Costs with Intelligent Automation (PR Newswire) - Aktiellt
 - Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
 - AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
@@ -142,19 +142,18 @@ _Updated: 2026-08-21 07:58_
 
 ## Jordbruk
 
+- Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
@@ -162,3 +161,4 @@ _Updated: 2026-08-21 07:58_
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Han tror stenhårt på jordbruket - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
