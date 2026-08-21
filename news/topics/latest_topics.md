@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-21 06:09_
+_Updated: 2026-08-21 07:04_
 
 ## Top Stories
 
+- Två anhållna efter Strömmers valmöte i Göteborg - Västerbottens-Kuriren
 - Alltid vid Trumps sida – så blev Natalie Harp en snackis - Västerbottens-Kuriren
-- Två män gripna efter Gunnar Strömmers besök på Drottningtorget - Göteborgs-Posten
+- DN Direkt – Två män anhållna efter Strömmers Göteborgsbesök - Dagens Nyheter
+- ”Om det innebär att vi förlorar mark vill jag inte att kriget ska ta slut” - Dagens Nyheter
+- Ilskan mot Ben-Gvir efter galgen - Göteborgs-Posten
 - Lily Hooper: Mardrömmen – 8 minuter efter lyckobeskedet - Aftonbladet
-- Israelisk minister: Döda ”30 eller 40” Gazabor varje dag - Hufvudstadsbladet – HBL
-- Plan har kraschat i Alaska - Svenska Dagbladet
-- Njurskadad efter miss vid kejsarsnitt - Västerbottens-Kuriren
-- S föreslår hundförbud för gängkriminella – Senaste nytt om valet 2026 - SVT Nyheter
-- Krismöte med Estland – vill inte ta emot vissa brottslingar - Aftonbladet
-- Totalt 24 smittade med mässling efter festivalen - Göteborgs-Posten
-- Stora regnmängder och översvämningar i Norrbotten - Dagens Nyheter
+- Sverige strängast i EU mot brexitbritter – regeringen öppnar för att fler kan få stanna - Dagens Nyheter
+- Åkesson vill inte se stödröster på L – Senaste nytt om valet 2026 - SVT Nyheter
+- Alexander köptes ut efter dispyt med Försvarsmakten - Sveriges Radio
+- Nu inleds björnjakten – kraftig minskning av antalet som får skjutas i Dalarna - SVT Nyheter
 - Direkt – Krisen i Mellanöstern – Kritiken växer mot Israels expansion av bosättningar - Dagens Nyheter
-- USA: Irans regim ska kollapsa av ekonomisk press - Västerbottens-Kuriren
-- Stora anfall mot Kiev - sorgedag utlyst - Göteborgs-Posten
+- Fortsatt oro i Cueta efter stormningen - Sveriges Radio
+- USS Lincoln på väg tillbaka till USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - OVÄNTADE ÖPPNINGAR FÖR DEMOKRATERNA ATT VINNA SENATEN - Placera.se
-- Efter räntebeskedet – så kan du tänka med bolånet - Sydsvenskan
+- Bad Bunny och dynamiska priser drev upp inflationen - Omni – Alla nyheter. Alla perspektiv.
+- Riksbanken lämnar styrräntan oförändrad på 1,75 procent - Fastighetsnytt
 - Ränterusningen kan inte dämpas med kaffepengar - EFN
-- Tecknen som avslöjar en narcissistisk chef – därför avskyr de hemarbete - Dagens PS
-- Europas börser backade – gruvbolag fortsatte upp - Dagens industri
-- Prisvärd 14-tums surfplatta med 120 Hz IPS-skärm och 8-kärnig SoC börjar dyka upp i butikshyllorna - notebookcheck.se
-- Steam släpper i genomsnitt nästan 70 nya spel per dag år 2026 - notebookcheck.se
+- Transportstyrelsen ska se över reglerna för taxipriser - Horisont magasin
+- TV: Överstyvt! Jönköping en av världens lyckligaste städer - Jönköpings-Posten
+- Test: Därför är denna oled-laptop ett riktigt kap - PC för Alla
 
 ## World News
 
@@ -64,10 +64,10 @@ _Updated: 2026-08-21 06:09_
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
-- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
 - AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ofantliga summor ska spenderas på nya datacenter - Computer Sweden
 
@@ -106,16 +106,16 @@ _Updated: 2026-08-21 06:09_
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Vi presenterar HealthBench - OpenAI
+- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 
 ## Science
 
