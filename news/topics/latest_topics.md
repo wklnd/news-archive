@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-21 12:00_
+_Updated: 2026-08-21 12:57_
 
 ## Top Stories
 
-- Två män gripna efter Gunnar Strömmers besök på Drottningtorget - Göteborgs-Posten
 - Richard Jomshof (SD) vill bli "demokratiminister" - Västerbottens-Kuriren
-- Nytt utfall: L störtdyker – sista hopp pekas ut - Svenska Dagbladet
-- DN Direkt – Bil kolliderar efter polisjakt i Solna - Dagens Nyheter
-- Kan en svensk hormonfabrik lösa östrogenbristen? - Dagens Nyheter
-- DN Direkt – Birgitta Eds stiftelse utreds av länsstyrelsen - Dagens Nyheter
+- Trump tar ut ilskan på allierade: ”Har inga spärrar” - Dagens Nyheter
+- DN Direkt – Busch: För lite fokus har lagts på välfärd - Dagens Nyheter
+- Carl Bildt: Då kan det bli vapenvila i Ukraina – men inte fred - Dagens industri
+- Två män gripna efter Gunnar Strömmers besök på Drottningtorget - Göteborgs-Posten
+- Ingen misstanke om brott bakom bussolyckan i Lund - Sydsvenskan
+- Regnet öser ned – följ vår rapportering om väderläget - SVT Nyheter
 - Björnjakten i Värmland avlyst - SVT Nyheter
 - DN Direkt – Polisen söker man efter branden i radhuslänga i Arboga - Dagens Nyheter
-- Busch: KD är en blå mittpunkt - Västerbottens-Kuriren
 - Chef bokade slottskonferens trots varning – köptes ut - Omni – Alla nyheter. Alla perspektiv.
+- Fem saknas efter brand i flerfamiljshus i Schweiz - Aftonbladet
 - Vid fronten rycker befälen på axlarna åt Zelenskyjs ministrar - Dagens Nyheter
-- Fem saknas efter brand i flerfamiljshus i Schweiz - Göteborgs-Posten
-- Direkt – Kriget i Ukraina – Många dödade i Kiev – Zelenskyj vädjar om fler patriotrobotar - Dagens Nyheter
+- Tyskland: Värmen har kostat 14 000 liv - Västerbottens-Kuriren
 - USS Abraham Lincoln på väg tillbaka till USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Uppgifter: Trumps tullkrav hotar Saabs Kanadaplaner - Affärsvärlden
 - Rädd för räntechock? Så ska du tänka med bolånet - Jönköpings-Posten
 - USA:s blockad stryper Irans oljeexport - Affärsvärlden
-- Anthropic uppges sikta på rekordstor börsnotering - BN - Börsvärlden
-- Svårnavigerad tull på varor från Temu och Shein - Omni – Alla nyheter. Alla perspektiv.
+- Piloterna somnade med över 150 passagerare ombord - Dagens PS
+- Apple Music inför märkning för AI-musik - Computer Sweden
 - Ny studie: Värmestress redan vid 1,5 grader - Senioren
-- TV: Överstyvt! Jönköping en av världens lyckligaste städer - Jönköpings-Posten
 
 ## World News
 
@@ -108,6 +108,7 @@ _Updated: 2026-08-21 12:00_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
@@ -115,7 +116,6 @@ _Updated: 2026-08-21 12:00_
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
-- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 
 ## Science
 
