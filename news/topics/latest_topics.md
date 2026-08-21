@@ -1,75 +1,74 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-21 21:06_
+_Updated: 2026-08-21 21:48_
 
 ## Top Stories
 
 - Stor polisinsats vid Brinellskolan i Fagersta - SVT Nyheter
 - DN Direkt – Presskonferens i Fagersta efter skoldådet - Dagens Nyheter
-- Fortsatt utredning av statsministerns fru - Göteborgs-Posten
+- Inget beslut om Birgitta Eds prästerskap – Domkapitlet fortsätter utreda - Dagens Arena
+- DN Direkt – En död och två allvarligt skadade i Fagersta - Dagens Nyheter
+- Sex döda i rysk attack mot köpcentrum - Västerbottens-Kuriren
 - Misstänkte Brattåsmördaren: ”Har inte sovit på fyra månader” - Sveriges Radio
-- Många döda i rysk dubbelattack mot köpcentrum - Göteborgs-Posten
-- Följ licensjakten på björn 2026: Delområde avlyst i Dalarna - Jaktjournalen
 - Två män gripna efter Gunnar Strömmers besök på Drottningtorget - Göteborgs-Posten
-- Familjer först i KD:s valmanifest - Västerbottens-Kuriren
 - DN Direkt – Fler misstänkta efter dödsmisshandel av svensk polis - Dagens Nyheter
-- Rekordstort intresse inför söndagens klimatmarsch - Mitt i
-- Trump tar ut ilskan på allierade: ”Har inga spärrar” - Dagens Nyheter
+- Familjer först i KD:s valmanifest - Västerbottens-Kuriren
+- Analys: Så vill politikerna få vårdpersonalen att stanna - Sveriges Radio
 - ”Hangarfartygen” i öknen ska lära Kina sänka USA:s största fartyg - Dagens Nyheter
+- Trump tar ut ilskan på allierade: ”Har inga spärrar” - Dagens Nyheter
 - Två oppositionella i Hongkong döms enligt säkerhetslag - Sveriges Radio
 - Turkiet utfärdar arresteringsorder för Netanyahu - Västerbottens-Kuriren
+- DN Direkt – Nibe rusade på stigande börs - Dagens Nyheter
 - Svårnavigerad tull på varor från Temu och Shein - Omni – Alla nyheter. Alla perspektiv.
 - Haaland blev en fullträff för Synsam - Dagens industri
 - Strejken triggade Teslas problemlösning - Lag & Avtal
-- Nya ägare till villa i Råby, Bålsta – för 4 350 000 kronor - UNT
 - Apple Music inför märkning för AI-musik - Computer Sweden
-- Ny studie: Värmestress redan vid 1,5 grader - Senioren
+- Värmen större hot för 60-plussare än befarat - ETC.se
 
 ## World News
 
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Global Reseskydd erbjuder hemresegaranti - travelnews-se
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
-- Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
-- Google uppges ha försenat Gemini 3.5 Pro med flera månader - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Google uppges ha försenat Gemini 3.5 Pro med flera månader - Computer Sweden
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Hyperlink InfoSystem Delivers Tailored AI Agent Solutions to Help Businesses Save Up to 90% in Operational Costs with Intelligent Automation (PR Newswire) - Aktiellt
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- 290 million for digitalisation of Swedish industry - Vinnova
+- Lansering av institutet för robotik och artificiell intelligensforskning i Can Tho. - Vietnam.vn
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
+- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
+- Nam Can Tho University lanserar Institutet för robotik och AI-forskning och ett digitalt teknikföretag: Ett strategiskt steg för att förverkliga ett innovationsekosystem. - Vietnam.vn
+- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ofantliga summor ska spenderas på nya datacenter - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
@@ -109,13 +108,13 @@ _Updated: 2026-08-21 21:06_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
+- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 
 ## Science
 
