@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-21 01:57_
+_Updated: 2026-08-21 04:11_
 
-- Michael Cohen, Trump's former fixer-turned-enemy, is hosting the president on his radio show - AP News
-- Democrat Aisha Wahab wins the special election for Eric Swalwell’s former California district - NBC News
-- FBI arrests woman over alleged plot to bomb New York capitol building - BBC
-- US aircraft carrier arrives in Middle East to relieve troubled USS Lincoln - The Guardian
-- Eric Swalwell briefly detained as feds seize his phone at San Francisco airport, source says - Los Angeles Times
-- Key European leaders demand Israel halt West Bank settlement project - Euronews.com
-- After Six Years, Harry and Meghan Are Coming Home. What Changed? - The New York Times
-- Police identify man accused of wearing Chucky-style Halloween mask, terrorizing people in Center City Philadelphia - 6abc Philadelphia
-- Venezuelans and Cubans among deportees to Liberia under Trump deal, official says - Reuters
-- She devoted her career to helping police families. Now she’s a suspect after her officer husband’s death. - NBC News
-- Army will shut down a unit in Europe focused on learning drone warfare - AP News
-- Strong earthquake strikes central Peru, no damage reported - Reuters
+- Live Updates: Iran dismisses Trump's "economic D-Day" threat, says it "will only bring further defeat" - CBS News
+- Trump appears on former fixer-turned-enemy Michael Cohen’s radio show after detente - AP News
+- Progressive Aisha Wahab wins California special election to fill Eric Swalwell seat - The Guardian
+- Targeted by an Islamophobic Provocateur, a City’s Muslims Are on Edge - The New York Times
+- Aircraft carrier arrives in Middle East to relieve USS Abraham Lincoln after lengthy deployment - The Hill
+- Feds seize Eric Swalwell’s devices, search home as part of sexual assault inquiry - The Washington Post
+- Prince Harry and Meghan’s return from California exile sets U.K. aflutter - The Washington Post
+- US charges woman for allegedly plotting attack on New York State Capitol - Al Jazeera
+- Duffy’s road rules: What we learned from the DOT secretary’s YouTube series - Politico
+- Man in creepy doll mask who has terrified Philadelphians may be headed to L.A., police say - Los Angeles Times
+- A magnitude 6.7 earthquake shakes Peru’s southern Andes, injuring at least 2 and damaging homes - AP News
+- Army plans to phase out drone unit championed by sacked generals - The Hill
 - At least 18 people killed in Ukraine as Russia carries out more attacks - Al Jazeera
-- Trump’s South Korea defence flip reminds Japan that it has no Plan B - Financial Times
-- 3 things to know about the $40 trillion federal debt - NPR
-- Why Treasury Secretary Bessent’s moves to calm the bond market haven’t worked so far - AP News
+- Trump wants to be friends with Kim - but South Korea could pay the price - BBC
+- Here's how America's $40 trillion debt can hit your wallet - Axios
+- What is Scott Bessent doing with the $32tn Treasury market — and will it work? - Financial Times
+- Stock Market on Aug. 20, 2026: Dow drops around 700 points, S&P 500 and Nasdaq end lower as Bessent buybacks fail to calm bond market; Treasury yields climb; Walmart shares tumble after earnings results; Big Tech stocks retreat - MarketWatch
 - Walmart stock drops 9% as sales growth slows, customers make 'trade-offs' amid high fuel costs - Yahoo Finance
-- Stock Market Today: Bessent Signals Buybacks Could Exceed $4 Billion — Live Updates - WSJ
-- Rockstar hit with more leaks as GTA 6 gameplay and assets appear to circulate on social media - GamesIndustry.biz
+- Hacker targets ‘Grand Theft Auto VI’ in apparent leak - NBC News
 - Google releases Pixel 11 series factory images - 9to5Google
