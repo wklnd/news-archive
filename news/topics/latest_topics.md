@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-21 05:29_
+_Updated: 2026-08-21 06:09_
 
 ## Top Stories
 
+- Alltid vid Trumps sida – så blev Natalie Harp en snackis - Västerbottens-Kuriren
 - Två män gripna efter Gunnar Strömmers besök på Drottningtorget - Göteborgs-Posten
-- Varför talar alla om Natalie Harp? - Aftonbladet
 - Lily Hooper: Mardrömmen – 8 minuter efter lyckobeskedet - Aftonbladet
-- Somaliska pirater har vind i seglen igen - Svenska Dagbladet
+- Israelisk minister: Döda ”30 eller 40” Gazabor varje dag - Hufvudstadsbladet – HBL
 - Plan har kraschat i Alaska - Svenska Dagbladet
-- Ukrainas plan: Slå ut alla flyg till och från Moskva - Svenska Dagbladet
+- Njurskadad efter miss vid kejsarsnitt - Västerbottens-Kuriren
 - S föreslår hundförbud för gängkriminella – Senaste nytt om valet 2026 - SVT Nyheter
 - Krismöte med Estland – vill inte ta emot vissa brottslingar - Aftonbladet
 - Totalt 24 smittade med mässling efter festivalen - Göteborgs-Posten
 - Stora regnmängder och översvämningar i Norrbotten - Dagens Nyheter
 - Direkt – Krisen i Mellanöstern – Kritiken växer mot Israels expansion av bosättningar - Dagens Nyheter
-- Kurder: Integrationen med Syriens armé är klar - Västerbottens-Kuriren
-- Ilskan mot Ben-Gvir efter galgen - Göteborgs-Posten
-- Bessent: Inför hårdaste sanktionerna någonsin – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- USA: Irans regim ska kollapsa av ekonomisk press - Västerbottens-Kuriren
+- Stora anfall mot Kiev - sorgedag utlyst - Göteborgs-Posten
+- OVÄNTADE ÖPPNINGAR FÖR DEMOKRATERNA ATT VINNA SENATEN - Placera.se
 - Efter räntebeskedet – så kan du tänka med bolånet - Sydsvenskan
 - Ränterusningen kan inte dämpas med kaffepengar - EFN
 - Tecknen som avslöjar en narcissistisk chef – därför avskyr de hemarbete - Dagens PS
@@ -29,20 +29,20 @@ _Updated: 2026-08-21 05:29_
 
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
@@ -51,8 +51,8 @@ _Updated: 2026-08-21 05:29_
 ## Technology
 
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
 - Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
+- Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
@@ -64,9 +64,9 @@ _Updated: 2026-08-21 05:29_
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
+- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
-- 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ofantliga summor ska spenderas på nya datacenter - Computer Sweden
