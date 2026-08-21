@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-21 01:50_
+_Updated: 2026-08-21 04:07_
 
 ## Top Stories
 
-- Varnar för dödsfällan – flera förgiftade i svenska fjällen - Expressen
 - Lily Hooper: Mardrömmen – 8 minuter efter lyckobeskedet - Aftonbladet
-- Ilskan mot Ben-Gvir efter galgen - Göteborgs-Posten
+- Två män gripna efter Gunnar Strömmers besök på Drottningtorget - Göteborgs-Posten
 - Fartyg kapat utanför Jemens kust - Västerbottens-Kuriren
-- Varningen: ”Regnområdena lämnar ju inte riktigt” - Aftonbladet
-- Amanda Lind: Centern lanserar högerregering - Svenska Dagbladet
+- Mycket regn i Norrbotten - 8 Sidor
+- Ukrainas plan: Slå ut alla flyg till och från Moskva - Svenska Dagbladet
+- Två män från Gävle dog av koloxidförgiftning i tält - Gefle Dagblad
 - KD och V rök ihop om vården: ”Ren lögn” – Senaste nytt om valet 2026 - SVT Nyheter
-- Fyra bilar krockade på E6 utanför Helsingborg - SVT Nyheter
 - Totalt 24 smittade med mässling efter festivalen - Göteborgs-Posten
 - Krismöte med Estland – vill inte ta emot vissa brottslingar - Aftonbladet
+- 19-åring sköts ihjäl i Uppsala – tonåring erkänner mord - Sveriges Radio
 - Direkt – Krisen i Mellanöstern – Kritiken växer mot Israels expansion av bosättningar - Dagens Nyheter
 - Kurder: Integrationen med Syriens armé är klar - Västerbottens-Kuriren
-- Jennifer Hegseth har fått ”unik” position - Dagens Nyheter
-- Omfattande jordskalv drabbade södra Peru - Corren
-- SEB: Riksbankens räntebesked mer duvaktigt än väntat - Placera.se
-- Roboten rusade – upp 500 procent - Svenska Dagbladet
-- Affärsvärlden lämnar ett neutralt råd för ABB - Affärsvärlden
+- Ilskan mot Ben-Gvir efter galgen - Göteborgs-Posten
+- Bessent: Inför hårdaste sanktionerna någonsin – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Kriget som inte tar slut – svår baksmälla väntar - Svenska Dagbladet
+- Riksbanken lämnar styrräntan oförändrad på 1,75 procent - Fastighetsnytt
 - Ränterusningen kan inte dämpas med kaffepengar - EFN
+- Skatteverkets förslag ska stoppa fusk med ROT-avdraget - Sveriges Radio
 - Nya bilder visar Space X-raketens krater på månen - Omni – Alla nyheter. Alla perspektiv.
 - GPD Win Max 3 bekräftas bli rejält dyr - Nordichardware
 
@@ -123,7 +123,6 @@ _Updated: 2026-08-21 01:50_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
-- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
@@ -131,14 +130,15 @@ _Updated: 2026-08-21 01:50_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- 5 myter om öppen vetenskap - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
@@ -154,7 +154,7 @@ _Updated: 2026-08-21 01:50_
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
