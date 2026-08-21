@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-21 16:06_
+_Updated: 2026-08-21 17:03_
 
 ## Top Stories
 
-- Svärdattack på Brinellskolan i Fagersta – flera personer skadade - SVT Nyheter
-- (+) Ändrade sin berättelse – nu avslöjar den misstänkte 45-åringen varför - Aftonbladet
+- Stor polisinsats vid Brinellskolan i Fagersta - SVT Nyheter
+- Kristersson: Tar inte Jomshofs ministerdröm på allvar - Svenska Dagbladet
+- Inget beslut om Birgitta Eds prästerskap – Domkapitlet fortsätter utreda - Dagens Arena
+- Misstänkte Brattåsmördaren: ”Har inte sovit på fyra månader” - Sveriges Radio
 - Trump tar ut ilskan på allierade: ”Har inga spärrar” - Dagens Nyheter
-- Familjer först i KD:s valmanifest - Göteborgs-Posten
-- Ukraina: Ryskt raff i Perm bombat - Cornucopia?
-- Kraftigt ökad dödlighet i Europa under värmeböljorna - Sveriges Radio
-- DN Direkt – Fler misstänkta efter dödsmisshandel av svensk polis - Dagens Nyheter
-- Årets björnjakt är i gång - Göteborgs-Posten
+- Minderårig pojke misstänks för Malmösprängning - Omni – Alla nyheter. Alla perspektiv.
+- DN Direkt – Årets björnjakt är i gång - Dagens Nyheter
 - Två män gripna efter Gunnar Strömmers besök på Drottningtorget - Göteborgs-Posten
-- DN Direkt – Varningar för översvämningar förlängs - Dagens Nyheter
-- Fem saknas efter brand i flerfamiljshus i Schweiz - Göteborgs-Posten
+- DN Direkt – Fler misstänkta efter dödsmisshandel av svensk polis - Dagens Nyheter
+- Familjer först i KD:s valmanifest - Västerbottens-Kuriren
+- Turkiet utfärdar arresteringsorder för Netanyahu - Göteborgs-Posten
+- Direkt – Kriget i Ukraina – Många dödade i Kiev – Zelenskyj vädjar om fler patriotrobotar - Dagens Nyheter
+- Vid fronten rycker befälen på axlarna åt Zelenskyjs ministrar - Dagens Nyheter
 - Nord Stream-misstänkt greps – under inspelning av Hollywoodfilm - Dagens Nyheter
-- Kina avvisar USA:s sanktioner mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Spanien: Fem Ceuta-smugglare gripna - Hufvudstadsbladet – HBL
-- Ålandsbanken och Pareto räknar med starkt kurslyft i Nibe - Placera.se
+- Tillväxtfrossan borta – mer att hämta i aktien - EFN
 - Uppgifter: Trumps tullkrav hotar Saabs Kanadaplaner - Affärsvärlden
-- USA:s blockad stryper Irans oljeexport - Affärsvärlden
 - USA:s statsskuld på rekordnivå - Privata Affärer
-- Apple Music inför märkning för AI-musik - Computer Sweden
+- Gaspriset allt högre – påverkar elpris i södra Sverige - Sydsvenskan
 - Ny studie: Värmestress redan vid 1,5 grader - Senioren
+- Tyck till om Solna stad i SCB:s medborgarundersökning - solna.se
 
 ## World News
 
@@ -36,13 +36,13 @@ _Updated: 2026-08-21 16:06_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
@@ -108,14 +108,14 @@ _Updated: 2026-08-21 16:06_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
-- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 
 ## Science
 
@@ -144,17 +144,16 @@ _Updated: 2026-08-21 16:06_
 
 - Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
@@ -162,3 +161,4 @@ _Updated: 2026-08-21 16:06_
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Han tror stenhårt på jordbruket - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
