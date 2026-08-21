@@ -1,35 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-21 19:01_
+_Updated: 2026-08-21 19:56_
 
 ## Top Stories
 
 - Stor polisinsats vid Brinellskolan i Fagersta - SVT Nyheter
-- Fortsatt utredning av statsministerns fru - Göteborgs-Posten
+- Många döda i rysk attack mot köpcentrum - Göteborgs-Posten
 - Misstänkte Brattåsmördaren: ”Har inte sovit på fyra månader” - Sveriges Radio
-- Brinnande acetylentub i Sandviken – skyttar på väg - Sveriges Radio
-- Polisen: Barn låg bakom sprängning i Malmö - Sveriges Radio
-- DN Direkt – Varningar för översvämningar förlängs - Dagens Nyheter
-- Två män gripna efter Gunnar Strömmers besök på Drottningtorget - Göteborgs-Posten
-- Familjer först i KD:s valmanifest - Västerbottens-Kuriren
-- DN Direkt – Fler misstänkta efter dödsmisshandel av svensk polis - Dagens Nyheter
-- Bedragare greps under pågående bedrägeriförsök - polisen.se
+- Domkapitlet i Strängnäs stift fortsätter att utreda Birgitta Ed - SVT Nyheter
+- Följ licensjakten på björn 2026: Delområde avlyst i Dalarna - Jaktjournalen
 - Trump tar ut ilskan på allierade: ”Har inga spärrar” - Dagens Nyheter
-- Sex döda i rysk attack mot köpcentrum - Västerbottens-Kuriren
-- Vid fronten rycker befälen på axlarna åt Zelenskyjs ministrar - Dagens Nyheter
+- Två män gripna efter Gunnar Strömmers besök på Drottningtorget - Göteborgs-Posten
+- DN Direkt – Fler misstänkta efter dödsmisshandel av svensk polis - Dagens Nyheter
+- Familjer först i KD:s valmanifest - Västerbottens-Kuriren
+- DN Direkt – Väg i Boden har rasat efter översvämningar - Dagens Nyheter
+- ”Hangarfartygen” i öknen ska lära Kina sänka USA:s största fartyg - Dagens Nyheter
 - Turkiet utfärdar arresteringsorder för Netanyahu - Göteborgs-Posten
+- USS Abraham Lincoln på väg tillbaka till USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Vid fronten rycker befälen på axlarna åt Zelenskyjs ministrar - Dagens Nyheter
 - Tillväxtfrossan borta – mer att hämta i aktien - EFN
-- Gaspriset allt högre – lagren på låga nivåer - Västerbottens-Kuriren
 - Svårnavigerad tull på varor från Temu och Shein - Omni – Alla nyheter. Alla perspektiv.
-- BRANTARE NEDGÅNG VID STÄNGNING, MAG-7 TYNGDE, S&P 500 -0,9% - Placera.se
+- Gaspriset allt högre – lagren på låga nivåer - Västerbottens-Kuriren
+- Uppåt på Wall Street – avtal mellan USA och Kanada ”mycket nära” - Börskollen
+- Apple Music inför märkning för AI-musik - Computer Sweden
 - Ny studie: Värmestress redan vid 1,5 grader - Senioren
-- Tyck till om Solna stad i SCB:s medborgarundersökning - solna.se
 
 ## World News
 
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
@@ -43,14 +44,12 @@ _Updated: 2026-08-21 19:01_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
-- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
 - Google uppges ha försenat Gemini 3.5 Pro med flera månader - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
@@ -61,15 +60,16 @@ _Updated: 2026-08-21 19:01_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Hyperlink InfoSystem Delivers Tailored AI Agent Solutions to Help Businesses Save Up to 90% in Operational Costs with Intelligent Automation (PR Newswire) - Aktiellt
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ofantliga summor ska spenderas på nya datacenter - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -97,38 +97,48 @@ _Updated: 2026-08-21 19:01_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
+- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Vi presenterar HealthBench - OpenAI
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
-- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Simple math behind major bison blunder - Forskning & Framsteg
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
