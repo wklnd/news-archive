@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-21 04:07_
+_Updated: 2026-08-21 05:29_
 
 ## Top Stories
 
-- Lily Hooper: Mardrömmen – 8 minuter efter lyckobeskedet - Aftonbladet
 - Två män gripna efter Gunnar Strömmers besök på Drottningtorget - Göteborgs-Posten
-- Fartyg kapat utanför Jemens kust - Västerbottens-Kuriren
-- Mycket regn i Norrbotten - 8 Sidor
+- Varför talar alla om Natalie Harp? - Aftonbladet
+- Lily Hooper: Mardrömmen – 8 minuter efter lyckobeskedet - Aftonbladet
+- Somaliska pirater har vind i seglen igen - Svenska Dagbladet
+- Plan har kraschat i Alaska - Svenska Dagbladet
 - Ukrainas plan: Slå ut alla flyg till och från Moskva - Svenska Dagbladet
-- Två män från Gävle dog av koloxidförgiftning i tält - Gefle Dagblad
-- KD och V rök ihop om vården: ”Ren lögn” – Senaste nytt om valet 2026 - SVT Nyheter
-- Totalt 24 smittade med mässling efter festivalen - Göteborgs-Posten
+- S föreslår hundförbud för gängkriminella – Senaste nytt om valet 2026 - SVT Nyheter
 - Krismöte med Estland – vill inte ta emot vissa brottslingar - Aftonbladet
-- 19-åring sköts ihjäl i Uppsala – tonåring erkänner mord - Sveriges Radio
+- Totalt 24 smittade med mässling efter festivalen - Göteborgs-Posten
+- Stora regnmängder och översvämningar i Norrbotten - Dagens Nyheter
 - Direkt – Krisen i Mellanöstern – Kritiken växer mot Israels expansion av bosättningar - Dagens Nyheter
 - Kurder: Integrationen med Syriens armé är klar - Västerbottens-Kuriren
 - Ilskan mot Ben-Gvir efter galgen - Göteborgs-Posten
 - Bessent: Inför hårdaste sanktionerna någonsin – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Kriget som inte tar slut – svår baksmälla väntar - Svenska Dagbladet
-- Riksbanken lämnar styrräntan oförändrad på 1,75 procent - Fastighetsnytt
+- Efter räntebeskedet – så kan du tänka med bolånet - Sydsvenskan
 - Ränterusningen kan inte dämpas med kaffepengar - EFN
-- Skatteverkets förslag ska stoppa fusk med ROT-avdraget - Sveriges Radio
-- Nya bilder visar Space X-raketens krater på månen - Omni – Alla nyheter. Alla perspektiv.
-- GPD Win Max 3 bekräftas bli rejält dyr - Nordichardware
+- Tecknen som avslöjar en narcissistisk chef – därför avskyr de hemarbete - Dagens PS
+- Europas börser backade – gruvbolag fortsatte upp - Dagens industri
+- Prisvärd 14-tums surfplatta med 120 Hz IPS-skärm och 8-kärnig SoC börjar dyka upp i butikshyllorna - notebookcheck.se
+- Steam släpper i genomsnitt nästan 70 nya spel per dag år 2026 - notebookcheck.se
 
 ## World News
 
@@ -50,9 +50,9 @@ _Updated: 2026-08-21 04:07_
 
 ## Technology
 
-- Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
+- Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
@@ -66,8 +66,8 @@ _Updated: 2026-08-21 04:07_
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
-- AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ofantliga summor ska spenderas på nya datacenter - Computer Sweden
 
@@ -142,12 +142,12 @@ _Updated: 2026-08-21 04:07_
 
 ## Jordbruk
 
-- Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
