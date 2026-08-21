@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-21 17:58_
+_Updated: 2026-08-21 19:01_
 
 ## Top Stories
 
-- Svärdattack på Brinellskolan i Fagersta – flera personer skadade - SVT Nyheter
-- Misstänkte Brattåsmördaren: ”Har inte sovit på fyra månader” - Sveriges Radio
+- Stor polisinsats vid Brinellskolan i Fagersta - SVT Nyheter
 - Fortsatt utredning av statsministerns fru - Göteborgs-Posten
-- Trump tar ut ilskan på allierade: ”Har inga spärrar” - Dagens Nyheter
+- Misstänkte Brattåsmördaren: ”Har inte sovit på fyra månader” - Sveriges Radio
+- Brinnande acetylentub i Sandviken – skyttar på väg - Sveriges Radio
+- Polisen: Barn låg bakom sprängning i Malmö - Sveriges Radio
 - DN Direkt – Varningar för översvämningar förlängs - Dagens Nyheter
-- Kristersson: Tar inte Jomshofs ministerdröm på allvar - Svenska Dagbladet
 - Två män gripna efter Gunnar Strömmers besök på Drottningtorget - Göteborgs-Posten
-- DN Direkt – Årets björnjakt är i gång - Dagens Nyheter
 - Familjer först i KD:s valmanifest - Västerbottens-Kuriren
 - DN Direkt – Fler misstänkta efter dödsmisshandel av svensk polis - Dagens Nyheter
-- Turkiet utfärdar arresteringsorder för Netanyahu - Västerbottens-Kuriren
-- Sex döda i rysk attack mot köpcentrum - Göteborgs-Posten
+- Bedragare greps under pågående bedrägeriförsök - polisen.se
+- Trump tar ut ilskan på allierade: ”Har inga spärrar” - Dagens Nyheter
+- Sex döda i rysk attack mot köpcentrum - Västerbottens-Kuriren
 - Vid fronten rycker befälen på axlarna åt Zelenskyjs ministrar - Dagens Nyheter
-- Nord Stream-misstänkt greps – under inspelning av Hollywoodfilm - Dagens Nyheter
-- NIBE RAPPORTLYFTER TILLSAMMANS MED SYNSAM, OMXS30 +0,9% - Placera.se
-- Bessent tror budgetunderskottet nått toppen - Affärsvärlden
+- Turkiet utfärdar arresteringsorder för Netanyahu - Göteborgs-Posten
+- Tillväxtfrossan borta – mer att hämta i aktien - EFN
 - Gaspriset allt högre – lagren på låga nivåer - Västerbottens-Kuriren
-- Källa: Kanadas tullavtal sätter press på Mexiko - Omni – Alla nyheter. Alla perspektiv.
+- Svårnavigerad tull på varor från Temu och Shein - Omni – Alla nyheter. Alla perspektiv.
+- BRANTARE NEDGÅNG VID STÄNGNING, MAG-7 TYNGDE, S&P 500 -0,9% - Placera.se
 - Ny studie: Värmestress redan vid 1,5 grader - Senioren
 - Tyck till om Solna stad i SCB:s medborgarundersökning - solna.se
 
@@ -97,25 +97,15 @@ _Updated: 2026-08-21 17:58_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
-- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
-- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Vi presenterar HealthBench - OpenAI
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 
 ## Science
 
@@ -125,8 +115,8 @@ _Updated: 2026-08-21 17:58_
 - Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
+- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
@@ -136,9 +126,9 @@ _Updated: 2026-08-21 17:58_
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Simple math behind major bison blunder - Forskning & Framsteg
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
