@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-21 21:12_
+_Updated: 2026-08-21 21:55_
 
-- Supreme Court temporarily allows Trump ballroom construction to continue - NBC News
+- Supreme Court allows Trump’s ballroom construction to continue for now - NPR
 - Trump warns of ‘economic D-Day’ against Iran, but Tehran is well acquainted with sanctions - AP News
-- Watch Live: Lindsay Clancy defense rests as psychiatrist testifies "it was almost like she was a puppet" - CBS News
-- Trump Announces Move to Lift Ground Beef Tariffs in Bid to Lower Prices - The New York Times
+- Watch Live: Lindsay Clancy told children "go to God" during murders, prosecution psychiatrist says at trial - CBS News
+- Oil prices little changed after Iran's president indicates Tehran wants war to end soon - CNBC
 - Eight die in plane crash at remote Alaskan military site, air force says - BBC
-- Amid intense backlash, people are vandalizing Flock surveillance cameras - NPR
+- Negotiators say Canada tariff deal is 'very close,' with concessions on the table from autos to liquor - Yahoo Finance
 - Trump faces backlash over reports US navy carrier could be named after him instead of Black war hero - The Guardian
+- Trump Administration Has a Different Way to Drain Harvard Funding - The New York Times
 - Nebraska’s largest school district asks police to stop using electric shock gloves on students - NBC News
-- Court slashes $50M judgment against Infowars' Alex Jones over falsely calling school shooting a hoax - Spectrum News
-- Knicks owner bankrolled Hochul. Now he's the GOP's biggest donor in New York. - Politico
+- Trump US attorney pick can no longer investigate one of the president’s top foes, court rules - CNN
 - U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May - CNBC
 - World’s oldest person Ethel Caterham celebrates 117th birthday - CNN
 - Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million - The New York Times
 - US, South Korean militaries wrap up drill early, a day after North Korea’s missile barrage - AP News
 - Here's how America's $40 trillion debt can hit your wallet - Axios
-- Stock Market Today: Dow Opens Higher; Yields Steady; Bitcoin in Focus — Live Updates - WSJ
-- CNBC Daily Open: The 'Bessent Bid' wears off - CNBC
-- US borrowing costs rise as attempts to ease rates prove short-lived - BBC
+- Bond yields head higher again, giving back almost all gains since Treasury Department intervention - Yahoo Finance
+- Trump announces plan to lower beef prices, but ranchers and some Republicans are already balking - AP News
+- Dow jumps 500 points, but stocks are still headed for a losing week: Live updates - CNBC
+- Pixel 11 Pro vs. iPhone 17 Pro: Can a re-run contend with a re-do [Video] - 9to5Google
 - ChatGPT On Mac Can Now Read And Respond To Apple iMessages - Engadget
-- Report: Limited Edition Xbox launches Black Friday for €900 - Digital Foundry
