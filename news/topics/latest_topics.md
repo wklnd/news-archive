@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-21 13:52_
+_Updated: 2026-08-21 15:26_
 
 ## Top Stories
 
-- Familjer först i KD:s valmanifest - Västerbottens-Kuriren
+- Stor polisinsats vid Brinellskolan i Fagersta - SVT Nyheter
+- Familjer först i KD:s valmanifest - Göteborgs-Posten
 - Trump tar ut ilskan på allierade: ”Har inga spärrar” - Dagens Nyheter
-- Richard Jomshof (SD) vill bli "demokratiminister" - Västerbottens-Kuriren
-- Misstänkta mördaren i rätten: ”Såklart idiotiskt” - Omni – Alla nyheter. Alla perspektiv.
-- Kraftigt ökad dödlighet i Europa under värmeböljorna - Sveriges Radio
-- Carl Bildt: Då kan det bli vapenvila i Ukraina – men inte fred - Dagens industri
-- Regnet öser ned – följ vår rapportering om väderläget - SVT Nyheter
+- Kristersson: Tar inte Jomshofs ministerdröm på allvar - Svenska Dagbladet
+- Ukraina: Ryskt raff i Perm bombat - Cornucopia?
+- Två män gripna efter Gunnar Strömmers besök på Drottningtorget - Göteborgs-Posten
+- DN Direkt – Fler misstänkta efter dödsmisshandel av svensk polis - Dagens Nyheter
 - Björnjakten i Värmland avlyst - SVT Nyheter
-- Fortsatt låg befolkningsökning under första halvåret 2026 - Statistikmyndigheten SCB
-- Kvinna häktad på nytt – misstänkt för mord i Karlskrona - SVT Nyheter
-- Spanien: Fem Ceuta-smugglare gripna - Hufvudstadsbladet – HBL
+- Stora regnmängder och översvämningar i Norrbotten - Västerbottens-Kuriren
+- Sveriges befolkning ökar i historiskt låg takt - Fastighetstidningen
 - Vid fronten rycker befälen på axlarna åt Zelenskyjs ministrar - Dagens Nyheter
 - Fem saknas efter brand i flerfamiljshus i Schweiz - Göteborgs-Posten
 - USS Abraham Lincoln på väg tillbaka till USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Tyskland: Värmen har kostat 14 000 liv - Västerbottens-Kuriren
+- Ålandsbanken och Pareto räknar med starkt kurslyft i Nibe - Placera.se
 - Uppgifter: Trumps tullkrav hotar Saabs Kanadaplaner - Affärsvärlden
 - USA:s blockad stryper Irans oljeexport - Affärsvärlden
-- Rädd för räntechock? Så ska du tänka med bolånet - Jönköpings-Posten
-- Svårnavigerad tull på varor från Temu och Shein - Omni – Alla nyheter. Alla perspektiv.
+- Gaspriset allt högre – påverkar elpris i södra Sverige - Sydsvenskan
 - Apple Music inför märkning för AI-musik - Computer Sweden
 - Ny studie: Värmestress redan vid 1,5 grader - Senioren
 
@@ -62,14 +62,14 @@ _Updated: 2026-08-21 13:52_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - CompTIA AI Help Desk Essentials brings AI proficiency to tech support teams (PR Newswire) - Aktiellt
-- FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
-- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Hyperlink InfoSystem Delivers Tailored AI Agent Solutions to Help Businesses Save Up to 90% in Operational Costs with Intelligent Automation (PR Newswire) - Aktiellt
+- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
-- AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ofantliga summor ska spenderas på nya datacenter - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
@@ -77,9 +77,9 @@ _Updated: 2026-08-21 13:52_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -113,9 +113,9 @@ _Updated: 2026-08-21 13:52_
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
@@ -135,19 +135,19 @@ _Updated: 2026-08-21 13:52_
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
+- Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
