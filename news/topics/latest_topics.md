@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-21 19:56_
+_Updated: 2026-08-21 21:06_
 
 ## Top Stories
 
 - Stor polisinsats vid Brinellskolan i Fagersta - SVT Nyheter
-- Många döda i rysk attack mot köpcentrum - Göteborgs-Posten
+- DN Direkt – Presskonferens i Fagersta efter skoldådet - Dagens Nyheter
+- Fortsatt utredning av statsministerns fru - Göteborgs-Posten
 - Misstänkte Brattåsmördaren: ”Har inte sovit på fyra månader” - Sveriges Radio
-- Domkapitlet i Strängnäs stift fortsätter att utreda Birgitta Ed - SVT Nyheter
+- Många döda i rysk dubbelattack mot köpcentrum - Göteborgs-Posten
 - Följ licensjakten på björn 2026: Delområde avlyst i Dalarna - Jaktjournalen
-- Trump tar ut ilskan på allierade: ”Har inga spärrar” - Dagens Nyheter
 - Två män gripna efter Gunnar Strömmers besök på Drottningtorget - Göteborgs-Posten
-- DN Direkt – Fler misstänkta efter dödsmisshandel av svensk polis - Dagens Nyheter
 - Familjer först i KD:s valmanifest - Västerbottens-Kuriren
-- DN Direkt – Väg i Boden har rasat efter översvämningar - Dagens Nyheter
+- DN Direkt – Fler misstänkta efter dödsmisshandel av svensk polis - Dagens Nyheter
+- Rekordstort intresse inför söndagens klimatmarsch - Mitt i
+- Trump tar ut ilskan på allierade: ”Har inga spärrar” - Dagens Nyheter
 - ”Hangarfartygen” i öknen ska lära Kina sänka USA:s största fartyg - Dagens Nyheter
-- Turkiet utfärdar arresteringsorder för Netanyahu - Göteborgs-Posten
-- USS Abraham Lincoln på väg tillbaka till USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Vid fronten rycker befälen på axlarna åt Zelenskyjs ministrar - Dagens Nyheter
-- Tillväxtfrossan borta – mer att hämta i aktien - EFN
+- Två oppositionella i Hongkong döms enligt säkerhetslag - Sveriges Radio
+- Turkiet utfärdar arresteringsorder för Netanyahu - Västerbottens-Kuriren
 - Svårnavigerad tull på varor från Temu och Shein - Omni – Alla nyheter. Alla perspektiv.
-- Gaspriset allt högre – lagren på låga nivåer - Västerbottens-Kuriren
-- Uppåt på Wall Street – avtal mellan USA och Kanada ”mycket nära” - Börskollen
+- Haaland blev en fullträff för Synsam - Dagens industri
+- Strejken triggade Teslas problemlösning - Lag & Avtal
+- Nya ägare till villa i Råby, Bålsta – för 4 350 000 kronor - UNT
 - Apple Music inför märkning för AI-musik - Computer Sweden
 - Ny studie: Värmestress redan vid 1,5 grader - Senioren
 
@@ -30,20 +30,20 @@ _Updated: 2026-08-21 19:56_
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
@@ -104,18 +104,18 @@ _Updated: 2026-08-21 19:56_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
-- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 
 ## Science
 
