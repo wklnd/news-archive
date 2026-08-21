@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-22 00:51_
+_Updated: 2026-08-22 01:49_
 
 ## Top Stories
 
-- Incident på Brinellskolan i Fagersta - Krisinformation.se
-- Efter regnkaoset: Bodens Energi släpper ut 20 gånger mer vatten - Sveriges Radio
+- Stor polisinsats vid Brinellskolan i Fagersta - SVT Nyheter
+- Dement fick ta insulinspruta själv – hittades död nästa dag - SVT Nyheter
 - Efter nya blåsvädret: Håkan Juholt kommer till Torghuset - Värnamo Nyheter
 - Sex döda i rysk attack mot köpcentrum - Västerbottens-Kuriren
-- Misstänkte mördaren: Var där i en minut - Aftonbladet
-- Trump får bygga vidare på balsal – ”tacksamma” - Västerbottens-Kuriren
-- Två män gripna efter Gunnar Strömmers besök på Drottningtorget - Göteborgs-Posten
+- Misstänkte Brattåsmördaren: ”Har inte sovit på fyra månader” - Sveriges Radio
+- DN Direkt – 80 björnar sköts på första jaktdagen - Dagens Nyheter
+- Varningar för översvämningar förlängs - Göteborgs-Posten
 - Familjer först i KD:s valmanifest - Västerbottens-Kuriren
-- Björnjakt i Jämtlands län – 19 björnar skjutna - SVT Nyheter
 - Analys: Så vill politikerna få vårdpersonalen att stanna - Sveriges Radio
-- Turkiet utfärdar arresteringsorder för Netanyahu - Västerbottens-Kuriren
-- ”Hangarfartygen” i öknen ska lära Kina sänka USA:s största fartyg - Dagens Nyheter
+- LÄSARTEXT: Vi åker till Stockholm för att klimatdemonstrera - Ljusdals-Posten
+- DN Direkt – Turkiet utfärdar arresteringsorder för Netanyahu - Dagens Nyheter
+- När människan blir en symbol - Dagens Arena
 - USS Abraham Lincoln på väg tillbaka till USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- DN Direkt – Presskonferens i Fagersta efter skoldådet - Dagens Nyheter
+- USA: Irans regim ska kollapsa av ekonomisk press - Västerbottens-Kuriren
 - DN Direkt – Nibe rusade på stigande börs - Dagens Nyheter
 - Fredagsmys efter tungsint vecka på Wall Street - Västerbottens-Kuriren
-- AI kan hjälpa med läxorna men försämra resultaten på prov - Computer Sweden
-- Svårnavigerad tull på varor från Temu och Shein - Omni – Alla nyheter. Alla perspektiv.
+- Bessent och Trump glömmer USA:s verkliga valuta - Dagens industri
+- Experterna: Då ska du binda bolånet – och då är rörligt bäst - Börskollen
 - Värmen större hot för 60-plussare än befarat - ETC.se
 - Open AI satsar på Imessage – kan reta upp Apple rejält - Omni – Alla nyheter. Alla perspektiv.
 
@@ -77,13 +77,14 @@ _Updated: 2026-08-22 00:51_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
@@ -91,7 +92,6 @@ _Updated: 2026-08-22 00:51_
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 
 ## Health
@@ -147,12 +147,12 @@ _Updated: 2026-08-22 00:51_
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Här är världens största jordbruk - ATL
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
