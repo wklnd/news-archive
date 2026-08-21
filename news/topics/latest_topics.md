@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-21 23:49_
+_Updated: 2026-08-22 00:51_
 
 ## Top Stories
 
-- Stor polisinsats vid Brinellskolan i Fagersta - SVT Nyheter
-- Fortsatt utredning av statsministerns fru - Västerbottens-Kuriren
-- DN Direkt – Presskonferens i Fagersta efter skoldådet - Dagens Nyheter
+- Incident på Brinellskolan i Fagersta - Krisinformation.se
 - Efter regnkaoset: Bodens Energi släpper ut 20 gånger mer vatten - Sveriges Radio
-- Många döda i rysk dubbelattack mot köpcentrum - Göteborgs-Posten
-- Misstänkte Brattåsmördaren: ”Har inte sovit på fyra månader” - Sveriges Radio
+- Efter nya blåsvädret: Håkan Juholt kommer till Torghuset - Värnamo Nyheter
+- Sex döda i rysk attack mot köpcentrum - Västerbottens-Kuriren
+- Misstänkte mördaren: Var där i en minut - Aftonbladet
+- Trump får bygga vidare på balsal – ”tacksamma” - Västerbottens-Kuriren
 - Två män gripna efter Gunnar Strömmers besök på Drottningtorget - Göteborgs-Posten
 - Familjer först i KD:s valmanifest - Västerbottens-Kuriren
 - Björnjakt i Jämtlands län – 19 björnar skjutna - SVT Nyheter
-- Rekordstort intresse inför söndagens klimatmarsch - Mitt i
-- ”Hangarfartygen” i öknen ska lära Kina sänka USA:s största fartyg - Dagens Nyheter
-- Trump tar ut ilskan på allierade: ”Har inga spärrar” - Dagens Nyheter
+- Analys: Så vill politikerna få vårdpersonalen att stanna - Sveriges Radio
 - Turkiet utfärdar arresteringsorder för Netanyahu - Västerbottens-Kuriren
+- ”Hangarfartygen” i öknen ska lära Kina sänka USA:s största fartyg - Dagens Nyheter
 - USS Abraham Lincoln på väg tillbaka till USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Nibes vd: ”Ingen nackdel att vara i halvledarindustrin” - EFN
+- DN Direkt – Presskonferens i Fagersta efter skoldådet - Dagens Nyheter
+- DN Direkt – Nibe rusade på stigande börs - Dagens Nyheter
 - Fredagsmys efter tungsint vecka på Wall Street - Västerbottens-Kuriren
 - AI kan hjälpa med läxorna men försämra resultaten på prov - Computer Sweden
-- Bessent och Trump glömmer USA:s verkliga valuta - Dagens industri
+- Svårnavigerad tull på varor från Temu och Shein - Omni – Alla nyheter. Alla perspektiv.
 - Värmen större hot för 60-plussare än befarat - ETC.se
 - Open AI satsar på Imessage – kan reta upp Apple rejält - Omni – Alla nyheter. Alla perspektiv.
 
@@ -29,13 +29,13 @@ _Updated: 2026-08-21 23:49_
 
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
@@ -66,10 +66,10 @@ _Updated: 2026-08-21 23:49_
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ofantliga summor ska spenderas på nya datacenter - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -112,7 +112,7 @@ _Updated: 2026-08-21 23:49_
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
