@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-21 11:07_
+_Updated: 2026-08-21 12:00_
 
 ## Top Stories
 
-- Två gripna vid Strömmers valmöte i Göteborg - Dagens Nyheter
+- Två män gripna efter Gunnar Strömmers besök på Drottningtorget - Göteborgs-Posten
 - Richard Jomshof (SD) vill bli "demokratiminister" - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – Många dödade i Kiev – Zelenskyj vädjar om fler patriotrobotar - Dagens Nyheter
-- DN Direkt – Vid fronten rycker befälen på axlarna åt Zelenskyjs ministrar - Dagens Nyheter
 - Nytt utfall: L störtdyker – sista hopp pekas ut - Svenska Dagbladet
-- ”Om det innebär att vi förlorar mark vill jag inte att kriget ska ta slut” - Dagens Nyheter
-- Delfin på Kolmården avlivad av hälsoskäl - SVT Nyheter
-- Strömmer: Vi flyttar ut departementet till Göteborg och Malmö - Dagens Nyheter
-- Så ska Sverige bli EU:s rikaste land - Moderaterna
-- Misstänkte 45-åringen ska höras i rätten - Aftonbladet
-- Alltid vid Trumps sida – så blev Natalie Harp en snackis - Corren
+- DN Direkt – Bil kolliderar efter polisjakt i Solna - Dagens Nyheter
+- Kan en svensk hormonfabrik lösa östrogenbristen? - Dagens Nyheter
+- DN Direkt – Birgitta Eds stiftelse utreds av länsstyrelsen - Dagens Nyheter
+- Björnjakten i Värmland avlyst - SVT Nyheter
+- DN Direkt – Polisen söker man efter branden i radhuslänga i Arboga - Dagens Nyheter
+- Busch: KD är en blå mittpunkt - Västerbottens-Kuriren
+- Chef bokade slottskonferens trots varning – köptes ut - Omni – Alla nyheter. Alla perspektiv.
+- Vid fronten rycker befälen på axlarna åt Zelenskyjs ministrar - Dagens Nyheter
+- Fem saknas efter brand i flerfamiljshus i Schweiz - Göteborgs-Posten
+- Direkt – Kriget i Ukraina – Många dödade i Kiev – Zelenskyj vädjar om fler patriotrobotar - Dagens Nyheter
 - USS Abraham Lincoln på väg tillbaka till USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Fartygstrafiken genom Hormuz föll kraftigt igår - Reuters - Börsvärlden
-- Krock efter biljakt i Solna – tre skadade - Sveriges Radio
-- Växande statsskuld pressar USA:s långa räntor - DagensNaringsliv.se
 - Rädd för räntechock? Så ska du tänka med bolånet - Jönköpings-Posten
-- Anthropic till börsen inom veckor - Svenska Dagbladet
+- USA:s blockad stryper Irans oljeexport - Affärsvärlden
+- Anthropic uppges sikta på rekordstor börsnotering - BN - Börsvärlden
 - Svårnavigerad tull på varor från Temu och Shein - Omni – Alla nyheter. Alla perspektiv.
 - Ny studie: Värmestress redan vid 1,5 grader - Senioren
-- Elkonvertera din gamla hoj – så står sig tillbehören mot varandra - Dagens PS
+- TV: Överstyvt! Jönköping en av världens lyckligaste städer - Jönköpings-Posten
 
 ## World News
 
@@ -34,15 +34,15 @@ _Updated: 2026-08-21 11:07_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
@@ -55,7 +55,6 @@ _Updated: 2026-08-21 11:07_
 - Google uppges ha försenat Gemini 3.5 Pro med flera månader - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
-- Vietnam värdar för WAN-IFRA:s internationella forum för artificiell intelligens (AI) år 2026 - Vietnam.vn
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
@@ -66,6 +65,7 @@ _Updated: 2026-08-21 11:07_
 - FANUC Accelerates Physical AI in Industrial Robotics, Leveraging NVIDIA Technologies (PR Newswire) - Aktiellt
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Hyperlink InfoSystem Delivers Tailored AI Agent Solutions to Help Businesses Save Up to 90% in Operational Costs with Intelligent Automation (PR Newswire) - Aktiellt
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
 - AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -77,14 +77,14 @@ _Updated: 2026-08-21 11:07_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Republic Business Credit Provides $2 Million Factoring Facility to Automotive Products Manufacturer (PR Newswire) - Aktiellt
+- Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -112,9 +112,9 @@ _Updated: 2026-08-21 11:07_
 - Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 
 ## Science
@@ -125,8 +125,8 @@ _Updated: 2026-08-21 11:07_
 - Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
+- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
@@ -144,16 +144,17 @@ _Updated: 2026-08-21 11:07_
 
 - Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
@@ -161,4 +162,3 @@ _Updated: 2026-08-21 11:07_
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Han tror stenhårt på jordbruket - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
