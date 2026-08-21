@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-21 15:26_
+_Updated: 2026-08-21 16:06_
 
 ## Top Stories
 
-- Stor polisinsats vid Brinellskolan i Fagersta - SVT Nyheter
-- Familjer först i KD:s valmanifest - Göteborgs-Posten
+- Svärdattack på Brinellskolan i Fagersta – flera personer skadade - SVT Nyheter
+- (+) Ändrade sin berättelse – nu avslöjar den misstänkte 45-åringen varför - Aftonbladet
 - Trump tar ut ilskan på allierade: ”Har inga spärrar” - Dagens Nyheter
-- Kristersson: Tar inte Jomshofs ministerdröm på allvar - Svenska Dagbladet
+- Familjer först i KD:s valmanifest - Göteborgs-Posten
 - Ukraina: Ryskt raff i Perm bombat - Cornucopia?
-- Två män gripna efter Gunnar Strömmers besök på Drottningtorget - Göteborgs-Posten
+- Kraftigt ökad dödlighet i Europa under värmeböljorna - Sveriges Radio
 - DN Direkt – Fler misstänkta efter dödsmisshandel av svensk polis - Dagens Nyheter
-- Björnjakten i Värmland avlyst - SVT Nyheter
-- Stora regnmängder och översvämningar i Norrbotten - Västerbottens-Kuriren
-- Sveriges befolkning ökar i historiskt låg takt - Fastighetstidningen
-- Vid fronten rycker befälen på axlarna åt Zelenskyjs ministrar - Dagens Nyheter
+- Årets björnjakt är i gång - Göteborgs-Posten
+- Två män gripna efter Gunnar Strömmers besök på Drottningtorget - Göteborgs-Posten
+- DN Direkt – Varningar för översvämningar förlängs - Dagens Nyheter
 - Fem saknas efter brand i flerfamiljshus i Schweiz - Göteborgs-Posten
-- USS Abraham Lincoln på väg tillbaka till USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Tyskland: Värmen har kostat 14 000 liv - Västerbottens-Kuriren
+- Nord Stream-misstänkt greps – under inspelning av Hollywoodfilm - Dagens Nyheter
+- Kina avvisar USA:s sanktioner mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Spanien: Fem Ceuta-smugglare gripna - Hufvudstadsbladet – HBL
 - Ålandsbanken och Pareto räknar med starkt kurslyft i Nibe - Placera.se
 - Uppgifter: Trumps tullkrav hotar Saabs Kanadaplaner - Affärsvärlden
 - USA:s blockad stryper Irans oljeexport - Affärsvärlden
-- Gaspriset allt högre – påverkar elpris i södra Sverige - Sydsvenskan
+- USA:s statsskuld på rekordnivå - Privata Affärer
 - Apple Music inför märkning för AI-musik - Computer Sweden
 - Ny studie: Värmestress redan vid 1,5 grader - Senioren
 
@@ -36,13 +36,13 @@ _Updated: 2026-08-21 15:26_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Ontario International Airport earns top global honor for customer experience from Airports Council International - Aktiellt
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
@@ -96,26 +96,26 @@ _Updated: 2026-08-21 15:26_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
-- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Vi presenterar HealthBench - OpenAI
+- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
