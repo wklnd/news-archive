@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-21 17:03_
+_Updated: 2026-08-21 17:58_
 
 ## Top Stories
 
-- Stor polisinsats vid Brinellskolan i Fagersta - SVT Nyheter
-- Kristersson: Tar inte Jomshofs ministerdröm på allvar - Svenska Dagbladet
-- Inget beslut om Birgitta Eds prästerskap – Domkapitlet fortsätter utreda - Dagens Arena
+- Svärdattack på Brinellskolan i Fagersta – flera personer skadade - SVT Nyheter
 - Misstänkte Brattåsmördaren: ”Har inte sovit på fyra månader” - Sveriges Radio
+- Fortsatt utredning av statsministerns fru - Göteborgs-Posten
 - Trump tar ut ilskan på allierade: ”Har inga spärrar” - Dagens Nyheter
-- Minderårig pojke misstänks för Malmösprängning - Omni – Alla nyheter. Alla perspektiv.
-- DN Direkt – Årets björnjakt är i gång - Dagens Nyheter
+- DN Direkt – Varningar för översvämningar förlängs - Dagens Nyheter
+- Kristersson: Tar inte Jomshofs ministerdröm på allvar - Svenska Dagbladet
 - Två män gripna efter Gunnar Strömmers besök på Drottningtorget - Göteborgs-Posten
-- DN Direkt – Fler misstänkta efter dödsmisshandel av svensk polis - Dagens Nyheter
+- DN Direkt – Årets björnjakt är i gång - Dagens Nyheter
 - Familjer först i KD:s valmanifest - Västerbottens-Kuriren
-- Turkiet utfärdar arresteringsorder för Netanyahu - Göteborgs-Posten
-- Direkt – Kriget i Ukraina – Många dödade i Kiev – Zelenskyj vädjar om fler patriotrobotar - Dagens Nyheter
+- DN Direkt – Fler misstänkta efter dödsmisshandel av svensk polis - Dagens Nyheter
+- Turkiet utfärdar arresteringsorder för Netanyahu - Västerbottens-Kuriren
+- Sex döda i rysk attack mot köpcentrum - Göteborgs-Posten
 - Vid fronten rycker befälen på axlarna åt Zelenskyjs ministrar - Dagens Nyheter
 - Nord Stream-misstänkt greps – under inspelning av Hollywoodfilm - Dagens Nyheter
-- Tillväxtfrossan borta – mer att hämta i aktien - EFN
-- Uppgifter: Trumps tullkrav hotar Saabs Kanadaplaner - Affärsvärlden
-- USA:s statsskuld på rekordnivå - Privata Affärer
-- Gaspriset allt högre – påverkar elpris i södra Sverige - Sydsvenskan
+- NIBE RAPPORTLYFTER TILLSAMMANS MED SYNSAM, OMXS30 +0,9% - Placera.se
+- Bessent tror budgetunderskottet nått toppen - Affärsvärlden
+- Gaspriset allt högre – lagren på låga nivåer - Västerbottens-Kuriren
+- Källa: Kanadas tullavtal sätter press på Mexiko - Omni – Alla nyheter. Alla perspektiv.
 - Ny studie: Värmestress redan vid 1,5 grader - Senioren
 - Tyck till om Solna stad i SCB:s medborgarundersökning - solna.se
 
@@ -77,45 +77,45 @@ _Updated: 2026-08-21 17:03_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Four European takes on open banking - Mastercard Data and Services - Mastercard
-- Ally Financial to present at the RBC Capital Markets Financial Institutions Conference (PR Newswire) - Aktiellt
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 
 ## Health
 
-- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
-- Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 
 ## Science
 
@@ -125,8 +125,8 @@ _Updated: 2026-08-21 17:03_
 - Mescells bidrar med forskning om optimering av mesenkymala stamcellskulturer till National Science Forum on Biotechnology. - Vietnam.vn
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Olika slutsatser från samma data - Läkartidningen
+- Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
@@ -136,9 +136,9 @@ _Updated: 2026-08-21 17:03_
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Simple math behind major bison blunder - Forskning & Framsteg
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
