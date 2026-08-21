@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-21 12:57_
+_Updated: 2026-08-21 13:52_
 
 ## Top Stories
 
-- Richard Jomshof (SD) vill bli "demokratiminister" - Västerbottens-Kuriren
+- Familjer först i KD:s valmanifest - Västerbottens-Kuriren
 - Trump tar ut ilskan på allierade: ”Har inga spärrar” - Dagens Nyheter
-- DN Direkt – Busch: För lite fokus har lagts på välfärd - Dagens Nyheter
+- Richard Jomshof (SD) vill bli "demokratiminister" - Västerbottens-Kuriren
+- Misstänkta mördaren i rätten: ”Såklart idiotiskt” - Omni – Alla nyheter. Alla perspektiv.
+- Kraftigt ökad dödlighet i Europa under värmeböljorna - Sveriges Radio
 - Carl Bildt: Då kan det bli vapenvila i Ukraina – men inte fred - Dagens industri
-- Två män gripna efter Gunnar Strömmers besök på Drottningtorget - Göteborgs-Posten
-- Ingen misstanke om brott bakom bussolyckan i Lund - Sydsvenskan
 - Regnet öser ned – följ vår rapportering om väderläget - SVT Nyheter
 - Björnjakten i Värmland avlyst - SVT Nyheter
-- DN Direkt – Polisen söker man efter branden i radhuslänga i Arboga - Dagens Nyheter
-- Chef bokade slottskonferens trots varning – köptes ut - Omni – Alla nyheter. Alla perspektiv.
-- Fem saknas efter brand i flerfamiljshus i Schweiz - Aftonbladet
+- Fortsatt låg befolkningsökning under första halvåret 2026 - Statistikmyndigheten SCB
+- Kvinna häktad på nytt – misstänkt för mord i Karlskrona - SVT Nyheter
+- Spanien: Fem Ceuta-smugglare gripna - Hufvudstadsbladet – HBL
 - Vid fronten rycker befälen på axlarna åt Zelenskyjs ministrar - Dagens Nyheter
-- Tyskland: Värmen har kostat 14 000 liv - Västerbottens-Kuriren
+- Fem saknas efter brand i flerfamiljshus i Schweiz - Göteborgs-Posten
 - USS Abraham Lincoln på väg tillbaka till USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Uppgifter: Trumps tullkrav hotar Saabs Kanadaplaner - Affärsvärlden
-- Rädd för räntechock? Så ska du tänka med bolånet - Jönköpings-Posten
 - USA:s blockad stryper Irans oljeexport - Affärsvärlden
-- Piloterna somnade med över 150 passagerare ombord - Dagens PS
+- Rädd för räntechock? Så ska du tänka med bolånet - Jönköpings-Posten
+- Svårnavigerad tull på varor från Temu och Shein - Omni – Alla nyheter. Alla perspektiv.
 - Apple Music inför märkning för AI-musik - Computer Sweden
 - Ny studie: Värmestress redan vid 1,5 grader - Senioren
 
@@ -96,23 +96,23 @@ _Updated: 2026-08-21 12:57_
 
 ## Health
 
-- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
+- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
@@ -142,12 +142,12 @@ _Updated: 2026-08-21 12:57_
 
 ## Jordbruk
 
-- Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
