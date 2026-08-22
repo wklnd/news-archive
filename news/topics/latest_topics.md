@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-22 11:51_
+_Updated: 2026-08-22 12:49_
 
 ## Top Stories
 
-- 17-årig flicka dödad i skolattacken i Fagersta – misstänkt anhållen - Göteborgs-Posten
-- ”Ingen mänsklig rättighet att tapetsera bussar och järnvägsstationer” - Västerbotten | Folkbladet
-- Kraftig brand i förskola i Landskrona – inga skadade - Sveriges Radio
-- Sex döda i rysk attack mot köpcentrum - Corren
-- 22 augusti 07.00, Sammanfattning kväll och natt, Västra Götalands län - polisen.se
-- DN Direkt – Varningar för översvämningar förlängs - Dagens Nyheter
+- DN Direkt – C-ledaren på plats i Fagersta: ”Otroligt berörd” - Dagens Nyheter
 - Cyklister och ”rebelltåg” till Stockholm för demonstration för klimatet - Dagens Nyheter
+- Valaffischer från flera partier vandaliserade: ”För jävligt” - Sydsvenskan
+- Föräldrar och barn skakade av nattens storbrand – förskolan förstörd - HD
+- Bergfeldt efter förhöret: ”Vi blev inte mycket klockare” - Tidningen Ångermanland
+- Lovades pengar på sju dagar efter hotellbluff – fick dubbel återbetalning efter tio veckor - Dagens Nyheter
 - Jas Gripen möts i ”dogfight” – här är tiderna du inte får missa - Corren
-- Misshandel, påkörning och valskylt i brand– så var polisens natt - Kuriren
-- Nooshi Dadgostar (V) ställer in sommartal – Senaste nytt om valet 2026 - SVT Nyheter
-- Hon är ny favorit till att ta över FN - Corren
+- Simona Mohamssons (L) valtal ställs in – Senaste nytt om valet 2026 - SVT Nyheter
+- Misshandel, påkörning och valskylt i brand – så var polisens natt - Kuriren
+- Norsk flygstrejk kan stänga Oslos flygplats - Västerbottens-Kuriren
+- Hon är ny favorit till att ta över FN - Göteborgs-Posten
+- Fler döda dagen efter bombningen av köpcenter - Västerbottens-Kuriren
 - Dolda hotet i bränderna: Gamla bomber - Dagens Nyheter
 - Tvivlar på USA-hjälp om Putin går för långt - Göteborgs-Posten
-- När människan blir en symbol - Dagens Arena
+- Hushållens ekonomi rekordbra inför valet - Västerbottens-Kuriren
 - Förhandlingarna föll – nu inför USA tullar mot Kanada - Omni – Alla nyheter. Alla perspektiv.
 - Ullerstam: Utmärkt val i oron – vi köper mixfonden - Privata Affärer
-- Fredagsmys efter tungsint vecka på Wall Street - Västerbottens-Kuriren
-- Bessent och Trump glömmer USA:s verkliga valuta - Dagens industri
+- Fredagsmys efter tungsint vecka på Wall Street - Aftonbladet
 - Open AI satsar på Imessage – kan reta upp Apple rejält - Omni – Alla nyheter. Alla perspektiv.
 - Värmen större hot för 60-plussare än befarat - ETC.se
 
@@ -29,8 +29,8 @@ _Updated: 2026-08-22 11:51_
 
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -40,11 +40,11 @@ _Updated: 2026-08-22 11:51_
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Global Reseskydd erbjuder hemresegaranti - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
@@ -63,8 +63,8 @@ _Updated: 2026-08-22 11:51_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
-- Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
 - AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
+- Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -104,18 +104,18 @@ _Updated: 2026-08-22 11:51_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
@@ -142,12 +142,12 @@ _Updated: 2026-08-22 11:51_
 
 ## Jordbruk
 
+- Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - SLU
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
