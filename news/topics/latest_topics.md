@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-23 00:49_
+_Updated: 2026-08-23 01:46_
 
 ## Top Stories
 
-- Möte i Rosenbad efter skoldådet: ”Vi höll en tyst minut” - TV4 Nyheterna
-- DN Direkt – Två döda och tolv saknade i migrantolycka - Dagens Nyheter
-- Flera döda efter bombning av köpcenter i Ukraina - Hufvudstadsbladet – HBL
-- Flygplatsen kan stängas - Nya Wermlands-Tidningen
-- Så var lördagens flygfest: "Show i världsklass" - Corren
-- Pappa lämnade sin 7-årige son på Japans högsta berg - Göteborgs-Posten
+- Uppgifter: Hyllade Rickard Andersson innan attacken - Nerikes Allehanda
+- Nya attacker mot Kiev – Frankrike lovar luftvärn - Dagens Nyheter
+- Efter dödsfallen – guldgruva stängs - Svenska Dagbladet
+- Två omkomna och tolv saknade i migrantolycka - Göteborgs-Posten
+- Lugnt läge under första dagen av flygdagarna - polisen.se
+- Norsk flygstrejk kan stänga Oslos flygplats - SVT Nyheter
 - DEBATT: Sverige måste börja bygga igen – för jobben och tillväxten - NSD
-- Magdalena Andersson på plats i Fagersta – Senaste nytt om valet 2026 - SVT Nyheter
-- 22 augusti 13.52, Trafikkontroll, Norrbottens län - polisen.se
 - DEBATT: Fridlund (S): Vi vill framtidssäkra välfärden – med statsbidrag - Västerviks-Tidningen
+- 22 augusti 13.52, Trafikkontroll, Norrbottens län - polisen.se
+- Magdalena Andersson på plats i Fagersta – Senaste nytt om valet 2026 - SVT Nyheter
+- Iran varnar grannländerna för att hjälpa USA - Göteborgs-Posten
 - Krigsdetektiver hittade pilot från andra världskriget – efter 86 år - Dagens Nyheter
-- Erik de la Reguera: I hettan kämpar vi mot invaderande myror - Dagens Nyheter
+- Extremistgrupp dödade bedjande i Nigeria - Västerbottens-Kuriren
 - Trumps utspel: ”Vad ska jag göra? Bomba Iran lite till?” - Omni – Alla nyheter. Alla perspektiv.
-- Extremistgrupp dödade bedjande i Nigeria - Göteborgs-Posten
 - Kanada: Ska matcha Trumps tullar ”dollar för dollar” - Omni – Alla nyheter. Alla perspektiv.
-- Oron på världens börser trycker upp guldpriset - Sydsvenskan
 - Saab visade upp obemannat stridsflygplan - Aftonbladet
+- Trumps märkliga räntesvar: ”Kan sätta in militären” - Dagens industri
 - Fredagsmys efter tungsint vecka på Wall Street - Västerbotten | Folkbladet
 - NY STUDIE: Apparna kan öka risken för otrohet - Aftonbladet
 - Värmen större hot för 60-plussare än befarat - ETC.se
@@ -77,10 +77,10 @@ _Updated: 2026-08-23 00:49_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Vilken framtid arbetar du för? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
