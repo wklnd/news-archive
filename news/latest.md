@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-22 15:17_
+_Updated: 2026-08-22 15:57_
 
-- No deal reached in U.S.-Canada trade talks as 50 percent tariffs take effect - The Washington Post
-- With Midterms Approaching, Trump Implores Republicans: Pretend I’m on the Ballot! - The New York Times
+- U.S.-Canada trade talks collapse just before deadline for tariffs - NPR
+- Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty' - CNBC
 - How the US and Middle East allies flipped the oil script on Iran - CNN
-- Iran says new US sanctions violate sovereignty of other states - Al Jazeera
+- Trump authorizes more beef imports in effort to lower prices - Axios
+- Trump urges South Carolinians to make Sen. Darline Graham the GOP nominee for US Senate - AP News
 - It’s a miracle: Natalie Harp has turned Republicans into feminists | Arwa Mahdawi - The Guardian
-- Supreme Court allows Trump's ballroom construction to proceed for now - Axios
 - Lindsay Clancy trial: everything that happened this week in court - The Guardian
-- Drastic water cuts issued for California, Nevada and Arizona from drought-stricken Colorado River - CBS News
 - DHS starts deportation flights after end to remaining protections for TPS holders - The Hill
-- Ten days after storm, thousands are still waiting for power in Indiana - The Washington Post
-- Swedish police say 1 dead, 2 injured after school sword attack - CBS News
-- Russian drone attack on busy shopping centre kills 15 in Ukraine - Al Jazeera
+- Supreme Court allows Trump's ballroom construction to proceed for now - Axios
+- Drastic water cuts issued for California, Nevada and Arizona from drought-stricken Colorado River - CBS News
+- Sword attack at Swedish school kills 17-year-old girl, injures 3 others, police say - CBS News
 - Wildfires expose — and detonate — buried bombs and mines from WWI and WWII - AP News
+- Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief - The Guardian
 - South Korea ship to test Arctic commercial route amid Western concerns - Reuters
 - Scoop: DOJ, TikTok settle for $400 million in children's privacy suit - Axios
 - The Economy Got Used to Low Borrowing Costs. Their Exit Could Pose Risks. - The New York Times
+- Scott Bessent is 'playing with fire' as Treasury debt buyback scheme risks dollar devaluation spiral - Fortune
 - As debt surpasses $40 trillion, the bill for Washington spending comes due - The Washington Post
-- ⁠Their finances were tough. Then came 'insane' back-to-school costs - USA Today
-- Pixel 11 Pro Fold is changing how I multitask on a foldable with ‘App Handles’ [Gallery] - 9to5Google
+- HP's new $599 MacBook Neo rival available with a 14-inch OLED display and over 40 hours battery life - Notebookcheck
 - Amazon hiked prices on Echo, Fire TV, Kindle, eero to offset ‘significant increases’ in memory costs - Fortune
