@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-22 07:53_
+_Updated: 2026-08-22 09:09_
 
 ## Top Stories
 
-- Brand på förskola i Landskrona - Aftonbladet
-- Stor polisinsats vid Brinellskolan i Fagersta - SVT Nyheter
+- Skoldådet i Fagersta – detta vet vi om attacken - Aftonbladet
+- Kraftig brand i förskola i Landskrona – inga skadade - Sveriges Radio
 - Ukraina: Minst två döda i ryska angrepp - Göteborgs-Posten
+- Bergfeldt efter förhöret: ”Vi blev inte mycket klockare” - Tidningen Ångermanland
 - Paasikivi: USA:s nya hot – ett sätt att dra sig ur - EFN
-- Misstänkte mördaren: Var där i en minut - Aftonbladet
-- Stor klimatdemonstration i Stockholm inför valet - Sveriges Radio
-- Varningar för översvämningar förlängs - Göteborgs-Posten
-- Björnjakt i Jämtlands län – 19 björnar skjutna - SVT Nyheter
-- DN Direkt – Polisen söker man efter branden i radhuslänga i Arboga - Dagens Nyheter
-- Det är förarens plikt att inte köra bussen - Aftonbladet
+- DN Direkt – Messi straffas för tilltag på planen - Dagens Nyheter
+- Åkesson om kritiken mot slopade uppehållstillstånd: ”Är mumbo jumbo” - Sydsvenskan
+- DN Direkt – Varningar för översvämningar förlängs - Dagens Nyheter
+- Norsk flygstrejk kan stänga Oslos flygplats - SVT Nyheter
+- KATARINA HEDSTRÖM: ”Vaccinationer måste bli jämlika - inte en klassfråga” - Helagotland
 - Trump tar ut ilskan på allierade: ”Har inga spärrar” - Dagens Nyheter
-- Svenskt flygplan i olycka i Danmark - Göteborgs-Posten
 - Rekordfisk fångad i USA - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Kritiken växer mot Israels expansion av bosättningar - Dagens Nyheter
+- Tvivlar på USA-hjälp om Putin går för långt - Västerbottens-Kuriren
+- Nekades bussresa i Växjö – slog chaufför i ansiktet - Expressen
 - Strandade tullförhandlingar mellan USA och Kanada - Dagens industri
 - Fredagsmys efter tungsint vecka på Wall Street - Västerbottens-Kuriren
 - Bessent och Trump glömmer USA:s verkliga valuta - Dagens industri
@@ -29,22 +29,22 @@ _Updated: 2026-08-22 07:53_
 
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
@@ -63,8 +63,8 @@ _Updated: 2026-08-22 07:53_
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
-- Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
 - AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
+- Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
@@ -75,15 +75,15 @@ _Updated: 2026-08-22 07:53_
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
@@ -111,11 +111,11 @@ _Updated: 2026-08-22 07:53_
 - Vi presenterar HealthBench - OpenAI
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Medlemmar i fackföreningen vid Nghia Hanh Medical Center deltar i volontäraktiviteter till förmån för samhället. - Vietnam.vn
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 
 ## Science
 
@@ -147,8 +147,8 @@ _Updated: 2026-08-22 07:53_
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - SLU
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
@@ -158,7 +158,7 @@ _Updated: 2026-08-22 07:53_
 - Jord, kor och klimat - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Hellre plöjningsfri odling än ekologisk - Land.se
 - Han tror stenhårt på jordbruket - Land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - De blev grönsaksodlare tack vare lokalt stöd - Land.se
