@@ -1,21 +1,21 @@
 # Top News Headlines
 
-_Updated: 2026-08-22 22:57_
+_Updated: 2026-08-22 23:56_
 
-- Canadian Prime Minister Mark Carney calls new U.S. tariffs ‘a miscalculation’ after trade talks collapse - NBC News
+- ‘Attacked’ by Trump on Trade, Canada Is ‘at War’ With U.S., Carney Says - The New York Times
+- Judge denies Karmelo Anthony's bid for new trial after murder conviction in track meet stabbing - ABC News - Breaking News, Latest News and Videos
 - Deleted tweets show Natalie Harp’s zealous support of Trump on January 6 - CNN
-- Federal judge vacates Trump policy that suspended processing of immigration visas from 75 countries - AP News
+- US military newspaper editor voices censorship fears after being fired - BBC
 - Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty' - CNBC
-- Death toll rises to 16 after Russian drone strike on Ukrainian shopping mall - ABC News - Breaking News, Latest News and Videos
-- Free speech group calls foul play at prosecutors using Comey novel in case against him - The Guardian
+- USS Abraham Lincoln Leaves the Middle East After Almost 7 Months - USNI News
 - Tropical Storm Moke advances toward Hawaii as winds strengthen - AP News
-- Scoop: DOJ, TikTok settle for $400 million in children's privacy suit - Axios
-- Trump Claims White House Ballroom Is Free For Taxpayers (Again)—Despite Other Evidence - Forbes
+- Supreme Court allows Trump's ballroom construction to proceed for now - Axios
 - DHS starts deportation flights after end to remaining protections for TPS holders - The Hill
+- Trump’s foreign beef push to cut grocery costs sparks GOP revolt from ranching country - Fox Business
 - U.S.-Iran Live Updates: Iran declares it has won the war as U.S. turns to economic warfare - CBS News
 - Putin says Ukraine opened 'Pandora's box' with strikes on economic targets - Reuters
 - Europe's wildfires unveil deadly new threat - bombs from WWI and WWII - Euronews.com
-- Student killed in sword attack at a Swedish school was a 17-year-old girl - AP News
+- Russian and Ukrainian attacks kill 10 people, a day after deadly shopping mall drone strike - AP News
 - Robot horse and rider steal the spotlight at Chinese conference - BBC
 - Mohamed El-Erian says 30-year Treasury yield at 5.27% signals a structural shift that will make America more expensive - Yahoo Finance
 - Paramount and California to Hold Preliminary Talks on Warner Bros. Deal - The New York Times
