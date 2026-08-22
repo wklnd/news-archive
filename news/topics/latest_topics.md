@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-22 19:47_
+_Updated: 2026-08-22 20:58_
 
 ## Top Stories
 
 - Uppgifter: Hyllade Rickard Andersson innan attacken - Nerikes Allehanda
-- Trumps utspel: ”Vad ska jag göra? Bomba Iran lite till?” - Omni – Alla nyheter. Alla perspektiv.
+- Nya attacker mot Kiev – Frankrike lovar luftvärn - Dagens Nyheter
 - Först en master och lägenhet – sen barn - Svenska Dagbladet
-- Flera döda efter bombning av köpcenter i Ukraina - Hufvudstadsbladet – HBL
-- DN Direkt – Flera skadade när ramp rasade vid bröllop - Dagens Nyheter
-- Flygfesten började med jätteköer till bussarna - Corren
-- En person död efter olycka på rallytävling utanför Tidaholm - SVT Nyheter
-- Magdalena Andersson på plats i Fagersta – Senaste nytt om valet 2026 - SVT Nyheter
+- Trumps utspel: ”Vad ska jag göra? Bomba Iran lite till?” - Omni – Alla nyheter. Alla perspektiv.
+- Så var lördagens flygfest i Linköping: "Flygshow i världsklass" - Corren
+- Oslos flygplats stängs – Sverigeflyg ställs in - Göteborgs-Posten
 - Cyklister och ”rebelltåg” till Stockholm för demonstration för klimatet - Dagens Nyheter
-- Flygplatsen kan stängas - Nya Wermlands-Tidningen
-- DN Direkt – Extremistgrupp dödade bedjande i Nigeria - Dagens Nyheter
+- Magdalena Andersson på plats i Fagersta – Senaste nytt om valet 2026 - SVT Nyheter
+- 22 augusti 13.52, Trafikkontroll, Norrbottens län - polisen.se
+- Man i 30-årsåldern död efter krasch i rallytävling - Nya Lidköpings-Tidningen
+- Erik de la Reguera: I hettan kämpar vi mot invaderande myror - Dagens Nyheter
+- Extremistgrupp dödade bedjande i Nigeria - Göteborgs-Posten
+- Hon är ny favorit till att ta över FN - Hufvudstadsbladet – HBL
 - Dolda hotet i bränderna: Gamla bomber - Corren
-- Hon är ny favorit till att ta över FN - Västerbottens-Kuriren
-- Påven gjorde ett stopp hos augustinnunnorna i Pennabilli - Vatican News
-- Hushållens ekonomi rekordbra inför valet - Aftonbladet
-- Enorma gaskraftverk ska driva AI-revolutionen - Dagens Nyheter
 - Kanada: Ska matcha Trumps tullar ”dollar för dollar” - Omni – Alla nyheter. Alla perspektiv.
-- Saab visade upp obemannat stridsflygplan - Sydsvenskan
+- Oron på världens börser trycker upp guldpriset - Sydsvenskan
+- Enorma gaskraftverk ska driva AI-revolutionen - Dagens Nyheter
+- Saab visade upp obemannat stridsflygplan - Aftonbladet
 - NY STUDIE: Apparna kan öka risken för otrohet - Aftonbladet
 - Värmen större hot för 60-plussare än befarat - ETC.se
 
@@ -29,9 +29,10 @@ _Updated: 2026-08-22 19:47_
 
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -41,7 +42,6 @@ _Updated: 2026-08-22 19:47_
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global Reseskydd erbjuder hemresegaranti - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
@@ -98,24 +98,24 @@ _Updated: 2026-08-22 19:47_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
 ## Science
 
