@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-22 01:57_
+_Updated: 2026-08-22 04:04_
 
 - Supreme Court allows Trump's ballroom construction to proceed for now - Axios
 - Live updates: Key Iranian trading partner China rejects Trump’s ‘economic D-Day’ threat - CNN
-- Pentagon fires Stars and Stripes leaders who criticized DOD’s interference - The Washington Post
-- Recap: Defense in Lindsay Clancy trial rests, prosecutors call 1st rebuttal witness - NBC Boston
-- Canada-U.S. Tariff Talks Continue as Trump’s Midnight Deadline Looms - The New York Times
-- Trump officials touted a voter fraud bombshell. Their data hasn’t proved it - CNN
-- Desperation Mounts in Indiana After 10 Days Without Power - The New York Times
+- Trump’s super fans are torn on Darline Graham ahead of key GOP Senate contest - NBC News
+- Trump’s Midnight Deadline for Canada-U.S. Tariff Deal Looms - The New York Times
+- Pentagon moves to fire publisher and editor of Stars and Stripes - CBS News
+- DHS confirms just 185 non-citizens on Nevada voter rolls after claiming there were thousands more - The Guardian
+- Desperation Mounts as Thousands in Indiana Endure 10 Days Without Power - The New York Times
 - Plane Crash Near Remote Military Radar Site in Alaska Kills 8 - WSJ
-- Ed Martin leaving Justice Dept. after tumultuous tenure that alienated colleagues - The Washington Post
+- More troops are reporting unwanted sexual contact, but numbers still fall, Pentagon says - AP News
 - Navy May Rename Carrier Slated to Honor Black Veteran to Instead Honor Donald Trump - Military.com
 - One killed, three injured when man attacks Swedish school with sword - Reuters
-- World’s oldest person Ethel Caterham celebrates 117th birthday - CNN
 - Russian drones kill 15 people at a shopping mall in a central Ukrainian city, officials say - AP News
 - Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million - The New York Times
-- Bond yields head higher again, giving back almost all gains since Treasury Department intervention - Yahoo Finance
+- How Israel is expanding settlements in drive to reshape West Bank - BBC
+- TikTok to pay $400m to US in one of largest child privacy settlements - BBC
 - Alfalfa sprouts recalled for E. coli and salmonella after dozens of illnesses - NBC News
-- Bessent's bond gambit aimed at calming markets is instead stirring inflation worries - CNBC
-- Boeing engineers, technical workers reject contracts, could strike after fall deadline - KOMO
+- Boeing workers reject contract offer at crucial moment for company - The Seattle Times
+- Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss - WSJ
 - ChatGPT On Mac Can Now Read And Respond To Apple iMessages - Engadget
-- Pixel Watch 5 lets you customize double pinch to dismiss alarms, skip music, & more - 9to5Google
+- Nvidia just showed that the harness, not the AI model, is now the real hero - TechCrunch
