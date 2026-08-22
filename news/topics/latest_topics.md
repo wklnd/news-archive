@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-22 17:47_
+_Updated: 2026-08-22 18:50_
 
 ## Top Stories
 
-- DN Direkt – Magdalena Andersson: Tror barn och unga känner en oro - Dagens Nyheter
-- Cyklister och ”rebelltåg” till Stockholm för demonstration för klimatet - Dagens Nyheter
+- Utbildningsministern: ”En bottenlös sorg” Utbildningsministern besökte Fagersta. Foto: Alexander Mahmoud - Dagens Nyheter
 - Trumps utspel: ”Vad ska jag göra? Bomba Iran lite till?” - Omni – Alla nyheter. Alla perspektiv.
+- Cyklister och ”rebelltåg” till Stockholm för demonstration för klimatet - Dagens Nyheter
 - Först ekonomisk trygghet – sedan barn? - Svenska Dagbladet
-- Sju döda i kollision efter polisjakt - Göteborgs-Posten
+- Sju döda i kollision efter polisjakt - Aftonbladet
 - Flera döda efter bombning av köpcenter i Ukraina - Hufvudstadsbladet – HBL
-- Flygfesten började med jätteköer till bussarna - Corren
+- Så var lördagens flygfest i Linköping - Corren
 - Magdalena Andersson på plats i Fagersta – Senaste nytt om valet 2026 - SVT Nyheter
+- Flygplatsen kan stängas - Nya Wermlands-Tidningen
 - 22 augusti 13.52, Trafikkontroll, Norrbottens län - polisen.se
-- Varningar för översvämningar förlängs - Göteborgs-Posten
 - DN Direkt – Extremistgrupp dödade bedjande i Nigeria - Dagens Nyheter
 - Hon är ny favorit till att ta över FN - Corren
 - Dolda hotet i bränderna: Gamla bomber - Corren
-- Från fixstjärna till fuskanklagad – många frågor efter Ardays död - Hufvudstadsbladet – HBL
+- Påven gjorde ett stopp hos augustinnunnorna i Pennabilli - Vatican News
 - Hushållens ekonomi rekordbra inför valet - Aftonbladet
-- Förhandlingarna föll – nu inför USA tullar mot Kanada - Omni – Alla nyheter. Alla perspektiv.
+- Enorma gaskraftverk ska driva AI-revolutionen - Dagens Nyheter
+- Kanada: Ska matcha Trumps tullar ”dollar för dollar” - Omni – Alla nyheter. Alla perspektiv.
 - Trumps märkliga räntesvar: ”Kan sätta in militären” - Dagens industri
-- Saab visar nästa stridsflygplan – "Bästa som finns i Linköping" - Corren
 - NY STUDIE: Apparna kan öka risken för otrohet - Aftonbladet
 - Värmen större hot för 60-plussare än befarat - ETC.se
 
@@ -32,14 +32,14 @@ _Updated: 2026-08-22 17:47_
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global Reseskydd erbjuder hemresegaranti - travelnews-se
