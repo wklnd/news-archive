@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-22 06:06_
+_Updated: 2026-08-22 06:59_
 
 ## Top Stories
 
-- Incident på Brinellskolan i Fagersta - Krisinformation.se
-- Ukraina: Minst två döda i ryska angrepp - Göteborgs-Posten
 - Kraftig brand i förskola i Landskrona – inga skadade - Sveriges Radio
-- Man svårt skadad i elsparksolycka i Nybro - SVT Nyheter
+- Stor polisinsats vid Brinellskolan i Fagersta - SVT Nyheter
+- Ukraina: Minst två döda i ryska angrepp - Göteborgs-Posten
 - Paasikivi: USA:s nya hot – ett sätt att dra sig ur - EFN
 - Misstänkte mördaren: Var där i en minut - Aftonbladet
-- Analys: Så vill politikerna få vårdpersonalen att stanna - Sveriges Radio
+- Man filmade brandförloppet i Arboga – söks av polisen - Sveriges Radio
+- Åkesson om kritiken mot slopade uppehållstillstånd: ”Är mumbo jumbo” - Sydsvenskan
 - Varningar för översvämningar förlängs - Göteborgs-Posten
 - Björnjakt i Jämtlands län – 19 björnar skjutna - SVT Nyheter
-- LÄSARTEXT: Vi åker till Stockholm för att klimatdemonstrera - Ljusdals-Posten
+- Det är förarens plikt att inte köra bussen - Aftonbladet
+- DN Direkt – Rekordfisk fångad i USA - Dagens Nyheter
+- Tvivlar på USA-hjälp om Putin går för långt - Göteborgs-Posten
+- Svenskt flygplan i olycka i Danmark - Göteborgs-Posten
 - Direkt – Krisen i Mellanöstern – Kritiken växer mot Israels expansion av bosättningar - Dagens Nyheter
-- När människan blir en symbol - Dagens Arena
-- Irans president: Dags att avsluta kriget - Göteborgs-Posten
-- Dement fick ta insulinspruta själv – dog sedan - Aftonbladet
 - Fredagsmys efter tungsint vecka på Wall Street - Västerbottens-Kuriren
+- Strandade tullförhandlingar mellan USA och Kanada - Aftonbladet
 - Bessent och Trump glömmer USA:s verkliga valuta - Dagens industri
 - Stockholmsbörsen på plus för veckan – gruvbolag i täten - EFN
-- Experterna: Då ska du binda bolånet – och då är rörligt bäst - Börskollen
 - Värmen större hot för 60-plussare än befarat - ETC.se
 - Open AI satsar på Imessage – kan reta upp Apple rejält - Omni – Alla nyheter. Alla perspektiv.
 
@@ -62,8 +62,8 @@ _Updated: 2026-08-22 06:06_
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
-- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
+- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
@@ -76,12 +76,12 @@ _Updated: 2026-08-22 06:06_
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Vilken framtid arbetar du för? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
