@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-22 23:47_
+_Updated: 2026-08-23 00:49_
 
 ## Top Stories
 
-- Experten: Så pratar du med ditt barn om skoldådet i Fagersta - Göteborgs-Posten
-- Nya attacker mot Kiev – Frankrike lovar luftvärn - Dagens Nyheter
-- Två omkomna och tolv saknade i migrantolycka - Göteborgs-Posten
-- Flygfesten började med jätteköer till bussarna - Corren
-- Norsk flygstrejk kan stänga Oslos flygplats - SVT Nyheter
-- Misstänkt försök till mordbrand i Kävlinge - SVT Nyheter
-- Cyklister och ”rebelltåg” till Stockholm för demonstration för klimatet - Dagens Nyheter
+- Möte i Rosenbad efter skoldådet: ”Vi höll en tyst minut” - TV4 Nyheterna
+- DN Direkt – Två döda och tolv saknade i migrantolycka - Dagens Nyheter
+- Flera döda efter bombning av köpcenter i Ukraina - Hufvudstadsbladet – HBL
+- Flygplatsen kan stängas - Nya Wermlands-Tidningen
+- Så var lördagens flygfest: "Show i världsklass" - Corren
+- Pappa lämnade sin 7-årige son på Japans högsta berg - Göteborgs-Posten
+- DEBATT: Sverige måste börja bygga igen – för jobben och tillväxten - NSD
 - Magdalena Andersson på plats i Fagersta – Senaste nytt om valet 2026 - SVT Nyheter
 - 22 augusti 13.52, Trafikkontroll, Norrbottens län - polisen.se
-- Varningar för översvämningar förlängs - Göteborgs-Posten
-- Fiskare i fisklåda räddade till havs - Göteborgs-Posten
+- DEBATT: Fridlund (S): Vi vill framtidssäkra välfärden – med statsbidrag - Västerviks-Tidningen
 - Krigsdetektiver hittade pilot från andra världskriget – efter 86 år - Dagens Nyheter
 - Erik de la Reguera: I hettan kämpar vi mot invaderande myror - Dagens Nyheter
 - Trumps utspel: ”Vad ska jag göra? Bomba Iran lite till?” - Omni – Alla nyheter. Alla perspektiv.
+- Extremistgrupp dödade bedjande i Nigeria - Göteborgs-Posten
 - Kanada: Ska matcha Trumps tullar ”dollar för dollar” - Omni – Alla nyheter. Alla perspektiv.
 - Oron på världens börser trycker upp guldpriset - Sydsvenskan
-- Hushållens ekonomi rekordbra inför valet - Svenska Dagbladet
 - Saab visade upp obemannat stridsflygplan - Aftonbladet
+- Fredagsmys efter tungsint vecka på Wall Street - Västerbotten | Folkbladet
 - NY STUDIE: Apparna kan öka risken för otrohet - Aftonbladet
 - Värmen större hot för 60-plussare än befarat - ETC.se
 
@@ -32,6 +32,7 @@ _Updated: 2026-08-22 23:47_
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -40,7 +41,6 @@ _Updated: 2026-08-22 23:47_
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Global Reseskydd erbjuder hemresegaranti - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -159,6 +159,6 @@ _Updated: 2026-08-22 23:47_
 - Jord, kor och klimat - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Hellre plöjningsfri odling än ekologisk - Land.se
 - Han tror stenhårt på jordbruket - Land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
