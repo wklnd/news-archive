@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-22 03:57_
+_Updated: 2026-08-22 06:06_
 
 ## Top Stories
 
 - Incident på Brinellskolan i Fagersta - Krisinformation.se
-- Explosioner i Kiev - Göteborgs-Posten
-- Man svårt skadad i olycka - Svenska Dagbladet
-- Misstänkte Brattåsmördaren: ”Har inte sovit på fyra månader” - Sveriges Radio
-- Efter nya blåsvädret: Håkan Juholt kommer till Torghuset - Värnamo Nyheter
-- DN Direkt – En död och två allvarligt skadade i Fagersta - Dagens Nyheter
-- Familjer först i KD:s valmanifest - Västerbottens-Kuriren
-- Varningar för översvämningar förlängs - Göteborgs-Posten
+- Ukraina: Minst två döda i ryska angrepp - Göteborgs-Posten
+- Kraftig brand i förskola i Landskrona – inga skadade - Sveriges Radio
+- Man svårt skadad i elsparksolycka i Nybro - SVT Nyheter
+- Paasikivi: USA:s nya hot – ett sätt att dra sig ur - EFN
+- Misstänkte mördaren: Var där i en minut - Aftonbladet
 - Analys: Så vill politikerna få vårdpersonalen att stanna - Sveriges Radio
+- Varningar för översvämningar förlängs - Göteborgs-Posten
+- Björnjakt i Jämtlands län – 19 björnar skjutna - SVT Nyheter
 - LÄSARTEXT: Vi åker till Stockholm för att klimatdemonstrera - Ljusdals-Posten
-- DN Direkt – Turkiet utfärdar arresteringsorder för Netanyahu - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Kritiken växer mot Israels expansion av bosättningar - Dagens Nyheter
 - När människan blir en symbol - Dagens Arena
-- USA: Irans regim ska kollapsa av ekonomisk press - Västerbottens-Kuriren
-- USS Abraham Lincoln på väg tillbaka till USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Irans president: Dags att avsluta kriget - Göteborgs-Posten
+- Dement fick ta insulinspruta själv – dog sedan - Aftonbladet
 - Fredagsmys efter tungsint vecka på Wall Street - Västerbottens-Kuriren
-- Ålandsbanken och Pareto räknar med starkt kurslyft i Nibe - Affärsvärlden
 - Bessent och Trump glömmer USA:s verkliga valuta - Dagens industri
-- Svårnavigerad tull på varor från Temu och Shein - Omni – Alla nyheter. Alla perspektiv.
+- Stockholmsbörsen på plus för veckan – gruvbolag i täten - EFN
+- Experterna: Då ska du binda bolånet – och då är rörligt bäst - Börskollen
 - Värmen större hot för 60-plussare än befarat - ETC.se
 - Open AI satsar på Imessage – kan reta upp Apple rejält - Omni – Alla nyheter. Alla perspektiv.
 
@@ -34,19 +34,19 @@ _Updated: 2026-08-22 03:57_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Global Reseskydd erbjuder hemresegaranti - travelnews-se
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -60,16 +60,16 @@ _Updated: 2026-08-22 03:57_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Hyperlink InfoSystem Delivers Tailored AI Agent Solutions to Help Businesses Save Up to 90% in Operational Costs with Intelligent Automation (PR Newswire) - Aktiellt
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
+- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Svenskar som tjänar mycket använder AI mer - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ofantliga summor ska spenderas på nya datacenter - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -148,11 +148,11 @@ _Updated: 2026-08-22 03:57_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Här är världens största jordbruk - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Här är världens största jordbruk - ATL
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
