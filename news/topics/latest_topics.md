@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-22 18:50_
+_Updated: 2026-08-22 19:47_
 
 ## Top Stories
 
-- Utbildningsministern: ”En bottenlös sorg” Utbildningsministern besökte Fagersta. Foto: Alexander Mahmoud - Dagens Nyheter
+- Uppgifter: Hyllade Rickard Andersson innan attacken - Nerikes Allehanda
 - Trumps utspel: ”Vad ska jag göra? Bomba Iran lite till?” - Omni – Alla nyheter. Alla perspektiv.
-- Cyklister och ”rebelltåg” till Stockholm för demonstration för klimatet - Dagens Nyheter
-- Först ekonomisk trygghet – sedan barn? - Svenska Dagbladet
-- Sju döda i kollision efter polisjakt - Aftonbladet
+- Först en master och lägenhet – sen barn - Svenska Dagbladet
 - Flera döda efter bombning av köpcenter i Ukraina - Hufvudstadsbladet – HBL
-- Så var lördagens flygfest i Linköping - Corren
+- DN Direkt – Flera skadade när ramp rasade vid bröllop - Dagens Nyheter
+- Flygfesten började med jätteköer till bussarna - Corren
+- En person död efter olycka på rallytävling utanför Tidaholm - SVT Nyheter
 - Magdalena Andersson på plats i Fagersta – Senaste nytt om valet 2026 - SVT Nyheter
+- Cyklister och ”rebelltåg” till Stockholm för demonstration för klimatet - Dagens Nyheter
 - Flygplatsen kan stängas - Nya Wermlands-Tidningen
-- 22 augusti 13.52, Trafikkontroll, Norrbottens län - polisen.se
 - DN Direkt – Extremistgrupp dödade bedjande i Nigeria - Dagens Nyheter
-- Hon är ny favorit till att ta över FN - Corren
 - Dolda hotet i bränderna: Gamla bomber - Corren
+- Hon är ny favorit till att ta över FN - Västerbottens-Kuriren
 - Påven gjorde ett stopp hos augustinnunnorna i Pennabilli - Vatican News
 - Hushållens ekonomi rekordbra inför valet - Aftonbladet
 - Enorma gaskraftverk ska driva AI-revolutionen - Dagens Nyheter
 - Kanada: Ska matcha Trumps tullar ”dollar för dollar” - Omni – Alla nyheter. Alla perspektiv.
-- Trumps märkliga räntesvar: ”Kan sätta in militären” - Dagens industri
+- Saab visade upp obemannat stridsflygplan - Sydsvenskan
 - NY STUDIE: Apparna kan öka risken för otrohet - Aftonbladet
 - Värmen större hot för 60-plussare än befarat - ETC.se
 
@@ -52,9 +52,8 @@ _Updated: 2026-08-22 18:50_
 
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
-- Google uppges ha försenat Gemini 3.5 Pro med flera månader - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
@@ -64,11 +63,12 @@ _Updated: 2026-08-22 18:50_
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
-- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
+- Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
 - AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
-- Svenskar som tjänar mycket använder AI mer - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ofantliga summor ska spenderas på nya datacenter - Computer Sweden
+- Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
