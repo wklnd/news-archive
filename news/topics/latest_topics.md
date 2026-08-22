@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-22 22:49_
+_Updated: 2026-08-22 23:47_
 
 ## Top Stories
 
-- Frida Svensson: Får som han vill – men han lever - Svenska Dagbladet
+- Experten: Så pratar du med ditt barn om skoldådet i Fagersta - Göteborgs-Posten
 - Nya attacker mot Kiev – Frankrike lovar luftvärn - Dagens Nyheter
-- Så var lördagens flygfest i Linköping: "Flygshow i världsklass" - Corren
+- Två omkomna och tolv saknade i migrantolycka - Göteborgs-Posten
+- Flygfesten började med jätteköer till bussarna - Corren
 - Norsk flygstrejk kan stänga Oslos flygplats - SVT Nyheter
-- Därför saknas Jimmie Åkesson (SD) på statsministerns möte om Fagerstadådet - Sveriges Radio
-- Trumps utspel: ”Vad ska jag göra? Bomba Iran lite till?” - Omni – Alla nyheter. Alla perspektiv.
+- Misstänkt försök till mordbrand i Kävlinge - SVT Nyheter
 - Cyklister och ”rebelltåg” till Stockholm för demonstration för klimatet - Dagens Nyheter
 - Magdalena Andersson på plats i Fagersta – Senaste nytt om valet 2026 - SVT Nyheter
 - 22 augusti 13.52, Trafikkontroll, Norrbottens län - polisen.se
-- DEBATT: Fridlund (S): Vi vill framtidssäkra välfärden – med statsbidrag - Västerviks-Tidningen
+- Varningar för översvämningar förlängs - Göteborgs-Posten
+- Fiskare i fisklåda räddade till havs - Göteborgs-Posten
 - Krigsdetektiver hittade pilot från andra världskriget – efter 86 år - Dagens Nyheter
-- Pappa lämnade sjuåring ensam på Fuji - Dagens Nyheter
-- Extremistgrupp dödade bedjande i Nigeria - Göteborgs-Posten
 - Erik de la Reguera: I hettan kämpar vi mot invaderande myror - Dagens Nyheter
+- Trumps utspel: ”Vad ska jag göra? Bomba Iran lite till?” - Omni – Alla nyheter. Alla perspektiv.
 - Kanada: Ska matcha Trumps tullar ”dollar för dollar” - Omni – Alla nyheter. Alla perspektiv.
 - Oron på världens börser trycker upp guldpriset - Sydsvenskan
-- Enorma gaskraftverk ska driva AI-revolutionen - Dagens Nyheter
 - Hushållens ekonomi rekordbra inför valet - Svenska Dagbladet
+- Saab visade upp obemannat stridsflygplan - Aftonbladet
 - NY STUDIE: Apparna kan öka risken för otrohet - Aftonbladet
 - Värmen större hot för 60-plussare än befarat - ETC.se
 
@@ -51,25 +51,25 @@ _Updated: 2026-08-22 22:49_
 ## Technology
 
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
+- Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
+- Google uppges ha försenat Gemini 3.5 Pro med flera månader - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
 - AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
 - Svenskar som tjänar mycket använder AI mer - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
@@ -78,21 +78,21 @@ _Updated: 2026-08-22 22:49_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Vilken framtid arbetar du för? - EY
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -130,8 +130,8 @@ _Updated: 2026-08-22 22:49_
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
