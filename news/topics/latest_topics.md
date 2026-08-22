@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-22 13:46_
+_Updated: 2026-08-22 15:09_
 
 ## Top Stories
 
-- Efter dådet – Andersson och Dadgostar ställer in - Västerbottens-Kuriren
+- 17-årig flicka dödad i skolattacken i Fagersta – misstänkt anhållen - Göteborgs-Posten
+- Trumps utspel: ”Vad ska jag göra? Bomba Iran lite till?” - Omni – Alla nyheter. Alla perspektiv.
 - Cyklister och ”rebelltåg” till Stockholm för demonstration för klimatet - Dagens Nyheter
 - ”Ingen mänsklig rättighet att tapetsera bussar och järnvägsstationer” - Västerbotten | Folkbladet
-- Fler döda dagen efter bombningen av köpcenter - Göteborgs-Posten
-- Kraftig brand i förskola i Landskrona – inga skadade - Sveriges Radio
-- Jas Gripen möts i ”dogfight” – här är tiderna du inte får missa - Corren
+- Polisen om gripandet av sju – kameror gjorde det lättare - Sveriges Radio
+- Sex döda i rysk attack mot köpcentrum - Corren
+- Flygfesten började med jätteköer till bussarna - Corren
 - Personalbrist bromsar ny svensk Natosatsning - Dagens Nyheter
-- Norsk flygstrejk kan stänga Oslos flygplats - SVT Nyheter
-- Misshandel, påkörning och valskylt i brand – så var polisens natt - Kuriren
-- Simona Mohamssons (L) valtal ställs in – Senaste nytt om valet 2026 - SVT Nyheter
+- Flygplatsen kan stängas - Nya Wermlands-Tidningen
+- Magdalena Andersson på plats i Fagersta – Senaste nytt om valet 2026 - SVT Nyheter
 - Hon är ny favorit till att ta över FN - Göteborgs-Posten
-- Dolda hotet i bränderna: Gamla bomber - Dagens Nyheter
-- USA: Irans regim ska kollapsa av ekonomisk press - Göteborgs-Posten
-- Tvivlar på USA-hjälp om Putin går för långt - Göteborgs-Posten
-- Hushållens ekonomi rekordbra inför valet - Västerbottens-Kuriren
-- Uppåt på Wall Street trots AI-skepsis: ”Måste göra mer” - EFN
+- Dolda hotet i bränderna: Gamla bomber - Corren
+- Från fixstjärna till fuskanklagad – många frågor efter Ardays död - Hufvudstadsbladet – HBL
+- Varde ljus – påven investerar i grön energi - Dagens industri
+- Hushållens ekonomi rekordbra inför valet - Hallandsposten
 - Förhandlingarna föll – nu inför USA tullar mot Kanada - Omni – Alla nyheter. Alla perspektiv.
-- Ullerstam: Utmärkt val i oron – vi köper mixfonden - Privata Affärer
+- Fredagsmys efter tungsint vecka på Wall Street - Västerbottens-Kuriren
+- Här är Saabs nya stridsflyg - Dagens industri
 - Open AI satsar på Imessage – kan reta upp Apple rejält - Omni – Alla nyheter. Alla perspektiv.
 - Värmen större hot för 60-plussare än befarat - ETC.se
 
@@ -34,8 +34,8 @@ _Updated: 2026-08-22 13:46_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
@@ -119,6 +119,7 @@ _Updated: 2026-08-22 13:46_
 
 ## Science
 
+- Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
@@ -132,13 +133,12 @@ _Updated: 2026-08-22 13:46_
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Simple math behind major bison blunder - Forskning & Framsteg
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
