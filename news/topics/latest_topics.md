@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-22 12:49_
+_Updated: 2026-08-22 13:46_
 
 ## Top Stories
 
-- DN Direkt – C-ledaren på plats i Fagersta: ”Otroligt berörd” - Dagens Nyheter
+- Efter dådet – Andersson och Dadgostar ställer in - Västerbottens-Kuriren
 - Cyklister och ”rebelltåg” till Stockholm för demonstration för klimatet - Dagens Nyheter
-- Valaffischer från flera partier vandaliserade: ”För jävligt” - Sydsvenskan
-- Föräldrar och barn skakade av nattens storbrand – förskolan förstörd - HD
-- Bergfeldt efter förhöret: ”Vi blev inte mycket klockare” - Tidningen Ångermanland
-- Lovades pengar på sju dagar efter hotellbluff – fick dubbel återbetalning efter tio veckor - Dagens Nyheter
+- ”Ingen mänsklig rättighet att tapetsera bussar och järnvägsstationer” - Västerbotten | Folkbladet
+- Fler döda dagen efter bombningen av köpcenter - Göteborgs-Posten
+- Kraftig brand i förskola i Landskrona – inga skadade - Sveriges Radio
 - Jas Gripen möts i ”dogfight” – här är tiderna du inte får missa - Corren
-- Simona Mohamssons (L) valtal ställs in – Senaste nytt om valet 2026 - SVT Nyheter
+- Personalbrist bromsar ny svensk Natosatsning - Dagens Nyheter
+- Norsk flygstrejk kan stänga Oslos flygplats - SVT Nyheter
 - Misshandel, påkörning och valskylt i brand – så var polisens natt - Kuriren
-- Norsk flygstrejk kan stänga Oslos flygplats - Västerbottens-Kuriren
+- Simona Mohamssons (L) valtal ställs in – Senaste nytt om valet 2026 - SVT Nyheter
 - Hon är ny favorit till att ta över FN - Göteborgs-Posten
-- Fler döda dagen efter bombningen av köpcenter - Västerbottens-Kuriren
 - Dolda hotet i bränderna: Gamla bomber - Dagens Nyheter
+- USA: Irans regim ska kollapsa av ekonomisk press - Göteborgs-Posten
 - Tvivlar på USA-hjälp om Putin går för långt - Göteborgs-Posten
 - Hushållens ekonomi rekordbra inför valet - Västerbottens-Kuriren
+- Uppåt på Wall Street trots AI-skepsis: ”Måste göra mer” - EFN
 - Förhandlingarna föll – nu inför USA tullar mot Kanada - Omni – Alla nyheter. Alla perspektiv.
 - Ullerstam: Utmärkt val i oron – vi köper mixfonden - Privata Affärer
-- Fredagsmys efter tungsint vecka på Wall Street - Aftonbladet
 - Open AI satsar på Imessage – kan reta upp Apple rejält - Omni – Alla nyheter. Alla perspektiv.
 - Värmen större hot för 60-plussare än befarat - ETC.se
 
@@ -63,12 +63,12 @@ _Updated: 2026-08-22 12:49_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
-- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ofantliga summor ska spenderas på nya datacenter - Computer Sweden
+- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
@@ -104,18 +104,18 @@ _Updated: 2026-08-22 12:49_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
 - Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
-- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 
 ## Science
 
