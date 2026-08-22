@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-22 20:58_
+_Updated: 2026-08-22 21:46_
 
 ## Top Stories
 
 - Uppgifter: Hyllade Rickard Andersson innan attacken - Nerikes Allehanda
 - Nya attacker mot Kiev – Frankrike lovar luftvärn - Dagens Nyheter
-- Först en master och lägenhet – sen barn - Svenska Dagbladet
-- Trumps utspel: ”Vad ska jag göra? Bomba Iran lite till?” - Omni – Alla nyheter. Alla perspektiv.
 - Så var lördagens flygfest i Linköping: "Flygshow i världsklass" - Corren
+- Misstänkt försök till mordbrand i Kävlinge - SVT Nyheter
+- Först en master och lägenhet – sen barn - Svenska Dagbladet
 - Oslos flygplats stängs – Sverigeflyg ställs in - Göteborgs-Posten
 - Cyklister och ”rebelltåg” till Stockholm för demonstration för klimatet - Dagens Nyheter
 - Magdalena Andersson på plats i Fagersta – Senaste nytt om valet 2026 - SVT Nyheter
 - 22 augusti 13.52, Trafikkontroll, Norrbottens län - polisen.se
-- Man i 30-årsåldern död efter krasch i rallytävling - Nya Lidköpings-Tidningen
+- Varningar för översvämningar förlängs - Göteborgs-Posten
 - Erik de la Reguera: I hettan kämpar vi mot invaderande myror - Dagens Nyheter
 - Extremistgrupp dödade bedjande i Nigeria - Göteborgs-Posten
+- Trumps utspel: ”Vad ska jag göra? Bomba Iran lite till?” - Omni – Alla nyheter. Alla perspektiv.
 - Hon är ny favorit till att ta över FN - Hufvudstadsbladet – HBL
-- Dolda hotet i bränderna: Gamla bomber - Corren
 - Kanada: Ska matcha Trumps tullar ”dollar för dollar” - Omni – Alla nyheter. Alla perspektiv.
 - Oron på världens börser trycker upp guldpriset - Sydsvenskan
 - Enorma gaskraftverk ska driva AI-revolutionen - Dagens Nyheter
-- Saab visade upp obemannat stridsflygplan - Aftonbladet
+- Hushållens ekonomi rekordbra inför valet - Aftonbladet
 - NY STUDIE: Apparna kan öka risken för otrohet - Aftonbladet
 - Värmen större hot för 60-plussare än befarat - ETC.se
 
@@ -61,8 +61,8 @@ _Updated: 2026-08-22 20:58_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
-- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - Open AI uppges vilja ge Trump-administrationen en ägarandel på 5 procent - Computer Sweden
 - AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
