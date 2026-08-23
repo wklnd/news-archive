@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-23 01:46_
+_Updated: 2026-08-23 04:09_
 
 ## Top Stories
 
-- Uppgifter: Hyllade Rickard Andersson innan attacken - Nerikes Allehanda
+- Sorgen efter svärdattacken i Fagersta: ”Helt sjukt att något sådant kan hända” - Göteborgs-Posten
 - Nya attacker mot Kiev – Frankrike lovar luftvärn - Dagens Nyheter
-- Efter dödsfallen – guldgruva stängs - Svenska Dagbladet
-- Två omkomna och tolv saknade i migrantolycka - Göteborgs-Posten
+- Flygplatsen kan stängas - Nya Wermlands-Tidningen
 - Lugnt läge under första dagen av flygdagarna - polisen.se
-- Norsk flygstrejk kan stänga Oslos flygplats - SVT Nyheter
+- Efter dödsfallen – guldgruva stängs - Västerbottens-Kuriren
+- Iran varnar grannländerna för att hjälpa USA - Göteborgs-Posten
 - DEBATT: Sverige måste börja bygga igen – för jobben och tillväxten - NSD
 - DEBATT: Fridlund (S): Vi vill framtidssäkra välfärden – med statsbidrag - Västerviks-Tidningen
+- Varningar för översvämningar förlängs - Göteborgs-Posten
 - 22 augusti 13.52, Trafikkontroll, Norrbottens län - polisen.se
-- Magdalena Andersson på plats i Fagersta – Senaste nytt om valet 2026 - SVT Nyheter
-- Iran varnar grannländerna för att hjälpa USA - Göteborgs-Posten
 - Krigsdetektiver hittade pilot från andra världskriget – efter 86 år - Dagens Nyheter
-- Extremistgrupp dödade bedjande i Nigeria - Västerbottens-Kuriren
+- Sju döda i kollision efter polisjakt i England - Sydsvenskan
 - Trumps utspel: ”Vad ska jag göra? Bomba Iran lite till?” - Omni – Alla nyheter. Alla perspektiv.
+- Sydkoreanskt fartyg på ny tur via Arktis - Västerbottens-Kuriren
 - Kanada: Ska matcha Trumps tullar ”dollar för dollar” - Omni – Alla nyheter. Alla perspektiv.
 - Saab visade upp obemannat stridsflygplan - Aftonbladet
 - Trumps märkliga räntesvar: ”Kan sätta in militären” - Dagens industri
-- Fredagsmys efter tungsint vecka på Wall Street - Västerbotten | Folkbladet
-- NY STUDIE: Apparna kan öka risken för otrohet - Aftonbladet
-- Värmen större hot för 60-plussare än befarat - ETC.se
+- Fredagsmys efter tungsint vecka på Wall Street - Folkbladet
+- iQoo:s kompakta surfplatta förväntas lanseras i september tillsammans med iQoo 16 - notebookcheck.se
+- Windows 11-uppdatering får spel att krascha — Microsoft säger att RGB-enheter är orsaken - notebookcheck.se
 
 ## World News
 
@@ -52,15 +52,15 @@ _Updated: 2026-08-23 01:46_
 
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
-- Google uppges ha försenat Gemini 3.5 Pro med flera månader - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
@@ -68,8 +68,8 @@ _Updated: 2026-08-23 01:46_
 - Svenskar som tjänar mycket använder AI mer - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
@@ -82,7 +82,6 @@ _Updated: 2026-08-23 01:46_
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Vilken framtid arbetar du för? - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2026-08-23 01:46_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -130,15 +130,15 @@ _Updated: 2026-08-23 01:46_
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Täta band mellan turism och forskning på Svalbard - SLU
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
 ## Jordbruk
 
