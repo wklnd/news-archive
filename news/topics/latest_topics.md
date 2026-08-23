@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-23 16:50_
+_Updated: 2026-08-23 17:48_
 
 ## Top Stories
 
 - Han misstänks för skoldådet på Brinellskolan - Göteborgs-Posten
-- Tiotusentals demonstrerade för klimatet - Dagens Nyheter
-- Gardermoen stängd – stora störningar i flygtrafiken - Corren
+- Björn Wiman: I Sverige står Ulf Kristersson kvar med soppatorsk - Dagens Nyheter
 - Ukraina anfölll Ozon-lager i Ryssland – andra natten i rad - Dagens Nyheter
+- Gardermoen stängd – stora störningar i flygtrafiken - Corren
+- Masskrock i centrala Göteborg - Expressen
 - Nya dödliga israeliska attacker på Gazaremsan - Västerbottens-Kuriren
-- Föräldrar brister i kunskap om regler för elsparkcyklar - Dagens Nyheter
+- För dem kan valkompassen avgöra valet - Göteborgs-Posten
 - Piloten om uppdraget: "Man gör nytta" - Corren
-- Björnjakten avlyst i två områden – 24 kvar att fälla - SVT Nyheter
-- DN Direkt – Man död efter misshandel i Mariestad - Dagens Nyheter
+- 15 fällda björnar i länet - Västerbottens-Kuriren
 - 23 augusti 12.45, Trafikkontroll, Norrbottens län - Polisen.se
 - Zelenskyj avfärdar val: ”Skulle splittra” - Västerbottens-Kuriren
 - DN Direkt – Uppgifter: Hackare stängde brittiskt kraftverk - Dagens Nyheter
 - Flera nordiska ledare på tvådagarsbesök i Kiev - Dagens Nyheter
-- Iran varnar grannländerna för att hjälpa USA - Hufvudstadsbladet – HBL
+- Iran varnar grannländerna för att hjälpa USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- USA: ”Dåraktigt” att tro att Kanada kan vinna tullkrig - Omni – Alla nyheter. Alla perspektiv.
+- Operativ 2028: Gripen får sitt längsta vapen – 500 kilometers räckvidd - Dagens PS
+- DNB Carnegie räknar med tre räntehöjningar - Affärsvärlden
 - Elbilens sparkalkyl spricker när krockskadan kostar 40 procent mer - Dagens PS
-- Kanada: Ska matcha Trumps tullar ”dollar för dollar” - Omni – Alla nyheter. Alla perspektiv.
-- Giftig räntecocktail kan slå mot svenska bolån - Dagens Nyheter
-- Turismen i övre Norrland hotas när nattågen blir färre - Börskollen
 - Kunderna ratar Fable 5 – väljer billigare alternativ - Omni – Alla nyheter. Alla perspektiv.
-- ChatGPT kan nu logga din Mac-aktivitet i Europa, om du tillåter det - notebookcheck.se
+- Den enda actionkamera du behöver – vi testar X6 från Insta 360 - Expressen
 
 ## World News
 
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- UNESCO statement on Ukraine - UNESCO
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
+- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Kuriren nominerad för satsning på unga läsare - Kuriren
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Sweden joins global Falling Walls network with first national lab - Stockholms universitet
+- Record number of international students apply to Lund University - Lundagard.se
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Resepriserna i Europa stiger trots global nedgång - travelnews-se
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Hockeyn förenade under NHL Global Series - NHL.com
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
 
 ## Technology
 
@@ -62,13 +62,13 @@ _Updated: 2026-08-23 16:50_
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Svenskar som tjänar mycket använder AI mer - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
