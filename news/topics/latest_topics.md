@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-23 17:48_
+_Updated: 2026-08-23 18:52_
 
 ## Top Stories
 
+- Fotboll: Elanga ger Newcastle en drömstart - SVT Nyheter
 - Han misstänks för skoldådet på Brinellskolan - Göteborgs-Posten
-- Björn Wiman: I Sverige står Ulf Kristersson kvar med soppatorsk - Dagens Nyheter
-- Ukraina anfölll Ozon-lager i Ryssland – andra natten i rad - Dagens Nyheter
-- Gardermoen stängd – stora störningar i flygtrafiken - Corren
-- Masskrock i centrala Göteborg - Expressen
-- Nya dödliga israeliska attacker på Gazaremsan - Västerbottens-Kuriren
+- Tiotusentals demonstrerade för klimatet - Dagens Nyheter
+- Tusentals strömlösa i Göteborg - Göteborgs-Posten
+- ”Massiva bränder” efter drönaranfall tusen kilometer bort - Hufvudstadsbladet – HBL
+- DN Direkt – V: Sverige bör dra israelisk minister inför ICC - Dagens Nyheter
 - För dem kan valkompassen avgöra valet - Göteborgs-Posten
+- Köer på E4 efter olycka utanför Linköping - SVT Nyheter
 - Piloten om uppdraget: "Man gör nytta" - Corren
 - 15 fällda björnar i länet - Västerbottens-Kuriren
-- 23 augusti 12.45, Trafikkontroll, Norrbottens län - Polisen.se
-- Zelenskyj avfärdar val: ”Skulle splittra” - Västerbottens-Kuriren
-- DN Direkt – Uppgifter: Hackare stängde brittiskt kraftverk - Dagens Nyheter
-- Flera nordiska ledare på tvådagarsbesök i Kiev - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Fedorov: Zelenskyj måste svara på frågor om korruption - Dagens Nyheter
+- Hackare stängde brittiskt kraftverk - Västerbottens-Kuriren
+- Norskt löfte om nya miljarder till Ukraina - Göteborgs-Posten
 - Iran varnar grannländerna för att hjälpa USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - USA: ”Dåraktigt” att tro att Kanada kan vinna tullkrig - Omni – Alla nyheter. Alla perspektiv.
 - Operativ 2028: Gripen får sitt längsta vapen – 500 kilometers räckvidd - Dagens PS
 - DNB Carnegie räknar med tre räntehöjningar - Affärsvärlden
-- Elbilens sparkalkyl spricker när krockskadan kostar 40 procent mer - Dagens PS
+- Alibaba gör rekordemission för fortsatt AI-satsning - Dagens industri
 - Kunderna ratar Fable 5 – väljer billigare alternativ - Omni – Alla nyheter. Alla perspektiv.
 - Den enda actionkamera du behöver – vi testar X6 från Insta 360 - Expressen
 
 ## World News
 
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- UNESCO statement on Ukraine - UNESCO
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
-- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Record number of international students apply to Lund University - Lundagard.se
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Hockeyn förenade under NHL Global Series - NHL.com
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
+- Kuriren nominerad för satsning på unga läsare - Kuriren
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Sweden joins global Falling Walls network with first national lab - Stockholms universitet
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
@@ -62,13 +62,13 @@ _Updated: 2026-08-23 17:48_
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Svenskar som tjänar mycket använder AI mer - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
@@ -77,22 +77,22 @@ _Updated: 2026-08-23 17:48_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Vilken framtid arbetar du för? - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -101,21 +101,21 @@ _Updated: 2026-08-23 17:48_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
+- Magisterprogram i arbetsliv och hälsa - Umeå universitet
 
 ## Science
 
