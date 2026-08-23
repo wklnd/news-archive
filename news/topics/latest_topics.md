@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-24 00:55_
+_Updated: 2026-08-24 01:46_
 
 ## Top Stories
 
-- Liam Nebel häktas för skoldådet i Fagersta - Göteborgs-Posten
+- Misstänkt gärningsman i Fagersta häktad - UNT
 - DN Direkt – Tiotusentals demonstrerar för klimatet - Dagens Nyheter
 - Anklagas: Hon sprängde befäl i bombattack i Sevastopol - Aftonbladet
-- Åkesson upprepar: Ge inte stödröster till L - Västerbottens-Kuriren
-- Svenska EU-parlamentariker portas från Israel - SVT Nyheter
 - Exmannen: ”Jag var inte gift med ett monster” - Svenska Dagbladet
+- Svenska EU-parlamentariker portas från Israel - SVT Nyheter
+- Moas cancerdiagnos fördröjdes ett halvår efter vårdmiss: ”Chock” - Aftonbladet
 - Berg-och-dalbana fast på Liseberg – åkare evakueras - Göteborgs-Posten
-- Tomas Ramberg: Politikernas personangrepp framstår plötsligt som futtiga efter skoldådet i Fagersta - Dagens Nyheter
-- Pärs hus är fyllt av vatten - Expressen
+- Åsa Erlandsson: Mördarnas budskap har flyttat in bland barnen - Dagens Nyheter
 - Analys: SD kan vara på väg att lämna Tidöskeppet - Omni – Alla nyheter. Alla perspektiv.
-- Över 30 döda i jordskred i sophög i Conakry - SVT Nyheter
-- Zelenskyj avfärdar val: ”Skulle splittra” - Västerbottens-Kuriren
+- Pärs hus är fyllt av vatten - Expressen
+- DN Direkt – Över 30 döda i jordskred i sophög - Dagens Nyheter
 - Nya attacker mot Kiev – Frankrike lovar luftvärn - Göteborgs-Posten
+- Zelenskyj avfärdar val: ”Skulle splittra” - Västerbottens-Kuriren
 - Hackare stängde brittiskt kraftverk - Västerbottens-Kuriren
 - USA: ”Dåraktigt” att tro att Kanada kan vinna tullkrig - Omni – Alla nyheter. Alla perspektiv.
-- Jamie Olivers megautdelning: 92 procent av vinsten - Dagens PS
 - Matkris het potatis i ödesval - Dagens industri
 - Giftig räntecocktail kan slå mot svenska bolån - Dagens Nyheter
+- SEB: Räntebeskedet mer duvaktigt än väntat - Affärsvärlden
 - Den här långfilmen helt gjord med AI. Actionkomedi med London-rappare. - Feber
 - Kunderna ratar Fable 5 – väljer billigare alternativ - Omni – Alla nyheter. Alla perspektiv.
 
@@ -59,17 +59,17 @@ _Updated: 2026-08-24 00:55_
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
+- När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Svenskar som tjänar mycket använder AI mer - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
@@ -85,14 +85,14 @@ _Updated: 2026-08-24 00:55_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
