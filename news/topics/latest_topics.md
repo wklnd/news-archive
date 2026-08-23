@@ -1,57 +1,56 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-23 09:10_
+_Updated: 2026-08-23 09:56_
 
 ## Top Stories
 
 - Expert efter skoldådet: Techjättarna borde agera snabbare - Dagens Nyheter
 - En död efter misshandel i Mariestad - Aftonbladet
+- Gardermoen stängd – stora störningar i flygtrafiken - Västerbottens-Kuriren
 - Sveriges pensionärer ska få 2 000 kronor mer – men experten varnar - Dagens PS
 - Björn Wiman: I Sverige står Ulf Kristersson kvar med soppatorsk - Dagens Nyheter
-- ”Jag är inte en del av socialdemokratin” - Svenska Dagbladet
-- En misshandlad till döds i Mariestad - Göteborgs-Posten
-- Finansministern tonar ned inflationsvarningar - Sydsvenskan
+- Åskoväder drar in över Skåne - Sydsvenskan
 - Flera vattendrag torkar ut: ”Ser riktigt risigt ut” - Corren
-- Gardermoen stängd – stora störningar i flygtrafiken - Göteborgs-Posten
 - Lugnt läge under första dagen av flygdagarna - Polisen.se
+- SvD Morgonrapport: 17-årig flicka dödades i skolattacken - Svenska Dagbladet
+- 23 augusti 07.00, Sammanfattning kväll och natt, Västra Götalands län - Polisen.se
 - Nya attacker mot Kiev – Frankrike lovar luftvärn - Dagens Nyheter
 - Redan halva ransoner – nu stryps sista stödet i Sydsudan - Västerbottens-Kuriren
+- DN Direkt – Uppgifter: Hackare stängde brittiskt kraftverk - Dagens Nyheter
 - Iran varnar grannländerna för att hjälpa USA - Hufvudstadsbladet – HBL
-- DN Direkt – 37 skadade i jordskalv i Japan - Dagens Nyheter
 - Kanada: Ska matcha Trumps tullar ”dollar för dollar” - Omni – Alla nyheter. Alla perspektiv.
-- Fredagsmys efter tungsint vecka på Wall Street - Folkbladet
-- Anthropic går om OpenAI som hetaste startup – dessa aktier vinner och förlorar på det - Börskollen
-- Chefsekonomen om ränteoron: ”Uppenbart allt större problem” - EFN
-- GTA 6-hackaren CyberLeek går offline när Take-Two och Microsoft inleder rättsliga åtgärder - notebookcheck.se
-- Nintendo riktade in sig på 401 Switch-emulator-repositorier genom GitHubs regel om fork-nätverk - notebookcheck.se
+- Giftig räntecocktail kan slå mot svenska bolån - Dagens Nyheter
+- Alibaba gör rekordemission för fortsatt AI-satsning - Dagens industri
+- 14 miljonvinster på Lotto – Småland tog fem av dem - oskarshamns-nytt.se
+- I 30 år har en mystisk spökpartikel hemsökt fysiker – men nu har en lärare vid ett universitet gjort en upptäckt som kan förändra allt - Illustrerad Vetenskap
+- Turisterna tycker till om Finnveden: ”Totalt värdelöst skitställe” - Värnamo Nyheter
 
 ## World News
 
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Öppningsceremoni för WAN-IFRA 2026 International AI Forum: Att bygga en journalistisk miljö där människor bemästrar AI och skapa mervärde för allmänheten - Vietnam.vn
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Kuriren nominerad för satsning på unga läsare - Kuriren
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Reseskydd erbjuder hemresegaranti - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
 - Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
@@ -63,13 +62,14 @@ _Updated: 2026-08-23 09:10_
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
+- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Svenskar som tjänar mycket använder AI mer - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -119,14 +119,26 @@ _Updated: 2026-08-23 09:10_
 
 ## Science
 
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - AI för vetenskaplig forskning och upptäckter - OpenAI
+- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Forskningsutvärdering med kvalitet i fokus - Jönköping University
+- Olika slutsatser från samma data - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Citizen science: Inspiring examples of societal engagement for Horizon Europe - CORDIS | European Commission
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
 ## Jordbruk
 
