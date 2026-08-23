@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-24 00:56_
+_Updated: 2026-08-24 01:55_
 
-- Trump says Canada wants 'benefits' of being US state after trade talks collapse - BBC
+- Carney warned about economic coercion. Now Trump is testing the Canadian prime minister - AP News
+- Barrasso: Monday will be ‘D-Day for the economy in Iran’ - The Hill
 - Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals - The New York Times
-- Iran official says support for new sanctions would be an 'act of war,' and other Middle East news - AP News
 - Pete Buttigieg returns to first-in-the-nation South Carolina with a fresh appeal to Black voters - CNN
-- 'The MMR vaccine is not a lethal vaccine,' Mehmet Oz says - Politico
-- Hakeem Jeffries and Jared Kushner meet in NYC to discuss how Democrats and Trump could cooperate - NBC News
+- Sean Grayson, ex-deputy convicted of fatally shooting Sonya Massey, dies, attorney says - NBC News
+- Report: Jared Kushner and Democratic leader Jeffries meet with House control at stake in November - PBS
 - Lindsay Clancy’s murder trial has captured the nation’s attention. Here’s why. - NBC News
 - America’s Desert Metropolis Is on the Short List to Lose Water - The New York Times
-- Thousands in northwest Indiana still without power nearly two weeks after storm - NPR
-- He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him. - Yahoo
-- Holding election in wartime would risk destroying Ukraine, says Zelenskyy - The Guardian
-- A landslide at a landfill in the capital of Guinea kills 30 people, officials say - AP News
+- Sen. Scott calls Darline Graham 'real deal' after debate-stage gaffe - USA Today
+- Trump’s ICE pick is stuck in the Senate — and DHS officials are relieved - Politico
+- Landslide at waste mound in Guinea’s capital kills 30, government says - The Guardian
 - Kazakhstan votes in a parliamentary election expected to strengthen president’s grip on power - AP News
-- Ukraine war latest: Zelensky claims Putin drafting 300,000 troops to seize territory - The Independent
+- Wartime election would 'destroy' Ukraine, Zelenskiy says - Reuters
+- Scoop: Syria and Israel move to defuse tensions after airbase bombing - Axios
 - Treasury's recent moves in the bond and currency markets add up to 'soft-form financial repression' - Fortune
+- US Long Bonds Risk Deeper Selloff Without Clear Warsh Guidance - Bloomberg.com
+- Paramount, California AG to meet over possible settlement in $110B Warner Bros Discovery merger lawsuit - Fox Business
 - Bessent Has No Easy Fix for What’s Really Driving Bond Yields Up - Bloomberg.com
-- Trump Bought SpaceX, Palantir And More: What We Learned From Latest Stock Trades - Forbes
-- Hugging Face has been fielding M&A interest for a deal worth at least $13 billion - Business Insider
 - M6 iMac Coming This Year in New Colors - MacRumors
 - That Weird 'Other' Section in Apple Stores Is Reportedly Being Revamped for a New Line of Home Products - Gizmodo
