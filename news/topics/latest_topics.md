@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-23 07:02_
+_Updated: 2026-08-23 07:54_
 
 ## Top Stories
 
 - Expert efter skoldådet: Techjättarna borde agera snabbare - Dagens Nyheter
-- Gardermoen stängd – stora störningar i flygtrafiken - Västerbottens-Kuriren
-- Pensionsförslag får tummen ned: ”Bör vara försiktig” - Privata Affärer
 - ”Tänkte: jag kan säga precis vad fan jag vill” - Svenska Dagbladet
-- Flera skadade i jordskalv i Japan - TV4 Nyheterna
-- Nya attacker mot Kiev – Frankrike lovar luftvärn - Göteborgs-Posten
+- Vilket parti är bäst för dig som pensionär? Här är svaret - oskarshamns-nytt.se
+- Flera vattendrag torkar ut: ”Ser riktigt risigt ut” - Aftonbladet
+- Gardermoen stängd – stora störningar i flygtrafiken - Göteborgs-Posten
+- Flera döda efter bombning av köpcenter i Ukraina - Hufvudstadsbladet – HBL
+- Man död efter misshandel i Mariestad - SVT Nyheter
 - Cyklister och ”rebelltåg” till Stockholm för demonstration för klimatet - Dagens Nyheter
-- Rödgrön regering – en gris i säcken för väljarna - Affärsvärlden
 - Lugnt läge under första dagen av flygdagarna - polisen.se
-- DEBATT: Sverige måste börja bygga igen – för jobben och tillväxten - NSD
+- 23 augusti 07.00, Sammanfattning kväll och natt, Västra Götalands län - polisen.se
 - Iran varnar grannländerna för att hjälpa USA - Hufvudstadsbladet – HBL
-- Kina avvisar USA:s sanktioner mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Sju döda i kollision efter polisjakt - Aftonbladet
-- Nytt förbud i lyxorten: ”Odjur” - Expressen
+- Redan halva ransoner – nu stryps sista stödet i Sydsudan - Göteborgs-Posten
+- DN Direkt – Två döda och tolv saknade i migrantolycka - Dagens Nyheter
+- Sju döda i kollision efter polisjakt i England - SVT Nyheter
 - Tullkrig mellan USA och Kanada: ”Dollar för dollar” - Expressen
-- Saab visade upp obemannat stridsflygplan - Aftonbladet
-- Fredagsmys efter tungsint vecka på Wall Street - Västerbotten | Folkbladet
-- Chefsekonomen om ränteoron: ”Uppenbart allt större problem” - EFN
-- Nintendo riktade in sig på 401 Switch-emulator-repositorier genom GitHubs regel om fork-nätverk - notebookcheck.se
+- Fredagsmys efter tungsint vecka på Wall Street - Folkbladet
+- Anthropic går om OpenAI som hetaste startup – dessa aktier vinner och förlorar på det - Börskollen
+- S&P 500-index i fokus när obligationsvakter driver amerikanska räntor till 20-års högsta - Invezz
+- GTA 6-hackaren CyberLeek går offline när Take-Two och Microsoft inleder rättsliga åtgärder - notebookcheck.se
 - iQoo:s kompakta surfplatta förväntas lanseras i september tillsammans med iQoo 16 - notebookcheck.se
 
 ## World News
@@ -51,7 +51,6 @@ _Updated: 2026-08-23 07:02_
 ## Technology
 
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
 - Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
@@ -60,16 +59,17 @@ _Updated: 2026-08-23 07:02_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Svenskar som tjänar mycket använder AI mer - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -102,8 +102,8 @@ _Updated: 2026-08-23 07:02_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
@@ -112,8 +112,8 @@ _Updated: 2026-08-23 07:02_
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
@@ -122,21 +122,21 @@ _Updated: 2026-08-23 07:02_
 - Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Olika slutsatser från samma data - Läkartidningen
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
+- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
