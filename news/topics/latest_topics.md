@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-23 06:09_
+_Updated: 2026-08-23 07:02_
 
 ## Top Stories
 
-- Sorgen efter svärdattacken i Fagersta: ”Helt sjukt att något sådant kan hända” - Göteborgs-Posten
-- Vilket parti är bäst för dig som pensionär? Här är svaret - oskarshamns-nytt.se
-- Nya attacker mot Kiev – Frankrike lovar luftvärn - Dagens Nyheter
-- DN Direkt – 37 skadade i jordskalv i Japan - Dagens Nyheter
-- Iran varnar grannländerna för att hjälpa USA - Göteborgs-Posten
-- Flygplatsen kan stängas - Nya Wermlands-Tidningen
+- Expert efter skoldådet: Techjättarna borde agera snabbare - Dagens Nyheter
+- Gardermoen stängd – stora störningar i flygtrafiken - Västerbottens-Kuriren
+- Pensionsförslag får tummen ned: ”Bör vara försiktig” - Privata Affärer
+- ”Tänkte: jag kan säga precis vad fan jag vill” - Svenska Dagbladet
+- Flera skadade i jordskalv i Japan - TV4 Nyheterna
+- Nya attacker mot Kiev – Frankrike lovar luftvärn - Göteborgs-Posten
+- Cyklister och ”rebelltåg” till Stockholm för demonstration för klimatet - Dagens Nyheter
+- Rödgrön regering – en gris i säcken för väljarna - Affärsvärlden
 - Lugnt läge under första dagen av flygdagarna - polisen.se
 - DEBATT: Sverige måste börja bygga igen – för jobben och tillväxten - NSD
-- DEBATT: Fridlund (S): Vi vill framtidssäkra välfärden – med statsbidrag - Västerviks-Tidningen
-- Varningar för översvämningar förlängs - Göteborgs-Posten
-- Sju döda i kollision efter polisjakt i England - SVT Nyheter
-- Efter dödsfallen – guldgruva stängs - Västerbottens-Kuriren
-- Sydkoreanskt fartyg på ny tur via Arktis - Västerbottens-Kuriren
-- Trump tar ut ilskan på allierade: ”Har inga spärrar” - Dagens Nyheter
+- Iran varnar grannländerna för att hjälpa USA - Hufvudstadsbladet – HBL
+- Kina avvisar USA:s sanktioner mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Sju döda i kollision efter polisjakt - Aftonbladet
+- Nytt förbud i lyxorten: ”Odjur” - Expressen
 - Tullkrig mellan USA och Kanada: ”Dollar för dollar” - Expressen
 - Saab visade upp obemannat stridsflygplan - Aftonbladet
 - Fredagsmys efter tungsint vecka på Wall Street - Västerbotten | Folkbladet
-- Bessent och Trump glömmer USA:s verkliga valuta - Dagens industri
-- BBC avslöjar längden på Netflix Extended Look för GTA 6 efter att Rockstar bekräftat att det inte blir någon försening - notebookcheck.se
+- Chefsekonomen om ränteoron: ”Uppenbart allt större problem” - EFN
+- Nintendo riktade in sig på 401 Switch-emulator-repositorier genom GitHubs regel om fork-nätverk - notebookcheck.se
 - iQoo:s kompakta surfplatta förväntas lanseras i september tillsammans med iQoo 16 - notebookcheck.se
 
 ## World News
@@ -42,11 +42,11 @@ _Updated: 2026-08-23 06:09_
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Global Reseskydd erbjuder hemresegaranti - travelnews-se
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Resepriserna i Europa stiger trots global nedgång - travelnews-se
 
 ## Technology
 
@@ -56,20 +56,20 @@ _Updated: 2026-08-23 06:09_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Global tech report 2026 - kpmg.com
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
-- Vietnam värdar för WAN-IFRA:s internationella forum för artificiell intelligens (AI) år 2026 - Vietnam.vn
-- Lansering av institutet för robotik och artificiell intelligensforskning i Can Tho. - Vietnam.vn
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
 - Svenskar som tjänar mycket använder AI mer - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -78,7 +78,6 @@ _Updated: 2026-08-23 06:09_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Vilken framtid arbetar du för? - EY
@@ -92,6 +91,7 @@ _Updated: 2026-08-23 06:09_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
@@ -102,8 +102,8 @@ _Updated: 2026-08-23 06:09_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
-- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
@@ -112,8 +112,8 @@ _Updated: 2026-08-23 06:09_
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
