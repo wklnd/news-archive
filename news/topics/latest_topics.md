@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-23 23:46_
+_Updated: 2026-08-24 00:55_
 
 ## Top Stories
 
-- Felicitas, 17, förlorade sin vän i attacken: ”Hon hade så stora planer” - SVT Nyheter
+- Liam Nebel häktas för skoldådet i Fagersta - Göteborgs-Posten
 - DN Direkt – Tiotusentals demonstrerar för klimatet - Dagens Nyheter
-- Moas cancerdiagnos fördröjdes ett halvår efter vårdmiss: ”Chock” - Aftonbladet
-- Åkesson: Med tio dagar kvar ska alla sluta rösta på L - Göteborgs-Posten
-- Bad om hjälp – sen ströp hon sina tre barn - Svenska Dagbladet
-- Israel: Sjöstedt förbjuds resa in i landet - Västerbottens-Kuriren
+- Anklagas: Hon sprängde befäl i bombattack i Sevastopol - Aftonbladet
+- Åkesson upprepar: Ge inte stödröster till L - Västerbottens-Kuriren
+- Svenska EU-parlamentariker portas från Israel - SVT Nyheter
+- Exmannen: ”Jag var inte gift med ett monster” - Svenska Dagbladet
 - Berg-och-dalbana fast på Liseberg – åkare evakueras - Göteborgs-Posten
-- Åsa Erlandsson: Mördarnas budskap har flyttat in bland barnen - Dagens Nyheter
-- Åkesson: Avgörande att vi får ordning på demografin - Göteborgs-Posten
+- Tomas Ramberg: Politikernas personangrepp framstår plötsligt som futtiga efter skoldådet i Fagersta - Dagens Nyheter
 - Pärs hus är fyllt av vatten - Expressen
-- Över 30 döda i jordskred i sophög i Guinea - Sydsvenskan
+- Analys: SD kan vara på väg att lämna Tidöskeppet - Omni – Alla nyheter. Alla perspektiv.
+- Över 30 döda i jordskred i sophög i Conakry - SVT Nyheter
 - Zelenskyj avfärdar val: ”Skulle splittra” - Västerbottens-Kuriren
-- Ukraina anfölll Ozon-lager i Ryssland – andra natten i rad - Dagens Nyheter
+- Nya attacker mot Kiev – Frankrike lovar luftvärn - Göteborgs-Posten
 - Hackare stängde brittiskt kraftverk - Västerbottens-Kuriren
 - USA: ”Dåraktigt” att tro att Kanada kan vinna tullkrig - Omni – Alla nyheter. Alla perspektiv.
 - Jamie Olivers megautdelning: 92 procent av vinsten - Dagens PS
 - Matkris het potatis i ödesval - Dagens industri
 - Giftig räntecocktail kan slå mot svenska bolån - Dagens Nyheter
+- Den här långfilmen helt gjord med AI. Actionkomedi med London-rappare. - Feber
 - Kunderna ratar Fable 5 – väljer billigare alternativ - Omni – Alla nyheter. Alla perspektiv.
-- Den enda actionkamera du behöver – vi testar X6 från Insta 360 - Expressen
 
 ## World News
 
@@ -131,14 +131,14 @@ _Updated: 2026-08-23 23:46_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
 ## Jordbruk
 
@@ -159,6 +159,6 @@ _Updated: 2026-08-23 23:46_
 - Jord, kor och klimat - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Hellre plöjningsfri odling än ekologisk - Land.se
 - Han tror stenhårt på jordbruket - Land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
