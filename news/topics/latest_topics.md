@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-23 13:46_
+_Updated: 2026-08-23 15:10_
 
 ## Top Stories
 
-- Misstänkte 18-åringen har häktats för skoldådet i Fagersta - Dagens Nyheter
-- Tusentals väntas till klimatdemonstration - Göteborgs-Posten
-- Sveriges pensionärer ska få 2 000 kronor mer – men experten varnar - Dagens PS
+- Han misstänks för skoldådet på Brinellskolan - Göteborgs-Posten
+- Björn Wiman: I Sverige står Ulf Kristersson kvar med soppatorsk - Dagens Nyheter
+- Liam Nebel häktas för skoldådet i Fagersta - Göteborgs-Posten
 - Ukraina anfölll Ozon-lager i Ryssland – andra natten i rad - Dagens Nyheter
-- Fedorov bröt ett tabu genom att uppmana till val – men vem är han? - Dagens Nyheter
-- DN Direkt – Åkesson upprepar: Ge inte stödröster till L - Dagens Nyheter
-- Person död efter misshandel i Mariestad - SVT Nyheter
-- Gardermoen stängd – stora störningar i flygtrafiken - Corren
-- Piloten Magnus om sitt senaste uppdrag: "Man gör nytta" - Corren
+- Fiskare i fisklåda räddade till havs - Göteborgs-Posten
+- ”Migranter skickas genom tunnlar in i EU” - Svenska Dagbladet
+- Östgötatrafiken erkänner: "Skulle haft fler bussar" - Corren
+- Gardermoen öppnad – med stora störningar - Göteborgs-Posten
+- 15 fällda björnar i länet - Västerbottens-Kuriren
 - 23 augusti 12.45, Trafikkontroll, Norrbottens län - Polisen.se
-- Hackare stängde brittiskt kraftverk - Västerbottens-Kuriren
-- Iran varnar grannländerna för att hjälpa USA - Hufvudstadsbladet – HBL
-- Pappa lämnade sjuåring ensam på Fuji - Dagens Nyheter
-- Redan halva ransoner – nu stryps sista stödet i Sydsudan - Västerbottens-Kuriren
-- Kanada: Ska matcha Trumps tullar ”dollar för dollar” - Omni – Alla nyheter. Alla perspektiv.
+- Zelenskyj avfärdar val: ”Skulle splittra” - Västerbottens-Kuriren
+- DN Direkt – Uppgifter: Hackare stängde brittiskt kraftverk - Dagens Nyheter
+- Flera nordiska ledare på tvådagarsbesök i Kiev - Dagens Nyheter
+- Iran varnar grannländerna för att hjälpa USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Elbilens sparkalkyl spricker när krockskadan kostar 40 procent mer - Dagens PS
-- Alibaba gör rekordemission för fortsatt AI-satsning - Dagens industri
-- Sämre tågtrafik ger färre turister i övre Norrland - Göteborgs-Posten
-- Såg du ljusbandet på himlen igår? – här är förklaringen - Barometern-OT
+- Kanada: Ska matcha Trumps tullar ”dollar för dollar” - Omni – Alla nyheter. Alla perspektiv.
+- Liam Nebel häktas – misstänks för skolattacken - Expressen
+- Giftig räntecocktail kan slå mot svenska bolån - Dagens Nyheter
+- Kunderna ratar Fable 5 – väljer billigare alternativ - Omni – Alla nyheter. Alla perspektiv.
 - Vill få tillbaka pengar för tv – och få behålla apparaten - Ljusnan
 
 ## World News
@@ -50,7 +50,6 @@ _Updated: 2026-08-23 13:46_
 
 ## Technology
 
-- Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
 - Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
@@ -59,7 +58,7 @@ _Updated: 2026-08-23 13:46_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
+- När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -70,6 +69,7 @@ _Updated: 2026-08-23 13:46_
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
 
@@ -78,6 +78,7 @@ _Updated: 2026-08-23 13:46_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Vilken framtid arbetar du för? - EY
@@ -92,11 +93,9 @@ _Updated: 2026-08-23 13:46_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
-- Nyhetsbrev om hälsa och livsmedelssäkerhet - European Commission
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
@@ -116,6 +115,7 @@ _Updated: 2026-08-23 13:46_
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
+- Magisterprogram i arbetsliv och hälsa - Umeå universitet
 
 ## Science
 
