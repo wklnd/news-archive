@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-23 19:47_
+_Updated: 2026-08-23 20:57_
 
 ## Top Stories
 
-- Han misstänks för skoldådet på Brinellskolan - Göteborgs-Posten
-- Tiotusentals demonstrerar för klimatet: ”Härligt att inte vara ensam” - Dagens Nyheter
-- Evakueras från berg- och dalabana på Liseberg - Expressen
-- ”Massiva bränder” efter drönaranfall tusen kilometer bort - Hufvudstadsbladet – HBL
-- Nya dödliga israeliska attacker på Gazaremsan - Västerbottens-Kuriren
-- Barnfamiljer vandrar kors och tvärs bland majsen i Flackarp - Sydsvenskan
+- Åkesson: Med tio dagar kvar ska alla sluta rösta på L - Göteborgs-Posten
+- Kung Haralds hälsa försämrad - Västerbottens-Kuriren
+- Liam Nebel, 18, häktad för skolattacken i Fagersta - SVT Nyheter
+- DN Direkt – Tiotusentals demonstrerar för klimatet - Dagens Nyheter
+- Det vill Richard Jomshof göra som demokratiminister - Aftonbladet
+- Israel: Sjöstedt förbjuds resa in i landet - Göteborgs-Posten
+- Åsa Erlandsson: Mördarnas budskap har flyttat in bland barnen - Dagens Nyheter
+- Berg-och-dalbana fast på Liseberg – åkare evakueras - Göteborgs-Posten
 - För dem kan valkompassen avgöra valet - Göteborgs-Posten
-- Piloten om uppdraget: "Man gör nytta" - Corren
-- Köer på E4 efter olycka utanför Linghem - SVT Nyheter
-- 15 fällda björnar i länet - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – Fedorov: Zelenskyj måste svara på frågor om korruption - Dagens Nyheter
-- Hackare stängde brittiskt kraftverk - Västerbottens-Kuriren
-- Norskt löfte om nya miljarder till Ukraina - Göteborgs-Posten
+- Pärs hus är fyllt av vatten - Expressen
+- Zelenskyj avfärdar val: ”Skulle splittra” - Västerbottens-Kuriren
+- DN Direkt – Uppgifter: Hackare stängde brittiskt kraftverk - Dagens Nyheter
+- Nya attacker mot Kiev – Frankrike lovar luftvärn - Göteborgs-Posten
 - Redan halva ransoner – nu stryps sista stödet i Sydsudan - Västerbottens-Kuriren
 - USA: ”Dåraktigt” att tro att Kanada kan vinna tullkrig - Omni – Alla nyheter. Alla perspektiv.
 - Operativ 2028: Gripen får sitt längsta vapen – 500 kilometers räckvidd - Dagens PS
-- SEB: Räntebeskedet mer duvaktigt än väntat - Affärsvärlden
 - Giftig räntecocktail kan slå mot svenska bolån - Dagens Nyheter
+- Alibaba gör rekordemission för fortsatt AI-satsning - Dagens industri
 - Kunderna ratar Fable 5 – väljer billigare alternativ - Omni – Alla nyheter. Alla perspektiv.
 - Den enda actionkamera du behöver – vi testar X6 från Insta 360 - Expressen
 
@@ -35,8 +35,8 @@ _Updated: 2026-08-23 19:47_
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
@@ -44,7 +44,7 @@ _Updated: 2026-08-23 19:47_
 - Sweden joins global Falling Walls network with first national lab - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Global Reseskydd erbjuder hemresegaranti - travelnews-se
+- Resepriserna i Europa stiger trots global nedgång - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 
@@ -101,34 +101,44 @@ _Updated: 2026-08-23 19:47_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
-- Magisterprogram i arbetsliv och hälsa - Umeå universitet
 
 ## Science
 
+- Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
+- Activities for the public – Department of Earth Sciences - Uppsala universitet
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- AI för vetenskaplig forskning och upptäckter - OpenAI
+- Forskningsutvärdering med kvalitet i fokus - Jönköping University
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Olika slutsatser från samma data - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Täta band mellan turism och forskning på Svalbard - SLU
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Olika slutsatser från samma data - Läkartidningen
-- Vetenskapliga studier på lågkolhydratkost - Diet Doctor
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
