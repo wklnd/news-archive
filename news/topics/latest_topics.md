@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-23 20:57_
+_Updated: 2026-08-23 21:45_
 
 ## Top Stories
 
-- Åkesson: Med tio dagar kvar ska alla sluta rösta på L - Göteborgs-Posten
-- Kung Haralds hälsa försämrad - Västerbottens-Kuriren
-- Liam Nebel, 18, häktad för skolattacken i Fagersta - SVT Nyheter
+- Jimmie Åkesson (SD) pekar ut ödesdatum för Liberalerna - Göteborgs-Posten
+- Misstänkt gärningsman i Fagersta häktad - UNT
 - DN Direkt – Tiotusentals demonstrerar för klimatet - Dagens Nyheter
-- Det vill Richard Jomshof göra som demokratiminister - Aftonbladet
-- Israel: Sjöstedt förbjuds resa in i landet - Göteborgs-Posten
+- Israel: Sjöstedt förbjuds resa in i landet - Västerbottens-Kuriren
+- Moas cancerdiagnos fördröjdes ett halvår efter vårdmiss: ”Chock” - Aftonbladet
+- LEDARE: Islam är inte politik – låt Mohammed vara fri - HD
 - Åsa Erlandsson: Mördarnas budskap har flyttat in bland barnen - Dagens Nyheter
-- Berg-och-dalbana fast på Liseberg – åkare evakueras - Göteborgs-Posten
-- För dem kan valkompassen avgöra valet - Göteborgs-Posten
+- DN Direkt – Berg-och-dalbana fast på Liseberg - Dagens Nyheter
+- Åkesson: Avgörande att vi får ordning på demografin - Göteborgs-Posten
 - Pärs hus är fyllt av vatten - Expressen
+- Över 30 döda i jordskred i sophög i Conakry - Aftonbladet
 - Zelenskyj avfärdar val: ”Skulle splittra” - Västerbottens-Kuriren
 - DN Direkt – Uppgifter: Hackare stängde brittiskt kraftverk - Dagens Nyheter
 - Nya attacker mot Kiev – Frankrike lovar luftvärn - Göteborgs-Posten
-- Redan halva ransoner – nu stryps sista stödet i Sydsudan - Västerbottens-Kuriren
 - USA: ”Dåraktigt” att tro att Kanada kan vinna tullkrig - Omni – Alla nyheter. Alla perspektiv.
-- Operativ 2028: Gripen får sitt längsta vapen – 500 kilometers räckvidd - Dagens PS
 - Giftig räntecocktail kan slå mot svenska bolån - Dagens Nyheter
 - Alibaba gör rekordemission för fortsatt AI-satsning - Dagens industri
+- Fredagsmys efter tungsint vecka på Wall Street - Västerbotten | Folkbladet
 - Kunderna ratar Fable 5 – väljer billigare alternativ - Omni – Alla nyheter. Alla perspektiv.
 - Den enda actionkamera du behöver – vi testar X6 från Insta 360 - Expressen
 
 ## World News
 
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Sweden joins global Falling Walls network with first national lab - Stockholms universitet
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Resepriserna i Europa stiger trots global nedgång - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 
