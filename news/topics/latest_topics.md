@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-23 04:09_
+_Updated: 2026-08-23 05:29_
 
 ## Top Stories
 
 - Sorgen efter svärdattacken i Fagersta: ”Helt sjukt att något sådant kan hända” - Göteborgs-Posten
 - Nya attacker mot Kiev – Frankrike lovar luftvärn - Dagens Nyheter
+- Två omkomna och tolv saknade i migrantolycka - Göteborgs-Posten
 - Flygplatsen kan stängas - Nya Wermlands-Tidningen
 - Lugnt läge under första dagen av flygdagarna - polisen.se
-- Efter dödsfallen – guldgruva stängs - Västerbottens-Kuriren
-- Iran varnar grannländerna för att hjälpa USA - Göteborgs-Posten
+- Iran varnar grannländerna för att hjälpa USA - Västerbottens-Kuriren
 - DEBATT: Sverige måste börja bygga igen – för jobben och tillväxten - NSD
 - DEBATT: Fridlund (S): Vi vill framtidssäkra välfärden – med statsbidrag - Västerviks-Tidningen
 - Varningar för översvämningar förlängs - Göteborgs-Posten
-- 22 augusti 13.52, Trafikkontroll, Norrbottens län - polisen.se
-- Krigsdetektiver hittade pilot från andra världskriget – efter 86 år - Dagens Nyheter
-- Sju döda i kollision efter polisjakt i England - Sydsvenskan
+- Magdalena Andersson på plats i Fagersta – Senaste nytt om valet 2026 - SVT Nyheter
+- Sju döda i kollision efter polisjakt i England - SVT Nyheter
 - Trumps utspel: ”Vad ska jag göra? Bomba Iran lite till?” - Omni – Alla nyheter. Alla perspektiv.
 - Sydkoreanskt fartyg på ny tur via Arktis - Västerbottens-Kuriren
+- Magsjuka sprids på Rhodos: ”I stil med vinterkräksjuka” - Aftonbladet
 - Kanada: Ska matcha Trumps tullar ”dollar för dollar” - Omni – Alla nyheter. Alla perspektiv.
 - Saab visade upp obemannat stridsflygplan - Aftonbladet
-- Trumps märkliga räntesvar: ”Kan sätta in militären” - Dagens industri
 - Fredagsmys efter tungsint vecka på Wall Street - Folkbladet
+- Bessent och Trump glömmer USA:s verkliga valuta - Dagens industri
+- BBC avslöjar längden på Netflix Extended Look för GTA 6 efter att Rockstar bekräftat att det inte blir någon försening - notebookcheck.se
 - iQoo:s kompakta surfplatta förväntas lanseras i september tillsammans med iQoo 16 - notebookcheck.se
-- Windows 11-uppdatering får spel att krascha — Microsoft säger att RGB-enheter är orsaken - notebookcheck.se
 
 ## World News
 
@@ -44,9 +44,9 @@ _Updated: 2026-08-23 04:09_
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Global Reseskydd erbjuder hemresegaranti - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Resepriserna i Europa stiger trots global nedgång - travelnews-se
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
