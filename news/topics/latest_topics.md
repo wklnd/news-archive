@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-23 12:50_
+_Updated: 2026-08-23 13:46_
 
 ## Top Stories
 
-- Haaland har snaggat håret inför den nya säsongen - Omni – Alla nyheter. Alla perspektiv.
-- Expert efter skoldådet: Techjättarna borde agera snabbare - Dagens Nyheter
+- Misstänkte 18-åringen har häktats för skoldådet i Fagersta - Dagens Nyheter
 - Tusentals väntas till klimatdemonstration - Göteborgs-Posten
 - Sveriges pensionärer ska få 2 000 kronor mer – men experten varnar - Dagens PS
-- ”Migranter skickas genom tunnlar in i EU” - Svenska Dagbladet
-- Åskoväder drar in över Skåne – kan även bli hagel - Sydsvenskan
-- Piloten om uppdraget: "Man gör nytta" - Corren
-- Gardermoen stängd – stora störningar i flygtrafiken - Västerbottens-Kuriren
-- Flera vattendrag torkar ut: ”Ser riktigt risigt ut” - Dagens Nyheter
+- Ukraina anfölll Ozon-lager i Ryssland – andra natten i rad - Dagens Nyheter
+- Fedorov bröt ett tabu genom att uppmana till val – men vem är han? - Dagens Nyheter
+- DN Direkt – Åkesson upprepar: Ge inte stödröster till L - Dagens Nyheter
 - Person död efter misshandel i Mariestad - SVT Nyheter
-- Sanna Torén Björling: Utgå från att Ryssland skulle försöka störa ett val i Ukraina - Dagens Nyheter
-- Redan halva ransoner – nu stryps sista stödet i Sydsudan - Västerbottens-Kuriren
+- Gardermoen stängd – stora störningar i flygtrafiken - Corren
+- Piloten Magnus om sitt senaste uppdrag: "Man gör nytta" - Corren
+- 23 augusti 12.45, Trafikkontroll, Norrbottens län - Polisen.se
 - Hackare stängde brittiskt kraftverk - Västerbottens-Kuriren
-- Nya attacker mot Kiev – Frankrike lovar luftvärn - Göteborgs-Posten
+- Iran varnar grannländerna för att hjälpa USA - Hufvudstadsbladet – HBL
+- Pappa lämnade sjuåring ensam på Fuji - Dagens Nyheter
+- Redan halva ransoner – nu stryps sista stödet i Sydsudan - Västerbottens-Kuriren
 - Kanada: Ska matcha Trumps tullar ”dollar för dollar” - Omni – Alla nyheter. Alla perspektiv.
-- Nästan alla granskade rabatter var falska – nu får klädjätten böta - Dagens PS
+- Elbilens sparkalkyl spricker när krockskadan kostar 40 procent mer - Dagens PS
 - Alibaba gör rekordemission för fortsatt AI-satsning - Dagens industri
-- Minnesbristen slår mot Nvidia – tvingas till prishöjningar - EFN
-- I 30 år har en mystisk spökpartikel hemsökt fysiker – men nu har en lärare vid ett universitet gjort en upptäckt som kan förändra allt - Illustrerad Vetenskap
-- Onimusha Way of the Sword lanseras 4 september efter 20 år av seriens tystnad - Martin Cid Magazine
+- Sämre tågtrafik ger färre turister i övre Norrland - Göteborgs-Posten
+- Såg du ljusbandet på himlen igår? – här är förklaringen - Barometern-OT
+- Vill få tillbaka pengar för tv – och få behålla apparaten - Ljusnan
 
 ## World News
 
@@ -77,9 +77,7 @@ _Updated: 2026-08-23 12:50_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Vilken framtid arbetar du för? - EY
@@ -93,6 +91,8 @@ _Updated: 2026-08-23 12:50_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
