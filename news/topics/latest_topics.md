@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-23 15:10_
+_Updated: 2026-08-23 15:54_
 
 ## Top Stories
 
-- Han misstänks för skoldådet på Brinellskolan - Göteborgs-Posten
-- Björn Wiman: I Sverige står Ulf Kristersson kvar med soppatorsk - Dagens Nyheter
-- Liam Nebel häktas för skoldådet i Fagersta - Göteborgs-Posten
+- Liam Nebel, 18, häktad misstänkt för skoldådet i Fagersta - Dagens Nyheter
+- Gardermoen stängd – stora störningar i flygtrafiken - Corren
+- Fedorov bröt ett tabu genom att uppmana till val – men vem är han? - Dagens Nyheter
+- Stor klimataktion i Stockholm: ”Rekord” - Göteborgs-Posten
 - Ukraina anfölll Ozon-lager i Ryssland – andra natten i rad - Dagens Nyheter
-- Fiskare i fisklåda räddade till havs - Göteborgs-Posten
-- ”Migranter skickas genom tunnlar in i EU” - Svenska Dagbladet
-- Östgötatrafiken erkänner: "Skulle haft fler bussar" - Corren
-- Gardermoen öppnad – med stora störningar - Göteborgs-Posten
+- Föräldrar brister i kunskap om regler för elsparkcyklar - Dagens Nyheter
+- Piloten om uppdraget: "Man gör nytta" - Corren
 - 15 fällda björnar i länet - Västerbottens-Kuriren
 - 23 augusti 12.45, Trafikkontroll, Norrbottens län - Polisen.se
-- Zelenskyj avfärdar val: ”Skulle splittra” - Västerbottens-Kuriren
+- DN Direkt – Man död efter misshandel i Mariestad - Dagens Nyheter
 - DN Direkt – Uppgifter: Hackare stängde brittiskt kraftverk - Dagens Nyheter
 - Flera nordiska ledare på tvådagarsbesök i Kiev - Dagens Nyheter
 - Iran varnar grannländerna för att hjälpa USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Redan halva ransoner – nu stryps sista stödet i Sydsudan - Västerbottens-Kuriren
 - Elbilens sparkalkyl spricker när krockskadan kostar 40 procent mer - Dagens PS
 - Kanada: Ska matcha Trumps tullar ”dollar för dollar” - Omni – Alla nyheter. Alla perspektiv.
-- Liam Nebel häktas – misstänks för skolattacken - Expressen
 - Giftig räntecocktail kan slå mot svenska bolån - Dagens Nyheter
+- Turismen i övre Norrland hotas när nattågen blir färre - Börskollen
 - Kunderna ratar Fable 5 – väljer billigare alternativ - Omni – Alla nyheter. Alla perspektiv.
-- Vill få tillbaka pengar för tv – och få behålla apparaten - Ljusnan
+- GTA 6 hacker CyberLeek loses access to his accounts as Take-Two and Microsoft mount legal crackdown - notebookcheck.se
 
 ## World News
 
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Reseskydd erbjuder hemresegaranti - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Resepriserna i Europa stiger trots global nedgång - travelnews-se
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
@@ -62,13 +62,13 @@ _Updated: 2026-08-23 15:10_
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Svenskar som tjänar mycket använder AI mer - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
@@ -96,6 +96,7 @@ _Updated: 2026-08-23 15:10_
 
 ## Health
 
+- Nyhetsbrev om hälsa och livsmedelssäkerhet - European Commission
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
@@ -115,7 +116,6 @@ _Updated: 2026-08-23 15:10_
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
-- Magisterprogram i arbetsliv och hälsa - Umeå universitet
 
 ## Science
 
@@ -123,22 +123,22 @@ _Updated: 2026-08-23 15:10_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Olika slutsatser från samma data - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
+- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
