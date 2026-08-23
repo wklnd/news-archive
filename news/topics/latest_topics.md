@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-23 07:54_
+_Updated: 2026-08-23 09:10_
 
 ## Top Stories
 
 - Expert efter skoldådet: Techjättarna borde agera snabbare - Dagens Nyheter
-- ”Tänkte: jag kan säga precis vad fan jag vill” - Svenska Dagbladet
-- Vilket parti är bäst för dig som pensionär? Här är svaret - oskarshamns-nytt.se
-- Flera vattendrag torkar ut: ”Ser riktigt risigt ut” - Aftonbladet
+- En död efter misshandel i Mariestad - Aftonbladet
+- Sveriges pensionärer ska få 2 000 kronor mer – men experten varnar - Dagens PS
+- Björn Wiman: I Sverige står Ulf Kristersson kvar med soppatorsk - Dagens Nyheter
+- ”Jag är inte en del av socialdemokratin” - Svenska Dagbladet
+- En misshandlad till döds i Mariestad - Göteborgs-Posten
+- Finansministern tonar ned inflationsvarningar - Sydsvenskan
+- Flera vattendrag torkar ut: ”Ser riktigt risigt ut” - Corren
 - Gardermoen stängd – stora störningar i flygtrafiken - Göteborgs-Posten
-- Flera döda efter bombning av köpcenter i Ukraina - Hufvudstadsbladet – HBL
-- Man död efter misshandel i Mariestad - SVT Nyheter
-- Cyklister och ”rebelltåg” till Stockholm för demonstration för klimatet - Dagens Nyheter
-- Lugnt läge under första dagen av flygdagarna - polisen.se
-- 23 augusti 07.00, Sammanfattning kväll och natt, Västra Götalands län - polisen.se
+- Lugnt läge under första dagen av flygdagarna - Polisen.se
+- Nya attacker mot Kiev – Frankrike lovar luftvärn - Dagens Nyheter
+- Redan halva ransoner – nu stryps sista stödet i Sydsudan - Västerbottens-Kuriren
 - Iran varnar grannländerna för att hjälpa USA - Hufvudstadsbladet – HBL
-- Redan halva ransoner – nu stryps sista stödet i Sydsudan - Göteborgs-Posten
-- DN Direkt – Två döda och tolv saknade i migrantolycka - Dagens Nyheter
-- Sju döda i kollision efter polisjakt i England - SVT Nyheter
-- Tullkrig mellan USA och Kanada: ”Dollar för dollar” - Expressen
+- DN Direkt – 37 skadade i jordskalv i Japan - Dagens Nyheter
+- Kanada: Ska matcha Trumps tullar ”dollar för dollar” - Omni – Alla nyheter. Alla perspektiv.
 - Fredagsmys efter tungsint vecka på Wall Street - Folkbladet
 - Anthropic går om OpenAI som hetaste startup – dessa aktier vinner och förlorar på det - Börskollen
-- S&P 500-index i fokus när obligationsvakter driver amerikanska räntor till 20-års högsta - Invezz
+- Chefsekonomen om ränteoron: ”Uppenbart allt större problem” - EFN
 - GTA 6-hackaren CyberLeek går offline när Take-Two och Microsoft inleder rättsliga åtgärder - notebookcheck.se
-- iQoo:s kompakta surfplatta förväntas lanseras i september tillsammans med iQoo 16 - notebookcheck.se
+- Nintendo riktade in sig på 401 Switch-emulator-repositorier genom GitHubs regel om fork-nätverk - notebookcheck.se
 
 ## World News
 
@@ -44,13 +44,14 @@ _Updated: 2026-08-23 07:54_
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Reseskydd erbjuder hemresegaranti - travelnews-se
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 
 ## Technology
 
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
+- Behärska teknologi, upprätthålla journalistikens värderingar. - Vietnam.vn
 - Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
@@ -62,12 +63,11 @@ _Updated: 2026-08-23 07:54_
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Svenskar som tjänar mycket använder AI mer - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 
@@ -96,49 +96,37 @@ _Updated: 2026-08-23 07:54_
 
 ## Health
 
+- Nyhetsbrev om hälsa och livsmedelssäkerhet - European Commission
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Bac Ninh Industrial Zones Medical Center har till uppgift att tillhandahålla hälso- och sjukvård för arbetare. - Vietnam.vn
-- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
-- Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
-- Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- AI för vetenskaplig forskning och upptäckter - OpenAI
-- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Forskningsutvärdering med kvalitet i fokus - Jönköping University
-- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Täta band mellan turism och forskning på Svalbard - SLU
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Activities for the public – Department of Earth Sciences - Uppsala universitet
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Citizen science: Inspiring examples of societal engagement for Horizon Europe - CORDIS | European Commission
 
 ## Jordbruk
 
