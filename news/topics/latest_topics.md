@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-23 05:29_
+_Updated: 2026-08-23 06:09_
 
 ## Top Stories
 
 - Sorgen efter svärdattacken i Fagersta: ”Helt sjukt att något sådant kan hända” - Göteborgs-Posten
+- Vilket parti är bäst för dig som pensionär? Här är svaret - oskarshamns-nytt.se
 - Nya attacker mot Kiev – Frankrike lovar luftvärn - Dagens Nyheter
-- Två omkomna och tolv saknade i migrantolycka - Göteborgs-Posten
+- DN Direkt – 37 skadade i jordskalv i Japan - Dagens Nyheter
+- Iran varnar grannländerna för att hjälpa USA - Göteborgs-Posten
 - Flygplatsen kan stängas - Nya Wermlands-Tidningen
 - Lugnt läge under första dagen av flygdagarna - polisen.se
-- Iran varnar grannländerna för att hjälpa USA - Västerbottens-Kuriren
 - DEBATT: Sverige måste börja bygga igen – för jobben och tillväxten - NSD
 - DEBATT: Fridlund (S): Vi vill framtidssäkra välfärden – med statsbidrag - Västerviks-Tidningen
 - Varningar för översvämningar förlängs - Göteborgs-Posten
-- Magdalena Andersson på plats i Fagersta – Senaste nytt om valet 2026 - SVT Nyheter
 - Sju döda i kollision efter polisjakt i England - SVT Nyheter
-- Trumps utspel: ”Vad ska jag göra? Bomba Iran lite till?” - Omni – Alla nyheter. Alla perspektiv.
+- Efter dödsfallen – guldgruva stängs - Västerbottens-Kuriren
 - Sydkoreanskt fartyg på ny tur via Arktis - Västerbottens-Kuriren
-- Magsjuka sprids på Rhodos: ”I stil med vinterkräksjuka” - Aftonbladet
-- Kanada: Ska matcha Trumps tullar ”dollar för dollar” - Omni – Alla nyheter. Alla perspektiv.
+- Trump tar ut ilskan på allierade: ”Har inga spärrar” - Dagens Nyheter
+- Tullkrig mellan USA och Kanada: ”Dollar för dollar” - Expressen
 - Saab visade upp obemannat stridsflygplan - Aftonbladet
-- Fredagsmys efter tungsint vecka på Wall Street - Folkbladet
+- Fredagsmys efter tungsint vecka på Wall Street - Västerbotten | Folkbladet
 - Bessent och Trump glömmer USA:s verkliga valuta - Dagens industri
 - BBC avslöjar längden på Netflix Extended Look för GTA 6 efter att Rockstar bekräftat att det inte blir någon försening - notebookcheck.se
 - iQoo:s kompakta surfplatta förväntas lanseras i september tillsammans med iQoo 16 - notebookcheck.se
@@ -37,16 +37,16 @@ _Updated: 2026-08-23 05:29_
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Global Reseskydd erbjuder hemresegaranti - travelnews-se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Resepriserna i Europa stiger trots global nedgång - travelnews-se
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 
 ## Technology
 
@@ -56,20 +56,20 @@ _Updated: 2026-08-23 05:29_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- 290 million for digitalisation of Swedish industry - Vinnova
+- Global tech report 2026 - kpmg.com
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
-- AI hittar så många säkerhetsbrister i Windows att Microsoft inte hinner med - Computer Sweden
+- Vietnam värdar för WAN-IFRA:s internationella forum för artificiell intelligens (AI) år 2026 - Vietnam.vn
+- Lansering av institutet för robotik och artificiell intelligensforskning i Can Tho. - Vietnam.vn
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Svenskar som tjänar mycket använder AI mer - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
 
