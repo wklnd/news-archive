@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-23 15:54_
+_Updated: 2026-08-23 16:50_
 
 ## Top Stories
 
-- Liam Nebel, 18, häktad misstänkt för skoldådet i Fagersta - Dagens Nyheter
+- Han misstänks för skoldådet på Brinellskolan - Göteborgs-Posten
+- Tiotusentals demonstrerade för klimatet - Dagens Nyheter
 - Gardermoen stängd – stora störningar i flygtrafiken - Corren
-- Fedorov bröt ett tabu genom att uppmana till val – men vem är han? - Dagens Nyheter
-- Stor klimataktion i Stockholm: ”Rekord” - Göteborgs-Posten
 - Ukraina anfölll Ozon-lager i Ryssland – andra natten i rad - Dagens Nyheter
+- Nya dödliga israeliska attacker på Gazaremsan - Västerbottens-Kuriren
 - Föräldrar brister i kunskap om regler för elsparkcyklar - Dagens Nyheter
 - Piloten om uppdraget: "Man gör nytta" - Corren
-- 15 fällda björnar i länet - Västerbottens-Kuriren
-- 23 augusti 12.45, Trafikkontroll, Norrbottens län - Polisen.se
+- Björnjakten avlyst i två områden – 24 kvar att fälla - SVT Nyheter
 - DN Direkt – Man död efter misshandel i Mariestad - Dagens Nyheter
+- 23 augusti 12.45, Trafikkontroll, Norrbottens län - Polisen.se
+- Zelenskyj avfärdar val: ”Skulle splittra” - Västerbottens-Kuriren
 - DN Direkt – Uppgifter: Hackare stängde brittiskt kraftverk - Dagens Nyheter
 - Flera nordiska ledare på tvådagarsbesök i Kiev - Dagens Nyheter
-- Iran varnar grannländerna för att hjälpa USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Redan halva ransoner – nu stryps sista stödet i Sydsudan - Västerbottens-Kuriren
+- Iran varnar grannländerna för att hjälpa USA - Hufvudstadsbladet – HBL
 - Elbilens sparkalkyl spricker när krockskadan kostar 40 procent mer - Dagens PS
 - Kanada: Ska matcha Trumps tullar ”dollar för dollar” - Omni – Alla nyheter. Alla perspektiv.
 - Giftig räntecocktail kan slå mot svenska bolån - Dagens Nyheter
 - Turismen i övre Norrland hotas när nattågen blir färre - Börskollen
 - Kunderna ratar Fable 5 – väljer billigare alternativ - Omni – Alla nyheter. Alla perspektiv.
-- GTA 6 hacker CyberLeek loses access to his accounts as Take-Two and Microsoft mount legal crackdown - notebookcheck.se
+- ChatGPT kan nu logga din Mac-aktivitet i Europa, om du tillåter det - notebookcheck.se
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2026-08-23 15:54_
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Sweden joins global Falling Walls network with first national lab - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Global Reseskydd erbjuder hemresegaranti - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Resepriserna i Europa stiger trots global nedgång - travelnews-se
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 
 ## Technology
 
@@ -101,21 +101,21 @@ _Updated: 2026-08-23 15:54_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
@@ -159,6 +159,6 @@ _Updated: 2026-08-23 15:54_
 - Jord, kor och klimat - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Han tror stenhårt på jordbruket - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Han tror stenhårt på jordbruket - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
