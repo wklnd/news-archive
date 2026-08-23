@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-23 01:55_
+_Updated: 2026-08-23 04:12_
 
 - ‘Attacked’ by Trump on Trade, Canada Is ‘at War’ With U.S., Carney Says - The New York Times
-- Trump administration's 75-country visa ban was illegal, judge rules - NPR
 - Deleted tweets show Natalie Harp’s zealous support of Trump on January 6 - CNN
-- Iran says any country cooperating with new US sanctions will be ‘considered an enemy’ - The Times of Israel
-- Judge denies Karmelo Anthony's appeal for a new trial in killing of Austin Metcalf - CBS News
-- USS Abraham Lincoln Leaves the Middle East After Almost 7 Months - USNI News
+- Judge denies Karmelo Anthony's appeal for a new trial in killing of Austin Metcalf - CBS Texas - CBS News
+- Trump administration's 75-country visa ban was illegal, judge rules - NPR
+- Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty' - CNBC
+- Ten days after storm, thousands are still waiting for power in Indiana - The Washington Post
 - Tropical Storm Moke advances toward Hawaii as winds strengthen - AP News
-- Nancy Kassebaum Baker, former U.S. senator from Kansas, dies at 94 - CBS News
-- Trump Claims White House Ballroom Is Free For Taxpayers (Again)—Despite Other Evidence - Forbes
-- Missing NYC grandma Alisa Goods found dead in drainage ditch as surveillance footage captures her final moments - New York Post
-- Putin says Ukraine opened 'Pandora's box' with strikes on economic targets - Reuters
+- America's largest association of cattle ranchers says Trump's plan to lower beef prices is 'undermining' farmers - Business Insider
+- US Postal Service shares mail-in ballot restrictions despite court ruling - Al Jazeera
+- Democrats found their border message. ICE is another story. - Politico
 - European wildfires expose, detonate buried bombs and mines from past wars - CBS News
 - Russian and Ukrainian attacks kill 10 people, a day after deadly shopping mall drone strike - AP News
-- U.S.-Iran Live Updates: Iran declares it has won the war as U.S. turns to economic warfare - CBS News
+- Student killed in sword attack at a Swedish school was a 17-year-old girl - PBS
+- Iran warns nearby nations against joining US ‘economic war’ efforts - Al Jazeera
 - Robot horse and rider steal the spotlight at Chinese conference - BBC
-- Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit - CNBC
+- Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Reuters
+- Paramount and state AGs will head to negotiating table in WBD merger fight - CNN
 - After decades of free spending, Washington is facing some unpalatable choices - The Washington Post
-- Nvidia Customers Notified About AI-Related Price Hikes Above 15% - Bloomberg.com
-- AMD RDNA 4m Firmware Published For Linux Ahead Of Launch - Phoronix
-- Amazon Devices Are The Latest Casualties Of The Memory Shortage Price Hikes - Engadget
+- Top Stories: Apple Leaks - Camera-Equipped AirPods, Beats 360, and More - MacRumors
+- The Pixel 11 Pro is setting a dangerous precedent for Android upgrades - Android Authority
