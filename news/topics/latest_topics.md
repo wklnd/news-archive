@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-23 22:50_
+_Updated: 2026-08-23 23:46_
 
 ## Top Stories
 
-- Misstänkt gärningsman i Fagersta häktad - Västerbottens-Kuriren
+- Felicitas, 17, förlorade sin vän i attacken: ”Hon hade så stora planer” - SVT Nyheter
 - DN Direkt – Tiotusentals demonstrerar för klimatet - Dagens Nyheter
 - Moas cancerdiagnos fördröjdes ett halvår efter vårdmiss: ”Chock” - Aftonbladet
-- Svenska EU-parlamentariker portas från Israel - SVT Nyheter
-- Bad om hjälp – sen ströp hon sina tre barn - Svenska Dagbladet
 - Åkesson: Med tio dagar kvar ska alla sluta rösta på L - Göteborgs-Posten
-- Tomas Ramberg: Politikernas personangrepp framstår plötsligt som futtiga efter skoldådet i Fagersta - Dagens Nyheter
+- Bad om hjälp – sen ströp hon sina tre barn - Svenska Dagbladet
+- Israel: Sjöstedt förbjuds resa in i landet - Västerbottens-Kuriren
 - Berg-och-dalbana fast på Liseberg – åkare evakueras - Göteborgs-Posten
-- Åkesson oroas inte av bränderna i Europa - Göteborgs-Posten
+- Åsa Erlandsson: Mördarnas budskap har flyttat in bland barnen - Dagens Nyheter
 - Åkesson: Avgörande att vi får ordning på demografin - Göteborgs-Posten
-- Över 30 döda i jordskred i sophög i Conakry - SVT Nyheter
+- Pärs hus är fyllt av vatten - Expressen
+- Över 30 döda i jordskred i sophög i Guinea - Sydsvenskan
 - Zelenskyj avfärdar val: ”Skulle splittra” - Västerbottens-Kuriren
-- Nya attacker mot Kiev – Frankrike lovar luftvärn - Göteborgs-Posten
+- Ukraina anfölll Ozon-lager i Ryssland – andra natten i rad - Dagens Nyheter
 - Hackare stängde brittiskt kraftverk - Västerbottens-Kuriren
 - USA: ”Dåraktigt” att tro att Kanada kan vinna tullkrig - Omni – Alla nyheter. Alla perspektiv.
 - Jamie Olivers megautdelning: 92 procent av vinsten - Dagens PS
-- Larm om rökutveckling på flygplan - märsta.nu
 - Matkris het potatis i ödesval - Dagens industri
+- Giftig räntecocktail kan slå mot svenska bolån - Dagens Nyheter
 - Kunderna ratar Fable 5 – väljer billigare alternativ - Omni – Alla nyheter. Alla perspektiv.
 - Den enda actionkamera du behöver – vi testar X6 från Insta 360 - Expressen
 
@@ -30,46 +30,46 @@ _Updated: 2026-08-23 22:50_
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
-- Varför spelade Brad Dalke i BMW International Open 2026 på DP World Tour? - news.bet365.com
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Vad vinner man i BMW International Open 2026? Prispengar & rankingpoäng - news.bet365.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kuriren nominerad för satsning på unga läsare - Kuriren
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Sweden joins global Falling Walls network with first national lab - Stockholms universitet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
 - Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
-- När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Svenskar som tjänar mycket använder AI mer - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
