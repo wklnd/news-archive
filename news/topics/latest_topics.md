@@ -1,6 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-24 21:55_
+_Updated: 2026-08-24 22:59_
 
 ## Top Stories
 
@@ -8,20 +8,20 @@ _Updated: 2026-08-24 21:55_
 - USA hotar straffa länder som handlar med Iran: ”Skär av alla livlinor” - Dagens Nyheter
 - Mamman om misstänkte Brattåsmördaren: ”Han var ganska ensam, stackarn” - Aftonbladet
 - Dödliga attacker mellan Ryssland och Ukraina - Dagens Nyheter
-- Utrikesministern i Kiev: ”Fler måste göra mer” - Dagens Nyheter
-- Valaffischerna är uppe – här är den bästa platsen - Göteborgs-Posten
-- Motorcyklist död efter olycka med älg - SVT Nyheter
-- Här förtidsröstar du i Hässleholm: ”Det blir fler för varje val” - Norra Skåne
-- Håkan Boström: Det var inte Åkesson som dödade Liberalerna - Göteborgs-Posten
-- Insändare. SVT sviker oss som demonstrerar för att rädda klimatet - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Iran svartlistar 45 tankfartyg i Hormuzsundet - Dagens Nyheter
-- Peskov: Storbritannien förhindrar fred i Ukraina - Expressen
-- Gripen-plan har störtat i Ungern - SVT Nyheter
 - V tycks backa i regeringskrav – fäller inte S - Göteborgs-Posten
-- Giftig räntecocktail får marknaden att darra - Svenska Dagbladet
-- Misstaget i bostadsrättsföreningen kan chockhöja din avgift - Dagens PS
-- SSAB lyfter i tullkriget mellan USA och Kanada - Västerbottens-Kuriren
-- Blandad börs i USA – tech och energi faller: ”Rejält sänke” - EFN
+- Lägenhetsbrand på Rymdtorget i Bergsjön - Göteborgs-Posten
+- Motorcyklist död efter olycka med älg - SVT Nyheter
+- Här kan du förtidsrösta i Vara kommun - Nya Lidköpings-Tidningen
+- Försvunnen kvinna hittad avliden - SVT Nyheter
+- Håkan Boström: Det var inte Åkesson som dödade Liberalerna - Göteborgs-Posten
+- Utrikesministern: Andra kan göra mer för Ukraina - Göteborgs-Posten
+- Skidorten ”Lilla Norden” ledde partichefen rakt i fängelse - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Iran svartlistar 45 tankfartyg i Hormuzsundet - Dagens Nyheter
+- Gripen-plan har störtat i Ungern - SVT Nyheter
+- Nu får Chat GPT reklam: ”Unikt olustigt” - Svenska Dagbladet
+- Investerare spekulerar i indiskt socker – priset rusar till rekordnivå - Dagens PS
+- Tullar och tech fick börsen att vackla: ”Måste imponera” - EFN
+- Tjänstemän: USA:s finansdepartement kan använda jättekassa till obligationsköp - CNBC - Börsvärlden
 - Xiaomi lanserar tre nya XRING-chip för AI-ekosystem av Investing.com - Investing.com Sverige
 - ”Apples vikbara mobil kan ge marknaden en skjuts” - Omni – Alla nyheter. Alla perspektiv.
 
@@ -31,6 +31,7 @@ _Updated: 2026-08-24 21:55_
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Hel sport kan förändras helt - Expressen
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
@@ -40,7 +41,6 @@ _Updated: 2026-08-24 21:55_
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
@@ -58,9 +58,10 @@ _Updated: 2026-08-24 21:55_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
@@ -69,7 +70,6 @@ _Updated: 2026-08-24 21:55_
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -154,8 +154,8 @@ _Updated: 2026-08-24 21:55_
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Jord, kor och klimat - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
