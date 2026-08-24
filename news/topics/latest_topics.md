@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-24 16:10_
+_Updated: 2026-08-24 18:04_
 
 ## Top Stories
 
 - Ebba Busch i Fagersta: Här för att visa stöd - Göteborgs-Posten
-- Åkessons X-inlägg är Tidös dödsdom - Arbetet
-- Efter DNA-test – den döde mannen i Värnamo identifierad - SVT Nyheter
-- Dödliga attacker mellan Ryssland och Ukraina - Dagens Nyheter
+- Tomas Ramberg: Liberalerna har grävt sin egen grop - Dagens Nyheter
+- Ladugårdar i brand med öppna lågor i Asa vid Lammhult - Sveriges Radio
+- Lunds parkeringsbolag arbetsbefriar vd - SVT Nyheter
 - Fint väder i veckan – men sen kan sommaren vara slut - Omni – Alla nyheter. Alla perspektiv.
-- Misstänkte Brattåsmördaren tillbaka på mordplatsen – vägran - Expressen
+- Strid om t-banan ”mörkas” till efter valet - Svenska Dagbladet
 - Fler ungdomar får rösta: ”Könspolariserad grupp” - Göteborgs-Posten
+- Efter DNA-test – den döde mannen i Värnamo identifierad - SVT Nyheter
+- Diana från Karlstad i jätteprotest för klimatet - Nya Wermlands-Tidningen
 - Krönika: Valrörelsen börjar med väljarnas frågor - SVT Nyheter
-- Insändare. SVT sviker oss som demonstrerar för att rädda klimatet - Dagens Nyheter
-- Jättelikt isberg lossnade från Grönland - Göteborgs-Posten
-- Dödliga anfall när Ukraina firar självständighet - Göteborgs-Posten
+- USA hotar Iran med ekonomiskt krig – ”kollapsar” - Göteborgs-Posten
+- Dödliga anfall när Ukraina firar självständighet - Hufvudstadsbladet – HBL
 - Gripen-plan har störtat i Ungern - SVT Nyheter
-- Direkt – Kriget i Ukraina – Ryssland varnar för eskalering efter Burnhams besked - Dagens Nyheter
-- Två små flygplan i krock i Österrike - Göteborgs-Posten
+- EU lovar nytt miljardstöd till Ukrainas luftförsvar - Omni – Alla nyheter. Alla perspektiv.
+- Shein börsnoteras i Kina – värderingen rasar - Omni – Alla nyheter. Alla perspektiv.
 - SSAB lyfter i tullkriget mellan USA och Kanada - Västerbottens-Kuriren
-- Väljarna: Tidö-politik bäst för egna plånboken - Svenska Dagbladet
 - Nya trenden i USA: Stoppa husdjurens åldrande - Sydsvenskan
-- 100 000 svenskar sitter med aktien som skrotat sex av 16 miljardförvärv - Dagens PS
+- Vulkaner på havsbotten ska ge billigare el – så påverkas Sverige - Dagens PS
 - Förvånar forskare: Så lämnar katter hemliga meddelanden som vi inte har förstått tidigare - Illustrerad Vetenskap
 - ”Apples vikbara mobil kan ge marknaden en skjuts” - Omni – Alla nyheter. Alla perspektiv.
 
@@ -32,19 +32,19 @@ _Updated: 2026-08-24 16:10_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
@@ -65,11 +65,11 @@ _Updated: 2026-08-24 16:10_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
@@ -103,19 +103,19 @@ _Updated: 2026-08-24 16:10_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
-- Magisterprogram i arbetsliv och hälsa - Umeå universitet
 
 ## Science
 
