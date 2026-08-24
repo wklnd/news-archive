@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-24 05:31_
+_Updated: 2026-08-24 06:21_
 
 ## Top Stories
 
-- Misstänkt gärningsman i Fagersta häktad - Västerbottens-Kuriren
-- Anklagas: Hon sprängde befäl i bombattack i Sevastopol - Aftonbladet
+- Skolorna öppnar efter våldsdådet i Fagersta - Göteborgs-Posten
 - ”Massiva bränder” efter drönaranfall tusen kilometer bort - Hufvudstadsbladet – HBL
-- DN Direkt – Tiotusentals demonstrerar för klimatet - Dagens Nyheter
-- Åkessons gräns: Då ska man inte rösta på L - Göteborgs-Posten
-- JEANETTE WIDÉN: Nästa svenska flygsprång börjar på marken - NT
+- Anklagas: Hon sprängde befäl i bombattack i Sevastopol - Aftonbladet
+- Nova, 20, våldtogs av sin pappa som barn: ”Han kallade mig för sin flickvän” - Sydsvenskan
+- Oljepriserna faller nära 1 % inför nya USA-sanktioner mot Iran av Investing.com - Investing.com Sverige
+- DN Direkt – Åkesson upprepar: Ge inte stödröster till L - Dagens Nyheter
+- Stora prisskillnader för serveringstillstånd utan matkravet - Sveriges Radio
 - Analys: SD kan vara på väg att lämna Tidöskeppet - Omni – Alla nyheter. Alla perspektiv.
-- Pärs hus är fyllt av vatten - Expressen
-- Debatterar karensavdraget: ”Skäl att titta på” – Senaste nytt om valet 2026 - SVT Nyheter
-- 15 fällda björnar i länet - Västerbottens-Kuriren
-- Över 30 döda i jordskred i sophög i Conakry - Göteborgs-Posten
-- V-politiker portas från Israel: ”Av politiska skäl” - Dagens Nyheter
+- Björn Wiman: I Sverige står Ulf Kristersson kvar med soppatorsk - Dagens Nyheter
+- Varnar föräldrar: Unga berusar sig på handsprit - Nya Wermlands-Tidningen
+- Mossadchefen i möte med Syriens utrikesminister - Göteborgs-Posten
+- DN Direkt – Tolv döda när migrantbåt kapsejsade - Dagens Nyheter
 - EU fördömer Israels bosättarplan på Västbanken - Västerbottens-Kuriren
-- Hackare stängde brittiskt kraftverk - Västerbottens-Kuriren
+- Israel stoppar svenska EU-parlamentariker - SVT Nyheter
+- Så pressar du dina kostnader – superspararens knep - Dagens Nyheter
+- ChatGPT – numera med reklam - Sydsvenskan
+- USA:s statsskuld växer för snabbt: ”Ohållbar nivå” - Svenska Dagbladet
 - USA: ”Dåraktigt” att tro att Kanada kan vinna tullkrig - Omni – Alla nyheter. Alla perspektiv.
-- 150 kvadratmeter stort hus i Alingsås köpt för 5 100 000 kronor - Alingsås Tidning
-- Klart: Då börsnoteras Shein - Dagens industri
-- Teslastrejken – ett misslyckande, men inget misstag - Dagens Arena
 - Den här långfilmen helt gjord med AI. Actionkomedi med London-rappare. - Feber
 - Arga gamers stänger av sina Playstation i en vecka - MovieZine
 
@@ -35,15 +35,15 @@ _Updated: 2026-08-24 05:31_
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Sweden joins global Falling Walls network with first national lab - Stockholms universitet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
@@ -59,17 +59,17 @@ _Updated: 2026-08-24 05:31_
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Svenskar som tjänar mycket använder AI mer - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
 
