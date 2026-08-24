@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-24 18:04_
+_Updated: 2026-08-24 19:05_
 
 ## Top Stories
 
-- Ebba Busch i Fagersta: Här för att visa stöd - Göteborgs-Posten
+- Så jobbar gymnasieskolorna i Umeå för att stoppa attacker: ”Finns rutiner” - SVT Nyheter
 - Tomas Ramberg: Liberalerna har grävt sin egen grop - Dagens Nyheter
-- Ladugårdar i brand med öppna lågor i Asa vid Lammhult - Sveriges Radio
-- Lunds parkeringsbolag arbetsbefriar vd - SVT Nyheter
-- Fint väder i veckan – men sen kan sommaren vara slut - Omni – Alla nyheter. Alla perspektiv.
+- USA laddar för ekonomisk storslägga mot Iran – kräver hjälp av andra länder - Dagens Nyheter
 - Strid om t-banan ”mörkas” till efter valet - Svenska Dagbladet
-- Fler ungdomar får rösta: ”Könspolariserad grupp” - Göteborgs-Posten
-- Efter DNA-test – den döde mannen i Värnamo identifierad - SVT Nyheter
-- Diana från Karlstad i jätteprotest för klimatet - Nya Wermlands-Tidningen
-- Krönika: Valrörelsen börjar med väljarnas frågor - SVT Nyheter
-- USA hotar Iran med ekonomiskt krig – ”kollapsar” - Göteborgs-Posten
-- Dödliga anfall när Ukraina firar självständighet - Hufvudstadsbladet – HBL
-- Gripen-plan har störtat i Ungern - SVT Nyheter
+- Vagabonden i ödehuset i Värnamo identifierad - Göteborgs-Posten
+- Lunds parkeringsbolag arbetsbefriar vd - SVT Nyheter
+- Fler ungdomar får rösta: ”Könspolariserad grupp” - Svenska Dagbladet
+- Insändare. SVT sviker oss som demonstrerar för att rädda klimatet - Dagens Nyheter
+- Här avbryter misstänkte dubbelmördaren synen på brottsplatsen - SVT Nyheter
+- Här kan du förtidsrösta i Vara kommun - Nya Lidköpings-Tidningen
 - EU lovar nytt miljardstöd till Ukrainas luftförsvar - Omni – Alla nyheter. Alla perspektiv.
-- Shein börsnoteras i Kina – värderingen rasar - Omni – Alla nyheter. Alla perspektiv.
-- SSAB lyfter i tullkriget mellan USA och Kanada - Västerbottens-Kuriren
-- Nya trenden i USA: Stoppa husdjurens åldrande - Sydsvenskan
+- Gripen-plan har störtat i Ungern - SVT Nyheter
+- Ukraina firar sin självständighet – mitt under ett pågående krig - Försvarsmakten
+- Direkt – Krisen i Mellanöstern – Iran svartlistar 45 tankfartyg i Hormuzsundet - Dagens Nyheter
+- Nya trenden i USA: Stoppa husdjurens åldrande - Svenska Dagbladet
 - Vulkaner på havsbotten ska ge billigare el – så påverkas Sverige - Dagens PS
+- Tjänstemän: USA:s finansdepartement kan använda jättekassa till obligationsköp - CNBC - Börsvärlden
+- Plånboksfrågan dominerar valrörelsen - SEB Group
 - Förvånar forskare: Så lämnar katter hemliga meddelanden som vi inte har förstått tidigare - Illustrerad Vetenskap
 - ”Apples vikbara mobil kan ge marknaden en skjuts” - Omni – Alla nyheter. Alla perspektiv.
 
@@ -78,6 +78,7 @@ _Updated: 2026-08-24 18:04_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Vilken framtid arbetar du för? - EY
@@ -90,9 +91,8 @@ _Updated: 2026-08-24 18:04_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
