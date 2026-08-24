@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-24 19:05_
+_Updated: 2026-08-24 19:58_
 
 ## Top Stories
 
-- Så jobbar gymnasieskolorna i Umeå för att stoppa attacker: ”Finns rutiner” - SVT Nyheter
-- Tomas Ramberg: Liberalerna har grävt sin egen grop - Dagens Nyheter
-- USA laddar för ekonomisk storslägga mot Iran – kräver hjälp av andra länder - Dagens Nyheter
-- Strid om t-banan ”mörkas” till efter valet - Svenska Dagbladet
-- Vagabonden i ödehuset i Värnamo identifierad - Göteborgs-Posten
-- Lunds parkeringsbolag arbetsbefriar vd - SVT Nyheter
-- Fler ungdomar får rösta: ”Könspolariserad grupp” - Svenska Dagbladet
-- Insändare. SVT sviker oss som demonstrerar för att rädda klimatet - Dagens Nyheter
-- Här avbryter misstänkte dubbelmördaren synen på brottsplatsen - SVT Nyheter
+- DN Direkt – Norska hovet om kungens hälsa: Ingen förändring - Dagens Nyheter
+- Håkan Boström: Det var inte Åkesson som dödade Liberalerna - Göteborgs-Posten
+- USA: Ska strypa Irans ekonomi – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Utrikesministern besöker Ukraina - Västerbottens-Kuriren
+- Storbrand rasar i Småland – 13 enheter är på plats - Värnamo Nyheter
+- Student vid Försvarshögskolan planerade våldsdåd - Sveriges Radio
 - Här kan du förtidsrösta i Vara kommun - Nya Lidköpings-Tidningen
+- Fler ungdomar får rösta: ”Könspolariserad grupp” - Göteborgs-Posten
+- Stor klimatdemonstration i Stockholm: ”Rekord” - SVT Nyheter
+- DN Direkt – Norska hovet om kung Harald: Ingen förändring - Dagens Nyheter
 - EU lovar nytt miljardstöd till Ukrainas luftförsvar - Omni – Alla nyheter. Alla perspektiv.
-- Gripen-plan har störtat i Ungern - SVT Nyheter
-- Ukraina firar sin självständighet – mitt under ett pågående krig - Försvarsmakten
-- Direkt – Krisen i Mellanöstern – Iran svartlistar 45 tankfartyg i Hormuzsundet - Dagens Nyheter
-- Nya trenden i USA: Stoppa husdjurens åldrande - Svenska Dagbladet
-- Vulkaner på havsbotten ska ge billigare el – så påverkas Sverige - Dagens PS
+- Gripen-plan har störtat i Ungern - Göteborgs-Posten
+- Dödliga attacker mellan Ryssland och Ukraina - Dagens Nyheter
+- Emma Bouvin: En olycklig utveckling för ”Mellanösterns enda demokrati” - Dagens Nyheter
 - Tjänstemän: USA:s finansdepartement kan använda jättekassa till obligationsköp - CNBC - Börsvärlden
-- Plånboksfrågan dominerar valrörelsen - SEB Group
-- Förvånar forskare: Så lämnar katter hemliga meddelanden som vi inte har förstått tidigare - Illustrerad Vetenskap
+- Analytiker: Svensk export inget att vara stolt över - Omni – Alla nyheter. Alla perspektiv.
+- Misstaget i bostadsrättsföreningen kan chockhöja din avgift - Dagens PS
+- Vulkaner på havsbotten ska ge billigare el – så påverkas Sverige - Dagens PS
+- Xiaomi lanserar tre nya XRING-chip för AI-ekosystem av Investing.com - Investing.com Sverige
 - ”Apples vikbara mobil kan ge marknaden en skjuts” - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
@@ -111,23 +111,23 @@ _Updated: 2026-08-24 19:05_
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
 ## Science
 
-- Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
+- Över 2 000 projekt deltog i Student Science Research Award. - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
+- Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
