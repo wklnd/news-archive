@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-24 19:58_
+_Updated: 2026-08-24 21:09_
 
 ## Top Stories
 
-- DN Direkt – Norska hovet om kungens hälsa: Ingen förändring - Dagens Nyheter
-- Håkan Boström: Det var inte Åkesson som dödade Liberalerna - Göteborgs-Posten
-- USA: Ska strypa Irans ekonomi – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Utrikesministern besöker Ukraina - Västerbottens-Kuriren
-- Storbrand rasar i Småland – 13 enheter är på plats - Värnamo Nyheter
-- Student vid Försvarshögskolan planerade våldsdåd - Sveriges Radio
-- Här kan du förtidsrösta i Vara kommun - Nya Lidköpings-Tidningen
-- Fler ungdomar får rösta: ”Könspolariserad grupp” - Göteborgs-Posten
-- Stor klimatdemonstration i Stockholm: ”Rekord” - SVT Nyheter
-- DN Direkt – Norska hovet om kung Harald: Ingen förändring - Dagens Nyheter
-- EU lovar nytt miljardstöd till Ukrainas luftförsvar - Omni – Alla nyheter. Alla perspektiv.
-- Gripen-plan har störtat i Ungern - Göteborgs-Posten
+- Agerade efter skoldådet: "Har extra koll i korridorerna" - NT
+- USA hotar straffa länder som handlar med Iran: ”Skär av alla livlinor” - Dagens Nyheter
 - Dödliga attacker mellan Ryssland och Ukraina - Dagens Nyheter
-- Emma Bouvin: En olycklig utveckling för ”Mellanösterns enda demokrati” - Dagens Nyheter
+- Efter DNA-test – den döde mannen i Värnamo identifierad - SVT Nyheter
+- Utrikesministern i Kiev: ”Fler måste göra mer” - Dagens Nyheter
+- Lägenhetsbrand på Rymdtorget i Bergsjön - Göteborgs-Posten
+- Motorcyklist död efter olycka med älg - SVT Nyheter
+- Här kan du förtidsrösta i Vara kommun - Nya Lidköpings-Tidningen
+- V tycks backa i regeringskrav – fäller inte S - Västerbotten | Folkbladet
+- Insändare. SVT sviker oss som demonstrerar för att rädda klimatet - Dagens Nyheter
+- EU lovar miljarder till Ukraina på självständighetsdagen - Sveriges Radio
+- Direkt – Krisen i Mellanöstern – Iran svartlistar 45 tankfartyg i Hormuzsundet - Dagens Nyheter
+- Peskov: Storbritannien förhindrar fred i Ukraina - Expressen
+- Gripen-plan har störtat i Ungern - Göteborgs-Posten
 - Tjänstemän: USA:s finansdepartement kan använda jättekassa till obligationsköp - CNBC - Börsvärlden
-- Analytiker: Svensk export inget att vara stolt över - Omni – Alla nyheter. Alla perspektiv.
 - Misstaget i bostadsrättsföreningen kan chockhöja din avgift - Dagens PS
-- Vulkaner på havsbotten ska ge billigare el – så påverkas Sverige - Dagens PS
+- Nu får Chat GPT reklam: ”Unikt olustigt” - Svenska Dagbladet
+- SSAB lyfter i tullkriget mellan USA och Kanada - Västerbottens-Kuriren
 - Xiaomi lanserar tre nya XRING-chip för AI-ekosystem av Investing.com - Investing.com Sverige
 - ”Apples vikbara mobil kan ge marknaden en skjuts” - Omni – Alla nyheter. Alla perspektiv.
 
@@ -119,26 +119,14 @@ _Updated: 2026-08-24 19:58_
 
 ## Science
 
-- Över 2 000 projekt deltog i Student Science Research Award. - Vietnam.vn
-- Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Sherry Nakhaeizadeh - Uppsala universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Activities for the public – Department of Earth Sciences - Uppsala universitet
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Täta band mellan turism och forskning på Svalbard - SLU
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Citizen science: Inspiring examples of societal engagement for Horizon Europe - CORDIS | European Commission
 
 ## Jordbruk
 
