@@ -1,19 +1,19 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-24 07:11_
+_Updated: 2026-08-24 08:03_
 
 ## Top Stories
 
-- Skolorna öppnar efter våldsdådet i Fagersta - Göteborgs-Posten
+- DN Direkt – Skolorna i Fagersta öppnar efter våldsdådet - Dagens Nyheter
 - Svenska kändisar utnyttjas i politisk AI-propaganda: ”Det är förjävligt” - Dagens Nyheter
-- Anklagas: Hon sprängde befäl i bombattack i Sevastopol - Aftonbladet
-- Aktuella frågor NCC: ”Låt inte bristen på byggmaterial bromsa samhällsutvecklingen.” - Sydsvenskan
-- Efter incest i barndomen: ”Det påverkar varenda del av livet” - HD
+- Efter incest i barndomen: ”Det påverkar varenda del av livet” - Sydsvenskan
 - ”Massiva bränder” efter drönaranfall tusen kilometer bort - Hufvudstadsbladet – HBL
+- Anklagas: Hon sprängde befäl i bombattack i Sevastopol - Aftonbladet
+- Oljepriserna faller nära 1 % inför nya USA-sanktioner mot Iran av Investing.com - Investing.com Sverige
 - Stora prisskillnader för serveringstillstånd utan matkravet - Sveriges Radio
-- Jimmie Åkesson (SD) pekar ut ödesdatum för Liberalerna - Göteborgs-Posten
 - Varnar föräldrar: Unga berusar sig på handsprit - Nya Wermlands-Tidningen
-- Analys: SD kan vara på väg att lämna Tidöskeppet - Omni – Alla nyheter. Alla perspektiv.
+- Just nu: Ett körfält blockerat på grund av en stillastående personbil på E18 - UNT
+- Åkessons skarpa gräns för L: ”Tio dagar” - SVT Nyheter
 - Mossadchefen i möte med Syriens utrikesminister - Göteborgs-Posten
 - DN Direkt – Tolv döda när migrantbåt kapsejsade - Dagens Nyheter
 - Redan halva ransoner – nu stryps sista stödet i Sydsudan - Västerbottens-Kuriren
@@ -22,8 +22,8 @@ _Updated: 2026-08-24 07:11_
 - ChatGPT – numera med reklam - Sydsvenskan
 - Så pressar du dina kostnader – superspararens knep - Dagens Nyheter
 - Alibaba tar in 10,2 miljarder dollar för AI-satsningar - aktien faller - Börsvärlden
-- Den här långfilmen helt gjord med AI. Actionkomedi med London-rappare. - Feber
 - Läckor om Iphone 18 Pro och Max: Ny design, färger, och alla rykten - Macworld.se
+- Mercedes svenske vd om nya elbilen: ”Bästa V8 jag kört” - Carup.se
 
 ## World News
 
@@ -34,19 +34,19 @@ _Updated: 2026-08-24 07:11_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Resepriserna i Europa stiger trots global nedgång - travelnews-se
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 
 ## Technology
 
@@ -60,7 +60,6 @@ _Updated: 2026-08-24 07:11_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
-- När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -70,6 +69,7 @@ _Updated: 2026-08-24 07:11_
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
 
@@ -87,11 +87,11 @@ _Updated: 2026-08-24 07:11_
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
@@ -103,18 +103,18 @@ _Updated: 2026-08-24 07:11_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
 ## Science
