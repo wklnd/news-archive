@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-24 06:21_
+_Updated: 2026-08-24 07:11_
 
 ## Top Stories
 
 - Skolorna öppnar efter våldsdådet i Fagersta - Göteborgs-Posten
-- ”Massiva bränder” efter drönaranfall tusen kilometer bort - Hufvudstadsbladet – HBL
+- Svenska kändisar utnyttjas i politisk AI-propaganda: ”Det är förjävligt” - Dagens Nyheter
 - Anklagas: Hon sprängde befäl i bombattack i Sevastopol - Aftonbladet
-- Nova, 20, våldtogs av sin pappa som barn: ”Han kallade mig för sin flickvän” - Sydsvenskan
-- Oljepriserna faller nära 1 % inför nya USA-sanktioner mot Iran av Investing.com - Investing.com Sverige
-- DN Direkt – Åkesson upprepar: Ge inte stödröster till L - Dagens Nyheter
+- Aktuella frågor NCC: ”Låt inte bristen på byggmaterial bromsa samhällsutvecklingen.” - Sydsvenskan
+- Efter incest i barndomen: ”Det påverkar varenda del av livet” - HD
+- ”Massiva bränder” efter drönaranfall tusen kilometer bort - Hufvudstadsbladet – HBL
 - Stora prisskillnader för serveringstillstånd utan matkravet - Sveriges Radio
-- Analys: SD kan vara på väg att lämna Tidöskeppet - Omni – Alla nyheter. Alla perspektiv.
-- Björn Wiman: I Sverige står Ulf Kristersson kvar med soppatorsk - Dagens Nyheter
+- Jimmie Åkesson (SD) pekar ut ödesdatum för Liberalerna - Göteborgs-Posten
 - Varnar föräldrar: Unga berusar sig på handsprit - Nya Wermlands-Tidningen
+- Analys: SD kan vara på väg att lämna Tidöskeppet - Omni – Alla nyheter. Alla perspektiv.
 - Mossadchefen i möte med Syriens utrikesminister - Göteborgs-Posten
 - DN Direkt – Tolv döda när migrantbåt kapsejsade - Dagens Nyheter
-- EU fördömer Israels bosättarplan på Västbanken - Västerbottens-Kuriren
-- Israel stoppar svenska EU-parlamentariker - SVT Nyheter
-- Så pressar du dina kostnader – superspararens knep - Dagens Nyheter
-- ChatGPT – numera med reklam - Sydsvenskan
-- USA:s statsskuld växer för snabbt: ”Ohållbar nivå” - Svenska Dagbladet
+- Redan halva ransoner – nu stryps sista stödet i Sydsudan - Västerbottens-Kuriren
+- Över 30 döda i jordskred i sophög i Conakry - SVT Nyheter
 - USA: ”Dåraktigt” att tro att Kanada kan vinna tullkrig - Omni – Alla nyheter. Alla perspektiv.
+- ChatGPT – numera med reklam - Sydsvenskan
+- Så pressar du dina kostnader – superspararens knep - Dagens Nyheter
+- Alibaba tar in 10,2 miljarder dollar för AI-satsningar - aktien faller - Börsvärlden
 - Den här långfilmen helt gjord med AI. Actionkomedi med London-rappare. - Feber
-- Arga gamers stänger av sina Playstation i en vecka - MovieZine
+- Läckor om Iphone 18 Pro och Max: Ny design, färger, och alla rykten - Macworld.se
 
 ## World News
 
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Två fina priser till NTM i årets INMA Global Awards - ntm.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Resepriserna i Europa stiger trots global nedgång - travelnews-se
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
@@ -60,6 +60,7 @@ _Updated: 2026-08-24 06:21_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
+- När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -69,7 +70,6 @@ _Updated: 2026-08-24 06:21_
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
 
@@ -87,12 +87,12 @@ _Updated: 2026-08-24 06:21_
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
