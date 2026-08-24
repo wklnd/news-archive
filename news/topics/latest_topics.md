@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-24 15:30_
+_Updated: 2026-08-24 16:10_
 
 ## Top Stories
 
 - Ebba Busch i Fagersta: Här för att visa stöd - Göteborgs-Posten
-- Mohamsson om SD:s utspel: ”Förlorarmentalitet” - Dagens Nyheter
+- Åkessons X-inlägg är Tidös dödsdom - Arbetet
+- Efter DNA-test – den döde mannen i Värnamo identifierad - SVT Nyheter
+- Dödliga attacker mellan Ryssland och Ukraina - Dagens Nyheter
 - Fint väder i veckan – men sen kan sommaren vara slut - Omni – Alla nyheter. Alla perspektiv.
 - Misstänkte Brattåsmördaren tillbaka på mordplatsen – vägran - Expressen
-- Efter Lottas vildsvinskrock – nu får jägare skjuta i Surte och Bohus - Göteborgs-Posten
-- Lunds parkeringsbolag arbetsbefriar vd - SVT Nyheter
-- Patienter kan behöva nya hjärtan efter operationsmiss på Karolinska sjukhuset - SVT Nyheter
 - Fler ungdomar får rösta: ”Könspolariserad grupp” - Göteborgs-Posten
-- Den döde mannen i Värnamo identifierad - SVT Nyheter
 - Krönika: Valrörelsen börjar med väljarnas frågor - SVT Nyheter
-- Utrikesministern besöker Ukraina - Göteborgs-Posten
-- Gripen-plan har störtat i Ungern - NT
+- Insändare. SVT sviker oss som demonstrerar för att rädda klimatet - Dagens Nyheter
+- Jättelikt isberg lossnade från Grönland - Göteborgs-Posten
+- Dödliga anfall när Ukraina firar självständighet - Göteborgs-Posten
+- Gripen-plan har störtat i Ungern - SVT Nyheter
 - Direkt – Kriget i Ukraina – Ryssland varnar för eskalering efter Burnhams besked - Dagens Nyheter
-- DN Direkt – Två små flygplan i krock i Österrike - Dagens Nyheter
-- Nu lanseras reklam på Chat GPT - Omni – Alla nyheter. Alla perspektiv.
-- Så pressar du dina kostnader – superspararens knep - Dagens Nyheter
+- Två små flygplan i krock i Österrike - Göteborgs-Posten
 - SSAB lyfter i tullkriget mellan USA och Kanada - Västerbottens-Kuriren
+- Väljarna: Tidö-politik bäst för egna plånboken - Svenska Dagbladet
+- Nya trenden i USA: Stoppa husdjurens åldrande - Sydsvenskan
 - 100 000 svenskar sitter med aktien som skrotat sex av 16 miljardförvärv - Dagens PS
-- Nasas räddningsförsök misslyckades – teleskopet brinner upp - Ny Teknik
+- Förvånar forskare: Så lämnar katter hemliga meddelanden som vi inte har förstått tidigare - Illustrerad Vetenskap
 - ”Apples vikbara mobil kan ge marknaden en skjuts” - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
@@ -31,7 +31,6 @@ _Updated: 2026-08-24 15:30_
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -47,6 +46,7 @@ _Updated: 2026-08-24 15:30_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -103,7 +103,6 @@ _Updated: 2026-08-24 15:30_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
@@ -116,6 +115,7 @@ _Updated: 2026-08-24 15:30_
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
+- Magisterprogram i arbetsliv och hälsa - Umeå universitet
 
 ## Science
 
