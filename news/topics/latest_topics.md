@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-24 12:10_
+_Updated: 2026-08-24 13:02_
 
 ## Top Stories
 
-- Gripen-plan har störtat i Ungern - Svenska Dagbladet
-- Skolorna öppnar efter dådet: ”Surrealistisk känsla” - Göteborgs-Posten
+- Vagabonden i ödehuset i Värnamo identifierad - Göteborgs-Posten
 - Misstänkte Brattåsmördaren tillbaka på mordplatsen – vägran - Expressen
-- Regeringen tillsätter skoldådskommission - Västerbottens-Kuriren
-- Mohamsson: Utan L blir Åkesson inte minister - Västerbottens-Kuriren
+- Mohamsson om SD:s utspel: ”Förlorarmentalitet” - Dagens Nyheter
+- Så blir första skoldagen efter svärdattacken i Fagersta: ”Finns en vilja att träffas” - SVT Nyheter
+- Regeringen tillsätter skoldådskommission - Corren
 - Dödliga attacker mellan Ryssland och Ukraina - Dagens Nyheter
-- Man hittad död i Eksjö – kvinna misstänks för mord - Sveriges Radio
-- Professor i ansvarsfull AI utreds för AI-fusk - Dagens Nyheter
+- Fyra anhållna efter misstänkt mord i Mariestad - Västerbottens-Kuriren
+- Fler ungdomar får rösta: ”Könspolariserad grupp” - Göteborgs-Posten
 - Två svenskar gripna i Thailand – ska skickas till Sverige - Göteborgs-Posten
 - Svenska kändisar utnyttjas i politisk AI-propaganda: ”Det är förjävligt” - Dagens Nyheter
 - Utrikesministern besöker Ukraina - Göteborgs-Posten
+- Gripen-plan har störtat i Ungern - Svenska Dagbladet
 - DN Direkt – Två små flygplan i krock i Österrike - Dagens Nyheter
-- DN Direkt – Tolv döda när migrantbåt kapsejsade - Dagens Nyheter
-- Bil körde in i vägg i tunnel vid Essingeleden – passagerare smet från platsen - SVT Nyheter
+- Tolv döda när migrantbåt kapsejsade - Göteborgs-Posten
 - Nu lanseras reklam på Chat GPT - Omni – Alla nyheter. Alla perspektiv.
+- SSAB lyfter i tullkriget mellan USA och Kanada - Västerbottens-Kuriren
 - Så pressar du dina kostnader – superspararens knep - Dagens Nyheter
 - Nvidia höjer priserna på AI-servrar med över 15 procent - Computer Sweden
-- SSAB lyfter i tullkriget mellan USA och Kanada - Västerbottens-Kuriren
+- Nasas räddningsförsök misslyckades – teleskopet brinner upp - Ny Teknik
 - Apple uppges kapa – hundratals tjänster inom Siri och Vision Pro ska bort - Ny Teknik
-- Apple Music kräver AI-märkning — en tredjedel av nytt innehåll är redan AI-genererat - Martin Cid Magazine
 
 ## World News
 
@@ -37,10 +37,10 @@ _Updated: 2026-08-24 12:10_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
@@ -103,19 +103,19 @@ _Updated: 2026-08-24 12:10_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
+- Magisterprogram i arbetsliv och hälsa - Umeå universitet
 
 ## Science
 
