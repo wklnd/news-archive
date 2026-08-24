@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-24 08:03_
+_Updated: 2026-08-24 09:37_
 
 ## Top Stories
 
-- DN Direkt – Skolorna i Fagersta öppnar efter våldsdådet - Dagens Nyheter
+- Liam Nebel häktas för skoldådet i Fagersta - Göteborgs-Posten
+- C-ledaren lyfter – men tappar på högersidan - Svenska Dagbladet
+- Dödliga attacker mellan Ryssland och Ukraina - Dagens Nyheter
 - Svenska kändisar utnyttjas i politisk AI-propaganda: ”Det är förjävligt” - Dagens Nyheter
-- Efter incest i barndomen: ”Det påverkar varenda del av livet” - Sydsvenskan
-- ”Massiva bränder” efter drönaranfall tusen kilometer bort - Hufvudstadsbladet – HBL
-- Anklagas: Hon sprängde befäl i bombattack i Sevastopol - Aftonbladet
-- Oljepriserna faller nära 1 % inför nya USA-sanktioner mot Iran av Investing.com - Investing.com Sverige
-- Stora prisskillnader för serveringstillstånd utan matkravet - Sveriges Radio
-- Varnar föräldrar: Unga berusar sig på handsprit - Nya Wermlands-Tidningen
+- Aktuella frågor NCC: ”Låt inte bristen på byggmaterial bromsa samhällsutvecklingen.” - Sydsvenskan
+- Kvinna misstänks för mord i Mariannelund - Omni – Alla nyheter. Alla perspektiv.
+- Jimmie Åkesson (SD) pekar ut ödesdatum för Liberalerna - Göteborgs-Posten
 - Just nu: Ett körfält blockerat på grund av en stillastående personbil på E18 - UNT
-- Åkessons skarpa gräns för L: ”Tio dagar” - SVT Nyheter
-- Mossadchefen i möte med Syriens utrikesminister - Göteborgs-Posten
+- Varnar föräldrar: Unga berusar sig på handsprit - Nya Wermlands-Tidningen
+- Björn Wiman: I Sverige står Ulf Kristersson kvar med soppatorsk - Dagens Nyheter
 - DN Direkt – Tolv döda när migrantbåt kapsejsade - Dagens Nyheter
+- Mossadchefen i möte med Syriens utrikesminister - Göteborgs-Posten
 - Redan halva ransoner – nu stryps sista stödet i Sydsudan - Västerbottens-Kuriren
-- Över 30 döda i jordskred i sophög i Conakry - SVT Nyheter
-- USA: ”Dåraktigt” att tro att Kanada kan vinna tullkrig - Omni – Alla nyheter. Alla perspektiv.
-- ChatGPT – numera med reklam - Sydsvenskan
+- Över 30 döda i jordskred i sophög i Guinea - Sydsvenskan
+- Nu lanseras reklam på Chat GPT - Omni – Alla nyheter. Alla perspektiv.
+- USA inför Kanada-tullar efter misslyckade förhandlingar - Affärsvärlden
+- Nvidia pressas när kostnaden för AI stiger - Svenska Dagbladet
 - Så pressar du dina kostnader – superspararens knep - Dagens Nyheter
-- Alibaba tar in 10,2 miljarder dollar för AI-satsningar - aktien faller - Börsvärlden
-- Läckor om Iphone 18 Pro och Max: Ny design, färger, och alla rykten - Macworld.se
-- Mercedes svenske vd om nya elbilen: ”Bästa V8 jag kört” - Carup.se
+- Apple uppges kapa – hundratals tjänster inom Siri och Vision Pro ska bort - Ny Teknik
+- Apple Music kräver AI-märkning — en tredjedel av nytt innehåll är redan AI-genererat - Martin Cid Magazine
 
 ## World News
 
@@ -33,13 +33,13 @@ _Updated: 2026-08-24 08:03_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -60,16 +60,16 @@ _Updated: 2026-08-24 08:03_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
+- När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
 
@@ -109,12 +109,12 @@ _Updated: 2026-08-24 08:03_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
 ## Science
