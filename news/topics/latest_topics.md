@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-24 04:07_
+_Updated: 2026-08-24 05:31_
 
 ## Top Stories
 
-- Liam Nebel häktas för skoldådet i Fagersta - Göteborgs-Posten
+- Misstänkt gärningsman i Fagersta häktad - Västerbottens-Kuriren
 - Anklagas: Hon sprängde befäl i bombattack i Sevastopol - Aftonbladet
+- ”Massiva bränder” efter drönaranfall tusen kilometer bort - Hufvudstadsbladet – HBL
 - DN Direkt – Tiotusentals demonstrerar för klimatet - Dagens Nyheter
-- Åkessons skarpa gräns för L: ”Tio dagar” - SVT Nyheter
-- EU fördömer Israels bosättarplan på Västbanken - Västerbottens-Kuriren
-- Svenska EU-parlamentariker portas från Israel - SVT Nyheter
-- Tyst minut i Västerås efter Fagerstadådet - Sydsvenskan
+- Åkessons gräns: Då ska man inte rösta på L - Göteborgs-Posten
+- JEANETTE WIDÉN: Nästa svenska flygsprång börjar på marken - NT
 - Analys: SD kan vara på väg att lämna Tidöskeppet - Omni – Alla nyheter. Alla perspektiv.
 - Pärs hus är fyllt av vatten - Expressen
 - Debatterar karensavdraget: ”Skäl att titta på” – Senaste nytt om valet 2026 - SVT Nyheter
+- 15 fällda björnar i länet - Västerbottens-Kuriren
 - Över 30 döda i jordskred i sophög i Conakry - Göteborgs-Posten
-- ”Massiva bränder” efter drönaranfall tusen kilometer bort - Hufvudstadsbladet – HBL
+- V-politiker portas från Israel: ”Av politiska skäl” - Dagens Nyheter
+- EU fördömer Israels bosättarplan på Västbanken - Västerbottens-Kuriren
 - Hackare stängde brittiskt kraftverk - Västerbottens-Kuriren
-- Mossadchefen i möte med Syriens utrikesminister - Göteborgs-Posten
 - USA: ”Dåraktigt” att tro att Kanada kan vinna tullkrig - Omni – Alla nyheter. Alla perspektiv.
-- Matkris het potatis i ödesval - Dagens industri
-- SEB: Räntebeskedet mer duvaktigt än väntat - Affärsvärlden
+- 150 kvadratmeter stort hus i Alingsås köpt för 5 100 000 kronor - Alingsås Tidning
+- Klart: Då börsnoteras Shein - Dagens industri
 - Teslastrejken – ett misslyckande, men inget misstag - Dagens Arena
 - Den här långfilmen helt gjord med AI. Actionkomedi med London-rappare. - Feber
 - Arga gamers stänger av sina Playstation i en vecka - MovieZine
@@ -110,8 +110,8 @@ _Updated: 2026-08-24 04:07_
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
@@ -149,8 +149,8 @@ _Updated: 2026-08-24 04:07_
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - SLU
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
@@ -159,6 +159,6 @@ _Updated: 2026-08-24 04:07_
 - Jord, kor och klimat - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Han tror stenhårt på jordbruket - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Han tror stenhårt på jordbruket - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
