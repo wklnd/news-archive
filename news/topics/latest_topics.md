@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-24 13:54_
+_Updated: 2026-08-24 15:30_
 
 ## Top Stories
 
-- DN Direkt – Skolorna i Fagersta öppnar efter våldsdådet - Dagens Nyheter
-- Åkessons skarpa gräns för L: ”Tio dagar” - SVT Nyheter
+- Ebba Busch i Fagersta: Här för att visa stöd - Göteborgs-Posten
+- Mohamsson om SD:s utspel: ”Förlorarmentalitet” - Dagens Nyheter
+- Fint väder i veckan – men sen kan sommaren vara slut - Omni – Alla nyheter. Alla perspektiv.
 - Misstänkte Brattåsmördaren tillbaka på mordplatsen – vägran - Expressen
-- Dödliga attacker mellan Ryssland och Ukraina - Dagens Nyheter
-- Vagabonden i ödehuset i Värnamo identifierad - Göteborgs-Posten
-- Björn Wiman: I Sverige står Ulf Kristersson kvar med soppatorsk - Dagens Nyheter
+- Efter Lottas vildsvinskrock – nu får jägare skjuta i Surte och Bohus - Göteborgs-Posten
+- Lunds parkeringsbolag arbetsbefriar vd - SVT Nyheter
 - Patienter kan behöva nya hjärtan efter operationsmiss på Karolinska sjukhuset - SVT Nyheter
-- Fyra anhållna efter misstänkt mord i Mariestad - Västerbottens-Kuriren
 - Fler ungdomar får rösta: ”Könspolariserad grupp” - Göteborgs-Posten
-- Professor i ansvarsfull AI utreds för AI-fusk - Dagens Nyheter
+- Den döde mannen i Värnamo identifierad - SVT Nyheter
+- Krönika: Valrörelsen börjar med väljarnas frågor - SVT Nyheter
 - Utrikesministern besöker Ukraina - Göteborgs-Posten
-- Gripen-plan har störtat i Ungern - Skånska Dagbladet
+- Gripen-plan har störtat i Ungern - NT
+- Direkt – Kriget i Ukraina – Ryssland varnar för eskalering efter Burnhams besked - Dagens Nyheter
 - DN Direkt – Två små flygplan i krock i Österrike - Dagens Nyheter
-- Zelenskyj avfärdar val: ”Skulle splittra” - Västerbottens-Kuriren
-- SSAB lyfter i tullkriget mellan USA och Kanada - Västerbottens-Kuriren
 - Nu lanseras reklam på Chat GPT - Omni – Alla nyheter. Alla perspektiv.
 - Så pressar du dina kostnader – superspararens knep - Dagens Nyheter
-- Nvidia höjer priserna på AI-servrar med över 15 procent - Computer Sweden
+- SSAB lyfter i tullkriget mellan USA och Kanada - Västerbottens-Kuriren
+- 100 000 svenskar sitter med aktien som skrotat sex av 16 miljardförvärv - Dagens PS
 - Nasas räddningsförsök misslyckades – teleskopet brinner upp - Ny Teknik
 - ”Apples vikbara mobil kan ge marknaden en skjuts” - Omni – Alla nyheter. Alla perspektiv.
 
@@ -33,14 +33,14 @@ _Updated: 2026-08-24 13:54_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
@@ -51,18 +51,17 @@ _Updated: 2026-08-24 13:54_
 ## Technology
 
 - Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
-- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -70,6 +69,7 @@ _Updated: 2026-08-24 13:54_
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
@@ -103,19 +103,19 @@ _Updated: 2026-08-24 13:54_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
-- Magisterprogram i arbetsliv och hälsa - Umeå universitet
 
 ## Science
 
