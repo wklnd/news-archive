@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-24 22:59_
+_Updated: 2026-08-24 23:53_
 
 ## Top Stories
 
 - Agerade efter skoldådet: "Har extra koll i korridorerna" - NT
-- USA hotar straffa länder som handlar med Iran: ”Skär av alla livlinor” - Dagens Nyheter
+- USA:s nya hot: ”Klockan tickar” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Mamman om misstänkte Brattåsmördaren: ”Han var ganska ensam, stackarn” - Aftonbladet
-- Dödliga attacker mellan Ryssland och Ukraina - Dagens Nyheter
-- V tycks backa i regeringskrav – fäller inte S - Göteborgs-Posten
-- Lägenhetsbrand på Rymdtorget i Bergsjön - Göteborgs-Posten
+- Tornado i Frankrike – 26 skadade - Aftonbladet
+- Valaffischerna är uppe – här är den bästa platsen - Göteborgs-Posten
+- Vagabonden i ödehuset i Värnamo identifierad - Göteborgs-Posten
 - Motorcyklist död efter olycka med älg - SVT Nyheter
-- Här kan du förtidsrösta i Vara kommun - Nya Lidköpings-Tidningen
 - Försvunnen kvinna hittad avliden - SVT Nyheter
-- Håkan Boström: Det var inte Åkesson som dödade Liberalerna - Göteborgs-Posten
+- Här kan du förtidsrösta i Vara kommun - Nya Lidköpings-Tidningen
+- Insändare. SVT sviker oss som demonstrerar för att rädda klimatet - Dagens Nyheter
 - Utrikesministern: Andra kan göra mer för Ukraina - Göteborgs-Posten
 - Skidorten ”Lilla Norden” ledde partichefen rakt i fängelse - Dagens Nyheter
 - Direkt – Krisen i Mellanöstern – Iran svartlistar 45 tankfartyg i Hormuzsundet - Dagens Nyheter
-- Gripen-plan har störtat i Ungern - SVT Nyheter
-- Nu får Chat GPT reklam: ”Unikt olustigt” - Svenska Dagbladet
+- Dödliga attacker mellan Ryssland och Ukraina - Corren
 - Investerare spekulerar i indiskt socker – priset rusar till rekordnivå - Dagens PS
+- Nu får Chat GPT reklam: ”Unikt olustigt” - Svenska Dagbladet
 - Tullar och tech fick börsen att vackla: ”Måste imponera” - EFN
-- Tjänstemän: USA:s finansdepartement kan använda jättekassa till obligationsköp - CNBC - Börsvärlden
-- Xiaomi lanserar tre nya XRING-chip för AI-ekosystem av Investing.com - Investing.com Sverige
+- SSAB lyfter i tullkriget mellan USA och Kanada - Bohusläningen
 - ”Apples vikbara mobil kan ge marknaden en skjuts” - Omni – Alla nyheter. Alla perspektiv.
+- Xiaomi lanserar tre nya XRING-chip för AI-ekosystem av Investing.com - Investing.com Sverige
 
 ## World News
 
@@ -31,17 +31,17 @@ _Updated: 2026-08-24 22:59_
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Hel sport kan förändras helt - Expressen
+- Sporten kan nu förändras helt - Expressen
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -51,6 +51,7 @@ _Updated: 2026-08-24 22:59_
 ## Technology
 
 - Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
+- Ho Chi Minh-museet anordnade en specialiserad utbildningskonferens om "Tillämpning av artificiell intelligens (AI) i museiledning och drift". - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
@@ -61,13 +62,12 @@ _Updated: 2026-08-24 22:59_
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 
@@ -99,21 +99,21 @@ _Updated: 2026-08-24 22:59_
 - Nyhetsbrev om hälsa och livsmedelssäkerhet - European Commission
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
@@ -131,14 +131,14 @@ _Updated: 2026-08-24 22:59_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Vårddata för forskning – hinder och möjligheter - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
 ## Jordbruk
 
