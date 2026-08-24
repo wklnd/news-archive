@@ -1,57 +1,56 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-24 23:53_
+_Updated: 2026-08-25 00:59_
 
 ## Top Stories
 
-- Agerade efter skoldådet: "Har extra koll i korridorerna" - NT
-- USA:s nya hot: ”Klockan tickar” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Mamman om misstänkte Brattåsmördaren: ”Han var ganska ensam, stackarn” - Aftonbladet
-- Tornado i Frankrike – 26 skadade - Aftonbladet
+- Agerade efter skoldådet: "Har extra koll i korridorerna" - NT
+- USA: Vi skär av alla Irans ekonomiska livlinor - Göteborgs-Posten
+- Ukrainas nya mål efter Wildberries: Nästa ryska e-handelsjätte - Svenska Dagbladet
+- Utrikesministern i Kiev: ”Fler måste göra mer” - Dagens Nyheter
 - Valaffischerna är uppe – här är den bästa platsen - Göteborgs-Posten
-- Vagabonden i ödehuset i Värnamo identifierad - Göteborgs-Posten
 - Motorcyklist död efter olycka med älg - SVT Nyheter
 - Försvunnen kvinna hittad avliden - SVT Nyheter
-- Här kan du förtidsrösta i Vara kommun - Nya Lidköpings-Tidningen
+- Håkan Boström: Det var inte Åkesson som dödade Liberalerna - Göteborgs-Posten
 - Insändare. SVT sviker oss som demonstrerar för att rädda klimatet - Dagens Nyheter
-- Utrikesministern: Andra kan göra mer för Ukraina - Göteborgs-Posten
 - Skidorten ”Lilla Norden” ledde partichefen rakt i fängelse - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Iran svartlistar 45 tankfartyg i Hormuzsundet - Dagens Nyheter
-- Dödliga attacker mellan Ryssland och Ukraina - Corren
+- Gripen-plan har störtat i Ungern - Hufvudstadsbladet – HBL
+- Netanyahu: Iran försökte döda min son - Aftonbladet
+- Mc-förare död – krockade med älg - Expressen
 - Investerare spekulerar i indiskt socker – priset rusar till rekordnivå - Dagens PS
 - Nu får Chat GPT reklam: ”Unikt olustigt” - Svenska Dagbladet
 - Tullar och tech fick börsen att vackla: ”Måste imponera” - EFN
-- SSAB lyfter i tullkriget mellan USA och Kanada - Bohusläningen
+- Mestadels nedåt i Europa - Dagens industri
 - ”Apples vikbara mobil kan ge marknaden en skjuts” - Omni – Alla nyheter. Alla perspektiv.
 - Xiaomi lanserar tre nya XRING-chip för AI-ekosystem av Investing.com - Investing.com Sverige
 
 ## World News
 
-- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
+- Varför spelade Brad Dalke i BMW International Open 2026 på DP World Tour? - news.bet365.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Sporten kan nu förändras helt - Expressen
+- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Sporten kan nu förändras helt - Expressen
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
 - Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
-- Ho Chi Minh-museet anordnade en specialiserad utbildningskonferens om "Tillämpning av artificiell intelligens (AI) i museiledning och drift". - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
@@ -59,6 +58,7 @@ _Updated: 2026-08-24 23:53_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
@@ -99,21 +99,21 @@ _Updated: 2026-08-24 23:53_
 - Nyhetsbrev om hälsa och livsmedelssäkerhet - European Commission
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
@@ -154,8 +154,8 @@ _Updated: 2026-08-24 23:53_
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Jord, kor och klimat - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
