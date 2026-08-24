@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-24 21:09_
+_Updated: 2026-08-24 21:55_
 
 ## Top Stories
 
 - Agerade efter skoldådet: "Har extra koll i korridorerna" - NT
 - USA hotar straffa länder som handlar med Iran: ”Skär av alla livlinor” - Dagens Nyheter
+- Mamman om misstänkte Brattåsmördaren: ”Han var ganska ensam, stackarn” - Aftonbladet
 - Dödliga attacker mellan Ryssland och Ukraina - Dagens Nyheter
-- Efter DNA-test – den döde mannen i Värnamo identifierad - SVT Nyheter
 - Utrikesministern i Kiev: ”Fler måste göra mer” - Dagens Nyheter
-- Lägenhetsbrand på Rymdtorget i Bergsjön - Göteborgs-Posten
+- Valaffischerna är uppe – här är den bästa platsen - Göteborgs-Posten
 - Motorcyklist död efter olycka med älg - SVT Nyheter
-- Här kan du förtidsrösta i Vara kommun - Nya Lidköpings-Tidningen
-- V tycks backa i regeringskrav – fäller inte S - Västerbotten | Folkbladet
+- Här förtidsröstar du i Hässleholm: ”Det blir fler för varje val” - Norra Skåne
+- Håkan Boström: Det var inte Åkesson som dödade Liberalerna - Göteborgs-Posten
 - Insändare. SVT sviker oss som demonstrerar för att rädda klimatet - Dagens Nyheter
-- EU lovar miljarder till Ukraina på självständighetsdagen - Sveriges Radio
 - Direkt – Krisen i Mellanöstern – Iran svartlistar 45 tankfartyg i Hormuzsundet - Dagens Nyheter
 - Peskov: Storbritannien förhindrar fred i Ukraina - Expressen
-- Gripen-plan har störtat i Ungern - Göteborgs-Posten
-- Tjänstemän: USA:s finansdepartement kan använda jättekassa till obligationsköp - CNBC - Börsvärlden
+- Gripen-plan har störtat i Ungern - SVT Nyheter
+- V tycks backa i regeringskrav – fäller inte S - Göteborgs-Posten
+- Giftig räntecocktail får marknaden att darra - Svenska Dagbladet
 - Misstaget i bostadsrättsföreningen kan chockhöja din avgift - Dagens PS
-- Nu får Chat GPT reklam: ”Unikt olustigt” - Svenska Dagbladet
 - SSAB lyfter i tullkriget mellan USA och Kanada - Västerbottens-Kuriren
+- Blandad börs i USA – tech och energi faller: ”Rejält sänke” - EFN
 - Xiaomi lanserar tre nya XRING-chip för AI-ekosystem av Investing.com - Investing.com Sverige
 - ”Apples vikbara mobil kan ge marknaden en skjuts” - Omni – Alla nyheter. Alla perspektiv.
 
@@ -58,16 +58,16 @@ _Updated: 2026-08-24 21:09_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
-- När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
@@ -119,14 +119,26 @@ _Updated: 2026-08-24 21:09_
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Över 2 000 projekt deltog i Student Science Research Award. - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
 - AI för vetenskaplig forskning och upptäckter - OpenAI
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Sherry Nakhaeizadeh - Uppsala universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Olika slutsatser från samma data - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Täta band mellan turism och forskning på Svalbard - SLU
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Citizen science: Inspiring examples of societal engagement for Horizon Europe - CORDIS | European Commission
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
 ## Jordbruk
 
