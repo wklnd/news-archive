@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-24 09:37_
+_Updated: 2026-08-24 11:23_
 
 ## Top Stories
 
+- Gripen-plan har störtat i Ungern - Svenska Dagbladet
 - Liam Nebel häktas för skoldådet i Fagersta - Göteborgs-Posten
-- C-ledaren lyfter – men tappar på högersidan - Svenska Dagbladet
+- Rättegången om dubbelmordet flyttad till Brattås - Sveriges Radio
+- Regeringen tillsätter skoldådskommission - Västerbottens-Kuriren
+- Dadgostar (V) tappar i förtroende – Thand Ringqvist (C) ökar - Bulletin
 - Dödliga attacker mellan Ryssland och Ukraina - Dagens Nyheter
+- Man hittad död i Eksjö – kvinna misstänks för mord - Sveriges Radio
+- Professor i ansvarsfull AI utreds för AI-fusk - Dagens Nyheter
 - Svenska kändisar utnyttjas i politisk AI-propaganda: ”Det är förjävligt” - Dagens Nyheter
-- Aktuella frågor NCC: ”Låt inte bristen på byggmaterial bromsa samhällsutvecklingen.” - Sydsvenskan
-- Kvinna misstänks för mord i Mariannelund - Omni – Alla nyheter. Alla perspektiv.
-- Jimmie Åkesson (SD) pekar ut ödesdatum för Liberalerna - Göteborgs-Posten
-- Just nu: Ett körfält blockerat på grund av en stillastående personbil på E18 - UNT
-- Varnar föräldrar: Unga berusar sig på handsprit - Nya Wermlands-Tidningen
-- Björn Wiman: I Sverige står Ulf Kristersson kvar med soppatorsk - Dagens Nyheter
+- Mohamsson: Utan L blir Åkesson inte minister - Västerbottens-Kuriren
+- Två små flygplan i krock i Österrike - Sydsvenskan
 - DN Direkt – Tolv döda när migrantbåt kapsejsade - Dagens Nyheter
-- Mossadchefen i möte med Syriens utrikesminister - Göteborgs-Posten
-- Redan halva ransoner – nu stryps sista stödet i Sydsudan - Västerbottens-Kuriren
-- Över 30 döda i jordskred i sophög i Guinea - Sydsvenskan
+- Bil körde in i vägg i tunnel vid Essingeleden – passagerare smet från platsen - SVT Nyheter
+- Iran varnar grannländerna för att hjälpa USA - Hufvudstadsbladet – HBL
 - Nu lanseras reklam på Chat GPT - Omni – Alla nyheter. Alla perspektiv.
-- USA inför Kanada-tullar efter misslyckade förhandlingar - Affärsvärlden
-- Nvidia pressas när kostnaden för AI stiger - Svenska Dagbladet
+- Nvidia höjer priserna på AI-servrar med över 15 procent - Computer Sweden
+- SSAB lyfter i tullkriget mellan USA och Kanada - Västerbottens-Kuriren
 - Så pressar du dina kostnader – superspararens knep - Dagens Nyheter
 - Apple uppges kapa – hundratals tjänster inom Siri och Vision Pro ska bort - Ny Teknik
 - Apple Music kräver AI-märkning — en tredjedel av nytt innehåll är redan AI-genererat - Martin Cid Magazine
@@ -29,7 +29,6 @@ _Updated: 2026-08-24 09:37_
 
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
@@ -43,6 +42,7 @@ _Updated: 2026-08-24 09:37_
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
@@ -51,25 +51,20 @@ _Updated: 2026-08-24 09:37_
 ## Technology
 
 - Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- 290 million for digitalisation of Swedish industry - Vinnova
+- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
 
@@ -78,8 +73,8 @@ _Updated: 2026-08-24 09:37_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
