@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-24 18:14_
+_Updated: 2026-08-24 19:14_
 
-- Trump Live Updates: U.S. to Announce Iran Sanctions; Trump Issues New Canada Tariff Threat - The New York Times
-- Iran’s rial currency hits new record low as US prepares to announce more sanctions - AP News
+- Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight - Reuters
+- Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran - NPR
 - Watch Live: Lindsay Clancy trial testimony continues with prosecution rebuttal witnesses - CBS News
-- Fast-moving wildfire amid shifting winds threatens Reno, Nevada, forcing thousands to evacuate - NBC News
+- Hawk Fire: Sierra County evacuation warnings for destructive wildfire burning in Nevada - KCRA
+- European leaders mark Ukraine’s 35th Independence Day as Russian invasion pushes on - AP News
 - Secret White House bunker undercuts Trump’s ballroom lawsuit, ex-officials say - The Washington Post
-- Data centers’ ‘oh s--t’ moment - Politico
 - Big Apple targeted in lawsuit over Mamdani's government grocery store plans - Fox Business
-- Trump says communities that oppose data centers are "making a mistake" - Axios
-- Illinois officer convicted in Sonya Massey killing has died, lawyer says - The Washington Post
-- Suspect in murders of 5 found dead day after their bodies were discovered outside Portland, Oregon, police say - CBS News
-- Kremlin says British missile help for Ukraine 'adds fuel to the fire' - Reuters
-- South Korea says US cancelled joint marine drills over Iran war - Euronews.com
-- Ukraine news: UK PM Burnham arrives in Kyiv to show support - DW.com
+- Data centers’ ‘oh s--t’ moment - Politico
+- Trump Defends AI Data Centers—Says Opposing Them Is A ‘Mistake’ And ‘Smart Ones’ Want Them - Forbes
+- Former Illinois sheriff’s deputy who killed Sonya Massey in her home dies aged 32 - The Guardian
+- UK to help Ukraine build Storm Shadow long-range missiles: Why it matters - Al Jazeera
+- South Korea says US cancelled joint marine drills over force constraints from Iran war - Euronews.com
 - Putin Wants to Draft 300K New Troops, Zelensky Says - The Moscow Times
+- DR Congo and M23 rebels agree roadmap for peace talks - BBC
 - California AG Calls Off Paramount-Warner Bros. Meeting, Accusing Company of “Playing Games” - The Hollywood Reporter
-- FDA Approves Alzheimer’s Blood Test Developed by Roche and Eli Lilly - WSJ
 - Nvidia says Groq racks will be online this year following $20 billion purchase - CNBC
-- Nvidia and Warsh Will Test a Stock Market That’s in Mid-Rotation - Bloomberg
-- It Took Apple 8 Years to Listen to Me and Add This Killer Feature to the Apple TV - CNET
-- De-Googled GrapheneOS is coming to Motorola’s foldables next year - The Verge
+- FDA Approves Alzheimer’s Blood Test Developed by Roche and Eli Lilly - WSJ
+- Treasury Yields Fall, Gold Rises On Bessent's $1 Trillion Warning - Investor's Business Daily
+- Raspberry Pi shares its official tutorial for making a cyberdeck - The Verge
+- Google Pixel 11 Pro Bundle Hits Its Lowest Price on Amazon, With the Pixel Watch 5 Practically Thrown In - Gizmodo
