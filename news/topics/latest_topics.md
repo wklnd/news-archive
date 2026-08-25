@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-25 12:00_
+_Updated: 2026-08-25 13:00_
 
 ## Top Stories
 
 - JOHAN RUDSTRÖM: Nästa skoldåd måste kunna förhindras - UNT
 - Moderaterna vill avskaffa avgiften för förskola och fritids - SVT Nyheter
-- Unga nya på Tiktok möter våg av nazism och hat - Västerbottens-Kuriren
+- Två får angripna av varg i Vaggeryd - SVT Nyheter
+- Håkan Boström: Det var inte Åkesson som dödade Liberalerna - Göteborgs-Posten
 - Jättetonfisk såld för över 50 000 kronor - Göteborgs-Posten
-- Svärd som använts vid attacker säljs lagligt på nätet - Dagens Nyheter
-- S lovar fria busskort upp till gymnasiet - Göteborgs-Posten
+- Unga nya på Tiktok möter våg av nazism och hat - Västerbottens-Kuriren
 - Försvaret vill ta över ryskägd fastighet på Muskö - Göteborgs-Posten
 - I dag kommer hovrättsdomen om mordet på Gaboro - NT
-- Regeringen: Tuffare regler väntar elsparkcyklar - Västerbottens-Kuriren
 - Ettårig flicka dog – föräldrar inför rätta - Västerbottens-Kuriren
+- Varningslarmet SE-Alert testas i Stockholmsområdet och på Gotland - Krisinformation.se
 - Iran svarar på sanktionshoten: Helt förberedda – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Efter ayatollans död – hårdföra militärer ser ut att ta makten i Iran - Dagens Nyheter
 - Nya israeliska anfall mot Gaza: Barn döda - Corren
 - Tredje drönare hittad efter attackförsök i Leopzig - Hufvudstadsbladet – HBL
 - Nvidia visar korten efter AI-frossan – nya rekord väntas - Affärsvärlden
-- Kraftig tillväxt för Lego: ”Ser inget tak” - Dagens industri
-- Investerare spår noteringsbonanza på Wall Street - EFN
-- Amerikanska långräntor oroar - Aktiellt
+- AP7 ratar Musk igen – nobbar Space X - Dagens industri
+- Statsobligationsåterköp riskerar att försvaga dollarn, varnar Citadel av Investing.com - Investing.com Sverige
+- Vinstökning med 32 procent för Lego - Göteborgs-Posten
 - Leif såg mystiskt ljusfenomen: ”Vad fan var det där!” - Expressen
-- Uppgifter: Ny modell av Mac Mini släpps inom kort - Macworld.se
+- Australien stoppar AI-musik från topplistor - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
@@ -32,13 +32,13 @@ _Updated: 2026-08-25 12:00_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Sporten kan nu förändras helt - Expressen
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Sporten kan nu förändras helt - Expressen
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
@@ -50,23 +50,23 @@ _Updated: 2026-08-25 12:00_
 
 ## Technology
 
-- Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
+- SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
+- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
-- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Albanien utser AI-bot till minister - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
@@ -79,6 +79,7 @@ _Updated: 2026-08-25 12:00_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Vilken framtid arbetar du för? - EY
@@ -89,10 +90,9 @@ _Updated: 2026-08-25 12:00_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -154,8 +154,8 @@ _Updated: 2026-08-25 12:00_
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Jord, kor och klimat - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
