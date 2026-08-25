@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-25 13:00_
+_Updated: 2026-08-25 13:54_
 
 ## Top Stories
 
 - JOHAN RUDSTRÖM: Nästa skoldåd måste kunna förhindras - UNT
 - Moderaterna vill avskaffa avgiften för förskola och fritids - SVT Nyheter
-- Två får angripna av varg i Vaggeryd - SVT Nyheter
+- Får angripna av varg - Västerbottens-Kuriren
 - Håkan Boström: Det var inte Åkesson som dödade Liberalerna - Göteborgs-Posten
-- Jättetonfisk såld för över 50 000 kronor - Göteborgs-Posten
 - Unga nya på Tiktok möter våg av nazism och hat - Västerbottens-Kuriren
-- Försvaret vill ta över ryskägd fastighet på Muskö - Göteborgs-Posten
-- I dag kommer hovrättsdomen om mordet på Gaboro - NT
-- Ettårig flicka dog – föräldrar inför rätta - Västerbottens-Kuriren
 - Varningslarmet SE-Alert testas i Stockholmsområdet och på Gotland - Krisinformation.se
-- Iran svarar på sanktionshoten: Helt förberedda – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Jättetonfisk såld för över 50 000 kronor - Göteborgs-Posten
+- Mordet på Gaboro – Hovrätten fastställer livstidsdom - SVT Nyheter
+- Ettårig flicka dog – föräldrar inför rätta - Västerbottens-Kuriren
+- Svärd som använts vid attacker säljs lagligt på nätet - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Israelisk politiker slog sönder monument med slägga - Dagens Nyheter
 - Efter ayatollans död – hårdföra militärer ser ut att ta makten i Iran - Dagens Nyheter
 - Nya israeliska anfall mot Gaza: Barn döda - Corren
-- Tredje drönare hittad efter attackförsök i Leopzig - Hufvudstadsbladet – HBL
+- Iran svarar på sanktionshoten: Helt förberedda – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Källor: Bessent redo agera hårdare om räntorna fortsätter stiga - EFN
 - Nvidia visar korten efter AI-frossan – nya rekord väntas - Affärsvärlden
-- AP7 ratar Musk igen – nobbar Space X - Dagens industri
-- Statsobligationsåterköp riskerar att försvaga dollarn, varnar Citadel av Investing.com - Investing.com Sverige
-- Vinstökning med 32 procent för Lego - Göteborgs-Posten
-- Leif såg mystiskt ljusfenomen: ”Vad fan var det där!” - Expressen
+- Sjunde AP-fonden sa nej till Elon Musks Space X - Sveriges Radio
+- Kraftig tillväxt för Lego: ”Ser inget tak” - Dagens industri
+- Jennie, 46, i Bjärnum såg mystiskt rymdljus – förklaringen - Norra Skåne
 - Australien stoppar AI-musik från topplistor - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
@@ -32,13 +32,13 @@ _Updated: 2026-08-25 13:00_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Sporten kan nu förändras helt - Expressen
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Sporten kan nu förändras helt - Expressen
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
