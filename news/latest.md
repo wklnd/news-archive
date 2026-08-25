@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-25 23:58_
+_Updated: 2026-08-26 01:01_
 
 - Dolly Parton, country music icon, dies at 80 - NBC News
 - Canada slaps retaliatory tariffs on US goods worth $20 billion as trade war intensifies - Reuters
 - CIA chief travels to Moscow for unannounced talks, US media reports - BBC
-- Trump says U.S. could rename Lake Ontario as Lake America amid Canada trade war - The Washington Post
-- Lindsay Clancy trial testimony nears end as prosecution calls final rebuttal witness - CBS News
-- South Carolina Election Becomes Test for Trump - The New York Times
-- SpaceX unveils Starbase launch site in Louisiana, moves up orbital data center launch timeline - Yahoo Finance
-- What’s More Than ‘Maximum’? Trump Faces Limits on Iran Sanctions. - The New York Times
-- Exclusive: Justice Department considers bringing charges against ICE officer in Minneapolis shooting - CNN
-- Democratic governors react to Supreme Court ruling on mail-in voting: ‘States run elections, not Donald Trump’ - The Hill
+- Kennedy Center finances deteriorated sharply after Trump name change - The Washington Post
+- What We Know About the Trial of Lindsay Clancy for Her Children’s Deaths - The New York Times
+- Trump mulls renaming Lake Ontario as ‘Lake America.’ Canadians balk at the idea - AP News
+- ‘Purely just up to Iran’: Bessent’s D-Day unlikely to end war, calm energy markets - Politico
+- Court halts Ohio proof-of-citizenship requirement at motor vehicle offices - The Washington Post
+- Trump administration violated court order on mail-voting rules, judge says - Axios
+- She Was Absolved of a Heinous Crime. Why Won’t They Leave Her Alone? - The New York Times
+- Exclusive | Trump Sends Nuclear Agreement With Saudi Arabia to Congress - WSJ
 - Former senior Russian official warns "unknown sources" could attack U.K. factories making drones for Ukraine - CBS News
+- Dragon Ball Z theme park gets $7 billion green light - CNBC
 - PM hails finding of Irgun arms ship Altalena, denounces Ben-Gurion for attacking it in 1948 - The Times of Israel
-- Ukraine is targeting Russia’s retail giants. Ozon is the next economic pressure point - CNBC
-- Iran and Oman hold talks on managing the Strait of Hormuz and other news from around the Middle East - AP News
-- Nvidia shares set for $280 billion price swing after earnings, options show - Reuters
-- Target apologises for 'offensive' children Halloween costume after backlash - BBC
-- United adds 10 new international destinations in massive 13-route global expansion - The Points Guy
+- Starbase Louisiana: SpaceX announces enormous $100 billion Starbase launch site - Space
+- Louis Navellier has blunt message on Nvidia’s reign before earnings - thestreet.com
 - Dick's Sporting Goods stock plunges as retailer warns athleticwear demand is weakening - Fox Business
+- Instagram head expected to testify in Meta trial - Good Morning America
 - Memory and Storage Configurations and Pricing for the New Mac Minis (M6/M5 Pro) and Mac Studios (M5 Max/M5 Ultra) - Daring Fireball
-- The Witcher 3 is getting a remaster - The Verge
+- Geralt Returns in The Witcher 3: Wild Hunt — Songs of the Past and Remastered - XBOX Wire
