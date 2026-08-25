@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-26 00:58_
+_Updated: 2026-08-26 01:49_
 
 ## Top Stories
 
 - Allvarligt men stabilt läge för skoloffren - Göteborgs-Posten
 - ”Låter osannolikt att Fjällräven har ett case” - Svenska Dagbladet
+- Lastbil och personbil i frontalkrock på riksväg 55 - SVT Nyheter
+- USA hotar att krossa Iran – experten tvekar - Svenska Dagbladet
 - Tomas Ramberg: Moderaterna kastar fram gammal S-politik - Dagens Nyheter
-- Mohamsson om Åkesson: Inget jättebra snack - Göteborgs-Posten
-- Mördade Gaboro – får livstids fängelse - Expressen
-- Mannen som gav upp intog scenen - Aftonbladet
+- Vita prickar på rad på natthimlen – här är förklaringen - Sydsvenskan
 - Högsta stödet för L sedan SD-sväng - Västerbottens-Kuriren
 - Långa köer efter bilbrand på E4 Uppsalavägen - Sveriges Radio
 - DEBATT: Replik: Vi vill minska antalet regionala politiker - Gefle Dagblad
 - Misstänks för brutala mordet på äldre par – 21 år efter dådet - News55
 - Direkt – Krisen i Mellanöstern – Oman och Iran i samtal om ny farled i Hormuzsundet - Dagens Nyheter
 - Fredsrådet till Israel och Hamas: Följ vapenvilan - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Journalister attackerades av israeliska bosättare - Dagens Nyheter
 - Rättegång mot Abu Agila Masud skjuts upp – misstänks för Lockerbiebomb - Sveriges Radio
-- Efter USA:s D-dagsbesked: Kina värnar egna intressen - Västerbottens-Kuriren
-- Kanada svarar USA med tullar – Trump hotar med namnbyte på Ontariosjön - Sveriges Radio
+- Ingmar Nevéus: Kanadas Mark Carney visar världen hur man kan hantera Trump - Dagens Nyheter
 - ÖPPNAR UPPÅT MED HALVLEDARE I TÄTEN, S&P 500 +0,3% - Placera.se
 - Börsen klättrar med verkstad i täten – oljepriset sjunker - Affärsvärlden
-- Blandad utveckling på Asienbörserna - EFN
-- Vita prickar på rad på natthimlen – här är förklaringen - Sydsvenskan
+- Blykalla lämnar in sin andra ansökan om SMR-park - ENERGInyheter.se
 - Apple lanserar nya Mac mini och Mac Studio med kraftigare AI-chip - Placera.se
+- Australien stoppar AI-musik från topplistor - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
@@ -32,21 +32,21 @@ _Updated: 2026-08-26 00:58_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - UNESCO statement on Ukraine - UNESCO
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Sporten kan nu förändras helt - Expressen
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -97,25 +97,25 @@ _Updated: 2026-08-26 00:58_
 ## Health
 
 - Nyhetsbrev om hälsa och livsmedelssäkerhet - European Commission
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
 ## Science
 
@@ -159,6 +159,6 @@ _Updated: 2026-08-26 00:58_
 - Jord, kor och klimat - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Han tror stenhårt på jordbruket - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Han tror stenhårt på jordbruket - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
