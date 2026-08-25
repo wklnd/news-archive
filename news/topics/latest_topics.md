@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-25 22:56_
+_Updated: 2026-08-25 23:53_
 
 ## Top Stories
 
-- Dolly Parton är död - SVT Nyheter
-- Sverige säkrade slutspel – mitt i matchen - Göteborgs-Posten
-- ”Nu hoppas vi bara att han ska bli bra igen” - Dagens Nyheter
+- Allvarligt men stabilt läge för skoloffren - Göteborgs-Posten
 - Tomas Ramberg: Moderaterna kastar fram gammal S-politik - Dagens Nyheter
 - USA hotar att krossa Iran – experten tvekar - Svenska Dagbladet
 - Fjällrävens krav på SD: Ändra typsnittet - Aftonbladet
+- Lastbil har frontalkrockat med personbil - Sveriges Radio
+- Hovrätten fastställer tingsrättens dom på livstids fängelse för den man som skjutit ihjäl en person i ett parkeringshus i Norrköping - Sveriges Domstolar
 - Högsta stödet för L sedan SD-sväng - Västerbottens-Kuriren
 - Långa köer efter bilbrand på E4 Uppsalavägen - Sveriges Radio
 - Mohamsson om Åkesson: Inget jättebra snack - Göteborgs-Posten
-- Svärd som använts vid attacker säljs lagligt på nätet - Dagens Nyheter
-- Iran och Oman: Diskuterat ramavtal för Hormuz - Corren
-- Rättegång mot Abu Agila Masud skjuts upp – misstänks för Lockerbiebomb - Sveriges Radio
-- USA skrotar terrorstämpel och avskaffar sanktioner mot Syrien - Dagens Nyheter
-- Kurdiska styrkorna i Syrien upplöses - Västerbottens-Kuriren
-- Kanadas svar till Trump: Nya strafftullar - Svenska Dagbladet
+- DEBATT: Replik: Vi vill minska antalet regionala politiker - Gefle Dagblad
+- Direkt – Krisen i Mellanöstern – Oman och Iran i samtal om ny farled i Hormuzsundet - Dagens Nyheter
+- Fredsrådet till Israel och Hamas: Följ vapenvilan - Göteborgs-Posten
+- Nya bevis försenar ny Lockerbie-rättegång - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Journalister attackerades av israeliska bosättare - Dagens Nyheter
+- Ingmar Nevéus: Kanadas Mark Carney visar världen hur man kan hantera Trump - Dagens Nyheter
 - ÖPPNAR UPPÅT MED HALVLEDARE I TÄTEN, S&P 500 +0,3% - Placera.se
-- Åklagaren häver Intellegos kvarstad - Affärsvärlden
 - Blandad utveckling på Asienbörserna - EFN
+- Börsen klättrar med verkstad i täten – oljepriset sjunker - Affärsvärlden
 - Musks satelliter bakom prickarna på himlen - Svenska Dagbladet
 - Apple lanserar nya Mac mini och Mac Studio med kraftigare AI-chip - Placera.se
 
@@ -104,18 +104,18 @@ _Updated: 2026-08-25 22:56_
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
 ## Science
 
