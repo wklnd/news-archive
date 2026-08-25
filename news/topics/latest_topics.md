@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-25 16:19_
+_Updated: 2026-08-25 17:21_
 
 ## Top Stories
 
-- JOHAN RUDSTRÖM: Nästa skoldåd måste kunna förhindras - UNT
-- LEDARE: Tidö-elefanten i rummet - Nya Wermlands-Tidningen
-- Insändare: Politiker, folket är med er! - Västerbottens-Kuriren
-- Moderaterna vill avskaffa avgiften för förskola och fritids - SVT Nyheter
-- Försvaret vill ta över fastighet vid Musköbasen – ägaren ”ett säkerhetshot” - SVT Nyheter
+- Forssmed om nätjättarna: ”Förändra er i grunden eller försvinn” - Dagens Nyheter
+- ”Politiker, folket är med er!” - Västerbottens-Kuriren
 - Unga nya på Tiktok möter våg av nazism och hat - Göteborgs-Posten
+- Alexander, 22, döms till livstids fängelse för mordet på Gaboro - NT
+- M lovar slopad avgift för förskola och fritids - NT
+- Tre bilar i olycka på E4 i Jönköping – långa köer - Sveriges Radio
+- Storbråk i Hornstull – med kryckor och pinnar - SVT Nyheter
 - Jättetonfisk såld för över 50 000 kronor - Göteborgs-Posten
-- Person anträffad död i bostad – polisen utreder mord - Corren
-- Slog ihjäl kvinna med prydnadssten – döms - Göteborgs-Posten
-- Varningslarmet SE-Alert testas - Krisinformation.se
+- Högsta stödet för L sedan kramen - Dagens Nyheter
+- Lättare testa de som reser in vid pandemi - Göteborgs-Posten
+- Rekordvarmt i världshaven: ”Väldigt oroande” - Dagens Nyheter
 - Trend med vansinnesfärder på Tiktok väcker förfäran - Dagens Nyheter
 - Nya israeliska anfall mot Gaza: Barn döda - Corren
-- Nathan Shachar: När Erdogan hånas sluter oppositionen upp bakom presidenten - Dagens Nyheter
 - Iran svarar på sanktionshoten: Helt förberedda – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Källor: Bessent är redo att agera mot räntehandlare - Omni – Alla nyheter. Alla perspektiv.
 - Trump i sjöfejd: ”Clowner” - Aftonbladet
+- Källor: Bessent redo agera hårdare om räntorna fortsätter stiga - EFN
 - Sjunde AP-fonden sa nej till Elon Musks Space X - Sveriges Radio
-- Åklagare häver kvarstad i Intellego - Dagens industri
+- Åklagaren häver Intellegos kvarstad - Affärsvärlden
+- Apple lanserar nya Mac mini och Mac Studio med kraftigare AI-chip - Ny Teknik
 - Jennie, 46, i Bjärnum såg mystiskt rymdljus – förklaringen - Norra Skåne
-- Apple lanserar nya Mac Studio med M5 Max och M5 Ultra-chips - Investing.com Sverige
 
 ## World News
 
@@ -51,17 +51,17 @@ _Updated: 2026-08-25 16:19_
 ## Technology
 
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
-- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
@@ -79,6 +79,7 @@ _Updated: 2026-08-25 16:19_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Vilken framtid arbetar du för? - EY
@@ -92,7 +93,6 @@ _Updated: 2026-08-25 16:19_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -122,23 +122,23 @@ _Updated: 2026-08-25 16:19_
 - Över 2 000 projekt deltog i Student Science Research Award. - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Vårddata för forskning – hinder och möjligheter - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
 ## Jordbruk
 
@@ -157,8 +157,8 @@ _Updated: 2026-08-25 16:19_
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Kan agroekologi mätta världen? - SLU
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Han tror stenhårt på jordbruket - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
