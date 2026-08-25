@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-25 17:25_
+_Updated: 2026-08-25 18:17_
 
-- How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War - The New York Times
+- Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs - The New York Times
 - China hits out at 'illegal' new US sanctions on Iran and trading partners - BBC
-- Trump floats renaming Lake Ontario as ‘Lake America’ as trade war with Canada escalates - AP News
+- Trump Threatens to Rename Lake Ontario as Spat With Canada Escalates - WSJ
 - What to watch in today’s primaries and Scott Bessent threatens new sanctions on Iran: Morning Rundown - NBC News
+- What Trump’s Supreme Court win means for mail ballots - CNN
 - Commentary: Sheriff Chad Bianco can't catch a break. That's a good thing - Los Angeles Times
-- Kennedy Center finances deteriorated sharply after Trump name change - The Washington Post
-- At least 25% of former NFL players who died between 2016 and 2021 had CTE, study finds - NPR
-- Live updates: Lindsay Clancy trial continues after failed motion for mistrial - NBC Boston
-- Trump Administration to Target Visas of Up To 200,000 Foreign Citizens Applying for Asylum - The New York Times
-- Supreme Court eases path for Trump’s sweeping limits on mail-in balloting - The Washington Post
+- State Dept. to revoke tourist, business visas for those who claimed asylum - The Washington Post
+- Watch Live: Lindsay Clancy trial resumes with prosecution psychologist calling her "criminally responsible" - CBS News
+- NFL: At least one in four dead players had brain disease, says study - BBC
+- CIA director Ratcliffe visits Moscow - Axios
 - U.K. will help Ukraine make long-range missiles by sharing classified tech information - NPR
-- Trump Administration to Return Diplomats to Middle East Embassies - The New York Times
-- Five more arrests in Middlesbrough A66 wrong-way crash investigation - BBC
-- Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - AP News
-- Nvidia shares set for $280 billion price swing after earnings, options show - Yahoo Finance
-- Dick's Sporting Goods stock falls 20% as retailer misses expectations, cites 'challenging' footwear market - CNBC
-- Stock Market Today: Nasdaq Rises as Effects of Bessent's 'D-Day' Look Contained — Live Updates - WSJ
+- Why Rohingya refugees are protesting in Cox’s Bazar, 9 years after genocide - Al Jazeera
+- US prepares to send diplomats back to Middle East embassies after Iran war evacuations, NYT reports - Reuters
+- Tornado Rips Through Towns in Southern France - The New York Times
 - United adds 10 new international destinations in massive 13-route global expansion - The Points Guy
-- Apple launches new Mac Studios with its ‘most powerful chip ever’ — the M5 Ultra - The Verge
+- Earnings live updates: Dick's Sporting Goods stock tanks after retailer slashes outlook amid 'challenging conditions' - Yahoo Finance
+- Stock Market Today: Dow and S&P 500 edge higher, chip stocks jump a day ahead of Nvidia results and inflation data; global oil prices below $88 a barrel - MarketWatch
+- Here's when the Social Security COLA update is expected to be released - USA Today
+- Apple’s new M6 chip gets more cores and more AI compute - The Verge
 - Apple Watch Series 12 to Get Fitness Tracking Upgrades - MacRumors
