@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-25 05:26_
+_Updated: 2026-08-25 06:08_
 
 ## Top Stories
 
 - MALIN LERNFELT: Vi måste agera mot hatet medan tid är - Norran
-- Ökat antal anmälningar av rekrytering av barn - Aftonbladet
+- Fler rekryteringar av unga anmälda trots mobilisering - Omni – Alla nyheter. Alla perspektiv.
 - Kraftig tornado i södra Frankrike - Göteborgs-Posten
 - USA: Vi skär av alla Irans ekonomiska livlinor - Hufvudstadsbladet – HBL
-- Misstänkte Brattåsmördaren tillbaka på mordplatsen – vägran - Expressen
-- Malmer Stenergard i skyddsrum i Kiev - Västerbottens-Kuriren
+- ”Som Karl-Bertils taxeringskalender” - Svenska Dagbladet
+- Mamman om misstänkte Brattåsmördaren: ”Han var ganska ensam, stackarn” - Aftonbladet
+- Risk att valrörelsens sjukvårdslöften blir tomma ord - Altinget.se
 - Håkan Boström: Det var inte Åkesson som dödade Liberalerna - Göteborgs-Posten
 - Insändare. SVT sviker oss som demonstrerar för att rädda klimatet - Dagens Nyheter
 - Störningar i trafiken på grund av stillastående fordon på E4 - UNT
-- Här förtidsröstar du i Hässleholm: ”Det blir fler för varje val” - Norra Skåne
+- Malmer Stenergard i skyddsrum i Kiev - Västerbottens-Kuriren
 - Många dödade i gängattack i Haiti - Göteborgs-Posten
+- Direkt – Krisen i Mellanöstern – USA ställer in militärövning med Sydkorea - Dagens Nyheter
 - EU påskyndar lånutbetalning till Ukraina - Dagens Nyheter
-- Dödliga attacker mellan Ryssland och Ukraina - Corren
-- Gripen-plan har störtat i Ungern - Hufvudstadsbladet – HBL
-- Svarar Trump – om tullkriget: ”Kyss min röv” - Expressen
+- Kanadas attack efter Trumps hot: ”Kyss min röv” - Omni – Alla nyheter. Alla perspektiv.
 - Tullar och tech fick börsen att vackla: ”Måste imponera” - EFN
 - Mestadels nedåt i Europa - Dagens industri
-- Bankerna mjölkar sina tryggaste bolånekunder – betalar högre ränta med åldern - Dagens PS
-- Förklaringen bakom mystiska prickarna: ”Spektakulärt” - Borås Tidning
+- 6 000 000 för två fastigheter i Norrtälje - Norrtelje Tidning
+- Leif såg mystiskt ljusfenomen: ”Vad fan var det där!” - Expressen
 - Xiaomi lanserar tre nya XRING-chip för AI-ekosystem av Investing.com - Investing.com Sverige
 
 ## World News
@@ -30,21 +30,21 @@ _Updated: 2026-08-25 05:26_
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sporten kan nu förändras helt - Expressen
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
@@ -60,12 +60,12 @@ _Updated: 2026-08-25 05:26_
 - När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
@@ -78,7 +78,6 @@ _Updated: 2026-08-25 05:26_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Vilken framtid arbetar du för? - EY
@@ -89,33 +88,34 @@ _Updated: 2026-08-25 05:26_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
 - Nyhetsbrev om hälsa och livsmedelssäkerhet - European Commission
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 
 ## Science
 
