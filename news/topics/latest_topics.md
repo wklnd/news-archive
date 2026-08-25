@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-25 04:02_
+_Updated: 2026-08-25 05:26_
 
 ## Top Stories
 
 - MALIN LERNFELT: Vi måste agera mot hatet medan tid är - Norran
-- USA: Vi skär av alla Irans ekonomiska livlinor - Göteborgs-Posten
 - Ökat antal anmälningar av rekrytering av barn - Aftonbladet
 - Kraftig tornado i södra Frankrike - Göteborgs-Posten
-- Utrikesministern i Kiev: ”Fler måste göra mer” - Dagens Nyheter
-- Här avbryter misstänkte dubbelmördaren synen på brottsplatsen - SVT Nyheter
-- Försvunnen kvinna hittad avliden - SVT Nyheter
+- USA: Vi skär av alla Irans ekonomiska livlinor - Hufvudstadsbladet – HBL
+- Misstänkte Brattåsmördaren tillbaka på mordplatsen – vägran - Expressen
+- Malmer Stenergard i skyddsrum i Kiev - Västerbottens-Kuriren
 - Håkan Boström: Det var inte Åkesson som dödade Liberalerna - Göteborgs-Posten
 - Insändare. SVT sviker oss som demonstrerar för att rädda klimatet - Dagens Nyheter
 - Störningar i trafiken på grund av stillastående fordon på E4 - UNT
+- Här förtidsröstar du i Hässleholm: ”Det blir fler för varje val” - Norra Skåne
 - Många dödade i gängattack i Haiti - Göteborgs-Posten
+- EU påskyndar lånutbetalning till Ukraina - Dagens Nyheter
 - Dödliga attacker mellan Ryssland och Ukraina - Corren
-- Skidorten ”Lilla Norden” ledde partichefen rakt i fängelse - Dagens Nyheter
 - Gripen-plan har störtat i Ungern - Hufvudstadsbladet – HBL
 - Svarar Trump – om tullkriget: ”Kyss min röv” - Expressen
 - Tullar och tech fick börsen att vackla: ”Måste imponera” - EFN
-- Mestadels nedåt i Europa - DI
+- Mestadels nedåt i Europa - Dagens industri
 - Bankerna mjölkar sina tryggaste bolånekunder – betalar högre ränta med åldern - Dagens PS
 - Förklaringen bakom mystiska prickarna: ”Spektakulärt” - Borås Tidning
 - Xiaomi lanserar tre nya XRING-chip för AI-ekosystem av Investing.com - Investing.com Sverige
@@ -77,7 +77,6 @@ _Updated: 2026-08-25 04:02_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
@@ -93,18 +92,30 @@ _Updated: 2026-08-25 04:02_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
+- Nyhetsbrev om hälsa och livsmedelssäkerhet - European Commission
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
+- Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
+- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Vi presenterar HealthBench - OpenAI
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
 ## Science
 
