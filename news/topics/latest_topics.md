@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-25 07:58_
+_Updated: 2026-08-25 09:24_
 
 ## Top Stories
 
 - JOHAN RUDSTRÖM: Nästa skoldåd måste kunna förhindras - UNT
-- Stora skador efter våldsam tromb i Frankrike - Göteborgs-Posten
-- Rånare bröt sig in i lägenhet: ”Pistolliknande föremål” - Sveriges Radio
+- Unga nya på Tiktok möter våg av nazism och hat - Västerbottens-Kuriren
+- Misstänkt grovt rån i bostad Bromma - SVT Nyheter
+- Tredje drönare hittad efter attackförsök i Leopzig - Hufvudstadsbladet – HBL
+- Helldén: Både V och C behövs i regeringen – för klimatets skull - Dagens Nyheter
 - Sju döda i olyckan – kopplas till farliga trenden - Aftonbladet
-- Ökat antal anmälningar av rekrytering av barn - Västerbottens-Kuriren
-- ”Som Karl-Bertils taxeringskalender” - Svenska Dagbladet
-- Pourmokhtari slår tillbaka: ”Pissar in i tältet” - Göteborgs-Posten
-- Fakta i frågan: Har dagens pensionärer sämre ekonomi än tidigare generationer? - Dagens Nyheter
-- Bevis borta – försvaret pekar på utredningens luckor - Tidningen Ångermanland
-- Majoritet tror att kommunen är dåligt rustad för extremväder – glapp mellan risker och klimatanpassning i Västernorrlands län - Via TT
-- Malmer Stenergard i skyddsrum i Kiev - Göteborgs-Posten
+- Regeringen: Tuffare regler väntar elsparkcyklar - Göteborgs-Posten
+- Pourmokhtari slår tillbaka: ”Pissar in i tältet” - Dagens Nyheter
+- Svärd som använts vid attacker säljs lagligt på nätet - Dagens Nyheter
+- Glatt pensionsbesked i Sverige - Marcus Oscarsson
+- Stora skador efter våldsam tromb i Frankrike - Göteborgs-Posten
+- DN Direkt – Många dödade i gängattack i Haiti - Dagens Nyheter
+- Malmer Stenergard i skyddsrum i Kiev - Västerbottens-Kuriren
 - Vänsterpartiers splittring kan gynna Marine Le Pen - Sveriges Radio
-- Iran svarar på sanktionshoten: Helt förberedda – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Uppgifter: USA drar tillbaka 200 000 visum - Västerbottens-Kuriren
 - Bitcoin lyfter kraftigt – handlas över 80 000 dollar - Affärsvärlden
-- Kanadas attack efter Trumps hot: ”Kyss min röv” - Omni – Alla nyheter. Alla perspektiv.
+- Inför rapporten om resultatet: Är Nvidia-aktien köpvärd, säljvärd eller rätt värderad? - Morningstar
 - Amerikanska långräntor oroar - Aktiellt
-- Swedbank räknar fortsatt med svensk tillväxt kring 2 procent - Economic Outlook - Börsvärlden
-- Leif såg mystiskt ljusfenomen: ”Vad fan var det där!” - Expressen
-- Xiaomi lanserar tre nya XRING-chip för AI-ekosystem av Investing.com - Investing.com Sverige
+- Kanadas attack efter Trumps hot: ”Kyss min röv” - Omni – Alla nyheter. Alla perspektiv.
+- M lovar slopad avgift för förskola och fritids - Aftonbladet
+- En ny iMac är ”snart på väg” med en M6-processor och nya färger - Macworld.se
 
 ## World News
 
@@ -31,18 +31,18 @@ _Updated: 2026-08-25 07:58_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sporten kan nu förändras helt - Expressen
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Sporten kan nu förändras helt - Expressen
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
@@ -51,17 +51,17 @@ _Updated: 2026-08-25 07:58_
 ## Technology
 
 - Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -77,8 +77,8 @@ _Updated: 2026-08-25 07:58_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Vilken framtid arbetar du för? - EY
@@ -89,9 +89,9 @@ _Updated: 2026-08-25 07:58_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
@@ -132,13 +132,13 @@ _Updated: 2026-08-25 07:58_
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Vårddata för forskning – hinder och möjligheter - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
 ## Jordbruk
 
@@ -154,8 +154,8 @@ _Updated: 2026-08-25 07:58_
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Jord, kor och klimat - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - SLU
