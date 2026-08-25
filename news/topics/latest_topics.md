@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-25 10:07_
+_Updated: 2026-08-25 11:08_
 
 ## Top Stories
 
-- SVT erfar: Moderaterna vill avskaffa avgiften för förskola och fritids - SVT Nyheter
+- Försvaret vill ta över fastighet vid Musköbasen – ägaren ett ”säkerhetshot” - SVT Nyheter
 - JOHAN RUDSTRÖM: Nästa skoldåd måste kunna förhindras - UNT
+- Moderaterna vill avskaffa avgiften för förskola och fritids - SVT Nyheter
 - Unga nya på Tiktok möter våg av nazism och hat - Västerbottens-Kuriren
-- Sju döda i olyckan – kopplas till farliga trenden - Aftonbladet
-- Bevis borta – försvaret pekar på utredningens luckor - Tidningen Ångermanland
-- Helldén: Både V och C behövs i regeringen – för klimatets skull - Dagens Nyheter
-- Regeringen: Tuffare regler väntar elsparkcyklar - Corren
 - Svärd som använts vid attacker säljs lagligt på nätet - Dagens Nyheter
-- Glatt pensionsbesked i Sverige - Marcus Oscarsson
-- Pourmokhtari slår tillbaka: ”Pissar in i tältet” - Göteborgs-Posten
-- Stora skador efter våldsam tromb i Frankrike - Göteborgs-Posten
-- Nya israeliska anfall mot Gaza: Barn döda - Corren
-- Malmer Stenergard i skyddsrum i Kiev - Västerbottens-Kuriren
 - Tredje drönare hittad efter attackförsök i Leopzig - Hufvudstadsbladet – HBL
-- Bitcoin lyfter kraftigt – handlas över 80 000 dollar - Affärsvärlden
-- Uppgifter: Oura vill ta in flera miljarder inför notering - Affärsvärlden
-- Inför rapporten om resultatet: Är Nvidia-aktien köpvärd, säljvärd eller rätt värderad? - Morningstar
+- Regeringen: Tuffare regler väntar elsparkcyklar - Göteborgs-Posten
+- Pourmokhtari slår tillbaka mot SD: ”Pissar in i tältet” - Dagens Nyheter
+- Glatt pensionsbesked i Sverige - Marcus Oscarsson
+- Johan Croneman: SVT:s rädsla för Jimmie Åkesson lyser i eldskrift - Dagens Nyheter
+- Stora skador efter våldsam tromb i Frankrike - Göteborgs-Posten
+- Efter ayatollans död – hårdföra militärer ser ut att ta makten i Iran - Dagens Nyheter
+- Nya israeliska anfall mot Gaza: Barn döda - Corren
+- Iran svarar på sanktionshoten: Helt förberedda – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Nvidia visar korten efter AI-frossan – nya rekord väntas - Affärsvärlden
+- Kraftig tillväxt för Lego: ”Ser inget tak” - Dagens industri
+- Investerare spår noteringsbonanza på Wall Street - EFN
 - Amerikanska långräntor oroar - Aktiellt
 - Leif såg mystiskt ljusfenomen: ”Vad fan var det där!” - Expressen
 - Australien stoppar AI-musik från topplistor - Omni – Alla nyheter. Alla perspektiv.
@@ -32,41 +32,41 @@ _Updated: 2026-08-25 10:07_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sporten kan nu förändras helt - Expressen
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Intervision 2025 - Russia hosts Putin's answer to Eurovision - BBC
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
-- Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Albanien utser AI-bot till minister - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
@@ -96,26 +96,26 @@ _Updated: 2026-08-25 10:07_
 
 ## Health
 
-- Nyhetsbrev om hälsa och livsmedelssäkerhet - European Commission
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
+- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
-- ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
-- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Vi presenterar HealthBench - OpenAI
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar ChatGPT Health - OpenAI
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Stora risker med kvalitetsbrister i globala hälsosystem - Läkartidningen
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Viljan att forcera språkbarriärer ledde till Athenapriset - Dagens Medicin
 
 ## Science
 
@@ -125,20 +125,20 @@ _Updated: 2026-08-25 10:07_
 - Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Vårddata för forskning – hinder och möjligheter - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
 ## Jordbruk
 
@@ -157,8 +157,8 @@ _Updated: 2026-08-25 10:07_
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Kan agroekologi mätta världen? - SLU
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Han tror stenhårt på jordbruket - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
