@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-25 01:47_
+_Updated: 2026-08-25 04:02_
 
 ## Top Stories
 
-- Agerade efter skoldådet: "Har extra koll i korridorerna" - NT
+- MALIN LERNFELT: Vi måste agera mot hatet medan tid är - Norran
 - USA: Vi skär av alla Irans ekonomiska livlinor - Göteborgs-Posten
-- Mamman om misstänkte Brattåsmördaren: ”Han var ganska ensam, stackarn” - Aftonbladet
-- DN Direkt – Grönt ljus för Trumps begränsning av poströster - Dagens Nyheter
-- Ukrainas nya mål: Nästa ryska e-handelsjätte - Svenska Dagbladet
-- Malmer Stenergard i skyddsrum i Kiev - Göteborgs-Posten
-- Motorcyklist död efter olycka med älg - SVT Nyheter
+- Ökat antal anmälningar av rekrytering av barn - Aftonbladet
+- Kraftig tornado i södra Frankrike - Göteborgs-Posten
+- Utrikesministern i Kiev: ”Fler måste göra mer” - Dagens Nyheter
+- Här avbryter misstänkte dubbelmördaren synen på brottsplatsen - SVT Nyheter
 - Försvunnen kvinna hittad avliden - SVT Nyheter
 - Håkan Boström: Det var inte Åkesson som dödade Liberalerna - Göteborgs-Posten
 - Insändare. SVT sviker oss som demonstrerar för att rädda klimatet - Dagens Nyheter
-- DN Direkt – Många dödade i gängattack i Haiti - Dagens Nyheter
+- Störningar i trafiken på grund av stillastående fordon på E4 - UNT
+- Många dödade i gängattack i Haiti - Göteborgs-Posten
+- Dödliga attacker mellan Ryssland och Ukraina - Corren
 - Skidorten ”Lilla Norden” ledde partichefen rakt i fängelse - Dagens Nyheter
 - Gripen-plan har störtat i Ungern - Hufvudstadsbladet – HBL
-- Lägenhetsbrand i Bergsjön i Göteborg under kontroll - Sveriges Radio
-- Investerare spekulerar i indiskt socker – priset rusar till rekordnivå - Dagens PS
-- Nu får Chat GPT reklam: ”Unikt olustigt” - Svenska Dagbladet
+- Svarar Trump – om tullkriget: ”Kyss min röv” - Expressen
 - Tullar och tech fick börsen att vackla: ”Måste imponera” - EFN
-- Mestadels nedåt i Europa - Dagens industri
+- Mestadels nedåt i Europa - DI
+- Bankerna mjölkar sina tryggaste bolånekunder – betalar högre ränta med åldern - Dagens PS
+- Förklaringen bakom mystiska prickarna: ”Spektakulärt” - Borås Tidning
 - Xiaomi lanserar tre nya XRING-chip för AI-ekosystem av Investing.com - Investing.com Sverige
-- ”Apples vikbara mobil kan ge marknaden en skjuts” - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
@@ -38,9 +38,9 @@ _Updated: 2026-08-25 01:47_
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
@@ -50,26 +50,26 @@ _Updated: 2026-08-25 01:47_
 
 ## Technology
 
-- Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
@@ -77,6 +77,7 @@ _Updated: 2026-08-25 01:47_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
@@ -88,34 +89,22 @@ _Updated: 2026-08-25 01:47_
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
-- Nyhetsbrev om hälsa och livsmedelssäkerhet - European Commission
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
-- Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
-- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Vi presenterar HealthBench - OpenAI
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Vi presenterar HealthBench - OpenAI
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
