@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-25 13:54_
+_Updated: 2026-08-25 15:28_
 
 ## Top Stories
 
 - JOHAN RUDSTRÖM: Nästa skoldåd måste kunna förhindras - UNT
+- Insändare: Politiker, folket är med er! - Västerbottens-Kuriren
+- Sju får döda efter vargangrepp i Växjö - Omni – Alla nyheter. Alla perspektiv.
 - Moderaterna vill avskaffa avgiften för förskola och fritids - SVT Nyheter
-- Får angripna av varg - Västerbottens-Kuriren
-- Håkan Boström: Det var inte Åkesson som dödade Liberalerna - Göteborgs-Posten
-- Unga nya på Tiktok möter våg av nazism och hat - Västerbottens-Kuriren
-- Varningslarmet SE-Alert testas i Stockholmsområdet och på Gotland - Krisinformation.se
+- Unga nya på Tiktok möter våg av nazism och hat - Göteborgs-Posten
+- Planerar för nattåg Bryssel–Malmö 2028 - Göteborgs-Posten
 - Jättetonfisk såld för över 50 000 kronor - Göteborgs-Posten
-- Mordet på Gaboro – Hovrätten fastställer livstidsdom - SVT Nyheter
-- Ettårig flicka dog – föräldrar inför rätta - Västerbottens-Kuriren
-- Svärd som använts vid attacker säljs lagligt på nätet - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Israelisk politiker slog sönder monument med slägga - Dagens Nyheter
-- Efter ayatollans död – hårdföra militärer ser ut att ta makten i Iran - Dagens Nyheter
-- Nya israeliska anfall mot Gaza: Barn döda - Corren
+- Varningslarmet SE-Alert testas i Stockholmsområdet och på Gotland - Krisinformation.se
+- Person anträffad död i bostad – polisen utreder mord - Corren
+- Lättare testa de som reser in vid pandemi - Göteborgs-Posten
+- Trend med vansinnesfärder på Tiktok väcker förfäran - Dagens Nyheter
 - Iran svarar på sanktionshoten: Helt förberedda – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Källor: Bessent redo agera hårdare om räntorna fortsätter stiga - EFN
-- Nvidia visar korten efter AI-frossan – nya rekord väntas - Affärsvärlden
+- Nya israeliska anfall mot Gaza: Barn döda - Corren
+- Nathan Shachar: När Erdogan hånas sluter oppositionen upp bakom presidenten - Dagens Nyheter
+- Bessent kan agera hårdare om tioåringen närmar sig 5 procent - Dagens industri
 - Sjunde AP-fonden sa nej till Elon Musks Space X - Sveriges Radio
-- Kraftig tillväxt för Lego: ”Ser inget tak” - Dagens industri
+- Vinstökning med 32 procent för Lego - Göteborgs-Posten
+- Åklagare häver kvarstad i Intellego - Aftonbladet
 - Jennie, 46, i Bjärnum såg mystiskt rymdljus – förklaringen - Norra Skåne
-- Australien stoppar AI-musik från topplistor - Omni – Alla nyheter. Alla perspektiv.
+- Nästa chans kommer först om flera år: Missa inte månförmörkelsen - Illustrerad Vetenskap
 
 ## World News
 
@@ -31,7 +31,6 @@ _Updated: 2026-08-25 13:54_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Sporten kan nu förändras helt - Expressen
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -46,27 +45,28 @@ _Updated: 2026-08-25 13:54_
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Intervision 2025 - Russia hosts Putin's answer to Eurovision - BBC
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Albanien utser AI-bot till minister - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
@@ -79,7 +79,6 @@ _Updated: 2026-08-25 13:54_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Vilken framtid arbetar du för? - EY
@@ -93,6 +92,7 @@ _Updated: 2026-08-25 13:54_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -125,20 +125,20 @@ _Updated: 2026-08-25 13:54_
 - Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Vårddata för forskning – hinder och möjligheter - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
 ## Jordbruk
 
