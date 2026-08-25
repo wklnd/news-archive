@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-25 07:16_
+_Updated: 2026-08-25 08:02_
 
-- Supreme Court for now allows Trump to plan new mail ballot rules. California to sue again - Los Angeles Times
-- 5 ways Iran's economy is wilting under Trump's pressure - Axios
+- Supreme Court eases path for Trump’s sweeping limits on mail-in balloting - The Washington Post
 - US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate - BBC
+- 5 ways Iran's economy is wilting under Trump's pressure - Axios
 - Religious References in Lindsay Clancy Trial Anger Judge and Defense - The New York Times
+- El-Sayed spars with Jesse Watters on Fox News on immigration, Iran war: ‘Let me just answer the question’ - The Hill
 - US removes Syria from terrorism sponsor list, lifting major investment obstacle - Reuters
-- Abdul El-Sayed asks Jesse Watters if he is circumcised during combative Fox News interview - The Independent
-- US plans to revoke business, tourism visas of 200,000 asylum seekers - Al Jazeera
+- Trump Administration Aims to Revoke Visas of Foreign Citizens Applying for Asylum - The New York Times
 - Firefighters make progress against a Nevada wildfire that’s destroyed more than 30 homes - AP News
 - Lockerbie bombing trial postponed days before it was due to start - BBC
-- ‘Unacceptable’: US city without power for nearly 2 weeks as frustration grows - Syracuse.com
+- Massachusetts woman suspected of killing police officer husband found dead - The Guardian
+- ‘Like smoking a cigarette’: Indonesia chokes on haze as blazes intensify amid super ‘El Niño’ - The Guardian
+- Burnham Plans US Trip Next Month to Lobby Trump on Ukraine Needs - Bloomberg
 - Britain tells TikTok and other platforms to remove videos glorifying dangerous driving after deaths - AP News
-- U.S. withdraws from military exercises with South Korea set for next month - The Washington Post
-- EU allies back Ukraine on Independence Day without Trump envoys - Euronews.com
-- UK to help Ukraine build Storm Shadow long-range missiles: Why it matters - Al Jazeera
+- Putin ‘panicked’ as defiant Ukraine marks Independence Day under Russian bombardment - Fox News
 - Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it - CNBC
 - Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC - TechCrunch
-- Dan Ives Has Message For Nvidia Stock Investors - Yahoo Finance
-- Starbucks’ Pumpkin Spice Latte Is Back, Along With 6 All-New Drinks—and We Tried Them First - Allrecipes
-- Welcome to a new (and expensive) era of foldable phones - NBC News
-- Lenovo Addresses Legion Go BIOS Update Bricking Gaming Handhelds - TechPowerUp
+- Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates - CoinDesk
+- Nvidia's valuation looks surprisingly cheap heading into earnings. Could it be an issue for the stock? - Yahoo Finance
+- Apple Gears Up to Launch Its First New Mac Mini in Two Years - Bloomberg
+- Apple is reportedly preparing iPhone price hikes (because of course they are) - Mashable
