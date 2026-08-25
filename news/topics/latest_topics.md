@@ -1,69 +1,69 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-25 07:05_
+_Updated: 2026-08-25 07:58_
 
 ## Top Stories
 
 - JOHAN RUDSTRÖM: Nästa skoldåd måste kunna förhindras - UNT
-- Ökat antal anmälningar av rekrytering av barn - Aftonbladet
-- Uppgifter: USA drar tillbaka 200 000 visum - Göteborgs-Posten
-- Helldén: Både V och C behövs i regeringen – för klimatets skull - Dagens Nyheter
+- Stora skador efter våldsam tromb i Frankrike - Göteborgs-Posten
+- Rånare bröt sig in i lägenhet: ”Pistolliknande föremål” - Sveriges Radio
 - Sju döda i olyckan – kopplas till farliga trenden - Aftonbladet
+- Ökat antal anmälningar av rekrytering av barn - Västerbottens-Kuriren
 - ”Som Karl-Bertils taxeringskalender” - Svenska Dagbladet
 - Pourmokhtari slår tillbaka: ”Pissar in i tältet” - Göteborgs-Posten
+- Fakta i frågan: Har dagens pensionärer sämre ekonomi än tidigare generationer? - Dagens Nyheter
 - Bevis borta – försvaret pekar på utredningens luckor - Tidningen Ångermanland
-- Johan Croneman: SVT:s rädsla för Jimmie Åkesson lyser i eldskrift - Dagens Nyheter
-- Risk att valrörelsens sjukvårdslöften blir tomma ord - Altinget.se
-- Många dödade i gängattack i Haiti - Göteborgs-Posten
-- Utrikesministern i Kiev: ”Fler måste göra mer” - Dagens Nyheter
+- Majoritet tror att kommunen är dåligt rustad för extremväder – glapp mellan risker och klimatanpassning i Västernorrlands län - Via TT
+- Malmer Stenergard i skyddsrum i Kiev - Göteborgs-Posten
+- Vänsterpartiers splittring kan gynna Marine Le Pen - Sveriges Radio
 - Iran svarar på sanktionshoten: Helt förberedda – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Kraftig tornado i södra Frankrike - Göteborgs-Posten
+- Uppgifter: USA drar tillbaka 200 000 visum - Västerbottens-Kuriren
+- Bitcoin lyfter kraftigt – handlas över 80 000 dollar - Affärsvärlden
 - Kanadas attack efter Trumps hot: ”Kyss min röv” - Omni – Alla nyheter. Alla perspektiv.
-- Tullar och tech fick börsen att vackla: ”Måste imponera” - EFN
-- Mestadels nedåt i Europa - Dagens industri
-- Västeråsare vann 8,1 miljoner kronor på Lotto - Västerås Tidning
+- Amerikanska långräntor oroar - Aktiellt
+- Swedbank räknar fortsatt med svensk tillväxt kring 2 procent - Economic Outlook - Börsvärlden
 - Leif såg mystiskt ljusfenomen: ”Vad fan var det där!” - Expressen
 - Xiaomi lanserar tre nya XRING-chip för AI-ekosystem av Investing.com - Investing.com Sverige
 
 ## World News
 
-- Sporten kan nu förändras helt - Expressen
-- Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
-- Global turism slog nytt rekord under 2025 - travelnews-se
-- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
-- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
-- Mellan talibanerna, Indien och Irankriget - Kvartal
-- Techarenan News goes English (Partly at least) - Techarenan News
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
-- WALOVI's International Cans Make Global Debut, Ushering in a New Era of Eastern Natural Plant Beverages - Aktiellt
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Sporten kan nu förändras helt - Expressen
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Murdochs hemliga drag: Kuppa ut tre av barnen - Omni – Alla nyheter. Alla perspektiv.
-- Sweden joins global Falling Walls network with first national lab - Stockholms universitet
-- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Resepriserna i Europa stiger trots global nedgång - travelnews-se
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
-- SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
+- Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
-- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -77,7 +77,6 @@ _Updated: 2026-08-25 07:05_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
@@ -90,9 +89,10 @@ _Updated: 2026-08-25 07:05_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -115,7 +115,7 @@ _Updated: 2026-08-25 07:05_
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 
 ## Science
 
@@ -132,13 +132,13 @@ _Updated: 2026-08-25 07:05_
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Vårddata för forskning – hinder och möjligheter - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
 ## Jordbruk
 
