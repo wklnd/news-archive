@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-25 19:56_
+_Updated: 2026-08-25 21:08_
 
 ## Top Stories
 
+- Countrystjärnan Dolly Parton död – blev 80 år - Svenska Dagbladet
 - Allvarligt men stabilt läge för skoloffren - Göteborgs-Posten
-- Unga nya på Tiktok möter våg av nazism och hat - Västerbottens-Kuriren
 - Högsta stödet för L sedan kramen - Dagens Nyheter
-- Försvaret vill ta över ryskägd fastighet på Muskö - Västerbottens-Kuriren
-- Straffet står fast för mord på rappare - Göteborgs-Posten
-- Här är de största demonstrationerna i Sverige - tidningensyre.se
-- Storbråk i Hornstull – med kryckor och pinnar - SVT Nyheter
+- Buschs pik mot Kristersson: ”Vi är originalet” - SVT Nyheter
+- Försvarsmakten vill beslagta rysk-ägd fastighet - TV4 Nyheterna
+- USA hotar att krossa Iran – experten tvekar - Svenska Dagbladet
 - Långa köer efter bilbrand på E4 Uppsalavägen - Sveriges Radio
-- M lovar gratis förskola och fritids - Göteborgs-Posten
-- Lättare testa de som reser in vid pandemi - Göteborgs-Posten
+- Trump: Överväger att döpa om Ontariosjön - Aftonbladet
+- Svärd som använts vid attacker säljs lagligt på nätet - Dagens Nyheter
+- Misstänks för brutala mordet på äldre par – 21 år efter dådet - News55
+- Direkt – Krisen i Mellanöstern – Oman och Iran i samtal om ny farled i Hormuzsundet - Dagens Nyheter
 - Rekordvarmt i världshaven: ”Väldigt oroande” - Dagens Nyheter
-- Trend med vansinnesfärder på Tiktok väcker förfäran - Dagens Nyheter
-- Iran och Oman: Diskuterat ramavtal för Hormuz - Göteborgs-Posten
 - USA skrotar terrorstämpel och avskaffar sanktioner mot Syrien - Dagens Nyheter
-- Kanada kontrar amerikanska tullar: ”Vi kommer inte att ge vika” - Dagens Nyheter
-- Björn Jeffery: Tiktoks nya val kan göra allt värre - Svenska Dagbladet
+- Uppgifter: CIA-chefen ombord planet till Moskva - Göteborgs-Posten
+- Björn Jeffery: Nya draget kan få motsatt effekt - Svenska Dagbladet
 - Åklagaren häver Intellegos kvarstad - Affärsvärlden
 - ÖPPNAR UPPÅT MED HALVLEDARE I TÄTEN, S&P 500 +0,3% - Placera.se
+- Tydlig uppgång på Stockholmsbörsen – Astra Zeneca i topp - EFN
 - Musks satelliter bakom prickarna på himlen - Svenska Dagbladet
 - Apple lanserar nya Mac mini och Mac Studio med kraftigare AI-chip - Ny Teknik
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - UNESCO statement on Ukraine - UNESCO
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Sporten kan nu förändras helt - Expressen
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Intervision 2025 - Russia hosts Putin's answer to Eurovision - BBC
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
@@ -104,18 +104,18 @@ _Updated: 2026-08-25 19:56_
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
 ## Science
 
@@ -123,8 +123,8 @@ _Updated: 2026-08-25 19:56_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
@@ -132,12 +132,12 @@ _Updated: 2026-08-25 19:56_
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Vårddata för forskning – hinder och möjligheter - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
@@ -157,8 +157,8 @@ _Updated: 2026-08-25 19:56_
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
-- Hellre plöjningsfri odling än ekologisk - Land.se
-- Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Han tror stenhårt på jordbruket - Land.se
+- Kan agroekologi mätta världen? - SLU
+- Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Han tror stenhårt på jordbruket - Land.se
