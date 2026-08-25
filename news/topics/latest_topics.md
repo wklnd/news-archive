@@ -1,72 +1,72 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-25 18:08_
+_Updated: 2026-08-25 19:05_
 
 ## Top Stories
 
-- JOHAN RUDSTRÖM: Nästa skoldåd måste kunna förhindras - UNT
+- Allvarligt men stabilt läge för skoloffren - Göteborgs-Posten
 - Högsta stödet för L sedan kramen - Dagens Nyheter
+- Vanliga användare matas med nazism och högerextremism på Tiktok - Sveriges Radio
+- Insändare: Politiker, folket är med er! - Västerbottens-Kuriren
+- Alexander, 22, döms till livstids fängelse för mordet på Gaboro - NT
 - Försvaret vill ta över fastighet vid Musköbasen – ägaren ”ett säkerhetshot” - SVT Nyheter
-- LEDARE: Tidö-elefanten i rummet - Nya Wermlands-Tidningen
-- ”Politiker, folket är med er!” - Västerbottens-Kuriren
-- Sågade avgiftsfri förskola i Tranemo – nu vill M ha det i hela landet - Sveriges Radio
-- Jättetonfisk såld för över 50 000 kronor - Göteborgs-Posten
-- Slog ihjäl kvinna med prydnadssten – döms - Västerbottens-Kuriren
-- Kvinna hittad död på boende i Linköping - SVT Nyheter
-- Så förtidsröstar du i Göteborg - Göteborgs-Posten
+- Storbråk i Hornstull – med kryckor och pinnar - SVT Nyheter
+- Långa köer efter bilbrand på E4 Uppsalavägen - Sveriges Radio
+- Person anträffad död i bostad – polisen utreder mord - Corren
+- Moderaterna lovar gratis förskola - Dagens Nyheter
 - Rekordvarmt i världshaven: ”Väldigt oroande” - Dagens Nyheter
 - Uppgifter: CIA-chefen ombord planet till Moskva - Göteborgs-Posten
-- Trend med vansinnesfärder på Tiktok väcker förfäran - Dagens Nyheter
-- USA skrotar terrorstämpel och avskaffar sanktioner mot Syrien - Dagens Nyheter
-- Trump i sjöfejd: ”Clowner” - Aftonbladet
-- Wall Street-legendarens känga till Bessent: Låt marknaden tala - Dagens industri
+- Iran och Oman: Diskuterat ramavtal för Hormuz - Västerbottens-Kuriren
+- Nathan Shachar: När Erdogan hånas sluter oppositionen upp bakom presidenten - Dagens Nyheter
 - Åklagaren häver Intellegos kvarstad - Affärsvärlden
-- Björn Jeffery: Tiktoks nya val kan göra allt värre - Svenska Dagbladet
+- Kanada svarar USA med tullar – Trump hotar med namnbyte på Ontariosjön - Sveriges Radio
+- AP7 ratar Musk igen – nobbar Space X - Dagens industri
+- Wall Street inleder uppåt: "Marknaden blickar bortom inflationsrädslan" - EFN
 - Musks satelliter bakom prickarna på himlen - Svenska Dagbladet
 - Apple lanserar nya Mac mini och Mac Studio med kraftigare AI-chip - Ny Teknik
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- UNESCO statement on Ukraine - UNESCO
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
-- UNESCO statement on Ukraine - Unesco
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sporten kan nu förändras helt - Expressen
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Sporten kan nu förändras helt - Expressen
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Intervision 2025 - Russia hosts Putin's answer to Eurovision - BBC
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
-- AI and law: “We need to think proactively” - Stockholms universitet
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Albanien utser AI-bot till minister - Computer Sweden
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
@@ -79,7 +79,6 @@ _Updated: 2026-08-25 18:08_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Vilken framtid arbetar du för? - EY
@@ -93,6 +92,7 @@ _Updated: 2026-08-25 18:08_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -110,35 +110,23 @@ _Updated: 2026-08-25 18:08_
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
 ## Science
 
-- Över 2 000 projekt deltog i Student Science Research Award. - Vietnam.vn
-- Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- AI för vetenskaplig forskning och upptäckter - OpenAI
-- Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
-- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Sherry Nakhaeizadeh - Uppsala universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Täta band mellan turism och forskning på Svalbard - SLU
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Vårddata för forskning – hinder och möjligheter - Läkartidningen
+- Activities for the public – Department of Earth Sciences - Uppsala universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
