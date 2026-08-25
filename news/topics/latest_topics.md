@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-25 15:28_
+_Updated: 2026-08-25 16:19_
 
 ## Top Stories
 
 - JOHAN RUDSTRÖM: Nästa skoldåd måste kunna förhindras - UNT
+- LEDARE: Tidö-elefanten i rummet - Nya Wermlands-Tidningen
 - Insändare: Politiker, folket är med er! - Västerbottens-Kuriren
-- Sju får döda efter vargangrepp i Växjö - Omni – Alla nyheter. Alla perspektiv.
 - Moderaterna vill avskaffa avgiften för förskola och fritids - SVT Nyheter
+- Försvaret vill ta över fastighet vid Musköbasen – ägaren ”ett säkerhetshot” - SVT Nyheter
 - Unga nya på Tiktok möter våg av nazism och hat - Göteborgs-Posten
-- Planerar för nattåg Bryssel–Malmö 2028 - Göteborgs-Posten
 - Jättetonfisk såld för över 50 000 kronor - Göteborgs-Posten
-- Varningslarmet SE-Alert testas i Stockholmsområdet och på Gotland - Krisinformation.se
 - Person anträffad död i bostad – polisen utreder mord - Corren
-- Lättare testa de som reser in vid pandemi - Göteborgs-Posten
+- Slog ihjäl kvinna med prydnadssten – döms - Göteborgs-Posten
+- Varningslarmet SE-Alert testas - Krisinformation.se
 - Trend med vansinnesfärder på Tiktok väcker förfäran - Dagens Nyheter
-- Iran svarar på sanktionshoten: Helt förberedda – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Nya israeliska anfall mot Gaza: Barn döda - Corren
 - Nathan Shachar: När Erdogan hånas sluter oppositionen upp bakom presidenten - Dagens Nyheter
-- Bessent kan agera hårdare om tioåringen närmar sig 5 procent - Dagens industri
+- Iran svarar på sanktionshoten: Helt förberedda – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Källor: Bessent är redo att agera mot räntehandlare - Omni – Alla nyheter. Alla perspektiv.
+- Trump i sjöfejd: ”Clowner” - Aftonbladet
 - Sjunde AP-fonden sa nej till Elon Musks Space X - Sveriges Radio
-- Vinstökning med 32 procent för Lego - Göteborgs-Posten
-- Åklagare häver kvarstad i Intellego - Aftonbladet
+- Åklagare häver kvarstad i Intellego - Dagens industri
 - Jennie, 46, i Bjärnum såg mystiskt rymdljus – förklaringen - Norra Skåne
-- Nästa chans kommer först om flera år: Missa inte månförmörkelsen - Illustrerad Vetenskap
+- Apple lanserar nya Mac Studio med M5 Max och M5 Ultra-chips - Investing.com Sverige
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- UNESCO statement on Ukraine - Unesco
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Sporten kan nu förändras helt - Expressen
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Intervision 2025 - Russia hosts Putin's answer to Eurovision - BBC
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
@@ -104,7 +104,6 @@ _Updated: 2026-08-25 15:28_
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
@@ -113,32 +112,33 @@ _Updated: 2026-08-25 15:28_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
 ## Science
 
 - Över 2 000 projekt deltog i Student Science Research Award. - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
 - AI för vetenskaplig forskning och upptäckter - OpenAI
+- Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Vårddata för forskning – hinder och möjligheter - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
 ## Jordbruk
 
