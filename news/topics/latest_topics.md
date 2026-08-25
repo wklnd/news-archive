@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-25 09:24_
+_Updated: 2026-08-25 10:07_
 
 ## Top Stories
 
+- SVT erfar: Moderaterna vill avskaffa avgiften för förskola och fritids - SVT Nyheter
 - JOHAN RUDSTRÖM: Nästa skoldåd måste kunna förhindras - UNT
 - Unga nya på Tiktok möter våg av nazism och hat - Västerbottens-Kuriren
-- Misstänkt grovt rån i bostad Bromma - SVT Nyheter
-- Tredje drönare hittad efter attackförsök i Leopzig - Hufvudstadsbladet – HBL
-- Helldén: Både V och C behövs i regeringen – för klimatets skull - Dagens Nyheter
 - Sju döda i olyckan – kopplas till farliga trenden - Aftonbladet
-- Regeringen: Tuffare regler väntar elsparkcyklar - Göteborgs-Posten
-- Pourmokhtari slår tillbaka: ”Pissar in i tältet” - Dagens Nyheter
+- Bevis borta – försvaret pekar på utredningens luckor - Tidningen Ångermanland
+- Helldén: Både V och C behövs i regeringen – för klimatets skull - Dagens Nyheter
+- Regeringen: Tuffare regler väntar elsparkcyklar - Corren
 - Svärd som använts vid attacker säljs lagligt på nätet - Dagens Nyheter
 - Glatt pensionsbesked i Sverige - Marcus Oscarsson
+- Pourmokhtari slår tillbaka: ”Pissar in i tältet” - Göteborgs-Posten
 - Stora skador efter våldsam tromb i Frankrike - Göteborgs-Posten
-- DN Direkt – Många dödade i gängattack i Haiti - Dagens Nyheter
+- Nya israeliska anfall mot Gaza: Barn döda - Corren
 - Malmer Stenergard i skyddsrum i Kiev - Västerbottens-Kuriren
-- Vänsterpartiers splittring kan gynna Marine Le Pen - Sveriges Radio
+- Tredje drönare hittad efter attackförsök i Leopzig - Hufvudstadsbladet – HBL
 - Bitcoin lyfter kraftigt – handlas över 80 000 dollar - Affärsvärlden
+- Uppgifter: Oura vill ta in flera miljarder inför notering - Affärsvärlden
 - Inför rapporten om resultatet: Är Nvidia-aktien köpvärd, säljvärd eller rätt värderad? - Morningstar
 - Amerikanska långräntor oroar - Aktiellt
-- Kanadas attack efter Trumps hot: ”Kyss min röv” - Omni – Alla nyheter. Alla perspektiv.
-- M lovar slopad avgift för förskola och fritids - Aftonbladet
-- En ny iMac är ”snart på väg” med en M6-processor och nya färger - Macworld.se
+- Leif såg mystiskt ljusfenomen: ”Vad fan var det där!” - Expressen
+- Australien stoppar AI-musik från topplistor - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
@@ -31,13 +31,13 @@ _Updated: 2026-08-25 09:24_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Sporten kan nu förändras helt - Expressen
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -51,17 +51,17 @@ _Updated: 2026-08-25 09:24_
 ## Technology
 
 - Open AI släpper GPT-5.5 – ett steg närmare en ”super-app” - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
-- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -79,6 +79,7 @@ _Updated: 2026-08-25 09:24_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Vilken framtid arbetar du för? - EY
@@ -92,7 +93,6 @@ _Updated: 2026-08-25 09:24_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -105,17 +105,17 @@ _Updated: 2026-08-25 09:24_
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
+- ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 
 ## Science
 
@@ -125,20 +125,20 @@ _Updated: 2026-08-25 09:24_
 - Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Vårddata för forskning – hinder och möjligheter - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
 ## Jordbruk
 
