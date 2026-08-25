@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-25 19:05_
+_Updated: 2026-08-25 19:56_
 
 ## Top Stories
 
 - Allvarligt men stabilt läge för skoloffren - Göteborgs-Posten
+- Unga nya på Tiktok möter våg av nazism och hat - Västerbottens-Kuriren
 - Högsta stödet för L sedan kramen - Dagens Nyheter
-- Vanliga användare matas med nazism och högerextremism på Tiktok - Sveriges Radio
-- Insändare: Politiker, folket är med er! - Västerbottens-Kuriren
-- Alexander, 22, döms till livstids fängelse för mordet på Gaboro - NT
-- Försvaret vill ta över fastighet vid Musköbasen – ägaren ”ett säkerhetshot” - SVT Nyheter
+- Försvaret vill ta över ryskägd fastighet på Muskö - Västerbottens-Kuriren
+- Straffet står fast för mord på rappare - Göteborgs-Posten
+- Här är de största demonstrationerna i Sverige - tidningensyre.se
 - Storbråk i Hornstull – med kryckor och pinnar - SVT Nyheter
 - Långa köer efter bilbrand på E4 Uppsalavägen - Sveriges Radio
-- Person anträffad död i bostad – polisen utreder mord - Corren
-- Moderaterna lovar gratis förskola - Dagens Nyheter
+- M lovar gratis förskola och fritids - Göteborgs-Posten
+- Lättare testa de som reser in vid pandemi - Göteborgs-Posten
 - Rekordvarmt i världshaven: ”Väldigt oroande” - Dagens Nyheter
-- Uppgifter: CIA-chefen ombord planet till Moskva - Göteborgs-Posten
-- Iran och Oman: Diskuterat ramavtal för Hormuz - Västerbottens-Kuriren
-- Nathan Shachar: När Erdogan hånas sluter oppositionen upp bakom presidenten - Dagens Nyheter
+- Trend med vansinnesfärder på Tiktok väcker förfäran - Dagens Nyheter
+- Iran och Oman: Diskuterat ramavtal för Hormuz - Göteborgs-Posten
+- USA skrotar terrorstämpel och avskaffar sanktioner mot Syrien - Dagens Nyheter
+- Kanada kontrar amerikanska tullar: ”Vi kommer inte att ge vika” - Dagens Nyheter
+- Björn Jeffery: Tiktoks nya val kan göra allt värre - Svenska Dagbladet
 - Åklagaren häver Intellegos kvarstad - Affärsvärlden
-- Kanada svarar USA med tullar – Trump hotar med namnbyte på Ontariosjön - Sveriges Radio
-- AP7 ratar Musk igen – nobbar Space X - Dagens industri
-- Wall Street inleder uppåt: "Marknaden blickar bortom inflationsrädslan" - EFN
+- ÖPPNAR UPPÅT MED HALVLEDARE I TÄTEN, S&P 500 +0,3% - Placera.se
 - Musks satelliter bakom prickarna på himlen - Svenska Dagbladet
 - Apple lanserar nya Mac mini och Mac Studio med kraftigare AI-chip - Ny Teknik
 
@@ -60,9 +60,9 @@ _Updated: 2026-08-25 19:05_
 - När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
@@ -97,13 +97,14 @@ _Updated: 2026-08-25 19:05_
 ## Health
 
 - Nyhetsbrev om hälsa och livsmedelssäkerhet - European Commission
-- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
+- Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Cosmic-beslut i Stockholm står fast – prövningstillstånd nekas - Dagens Medicin
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
@@ -112,21 +113,32 @@ _Updated: 2026-08-25 19:05_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
-- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Över 2 000 projekt deltog i Student Science Research Award. - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
+- Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Sherry Nakhaeizadeh - Uppsala universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Olika slutsatser från samma data - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Täta band mellan turism och forskning på Svalbard - SLU
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Vårddata för forskning – hinder och möjligheter - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
