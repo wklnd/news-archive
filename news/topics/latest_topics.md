@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-25 21:55_
+_Updated: 2026-08-25 22:56_
 
 ## Top Stories
 
 - Dolly Parton är död - SVT Nyheter
-- Allvarligt men stabilt läge för skoloffren - Göteborgs-Posten
-- Högsta stödet för L sedan kramen - Dagens Nyheter
-- Vanliga användare matas med nazism och högerextremism på Tiktok - Sveriges Radio
-- Västerviksbon frias på nytt i mordrättegång – på två sätt - Västerviks-Tidningen
-- Försvaret vill ta över ryskägd fastighet på Muskö - Västerbottens-Kuriren
-- Moderaterna lovar gratis förskola - Dagens Nyheter
+- Sverige säkrade slutspel – mitt i matchen - Göteborgs-Posten
+- ”Nu hoppas vi bara att han ska bli bra igen” - Dagens Nyheter
+- Tomas Ramberg: Moderaterna kastar fram gammal S-politik - Dagens Nyheter
+- USA hotar att krossa Iran – experten tvekar - Svenska Dagbladet
+- Fjällrävens krav på SD: Ändra typsnittet - Aftonbladet
+- Högsta stödet för L sedan SD-sväng - Västerbottens-Kuriren
 - Långa köer efter bilbrand på E4 Uppsalavägen - Sveriges Radio
+- Mohamsson om Åkesson: Inget jättebra snack - Göteborgs-Posten
 - Svärd som använts vid attacker säljs lagligt på nätet - Dagens Nyheter
-- Misstänks för brutala mordet på äldre par – 21 år efter dådet - News55
-- Direkt – Krisen i Mellanöstern – Journalister attackerades av israeliska bosättare - Dagens Nyheter
 - Iran och Oman: Diskuterat ramavtal för Hormuz - Corren
+- Rättegång mot Abu Agila Masud skjuts upp – misstänks för Lockerbiebomb - Sveriges Radio
 - USA skrotar terrorstämpel och avskaffar sanktioner mot Syrien - Dagens Nyheter
-- Uppgifter: CIA-chefen ombord planet till Moskva - Västerbottens-Kuriren
-- Kanadas svar till Trump: Nya strafftullar - Göteborgs-Posten
-- Åklagaren häver Intellegos kvarstad - Affärsvärlden
+- Kurdiska styrkorna i Syrien upplöses - Västerbottens-Kuriren
+- Kanadas svar till Trump: Nya strafftullar - Svenska Dagbladet
 - ÖPPNAR UPPÅT MED HALVLEDARE I TÄTEN, S&P 500 +0,3% - Placera.se
+- Åklagaren häver Intellegos kvarstad - Affärsvärlden
 - Blandad utveckling på Asienbörserna - EFN
 - Musks satelliter bakom prickarna på himlen - Svenska Dagbladet
 - Apple lanserar nya Mac mini och Mac Studio med kraftigare AI-chip - Placera.se
@@ -28,25 +28,25 @@ _Updated: 2026-08-25 21:55_
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - UNESCO statement on Ukraine - UNESCO
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Sporten kan nu förändras helt - Expressen
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -60,9 +60,9 @@ _Updated: 2026-08-25 21:55_
 - När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
@@ -123,8 +123,8 @@ _Updated: 2026-08-25 21:55_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
@@ -132,12 +132,12 @@ _Updated: 2026-08-25 21:55_
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Vårddata för forskning – hinder och möjligheter - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
@@ -157,8 +157,8 @@ _Updated: 2026-08-25 21:55_
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Kan agroekologi mätta världen? - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Kan agroekologi mätta världen? - SLU
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Han tror stenhårt på jordbruket - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
