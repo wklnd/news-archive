@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-25 10:21_
+_Updated: 2026-08-25 11:18_
 
-- From ‘Fortress North America’ to All-Out Trade War: How the U.S.-Canada Talks Collapsed - The New York Times
-- US Supreme Court allows Trump’s mail voting restrictions to proceed - Al Jazeera
-- Trump targets Iran’s trade lifelines — here are the countries most exposed - CNBC
-- Lindsay Clancy trial judge denies mistrial request, but reprimands prosecution over witness testimony about religion - CBS News
-- Abdul El-Sayed asks Jesse Watters if he is circumcised during combative Fox News interview - The Independent
-- Body found believed to be Karen Solomon, police say - NewsNation
-- Firefighters make progress against a Nevada wildfire that’s destroyed more than 30 homes - AP News
+- Trump’s trade war with Canada could rattle economies in states with key Senate races - AP News
+- 5 ways Iran's economy is wilting under Trump's pressure - Axios
+- Supreme Court frees Trump to enforce mail-in voting changes ahead of midterms - Courthouse News
+- Religious References in Lindsay Clancy Trial Anger Judge and Defense - The New York Times
 - US plans to revoke business, tourism visas of 200,000 asylum seekers - Al Jazeera
+- El-Sayed spars with Jesse Watters on Fox News on immigration, Iran war: ‘Let me just answer the question’ - The Hill
+- Firefighters make progress against a Nevada wildfire that’s destroyed more than 30 homes - AP News
+- Trump Lays It on the Line for Darline Graham Ahead of South Carolina Runoff - The New York Times
+- Gary residents turn to prayer as power outage stretches into third week - WFYI
 - Lockerbie bombing trial postponed days before it was due to start - BBC
-- Trump Devises New $100,000 H-1B Visa Fee After Court Defeat - Bloomberg.com
 - Burnham Plans US Trip Next Month to Lobby Trump on Ukraine Needs - Bloomberg.com
-- Indonesia intensifies aerial firefighting as wildfire haze spreads to Malaysia - AP News
-- Tornado tears through village in south-west France: More than 40 injured and 300 homes damaged - Euronews.com
+- ‘Like smoking a cigarette’: Indonesia chokes on haze as blazes intensify amid super ‘El Niño’ - The Guardian
 - German investigators find third drone, explosives after failed airport attack, media say - Reuters
+- Tornado tears through village in south-west France: More than 40 injured and 300 homes damaged - Euronews.com
 - Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it - CNBC
+- Target apologizes for children’s clown Halloween costume after backlash - CNN
 - Nvidia shares set for $280 billion price swing after earnings, options show - Reuters
-- Starbucks’ Pumpkin Spice Latte Is Back, Along With 6 All-New Drinks—and We Tried Them First - Allrecipes
 - Bessent says Treasury auctions will continue as usual despite expanded buyback program - Fox Business
 - New iPad Mini With Four Upgrades Expected to Launch by Late October - MacRumors
-- Apple could debut two AirPods 5 models next month, per report - 9to5Mac
+- Google's clever Android 17 motion sickness feature is finally rolling out - Android Authority
