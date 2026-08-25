@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-25 17:21_
+_Updated: 2026-08-25 18:08_
 
 ## Top Stories
 
-- Forssmed om nätjättarna: ”Förändra er i grunden eller försvinn” - Dagens Nyheter
-- ”Politiker, folket är med er!” - Västerbottens-Kuriren
-- Unga nya på Tiktok möter våg av nazism och hat - Göteborgs-Posten
-- Alexander, 22, döms till livstids fängelse för mordet på Gaboro - NT
-- M lovar slopad avgift för förskola och fritids - NT
-- Tre bilar i olycka på E4 i Jönköping – långa köer - Sveriges Radio
-- Storbråk i Hornstull – med kryckor och pinnar - SVT Nyheter
-- Jättetonfisk såld för över 50 000 kronor - Göteborgs-Posten
+- JOHAN RUDSTRÖM: Nästa skoldåd måste kunna förhindras - UNT
 - Högsta stödet för L sedan kramen - Dagens Nyheter
-- Lättare testa de som reser in vid pandemi - Göteborgs-Posten
+- Försvaret vill ta över fastighet vid Musköbasen – ägaren ”ett säkerhetshot” - SVT Nyheter
+- LEDARE: Tidö-elefanten i rummet - Nya Wermlands-Tidningen
+- ”Politiker, folket är med er!” - Västerbottens-Kuriren
+- Sågade avgiftsfri förskola i Tranemo – nu vill M ha det i hela landet - Sveriges Radio
+- Jättetonfisk såld för över 50 000 kronor - Göteborgs-Posten
+- Slog ihjäl kvinna med prydnadssten – döms - Västerbottens-Kuriren
+- Kvinna hittad död på boende i Linköping - SVT Nyheter
+- Så förtidsröstar du i Göteborg - Göteborgs-Posten
 - Rekordvarmt i världshaven: ”Väldigt oroande” - Dagens Nyheter
+- Uppgifter: CIA-chefen ombord planet till Moskva - Göteborgs-Posten
 - Trend med vansinnesfärder på Tiktok väcker förfäran - Dagens Nyheter
-- Nya israeliska anfall mot Gaza: Barn döda - Corren
-- Iran svarar på sanktionshoten: Helt förberedda – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- USA skrotar terrorstämpel och avskaffar sanktioner mot Syrien - Dagens Nyheter
 - Trump i sjöfejd: ”Clowner” - Aftonbladet
-- Källor: Bessent redo agera hårdare om räntorna fortsätter stiga - EFN
-- Sjunde AP-fonden sa nej till Elon Musks Space X - Sveriges Radio
+- Wall Street-legendarens känga till Bessent: Låt marknaden tala - Dagens industri
 - Åklagaren häver Intellegos kvarstad - Affärsvärlden
+- Björn Jeffery: Tiktoks nya val kan göra allt värre - Svenska Dagbladet
+- Musks satelliter bakom prickarna på himlen - Svenska Dagbladet
 - Apple lanserar nya Mac mini och Mac Studio med kraftigare AI-chip - Ny Teknik
-- Jennie, 46, i Bjärnum såg mystiskt rymdljus – förklaringen - Norra Skåne
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - UNESCO statement on Ukraine - Unesco
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Sporten kan nu förändras helt - Expressen
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Intervision 2025 - Russia hosts Putin's answer to Eurovision - BBC
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
@@ -60,13 +60,13 @@ _Updated: 2026-08-25 17:21_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
+- AI and law: “We need to think proactively” - Stockholms universitet
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
@@ -97,12 +97,12 @@ _Updated: 2026-08-25 17:21_
 ## Health
 
 - Nyhetsbrev om hälsa och livsmedelssäkerhet - European Commission
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
@@ -110,10 +110,10 @@ _Updated: 2026-08-25 17:21_
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
@@ -122,23 +122,23 @@ _Updated: 2026-08-25 17:21_
 - Över 2 000 projekt deltog i Student Science Research Award. - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
-- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- AI för vetenskaplig forskning och upptäckter - OpenAI
+- Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Vårddata för forskning – hinder och möjligheter - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
 ## Jordbruk
 
