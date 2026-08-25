@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-25 14:01_
+_Updated: 2026-08-25 15:32_
 
 - China warns US it could retaliate over Iran sanctions - Financial Times
-- From ‘Fortress North America’ to All-Out Trade War: How the U.S.-Canada Talks Collapsed - The New York Times
-- Supreme Court eases path for Trump’s sweeping limits on mail-in balloting - The Washington Post
-- Trump’s endorsement faces major tests in Tuesday’s primary runoffs - NBC News
-- Gary residents turn to prayer as power outage stretches into third week - WFYI
-- Lindsay Clancy defense seeks mistrial after ‘mortal sin’ raised again - NewsNation
-- Darline Graham and Ralph Norman head to South Carolina’s Senate runoff - The Guardian
-- Trump administration plans to revoke B1, B2 visas of 200,000 asylum seekers - Al Jazeera
-- Lockerbie bombing trial postponed days before it was due to start - BBC
+- Mark Carney's defiance of Trump has Canada cheering - Axios
+- What Trump’s Supreme Court win means for mail ballots - CNN
+- Trump says he's considering renaming Lake Ontario as 'Lake America' as trade war with escalates - AP News
+- What to watch in today’s primaries and Scott Bessent threatens new sanctions on Iran: Morning Rundown - NBC News
+- Multiple dead, including children, in Montana shooting and house fire - NBC News
 - Firefighters make progress against a Nevada wildfire that’s destroyed more than 30 homes - AP News
-- Trump Administration to Return Diplomats to Middle East Embassies - The New York Times
-- Burnham Plans US Trip Next Month to Lobby Trump on Ukraine Needs - Bloomberg
+- Religious References in Lindsay Clancy Trial Anger Judge and Defense - The New York Times
+- Gary residents turn to prayer as power outage stretches into third week - WFYI
+- Trump administration plans to revoke B1, B2 visas of 200,000 asylum seekers - Al Jazeera
+- U.S. Said to Be Returning Diplomats to Middle East Embassies - The New York Times
+- The UK will help Ukraine make long-range missiles by sharing classified tech information - AP News
 - Those behind hybrid attacks against Germany 'will pay,' Merz says, as officials find third drone at airport - Euronews.com
-- ‘Like smoking a cigarette’: Indonesia chokes on haze as blazes intensify amid super ‘El Niño’ - The Guardian
-- Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it - CNBC
-- Nvidia's valuation looks surprisingly cheap heading into earnings. Could it be an issue for the stock? - Yahoo Finance
-- Target Apologizes and Drops Halloween Costume Criticized as Racist - The New York Times
-- U.S. stock futures rise as investors await Nvidia results, inflation data By Investing.com - Investing.com
-- Android is getting its own weird dots to cure car sickness - The Verge
+- Five more arrests in Middlesbrough A66 wrong-way crash investigation - BBC
+- Nvidia shares set for $280 billion price swing after earnings, options show - Reuters
+- Stock Market Today: Dow, Nasdaq Futures Rise; Bitcoin Briefly Tops $80,000 — Live Updates - WSJ
+- Dick's Sporting Goods misses expectations, cites 'challenging' footwear market - CNBC
+- Target ‘deeply sorry’ for children’s Halloween costume compared to blackface - The Washington Post
 - Apple Gears Up to Launch Its First New Mac Mini in Two Years - Bloomberg
+- Apple Watch Series 12: Everything to Expect Next Month - MacRumors
