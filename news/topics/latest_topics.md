@@ -1,51 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-26 07:59_
+_Updated: 2026-08-26 09:25_
 
 ## Top Stories
 
-- Busch om att stötta Andersson: "Plötsligt står man där" - Dagens Nyheter
-- Många spädbarn döda i sjukhusbrand - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Källor: Rubio tror inte på fler attacker - Dagens Nyheter
 - DANIEL PERSSON: Vad gör vi efter Fagersta egentligen? - NT
-- Högsta stödet för L sedan SD-sväng - Göteborgs-Posten
+- Ny mätning: Tidöpartierna knappar in - Västerbottens-Kuriren
 - Så förtidsröstar du i Göteborg - Göteborgs-Posten
+- Busch om att stötta Andersson: "Plötsligt står man där" - Dagens Nyheter
+- Rättegång mot Abu Agila Masud skjuts upp – misstänks för Lockerbiebomb - Sveriges Radio
+- Många spädbarn döda i sjukhusbrand - Västerbottens-Kuriren
 - Mohamsson om Åkesson: Inget jättebra snack - Västerbottens-Kuriren
 - Tomas Ramberg: Moderaterna kastar fram gammal S-politik - Dagens Nyheter
-- Ny mätning: Gapet mellan blocken minskar – Senaste nytt om valet 2026 - SVT Nyheter
-- Långa köer efter bilbrand på E4 Uppsalavägen - Sveriges Radio
-- Kurdiska styrkorna i Syrien upplöses - Göteborgs-Posten
+- Kalla fakta: Så svarar Svensk Fågel på kritiken - TV4 Nyheterna
+- LEDARE: Hör på 31-årige Rasmus i Krokom - Östersunds-Posten
+- Direkt – Krisen i Mellanöstern – Oman och Iran i samtal om ny farled i Hormuzsundet - Dagens Nyheter
 - Man död i trafikolycka utanför Uppsala - Aftonbladet
-- Fredsrådet till Israel och Hamas: Följ vapenvilan - Västerbottens-Kuriren
-- Ukrainas nya mål: Putins e-handelsjätte - Expressen
+- Kurdiska styrkorna i Syrien upplöses - Göteborgs-Posten
+- Citi höjer prismål för majs, soja och vete på grund av El Niño-risker - Investing.com Sverige
 - Kanada svarar USA med tullar – Trump hotar med namnbyte på Ontariosjön - Sveriges Radio
+- Återhämtning i Asien – breda börsuppgångar - Aftonbladet
 - LEDARE: Inte ens Mikael Damberg tror på sin bankskatt - Skaraborgs Allehanda
-- Just nu Breda uppgångar i Asien inför Nvidias rapport - Placera.se
-- Brist på bredd när New York-börsen lyfter - EFN
+- Trendbrott för Nvidia lyfte trevande börs i USA - EFN
 - Vita prickar på rad på natthimlen – här är förklaringen - Sydsvenskan
-- Gamescom Opening night live – här är de största spelnyheterna - Aftonbladet
+- Paradox presenterar två nya spel – analytikern: Aktien ska upp - Dagens industri
 
 ## World News
 
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- UNESCO statement on Ukraine - Unesco
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- UNESCO statement on Ukraine - Unesco
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Sporten kan nu förändras helt - Expressen
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
-- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
-- International Day of Epidemic Preparedness - World Health Organization (WHO)
-- Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
-- 29 120 adresser undersöktes under en global kryptoinformationsinsats - Bitcoin News
-- Kenya cult leader Paul Mackenzie faces terror charges over mass deaths - BBC
-- Geetanjali Shree is first Indian winner of International Booker Prize - BBC
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -158,6 +159,6 @@ _Updated: 2026-08-26 07:59_
 - Jord, kor och klimat - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Han tror stenhårt på jordbruket - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Han tror stenhårt på jordbruket - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
