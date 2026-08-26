@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-26 04:08_
+_Updated: 2026-08-26 05:32_
 
 ## Top Stories
 
-- DANIEL PERSSON: Vad gör vi efter Fagersta egentligen? - NT
-- Källor: Rubio tror inte på fler attacker - Göteborgs-Posten
+- Allvarligt men stabilt läge för skoloffren - Göteborgs-Posten
+- Frontalkrock i Uppsala – två till sjukhus - Expressen
+- Polisjakt slutade med olycka – en till sjukhus - Sydsvenskan
 - ”Låter osannolikt att Fjällräven har ett case” - Svenska Dagbladet
-- Idag startar förtidsröstningen - Örnsköldsviks kommun
-- VIKTOR BARTH-KRON: Det har gått inflation i vallöften - Expressen
-- Amerikaner sörjer Dolly Parton: ”Hon var en ikon” - Sveriges Radio
+- Källor: Rubio tror inte på fler attacker - Västerbottens-Kuriren
+- Förstörda valaffischer och 16 stulna skyltställ: "Är åt helvete" - Norran
 - Högsta stödet för L sedan SD-sväng - Västerbottens-Kuriren
-- ”Bra sjukvård byggs inte om efter varje val” - Svenska Dagbladet
-- Experten: SL:s miljardnota hade gett folk sparken privat - Sveriges Radio
-- Brinnande bil stoppar trafiken på E4 - Mitt i
+- Moderaterna vill avskaffa avgiften för förskola och fritids - SVT Nyheter
+- Här kan du förtidsrösta i Botkyrka kommun - Mitt i
+- Lastbilsolycka – riksväg 56 avstängd - Sveriges Radio
 - Direkt – Krisen i Mellanöstern – Oman och Iran i samtal om ny farled i Hormuzsundet - Dagens Nyheter
 - Fredsrådet till Israel och Hamas: Följ vapenvilan - Västerbottens-Kuriren
-- Rättegång mot Abu Agila Masud skjuts upp – misstänks för Lockerbiebomb - Sveriges Radio
-- Danske Bank: Begränsad ekonomisk effekt av värmeböljan - Placera.se
-- Kanadas svar till Trump: Nya strafftullar - Västerbottens-Kuriren
+- Rekordhettan riskerar att driva upp försäkringspremiern - Realtid
+- Dödliga attacker mellan Ryssland och Ukraina - Corren
+- Ingmar Nevéus: Kanadas Mark Carney visar världen hur man kan hantera Trump - Dagens Nyheter
+- 44-åring ny ägare till villa i Alingsås – 4 300 000 kronor blev priset - Alingsås Tidning
 - Moderna rusar vidare på grön börs i USA - EFN
 - ”Kan innebära betydligt större räntehöjningar” - Tidningen Näringslivet
-- Börsen klättrar med verkstad i täten – oljepriset sjunker - Affärsvärlden
 - Vita prickar på rad på natthimlen – här är förklaringen - Sydsvenskan
-- Apple lanserar nya Mac mini och Mac Studio med kraftigare AI-chip - Ny Teknik
+- Gamescom Opening night live – här är de största spelnyheterna - Aftonbladet
 
 ## World News
 
@@ -34,8 +34,8 @@ _Updated: 2026-08-26 04:08_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Sporten kan nu förändras helt - Expressen
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
