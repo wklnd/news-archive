@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-26 20:22_
+_Updated: 2026-08-26 23:13_
 
-- Flash flood on Nepal-Tibet border kills more than 100, with hundreds of tourists missing - BBC
-- Wiped out: US faces surging toilet paper prices amid trade war with Canada - The Guardian
-- Takeaways from the latest primaries as Trump reverses a losing streak - The Washington Post
-- Fed, NASA and DOJ among victims of Chinese state-sponsored hacker group: Court documents - CNBC
+- NVIDIA Announces Financial Results for Second Quarter Fiscal 2027 - NVIDIA Newsroom
+- Flash flood on Nepal-Tibet border kills more than 150, with hundreds of tourists missing - BBC
+- States renew fight against Trump's mail-in voting rule - Axios
+- US-Canada animosity could impede an end to a trade war neither country wants - AP News
+- US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate - Reuters
 - Iran, Oman agree on temporary Hormuz route: What we know - Al Jazeera
-- Before Hegseth fired him, top general was advised to drop Kid Rock probe - The Washington Post
-- Federal judge removes major legal obstacle to Trump mail voting order, with more challenges likely - AP News
-- Republicans were already nervous about November. Then Trump restarted his trade war. - Politico
-- Maryland court rules Democratic-backed redistricting amendment cannot go on November ballot - AP News
-- California couple confront their surrogate in a Texas court as dispute over newborn escalates - CNN
-- China: Dissident artist jailed for satirical Mao sculptures - DW.com
+- Everyone is making a U-turn on data centers as public support craters - Politico
+- Judge strikes down Texas ban on drag shows, tells people offended by them ‘just don’t go’ - NBC News
+- NY sheriffs - including 2 from Central NY - sue to overturn new law that bans working with ICE - Syracuse.com
+- Maryland court blocks Democrats’ redistricting amendment from November ballot - NBC News
+- Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN - Al Jazeera
 - Trump’s Top Gaza Official Says Israel Is Jeopardizing the Cease-Fire - The New York Times
+- US voices 'significant concerns' over Chinese dissident artist Gao Zhen's prison sentence - Reuters
 - Putin signs decree allowing state seizure of drone-hit businesses - Euronews.com
-- Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry - NPR
-- Tech stocks today: Meta agrees to settle social media case for $16.68 billion - Yahoo Finance
+- Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims - The New York Times
 - Bill Gates calls for ‘human-reserved’ jobs in face of AI takeover - The Guardian
-- Key inflation gauge remains elevated during Iran conflict and ongoing US trade fights - AP News
-- FDA Approves Drug for Pancreatic Cancer in Milestone for Treatment of Deadly Disease - WSJ
-- Apple announces September iPhone launch event - The Verge
+- Vanguard pays $4.6B for RIA software startup Altruist - Axios
+- US inflation remains elevated as GDP growth outlook brightens - Reuters
+- Apple is holding its iPhone launch event on September 9 - TechCrunch
 - Exclusive: Samsung Galaxy S27 Official CAD Renders Leaks - Android Headlines
