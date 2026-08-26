@@ -1,47 +1,47 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-26 17:59_
+_Updated: 2026-08-26 20:14_
 
 ## Top Stories
 
-- DN Direkt – Mohamsson om en mittenregering: Dörren är totalstängd - Dagens Nyheter
+- Kungaparet besöker Fagersta efter skoldådet - Västerbottens-Kuriren
 - Dödligt lerskred och översvämningar i Himalaya - Hufvudstadsbladet – HBL
-- Kungafamiljen till Rikshospitalet - Göteborgs-Posten
-- Nu inleds röstningen – ställ dina frågor om valet till experterna - SVT Nyheter
-- Michael Winiarski: Vad gjorde CIA-chefen i Moskva? - Dagens Nyheter
-- Krav på kriskommission efter miljardfördyringar i Stockholms kollektivtrafik - Bussmagasinet
-- En till anhållen efter attacken på skolan i Fagersta - Göteborgs-Posten
-- Sis-personal kopplas till gäng – sparkas - Västerbottens-Kuriren
+- Mohamssons vädjan – ber om stödröster - Göteborgs-Posten
+- Brattåsmorden: Yrkar på livstids fängelse - Östersunds-Posten
+- Förtidsröstningen 2026 igång – de var först ut i Angered - Göteborgs-Posten
+- Norska kungafamiljen hos kung Harald på sjukhuset - Hufvudstadsbladet – HBL
 - Källor om S negativa trend: ”Nedgången är väntad” - Dagens Nyheter
-- Stormkök exploderade – skadades allvarligt - Skånska Dagbladet
-- Ukrainska attacker – jättebrand och dödsoffer - Göteborgs-Posten
-- Direkt – Krisen i Mellanöstern – Uppgift: Iran och Oman eniga om Hormuzavtal - Dagens Nyheter
-- Flygplatsanställd i Tyskland har dött av malaria - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Trump: Minor i Hormuzsundet borta - Dagens Nyheter
-- Meta förlikas med 29 delstater om barns användning av apparna (uppdatering 2) - Börsvärlden
+- Sis-personal kopplas till gäng – sparkas - Västerbottens-Kuriren
+- Ny mätning: Tidöpartierna knappar in - Göteborgs-Posten
+- Politikernas gemensamma upprop: Låt bli valaffischerna! - Corren
+- Uppgift: Iran och Oman eniga om Hormuzavtal - Göteborgs-Posten
+- Michael Winiarski: Vad gjorde CIA-chefen i Moskva? - Dagens Nyheter
+- Expert: Ryssar räds mobilisering – det gör Putin också - Dagens Nyheter
+- Jättebrand och dödsoffer i Ryssland - Västerbottens-Kuriren
+- Metas förlikning beskrivs som en kapitulation - Dagens Nyheter
 - Spänt inför Nvidias rapport: ”Som VM-final i fotboll” - Omni – Alla nyheter. Alla perspektiv.
-- Styrelsen i CombinedX föreslår investering i AI-mjukvarubolaget Xalerate och kallar till extra bolagsstämma (Cision) - Aktiellt
-- Fyra ryska bankdirektörer tjänade miljoner på EU:s sanktioner - Realtid
+- Styrelsen i CombinedX föreslår investering i AI-mjukvarubolaget Xalerate och kallar till extra bolagsstämma - Cision News
+- Stockholmsbörsen stängde på plus – kraftigt ras i Smart Eye - EFN
 - Apple visar upp M6 och M5 Ultra – företagets starkaste chipp någonsin - Computer Sweden
 - Rockstar bekräftar att ”GTA 6” har läckt: ”Hjärtskärande” - SVT Nyheter
 
 ## World News
 
-- GT World Challenge Asia, Okayama International Circuit, Japan på inatt 00:10 - tv.nu
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Sporten kan nu förändras helt - Expressen
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Marcus Eklund går till BCD Travel – blir global kommersiell chef - travelnews-se
@@ -50,7 +50,6 @@ _Updated: 2026-08-26 17:59_
 
 ## Technology
 
-- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
@@ -70,6 +69,7 @@ _Updated: 2026-08-26 17:59_
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 
 ## Business
 
@@ -83,9 +83,9 @@ _Updated: 2026-08-26 17:59_
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Vilken framtid arbetar du för? - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -101,21 +101,21 @@ _Updated: 2026-08-26 17:59_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
-- Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
 ## Science
 
@@ -132,13 +132,13 @@ _Updated: 2026-08-26 17:59_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Vårddata för forskning – hinder och möjligheter - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
 ## Jordbruk
 
