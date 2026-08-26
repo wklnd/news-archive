@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-26 20:14_
+_Updated: 2026-08-26 22:37_
 
 ## Top Stories
 
-- Kungaparet besöker Fagersta efter skoldådet - Västerbottens-Kuriren
-- Dödligt lerskred och översvämningar i Himalaya - Hufvudstadsbladet – HBL
+- Enormt lerskred i Nepal – över 150 döda - SVT Nyheter
 - Mohamssons vädjan – ber om stödröster - Göteborgs-Posten
 - Brattåsmorden: Yrkar på livstids fängelse - Östersunds-Posten
-- Förtidsröstningen 2026 igång – de var först ut i Angered - Göteborgs-Posten
 - Norska kungafamiljen hos kung Harald på sjukhuset - Hufvudstadsbladet – HBL
-- Källor om S negativa trend: ”Nedgången är väntad” - Dagens Nyheter
-- Sis-personal kopplas till gäng – sparkas - Västerbottens-Kuriren
-- Ny mätning: Tidöpartierna knappar in - Göteborgs-Posten
+- Förtidsröstningen 2026 igång – de var först ut i Angered - Göteborgs-Posten
+- Kungaparet besöker Fagersta efter skoldådet - Västerbottens-Kuriren
+- Stort underhåll på Öresundsbron – påverkar trafiken i åtta veckor - SVT Nyheter
+- Annie Lööf: Därför mår Sverige bäst av en mittenregering - Dagens Nyheter
+- Två till sjukhus efter mc-olycka i Botkyrka - SVT Nyheter
 - Politikernas gemensamma upprop: Låt bli valaffischerna! - Corren
-- Uppgift: Iran och Oman eniga om Hormuzavtal - Göteborgs-Posten
-- Michael Winiarski: Vad gjorde CIA-chefen i Moskva? - Dagens Nyheter
+- DN Direkt – SOS Alarm: 19 larmsamtal om skolattacken - Dagens Nyheter
+- Plan på yxdåd mot förskola – tonåring i Norge häktas - Sydsvenskan
+- Ukrainska attacker – jättebrand och dödsoffer - Göteborgs-Posten
 - Expert: Ryssar räds mobilisering – det gör Putin också - Dagens Nyheter
-- Jättebrand och dödsoffer i Ryssland - Västerbottens-Kuriren
-- Metas förlikning beskrivs som en kapitulation - Dagens Nyheter
 - Spänt inför Nvidias rapport: ”Som VM-final i fotboll” - Omni – Alla nyheter. Alla perspektiv.
-- Styrelsen i CombinedX föreslår investering i AI-mjukvarubolaget Xalerate och kallar till extra bolagsstämma - Cision News
-- Stockholmsbörsen stängde på plus – kraftigt ras i Smart Eye - EFN
-- Apple visar upp M6 och M5 Ultra – företagets starkaste chipp någonsin - Computer Sweden
-- Rockstar bekräftar att ”GTA 6” har läckt: ”Hjärtskärande” - SVT Nyheter
+- Metas förlikning beskrivs som en kapitulation - Dagens Nyheter
+- Svantesson: Det ljusnar i svensk ekonomi - Dagens industri
+- Försiktiga rörelser på Wall Street - Västerbottens-Kuriren
+- ”GTA 6” ber om ursäkt efter läckorna - Sydsvenskan
+- Apples nye vd väntas visa upp nya Iphone-modeller - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
@@ -35,16 +35,16 @@ _Updated: 2026-08-26 20:14_
 - Sporten kan nu förändras helt - Expressen
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Marcus Eklund går till BCD Travel – blir global kommersiell chef - travelnews-se
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
@@ -154,11 +154,11 @@ _Updated: 2026-08-26 20:14_
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
-- Hellre plöjningsfri odling än ekologisk - Land.se
+- Agfo: ”Medvind för bolag med fötterna i myllan” - Land.se
 - Kan agroekologi mätta världen? - SLU
+- Hellre plöjningsfri odling än ekologisk - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Han tror stenhårt på jordbruket - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Han tror stenhårt på jordbruket - Land.se
