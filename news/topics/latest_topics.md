@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-26 15:34_
+_Updated: 2026-08-26 16:20_
 
 ## Top Stories
 
 - En till anhållen efter attacken på skolan i Fagersta - Göteborgs-Posten
-- Ny mätning: Tidöpartierna knappar in - Göteborgs-Posten
 - Dödligt lerskred och översvämningar i Himalaya - Hufvudstadsbladet – HBL
+- DN Direkt – Petter först till valurnan: ”Rösta vill man inte missa” - Dagens Nyheter
+- Här möter Haakon pressen – från slottet i Oslo - Svensk Damtidning
+- Ny mätning: Tidöpartierna knappar in - Västerbottens-Kuriren
 - Krav på kriskommission efter miljardfördyringar i Stockholms kollektivtrafik - Bussmagasinet
-- Tre av fyra politiska inlägg ger en negativ bild av samhället - Sveriges Radio
+- Sis-personal kopplas till gäng – sparkas - Västerbottens-Kuriren
+- Stormkök exploderade – skadades allvarligt - Västerbottens-Kuriren
 - ”Matilda” riskerar utvisning – oroar sig inför förlossning - Dagens Nyheter
-- Uppgifter: Misstänkt gängkoppling hos Sis-personal i Falköping – femtontal sparkade - SVT Nyheter
-- Stormkök exploderade – fyra personer förda till sjukhus - SVT Nyheter
-- Patrik Lundberg: En skolattack är ett brott mot mänskligheten - Dagens Nyheter
-- DN Direkt – Åklagaren yrkar på livstid för dubbelmordet i Brattås - Dagens Nyheter
+- Källor om S negativa trend: ”Nedgången är väntad” - Dagens Nyheter
 - Jättebrand och dödsoffer i Ryssland - Göteborgs-Posten
 - Direkt – Krisen i Mellanöstern – Uppgift: Iran och Oman eniga om Hormuzavtal - Dagens Nyheter
 - Bekräftar CIA-besök: ”Mötte inte Putin” - Västerbottens-Kuriren
-- Hon fick Libanon att avskaffa dödsstraffet: ”Ett ljus i mörkret” - Dagens Nyheter
-- Meta försöker göra upp i mål om app-beroende - Sydsvenskan
+- Debatt: Islands folkomröstning vägen till enat Norden - Europaportalen
+- Meta förlikas med 29 delstater om barns användning av apparna (uppdatering 2) - Börsvärlden
+- OncoZenge säkrar 33 Mkr med stöd av profilerade life science-investerare - Biostock
+- Lego Skylines låter oss bygga våra egna Lego-städer - Teknikveckan
 - Kanadas svar till Trump: Nya strafftullar - Västerbottens-Kuriren
-- C i Stockholm: Beredda på ”radikal kompromiss” för fler billiga bostäder - Dagens Nyheter
-- Aktiespararen ser ingen krisvärdering längre i Yubico, köper upp till 130 kronor - Börsvärlden
 - Apple visar upp M6 och M5 Ultra – företagets starkaste chipp någonsin - Computer Sweden
-- Vita prickar på rad på natthimlen – här är förklaringen - Sydsvenskan
+- Rockstar bekräftar att ”GTA 6” har läckt: ”Hjärtskärande” - SVT Nyheter
 
 ## World News
 
+- GT World Challenge Asia, Okayama International Circuit, Japan på inatt 00:10 - tv.nu
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -41,10 +42,9 @@ _Updated: 2026-08-26 15:34_
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Marcus Eklund går till BCD Travel – blir global kommersiell chef - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
@@ -65,11 +65,11 @@ _Updated: 2026-08-26 15:34_
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -79,7 +79,6 @@ _Updated: 2026-08-26 15:34_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Vilken framtid arbetar du för? - EY
@@ -91,11 +90,13 @@ _Updated: 2026-08-26 15:34_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
+- Nyhetsbrev om hälsa och livsmedelssäkerhet - European Commission
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
@@ -107,14 +108,13 @@ _Updated: 2026-08-26 15:34_
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 
 ## Science
