@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-26 01:49_
+_Updated: 2026-08-26 04:08_
 
 ## Top Stories
 
-- Allvarligt men stabilt läge för skoloffren - Göteborgs-Posten
+- DANIEL PERSSON: Vad gör vi efter Fagersta egentligen? - NT
+- Källor: Rubio tror inte på fler attacker - Göteborgs-Posten
 - ”Låter osannolikt att Fjällräven har ett case” - Svenska Dagbladet
-- Lastbil och personbil i frontalkrock på riksväg 55 - SVT Nyheter
-- USA hotar att krossa Iran – experten tvekar - Svenska Dagbladet
-- Tomas Ramberg: Moderaterna kastar fram gammal S-politik - Dagens Nyheter
-- Vita prickar på rad på natthimlen – här är förklaringen - Sydsvenskan
+- Idag startar förtidsröstningen - Örnsköldsviks kommun
+- VIKTOR BARTH-KRON: Det har gått inflation i vallöften - Expressen
+- Amerikaner sörjer Dolly Parton: ”Hon var en ikon” - Sveriges Radio
 - Högsta stödet för L sedan SD-sväng - Västerbottens-Kuriren
-- Långa köer efter bilbrand på E4 Uppsalavägen - Sveriges Radio
-- DEBATT: Replik: Vi vill minska antalet regionala politiker - Gefle Dagblad
-- Misstänks för brutala mordet på äldre par – 21 år efter dådet - News55
+- ”Bra sjukvård byggs inte om efter varje val” - Svenska Dagbladet
+- Experten: SL:s miljardnota hade gett folk sparken privat - Sveriges Radio
+- Brinnande bil stoppar trafiken på E4 - Mitt i
 - Direkt – Krisen i Mellanöstern – Oman och Iran i samtal om ny farled i Hormuzsundet - Dagens Nyheter
 - Fredsrådet till Israel och Hamas: Följ vapenvilan - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Journalister attackerades av israeliska bosättare - Dagens Nyheter
 - Rättegång mot Abu Agila Masud skjuts upp – misstänks för Lockerbiebomb - Sveriges Radio
-- Ingmar Nevéus: Kanadas Mark Carney visar världen hur man kan hantera Trump - Dagens Nyheter
-- ÖPPNAR UPPÅT MED HALVLEDARE I TÄTEN, S&P 500 +0,3% - Placera.se
+- Danske Bank: Begränsad ekonomisk effekt av värmeböljan - Placera.se
+- Kanadas svar till Trump: Nya strafftullar - Västerbottens-Kuriren
+- Moderna rusar vidare på grön börs i USA - EFN
+- ”Kan innebära betydligt större räntehöjningar” - Tidningen Näringslivet
 - Börsen klättrar med verkstad i täten – oljepriset sjunker - Affärsvärlden
-- Blykalla lämnar in sin andra ansökan om SMR-park - ENERGInyheter.se
-- Apple lanserar nya Mac mini och Mac Studio med kraftigare AI-chip - Placera.se
-- Australien stoppar AI-musik från topplistor - Omni – Alla nyheter. Alla perspektiv.
+- Vita prickar på rad på natthimlen – här är förklaringen - Sydsvenskan
+- Apple lanserar nya Mac mini och Mac Studio med kraftigare AI-chip - Ny Teknik
 
 ## World News
 
@@ -60,9 +60,9 @@ _Updated: 2026-08-26 01:49_
 - När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- AI and law: “We need to think proactively” - Stockholms universitet
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
@@ -85,7 +85,6 @@ _Updated: 2026-08-26 01:49_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -93,18 +92,18 @@ _Updated: 2026-08-26 01:49_
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
-- Nyhetsbrev om hälsa och livsmedelssäkerhet - European Commission
 - Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
@@ -116,6 +115,7 @@ _Updated: 2026-08-26 01:49_
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
@@ -123,22 +123,22 @@ _Updated: 2026-08-26 01:49_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Täta band mellan turism och forskning på Svalbard - SLU
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Täta band mellan turism och forskning på Svalbard - SLU
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Vårddata för forskning – hinder och möjligheter - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
 ## Jordbruk
 
@@ -159,6 +159,6 @@ _Updated: 2026-08-26 01:49_
 - Jord, kor och klimat - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Han tror stenhårt på jordbruket - Land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
