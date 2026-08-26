@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-26 16:24_
+_Updated: 2026-08-26 18:04_
 
-- Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims - The New York Times
-- Hundreds missing, including 291 foreign tourists, after flash flood on Nepal-Tibet border - BBC
+- Hundreds missing and many feared dead after massive flash flood hits Nepal-China border - CNN
 - Live Updates: Iran and Oman edge toward temporary Strait of Hormuz reopening plan, but Tehran insists U.S. lift blockade - CBS News
-- Trump gets a much-needed South Carolina win and other takeaways from Tuesday’s elections - CNN
-- Islamabad PIMS hospital fire: Witnesses say rescue was delayed as blaze killed 14 babies - BBC
+- Fed, NASA and DOJ among victims of China hacker group: Court documents - CNBC
+- Before Hegseth fired him, top general was advised to drop Kid Rock probe - The Washington Post
 - Wiped out: US faces surging toilet paper prices amid trade war with Canada - The Guardian
-- What to know about the Lindsay Clancy trial as closing arguments near - The Washington Post
+- Lindsey Graham's sister wins Republican primary to contest Senate seat in November - BBC
 - California couple confront their surrogate in a Texas court as dispute over newborn escalates - CNN
+- Pentagon claims to have found ‘hidden’ files on final days of the Afghanistan war - Politico
 - One US dollar now costs 2 million rials in Iran, and here’s what it can buy - Al Jazeera
-- College baseball player fatally shot after trying to enter wrong house, mom says - Fox News
+- Trump mulls renaming Lake Ontario as ‘Lake America.’ Canadians balk at the idea - AP News
 - China: Dissident artist jailed for satirical Mao sculptures - DW.com
 - Putin signs decree allowing state seizure of drone-hit businesses - Euronews.com
 - Second arrest over deadly sword attack at Swedish school - Euronews.com
-- More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead - NPR
-- Sticky PCE inflation leaves a divided central bank ahead of Fed's Jackson Hole retreat - Yahoo Finance
+- Chloe Moffat: Dad of woman who took her own life says Treasury failed in its duty of care - BBC
+- Meta agrees to settle social media addiction claims with states for up to $18 billion - NBC News
+- Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July - CNBC
 - Bill Gates calls for ‘human-reserved’ jobs in face of AI takeover - The Guardian
-- SpaceX Is Building A $100 Billion 'Starbase' Launch Site In Louisiana - Engadget
-- Stanley Druckenmiller makes AI writing a billionaire flex - Axios
-- Apple Giving Some Mac Mini Customers a Free Upgrade - MacRumors
-- Galaxy S27 Ultra’s major redesign detailed in new renders, price hike rumored - 9to5Google
+- SpaceX to Spend $100 Billion on Spaceport in Louisiana - The New York Times
+- Xbox announces disc-to-digital feature that digitizes your physical games - The Verge
+- Apple upgrading recent Mac mini orders to M6, M5 Pro models for free - 9to5Mac
