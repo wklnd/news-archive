@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-26 13:56_
+_Updated: 2026-08-26 15:34_
 
 ## Top Stories
 
-- DN Direkt – Polisen: Misstänkt var inte vid skolan i Fagersta - Dagens Nyheter
-- Dödligt lerskred och översvämningar i Himalaya - Hufvudstadsbladet – HBL
+- En till anhållen efter attacken på skolan i Fagersta - Göteborgs-Posten
 - Ny mätning: Tidöpartierna knappar in - Göteborgs-Posten
-- Bilderna visar: ”Turbokycklingen” kan inte stå - Aftonbladet
-- Jättebrand och dödsoffer i Ryssland - Göteborgs-Posten
+- Dödligt lerskred och översvämningar i Himalaya - Hufvudstadsbladet – HBL
+- Krav på kriskommission efter miljardfördyringar i Stockholms kollektivtrafik - Bussmagasinet
+- Tre av fyra politiska inlägg ger en negativ bild av samhället - Sveriges Radio
 - ”Matilda” riskerar utvisning – oroar sig inför förlossning - Dagens Nyheter
+- Uppgifter: Misstänkt gängkoppling hos Sis-personal i Falköping – femtontal sparkade - SVT Nyheter
 - Stormkök exploderade – fyra personer förda till sjukhus - SVT Nyheter
-- Petter först till valurnan: ”Rösta vill man inte missa” - Dagens Nyheter
 - Patrik Lundberg: En skolattack är ett brott mot mänskligheten - Dagens Nyheter
-- Insändare. Politikerna måste reagera på jättemanifestationen - Dagens Nyheter
-- Hon fick Libanon att avskaffa dödsstraffet: ”Ett ljus i mörkret” - Dagens Nyheter
+- DN Direkt – Åklagaren yrkar på livstid för dubbelmordet i Brattås - Dagens Nyheter
+- Jättebrand och dödsoffer i Ryssland - Göteborgs-Posten
+- Direkt – Krisen i Mellanöstern – Uppgift: Iran och Oman eniga om Hormuzavtal - Dagens Nyheter
 - Bekräftar CIA-besök: ”Mötte inte Putin” - Västerbottens-Kuriren
-- Regeringen kraftsamlar för att hantera migrantkrisen - Sveriges Radio
-- Iran och Oman: Diskuterat ramavtal för Hormuz - Corren
+- Hon fick Libanon att avskaffa dödsstraffet: ”Ett ljus i mörkret” - Dagens Nyheter
 - Meta försöker göra upp i mål om app-beroende - Sydsvenskan
-- Aktiespararen ser ingen krisvärdering längre i Yubico, köper upp till 130 kronor - Börsvärlden
+- Kanadas svar till Trump: Nya strafftullar - Västerbottens-Kuriren
 - C i Stockholm: Beredda på ”radikal kompromiss” för fler billiga bostäder - Dagens Nyheter
-- Börsen öppnar försiktigt uppåt – H&M backar - EFN
+- Aktiespararen ser ingen krisvärdering längre i Yubico, köper upp till 130 kronor - Börsvärlden
 - Apple visar upp M6 och M5 Ultra – företagets starkaste chipp någonsin - Computer Sweden
 - Vita prickar på rad på natthimlen – här är förklaringen - Sydsvenskan
 
@@ -52,22 +52,22 @@ _Updated: 2026-08-26 13:56_
 
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
@@ -83,9 +83,9 @@ _Updated: 2026-08-26 13:56_
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Vilken framtid arbetar du för? - EY
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -107,7 +107,7 @@ _Updated: 2026-08-26 13:56_
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
@@ -130,15 +130,15 @@ _Updated: 2026-08-26 13:56_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Vårddata för forskning – hinder och möjligheter - Läkartidningen
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
 
