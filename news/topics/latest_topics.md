@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-26 05:32_
+_Updated: 2026-08-26 06:11_
 
 ## Top Stories
 
 - Allvarligt men stabilt läge för skoloffren - Göteborgs-Posten
-- Frontalkrock i Uppsala – två till sjukhus - Expressen
-- Polisjakt slutade med olycka – en till sjukhus - Sydsvenskan
-- ”Låter osannolikt att Fjällräven har ett case” - Svenska Dagbladet
-- Källor: Rubio tror inte på fler attacker - Västerbottens-Kuriren
-- Förstörda valaffischer och 16 stulna skyltställ: "Är åt helvete" - Norran
 - Högsta stödet för L sedan SD-sväng - Västerbottens-Kuriren
-- Moderaterna vill avskaffa avgiften för förskola och fritids - SVT Nyheter
-- Här kan du förtidsrösta i Botkyrka kommun - Mitt i
-- Lastbilsolycka – riksväg 56 avstängd - Sveriges Radio
-- Direkt – Krisen i Mellanöstern – Oman och Iran i samtal om ny farled i Hormuzsundet - Dagens Nyheter
-- Fredsrådet till Israel och Hamas: Följ vapenvilan - Västerbottens-Kuriren
+- Frontalkrock i Uppsala – två till sjukhus - Expressen
+- Busch om att stötta Andersson: "Plötsligt står man där" - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Källor: Rubio tror inte på fler attacker - Dagens Nyheter
+- 16 valplakat stulna – M vill sätta gps på skyltar - Sveriges Radio
+- Karlstads kommun förbereder för fler förtidsröster i årets val - SVT Nyheter
+- Mohamsson om Åkesson: Inget jättebra snack - Västerbottens-Kuriren
+- Tomas Ramberg: Moderaterna kastar fram gammal S-politik - Dagens Nyheter
+- Långa köer efter bilbrand på E4 Uppsalavägen - Sveriges Radio
+- Kurdiska styrkorna i Syrien upplöses - Västerbottens-Kuriren
+- Fredsrådet till Israel och Hamas: Följ vapenvilan - Göteborgs-Posten
 - Rekordhettan riskerar att driva upp försäkringspremiern - Realtid
 - Dödliga attacker mellan Ryssland och Ukraina - Corren
-- Ingmar Nevéus: Kanadas Mark Carney visar världen hur man kan hantera Trump - Dagens Nyheter
+- Kanada svarar USA med tullar – Trump hotar med namnbyte på Ontariosjön - Sveriges Radio
+- Återhämtning i Asien – breda börsuppgångar - Västerbottens-Kuriren
 - 44-åring ny ägare till villa i Alingsås – 4 300 000 kronor blev priset - Alingsås Tidning
 - Moderna rusar vidare på grön börs i USA - EFN
-- ”Kan innebära betydligt större räntehöjningar” - Tidningen Näringslivet
 - Vita prickar på rad på natthimlen – här är förklaringen - Sydsvenskan
 - Gamescom Opening night live – här är de största spelnyheterna - Aftonbladet
 
@@ -32,10 +32,9 @@ _Updated: 2026-08-26 05:32_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - UNESCO statement on Ukraine - UNESCO
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Sporten kan nu förändras helt - Expressen
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
@@ -44,6 +43,7 @@ _Updated: 2026-08-26 05:32_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
@@ -57,10 +57,10 @@ _Updated: 2026-08-26 05:32_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI and law: “We need to think proactively” - Stockholms universitet
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
