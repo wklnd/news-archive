@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-26 09:25_
+_Updated: 2026-08-26 10:08_
 
 ## Top Stories
 
-- DANIEL PERSSON: Vad gör vi efter Fagersta egentligen? - NT
-- Ny mätning: Tidöpartierna knappar in - Västerbottens-Kuriren
+- Man anhållen efter skoldådet i Fagersta - Göteborgs-Posten
+- Direkt – Krisen i Mellanöstern – Källor: Rubio tror inte på fler attacker - Dagens Nyheter
+- Ny mätning: Tidöpartierna knappar in - Göteborgs-Posten
 - Så förtidsröstar du i Göteborg - Göteborgs-Posten
 - Busch om att stötta Andersson: "Plötsligt står man där" - Dagens Nyheter
-- Rättegång mot Abu Agila Masud skjuts upp – misstänks för Lockerbiebomb - Sveriges Radio
 - Många spädbarn döda i sjukhusbrand - Västerbottens-Kuriren
-- Mohamsson om Åkesson: Inget jättebra snack - Västerbottens-Kuriren
-- Tomas Ramberg: Moderaterna kastar fram gammal S-politik - Dagens Nyheter
+- Mässlingsvaccin blir gratis i Stockholm - Göteborgs-Posten
+- Patrik Lundberg: En skolattack är ett brott mot mänskligheten - Dagens Nyheter
 - Kalla fakta: Så svarar Svensk Fågel på kritiken - TV4 Nyheterna
-- LEDARE: Hör på 31-årige Rasmus i Krokom - Östersunds-Posten
-- Direkt – Krisen i Mellanöstern – Oman och Iran i samtal om ny farled i Hormuzsundet - Dagens Nyheter
+- Tomas Ramberg: Moderaterna kastar fram gammal S-politik - Dagens Nyheter
+- Hon fick Libanon att avskaffa dödsstraffet: ”Ett ljus i mörkret” - Dagens Nyheter
 - Man död i trafikolycka utanför Uppsala - Aftonbladet
-- Kurdiska styrkorna i Syrien upplöses - Göteborgs-Posten
-- Citi höjer prismål för majs, soja och vete på grund av El Niño-risker - Investing.com Sverige
+- Ytterligare en anhållen efter skoldådet i Fagersta - TV4 Nyheterna
+- Ukrainas nya mål: Nästa ryska e-handelsjätte - Svenska Dagbladet
+- Experter: Fortsätt att satsa på guld – oavsett hur marknaden reagerar - Dagens PS
 - Kanada svarar USA med tullar – Trump hotar med namnbyte på Ontariosjön - Sveriges Radio
 - Återhämtning i Asien – breda börsuppgångar - Aftonbladet
 - LEDARE: Inte ens Mikael Damberg tror på sin bankskatt - Skaraborgs Allehanda
-- Trendbrott för Nvidia lyfte trevande börs i USA - EFN
 - Vita prickar på rad på natthimlen – här är förklaringen - Sydsvenskan
-- Paradox presenterar två nya spel – analytikern: Aktien ska upp - Dagens industri
+- Apple visar upp M6 och M5 Ultra – företagets starkaste chipp någonsin - Computer Sweden
 
 ## World News
 
@@ -36,14 +36,14 @@ _Updated: 2026-08-26 09:25_
 - Sporten kan nu förändras helt - Expressen
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
@@ -59,7 +59,7 @@ _Updated: 2026-08-26 09:25_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
-- AI and law: “We need to think proactively” - Stockholms universitet
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
