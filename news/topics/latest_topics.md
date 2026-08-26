@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-26 13:01_
+_Updated: 2026-08-26 13:56_
 
 ## Top Stories
 
-- En till anhållen efter attacken på skolan i Fagersta - Göteborgs-Posten
-- Ny mätning: Tidöpartierna knappar in - Västerbottens-Kuriren
+- DN Direkt – Polisen: Misstänkt var inte vid skolan i Fagersta - Dagens Nyheter
+- Dödligt lerskred och översvämningar i Himalaya - Hufvudstadsbladet – HBL
+- Ny mätning: Tidöpartierna knappar in - Göteborgs-Posten
+- Bilderna visar: ”Turbokycklingen” kan inte stå - Aftonbladet
+- Jättebrand och dödsoffer i Ryssland - Göteborgs-Posten
+- ”Matilda” riskerar utvisning – oroar sig inför förlossning - Dagens Nyheter
 - Stormkök exploderade – fyra personer förda till sjukhus - SVT Nyheter
-- Jesper Sundén: 95 miljoner kronor för att döda Barron - Svenska Dagbladet
-- Värmlänningarna har lagt sin första röst - Nya Wermlands-Tidningen
-- Strömavbrott i Stockholm city – Kulturhuset stängt - Sveriges Radio
-- Spökfiske ond cirkel som kan döda i flera år - SkLT
-- Mässlingsvaccin blir gratis för vuxna i Stockholm - SVT Nyheter
-- Kalla fakta: Så svarar Svensk Fågel på kritiken - TV4 Nyheterna
-- DEBATT: Sjukvården – valets huvudfråga säger 64 procent - Vimmerby Tidning
-- Dödligt lerskred och översvämningar i Himalaya - Göteborgs-Posten
-- Regeringen kraftsamlar för att hantera migrantkrisen - Sveriges Radio
+- Petter först till valurnan: ”Rösta vill man inte missa” - Dagens Nyheter
+- Patrik Lundberg: En skolattack är ett brott mot mänskligheten - Dagens Nyheter
+- Insändare. Politikerna måste reagera på jättemanifestationen - Dagens Nyheter
 - Hon fick Libanon att avskaffa dödsstraffet: ”Ett ljus i mörkret” - Dagens Nyheter
-- Många spädbarn döda i sjukhusbrand - Västerbottens-Kuriren
+- Bekräftar CIA-besök: ”Mötte inte Putin” - Västerbottens-Kuriren
+- Regeringen kraftsamlar för att hantera migrantkrisen - Sveriges Radio
+- Iran och Oman: Diskuterat ramavtal för Hormuz - Corren
+- Meta försöker göra upp i mål om app-beroende - Sydsvenskan
+- Aktiespararen ser ingen krisvärdering längre i Yubico, köper upp till 130 kronor - Börsvärlden
 - C i Stockholm: Beredda på ”radikal kompromiss” för fler billiga bostäder - Dagens Nyheter
-- Kanadas svar till Trump: Nya strafftullar - Västerbottens-Kuriren
-- Meta försöker göra upp i mål om app-beroende - Göteborgs-Posten
-- Stockholm mot ljusgrön start: ”Det kan röra runt” - EFN
+- Börsen öppnar försiktigt uppåt – H&M backar - EFN
 - Apple visar upp M6 och M5 Ultra – företagets starkaste chipp någonsin - Computer Sweden
 - Vita prickar på rad på natthimlen – här är förklaringen - Sydsvenskan
 
@@ -52,17 +52,17 @@ _Updated: 2026-08-26 13:01_
 
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
@@ -107,7 +107,7 @@ _Updated: 2026-08-26 13:01_
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
