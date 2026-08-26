@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-26 10:08_
+_Updated: 2026-08-26 11:11_
 
 ## Top Stories
 
 - Man anhållen efter skoldådet i Fagersta - Göteborgs-Posten
+- Ny mätning: Tidöpartierna knappar in - Västerbottens-Kuriren
+- Jesper Sundén: 95 miljoner kronor för att döda Barron - Svenska Dagbladet
+- Ebba Busch (KD) frågas ut i Radio Aftonbladet - Aftonbladet
+- Jättebrand och dödsoffer i Ryssland - Göteborgs-Posten
 - Direkt – Krisen i Mellanöstern – Källor: Rubio tror inte på fler attacker - Dagens Nyheter
-- Ny mätning: Tidöpartierna knappar in - Göteborgs-Posten
-- Så förtidsröstar du i Göteborg - Göteborgs-Posten
-- Busch om att stötta Andersson: "Plötsligt står man där" - Dagens Nyheter
+- Man död i trafikolycka utanför Uppsala - Västerbottens-Kuriren
+- Mässlingsvaccin blir gratis i Stockholm - Västerbotten | Folkbladet
+- DEBATT: Sjukvården – valets huvudfråga säger 64 procent - Vimmerby Tidning
+- Fria ord: Hur ska vi våga skicka barnen till skolan där de riskerar att dö i en skolattack? - Göteborgs-Posten
 - Många spädbarn döda i sjukhusbrand - Västerbottens-Kuriren
-- Mässlingsvaccin blir gratis i Stockholm - Göteborgs-Posten
-- Patrik Lundberg: En skolattack är ett brott mot mänskligheten - Dagens Nyheter
-- Kalla fakta: Så svarar Svensk Fågel på kritiken - TV4 Nyheterna
-- Tomas Ramberg: Moderaterna kastar fram gammal S-politik - Dagens Nyheter
 - Hon fick Libanon att avskaffa dödsstraffet: ”Ett ljus i mörkret” - Dagens Nyheter
-- Man död i trafikolycka utanför Uppsala - Aftonbladet
-- Ytterligare en anhållen efter skoldådet i Fagersta - TV4 Nyheterna
-- Ukrainas nya mål: Nästa ryska e-handelsjätte - Svenska Dagbladet
-- Experter: Fortsätt att satsa på guld – oavsett hur marknaden reagerar - Dagens PS
-- Kanada svarar USA med tullar – Trump hotar med namnbyte på Ontariosjön - Sveriges Radio
+- Bekräftar CIA-besök: ”Mötte inte Putin” - Västerbottens-Kuriren
+- Iran och Oman: Diskuterat ramavtal för Hormuz - Corren
+- Kanadas svar till Trump: Nya strafftullar - Västerbottens-Kuriren
+- DANIEL ÅKERMAN: ”Det är du som får betala S bankskatt” - Helagotland
 - Återhämtning i Asien – breda börsuppgångar - Aftonbladet
-- LEDARE: Inte ens Mikael Damberg tror på sin bankskatt - Skaraborgs Allehanda
+- Citi höjer kortsiktig riktkurs för guld till 4 800 dollar - Placera.se
 - Vita prickar på rad på natthimlen – här är förklaringen - Sydsvenskan
-- Apple visar upp M6 och M5 Ultra – företagets starkaste chipp någonsin - Computer Sweden
+- NYA IP:N FRÅN PARADOX, TRANSPORT FEVER SLÄPPS 29/9 (OMS) - Placera.se
 
 ## World News
 
@@ -51,17 +51,17 @@ _Updated: 2026-08-26 10:08_
 ## Technology
 
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
-- Open AI släpper översättare: Chat GPT Translate - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
@@ -79,7 +79,6 @@ _Updated: 2026-08-26 10:08_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Vilken framtid arbetar du för? - EY
@@ -93,6 +92,7 @@ _Updated: 2026-08-26 10:08_
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -123,8 +123,8 @@ _Updated: 2026-08-26 10:08_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
