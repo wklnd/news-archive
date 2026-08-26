@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-26 11:11_
+_Updated: 2026-08-26 13:01_
 
 ## Top Stories
 
-- Man anhållen efter skoldådet i Fagersta - Göteborgs-Posten
+- En till anhållen efter attacken på skolan i Fagersta - Göteborgs-Posten
 - Ny mätning: Tidöpartierna knappar in - Västerbottens-Kuriren
+- Stormkök exploderade – fyra personer förda till sjukhus - SVT Nyheter
 - Jesper Sundén: 95 miljoner kronor för att döda Barron - Svenska Dagbladet
-- Ebba Busch (KD) frågas ut i Radio Aftonbladet - Aftonbladet
-- Jättebrand och dödsoffer i Ryssland - Göteborgs-Posten
-- Direkt – Krisen i Mellanöstern – Källor: Rubio tror inte på fler attacker - Dagens Nyheter
-- Man död i trafikolycka utanför Uppsala - Västerbottens-Kuriren
-- Mässlingsvaccin blir gratis i Stockholm - Västerbotten | Folkbladet
+- Värmlänningarna har lagt sin första röst - Nya Wermlands-Tidningen
+- Strömavbrott i Stockholm city – Kulturhuset stängt - Sveriges Radio
+- Spökfiske ond cirkel som kan döda i flera år - SkLT
+- Mässlingsvaccin blir gratis för vuxna i Stockholm - SVT Nyheter
+- Kalla fakta: Så svarar Svensk Fågel på kritiken - TV4 Nyheterna
 - DEBATT: Sjukvården – valets huvudfråga säger 64 procent - Vimmerby Tidning
-- Fria ord: Hur ska vi våga skicka barnen till skolan där de riskerar att dö i en skolattack? - Göteborgs-Posten
-- Många spädbarn döda i sjukhusbrand - Västerbottens-Kuriren
+- Dödligt lerskred och översvämningar i Himalaya - Göteborgs-Posten
+- Regeringen kraftsamlar för att hantera migrantkrisen - Sveriges Radio
 - Hon fick Libanon att avskaffa dödsstraffet: ”Ett ljus i mörkret” - Dagens Nyheter
-- Bekräftar CIA-besök: ”Mötte inte Putin” - Västerbottens-Kuriren
-- Iran och Oman: Diskuterat ramavtal för Hormuz - Corren
+- Många spädbarn döda i sjukhusbrand - Västerbottens-Kuriren
+- C i Stockholm: Beredda på ”radikal kompromiss” för fler billiga bostäder - Dagens Nyheter
 - Kanadas svar till Trump: Nya strafftullar - Västerbottens-Kuriren
-- DANIEL ÅKERMAN: ”Det är du som får betala S bankskatt” - Helagotland
-- Återhämtning i Asien – breda börsuppgångar - Aftonbladet
-- Citi höjer kortsiktig riktkurs för guld till 4 800 dollar - Placera.se
+- Meta försöker göra upp i mål om app-beroende - Göteborgs-Posten
+- Stockholm mot ljusgrön start: ”Det kan röra runt” - EFN
+- Apple visar upp M6 och M5 Ultra – företagets starkaste chipp någonsin - Computer Sweden
 - Vita prickar på rad på natthimlen – här är förklaringen - Sydsvenskan
-- NYA IP:N FRÅN PARADOX, TRANSPORT FEVER SLÄPPS 29/9 (OMS) - Placera.se
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- UNESCO statement on Ukraine - Unesco
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Sporten kan nu förändras helt - Expressen
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
@@ -50,6 +50,7 @@ _Updated: 2026-08-26 11:11_
 
 ## Technology
 
+- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
@@ -69,7 +70,6 @@ _Updated: 2026-08-26 11:11_
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
@@ -79,20 +79,20 @@ _Updated: 2026-08-26 11:11_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Vilken framtid arbetar du för? - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -107,15 +107,15 @@ _Updated: 2026-08-26 11:11_
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 
 ## Science
 
