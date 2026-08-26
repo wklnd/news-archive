@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-26 16:20_
+_Updated: 2026-08-26 17:59_
 
 ## Top Stories
 
-- En till anhållen efter attacken på skolan i Fagersta - Göteborgs-Posten
+- DN Direkt – Mohamsson om en mittenregering: Dörren är totalstängd - Dagens Nyheter
 - Dödligt lerskred och översvämningar i Himalaya - Hufvudstadsbladet – HBL
-- DN Direkt – Petter först till valurnan: ”Rösta vill man inte missa” - Dagens Nyheter
-- Här möter Haakon pressen – från slottet i Oslo - Svensk Damtidning
-- Ny mätning: Tidöpartierna knappar in - Västerbottens-Kuriren
+- Kungafamiljen till Rikshospitalet - Göteborgs-Posten
+- Nu inleds röstningen – ställ dina frågor om valet till experterna - SVT Nyheter
+- Michael Winiarski: Vad gjorde CIA-chefen i Moskva? - Dagens Nyheter
 - Krav på kriskommission efter miljardfördyringar i Stockholms kollektivtrafik - Bussmagasinet
+- En till anhållen efter attacken på skolan i Fagersta - Göteborgs-Posten
 - Sis-personal kopplas till gäng – sparkas - Västerbottens-Kuriren
-- Stormkök exploderade – skadades allvarligt - Västerbottens-Kuriren
-- ”Matilda” riskerar utvisning – oroar sig inför förlossning - Dagens Nyheter
 - Källor om S negativa trend: ”Nedgången är väntad” - Dagens Nyheter
-- Jättebrand och dödsoffer i Ryssland - Göteborgs-Posten
+- Stormkök exploderade – skadades allvarligt - Skånska Dagbladet
+- Ukrainska attacker – jättebrand och dödsoffer - Göteborgs-Posten
 - Direkt – Krisen i Mellanöstern – Uppgift: Iran och Oman eniga om Hormuzavtal - Dagens Nyheter
-- Bekräftar CIA-besök: ”Mötte inte Putin” - Västerbottens-Kuriren
-- Debatt: Islands folkomröstning vägen till enat Norden - Europaportalen
+- Flygplatsanställd i Tyskland har dött av malaria - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Trump: Minor i Hormuzsundet borta - Dagens Nyheter
 - Meta förlikas med 29 delstater om barns användning av apparna (uppdatering 2) - Börsvärlden
-- OncoZenge säkrar 33 Mkr med stöd av profilerade life science-investerare - Biostock
-- Lego Skylines låter oss bygga våra egna Lego-städer - Teknikveckan
-- Kanadas svar till Trump: Nya strafftullar - Västerbottens-Kuriren
+- Spänt inför Nvidias rapport: ”Som VM-final i fotboll” - Omni – Alla nyheter. Alla perspektiv.
+- Styrelsen i CombinedX föreslår investering i AI-mjukvarubolaget Xalerate och kallar till extra bolagsstämma (Cision) - Aktiellt
+- Fyra ryska bankdirektörer tjänade miljoner på EU:s sanktioner - Realtid
 - Apple visar upp M6 och M5 Ultra – företagets starkaste chipp någonsin - Computer Sweden
 - Rockstar bekräftar att ”GTA 6” har läckt: ”Hjärtskärande” - SVT Nyheter
 
@@ -30,17 +30,17 @@ _Updated: 2026-08-26 16:20_
 - GT World Challenge Asia, Okayama International Circuit, Japan på inatt 00:10 - tv.nu
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Sporten kan nu förändras helt - Expressen
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
@@ -52,24 +52,24 @@ _Updated: 2026-08-26 16:20_
 
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -79,6 +79,7 @@ _Updated: 2026-08-26 16:20_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Vilken framtid arbetar du för? - EY
@@ -90,9 +91,8 @@ _Updated: 2026-08-26 16:20_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -108,14 +108,14 @@ _Updated: 2026-08-26 16:20_
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 
 ## Science
 
