@@ -1,52 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-26 07:10_
+_Updated: 2026-08-26 07:59_
 
 ## Top Stories
 
+- Busch om att stötta Andersson: "Plötsligt står man där" - Dagens Nyheter
+- Många spädbarn döda i sjukhusbrand - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Källor: Rubio tror inte på fler attacker - Dagens Nyheter
 - DANIEL PERSSON: Vad gör vi efter Fagersta egentligen? - NT
 - Högsta stödet för L sedan SD-sväng - Göteborgs-Posten
-- Busch om att stötta Andersson: "Plötsligt står man där" - Dagens Nyheter
-- Aktuella frågor Vallöfte från Moderaterna: ”Så ska vi halvera arbetslösheten i Malmö.” - Sydsvenskan
-- Källor: Rubio tror inte på fler attacker - Västerbottens-Kuriren
-- Man i Montana dödade åtta släktingar på söndagsmiddag - Göteborgs-Posten
 - Så förtidsröstar du i Göteborg - Göteborgs-Posten
 - Mohamsson om Åkesson: Inget jättebra snack - Västerbottens-Kuriren
-- Moderaterna vill avskaffa avgiften för förskola och fritids - SVT Nyheter
+- Tomas Ramberg: Moderaterna kastar fram gammal S-politik - Dagens Nyheter
+- Ny mätning: Gapet mellan blocken minskar – Senaste nytt om valet 2026 - SVT Nyheter
 - Långa köer efter bilbrand på E4 Uppsalavägen - Sveriges Radio
-- Många spädbarn döda i sjukhusbrand - Västerbottens-Kuriren
-- Fredsrådet till Israel och Hamas: Följ vapenvilan - Göteborgs-Posten
-- Kurdiska styrkorna i Syrien upplöses - Västerbottens-Kuriren
+- Kurdiska styrkorna i Syrien upplöses - Göteborgs-Posten
 - Man död i trafikolycka utanför Uppsala - Aftonbladet
-- Ingmar Nevéus: Kanadas Mark Carney visar världen hur man kan hantera Trump - Dagens Nyheter
+- Fredsrådet till Israel och Hamas: Följ vapenvilan - Västerbottens-Kuriren
+- Ukrainas nya mål: Putins e-handelsjätte - Expressen
+- Kanada svarar USA med tullar – Trump hotar med namnbyte på Ontariosjön - Sveriges Radio
 - LEDARE: Inte ens Mikael Damberg tror på sin bankskatt - Skaraborgs Allehanda
-- Återhämtning i Asien – breda börsuppgångar - Aftonbladet
-- MODERNA STEG PÅ GRÖNA BÖRSER, S&P 500 +0,3% (OMS) - Placera.se
+- Just nu Breda uppgångar i Asien inför Nvidias rapport - Placera.se
+- Brist på bredd när New York-börsen lyfter - EFN
 - Vita prickar på rad på natthimlen – här är förklaringen - Sydsvenskan
 - Gamescom Opening night live – här är de största spelnyheterna - Aftonbladet
 
 ## World News
 
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- UNESCO statement on Ukraine - UNESCO
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Sporten kan nu förändras helt - Expressen
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Global Payments lanserar Genius World-evenemang i Las Vegas av Investing.com - Investing.com Sverige
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- UNESCO statement on Ukraine - Unesco
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Sporten kan nu förändras helt - Expressen
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
+- International Day of Epidemic Preparedness - World Health Organization (WHO)
+- Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
+- 29 120 adresser undersöktes under en global kryptoinformationsinsats - Bitcoin News
+- Kenya cult leader Paul Mackenzie faces terror charges over mass deaths - BBC
+- Geetanjali Shree is first Indian winner of International Booker Prize - BBC
 
 ## Technology
 
@@ -59,7 +58,7 @@ _Updated: 2026-08-26 07:10_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- AI and law: “We need to think proactively” - Stockholms universitet
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
@@ -79,6 +78,7 @@ _Updated: 2026-08-26 07:10_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- FNB Accumulates National and Regional Recognition as a Top Workplace (PR Newswire) - Aktiellt
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Vilken framtid arbetar du för? - EY
@@ -92,30 +92,29 @@ _Updated: 2026-08-26 07:10_
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
-- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
+- Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
