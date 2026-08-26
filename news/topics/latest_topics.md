@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-26 06:11_
+_Updated: 2026-08-26 07:10_
 
 ## Top Stories
 
-- Allvarligt men stabilt läge för skoloffren - Göteborgs-Posten
-- Högsta stödet för L sedan SD-sväng - Västerbottens-Kuriren
-- Frontalkrock i Uppsala – två till sjukhus - Expressen
+- DANIEL PERSSON: Vad gör vi efter Fagersta egentligen? - NT
+- Högsta stödet för L sedan SD-sväng - Göteborgs-Posten
 - Busch om att stötta Andersson: "Plötsligt står man där" - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Källor: Rubio tror inte på fler attacker - Dagens Nyheter
-- 16 valplakat stulna – M vill sätta gps på skyltar - Sveriges Radio
-- Karlstads kommun förbereder för fler förtidsröster i årets val - SVT Nyheter
+- Aktuella frågor Vallöfte från Moderaterna: ”Så ska vi halvera arbetslösheten i Malmö.” - Sydsvenskan
+- Källor: Rubio tror inte på fler attacker - Västerbottens-Kuriren
+- Man i Montana dödade åtta släktingar på söndagsmiddag - Göteborgs-Posten
+- Så förtidsröstar du i Göteborg - Göteborgs-Posten
 - Mohamsson om Åkesson: Inget jättebra snack - Västerbottens-Kuriren
-- Tomas Ramberg: Moderaterna kastar fram gammal S-politik - Dagens Nyheter
+- Moderaterna vill avskaffa avgiften för förskola och fritids - SVT Nyheter
 - Långa köer efter bilbrand på E4 Uppsalavägen - Sveriges Radio
-- Kurdiska styrkorna i Syrien upplöses - Västerbottens-Kuriren
+- Många spädbarn döda i sjukhusbrand - Västerbottens-Kuriren
 - Fredsrådet till Israel och Hamas: Följ vapenvilan - Göteborgs-Posten
-- Rekordhettan riskerar att driva upp försäkringspremiern - Realtid
-- Dödliga attacker mellan Ryssland och Ukraina - Corren
-- Kanada svarar USA med tullar – Trump hotar med namnbyte på Ontariosjön - Sveriges Radio
-- Återhämtning i Asien – breda börsuppgångar - Västerbottens-Kuriren
-- 44-åring ny ägare till villa i Alingsås – 4 300 000 kronor blev priset - Alingsås Tidning
-- Moderna rusar vidare på grön börs i USA - EFN
+- Kurdiska styrkorna i Syrien upplöses - Västerbottens-Kuriren
+- Man död i trafikolycka utanför Uppsala - Aftonbladet
+- Ingmar Nevéus: Kanadas Mark Carney visar världen hur man kan hantera Trump - Dagens Nyheter
+- LEDARE: Inte ens Mikael Damberg tror på sin bankskatt - Skaraborgs Allehanda
+- Återhämtning i Asien – breda börsuppgångar - Aftonbladet
+- MODERNA STEG PÅ GRÖNA BÖRSER, S&P 500 +0,3% (OMS) - Placera.se
 - Vita prickar på rad på natthimlen – här är förklaringen - Sydsvenskan
 - Gamescom Opening night live – här är de största spelnyheterna - Aftonbladet
 
@@ -32,6 +32,7 @@ _Updated: 2026-08-26 06:11_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - UNESCO statement on Ukraine - UNESCO
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Sporten kan nu förändras helt - Expressen
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -43,7 +44,6 @@ _Updated: 2026-08-26 06:11_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
@@ -57,12 +57,12 @@ _Updated: 2026-08-26 06:11_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
 - Open AI släpper översättare: Chat GPT Translate - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- AI and law: “We need to think proactively” - Stockholms universitet
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
