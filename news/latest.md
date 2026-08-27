@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-27 14:01_
+_Updated: 2026-08-28 00:35_
 
-- People from more than 30 countries are missing after the flash floods in Nepal and China - AP News
-- Key moments from Lindsay Clancy's five-week trial over children's killings - BBC
-- News Wrap: States sue USPS, challenging Trump’s order on mail-in voting - PBS
-- Trump signs controversial beef import plan despite ranchers' backlash - Politico
-- CIA chief John Ratcliffe reportedly made secretive Moscow trip to warn Russia against attacking NATO - CNBC
-- After six months of Iran war, US goals have shifted. The Strait of Hormuz is now a top concern - AP News
-- Small plane crashes in water next to remote Alaska coastal town, killing all 4 on board - CNN
-- The Social Security benefit cliff is here. Washington is struggling to wake up. - Politico
-- Southern California's scorching heat wave peaks: Here's how hot it will get and when it will end - Los Angeles Times
-- Labor Protests and Panic Buying Signal Growing Pressure in Iran - WSJ
-- Where Drones Cannot See, the Ukraine War Is a Deadly Game of Cat and Mouse - The New York Times
-- Israel-Hamas truce failure ‘point of no return’, envoy warns - Al Jazeera
-- Car Explosion in St. Petersburg Kills Russian Military Officer, Reports Say - The Moscow Times
-- The Russia-Ukraine War Gets More Ruthless and Destructive—but No Closer to Ending - WSJ
-- Mark Zuckerberg Wants to Make Sure YouTube and TikTok Share His Pain - The New York Times
-- Nvidia rises after signaling longer AI spending runway - Reuters
-- Hundreds of AI agents went rogue in OpenAI’s Hugging Face hack - Politico
-- Nvidia closes in on Hugging Face acquisition - TechCrunch
-- Here’s how many foldable iPhones IDC expects Apple to ship in one year - 9to5Mac
-- Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards - The Verge
+- Race to get aid into Nepal and Tibet amid warnings flood lake could burst - The Guardian
+- Trump signs order renaming Lake Ontario as ‘Lake America’ in the United States - AP News
+- Lindsay Clancy trial in hands of jury after closing arguments conclude - BBC
+- Alerts from Trump’s helicopter went unheard at Reagan National - Politico
+- Scoop: U.S. close to striking "massive" deal for Venezuelan oil fields - Axios
+- Democrats hand Trump one power they spent years fighting - Fox News
+- Hope Florida reemerges as midterm issue with leaked grand jury report - Politico
+- Texas releases ICE agent charged in Minneapolis shooting - The Washington Post
+- Tropical Storm Dolly forms days after Dolly Parton's death - USA Today
+- RFK Jr. said a Samoa trip had nothing to do with vaccines. New documents refute that - CNN
+- Ratko Mladic, ex-Bosnian Serb warlord who oversaw atrocities, has died at 84 - NPR
+- Iran War Updates: Tehran engages in renewed diplomatic push, touts proposal to reopen Strait of Hormuz - CBS News
+- Secret Service spokesperson is put on leave amid investigation - The Washington Post
+- Exclusive: US Patriot missile stocks in Europe are 'beyond critical' due to Iran war, officials say - AP News
+- Parent activist says Meta settlement is 'peanuts,' calls on Zuckerberg to speak out - Fox Business
+- Stock Market on Aug. 27, 2026: S&P 500 and Nasdaq close higher in tech-fueled rally as Nvidia's stock jumps after its earnings beat expectations; Dow rises as Salesforce shares surge and Jackson Hole symposium gets started; Marvell Technology results on - MarketWatch
+- Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect - CNBC
+- Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies - WSJ
+- ‘GTA 6’ Drops 27 Minutes of New In-Game Footage on Netflix Amid Ongoing Rockstar Games Leaks - Variety
+- Samsung’s Galaxy S26 FE Has Flagship Features, but It’s Harder to Call It a Bargain - CNET
