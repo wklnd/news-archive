@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-27 03:03_
+_Updated: 2026-08-27 14:01_
 
-- Flash flood on Nepal-Tibet border kills more than 150, with hundreds of tourists missing - BBC
-- States renew fight against Trump's mail-in voting rule - Axios
-- Iran warns of military ship ban in Hormuz under potential deal with Oman, and other Middle East news - AP News
+- People from more than 30 countries are missing after the flash floods in Nepal and China - AP News
+- Key moments from Lindsay Clancy's five-week trial over children's killings - BBC
+- News Wrap: States sue USPS, challenging Trump’s order on mail-in voting - PBS
 - Trump signs controversial beef import plan despite ranchers' backlash - Politico
-- Clancy murder trial testimony wraps; closing arguments scheduled for Thursday - WBUR
-- Judge Handling 9/11 Case Sets June 2028 Trial Date - The New York Times
-- Canada's tariffs target certain U.S. states. See which regions are most vulnerable. - CBS News
-- Maryland Judge Blocks Democratic Redistricting Measure - The New York Times
-- In a divided America, the left and right unite to oppose artificial intelligence data centers - AP News
-- Scoop: Senate Republican investigates Flock cameras - Axios
-- Nigeria launches hunt for hundreds of kidnapped mosque worshippers - Al Jazeera
-- More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead - NPR
-- Secret Service Officials Said to Be Put on Leave Amid Internal Inquiry - The New York Times
-- Europe eyes Russia in attacks on weapons and cargo. But Germany treads lightly. - The Washington Post
-- Meta agrees to pay $18 billion to settle US lawsuits over children's social media addiction - Reuters
-- Nvidia forecasts fiscal '28 revenue growth of 70%, soaring past estimates: Live updates - CNBC
-- As Cook case smolders, Trump has other paths to shape Fed policy team - Reuters
-- Bill Gates calls for ‘human-reserved’ jobs in face of AI takeover - The Guardian
-- Apple is holding its iPhone launch event on September 9 - TechCrunch
-- 'GTA VI' Cyberleek update: Everything leaked Wednesday and earlier this week - Mashable
+- CIA chief John Ratcliffe reportedly made secretive Moscow trip to warn Russia against attacking NATO - CNBC
+- After six months of Iran war, US goals have shifted. The Strait of Hormuz is now a top concern - AP News
+- Small plane crashes in water next to remote Alaska coastal town, killing all 4 on board - CNN
+- The Social Security benefit cliff is here. Washington is struggling to wake up. - Politico
+- Southern California's scorching heat wave peaks: Here's how hot it will get and when it will end - Los Angeles Times
+- Labor Protests and Panic Buying Signal Growing Pressure in Iran - WSJ
+- Where Drones Cannot See, the Ukraine War Is a Deadly Game of Cat and Mouse - The New York Times
+- Israel-Hamas truce failure ‘point of no return’, envoy warns - Al Jazeera
+- Car Explosion in St. Petersburg Kills Russian Military Officer, Reports Say - The Moscow Times
+- The Russia-Ukraine War Gets More Ruthless and Destructive—but No Closer to Ending - WSJ
+- Mark Zuckerberg Wants to Make Sure YouTube and TikTok Share His Pain - The New York Times
+- Nvidia rises after signaling longer AI spending runway - Reuters
+- Hundreds of AI agents went rogue in OpenAI’s Hugging Face hack - Politico
+- Nvidia closes in on Hugging Face acquisition - TechCrunch
+- Here’s how many foldable iPhones IDC expects Apple to ship in one year - 9to5Mac
+- Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards - The Verge
