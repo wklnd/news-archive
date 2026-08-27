@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-27 13:51_
+_Updated: 2026-08-28 00:29_
 
 ## Top Stories
 
-- Kung Haralds hälsa försämrad: ”Väldigt allvarligt” - Göteborgs-Posten
-- Peter Alestig: Fler katastrofer att vänta när glaciärerna börjar kollapsa - Dagens Nyheter
-- Tonårspojke begärd häktad – misstänks för medhjälp vid skoldådet i Fagersta - SVT Nyheter
-- ”Höger med hjärta” går hem hos väljare – KD tar röster från M i ny mätning - Omni – Alla nyheter. Alla perspektiv.
-- Tomas Ramberg: Inte konstigt att Andersson knorrar - Dagens Nyheter
-- Bil rammade hållplats – minst två döda - Göteborgs-Posten
-- Så funkar de nya digitala röstkorten - Göteborgs-Posten
-- Säpo utreder hot mot Mohamsson - Västerbottens-Kuriren
-- Magdalena Andersson: Vi har valrörelsens osexigaste vallöfte - Dagens Nyheter
-- Rekordmånga förtidsröstade första dagen – ”ökning med 38 procent” - SVT Nyheter
-- Explosion i S:t Petersburg – militär uppges död - Västerbottens-Kuriren
-- Klartecken till kompensation efter spiralskandal - Västerbotten | Folkbladet
-- Explosioner på flera håll i Ukraina - Dagens Nyheter
+- DN Direkt – Kung Haralds hälsotillstånd oförändrat - Dagens Nyheter
+- Just nu: VMA i Göteborg – brand i kemikaliefabrik - Sveriges Radio
+- Svenska Jenny kom hem till Nepal – mitt i katastrofen - SVT Nyheter
+- Misstänkt grov mordbrand i Oxie – pojke gripen - Sydsvenskan
+- Upptrappade ryska attacker – uppmanas att evakuera - Göteborgs-Posten
+- Aktivister på Finlandsfärja – kan inte lämna - Mitt i
+- Tomas Ramberg: Årets val det konstigaste på 30 år - Dagens Nyheter
+- En avliden efter frontalkrock mellan mc och personbil utanför Frändefors - SVT Nyheter
+- Förtidsröstning har lång tradition i Sverige - Statistikmyndigheten SCB
+- Tonårspojke häktas – misstänks för medhjälp vid skoldådet i Fagersta - SVT Nyheter
 - Källor: CIA-chef varnade Ryssland - Corren
-- Totalvändning för Nvidia – rusar i förhandeln - EFN
-- Boliden förvärvar gruvor i Sydamerika för 13 miljarder - METALLERochGRUVOR.se
-- Fortum söker stöd till nya reaktorer i Oskarshamn - Aktuell Hållbarhet
-- Aktieprofilen ”Kavastu”: Så blir du en vinnare på börsen - Expressen
-- På fredag färgas månen röd – så upplever du det bäst - Sydsvenskan
-- Idiotiska rykten om GTA VI – ingenting är normalt - Aftonbladet
+- Ukrainska attacker – jättebrand och dödsoffer - Göteborgs-Posten
+- Direkt – Krisen i Mellanöstern – Källor: Rubio tror inte på fler attacker - Dagens Nyheter
+- Marine Le Pen kan vinna presidentvalet 2027 - HurBra.se
+- Ålandsbanken kritisk till Bolidens miljardaffär - Di - Placera.se
+- Kevin Warsh pressad inför Jackson Hole: ”Laddad miljö” - EFN
+- Donald Trumps döper om Ontariosjön i handelsbråket med Kanada - Expressen
+- DN Direkt – Pojke misstänkt för mordbrand i Malmö - Dagens Nyheter
+- Nattlig himlashow när jorden skuggar månen i natt - HD
+- Netflix släpper tjuvtitt på “Grand theft auto 6″ - Västerbottens-Kuriren
 
 ## World News
 
-- GT World Challenge Asia, Okayama International Circuit, Japan på inatt 00:10 - TV.nu
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Expert: Global uppvärmning bakom katastrofen i Himalaya - Dagens Nyheter
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Marcus Eklund går till BCD Travel – blir global kommersiell chef - travelnews-se
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sporten kan nu förändras helt - Expressen
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Marcus Eklund går till BCD Travel – blir global kommersiell chef - travelnews-se
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- UNESCO statement on Ukraine - UNESCO
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Sweden - Elite Prospects
+- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
+- Kenya cult leader Paul Mackenzie faces terror charges over mass deaths - BBC
+- Geetanjali Shree is first Indian winner of International Booker Prize - BBC
+- International Day of Epidemic Preparedness - World Health Organization (WHO)
 
 ## Technology
 
@@ -61,6 +61,7 @@ _Updated: 2026-08-27 13:51_
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -69,7 +70,6 @@ _Updated: 2026-08-27 13:51_
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -96,26 +96,16 @@ _Updated: 2026-08-27 13:51_
 
 ## Health
 
-- Nyhetsbrev om hälsa och livsmedelssäkerhet - European Commission
-- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Vi presenterar HealthBench - OpenAI
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Magisterprogram i arbetsliv och hälsa - Umeå universitet
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 
 ## Science
 
@@ -125,7 +115,7 @@ _Updated: 2026-08-27 13:51_
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
@@ -133,12 +123,12 @@ _Updated: 2026-08-27 13:51_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Vårddata för forskning – hinder och möjligheter - Läkartidningen
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
 
@@ -154,11 +144,11 @@ _Updated: 2026-08-27 13:51_
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
 - Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - Jord, kor och klimat - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Han tror stenhårt på jordbruket - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
