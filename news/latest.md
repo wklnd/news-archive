@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-26 23:13_
+_Updated: 2026-08-27 03:03_
 
-- NVIDIA Announces Financial Results for Second Quarter Fiscal 2027 - NVIDIA Newsroom
 - Flash flood on Nepal-Tibet border kills more than 150, with hundreds of tourists missing - BBC
 - States renew fight against Trump's mail-in voting rule - Axios
-- US-Canada animosity could impede an end to a trade war neither country wants - AP News
-- US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate - Reuters
-- Iran, Oman agree on temporary Hormuz route: What we know - Al Jazeera
-- Everyone is making a U-turn on data centers as public support craters - Politico
-- Judge strikes down Texas ban on drag shows, tells people offended by them ‘just don’t go’ - NBC News
-- NY sheriffs - including 2 from Central NY - sue to overturn new law that bans working with ICE - Syracuse.com
-- Maryland court blocks Democrats’ redistricting amendment from November ballot - NBC News
-- Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN - Al Jazeera
-- Trump’s Top Gaza Official Says Israel Is Jeopardizing the Cease-Fire - The New York Times
-- US voices 'significant concerns' over Chinese dissident artist Gao Zhen's prison sentence - Reuters
-- Putin signs decree allowing state seizure of drone-hit businesses - Euronews.com
-- Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims - The New York Times
+- Iran warns of military ship ban in Hormuz under potential deal with Oman, and other Middle East news - AP News
+- Trump signs controversial beef import plan despite ranchers' backlash - Politico
+- Clancy murder trial testimony wraps; closing arguments scheduled for Thursday - WBUR
+- Judge Handling 9/11 Case Sets June 2028 Trial Date - The New York Times
+- Canada's tariffs target certain U.S. states. See which regions are most vulnerable. - CBS News
+- Maryland Judge Blocks Democratic Redistricting Measure - The New York Times
+- In a divided America, the left and right unite to oppose artificial intelligence data centers - AP News
+- Scoop: Senate Republican investigates Flock cameras - Axios
+- Nigeria launches hunt for hundreds of kidnapped mosque worshippers - Al Jazeera
+- More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead - NPR
+- Secret Service Officials Said to Be Put on Leave Amid Internal Inquiry - The New York Times
+- Europe eyes Russia in attacks on weapons and cargo. But Germany treads lightly. - The Washington Post
+- Meta agrees to pay $18 billion to settle US lawsuits over children's social media addiction - Reuters
+- Nvidia forecasts fiscal '28 revenue growth of 70%, soaring past estimates: Live updates - CNBC
+- As Cook case smolders, Trump has other paths to shape Fed policy team - Reuters
 - Bill Gates calls for ‘human-reserved’ jobs in face of AI takeover - The Guardian
-- Vanguard pays $4.6B for RIA software startup Altruist - Axios
-- US inflation remains elevated as GDP growth outlook brightens - Reuters
 - Apple is holding its iPhone launch event on September 9 - TechCrunch
-- Exclusive: Samsung Galaxy S27 Official CAD Renders Leaks - Android Headlines
+- 'GTA VI' Cyberleek update: Everything leaked Wednesday and earlier this week - Mashable
