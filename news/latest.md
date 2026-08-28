@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-28 00:35_
+_Updated: 2026-08-28 08:20_
 
-- Race to get aid into Nepal and Tibet amid warnings flood lake could burst - The Guardian
-- Trump signs order renaming Lake Ontario as ‘Lake America’ in the United States - AP News
-- Lindsay Clancy trial in hands of jury after closing arguments conclude - BBC
-- Alerts from Trump’s helicopter went unheard at Reagan National - Politico
-- Scoop: U.S. close to striking "massive" deal for Venezuelan oil fields - Axios
-- Democrats hand Trump one power they spent years fighting - Fox News
-- Hope Florida reemerges as midterm issue with leaked grand jury report - Politico
-- Texas releases ICE agent charged in Minneapolis shooting - The Washington Post
-- Tropical Storm Dolly forms days after Dolly Parton's death - USA Today
-- RFK Jr. said a Samoa trip had nothing to do with vaccines. New documents refute that - CNN
-- Ratko Mladic, ex-Bosnian Serb warlord who oversaw atrocities, has died at 84 - NPR
-- Iran War Updates: Tehran engages in renewed diplomatic push, touts proposal to reopen Strait of Hormuz - CBS News
-- Secret Service spokesperson is put on leave amid investigation - The Washington Post
-- Exclusive: US Patriot missile stocks in Europe are 'beyond critical' due to Iran war, officials say - AP News
+- Climate Change Raises Risk of Disasters Like Nepal Floods - The New York Times
+- Judge questions why Kennedy Center is moving so quickly to return Trump's name to building - AP News
+- Federal judge again halts Trump’s executive order limiting mail voting in midterms - The Guardian
+- Trump signs order to rename Lake Ontario as Lake America - BBC
+- White House construction was a factor in Marine One safety incident, NTSB finds - The Washington Post
+- 3 Secret Service officials placed on administrative leave pending misconduct investigation - PBS
+- Judge blocks Pentagon blacklist of Anthropic as supply chain risk - CNBC
+- Lindsay Clancy murder trial jury begins deliberations in Massachusetts - CBS News
+- Grand jury: DeSantis admin ‘misappropriated’ tax dollars in Hope Florida scandal - The Hill
+- US military uses laser to down three Mexican cartel drones near border - CNN
+- South Korea, Japan and US to hold North Korea-focused nuclear missile drill - Reuters
+- Six months of the Iran war – as told through Trump’s social media posts - Al Jazeera
+- Ratko Mladic, 'Butcher of Bosnia' convicted of genocide, dies at 84 - Fox News
+- US in Talks With Venezuela to Take Major Stake in Oil Fields - Bloomberg.com
+- Asian Stocks Set to Edge Lower Before Jackson Hole: Markets Wrap - Bloomberg.com
 - Parent activist says Meta settlement is 'peanuts,' calls on Zuckerberg to speak out - Fox Business
-- Stock Market on Aug. 27, 2026: S&P 500 and Nasdaq close higher in tech-fueled rally as Nvidia's stock jumps after its earnings beat expectations; Dow rises as Salesforce shares surge and Jackson Hole symposium gets started; Marvell Technology results on - MarketWatch
-- Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect - CNBC
-- Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies - WSJ
-- ‘GTA 6’ Drops 27 Minutes of New In-Game Footage on Netflix Amid Ongoing Rockstar Games Leaks - Variety
-- Samsung’s Galaxy S26 FE Has Flagship Features, but It’s Harder to Call It a Bargain - CNET
+- Tech giants warn time is running out to prepare for AI threats - Axios
+- Marvell Stock Sinks as Big Expectations Outweigh Solid Earnings - Barron's
+- The GTA VI ‘extended look’ is now streaming on YouTube - The Verge
+- Apple Event Logo Hints at Two iPhone 18 Pro Features - MacRumors
