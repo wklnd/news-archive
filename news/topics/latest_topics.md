@@ -1,39 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-28 08:14_
+_Updated: 2026-08-28 20:56_
 
 ## Top Stories
 
-- Stödet till kung Harald – kronprins Haakon på sjukhuset hela natten - Dagens Nyheter
-- Runt 470 döda i Nepal och Tibet efter skred - Göteborgs-Posten
-- Storbrand i industrilokal i Göteborg – VMA utfärdades - SVT Nyheter
-- Förtroendet för Ebba Busch ökar – går om Åkesson - Omni – Alla nyheter. Alla perspektiv.
-- ”Känns som att jag missade bostadståget” - Svenska Dagbladet
+- Haaland hedrar kung Harald i Premier League - Göteborgs-Posten
+- Pappan om dödsolyckan vid Tjörn: ”Blir liksom kolsvart” - Dagens Nyheter
 - Efter skoldådet: Så kan Örebros erfarenheter hjälpa Fagersta - Arbetet
-- Dadgostar tror på S-V-MP-regering - Göteborgs-Posten
-- Fyra pojkar stoppades efter vansinnesfärd på E4 - SVT Nyheter
-- ”SD är ett parti som bara har rasism som affärsidé” – Senaste nytt om valet 2026 - SVT Nyheter
-- Elisabeth Svantesson: Återhämtningen är här på allvar - Dagens Nyheter
-- Island röstar om EU – kan sätta press på Norge - Corren
-- Slemmig svärm stoppar fransk kärnkraft - Västerbottens-Kuriren
-- Ostkor får mindre strikt diet efter torkan - Göteborgs-Posten
-- Upptrappade ryska attacker – uppmanas att evakuera - Göteborgs-Posten
-- Juri von Bonsdorff Kanada låter Trump smaka på sin egen medicin - Hufvudstadsbladet – HBL
-- Historisk uppgång för Nvidia – större än Finlands BNP - EFN
-- Regiontoppen om Millennium-avslutet: ”Skönt att stänga den här boken” - Sveriges Radio
-- Ny AI-varning – från AI-bolagen - Svenska Dagbladet
-- Detaljerna i nya GTA-trailern: ”Mer grundat” - SVT Nyheter
+- Brand i lada – kossor evakueras - Sveriges Radio
+- Viktigt meddelande till allmänheten i Hästveda i Hässleholms kommun, Skåne län - Krisinformation.se
+- Direkt – Krisen i Mellanöstern – Minst fem döda i israeliska attacker mot Gaza - Dagens Nyheter
+- Döp valet 2026 till ”Men ni då”-valet - Altinget.se
+- Partierna som opinionsmätningar brukar missa - Göteborgs-Posten
+- Ett körfält blockerat på grund av stillastående personbil på E4 - UNT
+- Manlig sjuksköterska begärs häktad för grov våldtäkt mot patient - Göteborgs-Posten
+- Dödssiffran stiger i Nepal – risk för nya översvämningar - Dagens Nyheter
+- Zelenskyj: USA har informerat om Moskvamöten - Corren
+- Ebolautbrottet sprider sig – 60 områden drabbade - Sveriges Radio
+- Kontrollen över fisket i centrum när Island tar ställning till EU-förhandlingar - SVT Nyheter
+- Fed-chefen: Möjliga åtgärder mot inflationen - Västerbottens-Kuriren
+- Stockholmsbörsen avslutade veckan på rekordnivå - Göteborgs-Posten
+- Oscar Engelberts båt och bil togs vid gränskontroll - Expressen
+- Raymond James höjer riktkursen på Nvidia till 550 dollar - ser möjligt börsvärde på 13 biljoner dollar - Börsvärlden
+- ”Grand theft auto VI” blir ett ögonblick av gemensamhet - Omni – Alla nyheter. Alla perspektiv.
 - Roman skjuts upp på lördag — en miljard galaxer för att knäcka mörk energi - Martin Cid Magazine
 
 ## World News
 
 - Expert: Global uppvärmning bakom katastrofen i Himalaya - Dagens Nyheter
 - GT World Challenge Asia, Okayama International Circuit, Japan på inatt 00:10 - TV.nu
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
@@ -42,34 +41,35 @@ _Updated: 2026-08-28 08:14_
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Marcus Eklund går till BCD Travel – blir global kommersiell chef - travelnews-se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Marcus Eklund går till BCD Travel – blir global kommersiell chef - travelnews-se
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 
 ## Technology
 
 - SaaS är inte dött – men AI-agenter förändrar marknaden för företagsprogram - Computer Sweden
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - | Karolinska Institutet Nyheter
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
 
@@ -111,34 +111,34 @@ _Updated: 2026-08-28 08:14_
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - | Karolinska Institutet Nyheter
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Funktion och hälsa vid respiratoriska och kardiovaskulära tillstånd – Malin Nygren-Bonniers forskargrupp - Karolinska Institutet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 
 ## Science
 
 - Över 2 000 projekt deltog i Student Science Research Award. - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Cell- och genterapi - från science fiction till sjukhussal - | Karolinska Institutet Nyheter
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskningsutvärdering med kvalitet i fokus - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU
+- Olika slutsatser från samma data - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - | Karolinska Institutet Nyheter
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -156,8 +156,8 @@ _Updated: 2026-08-28 08:14_
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - Jord, kor och klimat - SLU
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
