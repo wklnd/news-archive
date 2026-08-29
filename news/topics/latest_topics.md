@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-29 20:45_
+_Updated: 2026-08-29 23:53_
 
 ## Top Stories
 
-- DN Direkt – Kung Haakon håller minnestal om sin far - Dagens Nyheter
-- Åkesson attackerar Busch: ”Går det att lita på KD” - Västerbottens-Kuriren
-- Vallokalerna öppna på Island – folkomröstar om EU - Göteborgs-Posten
-- Bilderna inifrån Misje Verde: Här syns fritidsbåten på radarn - SVT Nyheter
+- Kung Haakon i tal: ”Du var en god pappa” - Göteborgs-Posten
 - 16-årig medhjälpare misstänks för egna mordplaner - Västerbottens-Kuriren
-- En allvarligt skadad i olycka med gokart - Aftonbladet
-- Flicka i Klippan biten i ansiktet av hund - SVT Nyheter
+- DN Direkt – Åkessons känga till KD-ledaren: Går det att lita på Ebba Busch? - Dagens Nyheter
+- Vallokalerna öppna på Island – folkomröstar om EU - Västerbottens-Kuriren
+- DN Direkt – Kanada hånar Trump för ”Lake America” - Dagens Nyheter
+- BILDEXTRA: Ebba lockade stor publik och fick applåder om sjukhuset - Smålänningen
+- Scenariot: Sveriges befolkning kan minska med fyra miljoner - Sveriges Radio
 - Varning för rådjur på vägen på E4 - Corren
-- Just nu: Stopp i ett körfält på grund av stillastående personbil på E4 - UNT
-- ”Politik handlar om hot, att sätta den jävla revolvern mot tinningen på dem” - Dagens Nyheter
-- Dödstalet stiger i Nepal – många fast i tunnel - Västerbottens-Kuriren
-- DN Direkt – Kuppförsök i Niger – strider vid presidentpalatset - Dagens Nyheter
-- Dödssiffran stiger efter rysk attack i Butja - Göteborgs-Posten
-- Serbiens president: Mladic borde fått dö hemma - Hufvudstadsbladet – HBL
-- Så kan du söka 60 000 kr för energisparande – men villkoren gäller - Börskollen
-- Snart lanseras bankens digitala valuta - Dagens industri
+- Höstväder i hela landet – tio dagars regn i Stockholm - Omni – Alla nyheter. Alla perspektiv.
+- Metallföremål uppfiskat ur Helge å – nationella bombskyddet larmades - SVT Nyheter
+- Varnar för nya Trumppiller - Svenska Dagbladet
+- Framsteg i räddningsförsök av instängda i Nepal - Göteborgs-Posten
+- Kuppförsök i Niger – strider vid presidentpalatset - Västerbottens-Kuriren
+- Dödssiffran stiger efter rysk attack i Butja - Corren
 - Fed-talet ökar ränteoron: ”Negativt för aktiemarknaden” - EFN
-- Kanadas svar på Donald Trumps namnbyte: Taco Avenue - Expressen
+- Snart lanseras bankens digitala valuta - Corren
+- MILJONREGN PÅ LOTTO: Här hamnade lördagens tio vinster - oskarshamns-nytt.se
+- Björn Jeffery: Upp 800 procent – baksmällan är här - Svenska Dagbladet
 - Att kunna köra GTA 6 i 60 fps är extremt osannolikt på konsoler, enligt analytiker och Rockstar bekräftar gräns på 30 fps - TechRadar
 - Kärlekslivet i ”GTA VI” får starka reaktioner - Sydsvenskan
 
@@ -29,20 +29,20 @@ _Updated: 2026-08-29 20:45_
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Expert: Global uppvärmning bakom katastrofen i Himalaya - Dagens Nyheter
-- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Marcus Eklund går till BCD Travel – blir global kommersiell chef - travelnews-se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Storbritannien: Global lanserar nyhetskanalen LBC News - Radionytt.se
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
@@ -57,7 +57,6 @@ _Updated: 2026-08-29 20:45_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
@@ -66,6 +65,7 @@ _Updated: 2026-08-29 20:45_
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
@@ -105,17 +105,17 @@ _Updated: 2026-08-29 20:45_
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Rach Gia Medical Center: Ger människorna högkvalitativa hälsovårdstjänster. - Vietnam.vn
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Funktion och hälsa vid respiratoriska och kardiovaskulära tillstånd – Malin Nygren-Bonniers forskargrupp - Karolinska Institutet
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 
 ## Science
 
@@ -131,14 +131,14 @@ _Updated: 2026-08-29 20:45_
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Simple math behind major bison blunder - Forskning & Framsteg
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Enheten för öron-, näs- och halssjukdomar - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Simple math behind major bison blunder - Forskning & Framsteg
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
