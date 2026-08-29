@@ -1,36 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-29 11:17_
+_Updated: 2026-08-29 16:38_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Massivt ryskt anfall mot Kiev – många dödade och skadade i natt - Dagens Nyheter
-- Trump: Tecknat jätteavtal om olja med Venezuela - Hufvudstadsbladet – HBL
-- ”Fått igenom saker som vi tjatat om sedan 2010” - Aftonbladet
-- Elenas bästa vän mördad i skoldådet i Fagersta – vill stoppa hatet - Göteborgs-Posten
-- LEDARE: Harald V gav allt för Norge - Nya Wermlands-Tidningen
-- Här är skälen till att vi vill byta jobb – men ändå stannar - Börskollen
+- Efter åskkaoset – nu spelar Swedish House Mafia - gp.se
+- DN Direkt – Åkessons känga till KD-ledaren: Går det att lita på Ebba Busch? - Dagens Nyheter
+- Dödstalet stiger i Nepal – många fast i tunnel - gp.se
+- Attack mot Nigers huvudstad Niamey - SVT Nyheter
+- Här går gränsen – då dumpar stödröstarna Mohamsson - Dagens Nyheter
+- De nyfödda barnen i Ukrainas krigsfront - Aftonbladet
+- Elenas bästa vän mördad i skoldådet i Fagersta – vill stoppa hatet - gp.se
+- Flicka i Klippan biten i ansiktet av hund - SVT Nyheter
+- Spådomen: De lämnar – och de blir ersättare - Aftonbladet
 - ”Politik handlar om hot, att sätta den jävla revolvern mot tinningen på dem” - Dagens Nyheter
-- Han kan bli yngst att dömas för beställningsmord - Göteborgs-Posten
-- Förtidsröstning har lång tradition i Sverige - Statistikmyndigheten SCB
-- Just nu: Stopp i ett körfält på grund av stillastående fordon på E4 - UNT
-- Nu röstar Island om EU – spås bli en rysare - Västerbottens-Kuriren
-- Ukraina: Ozon i Rostov Oblast bombat – Ryssland planerar bygga 10 000 nya kryssningsrobotar 2027 – USA informerade Ukraina om CIA-besöket - Cornucopia?
-- Uganda firar – fritt från ebolasmitta - Dagens Nyheter
-- Irankriget: Experterdomen efter ett halvårs krig: ”Övertro” - TV4 Nyheterna
-- Kanadas svar på Donald Trumps namnbyte: Taco Avenue - Expressen
-- Mobil med 10 dagars batteritid – och inbyggd projektor - Expressen
-- Superspararnas knep: Så sparar de 70 procent av lönen - Dagens PS
-- Vanliga missen vid bostadsrättsköpet: ”Jättesvårt om man inte är van” - Dagens Nyheter
+- Dödssiffran stiger efter rysk attack i Butja - Västerbottens-Kuriren
+- USA tar 100-årig kontroll av olja i Venezuela - Dagens Nyheter
+- Upplösningen av SDF oroar kurder i Syrien: ”Skrämmer oss” - Sveriges Radio
+- Nu röstar Island om EU – spås bli en rysare - Hufvudstadsbladet – HBL
+- Engelberts ”målvakt” borta – ny vändning i bråket om lyxvillan - Expressen
+- Fed-talet ökar ränteoron: ”Negativt för aktiemarknaden” - EFN
+- Snart lanseras bankens digitala valuta - Dagens industri
+- Svensk tillväxt överraskar - BNP ökade 3,3 procent - Svensk Verkstad
 - Att kunna köra GTA 6 i 60 fps är extremt osannolikt på konsoler, enligt analytiker och Rockstar bekräftar gräns på 30 fps - TechRadar
-- Apple-aktien stiger inför 9 september – vikbar iPhone i fokus - Invezz
+- Kärlekslivet i ”GTA VI” får starka reaktioner - Sydsvenskan
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Expert: Global uppvärmning bakom katastrofen i Himalaya - Dagens Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -38,10 +38,10 @@ _Updated: 2026-08-29 11:17_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Marcus Eklund går till BCD Travel – blir global kommersiell chef - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
@@ -57,19 +57,19 @@ _Updated: 2026-08-29 11:17_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
 
@@ -111,11 +111,11 @@ _Updated: 2026-08-29 11:17_
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Funktion och hälsa vid respiratoriska och kardiovaskulära tillstånd – Malin Nygren-Bonniers forskargrupp - Karolinska Institutet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Funktion och hälsa vid respiratoriska och kardiovaskulära tillstånd – Malin Nygren-Bonniers forskargrupp - Karolinska Institutet
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 
 ## Science
 
@@ -123,21 +123,21 @@ _Updated: 2026-08-29 11:17_
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Olika slutsatser från samma data - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
+- Simple math behind major bison blunder - Forskning & Framsteg
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Simple math behind major bison blunder - Forskning & Framsteg
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
@@ -150,11 +150,11 @@ _Updated: 2026-08-29 11:17_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - SLU
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
