@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-29 11:22_
+_Updated: 2026-08-29 16:41_
 
-- ‘No sign of survivors’ at Chinese border crossing as Nepal flooding death toll passes 600 - CNN
-- Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil - BBC
+- Live updates: China-Nepal flood death toll passes 600 - CNN
+- Trump Says U.S. Has Deal for Control of Large Share of Venezuela’s Oil - The New York Times
+- ‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America - The Guardian
+- Ukraine launches investigation after Russian strike on depot near homes triggers explosions, kills at least 37 - CBS News
+- Live Updates: Iran vows to resist U.S. sanctions as war passes 6-month mark - CBS News
 - After 6 months of war, Iran's battered regime remains entrenched - NPR
-- Trump administration appeals latest ruling blocking his mail voting order from taking effect - AP News
-- White House teleprompter operator ordered to pay $172K for placing prediction market bets on Trump’s speeches - NBC News
-- Trump Assails NY’s Hochul After She Rejects ‘Lake America’ Name - Bloomberg.com
-- Jury in Lindsay Clancy trial ends second day of deliberations without a verdict - AP News
-- British far-right provocateur Milo Yiannopoulos detained by ICE - The Washington Post
-- Judge throws out confession by alleged 9/11 mastermind Khalid Sheikh Mohammed - CBS News
-- Stars and Stripes journalists facing firing get one-week reprieve - Politico
-- Close race as Iceland votes on whether to restart talks on joining EU - BBC
-- Norway’s King Harald, who fled Nazis as a child and modernized monarchy, dies at 89 - The Washington Post
-- China-Nepal floods: rescuers pull 2 survivors out of rubble near border crossing - South China Morning Post
-- AP exclusive: U.S. Patriot missile stocks in Europe 'beyond critical' due to Iran war, officials say - PBS
-- Wall Street ends lower after Fed Chair Warsh reaffirms inflation fight - Reuters
-- Meta’s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line? - CNBC
+- Right-wing commentator Milo Yiannopoulos detained by ICE - BBC
+- Hollywood has an unlikely ally in its push to win over Trump - Politico
+- A shotgun, a wrestler and a House race: Tennessee’s revolt against Flock cameras - NBC News
+- As jurors deliberate in the Lindsay Clancy trial, here are key moments they may be considering - AP News
+- Iceland holds knife-edge referendum on EU membership talks - DW.com
+- Tens of thousands mourn King Harald V in Oslo as Norway enters a new royal era - AP News
+- Gunfire, blasts heard in attempted mutiny in Niger’s capital Niamey - Al Jazeera
+- Serbian war criminal Ratko Mladic to be buried with 'state honours' - France 24
+- How Meta’s $17.1 Billion Social Media Settlement Came Together - The New York Times
+- Goodyear burning rubber and cash as turnaround plan continues - CNBC
 - OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts - Business Insider
-- 9th Circuit sides with states in Kalshi gambling fight, potentially reviving Arizona's prosecution - Arizona Mirror
+- What's the real retirement age in America? Here are 4 guesses - USA Today
 - 20+ Things You May Have Missed In The GTA 6 Extended Look - Engadget
-- Samsung Galaxy S26 series receives seventh One UI 9 beta with Galaxy Z Fold8 series' features - GSMArena.com news - GSMArena.com
+- DLSS 5 Patched to Work on RTX 4000 "Ada Lovelace" GPUs Despite No Official Support - TechPowerUp
