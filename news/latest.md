@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-29 16:41_
+_Updated: 2026-08-29 19:53_
 
-- Live updates: China-Nepal flood death toll passes 600 - CNN
-- Trump Says U.S. Has Deal for Control of Large Share of Venezuela’s Oil - The New York Times
+- Photos: See the aftermath of deadly flash floods in Nepal - NPR
+- Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil - BBC
+- Russian attack on warehouse near Ukraine’s Kyiv kills at least 37 - Al Jazeera
 - ‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America - The Guardian
-- Ukraine launches investigation after Russian strike on depot near homes triggers explosions, kills at least 37 - CBS News
-- Live Updates: Iran vows to resist U.S. sanctions as war passes 6-month mark - CBS News
-- After 6 months of war, Iran's battered regime remains entrenched - NPR
-- Right-wing commentator Milo Yiannopoulos detained by ICE - BBC
-- Hollywood has an unlikely ally in its push to win over Trump - Politico
-- A shotgun, a wrestler and a House race: Tennessee’s revolt against Flock cameras - NBC News
+- Six months into the Iran war, Iranian Americans remain divided over what comes next - CNN
+- Seneca Nation requests reversal on ‘Lake America’ executive order - The Hill
+- Judge throws out confession by alleged 9/11 mastermind Khalid Sheikh Mohammed - CBS News
+- Far-right media provocateur Milo Yiannopoulos deported by ICE from US to UK - The Guardian
 - As jurors deliberate in the Lindsay Clancy trial, here are key moments they may be considering - AP News
-- Iceland holds knife-edge referendum on EU membership talks - DW.com
+- Noncitizen voting claims animate Trump's attacks on midterms and set up potential result challenges - AP News
+- Israeli settlers surround Palestinian home in occupied West Bank’s Qusra - Al Jazeera
 - Tens of thousands mourn King Harald V in Oslo as Norway enters a new royal era - AP News
-- Gunfire, blasts heard in attempted mutiny in Niger’s capital Niamey - Al Jazeera
-- Serbian war criminal Ratko Mladic to be buried with 'state honours' - France 24
+- Iceland holds knife-edge referendum on EU membership talks - DW.com
+- Ex-White House teleprompter operator fined $172,000 for Trump speech bets - The Guardian
+- Fed Chairman Warsh shows courage with Jackson Hole speech, defying political pressure, says Harvard's Rogoff - Yahoo Finance
 - How Meta’s $17.1 Billion Social Media Settlement Came Together - The New York Times
-- Goodyear burning rubber and cash as turnaround plan continues - CNBC
-- OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts - Business Insider
-- What's the real retirement age in America? Here are 4 guesses - USA Today
-- 20+ Things You May Have Missed In The GTA 6 Extended Look - Engadget
-- DLSS 5 Patched to Work on RTX 4000 "Ada Lovelace" GPUs Despite No Official Support - TechPowerUp
+- Trump Backlash Adds New Risks to the Stocks the Government Owns - Bloomberg.com
+- Jim Cramer Explained What Turned The Tide For NVIDIA Corporation (NASDAQ:NVDA)’s Stock - Yahoo Finance
+- GTA 6's gameplay reveal broke a streaming record, and also broke Twitch and Netflix - Eurogamer.net
+- Xbox CEO calls Project Helix a ‘family of devices’ - The Verge
