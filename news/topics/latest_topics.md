@@ -1,36 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-28 20:56_
+_Updated: 2026-08-29 04:22_
 
 ## Top Stories
 
-- Haaland hedrar kung Harald i Premier League - Göteborgs-Posten
-- Pappan om dödsolyckan vid Tjörn: ”Blir liksom kolsvart” - Dagens Nyheter
+- DN Direkt – Haaland spelar med svart sorgeband - Dagens Nyheter
+- Trump: Tecknat jätteavtal om olja med Venezuela - Svenska Dagbladet
+- Hålls instängd efter hoten från Iran: Går inte ut - Aftonbladet
+- Ny damm har brustit i Nepal – två från Sverige saknas - SVT Nyheter
 - Efter skoldådet: Så kan Örebros erfarenheter hjälpa Fagersta - Arbetet
-- Brand i lada – kossor evakueras - Sveriges Radio
-- Viktigt meddelande till allmänheten i Hästveda i Hässleholms kommun, Skåne län - Krisinformation.se
-- Direkt – Krisen i Mellanöstern – Minst fem döda i israeliska attacker mot Gaza - Dagens Nyheter
-- Döp valet 2026 till ”Men ni då”-valet - Altinget.se
-- Partierna som opinionsmätningar brukar missa - Göteborgs-Posten
-- Ett körfält blockerat på grund av stillastående personbil på E4 - UNT
-- Manlig sjuksköterska begärs häktad för grov våldtäkt mot patient - Göteborgs-Posten
-- Dödssiffran stiger i Nepal – risk för nya översvämningar - Dagens Nyheter
+- Sjuksköterska häktad för grov våldtäkt av dödssjuk kvinna - Expressen
+- DN Direkt – Person hittad död i vattnet efter stor sökinsats - Dagens Nyheter
+- Just nu: Stopp i ett körfält på grund av stillastående fordon på E4 - UNT
+- Kamerabevakning med drönare i Stockholm - polisen.se
+- 28 augusti 22.03, Trafikkontroll, Västernorrlands län - polisen.se
 - Zelenskyj: USA har informerat om Moskvamöten - Corren
-- Ebolautbrottet sprider sig – 60 områden drabbade - Sveriges Radio
-- Kontrollen över fisket i centrum när Island tar ställning till EU-förhandlingar - SVT Nyheter
-- Fed-chefen: Möjliga åtgärder mot inflationen - Västerbottens-Kuriren
+- Dyr varmkorv påverkar när Island röstar om EU - Dagens Nyheter
+- Minst fem döda i israeliska attacker mot Gaza - Västerbottens-Kuriren
+- Ebolan sprider sig – 60 områden drabbade - Aftonbladet
+- Kanada tar strid mot Trump – Kina kan vinna på tullkriget - Dagens Nyheter
 - Stockholmsbörsen avslutade veckan på rekordnivå - Göteborgs-Posten
+- Fed-chefen i tal: Kan bli aktuellt med räntehöjning - Omni – Alla nyheter. Alla perspektiv.
 - Oscar Engelberts båt och bil togs vid gränskontroll - Expressen
-- Raymond James höjer riktkursen på Nvidia till 550 dollar - ser möjligt börsvärde på 13 biljoner dollar - Börsvärlden
 - ”Grand theft auto VI” blir ett ögonblick av gemensamhet - Omni – Alla nyheter. Alla perspektiv.
-- Roman skjuts upp på lördag — en miljard galaxer för att knäcka mörk energi - Martin Cid Magazine
+- Apple kommer presentera nya Iphones 9 september - Swedroid
 
 ## World News
 
 - Expert: Global uppvärmning bakom katastrofen i Himalaya - Dagens Nyheter
-- GT World Challenge Asia, Okayama International Circuit, Japan på inatt 00:10 - TV.nu
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -47,6 +46,7 @@ _Updated: 2026-08-28 20:56_
 - Marcus Eklund går till BCD Travel – blir global kommersiell chef - travelnews-se
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -60,7 +60,6 @@ _Updated: 2026-08-28 20:56_
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
@@ -70,6 +69,7 @@ _Updated: 2026-08-28 20:56_
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -79,8 +79,8 @@ _Updated: 2026-08-28 20:56_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -120,25 +120,25 @@ _Updated: 2026-08-28 20:56_
 ## Science
 
 - Över 2 000 projekt deltog i Student Science Research Award. - Vietnam.vn
-- Activities for the public – Department of Earth Sciences - Uppsala universitet
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Täta band mellan turism och forskning på Svalbard - SLU
-- Olika slutsatser från samma data - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Olika slutsatser från samma data - Läkartidningen
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
@@ -154,11 +154,11 @@ _Updated: 2026-08-28 20:56_
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
