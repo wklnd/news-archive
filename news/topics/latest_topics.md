@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-29 23:53_
+_Updated: 2026-08-30 02:35_
 
 ## Top Stories
 
 - Kung Haakon i tal: ”Du var en god pappa” - Göteborgs-Posten
-- 16-årig medhjälpare misstänks för egna mordplaner - Västerbottens-Kuriren
-- DN Direkt – Åkessons känga till KD-ledaren: Går det att lita på Ebba Busch? - Dagens Nyheter
 - Vallokalerna öppna på Island – folkomröstar om EU - Västerbottens-Kuriren
+- DN Direkt – Häktad 16-åring utreds för egna mordplaner - Dagens Nyheter
+- DN Direkt – Åkessons känga till KD-ledaren: Går det att lita på Ebba Busch? - Dagens Nyheter
 - DN Direkt – Kanada hånar Trump för ”Lake America” - Dagens Nyheter
-- BILDEXTRA: Ebba lockade stor publik och fick applåder om sjukhuset - Smålänningen
+- Hjärnskadade efter åkturen på nöjesparken - Aftonbladet
 - Scenariot: Sveriges befolkning kan minska med fyra miljoner - Sveriges Radio
+- Just nu: Stopp i ett körfält på grund av stillastående personbil på E4 - UNT
 - Varning för rådjur på vägen på E4 - Corren
-- Höstväder i hela landet – tio dagars regn i Stockholm - Omni – Alla nyheter. Alla perspektiv.
-- Metallföremål uppfiskat ur Helge å – nationella bombskyddet larmades - SVT Nyheter
-- Varnar för nya Trumppiller - Svenska Dagbladet
+- Regn överallt – flera lågtryck på ingång - Expressen
+- DN Direkt – Spänd väntan på Island: ”Tusen röster kan avgöra” - Dagens Nyheter
 - Framsteg i räddningsförsök av instängda i Nepal - Göteborgs-Posten
-- Kuppförsök i Niger – strider vid presidentpalatset - Västerbottens-Kuriren
 - Dödssiffran stiger efter rysk attack i Butja - Corren
+- Kuppförsök i Niger – strider vid presidentpalatset - Västerbottens-Kuriren
 - Fed-talet ökar ränteoron: ”Negativt för aktiemarknaden” - EFN
-- Snart lanseras bankens digitala valuta - Corren
+- Nvidia använder sin balansräkning för att driva AI-boomen — är det ett tveeggat svärd? - Invezz
 - MILJONREGN PÅ LOTTO: Här hamnade lördagens tio vinster - oskarshamns-nytt.se
-- Björn Jeffery: Upp 800 procent – baksmällan är här - Svenska Dagbladet
+- Börsen idag: Stockholmsindex stiger – men två teknikbolag rasar med 18 procent - Börskollen
 - Att kunna köra GTA 6 i 60 fps är extremt osannolikt på konsoler, enligt analytiker och Rockstar bekräftar gräns på 30 fps - TechRadar
 - Kärlekslivet i ”GTA VI” får starka reaktioner - Sydsvenskan
 
@@ -34,15 +34,15 @@ _Updated: 2026-08-29 23:53_
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Expert: Global uppvärmning bakom katastrofen i Himalaya - Dagens Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Marcus Eklund går till BCD Travel – blir global kommersiell chef - travelnews-se
 - Storbritannien: Global lanserar nyhetskanalen LBC News - Radionytt.se
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Visual Art köper Global Agencies - Dagens Media
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
@@ -57,12 +57,12 @@ _Updated: 2026-08-29 23:53_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
@@ -100,22 +100,22 @@ _Updated: 2026-08-29 23:53_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Befolkning och utveckling: Resan till ett tryggt moderskap och en förändring av reproduktiv hälsovård för den yngre generationen i An Giang. - Vietnam.vn
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
-- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
+- Rach Gia Medical Center: Ger människorna högkvalitativa hälsovårdstjänster. - Vietnam.vn
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Rach Gia Medical Center: Ger människorna högkvalitativa hälsovårdstjänster. - Vietnam.vn
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Funktion och hälsa vid respiratoriska och kardiovaskulära tillstånd – Malin Nygren-Bonniers forskargrupp - Karolinska Institutet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Funktion och hälsa vid respiratoriska och kardiovaskulära tillstånd – Malin Nygren-Bonniers forskargrupp - Karolinska Institutet
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
@@ -151,7 +151,6 @@ _Updated: 2026-08-29 23:53_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - SLU
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
@@ -162,3 +161,4 @@ _Updated: 2026-08-29 23:53_
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Lantbrukarnas data blir en tillgång - Land.se
