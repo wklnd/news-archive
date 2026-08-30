@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-30 01:35_
+_Updated: 2026-08-30 03:39_
 
-- Nepal flood death toll rises to 675 as nearly 2,500 remain missing - NBC News
-- What we know about Trump’s deal giving US access to vast oil reserves in Venezuela - AP News
+- Nepal floods latest: Rescue efforts enter fifth day with more than 2,400 missing after flash flood - BBC
+- What’s behind the US deal to seize control of Venezuelan oil reserves? - Al Jazeera
 - Strait of Hormuz traffic remains below normal as US sanctions pressure Iran - Fox News
-- Untested in court, Trump's new tariffs on Canada raise legal questions - PBS
-- At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot - BBC
-- British far-right provocateur Milo Yiannopoulos deported by ICE - The Washington Post
+- Russian strike on a Ukrainian warehouse kills 37 in the war’s deadliest attack this year - AP News
+- Milo Yiannopoulos, far-right critic of U.S. immigration, is deported from U.S. - NPR
+- Ontario premier slams Trump's executive order to rename Lake Ontario as Seneca Nation calls for reversal - CBS News
 - Trump cannot deport students for criticizing Israel, federal judge rules - CBS News
-- Ontario premier answers Trump’s ‘Lake America’ with giant ‘Lake Ontario’ sign - AP News
 - Progressives are learning the hard way how to survive Fox News - Politico
-- How states’ fight over an ICE agent could open a new political battleground - The Washington Post
+- Thousands face days without power as San Antonio clears storm damage - Texas Public Radio | TPR
+- New US sanctions will hit ordinary Iranians hard as crashing economy stirs fresh protests - Fortune
 - Norway mourns King Harald as new era begins under Haakon VIII - Al Jazeera
-- Israeli settlers surround Palestinian home in occupied West Bank’s Qusra - Al Jazeera
-- 6 months on, Iran’s leaders are defying the US and signaling no tolerance for dissent - AP News
-- Iceland's EU referendum sees high preliminary voter turnout in expected close race - Euronews.com
-- How Meta’s $17.1 Billion Social Media Settlement Came Together - The New York Times
-- Why Fed chief Kevin Warsh turned to Central Banking 101 - Axios
-- The 5 craziest discoveries from OpenAI's HuggingFace investigation - Axios
+- Trump's Greenland threats cast a shadow on Iceland's vote on whether to trigger EU membership talks - AP News
+- Six months into the Iran war, Iranian Americans remain divided over what comes next - CNN
+- Israeli Settlers Attack Palestinians, Drawing Sharp Rebukes - The New York Times
+- Warsh, After Talking Tough on Inflation, Faces a ‘No-Win Situation’ on Rates - The New York Times
+- Billionaire Says Email Your Best Offer For Private Island In Tanzania—Fast - Forbes
 - OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX - CNBC
+- Lights out, Instagram off? The changes to Meta for teens could be a big deal - NPR
 - Engadget Review Recap: Google's Pixel 11 Series And More - Engadget
 - GTA 6's gameplay reveal broke a streaming record, and also broke Twitch and Netflix - Eurogamer.net
