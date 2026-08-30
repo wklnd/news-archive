@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-30 14:08_
+_Updated: 2026-08-30 18:54_
 
 ## Top Stories
 
-- Passagerarfärja med runt 270 personer sjunker utanför Cypern - SVT Nyheter
-- Långa köer till kung Haralds minnesgudstjänst - Göteborgs-Posten
-- DN Direkt – Stigande vattennivåer i Nepal – 750 döda - Dagens Nyheter
-- Busch lägger om valturné efter SD-bråket - Nya Wermlands-Tidningen
-- Skottlossning på rejv i Aarau i Schweiz – en död och flera skadade - SVT Nyheter
-- Sökpådrag efter försvunnen man i Offerdal - Sveriges Radio
+- DN Direkt – Gahr Støres svar om kung Haralds begravning - Dagens Nyheter
+- Bjöd Åkesson på sockerkaka – efter kängan mot Ebba Busch - SVT Nyheter
+- Minst sju döda i färjeolycka utanför Cypern - Göteborgs-Posten
 - Kristersson: Farliga män ska tvångsomhändertas - Göteborgs-Posten
+- Sökpådrag efter försvunnen man i Offerdal - Sveriges Radio
+- Malins axel frös till: ”Vissa nätter orkar jag bara inte mer” - Dagens Nyheter
+- Man allvarligt skadad efter misshandel - Nya Wermlands-Tidningen
+- Det händer när ett parti åker ur riksdagen - Västerbottens-Kuriren
+- Rapport: Kan bli fyra miljoner färre i Sverige - Corren
 - Brand i flerfamiljshus i Landskrona - SVT Nyheter
-- Busch (KD) i Sölvesborg: ”Vi är helt överens om fyra år till” – Senaste nytt om valet 2026 - SVT Nyheter
-- (+) Mallory, 19, var besatt av skolskyttar – varnar efter Fagersta - Aftonbladet
+- Hundratals oidentifierade kroppar begravs i skogen i Nepal - Dagens Nyheter
+- Massflykt från städerna i öster när drönarhotet kryper närmre - Dagens Nyheter
 - Karin Eriksson: Bakslaget för EU på Island kan stärka Trump - Dagens Nyheter
-- Venezuela: Vi behåller äganderätten till oljan - Göteborgs-Posten
-- Adam Cwejman: Ryssland behöver inte invadera för att splittra Nato - Göteborgs-Posten
-- Kanada hånar Trump för ”Lake America” - Hufvudstadsbladet – HBL
-- Varningen: Räntesmäll kan drabba leasingavtal - Svenska Dagbladet
-- Rapport: Farliga batterier dumpas i fattiga länder - Dagens Nyheter
-- Rapport: Kan bli fyra miljoner färre i Sverige - Dagens industri
+- Venezuela: Vi behåller äganderätten till oljan - Västerbottens-Kuriren
+- Varningen: Räntesmäll kan drabba leasingavtal - Corren
 - Warsh vid Jackson Hole: 8 viktiga slutsatser av Investing.com - Investing.com Sverige
+- DEBATT: Under regleringar och skatter vi digna ned - Dagens industri
+- TRATON OCH VOLVO ÅT OLIKA HÅLL, OMXS30 +0,7% - Placera.se
 - Banbrytande teleskop på väg mot rymden – ska ge nya svar om mörk materia - Omni – Alla nyheter. Alla perspektiv.
 - GTA 6 släpps med 30 fps på PS5 och Xbox ”tills vidare”, bekräftar Rockstar – 60 fps kan bli möjligt, men vi vill framför allt se ett 40 fps-läge - TechRadar
 
 ## World News
 
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Expert: Global uppvärmning bakom katastrofen i Himalaya - Dagens Nyheter
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Glaciärexpert: Global uppvärmning bakom katastrofen i Nepal - Yle
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Marcus Eklund går till BCD Travel – blir global kommersiell chef - travelnews-se
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Resepriserna i Europa stiger trots global nedgång - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -58,18 +58,18 @@ _Updated: 2026-08-30 14:08_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
-- När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
-- AI and law: “We need to think proactively” - Stockholms universitet
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
@@ -120,18 +120,18 @@ _Updated: 2026-08-30 14:08_
 ## Science
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Enheten för öron-, näs- och halssjukdomar - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
