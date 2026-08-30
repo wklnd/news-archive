@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-30 18:54_
+_Updated: 2026-08-30 21:58_
 
 ## Top Stories
 
-- DN Direkt – Gahr Støres svar om kung Haralds begravning - Dagens Nyheter
-- Bjöd Åkesson på sockerkaka – efter kängan mot Ebba Busch - SVT Nyheter
-- Minst sju döda i färjeolycka utanför Cypern - Göteborgs-Posten
+- EDVARD HOLLERTZ: Självklart är Jimmie Åkesson stressad av Ebba Buschs succé - Corren
+- DN Direkt – Passagerarfärja har kapsejsat utanför Cypern - Dagens Nyheter
+- Harald begravs den 9 september i Oslo - Göteborgs-Posten
+- Henrik Torehammar: Solen sken på förväntad förlorare - Svenska Dagbladet
+- Tjörnolyckan: Norsk lots hade larmat om fartyget - Västerbottens-Kuriren
 - Kristersson: Farliga män ska tvångsomhändertas - Göteborgs-Posten
-- Sökpådrag efter försvunnen man i Offerdal - Sveriges Radio
-- Malins axel frös till: ”Vissa nätter orkar jag bara inte mer” - Dagens Nyheter
-- Man allvarligt skadad efter misshandel - Nya Wermlands-Tidningen
+- Man död efter misshandel i Karlstad - SVT Nyheter
 - Det händer när ett parti åker ur riksdagen - Västerbottens-Kuriren
-- Rapport: Kan bli fyra miljoner färre i Sverige - Corren
-- Brand i flerfamiljshus i Landskrona - SVT Nyheter
-- Hundratals oidentifierade kroppar begravs i skogen i Nepal - Dagens Nyheter
-- Massflykt från städerna i öster när drönarhotet kryper närmre - Dagens Nyheter
-- Karin Eriksson: Bakslaget för EU på Island kan stärka Trump - Dagens Nyheter
-- Venezuela: Vi behåller äganderätten till oljan - Västerbottens-Kuriren
-- Varningen: Räntesmäll kan drabba leasingavtal - Corren
+- DN Direkt – C vill sänka skatten på biodrivmedel - Dagens Nyheter
+- Åkesson: Kommer fortsätta vara obekväm – Senaste nytt om valet 2026 - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Treåring dödad i israeliskt flyganfall vid bageri - Dagens Nyheter
+- Michael Winiarski: Trumpfamiljen köpte paradisområde av kokainsmugglare - Dagens Nyheter
+- ”Hela Tyskland ska vakna och vi ska bli normala människor igen” - Dagens Nyheter
+- Venezuela: Vi behåller äganderätten till oljan - Göteborgs-Posten
+- ”Klimatpolitiken ska inte vara symbolisk” - Svenska Dagbladet
 - Warsh vid Jackson Hole: 8 viktiga slutsatser av Investing.com - Investing.com Sverige
-- DEBATT: Under regleringar och skatter vi digna ned - Dagens industri
 - TRATON OCH VOLVO ÅT OLIKA HÅLL, OMXS30 +0,7% - Placera.se
+- Nvidia använder sin balansräkning för att driva AI-boomen — är det ett tveeggat svärd? - Invezz
+- Google skärper RAM‑kraven för Android‑appar - mobil.se
 - Banbrytande teleskop på väg mot rymden – ska ge nya svar om mörk materia - Omni – Alla nyheter. Alla perspektiv.
-- GTA 6 släpps med 30 fps på PS5 och Xbox ”tills vidare”, bekräftar Rockstar – 60 fps kan bli möjligt, men vi vill framför allt se ett 40 fps-läge - TechRadar
 
 ## World News
 
@@ -37,15 +37,15 @@ _Updated: 2026-08-30 18:54_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Glaciärexpert: Global uppvärmning bakom katastrofen i Nepal - Yle
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Glaciärexpert: Global uppvärmning bakom katastrofen i Nepal - Yle
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Marcus Eklund går till BCD Travel – blir global kommersiell chef - travelnews-se
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Resepriserna i Europa stiger trots global nedgång - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 
 ## Technology
@@ -58,18 +58,18 @@ _Updated: 2026-08-30 18:54_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
+- AI and law: “We need to think proactively” - Stockholms universitet
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
@@ -85,10 +85,10 @@ _Updated: 2026-08-30 18:54_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
@@ -101,8 +101,8 @@ _Updated: 2026-08-30 18:54_
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
-- Rach Gia Medical Center: Ger människorna högkvalitativa hälsovårdstjänster. - Vietnam.vn
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Rach Gia Medical Center: Ger människorna högkvalitativa hälsovårdstjänster. - Vietnam.vn
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - ENGAGE- vardagsaktivitet för hälsa och förändring – Patomella forskargrupp - Karolinska Institutet
@@ -110,8 +110,8 @@ _Updated: 2026-08-30 18:54_
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Funktion och hälsa vid respiratoriska och kardiovaskulära tillstånd – Malin Nygren-Bonniers forskargrupp - Karolinska Institutet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
@@ -121,24 +121,24 @@ _Updated: 2026-08-30 18:54_
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Simple math behind major bison blunder - Forskning & Framsteg
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Enheten för öron-, näs- och halssjukdomar - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Enheten för öron-, näs- och halssjukdomar - Karolinska Institutet
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
