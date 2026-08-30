@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-30 02:35_
+_Updated: 2026-08-30 07:43_
 
 ## Top Stories
 
-- Kung Haakon i tal: ”Du var en god pappa” - Göteborgs-Posten
-- Vallokalerna öppna på Island – folkomröstar om EU - Västerbottens-Kuriren
-- DN Direkt – Häktad 16-åring utreds för egna mordplaner - Dagens Nyheter
-- DN Direkt – Åkessons känga till KD-ledaren: Går det att lita på Ebba Busch? - Dagens Nyheter
-- DN Direkt – Kanada hånar Trump för ”Lake America” - Dagens Nyheter
-- Hjärnskadade efter åkturen på nöjesparken - Aftonbladet
-- Scenariot: Sveriges befolkning kan minska med fyra miljoner - Sveriges Radio
+- DN Direkt – Tjörnolyckan: Lots slog larm om dålig sikt - Dagens Nyheter
+- Extremt jämnt i Islands folkomröstning om EU - Göteborgs-Posten
+- Löftet: 9 000 mopeder i Ghana – resultatet: noll - Aftonbladet
+- Venezuela: Vi behåller äganderätten till oljan - Västerbottens-Kuriren
+- Genade med epan – kan ha räddat kamratens liv - Svenska Dagbladet
+- Rapport: Kan bli fyra miljoner färre i Sverige - SVT Nyheter
+- Monica och Rolf är ambulerande röstmottagare i Nässjö - Sveriges Radio
+- Åkesson: Buschs S-flört en dålig strategi för de blågula - Dagens Nyheter
+- Mätning: Andersson mest kompetent och sympatisk - Omni – Alla nyheter. Alla perspektiv.
 - Just nu: Stopp i ett körfält på grund av stillastående personbil på E4 - UNT
-- Varning för rådjur på vägen på E4 - Corren
-- Regn överallt – flera lågtryck på ingång - Expressen
-- DN Direkt – Spänd väntan på Island: ”Tusen röster kan avgöra” - Dagens Nyheter
-- Framsteg i räddningsförsök av instängda i Nepal - Göteborgs-Posten
-- Dödssiffran stiger efter rysk attack i Butja - Corren
-- Kuppförsök i Niger – strider vid presidentpalatset - Västerbottens-Kuriren
+- Kanada hånar Trump för ”Lake America” - Hufvudstadsbladet – HBL
+- Varnar för stigande vattennivåer i Nepal - Göteborgs-Posten
+- Ukraina: Ryssland planerar nytt markanfall mot Kyiv - Omni – Alla nyheter. Alla perspektiv.
+- Adam Cwejman: Ryssland behöver inte invadera för att splittra Nato - Göteborgs-Posten
+- Så kan du söka 60 000 kr för energisparande – men villkoren gäller - Börskollen
 - Fed-talet ökar ränteoron: ”Negativt för aktiemarknaden” - EFN
-- Nvidia använder sin balansräkning för att driva AI-boomen — är det ett tveeggat svärd? - Invezz
-- MILJONREGN PÅ LOTTO: Här hamnade lördagens tio vinster - oskarshamns-nytt.se
-- Börsen idag: Stockholmsindex stiger – men två teknikbolag rasar med 18 procent - Börskollen
-- Att kunna köra GTA 6 i 60 fps är extremt osannolikt på konsoler, enligt analytiker och Rockstar bekräftar gräns på 30 fps - TechRadar
-- Kärlekslivet i ”GTA VI” får starka reaktioner - Sydsvenskan
+- Skötte Trumps teleprompter – döms för insiderhandel - Sveriges Radio
+- Problem hos storbank – kunder kunde inte logga in - Västerbotten | Folkbladet
+- GTA 6 släpps med 30 fps på PS5 och Xbox ”tills vidare”, bekräftar Rockstar – 60 fps kan bli möjligt, men vi vill framför allt se ett 40 fps-läge - TechRadar
+- ”Det fanns egentligen aldrig någon plan att de här två spelen skulle släppas så nära varandra”: FromSoftware-chefen antyder en återgång till singleplayer efter Nightreign och The Duskbloods - TechRadar
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Expert: Global uppvärmning bakom katastrofen i Himalaya - Dagens Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Expert: Global uppvärmning bakom katastrofen i Himalaya - Dagens Nyheter
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Glaciärexpert: Global uppvärmning bakom katastrofen i Nepal - Yle
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Marcus Eklund går till BCD Travel – blir global kommersiell chef - travelnews-se
+- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - Storbritannien: Global lanserar nyhetskanalen LBC News - Radionytt.se
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Visual Art köper Global Agencies - Dagens Media
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -65,10 +65,10 @@ _Updated: 2026-08-30 02:35_
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Open AI gör videomodellen Sora tillgänglig i Europa - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
@@ -101,6 +101,7 @@ _Updated: 2026-08-30 02:35_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
+- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Rach Gia Medical Center: Ger människorna högkvalitativa hälsovårdstjänster. - Vietnam.vn
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
@@ -115,15 +116,14 @@ _Updated: 2026-08-30 02:35_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
-- Över 2 000 projekt deltog i Student Science Research Award. - Vietnam.vn
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Olika slutsatser från samma data - Läkartidningen
+- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -131,14 +131,14 @@ _Updated: 2026-08-30 02:35_
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Simple math behind major bison blunder - Forskning & Framsteg
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Enheten för öron-, näs- och halssjukdomar - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Simple math behind major bison blunder - Forskning & Framsteg
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
