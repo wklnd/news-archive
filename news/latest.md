@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-31 01:51_
+_Updated: 2026-08-31 08:10_
 
-- U.S. strikes Iran to prevent Hormuz mine threat - Axios
-- Grand Canyon flash floods leave around 15 missing as dozens are evacuated, park officials say - CBS News
-- Devastation from the Nepal-China Floods in 30 photos - Al Jazeera
-- Trump says NBC’s Kristen ‌Welker should face ‘punishment’ from FCC - The Guardian
-- Venezuela vowed not to ‘hand over’ its oil. Trump aims to grab a windfall. - The Washington Post
-- Google Maps changes Lake Ontario to ‘Lake America’ for US users after Trump order: 'It's official!' - Fox Business
-- Transcript: Sen. Richard Blumenthal on "Face the Nation with Margaret Brennan," Aug. 30, 2026 - CBS News
-- Trump administration deports relative of Afghans who helped US military to Central African Republic - NPR
-- Venezuela’s Maduro Resurfaces on Social Media Amid US Oil Deal - Bloomberg.com
-- Homan after Milo Yiannopoulos deportation: ‘Get them out quick’ - The Hill
+- Iran attacks US bases in Jordan after US strikes Larak Island - Al Jazeera
+- Families of pilgrims likely caught in floods are desperate for news from Nepal - NPR
+- Oner person dead, about 15 more may be missing after Grand Canyon flash flooding - The Washington Post
+- Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump - The Guardian
+- Trump calls for NBC’s Kristen Welker to face ‘rebuke or punishment’ from the FCC - CNN
+- Canada’s Ford Likens Trump’s Actions to Saturday Night Live Skit - Yahoo Finance
+- Venezuela’s Maduro shares first photos from US detention - Al Jazeera
+- ICE deports Afghans and others to Africa, expanding "third country" deportations - CBS News
+- Google Maps switches to "Lake America" as Canada compares change to "SNL" skit - Axios
+- Cleanup of Rotting Food at L.A. Warehouse Took Too Long, Residents Say - The New York Times
 - Icelandic voters reject a proposal to restart negotiations to join the European Union - AP News
-- China-Nepal floods: 261 foreigners missing in Tibet, online rumours targeted - South China Morning Post
-- At least eight die, 18 missing after ferry capsizes off North Cyprus - Reuters
-- Six months into the Iran war, the Trump family is among the winners - Fortune
-- US plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP - AP News
-- Gulf stocks fall as Fed rate-hike bets rise after Warsh remarks - Reuters
-- What Meta's new teen restrictions mean for young people - Fox News
-- The U.S. National Debt Just Topped $40 Trillion. Here's What That Could Mean for Bitcoin. - Yahoo Finance
-- Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio - MacRumors
+- Risk of lake burst near China-Nepal disaster site wanes - Reuters
+- Eight killed and others missing after ferry capsizes off northern Cyprus - BBC
+- Death toll rises to 38 from Russia’s deadliest attack on Ukraine this year - AP News
+- Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' with Treasury - CNBC
+- US plans to sanction another bank to keep economic pressure on Iran - Al Jazeera
+- Shares skid in Asia as oil climbs, yields stay high - Reuters
+- Meta’s Day of Reckoning - WSJ
 - Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets - The Verge
+- GTA VI Extended Gameplay Preview Attracted Over 4 Million Live Viewers - TechPowerUp
