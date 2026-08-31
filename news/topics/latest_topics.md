@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-31 03:29_
+_Updated: 2026-08-31 09:23_
 
 ## Top Stories
 
-- Uppgifter: USA har genomfört nya attacker mot Iran - Dagens Nyheter
-- 20 saknas efter störtflod vid Grand Canyon - SVT Nyheter
-- Uppgifter: USA har attackerat Iran igen - Västerbotten | Folkbladet
-- ”Rysk plan för skräckattack mot mål i Nato” - Aftonbladet
-- Är kungen av true crime själv en förövare? - Svenska Dagbladet
-- Nato: Ingen omedelbar risk för ryskt angrepp – hybridattackerna ökar - HurBra.se
-- DN Direkt – Kristersson om Åkesson och Busch: ”Inget allvarligt” - Dagens Nyheter
-- Kristersson: Farliga män ska tvångsomhändertas - Västerbottens-Kuriren
-- Sjöstedt (V): ”Som att ni inte bryr er längre” – Senaste nytt om valet 2026 - SVT Nyheter
-- Man allvarligt skadad efter misshandel - Nya Wermlands-Tidningen
-- Island: EU-samtal utesluts under mandatperiod - Dagens Nyheter
-- Hundratals oidentifierade kroppar begravs i skogen i Nepal - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Treåring dödad i israeliskt flyganfall vid bageri - Dagens Nyheter
+- En hittad död efter störtflod i Grand Canyon - Göteborgs-Posten
+- Trump publicerar hotfull AI-video på Khargön – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- DN Direkt – Nästan 900 saknas i tunnlarna i Nepal - Dagens Nyheter
+- Dadgostars uppmaning till missnöjda S-väljare: ”Skicka en signal” - Dagens Nyheter
+- Deras klasskompis tonårsutvisades: ”Känns tomt” - Aftonbladet
+- EDVARD HOLLERTZ: Självklart är Jimmie Åkesson stressad av Ebba Buschs succé - Corren
+- DN Direkt – Vinterdäck på många bilar vid somrarnas dödsolyckor - Dagens Nyheter
+- Partierna raggar väljare i villakvarteren - UNT
+- Hög skolfrånvaro bland eleverna i Halland: ”Inte godkänt” - Sveriges Radio
+- Tomas Ramberg: Centerns strategi är bingo för Dadgostar - Dagens Nyheter
+- Island: EU-samtal utesluts under mandatperiod - Göteborgs-Posten
+- Direkt – Kriget i Ukraina – Ryssland: Dödlig attack i Belgorod - Dagens Nyheter
 - Oro i Ryssland för ny tvångsmobilisering till kriget - Sveriges Radio
-- USA attackerar Iran igen – vid Hormuz - Svenska Dagbladet
-- ”Klimatpolitiken ska inte vara symbolisk” - Svenska Dagbladet
-- Warsh vid Jackson Hole: 8 viktiga slutsatser av Investing.com - Investing.com Sverige
-- TRATON OCH VOLVO ÅT OLIKA HÅLL, OMXS30 +0,7% - Placera.se
+- Minst sju döda i färjeolycka utanför Cypern - Corren
+- Avanzas drag i kampen om de rika: ”Det här är unikt” - Dagens industri
+- Miljardbolagen som knappt syns på Google: NIBE 196 besök i månaden, Swedbank 1,8 miljoner - Mynewsdesk
+- Bred börsnedgång i Asien - Enköpingsposten
+- 103 kvadratmeter stort hus i Knivsta sålt för 5 000 000 kronor - UNT
 - Banbrytande teleskop på väg mot rymden – ska ge nya svar om mörk materia - Omni – Alla nyheter. Alla perspektiv.
 - GTA 6 släpps med 30 fps på PS5 och Xbox ”tills vidare”, bekräftar Rockstar – 60 fps kan bli möjligt, men vi vill framför allt se ett 40 fps-läge - TechRadar
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Seymour pitches NZ as global testing ground for new technology - 1News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Glaciärexpert: Global uppvärmning bakom katastrofen i Nepal - Yle
-- Marcus Eklund går till BCD Travel – blir global kommersiell chef - travelnews-se
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Storbritannien: Global lanserar nyhetskanalen LBC News - Radionytt.se
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Visual Art köper Global Agencies - Dagens Media
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 
 ## Technology
@@ -57,15 +57,15 @@ _Updated: 2026-08-31 03:29_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Bästa AI-aktierna att köpa nu - Morningstar
 - När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
 - AI and law: “We need to think proactively” - Stockholms universitet
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
@@ -85,14 +85,14 @@ _Updated: 2026-08-31 03:29_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
