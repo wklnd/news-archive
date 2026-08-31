@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-08-31 08:10_
+_Updated: 2026-08-31 16:24_
 
-- Iran attacks US bases in Jordan after US strikes Larak Island - Al Jazeera
-- Families of pilgrims likely caught in floods are desperate for news from Nepal - NPR
-- Oner person dead, about 15 more may be missing after Grand Canyon flash flooding - The Washington Post
-- Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump - The Guardian
-- Trump calls for NBC’s Kristen Welker to face ‘rebuke or punishment’ from the FCC - CNN
-- Canada’s Ford Likens Trump’s Actions to Saturday Night Live Skit - Yahoo Finance
-- Venezuela’s Maduro shares first photos from US detention - Al Jazeera
-- ICE deports Afghans and others to Africa, expanding "third country" deportations - CBS News
-- Google Maps switches to "Lake America" as Canada compares change to "SNL" skit - Axios
-- Cleanup of Rotting Food at L.A. Warehouse Took Too Long, Residents Say - The New York Times
-- Icelandic voters reject a proposal to restart negotiations to join the European Union - AP News
-- Risk of lake burst near China-Nepal disaster site wanes - Reuters
-- Eight killed and others missing after ferry capsizes off northern Cyprus - BBC
-- Death toll rises to 38 from Russia’s deadliest attack on Ukraine this year - AP News
-- Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' with Treasury - CNBC
-- US plans to sanction another bank to keep economic pressure on Iran - Al Jazeera
-- Shares skid in Asia as oil climbs, yields stay high - Reuters
-- Meta’s Day of Reckoning - WSJ
-- Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets - The Verge
-- GTA VI Extended Gameplay Preview Attracted Over 4 Million Live Viewers - TechPowerUp
+- Live Updates: U.S. strikes Iran for first time in weeks as six-month war reignites over Strait of Hormuz - CBS News
+- Hundreds of workers feared stuck in hydropower tunnels as Nepal flood deaths cross 900 - AP News
+- G20 finance meeting live updates: Bessent, Warsh to give remarks - CNBC
+- Experts, lawyers puzzled over US-Venezuela oil deal, call for contract transparency - Reuters
+- ‘The Least Transparent Midterm’: How Dark Money Is Washing Over the 2026 Election - The New York Times
+- At least 1 dead, over a dozen missing at Grand Canyon after extreme flash flooding - NBC News
+- The House is back in session. Many Republicans hope it won’t be for long. - Politico
+- Iran’s economy in crisis as US launches new sanctions campaign - The Guardian
+- Edouard could form in Gulf, bringing soaking rain to TX, LA - The Weather Channel
+- The jury's options in Lindsay Clancy's murder trial - BBC
+- Israel signs €3 billion arms export deal with Greece - DW.com
+- Iceland’s parliament will ‘discuss’ withdrawing EU bid after failed referendum - politico.eu
+- Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv - The New York Times
+- Search continues for 18 passengers after ferry capsized in northern Cyprus - BBC
+- Fed Chairman Kevin Warsh triggered a new problem for stocks - Yahoo Finance
+- Stock futures fall after U.S. strikes Iran; Wall Street heads for winning month: Live updates - CNBC
+- How Tim Cook made Apple one of the world’s most valuable companies - CNN
+- A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - The New York Times
+- Pocket’s AI made my game ideas real. Now Meta controls the results. - Ars Technica
+- Exclusive: Samsung Galaxy S27 Ultra official CAD Renders Leak - Android Headlines
