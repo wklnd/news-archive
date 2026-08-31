@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-08-31 00:53_
+_Updated: 2026-08-31 03:29_
 
 ## Top Stories
 
 - Uppgifter: USA har genomfört nya attacker mot Iran - Dagens Nyheter
 - 20 saknas efter störtflod vid Grand Canyon - SVT Nyheter
-- Oro i Ryssland för ny tvångsmobilisering till kriget - Sveriges Radio
-- DN Direkt – Lind och Pourmokhtari i bråk om bensinpriset: ”Vilselett” - Dagens Nyheter
+- Uppgifter: USA har attackerat Iran igen - Västerbotten | Folkbladet
+- ”Rysk plan för skräckattack mot mål i Nato” - Aftonbladet
 - Är kungen av true crime själv en förövare? - Svenska Dagbladet
-- Michael Winiarski: Trumpfamiljen köpte paradisområde av kokainsmugglare - Dagens Nyheter
+- Nato: Ingen omedelbar risk för ryskt angrepp – hybridattackerna ökar - HurBra.se
 - DN Direkt – Kristersson om Åkesson och Busch: ”Inget allvarligt” - Dagens Nyheter
-- Kristersson: Farliga män ska tvångsomhändertas - Göteborgs-Posten
+- Kristersson: Farliga män ska tvångsomhändertas - Västerbottens-Kuriren
+- Sjöstedt (V): ”Som att ni inte bryr er längre” – Senaste nytt om valet 2026 - SVT Nyheter
 - Man allvarligt skadad efter misshandel - Nya Wermlands-Tidningen
-- Störningar i trafiken på grund av stillastående personbil på E4 - UNT
-- Direkt – Krisen i Mellanöstern – Treåring dödad i israeliskt flyganfall vid bageri - Dagens Nyheter
+- Island: EU-samtal utesluts under mandatperiod - Dagens Nyheter
 - Hundratals oidentifierade kroppar begravs i skogen i Nepal - Dagens Nyheter
-- Venezuela: Vi behåller äganderätten till oljan - Göteborgs-Posten
-- Karin Eriksson: Bakslaget för EU på Island kan stärka Trump - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Treåring dödad i israeliskt flyganfall vid bageri - Dagens Nyheter
+- Oro i Ryssland för ny tvångsmobilisering till kriget - Sveriges Radio
+- USA attackerar Iran igen – vid Hormuz - Svenska Dagbladet
 - ”Klimatpolitiken ska inte vara symbolisk” - Svenska Dagbladet
 - Warsh vid Jackson Hole: 8 viktiga slutsatser av Investing.com - Investing.com Sverige
 - TRATON OCH VOLVO ÅT OLIKA HÅLL, OMXS30 +0,7% - Placera.se
-- Nvidia använder sin balansräkning för att driva AI-boomen — är det ett tveeggat svärd? - Invezz
 - Banbrytande teleskop på väg mot rymden – ska ge nya svar om mörk materia - Omni – Alla nyheter. Alla perspektiv.
 - GTA 6 släpps med 30 fps på PS5 och Xbox ”tills vidare”, bekräftar Rockstar – 60 fps kan bli möjligt, men vi vill framför allt se ett 40 fps-läge - TechRadar
 
@@ -57,12 +57,12 @@ _Updated: 2026-08-31 00:53_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Bästa AI-aktierna att köpa nu - Morningstar
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - När AI komprimerar programmeringskarriärstegen: Vad bör du studera för att undvika att bli ersatt? - Vietnam.vn
 - AI and law: “We need to think proactively” - Stockholms universitet
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -121,6 +121,7 @@ _Updated: 2026-08-31 00:53_
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -129,7 +130,6 @@ _Updated: 2026-08-31 00:53_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
@@ -137,8 +137,8 @@ _Updated: 2026-08-31 00:53_
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Simple math behind major bison blunder - Forskning & Framsteg
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
