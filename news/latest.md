@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-01 20:49_
+_Updated: 2026-09-02 00:01_
 
-- U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom - CNBC
-- Lindsay Clancy jurors are deadlocked, judge sends them back for more deliberations - NBC News
-- Bank of America worker killed in 'unprovoked' Times Square stabbing identified: Police - ABC News - Breaking News, Latest News and Videos
-- House GOP leaders push ahead with spending vote - Politico
-- Whistle-Blower Says USPS Is Secretly Proceeding on Trump’s Mail Voting Plan Before Midterms - The New York Times
-- Why Venezuela probably won’t solve America’s emergency oil problem - CNN
-- 2 Grand Canyon flooding victims photographed on hiking trip in days before deaths - foxnews.com
-- Majority of Americans oppose Trump's new Canada tariffs, renaming Lake Ontario, Reuters/Ipsos poll finds - Reuters
-- JD Vance confronts Jewish GOP skeptics ahead of a potential 2028 run - CNN
-- Mark Carney tells US to ‘start being serious’ amid escalating trade war - The Guardian
-- Germany blames Russia for drone incursion, announces retaliatory measures - politico.eu
+- U.S. has launched ‘large and powerful’ strikes on Iran, Trump says - NBC News
+- Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying - BBC
+- House passes short-term funding bill to avoid a shutdown before the election - AP News
+- Whistleblower: Postal Service's work to comply with Trump order is rushed and sloppy - PBS
+- Germany blames Russia for drone attack on Leipzig airport - CNN
+- MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order - The Guardian
+- The Biggest Oil Deal or Theft at Gunpoint? U.S. Claims Majority Control of Venezuela’s Oil Reserves - Democracy Now!
+- 2 Grand Canyon flooding victims photographed on hiking trip in days before deaths - Fox News
+- Three Takeaways from Vance’s Closed-Door Speech to Jewish Republicans - WSJ
+- California wildfire deal collapses in the Assembly - Politico
 - Drones helped find people after Nepal floods but the search inside hydropower tunnels is a challenge - AP News
-- Spain's leader says Russia and Israel fueled Ceuta migrant crisis "disinformation" - CBS News
-- German minister says Brandenburg power grid target of sabotage attack - Reuters
+- Andy Burnham promises more devolution and public control of essential services - BBC
+- Husband and 12 Men in Britain Are Accused of Woman’s Yearslong Drugging and Rape - The New York Times
+- Two tankers carrying Saudi oil attacked in Strait of Hormuz - Reuters
 - Bond Sell-Off Threatens to Squeeze Borrowers Around the World - The New York Times
-- 10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries - CNBC
-- Fast-fashion giant Shein's shares fall after Hong Kong trading debut that spotlights its China roots - AP News
-- Tim Cook’s Apple: his 10 biggest wins and misses - The Verge
-- After two years of turmoil, Sonos attempts a triumphant return. - The Verge
-- Microsoft 365 outage drags on, but things are improving - TechCrunch
+- FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions - Ars Technica
+- Wall Street ends lower as higher yields, rising oil prices mark shaky start to September - Reuters
+- US borrowing costs hit fresh highs over inflation fears - BBC
+- Sonos Has New Devices, a New OS, and Yes, a New App - WIRED
+- Roku has released its first ever OLED TVs - The Verge
