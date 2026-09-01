@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-01 07:39_
+_Updated: 2026-09-01 12:26_
 
-- Army secretary submits resignation to Trump after repeated clashes with Hegseth - The Washington Post
-- Tropical storm warning issued for Upper Texas and southwest Louisiana coasts - Houston Chronicle
-- Death Toll Rises in Grand Canyon Flood as Search Continues - The New York Times
-- Woman randomly stabs 2 people in New York City's Times Square, killing 1, then is killed by police - AP News
-- Vance characterizes Democratic Senate hopeful Abdul El-Sayed as ‘evil’ - NBC News
-- Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and Tibet - AP News
+- Army Secretary Dan Driscoll resigns from post - axios.com
+- Nepal floods death toll tops 900 as number of missing nearly doubles to more than 4,200 - NBC News
+- How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump - The New York Times
+- At least 80 people rescued after Grand Canyon flash flooding; one is unaccounted for - The Washington Post
+- Supreme Court allows construction of Donald Trump’s White House ballroom to continue - Financial Times
+- Vance unloads on El-Sayed after Usha swipe with brutal warning: 'Way out of your league' - Fox News
 - Citing California as a problem state, Trump administration shuts down 110 trucking schools - Los Angeles Times
-- 17-year-old girl indicted for murder in San Diego mosque shooting, accused of helping livestream attack - CBS News
-- Lindsay Clancy jury asks to go home after 2nd full day of deliberations - WCVB
-- Supreme Court clears way for White House ballroom construction to continue - The Washington Post
-- Ukraine racing to develop new interceptors as Russian drones and missiles ravage the country - CNN
-- Andy Burnham to face Parliament as prime minister for first time - BBC
+- Vance offers olive branch to pro-Israel Republicans in closed-door speech - Politico
+- St. Louis becomes the latest battleground in fight over data centers - CBS News
+- U.S. military doesn’t plan to deploy troops to the polls in November, general says - NBC News
+- Chinese rescue work in Tibet flood disaster zone still trudging along days later - Reuters
 - Live Updates: Trump vows to hit Iran hard after U.S., Tehran exchange strikes for the first time in weeks - CBS News
-- Putin, Xi reaffirm Russia-China ties amid ‘unpredictable’ world - Al Jazeera
-- Amazon sued by FTC, 22 states over advertising practices - NBC News
-- Shein shares fall in long-awaited stock market debut - BBC
-- John Ternus to lead Apple into the age of AI - Al Jazeera
-- COMMENTARY: Trading Day: Bonds shaken, and stirred - Reuters
-- The Google TV Streamer now costs $50 more - The Verge
-- OpenClaw 2.0 pours glitter on slow-burning security dumpster fire - theregister.com
+- Ukraine racing to develop new interceptors as Russian drones and missiles ravage the country - CNN
+- Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil - CNBC
+- Shein’s Shares Fall in Long-Awaited Hong Kong Debut - WSJ
+- Asian Stocks to Fall as Iran Flare-Up Boosts Oil: Markets Wrap - Bloomberg.com
+- George Santos receives first-ever lifetime ban from Kalshi - USA Today
+- Wall Street closes lower as oil prices jump, indexes notch monthly gains - Reuters
+- New Galaxy Book6 with Windows 11 out at $799, has drawbacks - Neowin
+- OpenClaw 2.0 is here, ushering in the era of 'multiplayer' AI coding: What it means for enterprises - venturebeat.com
