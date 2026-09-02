@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-02 11:53_
+_Updated: 2026-09-02 16:41_
 
-- Iran attacks US bases in Middle East after reports US strike killed five at wedding party - BBC
-- Senator Markey handily beats Seth Moulton in combative Democratic primary. Here’s how election night unfolded across Mass. - The Boston Globe
-- Case against suspect in Charlie Kirk’s killing can proceed to trial, judge rules - CNN
-- Army secretary's resignation adds to turmoil at Pentagon under Hegseth - PBS
-- Lindsay Clancy judge tells deadlocked jurors to return for fifth day of deliberations - NBC News
-- U.S.S. Abraham Lincoln to Dock in Thailand on Wednesday, Pattaya Mayor Says - The New York Times
-- Edouard weakens into a tropical depression after landfall but still dumping rain into Texas - AP News
-- Haitian college student in Ohio dies by apparent suicide after losing TPS status, family says - Fox News
-- Haley tells Vance to ‘choose a side’: Israel or Tucker Carlson - The Hill
-- Shooting at Tucson Gay Bar That Killed 2 Investigated as Hate Crime - The New York Times
-- Germany accuses Russia of failed drone attack on Leipzig airport in August - Al Jazeera
-- Global warming will exceed limit, UN says in a report that maps path to get back below danger zone - AP News
-- Andy Burnham promises more devolution and public control of essential services - BBC
-- American missing in wake of Nepal floods contacted, Nepali officials tell CBS News - CBS News
-- Bond selloff deepens as inflation risks, oil prices jolt markets - Reuters
-- Stock futures are little changed after Wall Street posts third straight losing day: Live updates - CNBC
-- Data Center Spending to Reach $31.6 Trillion by 2050 on AI Boom - Bloomberg.com
-- Apple Unveils Pay Package For New CEO John Ternus - Deadline
-- 'Sonos 27' Brings A Refreshed UI To The App And Lets AI Agents Control Your System - engadget.com
-- Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower - The Verge
+- Pete Hegseth’s culture war fixation disrupting Army progress, sources say - CNN
+- USS Abraham Lincoln docks in Thailand after 9 months at sea - washingtonpost.com
+- US oil giant Chevron confirms it will expand operations in Venezuela - AP News
+- Ed Markey defeats Seth Moulton in Massachusetts' Democratic primary for Senate - CBS News
+- US urges NATO allies to prepare in case Russia attacks - USA Today
+- EU summons Russian envoy over failed Leipzig drone attack - dw.com
+- Tiger Woods strikes plea deal in Florida rollover crash case, loses driver's license for 5 years - Fox News
+- Jurors to return in Lindsay Clancy trial after judge asks them to break deadlock - bbc.com
+- Iran attacks American bases in Middle East as it accuses US of ‘war crime’ over wedding strike – Middle East crisis live - The Guardian
+- Utah judge decides Tyler Robinson will stand trial over Charlie Kirk's killing - PBS
+- Nepal intensifies relief and recovery efforts after deadly floods, UN says - bbc.com
+- Andy Burnham promises more devolution and public control of essential services - bbc.com
+- Xi visits Egypt as China seeks deeper influence across the Mideast - AP News
+- The world is certain to overshoot a critical climate threshold, U.N. warns - washingtonpost.com
+- S&P 500 futures are little changed as U.S. 10-year yield hits highest level in more than two years: Live updates - CNBC
+- Apple Unveils Pay Package For New CEO John Ternus - deadline.com
+- Uber to Cut 10% of Jobs, or 3,300 Roles, to Slash Bureaucracy - bloomberg.com
+- The bond market has a supply problem — and it’s pushing yields higher - Yahoo Finance
+- Acer Predator Atlas 7 launches with Arc G3, 120Hz display and up to 80Wh battery - VideoCardz.com
+- Alienware launches 32-inch 4K Tandem WOLED monitor for $699 and 560Hz QD-OLED model - VideoCardz.com
