@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-02 16:41_
+_Updated: 2026-09-02 20:03_
 
-- Pete Hegseth’s culture war fixation disrupting Army progress, sources say - CNN
-- USS Abraham Lincoln docks in Thailand after 9 months at sea - washingtonpost.com
-- US oil giant Chevron confirms it will expand operations in Venezuela - AP News
-- Ed Markey defeats Seth Moulton in Massachusetts' Democratic primary for Senate - CBS News
+- Live Updates: Iran war ramps back up as Tehran accuses U.S. of bombing wedding party, attacks Gulf states - CBS News
+- Woman charged with witness intimidation outside Lindsay Clancy courthouse - NewsNation
+- Trump ally defends Venezuela oil deal amid ‘gunpoint diplomacy’ criticism - theguardian.com
+- USS Abraham Lincoln arrives in Thailand after 286 days at sea - USA Today
+- Who Approves Trump’s Washington Makeover Projects? - The New York Times
+- After Army secretary’s resignation, tallying the departures of military leaders - The Washington Post
+- Trump floats renaming Strait of Hormuz the 'Trump Strait' - CNBC
+- Republicans aren’t exactly flocking to Trump’s midterm convention - Politico
+- NYC schools ban AI for students through 8th grade under sweeping new policy - ABC7 New York
+- New Mail Voting Rules Moved Forward Despite USPS Officials’ Concerns About Mass Disenfranchisement - ProPublica
+- How are search operations progressing in Nepal, a week after deadly flash flood? - Reuters
+- Von der Leyen, Rutte say Russian ‘intimidation will not work’ to stop Ukraine aid - politico.eu
 - US urges NATO allies to prepare in case Russia attacks - USA Today
-- EU summons Russian envoy over failed Leipzig drone attack - dw.com
-- Tiger Woods strikes plea deal in Florida rollover crash case, loses driver's license for 5 years - Fox News
-- Jurors to return in Lindsay Clancy trial after judge asks them to break deadlock - bbc.com
-- Iran attacks American bases in Middle East as it accuses US of ‘war crime’ over wedding strike – Middle East crisis live - The Guardian
-- Utah judge decides Tyler Robinson will stand trial over Charlie Kirk's killing - PBS
-- Nepal intensifies relief and recovery efforts after deadly floods, UN says - bbc.com
-- Andy Burnham promises more devolution and public control of essential services - bbc.com
-- Xi visits Egypt as China seeks deeper influence across the Mideast - AP News
-- The world is certain to overshoot a critical climate threshold, U.N. warns - washingtonpost.com
-- S&P 500 futures are little changed as U.S. 10-year yield hits highest level in more than two years: Live updates - CNBC
-- Apple Unveils Pay Package For New CEO John Ternus - deadline.com
-- Uber to Cut 10% of Jobs, or 3,300 Roles, to Slash Bureaucracy - bloomberg.com
-- The bond market has a supply problem — and it’s pushing yields higher - Yahoo Finance
-- Acer Predator Atlas 7 launches with Arc G3, 120Hz display and up to 80Wh battery - VideoCardz.com
-- Alienware launches 32-inch 4K Tandem WOLED monitor for $699 and 560Hz QD-OLED model - VideoCardz.com
+- Israel confirms capturing Hamas internal security chief in Gaza City raid - The Times of Israel
+- Stocks rise for first time in four sessions as Treasury yields take breather: Live updates - CNBC
+- Employer Health Costs Are Expected to Spike in 2027 - The New York Times
+- Fed Chairman Warsh Lays Out His Own Data Dashboard for Reading the US Economy - Bloomberg.com
+- US court rules Google will not have to sell ad exchange after losing antitrust case - Ars Technica
+- Acer’s Smaller Intel-Based Gaming Handheld Has Sky-High Ambitions - Gizmodo
+- Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It? - WIRED
