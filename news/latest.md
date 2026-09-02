@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-02 20:03_
+_Updated: 2026-09-02 23:16_
 
-- Live Updates: Iran war ramps back up as Tehran accuses U.S. of bombing wedding party, attacks Gulf states - CBS News
-- Woman charged with witness intimidation outside Lindsay Clancy courthouse - NewsNation
-- Trump ally defends Venezuela oil deal amid ‘gunpoint diplomacy’ criticism - theguardian.com
-- USS Abraham Lincoln arrives in Thailand after 286 days at sea - USA Today
-- Who Approves Trump’s Washington Makeover Projects? - The New York Times
-- After Army secretary’s resignation, tallying the departures of military leaders - The Washington Post
-- Trump floats renaming Strait of Hormuz the 'Trump Strait' - CNBC
-- Republicans aren’t exactly flocking to Trump’s midterm convention - Politico
-- NYC schools ban AI for students through 8th grade under sweeping new policy - ABC7 New York
-- New Mail Voting Rules Moved Forward Despite USPS Officials’ Concerns About Mass Disenfranchisement - ProPublica
-- How are search operations progressing in Nepal, a week after deadly flash flood? - Reuters
-- Von der Leyen, Rutte say Russian ‘intimidation will not work’ to stop Ukraine aid - politico.eu
+- Jury in Lindsay Clancy trial tells judge for a second time that it can't agree on a verdict - PBS
+- Tehran targets U.S. allies in Gulf after U.S. launched ‘large and powerful’ strikes on Iran - NBC News
+- The biggest unanswered question in Trump's Venezuelan oil deal: Where will the $100B in funding come from? - Yahoo Finance
+- Whistleblower's lawyer warns USPS plan for Trump's order could keep ballots from voters - NPR
+- Tillis renews calls for Hegseth’s ouster - Politico
+- USS Abraham Lincoln’s crew of 5,000 arrive at notorious Thai resort after 270 days at sea - The Guardian
+- Town-by-town maps: See how Markey vs. Moulton compared to Markey vs. Kennedy - The Boston Globe
+- Trump's $1 gold coins go on sale via US Mint starting Sept. 2 - USA Today
+- Texas hit with 30 inches of rain in 24 hours during extreme flash-floods as rescues of trapped residents underway - The Independent
+- Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again - The New York Times
 - US urges NATO allies to prepare in case Russia attacks - USA Today
-- Israel confirms capturing Hamas internal security chief in Gaza City raid - The Times of Israel
-- Stocks rise for first time in four sessions as Treasury yields take breather: Live updates - CNBC
-- Employer Health Costs Are Expected to Spike in 2027 - The New York Times
-- Fed Chairman Warsh Lays Out His Own Data Dashboard for Reading the US Economy - Bloomberg.com
-- US court rules Google will not have to sell ad exchange after losing antitrust case - Ars Technica
-- Acer’s Smaller Intel-Based Gaming Handheld Has Sky-High Ambitions - Gizmodo
-- Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It? - WIRED
+- Nepal intensifies relief and recovery efforts after deadly floods, UN says - bbc.com
+- Von der Leyen, Rutte say Russian ‘intimidation will not work’ to stop Ukraine aid - politico.eu
+- Palantir CEO Alex Karp backs ousted Ukraine defense minister's new defense tech startup - CNBC
+- Broadcom Inc. Announces Third Quarter Fiscal Year 2026 Financial Results and Quarterly Dividend - investors.broadcom.com
+- U.S. Stocks Climb as Bond Yields Stay in Spotlight - WSJ
+- Google Avoids Ad Exchange Sale as Judge Orders Tech Integration - bloomberg.com
+- Dutch central bank moves gold bars out of New York over ‘geopolitical unrest’ - Financial Times
+- Samsung Updates Free Upgrade List With Millions More Galaxy Phones - Forbes
+- Acer Predator Atlas 7 launches with Arc G3, 120Hz display and up to 80Wh battery - VideoCardz.com
