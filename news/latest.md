@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-02 00:01_
+_Updated: 2026-09-02 02:46_
 
-- U.S. has launched ‘large and powerful’ strikes on Iran, Trump says - NBC News
-- Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying - BBC
-- House passes short-term funding bill to avoid a shutdown before the election - AP News
-- Whistleblower: Postal Service's work to comply with Trump order is rushed and sloppy - PBS
-- Germany blames Russia for drone attack on Leipzig airport - CNN
-- MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order - The Guardian
-- The Biggest Oil Deal or Theft at Gunpoint? U.S. Claims Majority Control of Venezuela’s Oil Reserves - Democracy Now!
+- US launches strikes on Iran following 'attempted attacks in Strait' - BBC
+- Victim in Times Square stabbing identified as Bank of America employee Erin Piacenti - CBS News
+- Apple Maps changes name of Lake Ontario to 'Lake America' - Reuters
+- Lindsay Clancy trial jury unable to reach unanimous decision - CNN
+- Springfield student died by suicide after receiving ICE ankle monitor, family says - NBC4 WCMH-TV
+- House passes short-term funding bill to prevent a shutdown before the election - NBC News
+- Democrats warn of ‘hollowed out’ leadership after army chief resigns amid clashes with Hegseth - The Guardian
+- Postal Service work to comply with Trump's executive order is rushed and sloppy, a whistleblower contends - AP News
 - 2 Grand Canyon flooding victims photographed on hiking trip in days before deaths - Fox News
-- Three Takeaways from Vance’s Closed-Door Speech to Jewish Republicans - WSJ
-- California wildfire deal collapses in the Assembly - Politico
+- Charlie Kirk latest: Alleged killer should face trial, judge rules - and death penalty can be sought - news.sky.com
+- Germany blames Russia for drone attack on airport, announces countermeasures - washingtonpost.com
 - Drones helped find people after Nepal floods but the search inside hydropower tunnels is a challenge - AP News
-- Andy Burnham promises more devolution and public control of essential services - BBC
-- Husband and 12 Men in Britain Are Accused of Woman’s Yearslong Drugging and Rape - The New York Times
-- Two tankers carrying Saudi oil attacked in Strait of Hormuz - Reuters
-- Bond Sell-Off Threatens to Squeeze Borrowers Around the World - The New York Times
-- FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions - Ars Technica
-- Wall Street ends lower as higher yields, rising oil prices mark shaky start to September - Reuters
-- US borrowing costs hit fresh highs over inflation fears - BBC
+- Spain's leader says Russia and Israel fueled Ceuta migrant crisis "disinformation" - CBS News
+- The Trump-shaped problems awaiting Andy Burnham, ranked - politico.eu
+- Government borrowing costs rise anew, adding to pressure on global policymakers - Reuters
+- Apple enters a new era as John Ternus takes over as CEO - Fox Business
+- Dell Stock Gains After Earnings Come In Way Ahead of Estimates - Barron's
+- US job openings rise slightly to 7.3 million as labor market remains sturdy despite higher costs - AP News
 - Sonos Has New Devices, a New OS, and Yes, a New App - WIRED
-- Roku has released its first ever OLED TVs - The Verge
+- New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official - arstechnica.com
