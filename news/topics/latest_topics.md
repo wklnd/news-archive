@@ -1,40 +1,40 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-02 00:44_
+_Updated: 2026-09-02 03:15_
 
 ## Top Stories
 
-- Sverige kallar upp ryska ambassadören - Corren
-- Andersson: "Vill se ny samarbetsanda över blocken" - Svenska Dagbladet
+- Nepal tar farväl av offren för störtfloden - Dagens Nyheter
+- EU-länder söker svar efter misstänkta ryska sabotage - Europaportalen
+- Flera attacker i Mellanöstern – flyglarm i Bahrain - Göteborgs-Posten
 - Mattias misshandlades till döds – dottern såg på - Aftonbladet
-- Iran svarar på nya amerikanska attacker - gp.se
-- Varför censureras en översvämning i Kina? - gp.se
-- Unga gamers rekryteras till civilförsvaret som dönarpiloter - TV4 Nyheterna
-- Två barn vårdas på sjukhus med frätskador - svt.se
-- Mohamsson: Åkesson är väl stressad över Markus Allard - Dagens Nyheter
-- 1 september 20.17, Trafikolycka, Landskrona - polisen.se
-- Snart invigs Stockholms mest utskällda bro - Dagens Nyheter
-- Ulf Kristersson: ”Står enade” – Senaste nytt om kriget i Ukraina - svt.se
-- Netanyahu: Säkerhetschefen för Hamas gripen - Västerbottens-Kuriren
-- Zelenskyj hotar ryskt luftrum – Putin ilsken - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – Ryssland: Tysklands påståenden är ”absurda” - Dagens Nyheter
-- EU vill få Kina att begränsa sin bilexport - EFN
-- Oljepriset och räntorna upp – Wall Street ned - Västerbottens-Kuriren
-- Europa tyngs av högre räntor och stigande oljepris, Stoxx 600 index minus 0,2 procent (Finwire News) - Aktiellt
-- Nya ägare till villa i Uppsala – för 5 250 000 kronor - UNT
-- Jag har mycket roligt med Klas Östergren - gp.se
-- Ett sylvasst actionspel från en svunnen tid - Aftonbladet
+- Pamela, 49, spred skräck i mystisk attack - Aftonbladet
+- Høiby med och bär Haralds kista genom slottet - vk.se
+- Trots röstbråket: Mohamsson och Åkesson kramas igen - vk.se
+- Traktor och personbil kolliderade – två personer till sjukhus - SVT Nyheter
+- Två barn vårdas på sjukhus med frätskador - SVT Nyheter
+- I kväll: Magdalena Anderson (S) i Utfrågningen – Senaste nytt om valet 2026 - SVT Nyheter
+- Netanyahu: Säkerhetschefen för Hamas gripen - Corren
+- Zelenskyj hotar ryskt luftrum – Putin ilsken - vk.se
+- Ukraina: Flera döda i ryska attacker mot Kiev - Göteborgs-Posten
+- DN Direkt – Drottning Mette-Marit förd till sjukhus - Dagens Nyheter
+- Sänk energikostanden – och få 60 000 kronor i bidrag - Expressen
+- Nedåt på Stockholmsbörsen för andra dagen i rad, OMXS30-index backade 1,3 procent - Placera.se
+- Oljepriset och räntorna upp – Wall Street ned - vk.se
+- Nya ägare till villa i Uppsala – för 5 250 000 kronor - unt.se
+- Jag har mycket roligt med Klas Östergren - Göteborgs-Posten
+- Inget cameo i GTA 6 bekräftat då skådespelaren som spelade Michael i GTA 5 försvarar Rockstars grafik - notebookcheck.se
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
@@ -43,22 +43,22 @@ _Updated: 2026-09-02 00:44_
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Visual Art köper Global Agencies - Dagens Media
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - bbc.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - iffs.se
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Leveraging AI in Swedish Development Cooperation - fuf.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI and law: “We need to think proactively” - Stockholms universitet
-- Supertips: Sex bortglömda aktier i AI-boomen - dagensps.se
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - omni.se
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
@@ -80,7 +80,6 @@ _Updated: 2026-09-02 00:44_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -91,6 +90,7 @@ _Updated: 2026-09-02 00:44_
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
 
@@ -120,7 +120,6 @@ _Updated: 2026-09-02 00:44_
 ## Science
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
@@ -128,17 +127,18 @@ _Updated: 2026-09-02 00:44_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Utvärdering av AI:s förmåga att utföra vetenskapliga forskningsuppgifter - OpenAI
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Enheten för öron-, näs- och halssjukdomar - Karolinska Institutet
 - Torsten Persson utsedd till vice ordförande i ERC:s vetenskapliga råd - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 
 ## Jordbruk
 
@@ -149,16 +149,16 @@ _Updated: 2026-09-02 00:44_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - atl.nu
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - Lantbrukslogik – nu och i framtiden - SLU
 - Framtidens jordbruk är här - Shaping Europe’s digital future
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - atl.nu
+- Visning av uppkomst efter direktsådd - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Visning av uppkomst efter direktsådd - Land.se
-- Jord, kor och klimat - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Kan agroekologi mätta världen? - SLU
+- Jord, kor och klimat - SLU
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Kan agroekologi mätta världen? - SLU
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
