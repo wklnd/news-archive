@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-03 20:51_
+_Updated: 2026-09-03 23:52_
 
-- New IRS proposal threatens universities' tax-exempt status over diversity programs - Politico
-- UN warns El Nino could be ‘off the charts’, strongest in decades - Al Jazeera
-- Lindsay Clancy murder trial jury resumes deliberations as mistrial potential grows: "End of the road here" - CBS News
-- Gloria Steinem, lodestar of the modern women’s movement, dies at 92 - The Washington Post
-- Iran targets US bases as Israel warns sanctions could drive Tehran to ‘desperate steps’ - The Guardian
-- Federal judge blocks Trump’s latest order limiting birthright citizenship - NBC News
-- Trump urges Republicans in tight races to run on his record - The Hill
-- Lutnick apologizes for saying no Americans have died in Iran war - Reuters
-- Hakeem Jeffries declines to detail consequences for rogue Democrats, cites ‘forward-looking’ conversation - Politico
-- 2 dead, at least 6 injured in Minneapolis apartment building shooting - NBC News
-- German far-right party targets iconic Bauhaus school ahead of landmark state election - AP News
-- Xi visits Egypt as China seeks deeper influence across the Mideast - NPR
-- Live updates • Netanyahu: 5 Lebanese civilians released in exchange for slain Jewish leaders - Haaretz
-- Tens of thousands flood streets to protest Spain border crisis - Fox News
-- Nvidia bets $13 billion on open AI models with Hugging Face deal - Reuters
-- Stock Market Today: Treasury Yields Retreat on Fed Official’s Rate Comments, Yen Jumps — Live Updates - WSJ
-- Dow jumps 600 points, heads for best day in a month as yields fall: Live updates - CNBC
-- Mortgage rates hit highest level in over a year: Mortgage and refinance interest rates today, Thursday, September 3, 2026 - Yahoo Finance
-- Grand Theft Auto 6 Is Getting a Pair of Limited Edition PS5 Controllers - IGN
-- Google launches AI voice features in Gmail, Docs, and Keep - TechCrunch
+- Live updates: Tensions flare in Lindsay Clancy courtroom over holdout juror - CNN
+- Federal judge considers whether to extend ban against U.S. Postal Service mail voting changes - PBS
+- Gloria Steinem, defining symbol of women’s movement and eloquent advocate for equality, dies at 92 - AP News
+- Trump Administration Live Updates: Vance Says ‘I Don’t Know’ if Iran War Will Be Over by Midterms - The New York Times
+- Billionaire Leon Black sues House Oversight Committee over Epstein probe subpoenas - NBC News
+- Trump administration aims to strip schools’ tax exemption if they consider race - The Washington Post
+- ICE officer charged with lying to investigators in the shooting of Venezuelan man, AP source says - AP News
+- Bonus 247: Four Lessons from the Ballroom Ruling - One First | Steve Vladeck | Substack
+- Watch live: Suspected gunman in downtown Minneapolis mass shooting was facing eviction, court records show - CBS News
+- Lutnick apologizes for asserting that there ‘haven’t been American deaths’ from the Iran war - CNN
+- Norway Seizes Russian Research Ship in the High Arctic - The New York Times
+- Germany's far-right AfD aims for breakthrough in state election - Reuters
+- Syria begins destroying al-Assad-era chemical weapons materials - Al Jazeera
+- Tens of thousands flood streets to protest Spain border crisis - foxnews.com
+- Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face - finance.yahoo.com
+- Volkswagen Plans to Cut 50,000 Jobs Amid Dire Need to Reduce Costs - The New York Times
+- Mortgage rates jump to highest level in over a year - foxbusiness.com
+- GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era - WIRED
+- Lenovo IdeaPad Vibe is a MacBook Neo competitor starting at $699 - 9to5Google
+- Nvidia’s new RTX Spark laptops launch in October with two different configs - The Verge
