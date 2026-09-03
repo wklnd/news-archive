@@ -1,72 +1,154 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-03 17:08_
+_Updated: 2026-09-03 23:49_
 
 ## Top Stories
 
-- SD-tjänsteman anklagas för proryska budskap - Svenska Dagbladet
-- Analyser: S tar till SD-spöket – den strategin svek 2022 - Omni – Alla nyheter. Alla perspektiv.
-- Roks: Varningslarmet SE-Alert kan försätta kvinnor i fara - TV4 Nyheterna
-- DN Direkt – Svensk gängman gripen i Rumänien - Dagens Nyheter
-- Ny opinionsmätning: Lyft för L - Göteborgs-Posten
-- Åkesson ger Liberalerna fler dagar till 3,5 procent – Senaste nytt om valet 2026 - SVT Nyheter
-- Två åtalas för dödsskjutning i Fornhöjden - SVT Nyheter
-- Uppgifter om hot mot skola i Katrineholm – polisen ökar närvaron - SVT Nyheter
-- Polisen bekräftar NWT:s uppgifter - Nya Wermlands-Tidningen
-- Vill äta köttbullar med S – men inte regera ihop - Göteborgs-Posten
-- 5 000 soldater går i land i Pattaya – efter nio månader till sjöss - Dagens Nyheter
-- Spanien: 230 000 demonstrerade för Ceuta efter krisen - Sveriges Radio
-- Forskare: Sannolikt att Ryssland planerar attack mot Nato - Dagens Nyheter
-- Rekordmånga döda i värmeböljan - Aftonbladet
-- Clas Ohlsons vd: "I toppskicket av europeisk retail" - EFN
-- BEKRÄFTAR KÖP AV HUGGING FACE FÖR 12,9 MDR USD - Placera.se
-- Ny mätning: Hushållen räknar med högre bolåneräntor - Bostadspolitik
-- Populär kedja stänger 106 restauranger – blir 3 600 hotellrum - Dagens PS
+- S kräver svar från statsministern efter uppgifter om risk för rysk infiltration - Socialdemokraterna
+- Vance: Tror inte att USA attackerade bröllop - Göteborgs-Posten
+- M larmar om Kista: ”Expresskidnappningar” - Svenska Dagbladet
+- Tvingas söka skydd – förstår snabbt varför - expressen.se
+- Två barn mitt i kulregnet – vid brutala gängmordet i Tolered - Göteborgs-Posten
+- Brand på Skogskyrkogården i Jönköping under kontroll - Sveriges Radio
+- M i Stockholm saknar röda linjer för maktskifte – SD kräver lokalt Tidöavtal - Dagens Nyheter
+- Falska rykten spreds efter dödsfall i Karlstad - Dagens Nyheter
+- Efter inrymningen i Lycksele – polisen lägger ner utredningen om Norräng - SVT Nyheter
+- Regeringen: Stärk mödra- och förlossningsvården - Göteborgs-Posten
+- Intern uppgörelse mellan agenter i Kiev – Zelenskyj kräver svar - Dagens Nyheter
+- Syrien förstör kemvapen från al-Assad-tiden - Göteborgs-Posten
+- Nathan Shachar: Marocko pressas när Spanien tar hjälp av EU i gränsfrågan - Dagens Nyheter
+- Expert: Rysslands sabotage bör vara en väckarklocka - Västerbottens-Kuriren
+- Clas Ohlson redo för förvärv – har 2,2 miljarder i nettokassa - Placera.se
+- Förvirring kring förslag från S om ny bankskatt - Svenska Dagbladet
+- USA-börserna väntas öppna på plus - Dagens industri
+- Stor framgång för Revolut – nära banklicens i USA - Dagens PS
 - En ny läckt bild på A20 Pro-chipet tyder på en betydande GPU-förbättring för iPhone 18 Pro och Apples första hopfällbara iPhone - notebookcheck.se
-- AI-sömndata kan ge en veckas tidig varning om influensa- och covid-19-aktivitet (MFN) - Aktiellt
+- Anker vill att övervakningskameran ska skvallra för robotdammsugaren när du har gäster - Ljud & Bild
 
 ## World News
 
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - news.cision.com
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - unhcr.org
+- Röd New York-börs med global räntepress: ”Börjar omvärdera” - EFN
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - uu.se
+- DNB startar global aktiefond med fokus på kvinnors hälsa - Finanswatch.se
 - Corren kan vinna pris för satsningen på unga - Corren
-- Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Bytet till Global Eye ”en näsbränna för USA” - di.se
-- Sweden joins global Falling Walls network with first national lab - Stockholms universitet
+- Tranter Expands Global Manufacturing Capacity with New Press in Sweden - Dagens industri
+- WALOVI's International Cans Make Global Debut, Ushering in a New Era of Eastern Natural Plant Beverages - Aktiellt
 - ⚖️ Global ojämlikhet minskar både mellan och inom länder - Warp News
 - Professor Kivipelto is leading the first global initiative for prevention of dementia and Alzheimer's disease - Karolinska Institutet
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Handelsbanken lanserar ny global indexfond - Cision News
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Bytet till Global Eye ”en näsbränna för USA” - Dagens industri
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Handelsbanken lanserar ny global indexfond - news.cision.com
+- ATTEX Data strengthens partnership with WPP Media to harness the power of human attention - Dagens industri
 
 ## Technology
 
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
+- Den aktiva AI-ETF:en på jakt efter nästa Nvidia - Morningstar
 - Kann eine SAP KI Europas Antwort sein? Was die EU im globalen Wettlauf um Künstliche Intelligenz tun muss - Xpert.Digital - Konrad Wolfenstein
 - 'AI workshop' to help smaller Swedish municipalities get better digital tools - Sveriges Radio
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- AI and law: “We need to think proactively” - Stockholms universitet
+- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
+- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
+- Bästa AI-aktierna att köpa nu - Morningstar
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Open AI släpper GPT-5.2 – ska utmana Gemini 3 - Computer Sweden
-- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
-- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
+- Metas tidigare AI-chef slår Europarekord – tar in 9 miljarder - Computer Sweden
+
+## Business
+
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
+
+## Health
+
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- De bästa hälsovårdsaktierna att köpa - Morningstar
+- Genomic Medicine Sweden – initiativ för brett införande - Läkartidningen
+- Coronapassport utrustar Faktumsäljare med munskydd - news.cision.com
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Självmord, psykisk ohälsa, sämre mat och medicinbrist – brexit kan få "katastrofala följder" för britternas hälsa, varnar forskare - Yle
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - Mynewsdesk
+- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
+- Maria Strömme, professor i nanoteknologi, föreläser på Apotek & Egenvård - Mynewsdesk
+- Multivitamintabletten Berocca lanseras i tablettform - Mynewsdesk
+
+## Science
+
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- Täta band mellan turism och forskning på Svalbard - SLU
+- Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
+- AI för vetenskaplig forskning och upptäckter - OpenAI
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Kongress som bygger broar för global hälsa - Läkartidningen
+- Simple math behind major bison blunder - Forskning & Framsteg
+- Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
+- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Enheten för öron-, näs- och halssjukdomar - Karolinska Institutet
+- WASP lanserar nytt forskningsinitiativ som förenar AI och medicin - Mynewsdesk
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+
+## Jordbruk
+
+- Lantbrukslogik – nu och i framtiden - SLU
+- Framtidens jordbruk - European Commission
+- Sorseles sista mjölkgård till salu - lokaltidningen.nu
+- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- Jord, kor och klimat - SLU
+- Framtidens jordbruk är här - Shaping Europe’s digital future
+- Jordelivet - ett år med Amanda Bergman - SVT Play
+- Tisenö en bebodd pärla i Tisnaren - NT
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Lantbrukarnas data blir en tillgång - Land.se
+- Driva lantbruk i Ryssland är ingen promenad i parken - ATL
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- Markbristen: EUs unga bönders största utmaning - Land.se
+- Mjau bjuder katter på naturnära matupplevelser - Mynewsdesk
+- Historien om Tangará Farm – Maycon Vinborg ville revolutionera svensk fårnäring - Land.se
+- Atria har genomfört köpet av Gooh! - Mynewsdesk
