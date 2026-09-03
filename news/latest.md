@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-03 13:42_
+_Updated: 2026-09-03 17:11_
 
-- Gloria Steinem: An icon of American feminism - BBC
-- Tehran targets U.S. allies in Gulf after U.S. launched ‘large and powerful’ strikes on Iran - NBC News
-- Trump to travel for embattled Republicans in last 30 days of midterms - Politico
-- He tried to eliminate FEMA. Now he says the Trump administration has changed course - NPR
+- Gloria Steinem, a potent voice of US feminism and co-founder of Ms. Magazine, dies at 92 - AP News
+- Lindsay Clancy Trial Live Updates: Deadlocked Jury Tries Again to Reach a Verdict - The New York Times
+- USS Abraham Lincoln: US sailors unwind in Thailand by shopping and bar-hopping - BBC
 - As millions of kids lose SNAP food benefits, free school meals are also at risk - NPR
-- ‘It’s a fever dream right now’: sailors of USS Abraham Lincoln voice joy after arriving in Thailand - The Guardian
-- Can the Lindsay Clancy Jury Break Its Deadlock? - The New York Times
-- Democrats’ new data center attack line - Politico
-- 3 dead, including suspect, in Minneapolis apartment building shooting - NBC News
+- Judge blocks Trump’s birthright citizenship order aimed at ‘birth tourism’ - Politico
+- House Democrats erupt into infighting over leadership power play - Axios
+- Trump promises to campaign for Republicans and says they have a winning midterm message - AP News
+- Trump Administration Moves to Strip Schools That Aid Minority Students - The New York Times
+- Minneapolis shooting: Two dead and several injured after gunfire at apartment block - Sky News
 - Hegseth headed for clash with GOP senators as frustrations grow - The Hill
-- Spanish government in turmoil as Ceuta crisis deepens - Euronews.com
-- Global warming will exceed limit, U.N. says in a report that maps path to get back below danger zone - NBC News
-- EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany - BBC
-- Symbolic funerals held in Nepal for those feared lost as some missing tourists make contact - AP News
-- Trump keeps attacking Silicon Valley's giants in court — and they keep dodging - Politico
-- Yen Rallies as Intervention Risk Weighs on Minds of Wary Traders - Bloomberg.com
-- Broadcom just took a page from Dell and Nvidia - finance.yahoo.com
-- Stock Market Today: Treasury Yields Steady, Yen Jumps — Live Updates - WSJ
+- The Morning Risk Report: Trump’s ‘Economic D-Day’ Against Iran Faces an Uphill Battle - WSJ
+- Norway seizes Russian ship over Ukraine's $4.2bn Crimea claim - Euronews.com
+- Xi Takes Swipe at US in Egypt, Urging New Mideast Security Order - Bloomberg.com
+- Brent oil price above $96 per barrel after Iran fires missiles at Kuwait - CNBC
+- Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC - CNBC
+- Stock Market Today: Treasury Yields Retreat on Fed Official’s Rate Comments - WSJ
+- Dutch central bank shifts billions in gold out of U.S. in ‘crisis preparedness’ move - NBC News
+- Snowflake stock skyrockets on AI-driven Q2 revenue jump - Yahoo Finance
 - Anker put a display on the case of its new sleepbuds - The Verge
-- Xiaomi's New Passport-Style Foldable Looks Shorter And Wider Than The Galaxy Z Fold 8 - engadget.com
+- T-Mobile customers will soon be able to use the same number on two iPhones - PhoneArena
