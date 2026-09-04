@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-04 23:02_
+_Updated: 2026-09-05 01:19_
 
 - Lindsay Clancy Trial Live Updates: Judge Declares Mistrial in Triple-Murder Case - The New York Times
+- Judge again blocks Trump’s effort to restrict voting by mail as ballots start going out - NBC News
+- Corie A. Walsh, mother of Barrett, killed in domestic homicide in Brook Stone Court home, charged with murder: Frankfort police - ABC7 Chicago
+- Longtime Fox News host Maria Bartiromo disputes reports of termination - cnbc.com
 - Fetterman faces Dem revolt as bombshell report fuels push to oust him: 'Disgrace' - Fox News
-- Supreme Court backs Republicans in election ad rate dispute - NBC News
-- Two men pulled alive from Nepal hydropower plant tunnel nine days after floods - CNN
-- Watchdog report: Ex-Labor Secretary Chavez-DeRemer oversaw hostile work environment, misused funds - AP News
-- A More Confident Iran Emerges After Six Months of War With the U.S. - The New York Times
-- ICE officer pleads not guilty to lying about shooting and is ordered released from custody - AP News
-- The family of a U.S. Marine Corps veteran killed in the Shoreline Plaza shooting speaks out - 5 EYEWITNESS NEWS
-- First Thing: JD Vance accused of ‘gaslighting’ after saying he is skeptical US struck Iranian wedding - The Guardian
-- Missouri court refuses to delay congressional map ruling, setting up US Supreme Court appeal - Missouri Independent
+- In win for GOP, Supreme Court greenlights lower ad rates for political parties - politico.com
+- Trump’s ballroom Tush Push - politico.com
+- Gloria Steinem Stayed Positive, Even as the Manosphere Took Hold - The New York Times
+- Trump signs orders to allow ranchers to protect herds from wolves, expand meat processing - Reuters
+- Live Updates: Iran war is "small potatoes" for U.S., Trump says - CBS News
+- Two trapped workers are pulled alive from Nepal tunnel more than a week after deadly floods - NBC News
+- Nigel Farage's party suspends top officials after undercover sting makes foreign funding claims - AP News
 - Families Turn to Symbolic Cremation After Nepal Floods - The New York Times
-- Philippine vice president is ordered arrested for threats against the president - NPR
-- Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect - BBC
-- The Debate - German far right's breakout moment? AfD party eyes outright win in regional election - France 24
-- US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1% - Reuters
-- Trump Threatens to Halt Some Trade Unless the Fed Cuts Rates - The New York Times
-- Trump administration opens probe into Tesla’s self-driving Cybercab - Politico
-- Nvidia acquires open-source AI platform Hugging Face for $12.9bn - GamesIndustry.biz
+- Russian drone strikes Ukraine's security service HQ, escalating air war - Reuters
+- Wall Street ends lower as solid jobs data fuels hawkish Fed bets - Reuters
+- Trump administration opens probe into Tesla’s self-driving Cybercab - politico.com
+- Trump threatens to stop trading with countries that have a trade deficit unless the Fed cuts rates - Yahoo Finance
+- OpenAI agents hijacked German website before Hugging Face hack, report claims - BBC
+- The MacRumors Show: iPhone 18 Pro Event Expectations - MacRumors
 - IFA Berlin 2026 Live: The Biggest Announcements From Samsung, Dyson, LG and More - CNET
-- Apple's first foldable iPhone may cost $2,000 - Yahoo Finance
