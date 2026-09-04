@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-04 19:47_
+_Updated: 2026-09-04 23:02_
 
-- Live updates: Judge in Lindsay Clancy trial says he intends to declare mistrial - CNN
-- Two trapped workers are pulled alive from Nepal tunnel more than a week after deadly floods - NBC News
-- Democrat loved by MAGA ignites firestorm after bombshell report: ‘Garbage human being’ - NJ.com
+- Lindsay Clancy Trial Live Updates: Judge Declares Mistrial in Triple-Murder Case - The New York Times
+- Fetterman faces Dem revolt as bombshell report fuels push to oust him: 'Disgrace' - Fox News
+- Supreme Court backs Republicans in election ad rate dispute - NBC News
+- Two men pulled alive from Nepal hydropower plant tunnel nine days after floods - CNN
+- Watchdog report: Ex-Labor Secretary Chavez-DeRemer oversaw hostile work environment, misused funds - AP News
 - A More Confident Iran Emerges After Six Months of War With the U.S. - The New York Times
-- Hurricane Lowell roars near Hawaii as forecasters warn of big turn - usatoday.com
-- ‘Unimaginable grief’: Iranian town left devastated after US strike on wedding - The Guardian
-- Missouri Supreme Court makes ruling on redistricting referendum: Map must go on ballot - KMBC
-- ICE officer lied about shovel and broom attack before Minnesota shooting, Justice Department alleges - AP News
-- North Carolina Set to Mail The Fall’s First Ballots As Trump Tries to Restrict Them - The New York Times
-- Trump officials say work will start on triumphal arch within two weeks - The Washington Post
-- Germany's far-right AfD party is poised for power in a state election - NPR
+- ICE officer pleads not guilty to lying about shooting and is ordered released from custody - AP News
+- The family of a U.S. Marine Corps veteran killed in the Shoreline Plaza shooting speaks out - 5 EYEWITNESS NEWS
+- First Thing: JD Vance accused of ‘gaslighting’ after saying he is skeptical US struck Iranian wedding - The Guardian
+- Missouri court refuses to delay congressional map ruling, setting up US Supreme Court appeal - Missouri Independent
 - Families Turn to Symbolic Cremation After Nepal Floods - The New York Times
-- Russian drone strikes Ukraine's security service HQ, escalating air war - Reuters
-- Why is Farage’s Reform accused of violating the UK’s foreign funding rules? - Al Jazeera
-- US nonfarm payrolls surge in August; unemployment rate steady at 4.1% - Reuters
-- Tesla’s Cybercab Is Being Investigated by Federal Regulators - The New York Times
+- Philippine vice president is ordered arrested for threats against the president - NPR
+- Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect - BBC
+- The Debate - German far right's breakout moment? AfD party eyes outright win in regional election - France 24
+- US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1% - Reuters
+- Trump Threatens to Halt Some Trade Unless the Fed Cuts Rates - The New York Times
+- Trump administration opens probe into Tesla’s self-driving Cybercab - Politico
 - Nvidia acquires open-source AI platform Hugging Face for $12.9bn - GamesIndustry.biz
-- Trump says he will cease trading with top partners unless Fed lowers rates - CNN
-- We spent the week testing IFA’s best (and weirdest) gadgets, ask us anything - The Verge
-- Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers - BBC
+- IFA Berlin 2026 Live: The Biggest Announcements From Samsung, Dyson, LG and More - CNET
+- Apple's first foldable iPhone may cost $2,000 - Yahoo Finance
