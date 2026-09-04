@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-04 07:05_
+_Updated: 2026-09-04 11:55_
 
-- Fox News abruptly ousts Maria Bartiromo, a longtime Trump ally - CNN
+- Live updates: Rescues underway as two workers pulled alive more than a week after Nepal-China floods - CNN
 - Trump administration asks Supreme Court to allow mail-in ballot restrictions - The Washington Post
-- Lindsay Clancy Trial: Defense Blames Single Juror for Deadlock - The New York Times
-- Missouri supreme court throws out new congressional maps backed by Trump - The Guardian
-- JD Vance says Iran war ‘not a war’ when pressed on timeline for end - The Independent
-- Excavation work on Trump's arch in Washington to begin over next 2 weeks, administration says - AP News
-- Minneapolis Shooting Began During a Custody Exchange, Officials Said - The New York Times
-- Federal prosecutor fired after investigating ICE officer for civil rights offenses in Minnesota shooting, sources say - CBS News
+- Lindsay Clancy trial tensions flare as judge declines to remove holdout juror - BBC
+- Fox News Media abruptly ousts longtime anchor Maria Bartiromo - The Guardian
 - U.S. military reviewing deadly strike on Iranian wedding - Axios
-- Missouri candidate wanted campaign manager to plant cocaine in opponent’s car, authorities say - nbcnews.com
-- Norway Seizes Russian Ship, Testing Moscow in the High Arctic - The New York Times
-- Two people rescued from Nepal hydropower tunnel more than a week after flash flood - BBC
+- Work on Trump-backed Triumphal Arch will start in coming weeks, Burgum says - cbsnews.com
+- Federal prosecutor fired after investigating ICE officer for civil rights offenses in Minnesota shooting, sources say - cbsnews.com
+- Deadly downtown Minneapolis shooting started as a custody exchange — here's what else we know - 5 EYEWITNESS NEWS
+- Trump appoints Adam Telle new acting Army secretary - The Washington Post
+- ‘I Wouldn’t Call It a War’: Vance Plays Down Recent Iran Strikes - The New York Times
+- Argentina’s Milei escalates Falklands dispute, seizing on Trump comments and oil tensions - AP News
 - Ukraine’s Next Goal Is to Shut Down Russia’s Commercial Airspace - WSJ
-- Iran attacks Kuwait with missiles and drones after US strikes - Fox News
-- Volkswagen board approves plan to cut another 50,000 jobs - BBC
-- Nvidia bets $13 billion on open AI models with Hugging Face deal - Reuters
-- Lululemon tumbles 15% on weak guidance despite Q2 earnings beat - Yahoo Finance
-- American automakers urge Congress to ban Chinese vehicle sales in the U.S. - CBS News
-- Xbox Announces Monthly Hour Limits To Cloud Gaming Are Coming In November - gameinformer.com
-- Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control - The Verge
+- Germany's far-right AfD aims for breakthrough in state election - Reuters
+- Iran hits US military targets in the region as Washington probes deadly wedding strike - Euronews.com
+- Volkswagen jumps 5% on plans to cut 50,000 jobs amid tariffs, China competition - CNBC
+- U.S. Diesel Prices Set New High - The New York Times
+- US job growth expected to rebound in August; unemployment rate forecast steady at 4.1% - Reuters
+- Anthropic’s IPO set to test external trust with power over board - Financial Times
+- Ugreen's New Smart Home Ecosystem Is Built Around Local AI Hubs - Engadget
+- I held the first truly bezel-free phone - The Verge
