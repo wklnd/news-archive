@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-04 16:32_
+_Updated: 2026-09-04 19:47_
 
-- Lindsay Clancy Trial Live Updates: Holdout Juror Draws Scrutiny as Deadlock Drags On - The New York Times
-- Live updates: Rescues underway as two workers pulled alive more than a week after Nepal-China floods - CNN
-- Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect - BBC
-- Trump administration asks Supreme Court to allow mail-in ballot restrictions - The Washington Post
-- Work on Trump-backed Triumphal Arch will start in coming weeks, Burgum says - CBS News
-- U.S. military reviewing deadly strike on Iranian wedding - Axios
-- Missouri supreme court blocks congressional maps backed by Trump for midterms – US politics live - The Guardian
-- Federal prosecutor fired after investigating ICE officer for civil rights offenses in Minnesota shooting, sources say - CBS News
-- ‘We've told them he cannot come’: Republicans grapple with how to handle Trump on the trail - Politico
-- Deadly downtown Minneapolis shooting started as a custody exchange — here's what else we know - 5 EYEWITNESS NEWS
+- Live updates: Judge in Lindsay Clancy trial says he intends to declare mistrial - CNN
+- Two trapped workers are pulled alive from Nepal tunnel more than a week after deadly floods - NBC News
+- Democrat loved by MAGA ignites firestorm after bombshell report: ‘Garbage human being’ - NJ.com
+- A More Confident Iran Emerges After Six Months of War With the U.S. - The New York Times
+- Hurricane Lowell roars near Hawaii as forecasters warn of big turn - usatoday.com
+- ‘Unimaginable grief’: Iranian town left devastated after US strike on wedding - The Guardian
+- Missouri Supreme Court makes ruling on redistricting referendum: Map must go on ballot - KMBC
+- ICE officer lied about shovel and broom attack before Minnesota shooting, Justice Department alleges - AP News
+- North Carolina Set to Mail The Fall’s First Ballots As Trump Tries to Restrict Them - The New York Times
+- Trump officials say work will start on triumphal arch within two weeks - The Washington Post
 - Germany's far-right AfD party is poised for power in a state election - NPR
-- Romanian prosecutors indict Andrew Tate for trafficking minors, money laundering - Reuters
-- Philippines’ Vice President Faces Arrest Over Assassination Threats - The New York Times
-- Top Farage aides quit after undercover donations sting - politico.eu
-- U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1% - CNBC
-- US diesel prices hit a record high, pushing up transportation costs for a long list of goods - AP News
-- Volkswagen Board Approves Doubling Job Cuts to 100,000 in Surprise Move - WSJ
-- Feds launch investigation into Tesla’s Cybercab deployment - TechCrunch
-- Buy the iPhone 17 or wait for iPhone 18? My advice after years of phone reviews - ZDNET
-- Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control - theverge.com
+- Families Turn to Symbolic Cremation After Nepal Floods - The New York Times
+- Russian drone strikes Ukraine's security service HQ, escalating air war - Reuters
+- Why is Farage’s Reform accused of violating the UK’s foreign funding rules? - Al Jazeera
+- US nonfarm payrolls surge in August; unemployment rate steady at 4.1% - Reuters
+- Tesla’s Cybercab Is Being Investigated by Federal Regulators - The New York Times
+- Nvidia acquires open-source AI platform Hugging Face for $12.9bn - GamesIndustry.biz
+- Trump says he will cease trading with top partners unless Fed lowers rates - CNN
+- We spent the week testing IFA’s best (and weirdest) gadgets, ask us anything - The Verge
+- Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers - BBC
