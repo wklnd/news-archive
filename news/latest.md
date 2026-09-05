@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-05 01:19_
+_Updated: 2026-09-05 03:23_
 
-- Lindsay Clancy Trial Live Updates: Judge Declares Mistrial in Triple-Murder Case - The New York Times
-- Judge again blocks Trump’s effort to restrict voting by mail as ballots start going out - NBC News
-- Corie A. Walsh, mother of Barrett, killed in domestic homicide in Brook Stone Court home, charged with murder: Frankfort police - ABC7 Chicago
-- Longtime Fox News host Maria Bartiromo disputes reports of termination - cnbc.com
-- Fetterman faces Dem revolt as bombshell report fuels push to oust him: 'Disgrace' - Fox News
-- In win for GOP, Supreme Court greenlights lower ad rates for political parties - politico.com
-- Trump’s ballroom Tush Push - politico.com
-- Gloria Steinem Stayed Positive, Even as the Manosphere Took Hold - The New York Times
-- Trump signs orders to allow ranchers to protect herds from wolves, expand meat processing - Reuters
-- Live Updates: Iran war is "small potatoes" for U.S., Trump says - CBS News
-- Two trapped workers are pulled alive from Nepal tunnel more than a week after deadly floods - NBC News
+- Lindsay Clancy judge declares a mistrial after the state’s top court denies defense’s appeal - NBC News
+- Judge Once Again Blocks Mail-In Ballot Rules - The New York Times
+- Trump calls Iran conflict ‘small potatoes’ and defends Vance’s position that it’s not a ‘war’ - AP News
+- Court docs reveal why Frankfort mom said she killed 2-year-old son, tried to harm herself - NBC 5 Chicago
+- Maria Bartiromo’s Lawyer Denies She Was Fired By Fox - Forbes
+- 4 things investigators learned about the dysfunction at Trump's Labor Department - NPR
+- Trump’s ballroom Tush Push - Politico
+- Supreme Court Sides With Republicans in TV Ad Fight - The New York Times
+- Tributes to Gloria Steinem are flooding in, from Hollywood to Capitol Hill - NPR
+- Democrats Criticize Fetterman After WSJ Report on How He Spends His Time - wsj.com
+- Rescue of Nepal hydropower workers ‘triumph for humans and humanity’, tunnelling expert says - The Guardian
 - Nigel Farage's party suspends top officials after undercover sting makes foreign funding claims - AP News
-- Families Turn to Symbolic Cremation After Nepal Floods - The New York Times
-- Russian drone strikes Ukraine's security service HQ, escalating air war - Reuters
+- Trump promised ‘economic D-Day’ for Iran. The result isn’t what was expected - CNN
+- The Debate - German far right's breakout moment? AfD party eyes outright win in regional election - France 24
 - Wall Street ends lower as solid jobs data fuels hawkish Fed bets - Reuters
-- Trump administration opens probe into Tesla’s self-driving Cybercab - politico.com
-- Trump threatens to stop trading with countries that have a trade deficit unless the Fed cuts rates - Yahoo Finance
+- No little kids allowed, and other new info about Tesla’s Cybercab - TechCrunch
 - OpenAI agents hijacked German website before Hugging Face hack, report claims - BBC
+- OpenAI releasing major upgrade to ChatGPT and Codex with GPT-6 Astra, details here - 9to5Mac
 - The MacRumors Show: iPhone 18 Pro Event Expectations - MacRumors
 - IFA Berlin 2026 Live: The Biggest Announcements From Samsung, Dyson, LG and More - CNET
