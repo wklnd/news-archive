@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-05 21:18_
+_Updated: 2026-09-05 23:32_
 
 ## Top Stories
 
-- Sirius bröt negativa trenden - Uneken sänkte VSK - Fotbollskanalen
+- Partierna kallas till möte efter tekniskt fel med förtidsröster - Dagens Nyheter
 - Putin lovar stopp för attacker under USA-besök - Göteborgs-Posten
-- Knivskadad man hittad i Växjö – en gripen - SVT Nyheter
+- Tusentals i tyska manifestationer för demokrati - vk.se
 - Expert: Därför tog det 450 år att enas om en ny världskarta - Dagens Nyheter
-- DN Direkt – Åkesson avfärdar S-krav om SD-paret - Dagens Nyheter
-- Kritik mot statsministerns fru Birgitta Ed: Var går gränsen för Sveriges första ”first lady”? - Svenska Dagbladet
-- M: Kräv samarbete mot gängkriminella för bistånd - Corren
-- M: Gängkriminella ska lämnas ut för biståndspengar – Senaste nytt om valet 2026 - SVT Nyheter
-- DN Direkt – Lööf ger sig in i valspurten: ”Extra energi” - Dagens Nyheter
+- Nya misstänkta sabotageförsök i Tyskland - vk.se
+- Iran: Anfaller oljetanker och amerikanska fartyg – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Åkesson: Kan inte jobba för SD med proryska åsikter - Göteborgs-Posten
+- Partierna kallas till möte efter felaktiga förtidsröster – Senaste nytt om valet 2026 - SVT Nyheter
+- Lööf ger sig in i valspurten: ”Extra energi” - vk.se
 - Just nu: Rådjur på vägen kan skapa fara på E4 - Corren
-- Orangutang räddad från rasande brand i Indonesien - Västerbottens-Kuriren
-- Fem svenskar gripna på Cypern – misstänks för mordplan - Göteborgs-Posten
-- DN Direkt – En räddad från tunnel i Nepal efter tio dygn - Dagens Nyheter
-- Tusentals i tyska manifestationer för demokrati - Västerbottens-Kuriren
-- Uppgifter: De säkrar nyckelrollerna i tidernas största börsnotering - EFN
+- Orangutang räddad från rasande brand i Indonesien - vk.se
+- Två räddade i Nepal – tio dygn efter skreden - Hufvudstadsbladet – HBL
 - Expert: Därför hämtar Europa hem sitt guld från USA - Dagens Nyheter
+- Uppgifter: De säkrar nyckelrollerna i tidernas största börsnotering - EFN
 - Bessent: ”Ute efter andra amerikanska tillgångar” - Omni – Alla nyheter. Alla perspektiv.
-- En räntehöjning rycker allt närmare - Svenska Dagbladet
+- Den amerikanska arbetsmarknaden återhämtade sig med 162 000 nya jobb. - vietnam.vn
 - Miami-sheriff är mycket kritisk till Grand Theft Auto VI - Gamereactor
-- iPhone 18 Pro: 400 % dyrare minne förväntas tvinga Apple att höja priserna - notebookcheck.se
+- Baseus tillbehörsekosystem omfamnar färgen Dark Cherry Red inför lanseringen av iPhone 18 Pro. - vietnam.vn
+- Gävleföretaget låter kunderna vänta och vänta - Gefle Dagblad
+- Så blev VS Code världens största kodredigerare. Intressant dokumentär om kodredigeraren. - Feber
 
 ## World News
 
 - KI och IVI stärker samarbetet inom global hälsa - Karolinska Institutet
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Kuriren nominerad för satsning på unga läsare - kuriren.nu
 - DNB startar global aktiefond med fokus på kvinnors hälsa - Finanswatch.se
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - Storbritannien: Global lanserar nyhetskanalen LBC News - Radionytt.se
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
-- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - borskollen.se
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
@@ -92,7 +92,7 @@ _Updated: 2026-09-05 21:18_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Aging Research Center (ARC) ‒ ett forskningscentrum för äldre personers hälsa och levnadsvillkor - Karolinska Institutet
@@ -102,10 +102,10 @@ _Updated: 2026-09-05 21:18_
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Rach Gia Medical Center: Ger människorna högkvalitativa hälsovårdstjänster. - Vietnam.vn
+- Rach Gia Medical Center: Ger människorna högkvalitativa hälsovårdstjänster. - vietnam.vn
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Vi presenterar HealthBench - openai.com
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
+- Vi presenterar HealthBench - OpenAI
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
@@ -116,29 +116,29 @@ _Updated: 2026-09-05 21:18_
 ## Science
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
-- AI för vetenskaplig forskning och upptäckter - openai.com
+- Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - vietnam.vn
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- ”Research on bison completely wrong” - Forskning & Framsteg
+- ”Research on bison completely wrong” - fof.se
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Enheten för öron-, näs- och halssjukdomar - Karolinska Institutet
-- Torsten Persson utsedd till vice ordförande i ERC:s vetenskapliga råd - Stockholms universitet
+- Torsten Persson utsedd till vice ordförande i ERC:s vetenskapliga råd - su.se
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
-- Simple math behind major bison blunder - Forskning & Framsteg
+- Simple math behind major bison blunder - fof.se
 
 ## Jordbruk
 
-- Jordbrukspolitik - Naturvårdsverket
+- Jordbrukspolitik - naturvardsverket.se
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
