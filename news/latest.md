@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-05 15:59_
+_Updated: 2026-09-05 18:56_
 
-- Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now? - Al Jazeera
-- What happens to Lindsay Clancy now? Here’s what to know after mistrial. - The Washington Post
-- Maria Bartiromo’s Downfall at an Increasingly Cautious Fox News - The New York Times
-- Trump envoys arrive in Moscow ahead of Ukraine talks - BBC
+- US military hits 3 Iranian oil tankers after saying Navy warships were targeted - NPR
+- What happens next after Lindsay Clancy's murder case ends in a mistrial? - BBC
+- US envoys Witkoff, Kushner arrive in Moscow for talks on peace in Ukraine - Reuters
 - Voters are fed up with data centers. Both parties are trying to cash in for midterms - NPR
-- UN backs effort to depict Africa correctly on maps despite US opposition - politico.eu
+- Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now? - Al Jazeera
+- Erin Piacenti, Killed in Times Square, Was a 'Superstar' at BoA - Business Insider
+- Ex-Fetterman staffers promise more damaging details after blistering report: ‘Tip of the iceberg’ - Fox News
 - In Red States, Law-and-Order Republicans Turn Against Flock Cameras - The New York Times
-- Newly released Fetterman texts show a reluctance to perform constituent duties - CBS News
-- Judge refuses to block Pentagon from firing Stars and Stripes staffers over CBS interview - Politico
-- Republican officials ask US Supreme Court to overturn Missouri redistricting ruling - missouriindependent.com
+- Commentary: Trump's vanity arch is coming and it's no triumph for taxpayers - Los Angeles Times
+- US only country to oppose UN resolution correcting Africa’s size on world maps - The Hill
 - Chinese national rescued from Nepal tunnel 10 days after flash flood - Reuters
-- The Fall of James Orr, the Man Called Farage’s Brain - The New York Times
-- Philippines Vice President Sara Duterte posts bail after arrest - NPR
-- Greek F-4 crashes during an air show near Athens - Reuters
+- An Exposé Jolts Reform U.K. and Sidelines the Man Called Farage’s Brain - The New York Times
+- Greek air force jet crashes at annual aerial show, starts fire - AP News
+- Scoop: Trump administration drafting post-war Middle East plan - Axios
+- Trump keeps heralding an economic boom, but even a solid jobs report is causing problems for him - AP News
 - U.S. hits diesel fuel milestone as prices slam California economy from trucks to crops - Los Angeles Times
 - Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel - The Hacker News
 - GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry - CNBC
-- VW Cuts Another 50,000 Jobs and Possibly a Brand: TDS - The Drive
 - iPhone Ultra, iPhone 18 Pro, and More: Apple's September 9 Event Preview - MacRumors
 - Samsung Galaxy S27 Pro, S27 Ultra certification reveals 60W charging speed - Gizmochina
