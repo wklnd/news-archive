@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-05 08:18_
+_Updated: 2026-09-05 12:55_
 
-- Lindsay Clancy murder case ends in mistrial after her attorney's last-ditch attempt to avoid jury deadlock - CBS News
-- ‘Small potatoes’: US President Trump downplays war on Iran - Al Jazeera
-- Federal judge extends block on Trump executive order seeking to limit mail voting in the midterms - AP News
+- After a mistrial, what’s next in the Lindsay Clancy case? - The Washington Post
+- Nepal-China floods latest: Rescuers in Nepal pull Chinese national alive from tunnel 10 days after floods - CNN
+- Live Updates: Iran war is "small potatoes" for U.S., Trump says - cbsnews.com
 - UN votes to adopt new world map to reflect Africa's true size - BBC
-- Maria Bartiromo’s Lawyer Denies She Was Fired By Fox - Forbes
-- In Major Leak Hunt, Pentagon Gives Polygraph Tests to Joint Staff Members - The New York Times
-- How Gloria Steinem’s lifechanging stay in India shaped her approach to feminism - The Guardian
-- Newly released Fetterman texts show a reluctance to perform constituent duties - CBS News
-- ICE officer charged in Minnesota shooting released on bond - AP News
+- Corie A. Walsh, mother of Barrett, killed in domestic homicide in Brook Stone Court home, charged with murder: Frankfort police - ABC7 Chicago
+- Retired general calls Trump's proposed arch near Arlington a 'sacrilege' - PBS
+- Newly released Fetterman texts show a reluctance to perform constituent duties - cbsnews.com
+- ICE officer charged in Minnesota shooting released on bond - apnews.com
 - Judge refuses to block Pentagon from firing Stars and Stripes staffers over CBS interview - Politico
-- Senior aides to U.K.'s Nigel Farage step down in donation scandal where reporter posed as wealthy American's son - CBS News
-- Time Is No Longer on Iran’s Side in the Battle of the Blockades - wsj.com
-- Rescue of Nepal hydropower workers ‘triumph for humans and humanity’, tunnelling expert says - The Guardian
-- German Far-Right Surges, in Threat to Postwar Taboo on Extremists in Power - The New York Times
-- OpenAI releasing major upgrade to ChatGPT and Codex with GPT-6 Astra, details here - 9to5Mac
+- 'Hidden tribunals': Immigration court due process in tumult with new locations - NPR
+- Philippine VP Duterte posts bail after arrest order for alleged grave threats - Reuters
+- Senior aides to British Trump ally Nigel Farage step down after foreign funding sting - NBC News
+- Russian drone strikes Ukraine’s security service headquarters - Financial Times
+- Trump's response is key as Argentina's Falklands demands get louder - BBC
 - Jensen Huang’s Net Worth Nears $200 Billion After Nvidia Says It Will Acquire Hugging Face - Forbes
 - Fear and compromise: How Volkswagen struck a deal over historic job cuts - Reuters
-- No little kids allowed, and other new info about Tesla’s Cybercab - TechCrunch
-- iPhone Ultra, iPhone 18 Pro, and More: Apple's September 9 Event Preview - MacRumors
-- Xbox app is coming to TCL TVs just as Microsoft rolls out pay-as-you-go cloud gaming - theverge.com
+- Vance says 'everything' on the table to pressure Iran as US diesel prices hit record high - Fox News
+- Stocks fall after a surprisingly strong jobs report raises prospects of an interest rate hike - apnews.com
+- Foldable 'iPhone Ultra' Still Likely to Be Missing These Five Features - MacRumors
+- We spent the week testing IFA’s best (and weirdest) gadgets, ask us anything - The Verge
