@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-05 01:11_
+_Updated: 2026-09-05 03:17_
 
 ## Top Stories
 
-- Fel i förtidsröstningen – röster kan underkännas - Göteborgs-Posten
-- Trumps sändebud till Kiev och Moskva i helgen - Corren
-- Statsvetare: ”Partierna är oerhört oense om verklighetsbilden” - Dagens Nyheter
-- Östrogenkrisen fortsätter – men det finns en ljusning - Aftonbladet
-- Regeringen: Ska bli straffbart att delta i gäng – Senaste nytt om valet 2026 - SVT Nyheter
-- Åkesson: Rösta på Simona - Västerbottens-Kuriren
+- Heta känslor i Ekots partiledardebatt - Göteborgs-Posten
+- Dödliga anfall mot Ukraina – spionkontor träffat - Västerbottens-Kuriren
+- Trumps sändebud till Kiev och Moskva i helgen - Göteborgs-Posten
+- Afrika större och USA mindre – FN godtar ny karta - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Tre dödade i attacker i Libanon - Dagens Nyheter
+- TOVE HOVEMYR: SD och Åkesson utgör en säkerhetsrisk - för hela Sverige! - UNT
 - Gymnasieskola stängd – efter hot om vapen - Göteborgs-Posten
-- DN Direkt – Åkesson om SD-tjänstemannen: Väldigt allvarligt - Dagens Nyheter
-- Kameran som kan ha fångat händelsen - Nya Wermlands-Tidningen
-- Folkrörelse för torven gav resultat - Jordbruksaktuellt
-- FN godtar ny världskarta – Europa blir mindre - Dagens Nyheter
-- Anna-Lena Laurén Misslyckandena som lyfte Alternativ för Tyskland - Hufvudstadsbladet – HBL
+- Fel i förtidsröstningen – röster kan underkännas - UNT
+- Åkesson: Rösta på Simona - Västerbottens-Kuriren
+- Helldén om Tidö: Det är hål i huvudet hur ni agerar – Senaste nytt om valet 2026 - SVT Nyheter
+- Slående tysk parallell till Sverigedemokraterna - Dagens Arena
+- Här är vapnen i kriget mellan Ryssland och Ukraina - Dagens Nyheter
+- Två räddade ur tunnel i Nepal – efter nio dygn - Göteborgs-Posten
 - Tavla stulen av nazister återlämnas från Argentina - Göteborgs-Posten
-- Räddad nio dygn efter skredet: ”Hann inte fly” - Västerbottens-Kuriren
-- Frustration och frågetecken när börsen föll: ”Fokus på Fed” - EFN
-- Volkswagens aktie stiger efter enorma sparpaketet - Omni – Alla nyheter. Alla perspektiv.
-- DN Direkt – Stockholmsbörsen vände och slutade på grönt - Dagens Nyheter
+- Frustration och frågetecken när börsen föll: ”Fokus på Fed” - efn.se
 - Anthropic nära att välja Morgan Stanley och Goldman Sachs för börsnotering - Investing.com Sverige
-- iPhone 18 Pro: 400 % dyrare minne förväntas tvinga Apple att höja priserna - notebookcheck.se
+- Partiernas svar: De säger ja och nej till kärnkraft - NT
+- Affärsvärlden lockas inte av Sectra, neutralt råd - Börsvärlden
+- Citi förhandsgranskar iPhone 18-leveranskedjan inför lansering 9 september av Investing.com - Investing.com Sverige
 - Apple-aktien faller 2% efter att produktionen av vikbar iPhone möter leveranshinder - Invezz
 
 ## World News
 
 - KI och IVI stärker samarbetet inom global hälsa - Karolinska Institutet
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - news.cision.com
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - news.cision.com
 - England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- GMMP: Global backlash syns i världens medier - fempers.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Fed-chefen Warsh ser global investeringsboom - Placera.se
-- DNB startar global aktiefond med fokus på kvinnors hälsa - Finanswatch.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Sweden joins global Falling Walls network with first national lab - Stockholms universitet
+- DNB startar global aktiefond med fokus på kvinnors hälsa - Finanswatch.se
 - Kronprinsen fick ”stor summa” för avlyssning - Omni – Alla nyheter. Alla perspektiv.
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
-- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
 - Storbritannien: Global lanserar nyhetskanalen LBC News - Radionytt.se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- ⚖️ Global ojämlikhet minskar både mellan och inom länder - Warp News
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - ERC
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
@@ -55,9 +55,8 @@ _Updated: 2026-09-05 01:11_
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Kann eine SAP KI Europas Antwort sein? Was die EU im globalen Wettlauf um Künstliche Intelligenz tun muss - xpert.digital
+- Kann eine SAP KI Europas Antwort sein? Was die EU im globalen Wettlauf um Künstliche Intelligenz tun muss - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
@@ -70,13 +69,14 @@ _Updated: 2026-09-05 01:11_
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- Metas tidigare AI-chef slår Europarekord – tar in 9 miljarder - Computer Sweden
 
 ## Business
 
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -95,11 +95,11 @@ _Updated: 2026-09-05 01:11_
 - Aging Research Center (ARC) ‒ ett forskningscentrum för äldre personers hälsa och levnadsvillkor - Karolinska Institutet
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
-- Låt oss prata hälsa – Intensivvård – Segment 1 - apollohospitals.com
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
+- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - news.cision.com
 - Vi presenterar HealthBench - OpenAI
-- firar 15 år av att skydda den globala hälsosektorn - health-isac.org
+- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -115,7 +115,7 @@ _Updated: 2026-09-05 01:11_
 ## Science
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Täta band mellan turism och forskning på Svalbard - slu.se
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
 - AI för vetenskaplig forskning och upptäckter - OpenAI
@@ -128,7 +128,7 @@ _Updated: 2026-09-05 01:11_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Simple math behind major bison blunder - Forskning & Framsteg
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - ju.se
 - Avdelningen för fotonik - Chalmers tekniska högskola
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - WASP lanserar nytt forskningsinitiativ som förenar AI och medicin - Mynewsdesk
@@ -138,21 +138,21 @@ _Updated: 2026-09-05 01:11_
 ## Jordbruk
 
 - Jordbrukspolitik - Naturvårdsverket
-- Sveriges förändrade lantbruk - slu.se
+- Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Sorseles sista mjölkgård till salu - lokaltidningen.nu
-- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - atl.nu
+- Sorseles sista mjölkgård till salu - Lokaltidningen
+- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
+- Framtidens jordbruk är här - Shaping Europe’s digital future
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Här är världens största jordbruk - atl.nu
+- Här är världens största jordbruk - ATL
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
-- Kan agroekologi mätta världen? - slu.se
+- Kan agroekologi mätta världen? - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
