@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-06 08:29_
+_Updated: 2026-09-06 13:20_
 
 - U.S. military says it hit 3 Iranian tankers after Navy ships targeted - The Washington Post
-- Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War - The New York Times
-- Trump’s MAGA Inc. sends $10M to Texas in first general election spend of the year - Politico
-- Fundraiser for Lindsay Clancy’s Parents Raises Over $1.1 Million After Mistrial - Rolling Stone
-- The Venezuelan billionaire the US investigated for money laundering now has a Pentagon oil deal - Reuters
-- Judge reinforces order halting immediate work on Trump’s 250-foot arch - usatoday.com
+- Trump envoys Witkoff and Kushner meet with Putin about ending the Ukraine war - Axios
 - Washington blocks new Trump mail voting rules, keeping midterm election procedures intact - KOMO
+- Fundraiser for Lindsay Clancy’s Parents Raises Over $1.1 Million After Mistrial - rollingstone.com
+- Trump’s MAGA Inc. sends $10M to Texas in first general election spend of the year - Politico
+- Iran claims strike on US ship in Strait of Hormuz as fighting escalates - AP News
+- Why the United Methodist Church Is Suing a Thriving Texas Congregation - The New York Times
 - Hurricane Lowell threatens Hawaiian islands with life-threatening surf - NBC News
-- LAPD busts massive street takeover in South Bay, impounding more than 100 cars - Los Angeles Times
-- A Sympathetic Defendant and Well-Crafted Defense Dominated Clancy Trial - The New York Times
-- German voters head to polls as far-right AfD party eyes historic state win - aljazeera.com
-- Chinese national rescued from Nepal tunnel 10 days after flash flood - Reuters
-- Ukraine Considers Legalizing Porn Industry to Fund Its War Chest - WSJ
-- Indonesia cancels flights at Jakarta airport as Anak Krakatau volcano erupts - AP News
-- OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters
-- Tucson real estate agent duct-taped to seat after becoming unruly on flight - Arizona Daily Star
-- Will a Turnaround Plan Revive Volkswagen or Merely Delay Its Demise? - The New York Times
-- Kenyans Made a Living Writing College Essays. Then A.I. Arrived. - The New York Times
-- There May Not Be an iPhone 18 This Year - WIRED
-- Miami Police Release New Official Statement Ahead of GTA 6's Release - GameRant
+- Robin Morgan, feminist writer and close friend of Gloria Steinem, dies at 85 - CBS News
+- UN votes to endorse new map projection that shows Africa's size more accurately - CBS News
+- Germans vote in eastern state as far-right AfD eyes power - Al Jazeera
+- Indonesia cancels flights at Jakarta airport and others as Anak Krakatau volcano erupts - AP News
+- In Ukraine, Fraud and Waste Are Rewarded With More Weapons Contracts - The New York Times
+- Chinese national rescued from Nepal tunnel 10 days after flash flood - reuters.com
+- OpenAI Says It Wants to Create a Standard for Revealing AI Alignment Meltdowns - Gizmodo
+- Carmakers Have a New Idea to Boost EV Range: Add a Gas Engine - WSJ
+- Flyers might have to face more disruption with hotter skies - BBC
+- Oliver Blume’s VW jobs victory leaves power questions untouched - Financial Times
+- The Pixel 11 Pro should be a disappointment, but after 3 weeks with the phone I can't put it down - Android Authority
+- I Went Shopping for My Ultimate Smart Home of the Future at IFA 2026 - CNET
