@@ -1,47 +1,47 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-06 21:25_
+_Updated: 2026-09-06 23:34_
 
 ## Top Stories
 
 - AFD:s seger i Sachsen-Anhalt väcker oro i hela Tyskland - Hufvudstadsbladet – HBL
-- Tusentals slöt upp i stor klimatdemonstration - Göteborgs-Posten
-- DN Direkt – Stor polisinsats i Tyskland - dn.se
-- Misstanken: Gruppvåldtog barn på Guldheden - Göteborgs-Posten
-- Jacob Wallenberg varnar för skatteplaner: ”Djupt oroad” - Dagens industri
+- Boeingplan körde av landningsbanan i Miami - Göteborgs-Posten
+- Polis påkörd av fyrhjuling - Aftonbladet
+- DN Direkt – Stor polisinsats i Tyskland - Dagens Nyheter
 - Zelenskyj: Kriget fortsätter i vinter - Corren
-- Gellerbrant en nyckelspelare i SD: ”Jätteviktig funktion” - dn.se
-- Bråkigt vid mopedträff i Stockholm - Göteborgs-Posten
-- Man död efter fall på personalfest i Norrtälje - SVT Nyheter
-- S får kritik för kommunal restaurang: ”Handlar inte om att konkurrera” - dn.se
-- Danmarks drottning Margrethe inlagd på sjukhus - dn.se
-- Polis påkörd av fyrhjuling i Göteborg - TV4 Nyheterna
+- Jacob Wallenberg varnar för skatteplaner: ”Djupt oroad” - Dagens industri
+- Polisen: Stökigt på mopedträff i Stockholm - Dagens Nyheter
+- Efter avslöjandet: SD-topp lämnar in passerkort - Västerbottens-Kuriren
+- S får kritik för kommunal restaurang: ”Handlar inte om att konkurrera” - Dagens Nyheter
+- Detaljerna klara inför kung Haralds begravning - Göteborgs-Posten
+- Iran: Ny begränsad zon utanför Hormuzsundet - Aftonbladet
+- DN Direkt – Lavrov skyller Leipzig-drönarna på Tyskland - Dagens Nyheter
 - Kina höjer dödstal efter skreden i Himalaya - Västerbottens-Kuriren
-- Kreml om Tyskland: ”De vill ha krig igen” - Hufvudstadsbladet – HBL
-- Fjärde bagagehaveriet i år – 3 000 väskor lämnades kvar på Heathrow - Dagens PS
-- Kontroll av yrkeshögskolan kan skärpas - Aftonbladet
-- Insändare Ekonomin är skäl nog att avfärda kärnkraft i Studsvik - SN, Södermanlands Nyheter
-- Spara och plugga samtidigt – här är börsprofilens tips för smartare ekonomi med CSN - SVT Nyheter
+- Danmarks drottning Margrethe inlagd på sjukhus - Dagens Nyheter
+- Klassresa slutade i diarrékaos – 50-tal matförgiftade - Sveriges Radio
+- (+) Wall Street-veteranen sågar AI-varningen: ”Bullshit” - Aftonbladet
+- Kontroll av yrkeshögskolan kan skärpas - Västerbottens-Kuriren
+- Arlas smygändring – minskar proteinhalten: ”Folk är jätteupprörda” - Expressen
 - iPhone Ultra tar bort Face ID, viker ut till 7,8 tum och börjar på 2 000 dollar - Martin Cid Magazine
-- Windows 10 2026 – så får du säkerhetsuppdateringar till 2027 - HurBra.se
+- Amerikanskt företag vill leta mineral i fjällen - Västerbotten | Folkbladet
 
 ## World News
 
 - KI och IVI stärker samarbetet inom global hälsa - Karolinska Institutet
-- Lövdal om finalen – och flytten till klassiska gården - Travronden
+- Lövdal om finalen – och flytten till klassiska gården - travronden.se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart.com
-- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
-- Storbritannien: Global lanserar nyhetskanalen LBC News - Radionytt.se
+- Storbritannien: Global lanserar nyhetskanalen LBC News - radionytt.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
@@ -52,24 +52,24 @@ _Updated: 2026-09-06 21:25_
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - iffs.se
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - computersweden.se
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
-- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - computersweden.se
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - computersweden.se
+- Kraftigt ökad försäljning av AI-datorer - computersweden.se
+- Albanien utser AI-bot till minister - computersweden.se
+- Tiden för billig vibe coding kan vara över - computersweden.se
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - computersweden.se
+- SVT ber om ursäkt för AI-skapat klipp i Agenda - computersweden.se
+- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - computersweden.se
+- Forskare vill se dödsknapp i AI-system - computersweden.se
+- Nu blir datorerna dyrare – efter prishöjning på minnen - computersweden.se
 
 ## Business
 
