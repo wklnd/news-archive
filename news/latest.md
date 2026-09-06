@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-06 01:19_
+_Updated: 2026-09-06 03:19_
 
-- US hits three Iranian oil tankers after saying its warships were targeted - BBC
-- Putin tells US envoys Witkoff, Kushner that situation in Ukraine is 'difficult' - Reuters
-- Judge reinforces order halting immediate work on Trump’s 250-foot arch - USA Today
-- Greek air force jet crashes at an annual aerial show, killing 2 pilots - NBC News
-- Trump-aligned super PAC to spend $10 million in Texas Senate race - NBC News
-- United Nations votes 164-1 for Equal Earth map after US brands it 'radical ideological project' - Fox News
-- Patrick Clancy reacts to hung jury: New trial would be 'painful' - USA Today
-- Kennedy Center closes after ceiling piece falls: ‘President Trump has been right’ - The Hill
-- Ex-Fetterman staffers promise more damaging details after blistering report: ‘Tip of the iceberg’ - Fox News
-- Inside the USS Abraham Lincoln’s Nine Months at Sea: Loneliness, Fatigue, Pride - WSJ
+- U.S. military says it hit 3 Iranian tankers after Navy ships targeted - The Washington Post
+- Trump envoys Witkoff and Kushner meet with Putin about ending the Ukraine war - Axios
+- Fundraiser for Lindsay Clancy’s Parents Raises Over $1.1 Million After Mistrial - Rolling Stone
+- Is Work Starting for Trump’s Arch? It Depends Who’s Asking. - The New York Times
+- Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones - The New York Times
+- Hurricane Lowell forecast: Watches likely as storm nears Hawaii - USA Today
+- Scoop: Republican midterms convention speakers revealed - Axios
+- Renewed calls for Trump-backed Kennedy Center repairs after part of foyer ceiling falls - cbsnews.com
+- Robin Morgan, Voice of Radical Feminism, Dies at 85 - The New York Times
+- After nine months at sea, a muted stay in Thailand for crew of USS Abraham Lincoln - The Washington Post
 - Chinese national rescued from Nepal tunnel 10 days after flash flood - Reuters
 - German Far-Right Surges, in Threat to Postwar Taboo on Extremists in Power - The New York Times
-- Senior aides to U.K.'s Nigel Farage step down in donation scandal where reporter posed as wealthy American's son - CBS News
-- How escalating attacks are upending daily life in Kyiv - Reuters
+- Greek air force jet crashes at annual aerial show, kills 2 pilots and starts fire - AP News
+- Senior aides to U.K.'s Nigel Farage step down in donation scandal where reporter posed as wealthy American's son - cbsnews.com
 - OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters
+- VW Cuts Another 50,000 Jobs and Possibly a Brand: TDS - thedrive.com
 - Unruly Passenger Is Restrained With Duct Tape During a Flight - The New York Times
-- GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry - CNBC
-- Trump says 'Stupidity causes inflation' and threatens to stop trade with foreign countries - Fortune
+- Trump turns up the heat on Warsh as Fed rate hike looms - CNBC
 - There May Not Be an iPhone 18 This Year - WIRED
 - IFA Berlin 2026 Live: The Biggest Announcements From Samsung, Dyson, LG and More - CNET
