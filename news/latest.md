@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-06 19:20_
+_Updated: 2026-09-06 21:30_
 
 - Witkoff and Kushner, in a first, visit Ukraine for peace talks - Axios
-- Trump again asks supreme court to restrict mail-in voting as midterms loom - The Guardian
-- US, Iran engaged in tanker war: Where is the months-long conflict headed? - Al Jazeera
-- Anti-migrant AfD seeks to break Germany’s political ‘firewall’ in historic state election - Fox News
-- Trump bets on himself as midterm savior. Will 'Trumpapalooza' backfire? - USA Today
-- Exclusive: Fetterman blasts ‘disgruntled staffers’ and ‘smears’ after report details apathy toward his work - CNN
-- Lowell now a powerful Category 3 hurricane; some fluctuations in intensity possible through early Sunday - bigislandnow.com
-- Lindsay Clancy’s fate unresolved as mistrial leaves her case in the court of public opinion – for now - CNN
-- The C.E.O. Teaching Future Generations About 9/11 - The New York Times
-- Live updates: Energy Secretary Chris Wright set for Sunday show interviews as US, Iran trade strikes - The Hill
+- Trump appeals to Supreme Court as time runs out on push to restrict mail voting - The Washington Post
+- Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls - Al Jazeera
+- Plane crashes at Miami International Airport, police say - BBC
+- Scoop: Republican midterms convention speakers revealed - Axios
+- As Trump pushes for data centers, voters in key midterm races say they don’t want them - NBC News
+- Iran vows 'more painful response' for US, Trump sinking 3 oil tankers in Hormuz Strait - Fox News
+- Hurricane Lowell makes final turn toward Hawaii as islands brace for impacts - CNN
+- Iran war likely to drag on for another six months, ex-US defense secretary warns - theguardian.com
+- Democrats have finally figured out their campaign message on data centers - Politico
 - Nepal flood survivor’s family in China relieved after days of anxious waiting - AP News
-- UK gov’t condemns masked anti-immigrant protesters blocking Dover port - Al Jazeera
 - Iran attacks US ship in Strait of Hormuz - The Hill
-- Indonesia volcano eruption cancels hundreds of flights in major airport hub - CBS News
+- Masked anti-migrant protesters block UK's Dover terminal - DW.com
+- Indonesia cancels flights as Anak Krakatau volcano erupts - NBC News
 - US tourism groups want to win Canadian visitors back. A testy trade war isn’t helping - AP News
 - OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume - The New York Times
-- Americans hit with record-high Labor Day Weekend gasoline prices - reuters.com
-- A Kentucky man with a meat allergy was craving a burger. So he got into ostrich farming - ABC News - Breaking News, Latest News and Videos
+- Americans hit with record-high Labor Day Weekend gasoline prices - Reuters
+- Europe is moving its gold out of America; where is it headed - The Times of India
 - Apple iPhone 18 Pro Release Date Schedule: Your Complete September Countdown - Forbes
-- 5 Cheaper Android Phones To Try Instead Of The Google Pixel 11 - bgr.com
+- Boox’s tiny Picco e-reader should land in November - The Verge
