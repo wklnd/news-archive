@@ -1,34 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-06 23:34_
+_Updated: 2026-09-07 01:04_
 
 ## Top Stories
 
-- AFD:s seger i Sachsen-Anhalt väcker oro i hela Tyskland - Hufvudstadsbladet – HBL
-- Boeingplan körde av landningsbanan i Miami - Göteborgs-Posten
-- Polis påkörd av fyrhjuling - Aftonbladet
-- DN Direkt – Stor polisinsats i Tyskland - Dagens Nyheter
-- Zelenskyj: Kriget fortsätter i vinter - Corren
-- Jacob Wallenberg varnar för skatteplaner: ”Djupt oroad” - Dagens industri
+- Chock och självkritik på CDU:s valvaka: ”Tyskarna är aldrig nöjda” - Dagens Nyheter
+- Fem döda efter flygolycka i Miami - SVT Nyheter
+- Polis påkörd av fyrhjuling vid Landvetter – jakt med helikopter - Sveriges Radio
+- 150 000 strandade efter vulkanutbrott i Indonesien - Omni – Alla nyheter. Alla perspektiv.
+- Stor skogsjakt efter misstänkt elsabotör - Hufvudstadsbladet – HBL
+- DN Direkt – Kristersson om Gellerbrant: Bra lösning - Dagens Nyheter
 - Polisen: Stökigt på mopedträff i Stockholm - Dagens Nyheter
-- Efter avslöjandet: SD-topp lämnar in passerkort - Västerbottens-Kuriren
-- S får kritik för kommunal restaurang: ”Handlar inte om att konkurrera” - Dagens Nyheter
 - Detaljerna klara inför kung Haralds begravning - Göteborgs-Posten
-- Iran: Ny begränsad zon utanför Hormuzsundet - Aftonbladet
-- DN Direkt – Lavrov skyller Leipzig-drönarna på Tyskland - Dagens Nyheter
-- Kina höjer dödstal efter skreden i Himalaya - Västerbottens-Kuriren
-- Danmarks drottning Margrethe inlagd på sjukhus - Dagens Nyheter
-- Klassresa slutade i diarrékaos – 50-tal matförgiftade - Sveriges Radio
+- S får kritik för kommunal restaurang: ”Handlar inte om att konkurrera” - Dagens Nyheter
+- Lind om bränslepriserna: Höjning med sex kronor – Senaste nytt om valet 2026 - SVT Nyheter
+- Ko på väg - Aftonbladet
+- Iran: Ny begränsad zon utanför Hormuzsundet - Göteborgs-Posten
+- Iran: Attackerat amerikansk drönare - Västerbottens-Kuriren
+- Kina höjer dödstal efter skreden i Himalaya - Hufvudstadsbladet – HBL
+- Anderssons svar till Wallenberg - Expressen
+- 50-tal studenter matförgiftade på resa till Västervik - SVT Nyheter
 - (+) Wall Street-veteranen sågar AI-varningen: ”Bullshit” - Aftonbladet
 - Kontroll av yrkeshögskolan kan skärpas - Västerbottens-Kuriren
-- Arlas smygändring – minskar proteinhalten: ”Folk är jätteupprörda” - Expressen
-- iPhone Ultra tar bort Face ID, viker ut till 7,8 tum och börjar på 2 000 dollar - Martin Cid Magazine
-- Amerikanskt företag vill leta mineral i fjällen - Västerbotten | Folkbladet
+- iPhone Ultra avslöjar instabiliteter inför den officiella lanseringen. - Vietnam.vn
+- Atari återsläpper 39 2600-titlar fysiskt - varvat.se
 
 ## World News
 
 - KI och IVI stärker samarbetet inom global hälsa - Karolinska Institutet
-- Lövdal om finalen – och flytten till klassiska gården - travronden.se
+- Lövdal om finalen – och flytten till klassiska gården - Travronden
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
@@ -41,11 +41,11 @@ _Updated: 2026-09-06 23:34_
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
-- Storbritannien: Global lanserar nyhetskanalen LBC News - radionytt.se
+- Storbritannien: Global lanserar nyhetskanalen LBC News - Radionytt.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
@@ -74,10 +74,9 @@ _Updated: 2026-09-06 23:34_
 ## Business
 
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -93,31 +92,31 @@ _Updated: 2026-09-06 23:34_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - De tre föreningarna kombinerar sina styrkor för att främja hälso- och sjukvården och förbättra människors hälsa. - Vietnam.vn
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Aging Research Center (ARC) ‒ ett forskningscentrum för äldre personers hälsa och levnadsvillkor - Karolinska Institutet
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Rach Gia Medical Center: Ger människorna högkvalitativa hälsovårdstjänster. - Vietnam.vn
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 
 ## Science
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Gemini för vetenskap ska hjälpa forskare - swedroid.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
