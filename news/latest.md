@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-06 16:23_
+_Updated: 2026-09-06 19:20_
 
-- US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin - The Guardian
+- Witkoff and Kushner, in a first, visit Ukraine for peace talks - Axios
+- Trump again asks supreme court to restrict mail-in voting as midterms loom - The Guardian
 - US, Iran engaged in tanker war: Where is the months-long conflict headed? - Al Jazeera
-- Trump’s War on Mail-In Ballots Has Voters Baffled. That May Be the Point. - The New York Times
-- UN votes to endorse new map projection that shows Africa's size more accurately - CBS News
-- Texas Republican: ‘I don’t have an ounce of sympathy for Lindsay Clancy’ - The Hill
-- Inside the Battle to Save One Pioneering General From Hegseth’s Purge - The New York Times
-- Why the United Methodist Church Is Suing a Thriving Texas Congregation - The New York Times
-- The Women Who Escaped Kabul for America but Left Their Dreams Behind - WSJ
-- Scoop: Republican midterms convention speakers revealed - Axios
-- Hurricane Lowell threatens Hawaiian islands with life-threatening surf - NBC News
-- Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know - The New York Times
-- Indonesia cancels flights at Jakarta airport and others as Anak Krakatau volcano erupts - apnews.com
-- What Secret Audits Tell Us About How Ukraine’s Military Is Spending Its Money - The New York Times
-- Nepal flood survivor’s family in China relieved after days of anxious waiting - apnews.com
-- US tourism groups want to win Canadian visitors back. A testy trade war isn’t helping - apnews.com
-- OPEC+ set to keep oil output policy unchanged on Sunday, sources say - Reuters
-- A Kentucky man with a meat allergy was craving a burger. So he got into ostrich farming - apnews.com
-- Uncanny and unappetizing: appetites spoil as AI images take over food menus - The Guardian
-- The Pixel 11 Pro should be a disappointment, but after 3 weeks with the phone I can't put it down - Android Authority
-- Huawei Watch 6 Pro to introduce new schedule and reminder feature - Huawei Central
+- Anti-migrant AfD seeks to break Germany’s political ‘firewall’ in historic state election - Fox News
+- Trump bets on himself as midterm savior. Will 'Trumpapalooza' backfire? - USA Today
+- Exclusive: Fetterman blasts ‘disgruntled staffers’ and ‘smears’ after report details apathy toward his work - CNN
+- Lowell now a powerful Category 3 hurricane; some fluctuations in intensity possible through early Sunday - bigislandnow.com
+- Lindsay Clancy’s fate unresolved as mistrial leaves her case in the court of public opinion – for now - CNN
+- The C.E.O. Teaching Future Generations About 9/11 - The New York Times
+- Live updates: Energy Secretary Chris Wright set for Sunday show interviews as US, Iran trade strikes - The Hill
+- Nepal flood survivor’s family in China relieved after days of anxious waiting - AP News
+- UK gov’t condemns masked anti-immigrant protesters blocking Dover port - Al Jazeera
+- Iran attacks US ship in Strait of Hormuz - The Hill
+- Indonesia volcano eruption cancels hundreds of flights in major airport hub - CBS News
+- US tourism groups want to win Canadian visitors back. A testy trade war isn’t helping - AP News
+- OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume - The New York Times
+- Americans hit with record-high Labor Day Weekend gasoline prices - reuters.com
+- A Kentucky man with a meat allergy was craving a burger. So he got into ostrich farming - ABC News - Breaking News, Latest News and Videos
+- Apple iPhone 18 Pro Release Date Schedule: Your Complete September Countdown - Forbes
+- 5 Cheaper Android Phones To Try Instead Of The Google Pixel 11 - bgr.com
