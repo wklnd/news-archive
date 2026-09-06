@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-06 13:20_
+_Updated: 2026-09-06 16:23_
 
-- U.S. military says it hit 3 Iranian tankers after Navy ships targeted - The Washington Post
-- Trump envoys Witkoff and Kushner meet with Putin about ending the Ukraine war - Axios
-- Washington blocks new Trump mail voting rules, keeping midterm election procedures intact - KOMO
-- Fundraiser for Lindsay Clancy’s Parents Raises Over $1.1 Million After Mistrial - rollingstone.com
-- Trump’s MAGA Inc. sends $10M to Texas in first general election spend of the year - Politico
-- Iran claims strike on US ship in Strait of Hormuz as fighting escalates - AP News
-- Why the United Methodist Church Is Suing a Thriving Texas Congregation - The New York Times
-- Hurricane Lowell threatens Hawaiian islands with life-threatening surf - NBC News
-- Robin Morgan, feminist writer and close friend of Gloria Steinem, dies at 85 - CBS News
+- US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin - The Guardian
+- US, Iran engaged in tanker war: Where is the months-long conflict headed? - Al Jazeera
+- Trump’s War on Mail-In Ballots Has Voters Baffled. That May Be the Point. - The New York Times
 - UN votes to endorse new map projection that shows Africa's size more accurately - CBS News
-- Germans vote in eastern state as far-right AfD eyes power - Al Jazeera
-- Indonesia cancels flights at Jakarta airport and others as Anak Krakatau volcano erupts - AP News
-- In Ukraine, Fraud and Waste Are Rewarded With More Weapons Contracts - The New York Times
-- Chinese national rescued from Nepal tunnel 10 days after flash flood - reuters.com
-- OpenAI Says It Wants to Create a Standard for Revealing AI Alignment Meltdowns - Gizmodo
-- Carmakers Have a New Idea to Boost EV Range: Add a Gas Engine - WSJ
-- Flyers might have to face more disruption with hotter skies - BBC
-- Oliver Blume’s VW jobs victory leaves power questions untouched - Financial Times
+- Texas Republican: ‘I don’t have an ounce of sympathy for Lindsay Clancy’ - The Hill
+- Inside the Battle to Save One Pioneering General From Hegseth’s Purge - The New York Times
+- Why the United Methodist Church Is Suing a Thriving Texas Congregation - The New York Times
+- The Women Who Escaped Kabul for America but Left Their Dreams Behind - WSJ
+- Scoop: Republican midterms convention speakers revealed - Axios
+- Hurricane Lowell threatens Hawaiian islands with life-threatening surf - NBC News
+- Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know - The New York Times
+- Indonesia cancels flights at Jakarta airport and others as Anak Krakatau volcano erupts - apnews.com
+- What Secret Audits Tell Us About How Ukraine’s Military Is Spending Its Money - The New York Times
+- Nepal flood survivor’s family in China relieved after days of anxious waiting - apnews.com
+- US tourism groups want to win Canadian visitors back. A testy trade war isn’t helping - apnews.com
+- OPEC+ set to keep oil output policy unchanged on Sunday, sources say - Reuters
+- A Kentucky man with a meat allergy was craving a burger. So he got into ostrich farming - apnews.com
+- Uncanny and unappetizing: appetites spoil as AI images take over food menus - The Guardian
 - The Pixel 11 Pro should be a disappointment, but after 3 weeks with the phone I can't put it down - Android Authority
-- I Went Shopping for My Ultimate Smart Home of the Future at IFA 2026 - CNET
+- Huawei Watch 6 Pro to introduce new schedule and reminder feature - Huawei Central
