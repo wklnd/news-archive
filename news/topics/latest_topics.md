@@ -1,41 +1,40 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-06 19:15_
+_Updated: 2026-09-06 21:25_
 
 ## Top Stories
 
-- Prognos: Högerextrema ADF störst - Göteborgs-Posten
-- Trumps sändebud till Kiev – flera döda i Ukraina - Västerbottens-Kuriren
-- DN Direkt – Stor polisinsats i Tyskland - Dagens Nyheter
-- Gustav Gellerbrant om Expos avslöjande: ”Lösryckta uppgifter” - SVT Nyheter
-- Andersson om hur hon ska kunna styra: ”Det finns många Excel-ark” - Dagens Nyheter
-- Stök vid mopedträff i Frihamnen - Sveriges Radio
+- AFD:s seger i Sachsen-Anhalt väcker oro i hela Tyskland - Hufvudstadsbladet – HBL
+- Tusentals slöt upp i stor klimatdemonstration - Göteborgs-Posten
+- DN Direkt – Stor polisinsats i Tyskland - dn.se
+- Misstanken: Gruppvåldtog barn på Guldheden - Göteborgs-Posten
+- Jacob Wallenberg varnar för skatteplaner: ”Djupt oroad” - Dagens industri
+- Zelenskyj: Kriget fortsätter i vinter - Corren
+- Gellerbrant en nyckelspelare i SD: ”Jätteviktig funktion” - dn.se
+- Bråkigt vid mopedträff i Stockholm - Göteborgs-Posten
 - Man död efter fall på personalfest i Norrtälje - SVT Nyheter
-- Valmyndigheten kallar till möte efter tekniskt fel - Corren
-- Wallenberg varnar för vänsterseger: ”Djupt oroad” - Västerbottens-Kuriren
-- Detaljerna klara inför kungens begravning - Nya Wermlands-Tidningen
-- Danmarks drottning Margrethe inlagd på sjukhus - Dagens Nyheter
+- S får kritik för kommunal restaurang: ”Handlar inte om att konkurrera” - dn.se
+- Danmarks drottning Margrethe inlagd på sjukhus - dn.se
 - Polis påkörd av fyrhjuling i Göteborg - TV4 Nyheterna
 - Kina höjer dödstal efter skreden i Himalaya - Västerbottens-Kuriren
 - Kreml om Tyskland: ”De vill ha krig igen” - Hufvudstadsbladet – HBL
 - Fjärde bagagehaveriet i år – 3 000 väskor lämnades kvar på Heathrow - Dagens PS
-- Superpolisbilarna som sticker ut - Dagens Nyheter
-- Spara och plugga samtidigt – här är börsprofilens tips för smartare ekonomi med CSN - SVT Nyheter
+- Kontroll av yrkeshögskolan kan skärpas - Aftonbladet
 - Insändare Ekonomin är skäl nog att avfärda kärnkraft i Studsvik - SN, Södermanlands Nyheter
-- EFN Vetenskap släpper ny podd: Bakom siffrorna - EFN
-- Miami-sheriff är mycket kritisk till Grand Theft Auto VI - Gamereactor
+- Spara och plugga samtidigt – här är börsprofilens tips för smartare ekonomi med CSN - SVT Nyheter
+- iPhone Ultra tar bort Face ID, viker ut till 7,8 tum och börjar på 2 000 dollar - Martin Cid Magazine
+- Windows 10 2026 – så får du säkerhetsuppdateringar till 2027 - HurBra.se
 
 ## World News
 
 - KI och IVI stärker samarbetet inom global hälsa - Karolinska Institutet
 - Lövdal om finalen – och flytten till klassiska gården - Travronden
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - media.smart.com
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
@@ -44,6 +43,7 @@ _Updated: 2026-09-06 19:15_
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - Storbritannien: Global lanserar nyhetskanalen LBC News - Radionytt.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
@@ -52,7 +52,7 @@ _Updated: 2026-09-06 19:15_
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - iffs.se
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
@@ -73,52 +73,53 @@ _Updated: 2026-09-06 19:15_
 
 ## Business
 
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - mynewsdesk.com
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - mynewsdesk.com
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - mynewsdesk.com
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - mynewsdesk.com
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - mynewsdesk.com
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - mynewsdesk.com
-- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - mynewsdesk.com
-- Hans Skruvfors blir VD för Sambla Group - mynewsdesk.com
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - mynewsdesk.com
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - mynewsdesk.com
-- Connect Companies växer – anställer två nya experter på integration och systemutveckling - mynewsdesk.com
-- Viktor Nord främsta unga företagare i Västsverige - mynewsdesk.com
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Connect Companies växer – anställer två nya experter på integration och systemutveckling - Mynewsdesk
+- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Aging Research Center (ARC) ‒ ett forskningscentrum för äldre personers hälsa och levnadsvillkor - ki.se
-- Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - mynewsdesk.com
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Sju life science-trender 2026 - Business Region Göteborg
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Vi presenterar HealthBench - OpenAI
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Viljan att forcera språkbarriärer ledde till Athenapriset - Dagens Medicin
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- De tre föreningarna kombinerar sina styrkor för att främja hälso- och sjukvården och förbättra människors hälsa. - Vietnam.vn
+- Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
+- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Aging Research Center (ARC) ‒ ett forskningscentrum för äldre personers hälsa och levnadsvillkor - Karolinska Institutet
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Vi presenterar ChatGPT Health - OpenAI
-- Spännande initiativ presenterat vid HIMSS Europe 2023: The Healthcare Transformation Academy - Karolinska Institutet
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Vi presenterar HealthBench - OpenAI
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Rach Gia Medical Center: Ger människorna högkvalitativa hälsovårdstjänster. - Vietnam.vn
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
 ## Science
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Gemini för vetenskap ska hjälpa forskare - swedroid.se
-- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
-- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - mynewsdesk.com
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
@@ -129,7 +130,7 @@ _Updated: 2026-09-06 19:15_
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Enheten för öron-, näs- och halssjukdomar - ki.se
+- Enheten för öron-, näs- och halssjukdomar - Karolinska Institutet
 - Torsten Persson utsedd till vice ordförande i ERC:s vetenskapliga råd - Stockholms universitet
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Simple math behind major bison blunder - Forskning & Framsteg
@@ -143,7 +144,7 @@ _Updated: 2026-09-06 19:15_
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - mynewsdesk.com
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
