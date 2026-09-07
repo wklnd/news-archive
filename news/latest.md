@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-07 20:23_
+_Updated: 2026-09-07 23:46_
 
-- Germany's AfD calls for parties to work with it after Saxony-Anhalt win - BBC
+- German chancellor vows to stay in office despite AfD triumph in state election - The Guardian
+- Canada’s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate - nytimes.com
 - Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb - CBS News
-- Trump suggests renaming New Mexico amid torrent of online memes and taunts - The Washington Post
-- Ratko Mladić, the ‘Butcher of Bosnia’, given hero’s funeral in Serbia - The Guardian
-- Armed man arrested after lunging at Ohio governor candidate Amy Acton - The Columbus Dispatch
-- Powerful Category 3 Hurricane Lowell barrels toward Hawaii, prompting Hurricane Warning for Kauaʻi - FOX Weather
-- Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami - AP News
+- New Mexico Democrats push back over Trump posts about renaming the state ‘New America’ - NBC News
+- Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić - BBC
+- Powerful Category 3 Hurricane Lowell track shift could cause rare, direct hit on Hawaiian Islands - FOX Weather
+- Amazon plane crash: Investigators to give update on deadly Miami incident - BBC
 - What’s next for Lindsay Clancy? Here’s how other major mistrials played out - NBC News
-- With a Gerrymander Vanquished, Wisconsin Democrats Aim for Control - The New York Times
-- Senate aide’s lobbying side gig raises ethics questions - Politico
-- Israeli Strikes in Lebanon Kill 9 as Bombardment Intensifies - The New York Times
+- Everyone knows Susan Collins. Troy Jackson is still introducing himself. - politico.com
+- Wyoming ranchers struggling amid drought, higher costs and new pressures from beef imports - CBS News
+- Israeli airstrikes on a village in southern Lebanon kill 12 people, including 2 children - apnews.com
 - SpaceX rival launches rocket in historic first, says industry is 'desperate' for more - CNBC
-- Hundreds of demonstrators face off with UK police to protest boats carrying migrants across Channel - New York Post
-- King Charles clarifies status of Prince Harry and his wife, Meghan, after their return to the UK - AP News
-- Gasoline prices, over $4 per gallon, hit record high for Labor Day - CNBC
-- UBS forecasts two US Fed rate hikes in 2026 after strong jobs report - Reuters
-- The 10 fastest-growing jobs in America over the next decade - Fox Business
-- Jaguar Land Rover faces perfect storm as it seeks overhaul - BBC
+- Pope returns to sanctuary where he prayed after election and unveils a fresco depicting the event - apnews.com
+- UK minister condemns anti-migrant protests in Portsmouth - Reuters
+- Fuel prices at record Labor Day high in US thanks to Iran war and refinery issues - apnews.com
+- Exclusive | EverBank to Combine With WaFd to Create $75 Billion Bank - WSJ
+- White House ups pressure on Kevin Warsh's Fed as Wall Street expects hike - Fortune
+- Treasury yields face 4.8% test as fiscal risks threaten to spill into other assets - CNBC
+- iPhone 18 Pro appears to show new colors in a retail store, but likely fake - 9to5Mac
 - Sony brings back its fan-favorite headphones, the XM4 - The Verge
-- Huawei, Xiaomi launch new foldable smartphones ahead of Apple event - Reuters
