@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-07 01:04_
+_Updated: 2026-09-07 03:12_
 
 ## Top Stories
 
-- Chock och självkritik på CDU:s valvaka: ”Tyskarna är aldrig nöjda” - Dagens Nyheter
-- Fem döda efter flygolycka i Miami - SVT Nyheter
-- Polis påkörd av fyrhjuling vid Landvetter – jakt med helikopter - Sveriges Radio
-- 150 000 strandade efter vulkanutbrott i Indonesien - Omni – Alla nyheter. Alla perspektiv.
-- Stor skogsjakt efter misstänkt elsabotör - Hufvudstadsbladet – HBL
-- DN Direkt – Kristersson om Gellerbrant: Bra lösning - Dagens Nyheter
+- Prognos: Högerextrema ADF störst - Göteborgs-Posten
+- Fraktplan kraschade – körde av landningsbana - Corren
+- Trumps sändebud till Kiev – flera döda i Ukraina - Västerbottens-Kuriren
+- DN Direkt – Kronprinsessan riskerar att bli strandsatt i Indonesien - Dagens Nyheter
+- DN Direkt – Lavrov skyller Leipzig-drönarna på Tyskland - Dagens Nyheter
+- Gustav Gellerbrant om Expos avslöjande: ”Lösryckta uppgifter” - SVT Nyheter
 - Polisen: Stökigt på mopedträff i Stockholm - Dagens Nyheter
 - Detaljerna klara inför kung Haralds begravning - Göteborgs-Posten
-- S får kritik för kommunal restaurang: ”Handlar inte om att konkurrera” - Dagens Nyheter
 - Lind om bränslepriserna: Höjning med sex kronor – Senaste nytt om valet 2026 - SVT Nyheter
-- Ko på väg - Aftonbladet
-- Iran: Ny begränsad zon utanför Hormuzsundet - Göteborgs-Posten
-- Iran: Attackerat amerikansk drönare - Västerbottens-Kuriren
-- Kina höjer dödstal efter skreden i Himalaya - Hufvudstadsbladet – HBL
-- Anderssons svar till Wallenberg - Expressen
-- 50-tal studenter matförgiftade på resa till Västervik - SVT Nyheter
+- Wallenbergs varning inför valet: Vänstern kan förstöra - Expressen
+- Iran: Ny begränsad zon utanför Hormuzsundet - Västerbottens-Kuriren
+- Polisen jagar misstänkt elsabotör i Tyskland - Dagens Nyheter
+- Kina höjer dödstal efter skreden i Himalaya - Västerbottens-Kuriren
+- Iran och USA utbyter attacker i Hormuz - Göteborgs-Posten
+- Klassresa slutade i diarrékaos – 50-tal matförgiftade - Sveriges Radio
+- Kontroll av yrkeshögskolan kan skärpas - Göteborgs-Posten
 - (+) Wall Street-veteranen sågar AI-varningen: ”Bullshit” - Aftonbladet
-- Kontroll av yrkeshögskolan kan skärpas - Västerbottens-Kuriren
-- iPhone Ultra avslöjar instabiliteter inför den officiella lanseringen. - Vietnam.vn
-- Atari återsläpper 39 2600-titlar fysiskt - varvat.se
+- Insändare Ekonomin är skäl nog att avfärda kärnkraft i Studsvik - SN, Södermanlands Nyheter
+- iPhone Ultra tar bort Face ID, viker ut till 7,8 tum och börjar på 2 000 dollar - sv.martincid.com
+- Amerikanskt företag vill leta mineral i fjällen - Västerbottens-Kuriren
 
 ## World News
 
 - KI och IVI stärker samarbetet inom global hälsa - Karolinska Institutet
 - Lövdal om finalen – och flytten till klassiska gården - Travronden
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
+- England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart.com
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Kuriren nominerad för satsning på unga läsare - Kuriren
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - via.tt.se
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
-- Storbritannien: Global lanserar nyhetskanalen LBC News - Radionytt.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - via.tt.se
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - via.tt.se
+- Infomedia goes global with acquisition of Opoint Technology - via.tt.se
+- Nasdaq to Move Global Headquarters to 4 Times Square - via.tt.se
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
+- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - via.tt.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- I år ska AI visa affärsnytta. Igen. - computersweden.se
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- USA och Kina dominerar stort när det gäller AI-patent - computersweden.se
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - computersweden.se
-- Kraftigt ökad försäljning av AI-datorer - computersweden.se
-- Albanien utser AI-bot till minister - computersweden.se
-- Tiden för billig vibe coding kan vara över - computersweden.se
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - computersweden.se
-- SVT ber om ursäkt för AI-skapat klipp i Agenda - computersweden.se
-- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - computersweden.se
-- Forskare vill se dödsknapp i AI-system - computersweden.se
-- Nu blir datorerna dyrare – efter prishöjning på minnen - computersweden.se
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
+- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
@@ -92,22 +92,22 @@ _Updated: 2026-09-07 01:04_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - lakartidningen.se
 - De tre föreningarna kombinerar sina styrkor för att främja hälso- och sjukvården och förbättra människors hälsa. - Vietnam.vn
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
 - Vi presenterar HealthBench - OpenAI
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Rach Gia Medical Center: Ger människorna högkvalitativa hälsovårdstjänster. - Vietnam.vn
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - lakartidningen.se
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - lakartidningen.se
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 
@@ -116,21 +116,21 @@ _Updated: 2026-09-07 01:04_
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Främja akademisk forskning inom kryptografi mellan Vietnam och det internationella samfundet. - Vietnam.vn
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Gemini för vetenskap ska hjälpa forskare - swedroid.se
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Fler apor i djurförsök – pandemin vände utvecklingen | Vetenskapsradion - Sveriges Radio
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
 - ”Research on bison completely wrong” - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
+- Exploaterar forskares strävan efter snabb granskning och publicering - lakartidningen.se
 - Enheten för öron-, näs- och halssjukdomar - Karolinska Institutet
-- Torsten Persson utsedd till vice ordförande i ERC:s vetenskapliga råd - Stockholms universitet
+- Torsten Persson utsedd till vice ordförande i ERC:s vetenskapliga råd - su.se
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Simple math behind major bison blunder - Forskning & Framsteg
 
@@ -142,7 +142,7 @@ _Updated: 2026-09-07 01:04_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
