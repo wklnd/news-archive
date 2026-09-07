@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-07 08:37_
+_Updated: 2026-09-07 15:00_
 
-- Far-right Alternative for Germany party wins big in regional election but falls short of majority - apnews.com
-- Iran war live: Tehran vows to extend ‘exclusion zone’ near Strait of Hormuz - The Independent
+- German far-right AfD wins Saxony-Anhalt election, falls short of majority - Al Jazeera
+- Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb - CBS News
 - Hurricane Marie remains offshore, but rain, high surf batter SoCal. What to know - Los Angeles Times
-- Armed man arrested after allegedly charging toward Democratic Ohio governor candidate Amy Acton at fair - CBS News
-- Witkoff and Kushner hold Ukraine talks after meeting Putin - DW.com
-- Hinojosa on Trump $10M Paxton race investment: ‘I welcome the attention on Texas’ - The Hill
-- 5 Killed and 5 Injured After Plane With Amazon Logo Crashes at Miami Airport - The New York Times
-- Trump appeals to Supreme Court as time runs out on push to restrict mail voting - The Washington Post
+- Trump administration makes another appeal to the Supreme Court to allow mail ballot restrictions - AP News
 - Hurricane Lowell menaces Hawaiian Islands with life-threatening surf - NBC News
-- Trump posts map renaming New Mexico to 'New America' - El Paso Times
-- Chancellor to say UK economy 'turning a corner' despite debt concerns - BBC
-- Iran claims strike on a U.S. ship in the Strait of Hormuz but the U.S. denies it - NBC News
-- Seven Indonesian airports remain shut due to volcanic ash from Anak Krakatau - Reuters
-- Masked anti-immigration protesters block roads to Britain’s busiest ferry port - The Times of Israel
-- China pumps $53bn into banks and insurers - Financial Times
-- Oil extends gains after US and Iran strike ships - Reuters
-- Fuel prices at record Labor Day high in US thanks to Iran War and refinery issues - apnews.com
-- OPEC, Allies Agree to Keep Oil Output Steady in October - WSJ
-- 5 Cheaper Android Phones To Try Instead Of The Google Pixel 11 - bgr.com
-- IFA Berlin 2026 Live: The Biggest Announcements From Samsung, Dyson, LG and More - CNET
+- Armed man arrested after lunging at Ohio governor candidate Amy Acton - The Columbus Dispatch
+- What to Know About the Cargo Plane That Overran a Runway in Miami, Killing 5 - The New York Times
+- With a Gerrymander Vanquished, Wisconsin Democrats Aim for Control - The New York Times
+- Trump shares map that renames New Mexico as ‘New America’ - CNN
+- Witkoff and Kushner hold Ukraine talks after meeting Putin - dw.com
+- Israeli air attacks kill at least 11 people in southern Lebanon - Al Jazeera
+- Nuclear-capable warship that capsized when launched finally joins North Korea’s fleet - CNN
+- UK's finance minister Healey walks fiscal tightrope before first budget - Reuters
+- Peru Shows the Limits of Washington’s Anti-China Push - The New York Times
+- China says it will pump $54 billion into banks and insurers — but their stocks still fell - CNBC
+- Jensen Huang says "AGI has arrived" following OpenAI's GPT-6 Astra launch (NVDA:NASDAQ) - Seeking Alpha
+- Goldman Sachs Warns Oil Could Hit $120 as Shipping Risks Rise - Crude Oil Prices Today | OilPrice.com
+- Yen Rises to Highest Since February, Tops Intervention Rally - Bloomberg.com
+- Apple (AAPL) Sets iPhone Launch Event. The First Under New CEO John Ternus - Yahoo Finance
+- Huawei launches new foldable smartphone; Xiaomi and Apple set to follow - Reuters
