@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-07 01:10_
+_Updated: 2026-09-07 03:17_
 
-- Five dead after Amazon-branded cargo plane overruns runway at Miami airport, striking multiple vehicles - NBC News
-- Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls - Al Jazeera
+- Saxony-Anhalt: Far-right AfD secures huge lead in key vote - dw.com
 - Witkoff and Kushner, in a first, visit Ukraine for peace talks - Axios
-- Trump appeals to Supreme Court as time runs out on push to restrict mail voting - The Washington Post
-- Iran warns of 'faster, heavier, more painful response' to US attacks - BBC
-- Amy Acton attacked at campaign event near Youngstown; multiple people reportedly injured - WLWT
+- Armed man confronts Ohio gubernatorial candidate Amy Acton at event; suspect arrested - NBC News
+- Iran says it plans to announce a new ‘exclusion zone’ near the Strait of Hormuz - AP News
+- Trump's apparent hair color change sparks buzz on social media - usatoday.com
 - Hawaii declares state of emergency as Hurricane Lowell approaches islands - The Guardian
-- US, Iran engaged in tanker war: Where is the months-long conflict headed? - Al Jazeera
-- Republicans might still lose half the seats they gerrymandered to flip - politico.com
-- Hinojosa on Trump $10 million Paxton race investment: ‘I welcome the attention on Texas’ - The Hill
-- Iran claims strike on a U.S. ship in the Strait of Hormuz but the U.S. denies it - NBC News
-- Nepal flood survivor’s family in China relieved after days of anxious waiting - AP News
+- Live Updates: 5 Killed and 5 Injured After Plane With Amazon Logo Crashes at Miami Airport - The New York Times
+- Deadly Iran wedding strike likely due to U.S. bomb missing a nearby target - The Washington Post
+- Trump administration makes another appeal to the Supreme Court to allow mail ballot restrictions - AP News
+- Republicans might still lose half the seats they gerrymandered to flip - Politico
 - Masked anti-immigration protesters block roads to Britain’s busiest ferry port - The Times of Israel
-- Indonesia volcano eruption cancels hundreds of flights in major airport hub - CBS News
-- US debt is even worse than it seems, and Treasury yields are now an 'all-hands-on-deck situation' - Fortune
-- OPEC Plus to Keep Oil Production Steady - The New York Times
+- Nepal flood survivor’s family in China relieved after days of anxious waiting - AP News
+- Anak Krakatau: Volcano eruption closes eight Indonesian airports - BBC
+- At flood-destroyed border, China teams scour ruins of once-busy port - Reuters
+- OPEC+ keeps oil output policy unchanged for October - Reuters
+- OpenAI's chief scientist says AI labs may need to slow down: 'No one is prepared for the consequences' - businessinsider.com
+- US debt is even worse than it seems, and Treasury yields are now an 'all-hands-on-deck situation' - fortune.com
 - US tourism groups want to win Canadian visitors back. A testy trade war isn’t helping - AP News
-- Nvidia's $279 Billion Bet Changes Everything (NASDAQ:NVDA) - Seeking Alpha
-- IFA 2026: the biggest tech and gadget announcements - The Verge
-- iPhone 18 colors, Galaxy S27 Ultra camera detailed, Poco F9 series unveiled, Week 36 in review - GSMArena.com news - GSMArena.com
+- IFA Berlin 2026 Live: The Biggest Announcements From Samsung, Dyson, LG and More - CNET
+- 5 Cheaper Android Phones To Try Instead Of The Google Pixel 11 - bgr.com
