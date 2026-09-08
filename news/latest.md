@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-08 12:04_
+_Updated: 2026-09-08 16:46_
 
-- Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies - The New York Times
-- Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people, officials say - AP News
-- Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb - CBS News
-- Eiffel Tower to reopen after protest over removing women staff - Al Jazeera
-- Intense heat, oppressive humidity approach as Tropical Storm Marie's dangerous surf lingers - Los Angeles Times
-- German chancellor vows to stay in office despite AfD triumph in state election - theguardian.com
-- Miami Plane Crash Starts Debate About Requiring a Buffer for Runways - The New York Times
-- Hawaii sees its first-ever tornado watch as Hurricane Lowell approaches - San Francisco Chronicle
-- Trump wants voters to pretend he’s on the ballot. The Republican Party is going along for the ride - AP News
-- Trump posts map with American flag emblazoned over Canada, Greenland, Mexico - The Hill
-- UK’s Burnham Risks Trump Anger With New Sanctions on Israel - Bloomberg.com
-- Russia hits Kyiv after brief pause for US envoys' visit, killing two - Reuters
-- Israeli airstrikes on Lebanese village kill 12, plus other key Mideast developments - AP News
-- Accused killers of American and Australian surfers go on trial in Mexico - CBS News
-- Trump calls for a Bombardier plane ban, drawing pushback from a GOP senator - NBC News
-- Stocks fall as yen surges; Gulf attacks drive oil near $100 a barrel - Reuters
-- ASML Wins Over Top Chipmakers for New EUV Machines - Bloomberg.com
-- China's imports in August miss estimates as calls for rebalancing trade grow - CNBC
-- 9to5Mac Overtime 080: Six new Apple products - 9to5Mac
+- Canadian tariffs on U.S. milk, perfume, golf clubs and other goods take effect as trade war grinds on - CBS News
+- U.K. bans goods from occupied West Bank as Israel and U.S. warn of repercussions - NPR
+- Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites - aljazeera.com
+- New Hampshire primaries test Trump and the left - NBC News
+- Capitol agenda: Republicans hope Trump won’t dominate Dallas - Politico
+- Lindsay Clancy's attorney Kevin Reddington asks Trump for pardon after mistrial - ABC News - Breaking News, Latest News and Videos
+- Hurricane Lowell expected to pass near one Hawaiian island and cause major rains statewide - NBC News
+- A secretive computer algorithm is taking caregiving money away from disabled people - NBC News
+- What's in a name? Trump suggests renaming New Mexico state 'New America' - Euronews.com
+- NYC releases 170,000 pages showing officials knew air quality after 9/11 was unsafe - CNN
+- Australia targets algorithmic social feeds as it looks to hit Big Tech harder - CNBC
+- Anti-AfD protests sweep Germany as far right closes in on two more states - The Guardian
+- Millennial woman designing Ukraine's own ballistic missile says it will soon put Moscow in reach - CBS News
+- Chinese Ship Takes Arctic Shortcut: Smart Business? Or a Political Flex? - The New York Times
+- GOP senator pushes back as Trump threatens to block Bombardier jets in Canada trade fight - Fox Business
+- S&P 500 futures fall to start shortened week as oil prices climb: Live updates - CNBC
+- Five killed in Miami plane crash were in two vehicles on ground, investigators say - BBC
+- Qualcomm Signs Deal to Provide Amazon With Custom AI Chips - Bloomberg.com
+- Apple’s new CEO John Ternus expected to debut foldable iPhone at event Wednesday - Yahoo Finance
 - Xiaomi 18 Fold Hands-On: An Attractive 'Mid-Size' Foldable With Powerful Specs - Engadget
