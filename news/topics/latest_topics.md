@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-08 22:06_
+_Updated: 2026-09-09 00:53_
 
 ## Top Stories
 
-- EMELIE LJUNGBERG: Skärmarna är inte skolans största problem - Corren
-- DN Direkt – Ebba Busch: Inte givet med SD-ministrar - Dagens Nyheter
-- Norrmännen tar sitt sista farväl av kung Harald - Göteborgs-Posten
-- Lorentzon: ”Då måste jag lämna Sverige” - Svenska Dagbladet
+- Lina Lund: Ett instabilt Tyskland är det sista Bryssel behöver - Dagens Nyheter
+- USA förstör fem iranska oljetankfartyg – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Håkan Boström: V är ett större bekymmer än SD för Sveriges säkerhet - Göteborgs-Posten
+- Lena Skogberg Pressad kungafamilj följer kung Harald till sista vilan - Hufvudstadsbladet – HBL
+- Göran Eriksson: Trumps chansning skrämmer de egna - Svenska Dagbladet
+- JOHAN RUDSTRÖM: Ytterst vältajmade siffror för Mohamsson (L) - unt.se
+- Man klämdes under traktor – avled - SVT Nyheter
+- Två barn försvann i Tidaholm – hittades efter tre timmar - SVT Nyheter
+- Busch om Åkesson: ”Det är väldigt märkligt” - Aftonbladet
+- Hyllade terror och spred judehat – bjöds in av V till riksdagen - Göteborgs-Posten
 - Trumps karta väcker ilska i Norden: ”Helt oacceptabelt” - Dagens Nyheter
-- SVT-journalisten om uppskjutna ministerintervjun: ”Otroligt ironiskt” - Dagens Nyheter
-- Klämdes fast under traktor – man död - Aftonbladet
-- 8 september 17.45, Försvunnen person, Tidaholm - polisen.se
-- Präst i Norrbotten döms till fängelse för grovt barnpornografibrott - SVT Nyheter
-- Första frågan: Varför S eller SD? – Senaste nytt om valet 2026 - SVT Nyheter
-- Brittiska flygproblem: 300 flyg inställda - Corren
-- Iran: Har beslagtagit amerikansk obemannad ubåt - Dagens industri
-- Man gripen misstänkt för elsabotage i Tyskland - SVT Nyheter
-- Elon Musk gratulerar AFD till valsegern - Göteborgs-Posten
-- Affärsvärlden slopar köprådet för Cloetta och sänker till neutral - Placera.se
-- Chipbolag mot strömmen på sjunkande USA-börser - EFN
-- Oljepriset stiger för tredje dagen - affarsvarlden.se
+- New York mörkade förgiftad luft efter terrordåd - Göteborgs-Posten
+- Marcus Lindqvist Förhandlingen bara ett sidospår för Putin - Hufvudstadsbladet – HBL
+- Minst två döda i attacker mot Kiev - Corren
+- Stigande oljepris sänkte börsen: ”Prisar in långvarig konflikt” - EFN
+- Affärsvärlden slopar köprådet för Cloetta och sänker till neutral - Affärsvärlden
 - Göteborg: Halverat pris gav rusning till Västtrafik - Aftonbladet
+- Oljepriset stiger för tredje dagen i rad - Placera.se
 - ”GTA VI” leder till akut Playstation-brist i Sverige - Omni – Alla nyheter. Alla perspektiv.
-- Apples vikbara telefon har varit på ritbordet i tio år - Omni – Alla nyheter. Alla perspektiv.
+- Jämförelse av den hopfällbara iPhone Ultra och iPhone 18 Pro Max: Tre viktiga tekniska skillnader. - Vietnam.vn
 
 ## World News
 
 - Lövdal om finalen – och flytten till klassiska gården - Travronden
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
+- England defender Bronze backs UEFA in standoff with FIFA and Infantino - reuters.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart.com
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- GMMP: Global backlash syns i världens medier - fempers.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Möt Johanna Flood, journalisten som blev global miljöchef - new.abb.com
+- GMMP: Global backlash syns i världens medier - fempers.se
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Visual Art köper Global Agencies - dagensmedia.se
+- Visual Art köper Global Agencies - Dagens Media
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Shock as government axes funding for SDGs-related research - universityworldnews.com
+- Shock as government axes funding for SDGs-related research - University World News
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
@@ -65,20 +65,20 @@ _Updated: 2026-09-08 22:06_
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
-- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 
 ## Business
 
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -86,6 +86,7 @@ _Updated: 2026-09-08 22:06_
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
@@ -94,16 +95,16 @@ _Updated: 2026-09-08 22:06_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
-- Markerar 15 år av att skydda den globala hälsosektorn - health-isac.org
-- Låt oss prata hälsa – Intensivvård – Segment 1 - apollohospitals.com
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Vi presenterar HealthBench - OpenAI
+- Vi presenterar HealthBench - openai.com
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -118,45 +119,45 @@ _Updated: 2026-09-08 22:06_
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- AI för vetenskaplig forskning och upptäckter - OpenAI
+- AI för vetenskaplig forskning och upptäckter - openai.com
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Täta band mellan turism och forskning på Svalbard - slu.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Täta band mellan turism och forskning på Svalbard - SLU
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - ”Research on bison completely wrong” - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Enheten för öron-, näs- och halssjukdomar - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Torsten Persson utsedd till vice ordförande i ERC:s vetenskapliga råd - Stockholms universitet
-- Simple math behind major bison blunder - Forskning & Framsteg
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
 - De blev grönsaksodlare tack vare lokalt stöd - Land.se
 - Jordbrukspolitik - Naturvårdsverket
-- Sveriges förändrade lantbruk - SLU
+- Sveriges förändrade lantbruk - slu.se
 - Framtidens jordbruk - European Commission
-- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
+- Lantbrukslogik – nu och i framtiden - slu.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Jord, kor och klimat - SLU
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Här är världens största jordbruk - ATL
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
+- Jord, kor och klimat - slu.se
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Kan agroekologi mätta världen? - SLU
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
 - Visning av uppkomst efter direktsådd - Land.se
+- Kan agroekologi mätta världen? - slu.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
