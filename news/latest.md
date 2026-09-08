@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-08 20:58_
+_Updated: 2026-09-09 00:01_
 
-- Smithsonian chief to retire as Trump fights to reshape the institution - The Washington Post
-- UK bans goods from Israeli West Bank settlements: What that really means - Al Jazeera
-- Canadian tariffs on U.S. milk, perfume, golf clubs and other goods take effect as trade war grinds on - CBS News
-- Iran-backed terrorists escalate war with Saudi Arabia as US trades strikes with Iran - Fox News
+- Smithsonian chief to retire after clashes with White House - Axios
+- UK announces sanctions on West Bank settlements prompting furious Israeli response - BBC
+- U.S. strikes Iranian tankers after more attempted attacks on Navy warship - nbcnews.com
+- Canada’s tariffs take effect as it seeks closer EU ties and awaits Trump response - AP News
+- Iran Guards claim capture of ‘one of smartest’ US submarines in Strait of Hormuz | World News - Hindustan Times
+- Iran-backed Houthis attack four Saudi cities in expansion of Middle East war, 73 hurt - Reuters
 - New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani - BBC
-- Family recovers all bodies after small plane crash between Bahamas and Miami - Miami Herald
-- All 5 killed in Miami cargo jet crash were in a van used by plane cleaners - AP News
-- 'Enough is enough': Patrick Clancy at center of 'destructive defamation campaign,' attorney says - WCVB
-- Which Senate Candidates Are Skipping Trump’s Republican Convention? - The New York Times
-- Hawaii sees its first-ever tornado watch as Hurricane Lowell approaches - San Francisco Chronicle
+- GOP to host unusual midterm convention. And, Canada's retaliatory tariffs take effect - NPR
+- Supreme Court rejects Missouri’s request to use congressional map with extra GOP seat - CNN
+- Patrick Clancy Plans Legal Action Against ‘Relentless’ Harassment and Conspiracy Theories - The New York Times
+- US Treasury ratchets up pressure on Iran with sweeping new aviation sanctions - Reuters
 - Australian social media users to be offered choice to opt out of algorithms - NPR
-- Netanyahu faces backlash over report he was warned of Hamas attack days before October 7 - CNN
-- Prince Harry, Meghan Markle ‘surprised’ by King Charles’ letter on royal status - Good Morning America
+- UAE warned Netanyahu of major Hamas operation days before Oct. 7 attack, news report says - AP News
 - As election looms, Sweden's government is paying immigrants to leave - Reuters
-- Stock market today: Dow, S&P 500, Nasdaq fall as oil prices rise, US-Canada trade war escalates - Yahoo Finance
-- Bombardier, a Canadian Jet Maker, Is a Target in Trump’s Trade War - The New York Times
-- Qualcomm strikes AI chip deal with Amazon, offers right to buy about $4 billion in stock - Reuters
-- Has the economy gone C-shaped? : Planet Money - NPR
-- Apple Event Tomorrow: iPhone 18 Pro and iPhone Ultra Cheat Sheet - MacRumors
-- Apple’s new CEO John Ternus expected to debut foldable iPhone at event Wednesday - Yahoo Finance
+- OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’ - The New York Times
+- Google’s revived nuclear power plant gets $1.9B loan from US government - TechCrunch
+- Duffy puts Ford on notice over China ties, warns of security concerns - Fox Business
+- Meta launches AI agent that can access other apps to send emails, make payments - Reuters
+- Dbrand Already Has iPhone Ultra Cases, Spoiling Apple's Surprise - Engadget
+- How to watch Apple’s foldable iPhone announcement - TechCrunch
