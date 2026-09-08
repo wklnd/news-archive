@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-08 18:47_
+_Updated: 2026-09-08 22:06_
 
 ## Top Stories
 
-- Iran: Har beslagtagit en obemannad USA-ubåt - Omni – Alla nyheter. Alla perspektiv.
+- EMELIE LJUNGBERG: Skärmarna är inte skolans största problem - Corren
 - DN Direkt – Ebba Busch: Inte givet med SD-ministrar - Dagens Nyheter
-- Hyllade terror och spred judehat – bjöds in av V till riksdagen - Göteborgs-Posten
-- Mohamsson om Pisaraset: Skärmarna är giftet - Corren
+- Norrmännen tar sitt sista farväl av kung Harald - Göteborgs-Posten
+- Lorentzon: ”Då måste jag lämna Sverige” - Svenska Dagbladet
+- Trumps karta väcker ilska i Norden: ”Helt oacceptabelt” - Dagens Nyheter
 - SVT-journalisten om uppskjutna ministerintervjun: ”Otroligt ironiskt” - Dagens Nyheter
-- Kreml: Putin och Trump har talat i telefon - Göteborgs-Posten
+- Klämdes fast under traktor – man död - Aftonbladet
+- 8 september 17.45, Försvunnen person, Tidaholm - polisen.se
 - Präst i Norrbotten döms till fängelse för grovt barnpornografibrott - SVT Nyheter
-- Äldre man död efter trafikolycka i Olofström - SVT Nyheter
-- Så många utvisas trots jobb inom bristyrken - Aftonbladet
-- Försökte mörda sina barn i brand – 17 års fängelse - Göteborgs-Posten
+- Första frågan: Varför S eller SD? – Senaste nytt om valet 2026 - SVT Nyheter
+- Brittiska flygproblem: 300 flyg inställda - Corren
+- Iran: Har beslagtagit amerikansk obemannad ubåt - Dagens industri
 - Man gripen misstänkt för elsabotage i Tyskland - SVT Nyheter
-- Strul på brittiska flygplatser – plan kan inte lyfta - Dagens Nyheter
-- Ungern kastar ut tio ryska diplomater - SVT Nyheter
-- Ryska anfall mot Kiev – tv-station attackerad - Corren
-- Ost, stål och smink – Kanadas USA-tullar i kraft - tn.se
-- SkandiaMäklarna om Svensk Mäklarstatistik augusti 2026: Villorna drar ifrån – nu riktas blickarna mot valet - svenskbyggtidning -
-- Oljepriset stiger för tredje dagen i rad - Placera.se
-- Wall Street faller efter långhelgen – Qualcomm rusar - Omni – Alla nyheter. Alla perspektiv.
+- Elon Musk gratulerar AFD till valsegern - Göteborgs-Posten
+- Affärsvärlden slopar köprådet för Cloetta och sänker till neutral - Placera.se
+- Chipbolag mot strömmen på sjunkande USA-börser - EFN
+- Oljepriset stiger för tredje dagen - affarsvarlden.se
+- Göteborg: Halverat pris gav rusning till Västtrafik - Aftonbladet
+- ”GTA VI” leder till akut Playstation-brist i Sverige - Omni – Alla nyheter. Alla perspektiv.
 - Apples vikbara telefon har varit på ritbordet i tio år - Omni – Alla nyheter. Alla perspektiv.
-- Försäljningen av spelkonsoler tiodubblad i svenska butiker – inför GTA 6 - Expressen
 
 ## World News
 
-- Lövdal om finalen – och flytten till klassiska gården - travronden.se
+- Lövdal om finalen – och flytten till klassiska gården - Travronden
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - media.smart.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart.com
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- GMMP: Global backlash syns i världens medier - fempers.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Möt Johanna Flood, journalisten som blev global miljöchef - new.abb.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Megaaffären lyfter American Express Global Business Travel - travelnews.se
-- Visual Art köper Global Agencies - Dagens Media
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Visual Art köper Global Agencies - dagensmedia.se
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Shock as government axes funding for SDGs-related research - universityworldnews.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -61,10 +61,10 @@ _Updated: 2026-09-08 18:47_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
@@ -94,16 +94,16 @@ _Updated: 2026-09-08 18:47_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Markerar 15 år av att skydda den globala hälsosektorn - health-isac.org
+- Låt oss prata hälsa – Intensivvård – Segment 1 - apollohospitals.com
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Vi presenterar HealthBench - openai.com
+- Vi presenterar HealthBench - OpenAI
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -118,24 +118,24 @@ _Updated: 2026-09-08 18:47_
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- AI för vetenskaplig forskning och upptäckter - openai.com
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Täta band mellan turism och forskning på Svalbard - SLU
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - ”Research on bison completely wrong” - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Enheten för öron-, näs- och halssjukdomar - Karolinska Institutet
-- Torsten Persson utsedd till vice ordförande i ERC:s vetenskapliga råd - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
+- Torsten Persson utsedd till vice ordförande i ERC:s vetenskapliga råd - Stockholms universitet
 - Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
@@ -153,8 +153,8 @@ _Updated: 2026-09-08 18:47_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Här är världens största jordbruk - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - Kan agroekologi mätta världen? - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
