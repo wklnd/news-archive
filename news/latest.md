@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-08 02:58_
+_Updated: 2026-09-08 07:13_
 
-- Far-right win leaves Germany's Merz shaken as AfD plots path to power - Reuters
-- Canada Set to Hit at Trump Tariffs, Risking Wider Trade War - Bloomberg.com
-- Trump posts map with American flag emblazoned over Canada, Greenland, Mexico - The Hill
-- Hurricane Marie Brings 10-Foot Waves And Flooding To Southern California (Photos) - Forbes
-- Republicans fear Trump has turned toxic on the campaign trail - Financial Times
-- Hurricane Lowell nears Hawaii, prompting warnings for 3 islands - NBC News
-- Investigators recover black boxes from cargo plane crash in Miami - Reuters
+- Canada’s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate - The New York Times
+- Germany's Merz shocked by far-right state election triumph but doubles down on unpopular reforms - AP News
+- Intense heat, oppressive humidity approach as Tropical Storm Marie's dangerous surf lingers - Los Angeles Times
+- Trump suggests renaming New Mexico amid torrent of online memes and taunts - The Washington Post
+- US moves to ramp up pressure on Iran at UN as Tehran warns of 'recalibrated' military posture - Fox News
+- After 9/11, Documents Suggest New Yorkers Were Misled About Air Quality - The New York Times
+- Miami Plane Crash Starts Debate About Requiring a Buffer for Runways - The New York Times
+- Mistrial or retrial, Lindsay Clancy faces years of confinement - NewsNation
 - Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb - CBS News
 - Ohio Democrat Amy Acton reflects on a ‘rough day’ as witnesses recall ‘frightening’ confrontation - NBC News
-- Wendy Murphy: Plea deal likely in Clancy case - Boston Herald
-- EU seeks to reassure a Trump-rattled Greenland with promise of a new partnership and investment - AP News
-- Police seek to identify protesters behind Portsmouth anti-migrant disorder - bbc.com
-- King Charles confirms Harry and Meghan will not be working royals after U.K. return - NBC News
-- Ratko Mladić, the ‘Butcher of Bosnia’, given hero’s funeral in Serbia - The Guardian
+- Police seek to identify protesters behind Portsmouth anti-migrant disorder - BBC
+- How the Nepal-Tibet disaster became the latest victim of China’s ‘Clean Internet’ campaign - The Guardian
+- Israeli strikes on southern Lebanese town kill 12 as fears of escalation mount - Reuters
+- Ratko Mladić funeral exposes gap between Serbia’s EU ambitions and political reality - politico.eu
+- China's imports in August miss estimates as exports pick up pace amid calls for rebalancing trade - CNBC
 - Fuel prices at record Labor Day high in US thanks to Iran war and refinery issues - AP News
-- Sandisk: The Next 3 Weeks Decide Everything (NASDAQ:SNDK) - Seeking Alpha
-- OpenAI’s ~$1 Billion GPT-6 Astra Heralds The Age Of AGI, According To NVIDIA’s Jensen Huang, Yet Anthropic’s Fable 5.1 Still Beats It On SWE-Bench Pro And Coding Benchmarks - Wccftech
-- Trump threatens to block Canada’s Bombardier sales unless planes made in US - aljazeera.com
-- Tim Cook Won't Appear in Apple's September 9 Event Video - MacRumors
-- Sony brings back its fan-favorite headphones, the XM4 - The Verge
+- Trump calls for a Bombardier plane ban, drawing pushback from a GOP senator - NBC News
+- Nvidia CEO Says GPT-6 Astra Brings AGI Closer - PYMNTS.com
+- Three new iPhones launch this week, here’s what’s coming - 9to5mac.com
+- Sony WH-1000XM4C launch for $299 alongside two more affordable headphones - 9to5Google
