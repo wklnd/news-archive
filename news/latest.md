@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-09 12:07_
+_Updated: 2026-09-09 16:47_
 
+- Republicans kick off a 'Trumpapalooza' of a midterm convention Wednesday in Texas - NPR
+- Iran attacks vessels, US base in Jordan after tankers sunk - The Hill
+- Competing court orders add confusion to Missouri congressional elections - AP News
+- Germany's Merz attacks AfD in stormy debate after far-right election win - BBC
 - Trump bans some Canadian imports as North America trade war intensifies - Axios
-- Iran attacks American warships and base after U.S. sinks five Iranian tankers - NBC News
-- Paul Adams: British-Israeli relations at lowest ebb in decades - BBC
-- Trump’s Ability to Channel Voter Concerns Is Tested as Republicans Gather in Dallas - The New York Times
-- Lindsay Clancy juror had reasonable doubt but would not agree to acquit, foreperson says - The Guardian
-- Lonnie Bunch to retire from Smithsonian leadership following clash with Trump administration - AP News
-- New Hampshire primary results: Key takeaways for US midterm elections - Al Jazeera
-- ‘I was shaking’: West Kauai residents ride out Hurricane Lowell, assess damage - Hawaii News Now
-- New Mexicans deride Trump's 'New America' idea - Reuters
-- Mamdani Accuses Former N.Y.C. Leaders of Lying About 9/11 Air Quality - The New York Times
-- Australian social media users to be offered choice to opt out of algorithms - NPR
-- North Korea builds new Yongbyon uranium enrichment facility, IAEA says - Reuters
-- Travelers Face More Delays After Major Disruption at British Airports - The New York Times
-- Merkel's 'heart bleeds' after AfD win in Saxony-Anhalt - DW.com
-- Brent crude rises above $100 a barrel as Middle East conflict escalates - Reuters
-- NTSB to release readout from cockpit voice recorder following Amazon cargo plane crash that killed 5 - ABC News - Breaking News, Latest News and Videos
-- Bessent Dares Traders to Bet Against Yen: ‘I Am the House Now’ - Bloomberg.com
-- Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits - CNBC
-- Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000 - The Verge
-- Apple wanted the iPhone Ultra to cost $1,999, new report says - GSMArena.com news - GSMArena.com
+- Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move - BBC
+- Three Jurors in Clancy Trial Describe Frustration With Holdout - The New York Times
+- Courtroom erupts with relief, anger as Nordquist killers get life sentence: ‘You’re the devil!’ - Syracuse.com
+- Trump gave Natalie Harp and two other aides $45,000 each in cash gifts for holidays - CNN
+- New Hampshire Senate Primary Election 2026 Live Results: Chris Pappas, Karishma Manzur, John Sununu and More - NBC News
+- Anthropic insiders warn AI could kill all humans - Axios
+- Police launch criminal investigation into Reform UK donations - BBC
+- 4,300-year-old tomb of judge and his father discovered in Egypt: "Exceptionally well-preserved" - CBS News
+- Yemen's Houthi rebels say Saudi-backed forces launched airstrikes, and other key Mideast news - AP News
+- Brent crude oil rises above $100 a barrel as Middle East conflict intensifies - Reuters
+- ‘I am the house now’: Bessent warns currency traders not to bet against yen - Financial Times
+- Crypto, banks take lobbying war to US senators' home states ahead of key vote - Reuters
+- Fearless US stock market vulnerable to shocks as midterms loom - Reuters
+- Apple expected to unveil first folding phone, with new CEO Ternus in command - Reuters
+- iPhone 18 Pro Details Purportedly Leaked By Verizon's AI Assistant - MacRumors
