@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-09 21:57_
+_Updated: 2026-09-10 00:41_
 
 ## Top Stories
 
-- Statsministern skickade brev till Magdalena Andersson innan debatten - Göteborgs-Posten
+- Tomas Ramberg: En ska bort – Kristersson eller Andersson - Dagens Nyheter
 - Støre: Zelenskyjs plan nästan träffat av drönare - Göteborgs-Posten
-- Kung Haralds kista framme i Oslo domkyrka - Västerbottens-Kuriren
-- DN Direkt – Misstänkt mordförsök på skola i Göteborg - Dagens Nyheter
-- DN Direkt – Muf-toppen: Sluta stödrösta på L - Dagens Nyheter
-- Larmet växer: Över 100 personer matförgiftade efter resa till Västervik - svt.se
-- V: Hellre extra val än stödparti - Göteborgs-Posten
-- Explosion på båt i Täby - svt.se
-- Jonas Thente: Sveriges läskris handlar om något större än böcker - Dagens Nyheter
-- Kristersson: Vi behöver inte mer landvindkraft - Västerbottens-Kuriren
-- Världens bäst betalda politiker får tio miljoner i löneförhöjning - Dagens Nyheter
-- EU ger Spanien miljardstöd efter Ceutakrisen - Västerbotten | Folkbladet
-- Trump tyst om sanktioner mot bosättare - Västerbottens-Kuriren
-- Iran attackerar amerikanska krigsfartyg - Corren
-- Stigande oljepriser sänkte Stockholmsbörsen - Placera.se
-- Konkursen i Pizza Hut hårt slag för Prisma - Fastighetsnytt
-- Fagerhult lägger ned tysk fabrik – flyttar till Sverige - Dagens industri
-- Storvarsel på Resurs Bank – huvudkontoret i Helsingborg påverkas - Sydsvenskan
-- Allt starkare indikationer: Vikbar Iphone lanseras i år - macworld.se
+- Busch: ”Tänker inte sitta och tjura i ett hörn” - Göteborgs-Posten
+- Misstänkt mordförsök på Sannaskolan – en person gripen - sverigesradio.se
+- Direkt – Kriget i Ukraina – Zelenskyj efter attacken: ”Tack för precisionen” - Dagens Nyheter
+- Oslo tystnar för kung Haralds begravning - Göteborgs-Posten
+- Man död efter arbetsplatsolycka i Göteborg - Göteborgs-Posten
+- 9 september 16.18, Trafikolycka, Trelleborg - polisen.se
+- Andersson: ”V rör sig i fel riktning” – Senaste nytt om valet 2026 - SVT Nyheter
+- DN Direkt – Buschs pik: ”Inte tänkt låta SD sätta takten” - Dagens Nyheter
+- Ingmar Nevéus: Därför jämförs ”AI-kampen” med atombomberna mot Japan - Dagens Nyheter
+- Trump om sin roll 11 september: ”Jag fick bäras i väg av brandmän” - Dagens Nyheter
+- Flera explosioner hörda i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Natalie Harp fick över 400 000 kronor i julklapp av Trump - Dagens Nyheter
+- Återstart av kärnkraftsreaktor försenas - Sydsvenskan
+- Stockholmsbörsen stängde på tydliga minus – Assa Abloy i botten - EFN
+- Pizza Hut på Asecs går i konkurs - SVT Nyheter
+- Hög fallhöjd för Apple efter senaste årets börslyft - Omni – Alla nyheter. Alla perspektiv.
+- Apples nya vd presenterade vikbar telefon - Göteborgs-Posten
 - Strandberg: ”GTA 6 är dumma människors Ocarina of Time” - Cafe.se
 
 ## World News
@@ -32,7 +32,7 @@ _Updated: 2026-09-09 21:57_
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
@@ -42,7 +42,7 @@ _Updated: 2026-09-09 21:57_
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Shock as government axes funding for SDGs-related research - University World News
-- England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
+- Greek farmers have forced shutdown of Crete airport - Sky News
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
@@ -51,25 +51,25 @@ _Updated: 2026-09-09 21:57_
 ## Technology
 
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Leveraging AI in Swedish Development Cooperation - fuf.se
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
-- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
@@ -121,43 +121,43 @@ _Updated: 2026-09-09 21:57_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Täta band mellan turism och forskning på Svalbard - SLU
+- Täta band mellan turism och forskning på Svalbard - slu.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- ”Research on bison completely wrong” - fof.se
+- ”Research on bison completely wrong” - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Enheten för öron-, näs- och halssjukdomar - Karolinska Institutet
+- Enheten för öron-, näs- och halssjukdomar - ki.se
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Torsten Persson utsedd till vice ordförande i ERC:s vetenskapliga råd - Stockholms universitet
-- Simple math behind major bison blunder - fof.se
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
 - De blev grönsaksodlare tack vare lokalt stöd - Land.se
 - Jordbrukspolitik - Naturvårdsverket
-- Sveriges förändrade lantbruk - SLU
+- Sveriges förändrade lantbruk - slu.se
 - Framtidens jordbruk - European Commission
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
-- Lantbrukslogik – nu och i framtiden - SLU
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
+- Lantbrukslogik – nu och i framtiden - slu.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Här är världens största jordbruk - ATL
-- Jord, kor och klimat - SLU
+- Jord, kor och klimat - slu.se
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
 - Visning av uppkomst efter direktsådd - Land.se
-- Kan agroekologi mätta världen? - SLU
+- Kan agroekologi mätta världen? - slu.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
