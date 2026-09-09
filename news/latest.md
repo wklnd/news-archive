@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-09 07:16_
+_Updated: 2026-09-09 12:07_
 
-- Trump hits back at Canada with import bans, more tariff hikes - Politico
-- Dueling Court Rulings Leave Missouri’s Congressional Races in Chaos - The New York Times
-- US forces hit five Iranian tankers as Tehran targets American base in Jordan - BBC
-- Republican John Sununu and Democrat Chris Pappas win New Hampshire Senate primaries, setting up battleground race - NBC News
+- Trump bans some Canadian imports as North America trade war intensifies - Axios
+- Iran attacks American warships and base after U.S. sinks five Iranian tankers - NBC News
+- Paul Adams: British-Israeli relations at lowest ebb in decades - BBC
+- Trump’s Ability to Channel Voter Concerns Is Tested as Republicans Gather in Dallas - The New York Times
 - Lindsay Clancy juror had reasonable doubt but would not agree to acquit, foreperson says - The Guardian
 - Lonnie Bunch to retire from Smithsonian leadership following clash with Trump administration - AP News
-- Mamdani releases records on toxic air in New York after 9/11 attacks - Al Jazeera
-- Trump leans into trolling critics as GOP midterm anxiety grows - The Hill
-- Hurricane Lowell lashes Hawaii, knocking out power to thousands as flood risk continues - CBS News
-- Trump didn't oppose UK sanctions on Israeli settlements - Axios
-- Australian social media users to be offered choice to opt out of algorithms - npr.org
-- King Harald V’s final farewell: Inside the historic funeral set to bring Norway to a standstill - HOLA
-- Netanyahu was warned of 7 October Hamas attacks, book claims - The Guardian
-- Brent crude nears $100 a barrel as U.S.-Iran tit-for-tat strikes stoke supply worries - CNBC
-- Cargo jet tried to abort unsteady landing before Miami crash that killed 5, flight data indicates - AP News
-- OpenAI claims to have solved maths problem that stumped humans for decades - The Guardian
-- U.S. to lend $1.9 billion to restart a shuttered nuclear plant in Iowa - The Seattle Times
-- Apple to Unveil $2,000 Foldable iPhone Duo at High-Stakes Event - Bloomberg.com
-- Apple Event 2026 Live: The First Foldable iPhone, iPhone 18 Pro, Apple Watch 12 and More - CNET
-- Pusheen’s first game is coming to Apple Arcade - The Verge
+- New Hampshire primary results: Key takeaways for US midterm elections - Al Jazeera
+- ‘I was shaking’: West Kauai residents ride out Hurricane Lowell, assess damage - Hawaii News Now
+- New Mexicans deride Trump's 'New America' idea - Reuters
+- Mamdani Accuses Former N.Y.C. Leaders of Lying About 9/11 Air Quality - The New York Times
+- Australian social media users to be offered choice to opt out of algorithms - NPR
+- North Korea builds new Yongbyon uranium enrichment facility, IAEA says - Reuters
+- Travelers Face More Delays After Major Disruption at British Airports - The New York Times
+- Merkel's 'heart bleeds' after AfD win in Saxony-Anhalt - DW.com
+- Brent crude rises above $100 a barrel as Middle East conflict escalates - Reuters
+- NTSB to release readout from cockpit voice recorder following Amazon cargo plane crash that killed 5 - ABC News - Breaking News, Latest News and Videos
+- Bessent Dares Traders to Bet Against Yen: ‘I Am the House Now’ - Bloomberg.com
+- Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits - CNBC
+- Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000 - The Verge
+- Apple wanted the iPhone Ultra to cost $1,999, new report says - GSMArena.com news - GSMArena.com
