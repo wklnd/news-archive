@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-09 02:48_
+_Updated: 2026-09-09 07:16_
 
-- Conflicting court rulings leave Missouri’s congressional map in limbo - NBC News
-- Live Results: New Hampshire midterm primaries - PBS
-- Trump Plans to Cut Canadian Products Out of Government Contracts - Bloomberg.com
-- US military says it destroyed 5 more Iranian oil tankers after missile attacks on Navy warship - AP News
-- Paul Adams: British-Israeli relations at lowest ebb in decades - BBC
-- Saudi Arabia strikes back after Houthis hit oil sites in heaviest attack in years - Euronews.com
-- Smithsonian Secretary Lonnie Bunch is leaving amid tensions with Trump - NBC News
-- Mamdani releases records on toxic air in New York after 9/11 attacks - aljazeera.com
-- Some Oahu roads remain closed, residents without power as Lowell cleanup begins - KHON2
-- Trump's unusual role at midterm convention revealed as schedule goes public - Fox News
-- US Treasury ratchets up pressure on Iran with sweeping new aviation sanctions - Reuters
-- Anti-AfD protests sweep Germany as far right closes in on two more states - The Guardian
-- UAE warned Netanyahu of major Hamas operation days before Oct. 7 attack, news report says - AP News
-- London police use tech to tackle masked phone snatchers - CBS News
+- Trump hits back at Canada with import bans, more tariff hikes - Politico
+- Dueling Court Rulings Leave Missouri’s Congressional Races in Chaos - The New York Times
+- US forces hit five Iranian tankers as Tehran targets American base in Jordan - BBC
+- Republican John Sununu and Democrat Chris Pappas win New Hampshire Senate primaries, setting up battleground race - NBC News
+- Lindsay Clancy juror had reasonable doubt but would not agree to acquit, foreperson says - The Guardian
+- Lonnie Bunch to retire from Smithsonian leadership following clash with Trump administration - AP News
+- Mamdani releases records on toxic air in New York after 9/11 attacks - Al Jazeera
+- Trump leans into trolling critics as GOP midterm anxiety grows - The Hill
+- Hurricane Lowell lashes Hawaii, knocking out power to thousands as flood risk continues - CBS News
+- Trump didn't oppose UK sanctions on Israeli settlements - Axios
+- Australian social media users to be offered choice to opt out of algorithms - npr.org
+- King Harald V’s final farewell: Inside the historic funeral set to bring Norway to a standstill - HOLA
+- Netanyahu was warned of 7 October Hamas attacks, book claims - The Guardian
+- Brent crude nears $100 a barrel as U.S.-Iran tit-for-tat strikes stoke supply worries - CNBC
+- Cargo jet tried to abort unsteady landing before Miami crash that killed 5, flight data indicates - AP News
 - OpenAI claims to have solved maths problem that stumped humans for decades - The Guardian
-- Google’s revived nuclear power plant gets $1.9B loan from US government - TechCrunch
-- Meta launches AI agent that can access other apps to send emails, make payments - Reuters
-- Stock futures are little changed after losing session; Brent crude tops $99 per barrel: Live updates - cnbc.com
-- Apple event expected to deliver foldable iPhone and debut of new CEO John Ternus - CBS News
-- Apple wanted the iPhone Ultra to cost $1,999, new report says - GSMArena.com news - GSMArena.com
+- U.S. to lend $1.9 billion to restart a shuttered nuclear plant in Iowa - The Seattle Times
+- Apple to Unveil $2,000 Foldable iPhone Duo at High-Stakes Event - Bloomberg.com
+- Apple Event 2026 Live: The First Foldable iPhone, iPhone 18 Pro, Apple Watch 12 and More - CNET
+- Pusheen’s first game is coming to Apple Arcade - The Verge
