@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-09 18:49_
+_Updated: 2026-09-09 21:57_
 
 ## Top Stories
 
-- DN Direkt – L klart över spärren i ny TV4/Novus - Dagens Nyheter
-- Nu hyllas kung Haakon – Harald V vilar i kryptan - Göteborgs-Posten
-- Larmet växer: Över 100 personer matförgiftade efter resa till Västervik - SVT Nyheter
-- Moderaterna hänger upp smygtagna bilden på Södermalm - Aftonbladet
-- 30 år gammal dom hopp för lotsen som körde fartyget vid tragedin - Dagens Nyheter
-- SMHI varnar för skyfall och åska - Enköpingsposten
-- Professorn: Här finns nycklarna till att vända läskrisen - Dagens Nyheter
-- C-ledaren beredd på extraval om V släpps in - Göteborgs-Posten
-- En person gripen misstänkt för mordförsök på Sannaskolan - Göteborgs-Posten
-- Valmyndigheten: Kommunerna som inte berörs av felet - Dagens Nyheter
-- Tystnad från Trump efter britternas drag mot israeliska bosättare - Dagens Nyheter
-- Attacker i Ukraina – flera döda - Göteborgs-Posten
+- Statsministern skickade brev till Magdalena Andersson innan debatten - Göteborgs-Posten
+- Støre: Zelenskyjs plan nästan träffat av drönare - Göteborgs-Posten
+- Kung Haralds kista framme i Oslo domkyrka - Västerbottens-Kuriren
+- DN Direkt – Misstänkt mordförsök på skola i Göteborg - Dagens Nyheter
+- DN Direkt – Muf-toppen: Sluta stödrösta på L - Dagens Nyheter
+- Larmet växer: Över 100 personer matförgiftade efter resa till Västervik - svt.se
+- V: Hellre extra val än stödparti - Göteborgs-Posten
+- Explosion på båt i Täby - svt.se
+- Jonas Thente: Sveriges läskris handlar om något större än böcker - Dagens Nyheter
+- Kristersson: Vi behöver inte mer landvindkraft - Västerbottens-Kuriren
+- Världens bäst betalda politiker får tio miljoner i löneförhöjning - Dagens Nyheter
+- EU ger Spanien miljardstöd efter Ceutakrisen - Västerbotten | Folkbladet
+- Trump tyst om sanktioner mot bosättare - Västerbottens-Kuriren
 - Iran attackerar amerikanska krigsfartyg - Corren
-- DN Direkt – Marockos roll i Ceuta ska utredas av spansk domare - Dagens Nyheter
-- Pizza Hut försatt i konkurs – restaurangerna stängda - nt.se
-- DN Direkt – Börsen faller och oljepriset lyfter - Dagens Nyheter
-- SB1 ser Lundin Mining som ett 'självklart val' inom gruvsektorn - höjer riktkursen - placera.se
-- Macken tömde Dianas konto – kunder drabbade i hela Sverige - Filipstads Tidning
-- Apples troliga drag – vikbar telefon - Aftonbladet
+- Stigande oljepriser sänkte Stockholmsbörsen - Placera.se
+- Konkursen i Pizza Hut hårt slag för Prisma - Fastighetsnytt
+- Fagerhult lägger ned tysk fabrik – flyttar till Sverige - Dagens industri
+- Storvarsel på Resurs Bank – huvudkontoret i Helsingborg påverkas - Sydsvenskan
+- Allt starkare indikationer: Vikbar Iphone lanseras i år - macworld.se
 - Strandberg: ”GTA 6 är dumma människors Ocarina of Time” - Cafe.se
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Visual Art köper Global Agencies - dagensmedia.se
+- Visual Art köper Global Agencies - Dagens Media
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Shock as government axes funding for SDGs-related research - University World News
-- England defender Bronze backs UEFA in standoff with FIFA and Infantino - reuters.com
-- Greek farmers have forced shutdown of Crete airport - Sky News
+- England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
@@ -51,7 +51,7 @@ _Updated: 2026-09-09 18:49_
 ## Technology
 
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
@@ -88,9 +88,8 @@ _Updated: 2026-09-09 18:49_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Connect Companies växer – anställer två nya experter på integration och systemutveckling - Mynewsdesk
 - Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
@@ -100,18 +99,18 @@ _Updated: 2026-09-09 18:49_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Markerar 15 år av att skydda den globala hälsosektorn - health-isac.org
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Vi presenterar HealthBench - openai.com
+- Vi presenterar HealthBench - OpenAI
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Hälsa på recept har stor effekt mot hjärt-kärlsjukdom - Karolinska Institutet
@@ -120,7 +119,7 @@ _Updated: 2026-09-09 18:49_
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- AI för vetenskaplig forskning och upptäckter - openai.com
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
@@ -130,15 +129,15 @@ _Updated: 2026-09-09 18:49_
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- ”Research on bison completely wrong” - Forskning & Framsteg
+- ”Research on bison completely wrong” - fof.se
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Enheten för öron-, näs- och halssjukdomar - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Torsten Persson utsedd till vice ordförande i ERC:s vetenskapliga råd - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Simple math behind major bison blunder - fof.se
 
 ## Jordbruk
 
@@ -146,13 +145,13 @@ _Updated: 2026-09-09 18:49_
 - Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
-- Brittiska bönder i massiv protest mot arvsskatten - ja.se
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Framtidens jordbruk är här - Shaping Europe’s digital future
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
