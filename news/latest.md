@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-09 20:50_
+_Updated: 2026-09-09 23:56_
 
-- Apple event live updates: Ternus announces iPhone 18 Pro and Pro Max in new colors - CNBC
-- Iran attacks US forces in Jordan as Strait of Hormuz tensions escalate - Fox News
 - Republican midterm convention 2026: What to know about Trump’s Dallas event - Al Jazeera
-- Germany's Merz attacks AfD in stormy debate after far-right election win - BBC
+- Here’s How the Postal Service Could Refuse to Deliver Your Mail Ballot - The New York Times
+- Trump administration proposes changes to census that could exclude millions - The Washington Post
+- U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns - NPR
+- Temporary protections for about 200,000 Salvadoran immigrants are in limbo as deadline nears - AP News
 - Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts - The Guardian
 - Holdout juror in Clancy case admitted ‘reasonable doubt,’ foreperson says - The Washington Post
-- Missouri court opens contempt probe into Republican official over redistricting fight - NBC News
-- Andrew Tate is denied bail and will remain in jail during his extradition fight - NPR
-- Trump's trade war with Canada is increasingly reliant on a disputed 95-year-old tariff law - Yahoo Finance
-- Trump administration proposes changes to census that could exclude millions - The Washington Post
-- Which countries banned goods from settlements but trade with Israel? - Al Jazeera
-- Police launch investigation into allegations Britain’s hard-right Reform UK party broke campaign finance law - CNN
-- Netanyahu says he’ll sue Haaretz over report UAE leader warned him days before Oct. 7 - timesofisrael.com
-- Norway bids final farewell to King Harald V with funeral attended by royalty and dignitaries - NBC News
+- Missouri Supreme Court summons Hoskins after he vows to use gerrymandered map - Kansas City Star
+- Tate brothers to remain in US jail as they fight extradition to UK - BBC
+- Qatari-gifted Air Force One deploys inflatable slide before departing for GOP convention in Texas - The Hill
+- British Police Expand Investigation Into Reform U.K. After Undercover Sting - The New York Times
+- Zelenskiy's plane almost hit by drone on Tuesday, Norway PM says - Reuters
+- Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move - BBC
+- Netanyahu says he’ll sue Haaretz over report UAE leader warned him days before Oct. 7 - The Times of Israel
 - Stock Market Today: 10-Year Treasury Yield Hits Multiyear High; Oil Touches $100 — Live Updates - WSJ
-- Brent crude oil rises above $100 a barrel as Middle East conflict intensifies - Reuters
 - Anthropic researchers say AI could cause human extinction by 2030 - The Guardian
-- ‘I am the house now’: Bessent warns currency traders not to bet against yen - Financial Times
-- Apple Announces Apple Watch Series 12 With S11 Chip, Upgraded Health Sensors and Ceramic Models - MacRumors
-- Apple announces AirPods 5 with ‘best-in-class open‑ear active noise cancellation’ - The Verge
+- Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - AP News
+- Ford blasts White House criticism of China tech partners, calls Duffy letter 'wrongheaded' - Yahoo Finance
+- Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999 - The New York Times
+- Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day - TechCrunch
