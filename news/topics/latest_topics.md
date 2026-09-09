@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-09 00:53_
+_Updated: 2026-09-09 03:23_
 
 ## Top Stories
 
-- Lina Lund: Ett instabilt Tyskland är det sista Bryssel behöver - Dagens Nyheter
+- DN Direkt – S anklagar SD för att vara infiltrerat av Putinvänner - Dagens Nyheter
+- Norrmännen tar sitt sista farväl av kung Harald - Göteborgs-Posten
+- Vi har en mandatperiod på oss - Dagens Arena
 - USA förstör fem iranska oljetankfartyg – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Håkan Boström: V är ett större bekymmer än SD för Sveriges säkerhet - Göteborgs-Posten
-- Lena Skogberg Pressad kungafamilj följer kung Harald till sista vilan - Hufvudstadsbladet – HBL
-- Göran Eriksson: Trumps chansning skrämmer de egna - Svenska Dagbladet
-- JOHAN RUDSTRÖM: Ytterst vältajmade siffror för Mohamsson (L) - unt.se
-- Man klämdes under traktor – avled - SVT Nyheter
-- Två barn försvann i Tidaholm – hittades efter tre timmar - SVT Nyheter
-- Busch om Åkesson: ”Det är väldigt märkligt” - Aftonbladet
+- Thand Ringqvist pressas i regeringsfrågan – Senaste nytt om valet 2026 - SVT Nyheter
+- JEANETTE WIDÉN: Läsförståelse är en del av Sveriges motståndskraft - NT
+- Klämdes fast under traktor – man död - Västerbotten | Folkbladet
+- Försvunna barnen i Tidaholm har hittats - Omni – Alla nyheter. Alla perspektiv.
 - Hyllade terror och spred judehat – bjöds in av V till riksdagen - Göteborgs-Posten
-- Trumps karta väcker ilska i Norden: ”Helt oacceptabelt” - Dagens Nyheter
-- New York mörkade förgiftad luft efter terrordåd - Göteborgs-Posten
+- Marcus Svensson Här är sanningen som SD och V inte vill veta av – så lika är de - Sydsvenskan
+- DN Direkt – Mamdani: New York mörkade förgiftad luft efter terrordåd - Dagens Nyheter
+- Gränsstationen utraderades: ”Kan inte sluta leta” - Västerbottens-Kuriren
 - Marcus Lindqvist Förhandlingen bara ett sidospår för Putin - Hufvudstadsbladet – HBL
 - Minst två döda i attacker mot Kiev - Corren
-- Stigande oljepris sänkte börsen: ”Prisar in långvarig konflikt” - EFN
-- Affärsvärlden slopar köprådet för Cloetta och sänker till neutral - Affärsvärlden
+- Trög start på USA-börserna - Placera.se
 - Göteborg: Halverat pris gav rusning till Västtrafik - Aftonbladet
-- Oljepriset stiger för tredje dagen i rad - Placera.se
+- Små rörelser på Europabörser – gruvbolag vinnare - Dagens industri
+- Börsen vänder upp – oljepriset nära 100 dollar - Västerbottens-Kuriren
+- ”The Legend of Zelda: Ocarina of Time” remake – så blir spelet - Aftonbladet
 - ”GTA VI” leder till akut Playstation-brist i Sverige - Omni – Alla nyheter. Alla perspektiv.
-- Jämförelse av den hopfällbara iPhone Ultra och iPhone 18 Pro Max: Tre viktiga tekniska skillnader. - Vietnam.vn
 
 ## World News
 
 - Lövdal om finalen – och flytten till klassiska gården - Travronden
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- England defender Bronze backs UEFA in standoff with FIFA and Infantino - reuters.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - media.smart.com
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
 - GMMP: Global backlash syns i världens medier - fempers.se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Visual Art köper Global Agencies - Dagens Media
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Kenya: Using social media for manipulation and suppression - globalbar.se
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Shock as government axes funding for SDGs-related research - University World News
+- Shock as government axes funding for SDGs-related research - universityworldnews.com
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
@@ -55,7 +55,6 @@ _Updated: 2026-09-09 00:53_
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -70,6 +69,7 @@ _Updated: 2026-09-09 00:53_
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
+- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 
 ## Business
 
@@ -95,7 +95,7 @@ _Updated: 2026-09-09 00:53_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
@@ -104,13 +104,13 @@ _Updated: 2026-09-09 00:53_
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Vi presenterar HealthBench - openai.com
+- Vi presenterar HealthBench - OpenAI
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Hälsa på recept har stor effekt mot hjärt-kärlsjukdom - Karolinska Institutet
@@ -119,7 +119,7 @@ _Updated: 2026-09-09 00:53_
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- AI för vetenskaplig forskning och upptäckter - openai.com
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
@@ -146,13 +146,13 @@ _Updated: 2026-09-09 00:53_
 - Sveriges förändrade lantbruk - slu.se
 - Framtidens jordbruk - European Commission
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
+- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - atl.nu
 - Lantbrukslogik – nu och i framtiden - slu.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- Här är världens största jordbruk - ATL
+- Här är världens största jordbruk - atl.nu
 - Jord, kor och klimat - slu.se
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - slu.se
