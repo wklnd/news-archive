@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-09 16:47_
+_Updated: 2026-09-09 20:50_
 
-- Republicans kick off a 'Trumpapalooza' of a midterm convention Wednesday in Texas - NPR
-- Iran attacks vessels, US base in Jordan after tankers sunk - The Hill
-- Competing court orders add confusion to Missouri congressional elections - AP News
+- Apple event live updates: Ternus announces iPhone 18 Pro and Pro Max in new colors - CNBC
+- Iran attacks US forces in Jordan as Strait of Hormuz tensions escalate - Fox News
+- Republican midterm convention 2026: What to know about Trump’s Dallas event - Al Jazeera
 - Germany's Merz attacks AfD in stormy debate after far-right election win - BBC
-- Trump bans some Canadian imports as North America trade war intensifies - Axios
-- Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move - BBC
-- Three Jurors in Clancy Trial Describe Frustration With Holdout - The New York Times
-- Courtroom erupts with relief, anger as Nordquist killers get life sentence: ‘You’re the devil!’ - Syracuse.com
-- Trump gave Natalie Harp and two other aides $45,000 each in cash gifts for holidays - CNN
-- New Hampshire Senate Primary Election 2026 Live Results: Chris Pappas, Karishma Manzur, John Sununu and More - NBC News
-- Anthropic insiders warn AI could kill all humans - Axios
-- Police launch criminal investigation into Reform UK donations - BBC
-- 4,300-year-old tomb of judge and his father discovered in Egypt: "Exceptionally well-preserved" - CBS News
-- Yemen's Houthi rebels say Saudi-backed forces launched airstrikes, and other key Mideast news - AP News
+- Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts - The Guardian
+- Holdout juror in Clancy case admitted ‘reasonable doubt,’ foreperson says - The Washington Post
+- Missouri court opens contempt probe into Republican official over redistricting fight - NBC News
+- Andrew Tate is denied bail and will remain in jail during his extradition fight - NPR
+- Trump's trade war with Canada is increasingly reliant on a disputed 95-year-old tariff law - Yahoo Finance
+- Trump administration proposes changes to census that could exclude millions - The Washington Post
+- Which countries banned goods from settlements but trade with Israel? - Al Jazeera
+- Police launch investigation into allegations Britain’s hard-right Reform UK party broke campaign finance law - CNN
+- Netanyahu says he’ll sue Haaretz over report UAE leader warned him days before Oct. 7 - timesofisrael.com
+- Norway bids final farewell to King Harald V with funeral attended by royalty and dignitaries - NBC News
+- Stock Market Today: 10-Year Treasury Yield Hits Multiyear High; Oil Touches $100 — Live Updates - WSJ
 - Brent crude oil rises above $100 a barrel as Middle East conflict intensifies - Reuters
+- Anthropic researchers say AI could cause human extinction by 2030 - The Guardian
 - ‘I am the house now’: Bessent warns currency traders not to bet against yen - Financial Times
-- Crypto, banks take lobbying war to US senators' home states ahead of key vote - Reuters
-- Fearless US stock market vulnerable to shocks as midterms loom - Reuters
-- Apple expected to unveil first folding phone, with new CEO Ternus in command - Reuters
-- iPhone 18 Pro Details Purportedly Leaked By Verizon's AI Assistant - MacRumors
+- Apple Announces Apple Watch Series 12 With S11 Chip, Upgraded Health Sensors and Ceramic Models - MacRumors
+- Apple announces AirPods 5 with ‘best-in-class open‑ear active noise cancellation’ - The Verge
