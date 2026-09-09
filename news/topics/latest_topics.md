@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-09 13:44_
+_Updated: 2026-09-09 18:49_
 
 ## Top Stories
 
-- President Stubb i inre kretsen då kung Harald begravs - Hufvudstadsbladet – HBL
-- Dom i mål om mord i Brattås 2005 - Sveriges Domstolar
-- Polisinsats på Sannaskolan - Göteborgs-Posten
-- Professorn: Här finns nycklarna till att vända läskrisen - Dagens Nyheter
-- SMHI varnar för skyfall i länet - SVT Nyheter
-- Attacker i Ukraina – flera döda - Göteborgs-Posten
-- Busch i topp i ny förtroendemätning - Västerbottens-Kuriren
+- DN Direkt – L klart över spärren i ny TV4/Novus - Dagens Nyheter
+- Nu hyllas kung Haakon – Harald V vilar i kryptan - Göteborgs-Posten
 - Larmet växer: Över 100 personer matförgiftade efter resa till Västervik - SVT Nyheter
-- Efter Pisachocken – så vill partierna fixa skolan - Svenska Dagbladet
-- Svensk anstiftare gripen i Spanien - polisen.se
-- Uppgifter: Tiotals saudiska attacker i Jemen - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Iran och USA utbyter nya attacker - Dagens Nyheter
+- Moderaterna hänger upp smygtagna bilden på Södermalm - Aftonbladet
+- 30 år gammal dom hopp för lotsen som körde fartyget vid tragedin - Dagens Nyheter
+- SMHI varnar för skyfall och åska - Enköpingsposten
+- Professorn: Här finns nycklarna till att vända läskrisen - Dagens Nyheter
+- C-ledaren beredd på extraval om V släpps in - Göteborgs-Posten
+- En person gripen misstänkt för mordförsök på Sannaskolan - Göteborgs-Posten
+- Valmyndigheten: Kommunerna som inte berörs av felet - Dagens Nyheter
+- Tystnad från Trump efter britternas drag mot israeliska bosättare - Dagens Nyheter
+- Attacker i Ukraina – flera döda - Göteborgs-Posten
 - Iran attackerar amerikanska krigsfartyg - Corren
-- Merz: AFD kräver etnisk rensning - Göteborgs-Posten
+- DN Direkt – Marockos roll i Ceuta ska utredas av spansk domare - Dagens Nyheter
+- Pizza Hut försatt i konkurs – restaurangerna stängda - nt.se
 - DN Direkt – Börsen faller och oljepriset lyfter - Dagens Nyheter
-- Pizza Hut försatt i konkurs – restaurangerna stängda - NT
-- Storvarsel på Resurs Bank – upp till 100 tjänster berörs - di.se
-- Handelsbanken: Styrräntan höjs i december - Market.se
-- Nu ska Chrome uppdateras varannan vecka - Computer Sweden
-- Apples troliga drag – vikbar telefon - Svenska Dagbladet
+- SB1 ser Lundin Mining som ett 'självklart val' inom gruvsektorn - höjer riktkursen - placera.se
+- Macken tömde Dianas konto – kunder drabbade i hela Sverige - Filipstads Tidning
+- Apples troliga drag – vikbar telefon - Aftonbladet
+- Strandberg: ”GTA 6 är dumma människors Ocarina of Time” - Cafe.se
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- England defender Bronze backs UEFA in standoff with FIFA and Infantino - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart.com
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- GMMP: Global backlash syns i världens medier - fempers.se
-- Möt Johanna Flood, journalisten som blev global miljöchef - new.abb.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Visual Art köper Global Agencies - Dagens Media
+- Visual Art köper Global Agencies - dagensmedia.se
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Shock as government axes funding for SDGs-related research - University World News
+- England defender Bronze backs UEFA in standoff with FIFA and Infantino - reuters.com
+- Greek farmers have forced shutdown of Crete airport - Sky News
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
@@ -55,21 +55,21 @@ _Updated: 2026-09-09 13:44_
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
@@ -97,35 +97,35 @@ _Updated: 2026-09-09 13:44_
 ## Health
 
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Markerar 15 år av att skydda den globala hälsosektorn - health-isac.org
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Vi presenterar HealthBench - OpenAI
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - di.se
+- Vi presenterar HealthBench - openai.com
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Global katastrofmedicin - hälsobehov och insatser – Johan von Schreebs forskargrupp - Karolinska Institutet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Hälsa på recept har stor effekt mot hjärt-kärlsjukdom - Karolinska Institutet
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 
 ## Science
 
-- Activities for the public – Department of Earth Sciences - uu.se
-- AI för vetenskaplig forskning och upptäckter - OpenAI
+- Activities for the public – Department of Earth Sciences - Uppsala universitet
+- AI för vetenskaplig forskning och upptäckter - openai.com
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Sherry Nakhaeizadeh - uu.se
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
@@ -136,7 +136,7 @@ _Updated: 2026-09-09 13:44_
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Enheten för öron-, näs- och halssjukdomar - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - uu.se
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Torsten Persson utsedd till vice ordförande i ERC:s vetenskapliga råd - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
@@ -146,13 +146,13 @@ _Updated: 2026-09-09 13:44_
 - Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Brittiska bönder i massiv protest mot arvsskatten - ja.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Framtidens jordbruk är här - Shaping Europe’s digital future
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
