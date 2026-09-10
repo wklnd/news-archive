@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-10 07:16_
+_Updated: 2026-09-10 12:02_
 
-- Trump promises $5,000 ‘dividend’ for US voters if Republicans win midterms - Financial Times
+- Trump’s $5,000 Payout Promise Underscores GOP Midterm Peril - Bloomberg.com
+- Fetterman praises Trump in bombshell GOP convention video - Axios
 - Rhode Island’s Democratic governor loses primary amid anger over bridge - The Guardian
-- 'Pretend I'm on the ballot' in November's elections, Trump says at Republican midterms convention - BBC
-- Trump administration proposes changes to census that could exclude millions - The Washington Post
-- 'The whole beach is gone': Big waves, flooding bring destruction to SoCal coast. It's a warning - Los Angeles Times
-- Hurricane Lowell leaves trail of destruction across Kauai - NBC News
-- Supreme Court is asked to settle Missouri dispute causing electoral chaos - The Washington Post
-- Trump's trade war with Canada is increasingly reliant on a disputed 95-year-old tariff law - Yahoo Finance
 - Trump says the war in Iran will end after Election Day - NBC News
-- Lindsay Clancy juror who backed the defense also publicly cheered Karen Read's acquittal - Fox News
-- Zelenskyy's plane almost hit by drone en route to Norway king's funeral, prime minister says - cbsnews.com
-- Muted US response to UK's West Bank sanctions may reflect simmering frustration - BBC
-- British Police Expand Investigation Into Reform U.K. After Undercover Sting - nytimes.com
-- August declared the hottest month ever recorded - politico.eu
-- The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’ - WIRED
-- Widow files new suit alleging botched landing maneuvers, aircraft safety failures in Amazon jet crash - Fox Business
+- A Hostile Trump Reopens Old Wounds in the U.S.-Canada Relationship - The New York Times
+- Apple’s new CEO John Ternus reveals the foldable iPhone Duo - CNN
+- Trump administration proposes excluding certain immigrants from US census - Al Jazeera
+- Hurricane Lowell leaves trail of destruction across Kauai - NBC News
+- The Democrats who aren’t criticizing John Fetterman - Politico
+- Missouri redistricting chaos returns to US Supreme Court - CNN
+- Fire on passenger ferry in Philippines leaves dozens missing and at least 5 dead - AP News
+- August was joint-hottest month ever recorded globally - The Guardian
+- Spain’s spy agency warned of mass crossings into Ceuta before border crisis - Al Jazeera
+- Salvadorans to Keep Temporary Protected Status for Now, Trump Officials Say - The New York Times
+- A pilot of the Amazon cargo plane in Miami crash warned it was coming in too fast - NPR
+- An Anthropic safety researcher resigned with a warning about AI to co-workers on Slack - NBC News
+- Iran War Updates: Oil tops $100 per barrel as U.S. fighter jets are damaged in Iranian strikes on Jordan - CBS News
 - Stock Market News, Sept. 9, 2026: 10-Year Yield Jumps as Treasury Buyback Plan Disappoints Investors - WSJ
-- Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - AP News
-- CNBC Daily Open: Apple's new iPhone bends. Bond vigilantes, not so much - CNBC
+- iPhone 18 Pro and iPhone Duo Feature Apple's New C2 Modem [Updated] - MacRumors
 - If Meta Glasses Freak You Out, Wait Until You Hear About the New Apple Watch Features - Gizmodo
