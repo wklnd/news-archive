@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-10 12:02_
+_Updated: 2026-09-10 16:38_
 
-- Trump’s $5,000 Payout Promise Underscores GOP Midterm Peril - Bloomberg.com
-- Fetterman praises Trump in bombshell GOP convention video - Axios
-- Rhode Island’s Democratic governor loses primary amid anger over bridge - The Guardian
-- Trump says the war in Iran will end after Election Day - NBC News
-- A Hostile Trump Reopens Old Wounds in the U.S.-Canada Relationship - The New York Times
-- Apple’s new CEO John Ternus reveals the foldable iPhone Duo - CNN
-- Trump administration proposes excluding certain immigrants from US census - Al Jazeera
-- Hurricane Lowell leaves trail of destruction across Kauai - NBC News
-- The Democrats who aren’t criticizing John Fetterman - Politico
-- Missouri redistricting chaos returns to US Supreme Court - CNN
-- Fire on passenger ferry in Philippines leaves dozens missing and at least 5 dead - AP News
-- August was joint-hottest month ever recorded globally - The Guardian
-- Spain’s spy agency warned of mass crossings into Ceuta before border crisis - Al Jazeera
-- Salvadorans to Keep Temporary Protected Status for Now, Trump Officials Say - The New York Times
-- A pilot of the Amazon cargo plane in Miami crash warned it was coming in too fast - NPR
-- An Anthropic safety researcher resigned with a warning about AI to co-workers on Slack - NBC News
-- Iran War Updates: Oil tops $100 per barrel as U.S. fighter jets are damaged in Iranian strikes on Jordan - CBS News
-- Stock Market News, Sept. 9, 2026: 10-Year Yield Jumps as Treasury Buyback Plan Disappoints Investors - WSJ
-- iPhone 18 Pro and iPhone Duo Feature Apple's New C2 Modem [Updated] - MacRumors
-- If Meta Glasses Freak You Out, Wait Until You Hear About the New Apple Watch Features - Gizmodo
+- Trump says every adult American will get $5,000 if Republicans win midterms - BBC
+- Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast - theguardian.com
+- Year after Charlie Kirk's death, conservative students struggle to fill void he left - BBC
+- Fetterman praises Trump in bombshell GOP convention video - axios.com
+- Missouri fight over gerrymandered congressional map heading back to US Supreme Court - missouriindependent.com
+- Dan McKee becomes first governor in 8 years to lose primary - Politico
+- ‘Waste of energy’: Senate Democrats are sitting out the John Fetterman pile-on - Politico
+- Democrats play up Trump investigations, Epstein files during GOP convention in Dallas - The Washington Post
+- Iran is running out of options, Trump says, as US military continues to hit regime - Fox News
+- California, other states warn Supreme Court of ‘chaos’ if it lets USPS mail ballot rules stand - Los Angeles Times
+- Scientists say August was Earth's hottest month they've measured - NPR
+- Sánchez’s release of declassified Ceuta files turns into ‘own goal’ - politico.eu
+- EXCLUSIVE: NATO allies foil Russian subsea cable sabotage plot - Reuters
+- A fire on a passenger ferry in the Philippines leaves at least 5 dead and dozens missing - AP News
+- 'Seems Like A Setup': Musk Mocks Ex-Anthropic Staffer's Warnings On AI Extinction Risks - Forbes
+- Oil jumps to $105 a barrel after Middle East tanker attacks escalate - Reuters
+- Bessent fails to shock and awe the bond market - axios.com
+- Stock Market Today: Dow, S&P 500 and Nasdaq open lower as U.S. oil prices surge to $100 a barrel and Treasury yields climb; Oracle earnings on tap - MarketWatch
+- 'Welcome to Foldables': Samsung braces for Apple's foldable iPhone challenge - Reuters
+- Apple makes biggest change to iPhone release cadence in 7 years in Ternus' first showcase as CEO - CNBC
