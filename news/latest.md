@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-09 23:56_
+_Updated: 2026-09-10 02:48_
 
-- Republican midterm convention 2026: What to know about Trump’s Dallas event - Al Jazeera
-- Here’s How the Postal Service Could Refuse to Deliver Your Mail Ballot - The New York Times
+- Republicans kick off a 'Trumpapalooza' of a midterm convention Wednesday in Texas - NPR
 - Trump administration proposes changes to census that could exclude millions - The Washington Post
-- U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns - NPR
-- Temporary protections for about 200,000 Salvadoran immigrants are in limbo as deadline nears - AP News
-- Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts - The Guardian
-- Holdout juror in Clancy case admitted ‘reasonable doubt,’ foreperson says - The Washington Post
-- Missouri Supreme Court summons Hoskins after he vows to use gerrymandered map - Kansas City Star
-- Tate brothers to remain in US jail as they fight extradition to UK - BBC
+- 'The whole beach is gone': Big waves, flooding bring destruction to SoCal coast. It's a warning - Los Angeles Times
+- Here’s How the Postal Service Could Refuse to Deliver Your Mail Ballot - nytimes.com
+- Trump says oil prices that spiked because of Iran war likely won't come down until after midterms - AP News
+- Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show - BBC
+- Polls close in Rhode Island as traffic drama threatens to end Dem governor's tenure - Fox News
+- Missouri redistricting fight heads back to Supreme Court - NBC News
 - Qatari-gifted Air Force One deploys inflatable slide before departing for GOP convention in Texas - The Hill
-- British Police Expand Investigation Into Reform U.K. After Undercover Sting - The New York Times
-- Zelenskiy's plane almost hit by drone on Tuesday, Norway PM says - Reuters
-- Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move - BBC
-- Netanyahu says he’ll sue Haaretz over report UAE leader warned him days before Oct. 7 - The Times of Israel
-- Stock Market Today: 10-Year Treasury Yield Hits Multiyear High; Oil Touches $100 — Live Updates - WSJ
-- Anthropic researchers say AI could cause human extinction by 2030 - The Guardian
-- Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - AP News
+- New Accuser Sues Foundations With Ties to Cesar Chavez - nytimes.com
+- Drone almost struck Zelenskyy’s plane, says Ukraine - Financial Times
+- Muted US response to UK's West Bank sanctions may reflect simmering frustration - BBC
+- British Police Expand Investigation Into Reform U.K. After Undercover Sting - nytimes.com
+- Spain’s spy agency warned of plans to storm Ceuta before mass migrant crossing, documents show - CNN
+- Anthropic researcher resigns with warning about the dangers of AI development - AP News
+- Bessent Yen Jawboning Risks Raising Expectations BOJ Can’t Meet - Bloomberg.com
 - Ford blasts White House criticism of China tech partners, calls Duffy letter 'wrongheaded' - Yahoo Finance
-- Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999 - The New York Times
-- Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day - TechCrunch
+- Bessent’s move to tamp down rising rates backfires as bond yields jump and stocks tumble - NBC News
+- Apple event live: iPhone Duo, iPhone 18 Pro & watches announced - Yahoo Finance
+- The Apple Watch Gets Its Siri AI Upgrade - WIRED
