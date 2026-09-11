@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-11 21:18_
+_Updated: 2026-09-11 23:55_
 
-- Trump commemorates the 25th anniversary of the 9/11 attacks at the Pentagon - AP News
-- Why gains by Iran-backed Houthis in Yemen could push gas prices even higher - NPR
-- Facing Islamophobic Attacks, Mamdani Keeps Focus on 9/11 Victims - The New York Times
+- America remembers 9/11 as 25th anniversary ceremonies unfold - Fox News
+- Houthis control key shipping route after gains along Yemen’s Red Sea coast - Al Jazeera
+- Facing Islamophobia, Mamdani Keeps Focus on 9/11 Victims - The New York Times
 - Lutnick says Trump’s $5,000 checks for Americans wouldn’t rely on taxpayer funds - NBC News
-- Saudi Arabia shut down East-West crude oil pipeline after multiple attacks - CNBC
 - 4 takeaways from the GOP midterm convention - The Washington Post
+- Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war - BBC
+- In photos: Remembering the Sept. 11 attacks, 25 years later : The Picture Show - npr.org
+- Domestic violence allegations raise questions about holdout juror in Lindsay Clancy trial - NBC Boston
 - Afghan woman in Texas dubbed an "alien terrorist" is deported in DOJ's first case using obscure court - CBS News
-- ‘It was heartbreaking; it was painful’: Lindsay Clancy juror recounts what happened behind closed doors during deliberations - bostonglobe.com
-- A Fun Run Reveals Anxieties in a Black L.A. Neighborhood - The New York Times
-- Architect of billionaire tax tried to 'extort' support for the measure and targeted women, union reports find - Los Angeles Times
-- Death toll in Philippine ferry fire rises to 35 as more bodies are recovered - AP News
-- UK lawmakers reject bid to legalise assisted dying - Reuters
-- As immigration status for Salvadorans remains in limbo, businesses begin layoffs - The Washington Post
-- Israel says it has destroyed major underground Hezbollah base - BBC
-- Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC
-- Kevin Warsh under mounting pressure to raise rates as US inflation persists - Financial Times
-- Congress gripped by AI panic after doomsday warnings - Axios
-- Stock Market Today: Dow Jumps Nearly 600 Points After CPI Surprise; Shipping Name Breaks Out (Live Coverage) - Investor's Business Daily
-- iPhone Duo vs. Pixel 11 Pro Fold: 2 Durable Foldables Face Off - CNET
+- How 9/11 changed Howard Lutnick - Politico
+- U.K. Parliament rejects bill to allow assisted dying for the terminally ill - The Washington Post
+- Death toll in Philippines ferry fire rises to 35 as more bodies are recovered - NBC News
+- Anthropic details bad actors’ efforts to misuse its AI for bioweapons - The Guardian
+- Blast Shakes Southern Lebanon as Israel Destroys Underground Hezbollah Base - The New York Times
+- Feds declare record-setting cyclospora outbreak over - Politico
+- US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods - AP News
+- Hugging Face CEO on Anthropic researcher's AI warning: 'Like asking your AC guy about climate change' - Business Insider
+- US consumer prices accelerate in August, push Fed closer to rate hike - Reuters
+- Apple on wide Android foldables beating iPhone Duo; ‘they got the aspect ratio’ - 9to5google.com
 - Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - Mashable
