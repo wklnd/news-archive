@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-11 01:23_
+_Updated: 2026-09-11 03:27_
 
+- Trump's $5,000 dividend would reignite inflation and swell the U.S. deficit, economists say - CBS News
 - Republican Convention Live Updates: Vance and Trump to Speak on Day 2 of Midterm Event - The New York Times
-- Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast - theguardian.com
-- One year later: Charlie Kirk was killed answering Utah student Hunter Kozak's question - The Salt Lake Tribune
-- Missouri is poised to revert to former congressional districts after court rejects Trump-backed map - AP News
-- ‘We felt defeated’: Lindsay Clancy juror provides new details about the lone holdout - NBC News
-- Democrats play up Trump investigations, Epstein files during GOP convention in Dallas - The Washington Post
+- Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping - AP News
+- Arizona Gov. Hobbs vetoes bills celebrating Charlie Kirk’s life - The Center Square
 - Prosecutor who led ‘grand conspiracy’ probe of Trump targets resigns without charging anyone - NBC News
-- Denver sues to block ICE officers from voting sites - thehill.com
-- Vance doesn't want to talk 2028. Republicans are chanting ‘48.’ - politico.com
-- San Francisco mayor declares rent emergency as housing costs soar - theguardian.com
-- Sánchez’s release of declassified Ceuta files turns into ‘own goal’ - politico.eu
-- Timeline: How a Russian drone nearly hit Zelenskyy's plane in Moldova - Euronews.com
-- NATO allies foil Russian subsea cable sabotage plot - defensenews.com
+- Supreme Court again blocks new Missouri congressional map favoring GOP - washingtonpost.com
+- Lindsay Clancy’s lawyer asks the judge to spare her a second trial for killing her children - AP News
+- Denver sues to block ICE officers from voting sites - The Hill
+- San Francisco mayor declares rent emergency as housing costs soar - The Guardian
+- California governor signs laws aimed at protecting kids from risks of social media, AI chatbots - AP News
+- Spain’s spy agency warned of mass crossings into Ceuta before border crisis - Al Jazeera
 - Bayeux Tapestry Exhibition Opens at British Museum - The New York Times
-- People are flooding X with joke resignation announcements imitating the viral AI extinction warning - Business Insider
-- S&P 500 ends down as Treasury yields rise and traders fret about inflation - Reuters
-- Anthropic Says It Blocked Possible Efforts to Build Biological Weapons - The New York Times
-- Treasury yields surge after Bessent’s beefed-up buyback operation fails to calm market - MarketWatch
-- Apple’s big goal after foldable iPhone - Financial Times
-- iPhone 18 Pro and Pro Max Benchmarks Reveal Speed of A20 Pro Chip - MacRumors
+- A change in immigration status threatens thousands of Salvadoran immigrants in the D.C. region - WAMU
+- North Korea has built a new uranium enrichment facility, UN’s nuclear watchdog says - CNN
+- Stock Market on Sept. 10, 2026: Dow, S&P 500 and Nasdaq end lower as U.S. oil prices surge to more than $100 a barrel and Treasury yields jump; stocks book 4th straight day of losses - MarketWatch
+- Anthropic details bad actors’ efforts to misuse its AI for bioweapons - The Guardian
+- Two AI researchers leave Anthropic and Google over safety concerns: ‘There are no adults in the room’ - NBC News
+- Bond rout as it happened: US Treasury yields rise to session highs after Scott Bessent’s buyback operation undershoots target; ECB raises interest rates - Financial Times
+- The iPhone Duo enters China’s crowded foldable market — and faces a price test - CNBC
+- Here are the iPhone 18 Pro and iPhone 18 Pro Max Geekbench scores - GSMArena.com news - GSMArena.com
