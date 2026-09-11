@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-11 08:37_
+_Updated: 2026-09-11 13:48_
 
-- Trump-Vance’s US midterm pitch: vote Republican or live with the ‘lunatics’ - Financial Times
-- JD Vance to invoke Charlie Kirk, family ‘birthright’ in fiery midterm keynote speech thrashing Dems - Fox News
-- Trump reveals why $5,000 checks can wait until after the midterms - Axios
-- Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping - AP News
+- Empty seats, socialism and Trump dominate the Republican midterm convention - NPR
+- Live updates: America marks the 25th anniversary of 9/11 - CNN
+- Yemen's Houthis seize strategic Red Sea port of Mokha - BBC
 - Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt - BBC
-- Lindsay Clancy juror can’t shake feeling jury failed by not reaching verdict - The Boston Globe
-- Missouri Supreme Court finds Hoskins ‘disingenuous’ about 2022 congressional map use decision - fox4kc.com
-- A Year After Charlie Kirk’s Killing, a Divided Utah Campus Honors Him - The New York Times
-- Kauai 'in dire straits' after Hurricane Lowell - SFGATE
-- California enacts new curbs on social media for children - CNBC
-- Spain's spy agency warned of Ceuta border breach before crisis, declassified files show - cbsnews.com
-- MPs to vote on legalising assisted dying in England and Wales - BBC
-- Why a Russian screening of an 81-year-old Soviet-era film to a tiny audience has alarmed Taiwan - Reuters
-- Trump administration silence has 200,000 Salvadoran immigrants hoping they’re protected - AP News
-- Anthropic says it blocked misuse of its AI that could have supported biological weapons - AP News
-- Two AI researchers leave Anthropic and Google over safety concerns: ‘There are no adults in the room’ - NBC News
-- Scott Bessent fails to break ‘fever’ in US bond market - Financial Times
-- The CPI report arrives tomorrow. It could determine whether the Fed hikes rates next week. - cbsnews.com
+- Trump reveals why $5,000 checks can wait until after the midterms - Axios
+- 'We let down Lindsay,' says juror who served in Clancy trial - WCVB
+- Missouri Supreme Court finds Hoskins ‘disingenuous’ about 2022 congressional map use decision - FOX4KC.com
+- Capitol agenda: Trump tells Republicans to vote or ‘go to hell’ - Politico
+- Tourists should skip Kauai for now as it recovers from Hurricane Lowell, officials say - AP News
+- Trial remains elusive for purported mastermind accused of plotting 9/11 attacks - AP News
+- Behind the killer robots of Ukraine's new warfare 'revolution' - Reuters
+- Hong Kong’s Tiananmen vigil organizers handed lengthy prison terms - CNN
+- Modi and Xi are set to meet at BRICS with trade and border issues in spotlight - CNBC
+- Anthropic says it blocked possible efforts to use AI for biological weapons development, Iran-linked cases - Fox Business
+- Inflation report lands in a time of spiking oil prices, rising interest rates and Fed on fence - AP News
+- Oil Remains Elevated and Diesel Hits $6 a Gallon as Middle East Tensions Mount - The New York Times
+- Why So Many AI Researchers Think the Machines Could Kill Everyone - WIRED
+- Stock Market on Sept. 10, 2026: Dow, S&P 500 and Nasdaq end lower as U.S. oil prices surge to more than $100 a barrel and Treasury yields jump; stocks book 4th straight day of losses - MarketWatch
 - Apple’s foldable iPhone poses a $1,999 question: Who is it for? - Reuters
-- Here are the iPhone 18 Pro and iPhone 18 Pro Max Geekbench scores - GSMArena.com news - GSMArena.com
+- Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - Mashable
