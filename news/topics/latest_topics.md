@@ -1,34 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-11 03:22_
+_Updated: 2026-09-11 08:28_
 
 ## Top Stories
 
+- Flicka utreds för mordplaner – hade kontakt med Liam Nebel - Sveriges Radio
+- Är Magdalena Andersson på väg att göra en Sahlin? - Svenska Dagbladet
 - Mycket politik i tv - 8 Sidor
-- S-ledaren: ”Inte ovanligt att män kallar bestämda kvinnor för sura” - Dagens Nyheter
-- Rekordkö för röstning på NUS i kväll - Västerbottens-Kuriren
-- Olycka med turistbuss i Schweiz kräver dödsoffer - SVT Nyheter
-- Algeriet bryter förbindelser - Svenska Dagbladet
+- Banthita, 20, tonårsutvisad till Thailand – familjens kamp - Aftonbladet
+- Tomas Ramberg: Tidöpartierna hoppas att surast förlorar - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Flera skadade i nattliga attacker mot Kiev - Dagens Nyheter
+- Misshandel i Bromölla – man till sjukhus - SVT Nyheter
+- Håkan Boström: Läskrisen hotar nu på allvar svensk skola - Göteborgs-Posten
+- Talmannen: Partier bör vara redo överge röda linjer - Svenska Dagbladet
+- Indikator: Liberalerna över spärren – Senaste nytt om valet 2026 - SVT Nyheter
+- Kriget mot terrorn blev överlevaren Christophers terapi efter 11 september - Dagens Nyheter
+- Rasar mot världskarta – ögrupp framstår som rysk - hbl.fi
+- Uppgifter: Ryssar utbildas i strid i Bulgarien - Dagens Nyheter
 - Huthirebeller tar kontroll över viktig stad i Jemen – FN-sändebudet: ”Måste få ett slut” - SVT Nyheter
-- KARL MAGNUS MOULIN: Ungas krökta ryggar oroar mer än Pisa – men Snusk väcker hopp - Corren
-- Åkesson till Andersson : ”Varför är du så sur hela tiden?” – Senaste nytt om valet 2026 - SVT Nyheter
-- Kristersson: ”Bråkar inte med någon i Tidö” - Aftonbladet
-- Efter båtolyckan vid Tjörn – på torsdagen startade rättegången mot lotsen och befälhavaren - SVT Nyheter
-- Asylansökningarna sjunker kraftigt i EU - Göteborgs-Posten
-- HANS STIGSSON: Terrorattacken som förändrade hela världen - NT
-- Direkt – Kriget i Ukraina – Matbrist i Kiev efter ryska attacker - Dagens Nyheter
-- Zelenskyj vill träffa Trump sent i september - Folkbladet
 - Stockholmsbörsen föll – oljepriset fortsätter upp - Aftonbladet
-- Nedåt på Wall Street när oljepriset rusade - Västerbottens-Kuriren
-- Kopparpriset på högsta nivån någonsin - METALLERochGRUVOR.se
-- Ny obligationsoro – USA-ränta högsta sedan 2007 - Omni – Alla nyheter. Alla perspektiv.
-- ”Världsfrånvänt när Apple påstår att Iphone blir navet för AI-eran” - Ny Teknik
-- LANSERAR IPHONE 18 PRO (OMS) - Placera.se
+- Bessents obligationsköp misslyckas med att pressa ned USA-räntorna - FT - Placera.se
+- Bred nedgång i Asien – Nikkei faller över 2% - Affärsvärlden
+- Börsen ser ut att öppna något uppåt – oljepriser backar - Omni – Alla nyheter. Alla perspektiv.
+- Apple lanserar första vikbara Iphone - presenterar även Iphone 18 Pro och Airpods 5 - Placera.se
+- Här är Iphone 18 Pro – 40 procent snabbare med nytt superchip - Ny Teknik
 
 ## World News
 
 - Nederländerna vill köpa Saabs Global Eye - Dagens industri
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - news.cision.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart.com
@@ -44,7 +44,7 @@ _Updated: 2026-09-11 03:22_
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - news.cision.com
 - Kronprinsen fick ”stor summa” för avlyssning - Omni – Alla nyheter. Alla perspektiv.
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 
@@ -53,23 +53,23 @@ _Updated: 2026-09-11 03:22_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - computersweden.se
+- I år ska AI visa affärsnytta. Igen. - computersweden.se
+- USA och Kina dominerar stort när det gäller AI-patent - computersweden.se
+- Försäkringsbolag: AI är för riskabelt att försäkra - computersweden.se
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
+- Kraftigt ökad försäljning av AI-datorer - computersweden.se
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - computersweden.se
+- Nu kan Open AI:s Codex fjärrstyras via mobilen - computersweden.se
+- Albanien utser AI-bot till minister - computersweden.se
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - computersweden.se
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - computersweden.se
+- SVT ber om ursäkt för AI-skapat klipp i Agenda - computersweden.se
 
 ## Business
 
@@ -98,9 +98,9 @@ _Updated: 2026-09-11 03:22_
 - Nam Dan Medical Center har en ny chef. - Vietnam.vn
 - Aging Research Center (ARC) ‒ ett forskningscentrum för äldre personers hälsa och levnadsvillkor - Karolinska Institutet
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Khalid satsar på digital vård – mot fetma - st.nu
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
@@ -108,7 +108,7 @@ _Updated: 2026-09-11 03:22_
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
@@ -118,31 +118,31 @@ _Updated: 2026-09-11 03:22_
 
 ## Science
 
-- Vårddata för forskning – hinder och möjligheter - Läkartidningen
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- Activities for the public – Department of Earth Sciences - uu.se
 - AI för vetenskaplig forskning och upptäckter - OpenAI
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Sherry Nakhaeizadeh - Uppsala universitet
+- Sherry Nakhaeizadeh - uu.se
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- ”Research on bison completely wrong” - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Enheten för öron-, näs- och halssjukdomar - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
-- ”Research on bison completely wrong” - Forskning & Framsteg
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - uu.se
 - Torsten Persson utsedd till vice ordförande i ERC:s vetenskapliga råd - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
 - De blev grönsaksodlare tack vare lokalt stöd - Land.se
-- Jordbrukspolitik - Naturvårdsverket
+- Jordbrukspolitik - naturvardsverket.se
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
