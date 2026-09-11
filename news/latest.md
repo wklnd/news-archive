@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-11 13:48_
+_Updated: 2026-09-11 18:45_
 
-- Empty seats, socialism and Trump dominate the Republican midterm convention - NPR
-- Live updates: America marks the 25th anniversary of 9/11 - CNN
-- Yemen's Houthis seize strategic Red Sea port of Mokha - BBC
-- Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt - BBC
+- Live Updates: 25 years after Sept. 11 attacks, America reflects and remembers - CBS News
+- Houthis control key shipping route after gains along Yemen’s Red Sea coast - aljazeera.com
 - Trump reveals why $5,000 checks can wait until after the midterms - Axios
-- 'We let down Lindsay,' says juror who served in Clancy trial - WCVB
-- Missouri Supreme Court finds Hoskins ‘disingenuous’ about 2022 congressional map use decision - FOX4KC.com
-- Capitol agenda: Trump tells Republicans to vote or ‘go to hell’ - Politico
-- Tourists should skip Kauai for now as it recovers from Hurricane Lowell, officials say - AP News
-- Trial remains elusive for purported mastermind accused of plotting 9/11 attacks - AP News
-- Behind the killer robots of Ukraine's new warfare 'revolution' - Reuters
-- Hong Kong’s Tiananmen vigil organizers handed lengthy prison terms - CNN
-- Modi and Xi are set to meet at BRICS with trade and border issues in spotlight - CNBC
-- Anthropic says it blocked possible efforts to use AI for biological weapons development, Iran-linked cases - Fox Business
-- Inflation report lands in a time of spiking oil prices, rising interest rates and Fed on fence - AP News
-- Oil Remains Elevated and Diesel Hits $6 a Gallon as Middle East Tensions Mount - The New York Times
-- Why So Many AI Researchers Think the Machines Could Kill Everyone - WIRED
-- Stock Market on Sept. 10, 2026: Dow, S&P 500 and Nasdaq end lower as U.S. oil prices surge to more than $100 a barrel and Treasury yields jump; stocks book 4th straight day of losses - MarketWatch
-- Apple’s foldable iPhone poses a $1,999 question: Who is it for? - Reuters
+- RNC convention finale ‘all about Vance’ as GOP base looks to 2028 - The Hill
+- 9/11 then and now: Photos show how the World Trade Center area has changed - Yahoo
+- 9/11 widow blasts Saudi Arabia during annual ceremony - Axios
+- We’re still underrating 9/11’s impact - Slow Boring
+- Gov. Kehoe backs Hoskins as Missouri map battle shifts to appeals court - KCTV
+- ‘Like an apocalyptic movie’: How Americans remember the 9/11 attacks - NBC News
+- House eyes Tuesday vote on bill to curb data center costs - Politico
+- Inside an Ancient Lebanese City Engulfed by War - The New York Times
+- MPs vote against fresh move to legalise assisted dying in England and Wales - BBC
+- What to know about Sunday’s election in Sweden, NATO’s newest member - AP News
+- As Saudi tensions with Iran-backed Houthis escalate, mediator Pakistan faces pressure to choose a side - Reuters
+- US consumer inflation picks up in August - Reuters
+- Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC
+- Live Updates: Diesel hits record $6 a gallon as, reports say, Houthis take key territory along Red Sea - CBS News
+- Tech stocks rally as oil prices fall, inflation remains sticky: AlphaCheck - Yahoo Finance
+- iPhone Duo is Missing These 10 iPhone 18 Pro Features - MacRumors
 - Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - Mashable
