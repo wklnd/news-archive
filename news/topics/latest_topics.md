@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-11 21:56_
+_Updated: 2026-09-12 00:43_
 
 ## Top Stories
 
-- M och S bråkar om straffrabatterna – vad gäller? - Dagens Nyheter
-- 20-årig valarbetare grovt misshandlad – knackade dörr - Göteborgs-Posten
-- Misstänkt våldtäkt mot barn - 8 Sidor
-- Tidöpartiernas busskupp – inför slutdebatten: ”Vi är fyra” - TV4 Nyheterna
-- SVT/Verian: Liberalerna fortsätter rusa – tar väljare från Moderaterna - SVT Nyheter
+- Hård ton i sista partiledardebatten - Västerbottens-Kuriren
+- Henrik Torehammar: Äntligen genuina känslor i debatten - Svenska Dagbladet
+- Nyhetsshowen 11 september: TV-debatterna står som spön i backen - Göteborgs-Posten
+- Tomas Ramberg: Plötsligt beror valresultatet på muslimerna - Dagens Nyheter
+- ”Vi försökte springa därifrån” – Maja knackade dörr med valarbetare som misshandlades - Dagens Nyheter
+- Huthierna kontrollerar nu infarten till Röda havet - Västerbottens-Kuriren
+- Hårda orden efter debatten: ”Världsrekord i att skylla ifrån sig” - Dagens Nyheter
 - Mohamsson ryter till mot Andersson: ”Respektlöst” – Senaste nytt om valet 2026 - SVT Nyheter
 - Viktig information till dig som förtidsröstat i Kulturhuset den 28 augusti eller på Västerhaninge bibliotek den 31 augusti - Haninge kommun
 - Kaptenen: Juridiskt är jag skyldig - Göteborgs-Posten
-- Buffé pekas ut som källa till studenternas matförgiftning - SVT Nyheter
-- Stopp i ett körfält på grund av stillastående personbil på E4 - UNT
-- Huthierna kontrollerar nu infarten till Röda havet - SVT Nyheter
+- Ukraina: 150 000 ryssar samlade för offensiv - Dagens Nyheter
+- Zelenskyj: Sanktioner mot Ryssland behövs nu - Corren
+- Flera skadade i nattliga attacker mot Kiev - Göteborgs-Posten
 - DN Direkt – Storbritannien stoppar lag om dödshjälp - Dagens Nyheter
-- Flera skadade i nattliga attacker mot Kiev - Corren
-- Recension: Välskrivet och tankeväckande om världen efter 9/11 - Göteborgs-Posten
-- Jätteavtal: Google köper finsk kärnkraft - Svenska Dagbladet
-- Så slår minnesbristen: Dyrare Iphone och konsoler - Sydsvenskan
-- Miljarder av bankernas ”övervinster” har gått till arbetarrörelsen - Placera.se
-- NK:s kampanj sågas: ”Extremt stötande” - Svenska Dagbladet
+- Ny kraftig höjning av dieselpriset - Ekuriren
+- Stockholmsbörsen vände till plus efter amerikansk data - EFN
+- Wall Street lyfte när oljepriset sjönk - aftonbladet.se
+- Amerikansk räntehöjning allt mer sannolik - Affärsvärlden
+- iPhone 18 Pro och iPhone Duo har snabbare laddning tack vare en adapterhållare - notebookcheck.se
 - Så mycket fel hade ryktena om iPhone 18 Pro och den vikbara iPhone Duo - Ljud & Bild
-- ”Världsfrånvänt när Apple påstår att Iphone blir navet för AI-eran” - nyteknik.se
 
 ## World News
 
@@ -34,14 +34,14 @@ _Updated: 2026-09-11 21:56_
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Nederländerna vill köpa Saabs Global Eye - TV4 Nyheterna
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
@@ -52,7 +52,7 @@ _Updated: 2026-09-11 21:56_
 
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - iffs.se
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
@@ -75,6 +75,7 @@ _Updated: 2026-09-11 21:56_
 
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -83,13 +84,11 @@ _Updated: 2026-09-11 21:56_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Connect Companies växer – anställer två nya experter på integration och systemutveckling - Mynewsdesk
+- Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
 - Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
@@ -99,7 +98,7 @@ _Updated: 2026-09-11 21:56_
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Khalid satsar på digital vård – mot fetma - st.nu
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
@@ -144,11 +143,11 @@ _Updated: 2026-09-11 21:56_
 - De blev grönsaksodlare tack vare lokalt stöd - Land.se
 - Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
-- Framtidens jordbruk - commission.europa.eu
+- Framtidens jordbruk - European Commission
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Här är världens största jordbruk - ATL
