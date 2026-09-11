@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-11 03:27_
+_Updated: 2026-09-11 08:37_
 
-- Trump's $5,000 dividend would reignite inflation and swell the U.S. deficit, economists say - CBS News
-- Republican Convention Live Updates: Vance and Trump to Speak on Day 2 of Midterm Event - The New York Times
+- Trump-Vance’s US midterm pitch: vote Republican or live with the ‘lunatics’ - Financial Times
+- JD Vance to invoke Charlie Kirk, family ‘birthright’ in fiery midterm keynote speech thrashing Dems - Fox News
+- Trump reveals why $5,000 checks can wait until after the midterms - Axios
 - Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping - AP News
-- Arizona Gov. Hobbs vetoes bills celebrating Charlie Kirk’s life - The Center Square
-- Prosecutor who led ‘grand conspiracy’ probe of Trump targets resigns without charging anyone - NBC News
-- Supreme Court again blocks new Missouri congressional map favoring GOP - washingtonpost.com
-- Lindsay Clancy’s lawyer asks the judge to spare her a second trial for killing her children - AP News
-- Denver sues to block ICE officers from voting sites - The Hill
-- San Francisco mayor declares rent emergency as housing costs soar - The Guardian
-- California governor signs laws aimed at protecting kids from risks of social media, AI chatbots - AP News
-- Spain’s spy agency warned of mass crossings into Ceuta before border crisis - Al Jazeera
-- Bayeux Tapestry Exhibition Opens at British Museum - The New York Times
-- A change in immigration status threatens thousands of Salvadoran immigrants in the D.C. region - WAMU
-- North Korea has built a new uranium enrichment facility, UN’s nuclear watchdog says - CNN
-- Stock Market on Sept. 10, 2026: Dow, S&P 500 and Nasdaq end lower as U.S. oil prices surge to more than $100 a barrel and Treasury yields jump; stocks book 4th straight day of losses - MarketWatch
-- Anthropic details bad actors’ efforts to misuse its AI for bioweapons - The Guardian
+- Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt - BBC
+- Lindsay Clancy juror can’t shake feeling jury failed by not reaching verdict - The Boston Globe
+- Missouri Supreme Court finds Hoskins ‘disingenuous’ about 2022 congressional map use decision - fox4kc.com
+- A Year After Charlie Kirk’s Killing, a Divided Utah Campus Honors Him - The New York Times
+- Kauai 'in dire straits' after Hurricane Lowell - SFGATE
+- California enacts new curbs on social media for children - CNBC
+- Spain's spy agency warned of Ceuta border breach before crisis, declassified files show - cbsnews.com
+- MPs to vote on legalising assisted dying in England and Wales - BBC
+- Why a Russian screening of an 81-year-old Soviet-era film to a tiny audience has alarmed Taiwan - Reuters
+- Trump administration silence has 200,000 Salvadoran immigrants hoping they’re protected - AP News
+- Anthropic says it blocked misuse of its AI that could have supported biological weapons - AP News
 - Two AI researchers leave Anthropic and Google over safety concerns: ‘There are no adults in the room’ - NBC News
-- Bond rout as it happened: US Treasury yields rise to session highs after Scott Bessent’s buyback operation undershoots target; ECB raises interest rates - Financial Times
-- The iPhone Duo enters China’s crowded foldable market — and faces a price test - CNBC
+- Scott Bessent fails to break ‘fever’ in US bond market - Financial Times
+- The CPI report arrives tomorrow. It could determine whether the Fed hikes rates next week. - cbsnews.com
+- Apple’s foldable iPhone poses a $1,999 question: Who is it for? - Reuters
 - Here are the iPhone 18 Pro and iPhone 18 Pro Max Geekbench scores - GSMArena.com news - GSMArena.com
