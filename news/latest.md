@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-11 18:45_
+_Updated: 2026-09-11 21:18_
 
-- Live Updates: 25 years after Sept. 11 attacks, America reflects and remembers - CBS News
-- Houthis control key shipping route after gains along Yemen’s Red Sea coast - aljazeera.com
-- Trump reveals why $5,000 checks can wait until after the midterms - Axios
-- RNC convention finale ‘all about Vance’ as GOP base looks to 2028 - The Hill
-- 9/11 then and now: Photos show how the World Trade Center area has changed - Yahoo
-- 9/11 widow blasts Saudi Arabia during annual ceremony - Axios
-- We’re still underrating 9/11’s impact - Slow Boring
-- Gov. Kehoe backs Hoskins as Missouri map battle shifts to appeals court - KCTV
-- ‘Like an apocalyptic movie’: How Americans remember the 9/11 attacks - NBC News
-- House eyes Tuesday vote on bill to curb data center costs - Politico
-- Inside an Ancient Lebanese City Engulfed by War - The New York Times
-- MPs vote against fresh move to legalise assisted dying in England and Wales - BBC
-- What to know about Sunday’s election in Sweden, NATO’s newest member - AP News
-- As Saudi tensions with Iran-backed Houthis escalate, mediator Pakistan faces pressure to choose a side - Reuters
-- US consumer inflation picks up in August - Reuters
+- Trump commemorates the 25th anniversary of the 9/11 attacks at the Pentagon - AP News
+- Why gains by Iran-backed Houthis in Yemen could push gas prices even higher - NPR
+- Facing Islamophobic Attacks, Mamdani Keeps Focus on 9/11 Victims - The New York Times
+- Lutnick says Trump’s $5,000 checks for Americans wouldn’t rely on taxpayer funds - NBC News
+- Saudi Arabia shut down East-West crude oil pipeline after multiple attacks - CNBC
+- 4 takeaways from the GOP midterm convention - The Washington Post
+- Afghan woman in Texas dubbed an "alien terrorist" is deported in DOJ's first case using obscure court - CBS News
+- ‘It was heartbreaking; it was painful’: Lindsay Clancy juror recounts what happened behind closed doors during deliberations - bostonglobe.com
+- A Fun Run Reveals Anxieties in a Black L.A. Neighborhood - The New York Times
+- Architect of billionaire tax tried to 'extort' support for the measure and targeted women, union reports find - Los Angeles Times
+- Death toll in Philippine ferry fire rises to 35 as more bodies are recovered - AP News
+- UK lawmakers reject bid to legalise assisted dying - Reuters
+- As immigration status for Salvadorans remains in limbo, businesses begin layoffs - The Washington Post
+- Israel says it has destroyed major underground Hezbollah base - BBC
 - Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC
-- Live Updates: Diesel hits record $6 a gallon as, reports say, Houthis take key territory along Red Sea - CBS News
-- Tech stocks rally as oil prices fall, inflation remains sticky: AlphaCheck - Yahoo Finance
-- iPhone Duo is Missing These 10 iPhone 18 Pro Features - MacRumors
+- Kevin Warsh under mounting pressure to raise rates as US inflation persists - Financial Times
+- Congress gripped by AI panic after doomsday warnings - Axios
+- Stock Market Today: Dow Jumps Nearly 600 Points After CPI Surprise; Shipping Name Breaks Out (Live Coverage) - Investor's Business Daily
+- iPhone Duo vs. Pixel 11 Pro Fold: 2 Durable Foldables Face Off - CNET
 - Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - Mashable
