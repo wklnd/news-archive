@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-12 19:21_
+_Updated: 2026-09-12 21:33_
 
 ## Top Stories
 
-- S om SD:s sms: "Smutsig valrörelse" - Göteborgs-Posten
-- Andersson: ”Kristersson är mätt och belåten” - Västerbottens-Kuriren
-- Gängtoppen Haval Khalil har utlämnats till Sverige - svt.se
-- DN Direkt – Polisen chattar i jakt på misstänkt våldtäktsman - Dagens Nyheter
-- Så vill väljarna att nästa regering ska se ut - Dagens Nyheter
-- Tyskland: Rysk underrättelse bakom bombdrönare - svt.se
-- DN Direkt – Man avliden efter drunkningsolycka i Växjö - Dagens Nyheter
-- MP oroas av siffrorna: Tar oss för givet - Svenska Dagbladet
-- DN Direkt – Nytt rekord för förtidsröstningen - Dagens Nyheter
-- Så mycket har de lägre bränslepriserna kostat staten - Dagens Nyheter
-- Trump: Vore fantastiskt med ett enat Irland - Dagens Nyheter
-- FN varnar för massflykt i Jemen - Göteborgs-Posten
-- FN-chef: ”Svåraste vintern” för Ukraina - Västerbottens-Kuriren
-- DN Direkt – Minst 70 döda efter båtbrand i Filippinerna - Dagens Nyheter
-- Nvidia kan gå in med 100 miljarder i Anthropics IPO - omni.se
+- DN Direkt – S-toppen hotades: ”Trodde det var kört” - Dagens Nyheter
+- Andersson: ”Kristersson är mätt och belåten” - gp.se
+- A-traktor och bil i krock utanför Vänersborg - TTELA
+- Anderssons löfte: ”Kommer aldrig låta mig styras av extrema krafter” - TV4 Nyheterna
+- De rödgröna får flest röster enligt oddsen - Cision News
+- Tyskland: Rysk underrättelse bakom bombdrönare - SVT Nyheter
+- DN Direkt – S om SD:s sms: ”Smutsig valrörelse” - Dagens Nyheter
+- Gängtoppen Haval Khalil har utlämnats till Sverige - SVT Nyheter
+- Dadgostars röst klarade sig – röstar igen ändå - Västerbottens-Kuriren
+- Barnens vallöften – soliga dagar, fred och tacos - Dagens Nyheter
+- Stasiförflutet, högerextremism och porrkarriär – här är AFD:s nya ledamöter - Dagens Nyheter
+- Kreml nobbar Zelenskyjs önskan om möte på G20 - gp.se
+- FN varnar för massflykt i Jemen - Västerbottens-Kuriren
+- Irländska protester när Trump kommer - Hufvudstadsbladet – HBL
+- Anthropic vill bromsa AI – stöds av Musk och Altman - Dagens Nyheter
 - Gröna fonder: ”Ett regelverk som ingen fattar” - Dagens Nyheter
-- AI-agenter bakom ytterligare cyberattack - Svenska Dagbladet
+- Stark hotelltillväxt i Umeå: ”Högt tryck” - Västerbottens-Kuriren
 - Bahrain nobbar möte med Iran om Hormuzsundet - Aftonbladet
 - Samsung möter kritik efter att några av Apples iPhone Duo-tricks har överförts till Galaxy Z Fold - notebookcheck.se
-- Nu kan du förbeställa Iphone 18 Pro och Pro Max - Macworld.se
+- ”World of Warcraft Forever” – Blizzards nya jättesatsning - Aftonbladet
 
 ## World News
 
-- Nederländerna vill köpa Saabs Global Eye - di.se
+- Nederländerna vill köpa Saabs Global Eye - Dagens industri
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- BBC fyller 100 år – äldsta public service i världen - omni.se
+- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Nederländerna vill köpa Saabs Global Eye - TV4 Nyheterna
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Kronprinsen fick ”stor summa” för avlyssning - omni.se
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Kronprinsen fick ”stor summa” för avlyssning - Omni – Alla nyheter. Alla perspektiv.
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
@@ -88,6 +88,7 @@ _Updated: 2026-09-12 19:21_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
 - Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
@@ -109,11 +110,11 @@ _Updated: 2026-09-12 19:21_
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Stärkta positioner för KI i Times Higher Educations ämnesrankning - Karolinska Institutet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 
 ## Science
 
@@ -157,6 +158,6 @@ _Updated: 2026-09-12 19:21_
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
