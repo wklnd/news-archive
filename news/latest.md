@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-12 18:28_
+_Updated: 2026-09-12 20:45_
 
-- Attack on key Saudi pipeline is blamed on Iran-backed militias in Iraq - AP News
-- Nearly 50,000 Yemeni civilians flee as Houthis advance along Red Sea coast - The Guardian
+- Houthi advance in Yemen puts U.S. in a new bind - reuters.com
 - Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent - The New York Times
+- Attack that closed key Saudi pipeline is blamed on Iran-backed militias in Iraq - AP News
 - Trump sees Iran war ending soon after mid-term elections, predicts oil prices will then fall sharply - CNBC
-- U.S.-Canada trade war set to hit hard in midterm battleground states - The Washington Post
-- How anti-bribery laws apply to Trump’s promise of $5,000 payments if Republicans keep control of Congress - theconversation.com
-- New York Marks the 25th Anniversary of 9/11 at Ground Zero - The New York Times
+- Trump pledges $5K checks if Republicans do well in the midterms. Can he legally do that? - The Hill
+- U.S.-Canada trade war hits GOP efforts to keep control of Congress - The Washington Post
 - Fear and Delusion in Dallas: Inside Trump’s Midterm Convention Flop - Rolling Stone
-- 8th Circuit to hear Missouri redistricting case following U.S. Supreme Court ruling - Kansas City Star
-- El Niño has broken Atlantic hurricanes. Now the season is breaking records - CNN
-- French officials investigate if malicious act caused train derailment - BBC
-- BRICS adopts joint declaration, urges 'maximum restraint' in Mideast - Reuters
-- Anthropic report: 5 ways Claude was exploited for war, spying and repression - Axios
-- U.K. Parliament rejects bill to allow assisted dying for the terminally ill - The Washington Post
+- Four Former Presidents Reunite in Downtown NYC to Attend 9/11 Memorial Ceremony - TODAY.com
+- Trump wants the Smithsonian Institution to install George Washington statues and exhibit - AP News
+- GOP anxiety grows over North Carolina Senate race - Politico
+- French officials investigate if malicious act caused train derailment - bbc.com
+- Farage's Reform UK lands second record £36 million donation in 48 hours - reuters.com
+- Death toll in Philippine ferry fire rises to 76 as rescuers recover more remains - reuters.com
+- BRICS leaders meet in India as wars and US tensions test the bloc - NPR
 - ‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown - The Guardian
+- Larry Ellison cancels $7.5bn Oracle share sale - Financial Times
 - CDC declares cyclospora outbreak over - Axios
 - GM plans U.S. battery development as Trump's DOT attacks Ford for China ties - CNBC
-- After closures, Denny's bets on a comeback - USA Today
+- T-Mobile is giving away the Apple iPhone 18 Pro for free — how to claim - Mashable
 - Samsung Trolls Apple by Hiring 'Tim Cook' to Endorse Galaxy Z Fold 8 - PCMag
-- Didn't Pre-Order iPhone 18 Pro Yet? Here's How Long the Wait is Now - MacRumors
