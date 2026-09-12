@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-12 21:33_
+_Updated: 2026-09-12 23:35_
 
 ## Top Stories
 
-- DN Direkt – S-toppen hotades: ”Trodde det var kört” - Dagens Nyheter
-- Andersson: ”Kristersson är mätt och belåten” - gp.se
-- A-traktor och bil i krock utanför Vänersborg - TTELA
-- Anderssons löfte: ”Kommer aldrig låta mig styras av extrema krafter” - TV4 Nyheterna
+- Regeringsfrågan fick det att bränna till i slutduellen - Dagens Nyheter
+- S-politiker hotad vid valarbete i Göteborg - Göteborgs-Posten
+- Partiledarna på plats i Skavlans uppesittarkväll – Senaste nytt om valet 2026 - SVT Nyheter
 - De rödgröna får flest röster enligt oddsen - Cision News
-- Tyskland: Rysk underrättelse bakom bombdrönare - SVT Nyheter
-- DN Direkt – S om SD:s sms: ”Smutsig valrörelse” - Dagens Nyheter
+- A-traktor och bil i krock utanför Vänersborg - TTELA
+- Jemen: Har angripit huthier i Mocka - Västerbottens-Kuriren
+- DN Direkt – MP har hållit två krismöten på lördagen - Dagens Nyheter
 - Gängtoppen Haval Khalil har utlämnats till Sverige - SVT Nyheter
-- Dadgostars röst klarade sig – röstar igen ändå - Västerbottens-Kuriren
+- Dadgostars röst klarade sig – röstar igen ändå - Göteborgs-Posten
 - Barnens vallöften – soliga dagar, fred och tacos - Dagens Nyheter
-- Stasiförflutet, högerextremism och porrkarriär – här är AFD:s nya ledamöter - Dagens Nyheter
-- Kreml nobbar Zelenskyjs önskan om möte på G20 - gp.se
-- FN varnar för massflykt i Jemen - Västerbottens-Kuriren
-- Irländska protester när Trump kommer - Hufvudstadsbladet – HBL
+- Kreml nobbar Zelenskyjs önskan om möte på G20 - Göteborgs-Posten
+- Tyskland: Rysk underrättelse bakom bombdrönare - SVT Nyheter
+- Svetsaren som räddar Ukrainas sönderskjutna stridsfordon - Dagens Nyheter
+- Sju döda i ryska attacker mot Ukraina - Corren
 - Anthropic vill bromsa AI – stöds av Musk och Altman - Dagens Nyheter
-- Gröna fonder: ”Ett regelverk som ingen fattar” - Dagens Nyheter
 - Stark hotelltillväxt i Umeå: ”Högt tryck” - Västerbottens-Kuriren
 - Bahrain nobbar möte med Iran om Hormuzsundet - Aftonbladet
+- Stockholmsbörsen avslutade fredagen med uppgång - Affärsvärlden
 - Samsung möter kritik efter att några av Apples iPhone Duo-tricks har överförts till Galaxy Z Fold - notebookcheck.se
 - ”World of Warcraft Forever” – Blizzards nya jättesatsning - Aftonbladet
 
@@ -29,23 +29,23 @@ _Updated: 2026-09-12 21:33_
 
 - Nederländerna vill köpa Saabs Global Eye - Dagens industri
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - media.smart.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Möt Johanna Flood, journalisten som blev global miljöchef - new.abb.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Kronprinsen fick ”stor summa” för avlyssning - Omni – Alla nyheter. Alla perspektiv.
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
@@ -53,32 +53,32 @@ _Updated: 2026-09-12 21:33_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Bästa AI-aktierna att köpa nu - Morningstar
-- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - computersweden.se
+- I år ska AI visa affärsnytta. Igen. - computersweden.se
+- USA och Kina dominerar stort när det gäller AI-patent - computersweden.se
+- Försäkringsbolag: AI är för riskabelt att försäkra - computersweden.se
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
+- Kraftigt ökad försäljning av AI-datorer - computersweden.se
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - computersweden.se
+- SVT ber om ursäkt för AI-skapat klipp i Agenda - computersweden.se
+- Albanien utser AI-bot till minister - computersweden.se
+- Tiden för billig vibe coding kan vara över - computersweden.se
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - computersweden.se
+- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - computersweden.se
+- Forskare vill se dödsknapp i AI-system - computersweden.se
 
 ## Business
 
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
+- Vilken framtid arbetar du för? - EY
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -86,10 +86,11 @@ _Updated: 2026-09-12 21:33_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
 - Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
@@ -101,13 +102,13 @@ _Updated: 2026-09-12 21:33_
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Nam Dan Medical Center har en ny chef. - Vietnam.vn
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Khalid satsar på digital vård – mot fetma - st.nu
+- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Smartare AI gör sjukvården mänskligare - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Vi presenterar HealthBench - OpenAI
+- Vi presenterar HealthBench - openai.com
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stärkta positioner för KI i Times Higher Educations ämnesrankning - Karolinska Institutet
@@ -120,7 +121,7 @@ _Updated: 2026-09-12 21:33_
 
 - Vårddata för forskning – hinder och möjligheter - Läkartidningen
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- AI för vetenskaplig forskning och upptäckter - OpenAI
+- AI för vetenskaplig forskning och upptäckter - openai.com
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -149,7 +150,7 @@ _Updated: 2026-09-12 21:33_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Här är världens största jordbruk - ATL
