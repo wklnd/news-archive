@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-12 15:08_
+_Updated: 2026-09-12 18:28_
 
-- Saudi Arabia’s shutdown of key pipeline limits oil flow as Yemen hits back against Houthis - NBC News
-- Trump meets Ireland's leaders before heading to his golf club in Doonbeg - NPR
-- Political unity permeates 25th anniversary of 9/11 - Politico
-- How Canadians are bracing for the impact of Trump’s trade war - aljazeera.com
-- How Trump Is Wielding Power to Stifle Speech - The New York Times
-- BRICS leaders meet in India as wars and US tensions test the bloc - AP News
-- FACT FOCUS: A look at false and misleading claims during the Republican midterm convention - AP News
-- Trump Wanted a New House Map in Missouri. Voters Got Chaos Instead. - The New York Times
-- Afghan woman deported in first-ever "Alien Terrorist" court case, DOJ says - Axios
-- Calls for Democrats to be shot go unchallenged at Republican convention - The Guardian
-- Yemen's Houthis capture a Red Sea island in threat to shipping - NPR
+- Attack on key Saudi pipeline is blamed on Iran-backed militias in Iraq - AP News
+- Nearly 50,000 Yemeni civilians flee as Houthis advance along Red Sea coast - The Guardian
+- Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent - The New York Times
+- Trump sees Iran war ending soon after mid-term elections, predicts oil prices will then fall sharply - CNBC
+- U.S.-Canada trade war set to hit hard in midterm battleground states - The Washington Post
+- How anti-bribery laws apply to Trump’s promise of $5,000 payments if Republicans keep control of Congress - theconversation.com
+- New York Marks the 25th Anniversary of 9/11 at Ground Zero - The New York Times
+- Fear and Delusion in Dallas: Inside Trump’s Midterm Convention Flop - Rolling Stone
+- 8th Circuit to hear Missouri redistricting case following U.S. Supreme Court ruling - Kansas City Star
+- El Niño has broken Atlantic hurricanes. Now the season is breaking records - CNN
+- French officials investigate if malicious act caused train derailment - BBC
+- BRICS adopts joint declaration, urges 'maximum restraint' in Mideast - Reuters
+- Anthropic report: 5 ways Claude was exploited for war, spying and repression - Axios
 - U.K. Parliament rejects bill to allow assisted dying for the terminally ill - The Washington Post
-- Crypto investor pardoned by Trump donates £36 million to Farage's Reform UK - CNA
-- Iran used Claude to target US Navy in Middle East, Anthropic says - Navy Times
-- Inside the Discussions at AI Companies Over a Superintelligence Doomsday - The New York Times
+- ‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown - The Guardian
 - CDC declares cyclospora outbreak over - Axios
-- Miami crash raises concerns about the jet's operator, and why it's flying for Amazon - NPR
-- Oracle Nearly Erases 7% Jump Despite $664 Billion AI Backlog - Yahoo Finance
+- GM plans U.S. battery development as Trump's DOT attacks Ford for China ties - CNBC
+- After closures, Denny's bets on a comeback - USA Today
 - Samsung Trolls Apple by Hiring 'Tim Cook' to Endorse Galaxy Z Fold 8 - PCMag
-- Apple Store Down Ahead of iPhone 18 Pro Pre-Orders - macrumors.com
+- Didn't Pre-Order iPhone 18 Pro Yet? Here's How Long the Wait is Now - MacRumors
