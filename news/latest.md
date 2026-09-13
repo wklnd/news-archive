@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-13 14:50_
+_Updated: 2026-09-13 19:03_
 
-- Where have all the Atlantic hurricanes gone? El Nino might bring record slow storm season - AP News
-- Search underway for 140 people after Indonesian passenger ship carrying more than 240 people overturns - CBS News
-- What's next after Donald Trump's united Ireland comments? - BBC
-- Iran reports commercial vessel struck in Strait of Hormuz - CNN
-- Senate AI safety bill’s path forward remains unclear - politico.com
-- Canadian boycott of US products pushes grocers to adapt, explore new supply sources - Reuters
-- Alleged trespasser stopped outside Kamala Harris’ Malibu home - nbcnews.com
+- Why Saudi Arabia has few options in its conflict with the Houthis - CNN
+- Tech companies must be primarily responsible for AI safety, Mike Johnson says - Politico
+- Russian drone hits Kyiv-Warsaw passenger train near Polish border - The Guardian
+- Trump's $5,000 checks require Congress to approve, Johnson says - Axios
+- Carney pushes idea of making Canada 'associate member' of EU, WSJ reports - Reuters
+- GOP women sound alarm as Lindsay Clancy backlash revives calls to repeal 19th Amendment: ‘Definitely a threat’ - Fox News
 - Tom Tiffany, Wisconsin Representative, Sustains Minor Injuries After Plane Lands in Lake - The New York Times
-- How Candidates Have Addressed Affordability in the Midterm Campaigns - The New York Times
-- New York City warns of possible flash floods as thunderstorms develop along East Coast - nbcnews.com
-- At BRICS, India's Modi warns geopolitical tensions and supply chain shocks threaten global stability - AP News
-- Along Himalayan Floods’ Path, Wiped Out Towns and Mounting Grief - The New York Times
-- Swedes vote in election that could usher far right into government - Reuters
-- Iraq seizes drone-launching platform used for targeting Saudi oil pipeline - Al Jazeera
-- Anthropic CEO Says It’s Time to Slow AI Model Advances - Bloomberg.com
-- Retirees spent their lives saving. Now they're afraid to spend - USA Today
-- What happens when you tell Jensen Huang you're quitting Nvidia - Business Insider
-- JPMorgan curbed lending to Situational Awareness after AI losses, source says - Reuters
-- Apple Says iPhone 18 Pro Max Sold in U.S. Differs in One Way - MacRumors
-- Left-handed Apple users cry discrimination as new foldable iPhone Duo designed for right-handers - New York Post
+- Kamala Harris’s California home targeted by trespasser, officials say - The Guardian
+- Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda - The New York Times
+- Mullin seeks to win over immigration hardliners with messaging blitz - Politico
+- More than 100 people missing after Indonesian passenger ship capsizes - Al Jazeera
+- BRICS summit 2026: What are the key takeaways? - Al Jazeera
+- Okinawa Set to Elect Conservative Amid Fears About China and Economy - The New York Times
+- Swedes vote in close general election that could usher far right into government - France 24
+- Stark warnings from Anthropic and OpenAI CEOs are set to disrupt the AI stock trade they built up - Yahoo Finance
+- Nvidia may bankroll Anthropic's massive IPO - Mashable
+- Trump Pushes Fed to Lower Rates Despite Pressure to Raise Them - Bloomberg.com
+- The new American retirement fear: working until you die - Fortune
+- A Galaxy S27 Ultra upgrade to match the iPhone Duo - PhoneArena
+- LG Denies Accusations Of Smart TVs Continuously Recording Its Users - Engadget
