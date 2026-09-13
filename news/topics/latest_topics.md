@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-13 12:30_
+_Updated: 2026-09-13 16:34_
 
 ## Top Stories
 
-- DN Direkt – Valmyndigheten varnar: Långa köer till vallokaler - dn.se
-- KARL RYDÅ: Det viktigaste är att du röstar, inte vad du röstar på - UNT
-- Kvinna skjuten i huvudet – man gripen för mordförsök - sydsvenskan.se
-- Här är utmaningarna för nästa finansminister - Skånska Dagbladet
-- Ryska drönare slog ned vid polsk gräns - Göteborgs-Posten
-- 140 personer saknas från fartyget Virgo Transport 8 i Indonesien - aftonbladet.se
-- Benny Andersson peppar på S-slutspurten - Svenska Dagbladet
-- Kvarnen i Havdhem på Gotland nerbrunnen - SVT Nyheter
-- Vallokalerna har öppnat och Nils, 102, röstade tidigt - Arvika Nyheter
-- Ronna i Södertälje har lägst valdeltagande i landet – Senaste nytt om valet 2026 - SVT Nyheter
-- Ilska i Spanien: Var migrantkrisen en attack? - vk.se
-- Huthirörelsen: Attacker mot bas i Saudiarabien - dn.se
-- Äldsta drogfyndet någonsin – kan vara 25 000 år gammalt - dn.se
-- Jättelångt bord slår världsrekord i Rumänien - Göteborgs-Posten
-- Altman: Ingen börsnotering för Open AI i år - Dagens industri
-- Börsen en valvinnare – oavsett partifärg - Privata Affärer
-- BMW:s vätgas-suv får 3 miljarder i statsstöd - Dagens PS
-- Se upp: 5 dolda avgifter vid privatleasing - Carup.se
-- Samsung möter kritik efter att några av Apples iPhone Duo-tricks har överförts till Galaxy Z Fold - notebookcheck.se
+- Kraftiga förseningar med förtidsrösterna - Corren
+- Över två timmars kö i Umeå – Valmyndigheten: ”Ovanligt” – Valet 2026 – senaste nytt om politiken i Västerbotten - SVT Nyheter
+- Direkt – Kriget i Ukraina – Tåg mot Warszawa träffades av rysk drönare – Carl Bildt var nära attacken - Dagens Nyheter
+- Inför valvakans stora mätning: Så pricksäker är SVT:s Valu - Dagens industri
+- Partierna valspurtar med Ulf-huvuden och chips - Göteborgs-Posten
+- Mc-förare till sjukhus med helikopter i Mariestad - SVT Nyheter
+- DN Direkt – Vilnius flygplats stängdes efter drönarlarm – var fåglar - Dagens Nyheter
+- Dadgostars röst klarade sig – röstar igen ändå - Göteborgs-Posten
+- Kritik mot valrörelsen på Tiktok: ”Barnsliga” - Svenska Dagbladet
+- SD:s miljonsatsning – vill vinna utlandssvenskarna - Omni – Alla nyheter. Alla perspektiv.
+- Historiskt toppmöte: Skottland, Wales och Nordirland enas mot London – vill bli självständiga - Dagens Nyheter
+- Ilska i Spanien: Var migrantkrisen en attack? - hbl.fi
+- Sju döda i ryska attacker mot Ukraina - Corren
+- Fler än 2 000 har flytt från Jemen till Djibouti - Göteborgs-Posten
+- Altman: Ingen börsnotering för Open AI i år - SVT Nyheter
+- Här är aktierna som lever farligt efter valet - Dagens industri
+- Oljepriserna befaras stiga mer efter nya attacker - Omni – Alla nyheter. Alla perspektiv.
+- Svenskt kaffe – nu även för finländare - Dagens PS
 - BlizzCon 2026 är igång – här är de största nyheterna - Teknikveckan
+- Samsung möter kritik efter att några av Apples iPhone Duo-tricks har överförts till Galaxy Z Fold - notebookcheck.se
 
 ## World News
 
 - GT World Challenge Asia, Okayama International Circuit, Japan på ikväll 21:50 - TV.nu
-- Nederländerna vill köpa Saabs Global Eye - Dagens industri
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Global Series stort för Karlsson: ”Fantastiskt” - nhl.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- BBC fyller 100 år – äldsta public service i världen - omni.se
+- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - via.tt.se
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- WPP samlar produktion i ny global enhet - Dagens Media
-- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- WPP samlar produktion i ny global enhet - dagensmedia.se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - via.tt.se
+- Infomedia goes global with acquisition of Opoint Technology - via.tt.se
+- Nasdaq to Move Global Headquarters to 4 Times Square - via.tt.se
 
 ## Technology
 
@@ -55,13 +55,12 @@ _Updated: 2026-09-13 12:30_
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Bästa AI-aktierna att köpa nu - global.morningstar.com
+- Bästa AI-aktierna att köpa nu - Morningstar
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
@@ -70,15 +69,16 @@ _Updated: 2026-09-13 12:30_
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
+- Vilken framtid arbetar du för? - EY
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -96,13 +96,13 @@ _Updated: 2026-09-13 12:30_
 
 ## Health
 
-- Hon Dat Medical Center strävar efter att erbjuda alltmer bekväma och effektiva tjänster till människorna. - vietnam.vn
-- Aging Research Center (ARC) ‒ ett forskningscentrum för äldre personers hälsa och levnadsvillkor - ki.se
+- Hon Dat Medical Center strävar efter att erbjuda alltmer bekväma och effektiva tjänster till människorna. - Vietnam.vn
+- Aging Research Center (ARC) ‒ ett forskningscentrum för äldre personers hälsa och levnadsvillkor - Karolinska Institutet
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Nam Dan Medical Center har en ny chef. - vietnam.vn
+- Nam Dan Medical Center har en ny chef. - Vietnam.vn
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
@@ -122,10 +122,10 @@ _Updated: 2026-09-13 12:30_
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - slu.se
@@ -134,7 +134,7 @@ _Updated: 2026-09-13 12:30_
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Enheten för öron-, näs- och halssjukdomar - ki.se
+- Enheten för öron-, näs- och halssjukdomar - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Torsten Persson utsedd till vice ordförande i ERC:s vetenskapliga råd - Stockholms universitet
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
@@ -151,7 +151,7 @@ _Updated: 2026-09-13 12:30_
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Lantbrukslogik – nu och i framtiden - slu.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - global.morningstar.com
+- Framtidens jordbruk är här - Shaping Europe’s digital future
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - slu.se
