@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-13 23:02_
+_Updated: 2026-09-14 01:21_
 
 ## Top Stories
 
-- SVT:s rysarsiffra: Bara ett mandat skiljer mellan blocken - Göteborgs-Posten
-- DN Direkt – SD-ledaren i Göteborg: Tidsfråga innan S och SD samarbetar - Dagens Nyheter
-- Här är valresultatet i din kommun – se hela listan - SVT Nyheter
-- ”Spännande ett bra tag till” - vk.se
-- Ryska drönare mot Ukraina – Bildts tåg nära träffas - vk.se
-- Tunga besked för Moderaterna på valvakan - Göteborgs-Posten
-- SVT:s Valu: Liberalerna klarar riksdagsspärren - Dagens Nyheter
-- KD och L ut ur riksdagen – om Sveriges elever får bestämma - Dagens Nyheter
-- Försenade förtidsröster på väg fram - Göteborgs-Posten
-- Mc-förare krockade med traktor – en till sjukhus - vk.se
-- Två rapporteras döda efter ukrainsk attack - vk.se
-- DN Direkt – Efter politiska kaoset: Kosovo har ny regering - Dagens Nyheter
+- SVT:s valprognos: Dött lopp mellan blocken - Corren
+- Kristersson varnar: ”Det här kan ta tid” - Göteborgs-Posten
+- Glatt på S-vaka: ”Chans till regeringsskifte” - Västerbottens-Kuriren
+- Uppgifter: Misstänkt skottlossning – flera skadade - Aftonbladet
+- Liberalernas jubel – klart över spärren i SVT:s valu - SVT Nyheter
+- Ukrainsk myndighet: Bildt möjlig måltavla för rysk drönarattack - Expressen
+- M klart störst i skolvalet – SD tappar stort - Göteborgs-Posten
+- Sverigedemokraternas segertåg ser ut att vara över - Arbetet
+- Valet 2026 – senaste nytt om politiken i Västerbotten - SVT Nyheter
+- Två rapporteras döda efter ukrainsk attack - Västerbottens-Kuriren
 - Fler än 2 000 har flytt från Jemen till Djibouti - Göteborgs-Posten
 - DN Direkt – Trump lovar sänka tullen på irländsk whiskey - Dagens Nyheter
+- DN Direkt – Efter politiska kaoset: Kosovo har ny regering - Dagens Nyheter
 - Altman: Ingen börsnotering för Open AI i år - SVT Nyheter
-- Trump spelar ner AI-oro: ”Den som vinner vinner” - Dagens industri
+- Trump spelar ner AI-varningar: ”Negativa krafter” - Omni – Alla nyheter. Alla perspektiv.
 - Miljarder av bankernas ”övervinster” har gått till arbetarrörelsen - Affärsvärlden
-- Oljepriserna befaras stiga mer efter nya attacker - Omni – Alla nyheter. Alla perspektiv.
+- ANNONS: Enklare sopsortering i Tingsryd – nya kärl direkt vid din bostad - Smålandsposten
 - Samsung möter kritik efter att några av Apples iPhone Duo-tricks har överförts till Galaxy Z Fold - notebookcheck.se
-- BlizzCon 2026 är igång – här är de största nyheterna - Teknikveckan
+- BlizzCon 2026 är igång – här är de största nyheterna - teknikveckan.se
+- Airpods Pro-utmanaren – nu ännu bättre - Expressen
 
 ## World News
 
 - GT World Challenge Asia, Okayama International Circuit, Japan på ikväll 21:50 - TV.nu
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - news.cision.com
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - news.cision.com
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Global Series stort för Karlsson: ”Fantastiskt” - nhl.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- GMMP: Global backlash syns i världens medier - fempers.se
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Kuriren nominerad för satsning på unga läsare - Kuriren
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Kuriren nominerad för satsning på unga läsare - kuriren.nu
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - WPP samlar produktion i ny global enhet - Dagens Media
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 
@@ -57,7 +57,7 @@ _Updated: 2026-09-13 23:02_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Bästa AI-aktierna att köpa nu - Morningstar
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - blogg.avanza.se
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
@@ -76,9 +76,9 @@ _Updated: 2026-09-13 23:02_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
+- Vilken framtid arbetar du för? - EY
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -97,19 +97,19 @@ _Updated: 2026-09-13 23:02_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Aging Research Center (ARC) ‒ ett forskningscentrum för äldre personers hälsa och levnadsvillkor - Karolinska Institutet
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Nam Dan Medical Center har en ny chef. - vietnam.vn
+- Nam Dan Medical Center har en ny chef. - Vietnam.vn
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stärkta positioner för KI i Times Higher Educations ämnesrankning - Karolinska Institutet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
@@ -119,13 +119,13 @@ _Updated: 2026-09-13 23:02_
 
 ## Science
 
-- NESS activities for the public – Department of Earth Sciences - uu.se
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Sherry Nakhaeizadeh - uu.se
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
@@ -137,7 +137,7 @@ _Updated: 2026-09-13 23:02_
 - Enheten för öron-, näs- och halssjukdomar - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Torsten Persson utsedd till vice ordförande i ERC:s vetenskapliga råd - Stockholms universitet
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - uu.se
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
@@ -147,7 +147,7 @@ _Updated: 2026-09-13 23:02_
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Brittiska bönder i massiv protest mot arvsskatten - ja.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
