@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-13 08:45_
+_Updated: 2026-09-13 14:50_
 
-- Where have all the Atlantic hurricanes gone? El Nino might bring record slow storm season - apnews.com
-- Iraq seizes drone-launching platform used for targeting Saudi oil pipeline - aljazeera.com
-- New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies - reuters.com
-- Taxes wouldn’t fund $5,000 Trump ‘dividend’ if Republicans win midterms, says commerce secretary - The Guardian
-- Trump endorses Irish reunification, breaking with decades of U.S. policy - The Washington Post
-- BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit - PBS
-- Alleged trespasser stopped outside Kamala Harris’ Malibu home - NBC News
-- Missouri voters sue Denny Hoskins, seek $80 million over redistricting referendum - FOX 2
-- Trump asks Smithsonian to install ‘Colossus statue’ of George Washington with exhibit - The Guardian
-- Florida Gov. Ron DeSantis offers asylum to Lindsay Clancy juror holdout - The Seattle Times
-- Search underway for Indonesian passenger ship carrying at least 240 people after it loses contact - cnn.com
-- Yemen's Houthis capture a Red Sea island in threat to shipping - NPR
-- Tens of thousands protest against far-right AfD party in Germany - France 24
-- Brics hammers out joint declaration after India bridges Iran-UAE chasm - The Times of India
+- Where have all the Atlantic hurricanes gone? El Nino might bring record slow storm season - AP News
+- Search underway for 140 people after Indonesian passenger ship carrying more than 240 people overturns - CBS News
+- What's next after Donald Trump's united Ireland comments? - BBC
+- Iran reports commercial vessel struck in Strait of Hormuz - CNN
+- Senate AI safety bill’s path forward remains unclear - politico.com
+- Canadian boycott of US products pushes grocers to adapt, explore new supply sources - Reuters
+- Alleged trespasser stopped outside Kamala Harris’ Malibu home - nbcnews.com
+- Tom Tiffany, Wisconsin Representative, Sustains Minor Injuries After Plane Lands in Lake - The New York Times
+- How Candidates Have Addressed Affordability in the Midterm Campaigns - The New York Times
+- New York City warns of possible flash floods as thunderstorms develop along East Coast - nbcnews.com
+- At BRICS, India's Modi warns geopolitical tensions and supply chain shocks threaten global stability - AP News
+- Along Himalayan Floods’ Path, Wiped Out Towns and Mounting Grief - The New York Times
+- Swedes vote in election that could usher far right into government - Reuters
+- Iraq seizes drone-launching platform used for targeting Saudi oil pipeline - Al Jazeera
 - Anthropic CEO Says It’s Time to Slow AI Model Advances - Bloomberg.com
-- OpenAI delaying IPO amid AI safety concerns, Sam Altman says - axios.com
-- Tesla Is Reclaiming the U.S. EV Market as Legacy Automakers Retreat - wsj.com
-- Leopold Aschenbrenner's Situational Awareness is active in options market, sources say - CNBC
-- Apple nailed iPhone Duo split screen, even as iPad multitasking feels convoluted - 9to5Mac
+- Retirees spent their lives saving. Now they're afraid to spend - USA Today
+- What happens when you tell Jensen Huang you're quitting Nvidia - Business Insider
+- JPMorgan curbed lending to Situational Awareness after AI losses, source says - Reuters
 - Apple Says iPhone 18 Pro Max Sold in U.S. Differs in One Way - MacRumors
+- Left-handed Apple users cry discrimination as new foldable iPhone Duo designed for right-handers - New York Post
