@@ -1,36 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-14 01:21_
+_Updated: 2026-09-14 03:25_
 
 ## Top Stories
 
-- SVT:s valprognos: Dött lopp mellan blocken - Corren
-- Kristersson varnar: ”Det här kan ta tid” - Göteborgs-Posten
-- Glatt på S-vaka: ”Chans till regeringsskifte” - Västerbottens-Kuriren
-- Uppgifter: Misstänkt skottlossning – flera skadade - Aftonbladet
-- Liberalernas jubel – klart över spärren i SVT:s valu - SVT Nyheter
-- Ukrainsk myndighet: Bildt möjlig måltavla för rysk drönarattack - Expressen
-- M klart störst i skolvalet – SD tappar stort - Göteborgs-Posten
-- Sverigedemokraternas segertåg ser ut att vara över - Arbetet
+- KARL RYDÅ: Valet har bara en vinnare – Liberalerna - UNT
+- Valet 2026: Så röstade dina grannar - Dagens Nyheter
+- Två skadade i skottlossning – hittades i bil - Aftonbladet
+- ”Det är väldigt blandat för Sverigedemokraterna” - Västerbottens-Kuriren
+- Gulan Avci (L): ”Maktskifte vore ett enormt bakslag” - Dagens Arena
+- Busch: ”Tar inte ut något i förskott – åt något håll” - Omni – Alla nyheter. Alla perspektiv.
 - Valet 2026 – senaste nytt om politiken i Västerbotten - SVT Nyheter
+- Tufft läge för Allard – långt från riksdagen - Västerbottens-Kuriren
+- Därför gick valet 2026 åt skogen för Magdalena Andersson - Arbetet
+- Ryska drönare mot Ukraina – Bildts tåg nära träffas - Dagens Nyheter
 - Två rapporteras döda efter ukrainsk attack - Västerbottens-Kuriren
 - Fler än 2 000 har flytt från Jemen till Djibouti - Göteborgs-Posten
-- DN Direkt – Trump lovar sänka tullen på irländsk whiskey - Dagens Nyheter
-- DN Direkt – Efter politiska kaoset: Kosovo har ny regering - Dagens Nyheter
-- Altman: Ingen börsnotering för Open AI i år - SVT Nyheter
+- Planerade samtal om Hormuz skjuts upp - Dagens Nyheter
+- AI-jättarna varnar själva för domedagen – bara Trump tycks obekymrad - Dagens Nyheter
+- Oljepriset inleder veckan uppåt - Aftonbladet
 - Trump spelar ner AI-varningar: ”Negativa krafter” - Omni – Alla nyheter. Alla perspektiv.
-- Miljarder av bankernas ”övervinster” har gått till arbetarrörelsen - Affärsvärlden
 - ANNONS: Enklare sopsortering i Tingsryd – nya kärl direkt vid din bostad - Smålandsposten
 - Samsung möter kritik efter att några av Apples iPhone Duo-tricks har överförts till Galaxy Z Fold - notebookcheck.se
-- BlizzCon 2026 är igång – här är de största nyheterna - teknikveckan.se
-- Airpods Pro-utmanaren – nu ännu bättre - Expressen
+- BlizzCon 2026 är igång – här är de största nyheterna - Teknikveckan
+- Smart ljusslinga imponerar med sitt ljus och sin mångsidighet: Recension av Govee COB Strip Light 2 Pro - notebookcheck.se
 
 ## World News
 
 - GT World Challenge Asia, Okayama International Circuit, Japan på ikväll 21:50 - TV.nu
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Global Series stort för Karlsson: ”Fantastiskt” - nhl.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart.com
@@ -39,12 +39,12 @@ _Updated: 2026-09-14 01:21_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Kuriren nominerad för satsning på unga läsare - kuriren.nu
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - WPP samlar produktion i ny global enhet - Dagens Media
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 
@@ -57,10 +57,10 @@ _Updated: 2026-09-14 01:21_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Bästa AI-aktierna att köpa nu - Morningstar
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
@@ -76,7 +76,7 @@ _Updated: 2026-09-14 01:21_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Vilken framtid arbetar du för? - EY
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -105,17 +105,17 @@ _Updated: 2026-09-14 01:21_
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Nam Dan Medical Center har en ny chef. - Vietnam.vn
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Stärkta positioner för KI i Times Higher Educations ämnesrankning - Karolinska Institutet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Hälsa på recept har stor effekt mot hjärt-kärlsjukdom - Karolinska Institutet
 
 ## Science
 
@@ -147,7 +147,7 @@ _Updated: 2026-09-14 01:21_
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Brittiska bönder i massiv protest mot arvsskatten - ja.se
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
