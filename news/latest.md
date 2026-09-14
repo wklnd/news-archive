@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-14 19:02_
+_Updated: 2026-09-14 23:03_
 
 - Trump says AI doesn’t need guardrails, only a ‘high IQ’ president - NBC News
-- States sue to stop Trump rule that would make it harder for some immigrants to get green cards - CNN
-- Iran War Updates: Oil prices jump to near 4-month high as Oman-Iran talks on Strait of Hormuz postponed - CBS News
-- US Kennedy Center faces bankruptcy, Washington Post reports - Al Jazeera
-- Capitol agenda: Congress isn’t rushing after AI alarms - Politico
-- Second federal judge freezes Trump mail ballot order with Supreme Court poised to weigh in - NBC News
+- Washington's AI paralysis: Let 'er rip vs. hit the brakes - Axios
+- States sue to stop Trump rule that would make it harder for some immigrants to get green cards - cnn.com
+- EPA eliminates rule that limits planet-warming greenhouse gas emissions from power plants - AP News
+- Russian oligarch close to Putin reportedly paid for part of Donald Trump Jr’s lavish wedding - The Guardian
+- Iran War Updates: Oil prices stay above $100 per barrel as Oman-Iran talks on Strait of Hormuz postponed - CBS News
 - Rainfall totals: Parts of Connecticut saw nearly 8 inches of rain Sunday - WTNH.com
+- Mahmoud Khalil lawsuit says Columbia failed to protect pro-Palestinian activists - AP News
 - US airman recounts Iran rescue in 60 Minutes segment branded propaganda - The Guardian
-- Tom Tiffany's plane crashes during emergency water landing after campaign event - WISN
-- Russian Oligarch Helped Pay For Trump Jr.’s Bahamas Wedding, Report Says - Forbes
-- Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News
-- Why is Trump warning Zelenskyy not to hit Russian diesel refineries? - Al Jazeera
-- Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies - The New York Times
-- Sweden's centre-left ahead as far-right stumbles in tight election - Reuters
-- Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down - The New York Times
-- Stocks drop after 10-year yield reaches 5%, oil jumps; Nasdaq falls as AI names slide: Live updates - CNBC
-- The market says a Fed rate hike is a done deal. Here's why it might hold steady. - Yahoo Finance
-- Sam Altman reveals the 2 AI threats that scare him most - Axios
+- DHS watchdog finds immigrants held at ‘Alligator Alcatraz’ in outdoor cages the size of phone booths - NBC News
+- Satellite images show extent of damage to major Saudi pipeline, amid global oil supply fears - The Guardian
+- Why is Trump warning Zelenskyy not to hit Russian diesel refineries? - aljazeera.com
+- Yemen's Houthis attack Saudis, seize crucial Red Sea islands - DW.com
+- Russia wanted to cow Ukraine allies with railway drone attack, says top EU diplomat - politico.eu
+- 'Big Short' Michael Burry says AI leaders' calls for slowdown are 'self-serving' and he's not worried - Business Insider
+- Stock Market Today: Dow Slip; Oil Prices Surge; Nvdia Stock Down — Live Updates - WSJ
+- Novo Nordisk rebrands as 'Novo', announces cultural reset - Reuters
+- Bank of America CEO Sparks Bank Stock Selloff With One Small Word - Barron's
+- Apple releases iOS 27 with Siri AI overhaul - The Verge
 - Apple Foldable iPhone Could Change Smartphones Forever - Yahoo Finance
-- iPhone 18 Pro, Pro Max pre-orders now delayed to October for most models - 9to5mac.com
