@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-14 02:52_
+_Updated: 2026-09-14 07:26_
 
-- Trump downplays the need to check AI development and says he doesn't want to cede edge to China - AP News
-- Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive - cnbc.com
-- Trump's $5,000 checks require Congress to approve, Johnson says - Axios
-- Top Lawmakers Agree A.I.’s Risks Are Rising but Say They Have No Quick Fix - The New York Times
-- Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station - bbc.com
-- Trump pokes the U.K., and Ireland’s unity debate catches fire - The Washington Post
+- House Speaker Johnson says Congress shouldn't lead AI safety efforts - USA Today
+- Trump resists AI slowdown as the political tide turns - The Washington Post
+- Air Force officer recalls ‘free-falling’ after jet was shot down over Iran - NBC News
+- Trump says $5K dividend checks to Americans will ‘happen 100 percent’ - The Hill
+- Hormuz Meeting With Iran and Gulf Nations Delayed, Oman Says - Bloomberg.com
+- Trump calls on Ukraine to stop striking Russian oil refineries - Financial Times
+- Chicago mayor bets progressives will turn out for him in announcing reelection bid - Politico
 - Tom Tiffany's plane forced to make emergency water landing after campaign event - WISN
-- Obama calls for Dems to focus on AI - Politico
-- Security stops alleged trespasser on Kamala Harris’ Malibu property - WTOP News
-- Brandon Johnson to Seek Second Term as Mayor of Chicago - The New York Times
-- Houthis' Yemen advance leaves Gulf states with uncomfortable choice - Reuters
-- Sweden’s election too close to call after late right-wing surge - politico.eu
-- BRICS summit 2026: What are the key takeaways? - Al Jazeera
-- Will record donations to Reform go down as a moment of political change? - bbc.com
-- OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development - The Guardian
-- Fed’s Warsh on Collision Course With Trump as Rate Hike Looms - Bloomberg.com
-- How Carney plans to sell Canada to the world's biggest investors - bbc.com
-- Anthropic has chosen the Nasdaq for its IPO listing - Business Insider
-- Apple’s $1,199 iPhone 18 Pro Is Free If Your Old Phone Still Turns On - Gizmodo
+- Why Trump's united Ireland stance hit such a nerve - Axios
+- Missing US hiker, 70, found injured on remote island after week-long search - The Guardian
+- Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station - BBC
+- Xi-Modi Thaw at BRICS Masks Deep Divisions Between Asian Rivals - Bloomberg.com
+- Indonesia rescuers battle turbulent seas in search for 129 people after passenger ship capsizes - Reuters
+- Sweden’s centre-left leads by three seats as election count continues - Al Jazeera
+- Anthropic CEO warns AI ‘swarm’ could take over internet within 6 to 12 months - KTLA
+- Amazon suspends use of 21 Air, cargo carrier involved in fatal Miami crash - NBC News
+- Warsh and Trump on collision course as investors expect Fed to raise rates - Financial Times
+- White House agrees to new ethics language in crypto bill - The Hill
+- Apple’s iPhone 18 Pro vs. 14 Pro: The Four-Year Difference Between Apple’s Pro Phones - CNET
 - Apple is reportedly working on iPhone game controllers - The Verge
