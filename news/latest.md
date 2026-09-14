@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-14 00:35_
+_Updated: 2026-09-14 02:52_
 
-- Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed - apnews.com
-- Trump downplays AI risks after dire expert warnings and calls to slow development down - BBC
-- Why Trump's united Ireland stance hit such a nerve - Axios
-- Train carrying Boris Johnson and ex-CIA chief may have been targeted in Russian strike, officials say - The Guardian
-- Washington scrambles to meet calls for AI guardrails while the window to act closes - CNBC
-- Trump calls on Ukraine to stop striking Russian diesel refineries - Financial Times
+- Trump downplays the need to check AI development and says he doesn't want to cede edge to China - AP News
+- Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive - cnbc.com
+- Trump's $5,000 checks require Congress to approve, Johnson says - Axios
+- Top Lawmakers Agree A.I.’s Risks Are Rising but Say They Have No Quick Fix - The New York Times
+- Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station - bbc.com
+- Trump pokes the U.K., and Ireland’s unity debate catches fire - The Washington Post
 - Tom Tiffany's plane forced to make emergency water landing after campaign event - WISN
-- Security stops alleged trespasser on Kamala Harris’ Malibu property - wtop.com
-- Chicago mayor bets progressives will turn out for him in announcing reelection bid - Politico
-- After Trump says he doesn't need Congress for his $5,000 'dividend,' House Speaker says not so fast - Fortune
-- Rescuers search for about 130 missing people after Indonesia ferry capsizes - Al Jazeera
-- Will record donations to Reform go down as a moment of political change? - BBC
-- Sweden election forecast says vote too close to call - politico.eu
+- Obama calls for Dems to focus on AI - Politico
+- Security stops alleged trespasser on Kamala Harris’ Malibu property - WTOP News
+- Brandon Johnson to Seek Second Term as Mayor of Chicago - The New York Times
+- Houthis' Yemen advance leaves Gulf states with uncomfortable choice - Reuters
+- Sweden’s election too close to call after late right-wing surge - politico.eu
 - BRICS summit 2026: What are the key takeaways? - Al Jazeera
-- Dario Amodei Says AI Industry ‘Lied’ About Technology’s Risks - Forbes
+- Will record donations to Reform go down as a moment of political change? - bbc.com
+- OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development - The Guardian
+- Fed’s Warsh on Collision Course With Trump as Rate Hike Looms - Bloomberg.com
+- How Carney plans to sell Canada to the world's biggest investors - bbc.com
 - Anthropic has chosen the Nasdaq for its IPO listing - Business Insider
-- 'This is the test': All eyes on US Fed to tackle high inflation - Yahoo Finance
-- A fresh midterm headache for the GOP just hit a national record - Fox Business
-- Apple is designing its own game controllers for iPhone, could be Beats branded - 9to5Mac
 - Apple’s $1,199 iPhone 18 Pro Is Free If Your Old Phone Still Turns On - Gizmodo
+- Apple is reportedly working on iPhone game controllers - The Verge
