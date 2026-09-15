@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-15 21:11_
+_Updated: 2026-09-16 00:26_
 
-- Live Updates: Supreme Court Rejects Trump’s Restrictions on Voting by Mail - The New York Times
 - Trump’s handpicked Kennedy Center board votes to immediately close venue for renovations - NBC News
+- Trump slams the Supreme Court for rejecting his push to restrict mail ballots - AP News
 - Iran war has led to US munitions shortfalls, Pentagon inspector confirms - BBC
-- US confirms for first time it has deployed weapons in space - theguardian.com
-- Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war - NPR
-- Election officials prepare for chaos as Trump seeks to tilt the midterms to Republicans - Reuters
-- Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI - NPR
-- FBI Director Kash Patel testifies before Senate panel as Democrats blast his record, FBI touts crime stats - CBS News
-- Trump facing AI backlash in Congress as push for guardrails intensifies - theguardian.com
-- ‘Zombie’ video of Mitch McConnell’s return to Senate causes internet uproar - The Independent
-- Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen - theguardian.com
-- What I saw when drones targeted a train in Ukraine, with ex-CIA director aboard - The Washington Post
+- Johnson plays down AI warnings : ‘You’re not all going to be dead in 10 years’ - Politico
+- U.S. confirms for the first time that it has deployed weapons in space. China and Russia have responded. - CBS News
+- Trump says Wray should ‘pay a price’ for Butler probe - Politico
+- Kash Patel defends FBI hiring policy on applicants who have engaged in bestiality - The Guardian
+- Pennsylvania Man Is Arrested and Accused of Planning Terrorist Attack - The New York Times
+- Republican lawmaker moves to force vote on impeaching Hegseth - The Washington Post
+- What Nvidia CEO Huang Told Trump About the AI Doom Debate - Barron's
+- Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen - The Guardian
 - House Dems demand answers to Trump Jr.’s ties with Russian oligarch - Politico
+- Alex Saab, ally of Venezuela's Maduro, pleads guilty in US corruption case - Reuters
 - NATO jets shoot down drone over Lithuania and Russian ship fires flares at Danish helicopter - AP News
-- Global bond yields hit fresh highs, raising stakes for big borrowers - Reuters
-- Could AI really wipe out humanity and hijack the internet? - theguardian.com
-- Dow falls 450 points as losses accelerate following a 19-year high in the 10-year Treasury yield: Live updates - CNBC
+- Senate cloture vote on Clarity Act fails, dealing regulatory blow to crypto industry - CNBC
+- Could AI really wipe out humanity – six experts spell out the risks - The Guardian
+- US borrowing costs hit highest level since 2007 as oil prices jump - BBC
 - Fed meeting live updates: Anticipation builds with Fed expected to hike interest rates for first time in 3 years - Yahoo Finance
-- Rapper Santy Sharma Makes Viral Joke And Meme About The New iPhone Duo’s Insane Price Tag - Yahoo
+- Live Q&A: Ask Me Your Questions About iPhone Duo, iOS 27, the New Siri and More - WSJ
 - Your iPhone may die faster this week: Here’s why - The Hill
