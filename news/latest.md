@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-15 01:59_
+_Updated: 2026-09-15 07:21_
 
-- Mitch McConnell returns to Senate after fall that led to an extended medical absence - NPR
-- Trump says AI doesn’t need guardrails, only a ‘high IQ’ president - NBC News
-- Trump's mail-in voting restrictions blocked by a second judge - Reuters
-- Newsom says he won’t run for president if Harris runs again - Politico
-- Russian Businessman Paid for Donald Trump Jr.’s Lavish Wedding After-Party - The New York Times
-- Lindsay Clancy juror says panel saw case as chance to 'make it better for other women' - Fox News
-- E.P.A. Will Erase Limits on Climate Pollution From Power Plants - The New York Times
+- Live Updates: Supreme Court Rejects Trump’s Restrictions on Voting by Mail - The New York Times
+- Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit - NBC News
+- Mitch McConnell returns to Senate after months-long absence - The Guardian
+- Johnson teases White House meeting with AI executives ‘soon’ - Politico
+- Trump Jr. wedding celebrations were sponsored by powerful Russian businessman - The Washington Post
+- Exclusive: I won’t run against Kamala Harris, Gavin Newsom tells CNN | CNN Politics - CNN
+- Trump’s EPA repeals pollution limits on fossil fuel power plants - NPR
+- ‘Not too much they can do about it’: Frustrated White House faces spiking oil prices - Politico
 - States, cities sue to block Trump immigration rule on public benefits - Reuters
-- Hakeem Jeffries: Congress must act ‘immediately’ to rein in AI - Politico
-- Mahmoud Khalil Says Columbia Failed to Protect Pro-Palestinian Students - The New York Times
-- Ukraine will support energy ceasefire if US ensures Moscow's intent, Zelenskiy says - Reuters
-- Houthis seize 2 strategic Red Sea islands, and other Mideast developments - AP News
-- Satellite images show extent of damage to major Saudi pipeline, amid global oil supply fears - The Guardian
-- Russia wanted to cow Ukraine allies with railway drone attack, says top EU diplomat - politico.eu
-- AI 'kill switch' may need to be mandatory, Anthropic co-founder says - BBC
-- Stock Market Today: 10-Year Treasury Yield Touches 5% as AI Warning Spooks Tech Stocks — Live Updates - WSJ
+- Karl Rove will vote for Democrat over Bo French - The Texas Tribune
+- Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News
+- Trump nominates wife of ‘God Bless the USA’ singer Lee Greenwood to serve as US ambassador - seattletimes.com
+- Houthis strike Saudi targets anew as talks over Strait of Hormuz stall - Reuters
+- Ukraine war live: Poland scrambles jets as Putin attacks Kyiv with jet-powered drones - The Independent
+- Spike on 10-year bond yields renews concerns over U.S. debt - The Washington Post
+- Sen. Kennedy readies AI ‘kill switch’ bill - Politico
 - Bank of America CEO Sparks Bank Stock Selloff With One Small Word - Barron's
-- AI stocks drop, but the rest of Wall Street holds steadier after oil prices give back an early jump - AP News
-- iOS 27 AI Camera Summaries Cost $9.99 for One Camera, $59.99 for Five - MacRumors
-- Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame - The Verge
+- Too early to judge Fed Chairman Kevin Warsh's communication style, billionaire investor David Rubenstein says - Yahoo Finance
+- Apple releases iOS 27 with Siri AI overhaul - The Verge
+- Valve Announces Steam Frame Price, Release Date, and Accessories – Pre-orders Now Open - Road to VR
