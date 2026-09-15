@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-15 12:27_
+_Updated: 2026-09-15 17:15_
 
-- Supreme Court rejects Trump mail ballot restrictions ahead of midterms - AP News
-- Mitch McConnell returns to Senate after three-month absence - BBC
-- Trump calls Nvidia CEO Jensen Huang during summit, dismisses AI fears as 'hoax' - Fox Business
-- Trump Jr. wedding celebrations were sponsored by powerful Russian businessman - The Washington Post
-- Trump DHS whistleblower alleges workers lied to access state voter data - Axios
-- Ex-Dem insider exposes what Harris told top donors days before Biden dropped out: 'Insulting' - Fox News
-- Tech CEOs call for AI regulation. Trump and Congress are not rushing to act - AP News
-- San Francisco boy’s death marks city’s first cychlorphine OD - KRON4
-- ‘Profoundly unhelpful’: Texas Republicans worry Bo French’s xenophobic posts make a tough year worse - Politico
-- Alex Bores launches $30 million effort to unify Dems on AI - Politico
-- Houthis seize 2 strategic Red Sea islands, and other Mideast developments - AP News
-- NATO 'committed and ready' after shooting down drone over Lithuania - Euronews.com
-- Apparent Houthi attacks trigger alerts in 6 Saudi cities; Riyadh vows response - The Times of Israel
-- Lucy Letby Murder Inquiry to Issue Report Despite Doubts Over Guilt - The New York Times
-- Stock futures slip as 10-year Treasury yield breaches 5% mark: Live updates - CNBC
-- Democrats send counteroffer to Republicans over Clarity Act provisions - CoinDesk
-- Sen. Kennedy readies AI ‘kill switch’ bill - Politico
-- Federal Reserve is expected to raise its benchmark rate, defying Trump’s demands - AP News
-- 50 New Things Your iPhone Can Do in iOS 27 - Out Now! - MacRumors
+- Supreme Court blocks new Postal Service rules for mail ballots in blow to Trump - CBS News
+- U.S. Has Deployed Weapons in Space, Air Force Secretary Says - The New York Times
+- Iranian strikes have damaged hundreds of structures at U.S. bases, watchdog says - The Washington Post
+- Texas Republicans are scrambling after Bo French’s outburst - Politico
+- FBI Director Kash Patel testifies before Senate panel as Democrats blast his record, FBI touts crime stats - CBS News
+- Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI - NPR
+- Inside John Thune’s AI dilemma - Politico
+- "I am the Hoax Buster": Trump's war on AI doomers gets personal - Axios
+- For thousands of Haitians in the U.S., end of protected status brings fear, grief and defiance - NPR
+- Judge Blocks Trump Rule Aimed at International Students and Journalists - The New York Times
+- Ukraine and Russia Deny Trump’s Claims of an Energy Truce - The New York Times
+- What I saw when drones targeted a train in Ukraine, with ex-CIA director aboard - The Washington Post
+- Saudi Arabia: Satellite image reveals major damage that shut crucial oil pipeline - bbc.com
+- Latin American migrants deported by ICE to West Africa describe being stranded "on the other side of the world" - CBS News
+- Stock Market Today: Dow Falls 200 Points at Open; 10-Year Treasury Yield at 5% — Live Updates - WSJ
+- US Senate to vote on advancing landmark crypto bill - Reuters
+- Will AI really destroy humanity? Pioneers who created the tech weigh in - CNBC
+- Canada is a 'safe harbour' for global finance, Carney says - bbc.com
 - Steam Frame Costs More Than $1000: Price, Release Date, Reservation Queue Confirmed for US, UK and EU - Digital Foundry
+- Battery draining faster after updating to iOS 27? Don’t panic … - 9to5mac.com
