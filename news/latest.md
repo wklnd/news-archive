@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-15 07:21_
+_Updated: 2026-09-15 12:27_
 
-- Live Updates: Supreme Court Rejects Trump’s Restrictions on Voting by Mail - The New York Times
-- Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit - NBC News
-- Mitch McConnell returns to Senate after months-long absence - The Guardian
-- Johnson teases White House meeting with AI executives ‘soon’ - Politico
+- Supreme Court rejects Trump mail ballot restrictions ahead of midterms - AP News
+- Mitch McConnell returns to Senate after three-month absence - BBC
+- Trump calls Nvidia CEO Jensen Huang during summit, dismisses AI fears as 'hoax' - Fox Business
 - Trump Jr. wedding celebrations were sponsored by powerful Russian businessman - The Washington Post
-- Exclusive: I won’t run against Kamala Harris, Gavin Newsom tells CNN | CNN Politics - CNN
-- Trump’s EPA repeals pollution limits on fossil fuel power plants - NPR
-- ‘Not too much they can do about it’: Frustrated White House faces spiking oil prices - Politico
-- States, cities sue to block Trump immigration rule on public benefits - Reuters
-- Karl Rove will vote for Democrat over Bo French - The Texas Tribune
-- Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News
-- Trump nominates wife of ‘God Bless the USA’ singer Lee Greenwood to serve as US ambassador - seattletimes.com
-- Houthis strike Saudi targets anew as talks over Strait of Hormuz stall - Reuters
-- Ukraine war live: Poland scrambles jets as Putin attacks Kyiv with jet-powered drones - The Independent
-- Spike on 10-year bond yields renews concerns over U.S. debt - The Washington Post
+- Trump DHS whistleblower alleges workers lied to access state voter data - Axios
+- Ex-Dem insider exposes what Harris told top donors days before Biden dropped out: 'Insulting' - Fox News
+- Tech CEOs call for AI regulation. Trump and Congress are not rushing to act - AP News
+- San Francisco boy’s death marks city’s first cychlorphine OD - KRON4
+- ‘Profoundly unhelpful’: Texas Republicans worry Bo French’s xenophobic posts make a tough year worse - Politico
+- Alex Bores launches $30 million effort to unify Dems on AI - Politico
+- Houthis seize 2 strategic Red Sea islands, and other Mideast developments - AP News
+- NATO 'committed and ready' after shooting down drone over Lithuania - Euronews.com
+- Apparent Houthi attacks trigger alerts in 6 Saudi cities; Riyadh vows response - The Times of Israel
+- Lucy Letby Murder Inquiry to Issue Report Despite Doubts Over Guilt - The New York Times
+- Stock futures slip as 10-year Treasury yield breaches 5% mark: Live updates - CNBC
+- Democrats send counteroffer to Republicans over Clarity Act provisions - CoinDesk
 - Sen. Kennedy readies AI ‘kill switch’ bill - Politico
-- Bank of America CEO Sparks Bank Stock Selloff With One Small Word - Barron's
-- Too early to judge Fed Chairman Kevin Warsh's communication style, billionaire investor David Rubenstein says - Yahoo Finance
-- Apple releases iOS 27 with Siri AI overhaul - The Verge
-- Valve Announces Steam Frame Price, Release Date, and Accessories – Pre-orders Now Open - Road to VR
+- Federal Reserve is expected to raise its benchmark rate, defying Trump’s demands - AP News
+- 50 New Things Your iPhone Can Do in iOS 27 - Out Now! - MacRumors
+- Steam Frame Costs More Than $1000: Price, Release Date, Reservation Queue Confirmed for US, UK and EU - Digital Foundry
