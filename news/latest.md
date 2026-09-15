@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-15 17:15_
+_Updated: 2026-09-15 21:11_
 
-- Supreme Court blocks new Postal Service rules for mail ballots in blow to Trump - CBS News
-- U.S. Has Deployed Weapons in Space, Air Force Secretary Says - The New York Times
-- Iranian strikes have damaged hundreds of structures at U.S. bases, watchdog says - The Washington Post
-- Texas Republicans are scrambling after Bo French’s outburst - Politico
-- FBI Director Kash Patel testifies before Senate panel as Democrats blast his record, FBI touts crime stats - CBS News
+- Live Updates: Supreme Court Rejects Trump’s Restrictions on Voting by Mail - The New York Times
+- Trump’s handpicked Kennedy Center board votes to immediately close venue for renovations - NBC News
+- Iran war has led to US munitions shortfalls, Pentagon inspector confirms - BBC
+- US confirms for first time it has deployed weapons in space - theguardian.com
+- Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war - NPR
+- Election officials prepare for chaos as Trump seeks to tilt the midterms to Republicans - Reuters
 - Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI - NPR
-- Inside John Thune’s AI dilemma - Politico
-- "I am the Hoax Buster": Trump's war on AI doomers gets personal - Axios
-- For thousands of Haitians in the U.S., end of protected status brings fear, grief and defiance - NPR
-- Judge Blocks Trump Rule Aimed at International Students and Journalists - The New York Times
-- Ukraine and Russia Deny Trump’s Claims of an Energy Truce - The New York Times
+- FBI Director Kash Patel testifies before Senate panel as Democrats blast his record, FBI touts crime stats - CBS News
+- Trump facing AI backlash in Congress as push for guardrails intensifies - theguardian.com
+- ‘Zombie’ video of Mitch McConnell’s return to Senate causes internet uproar - The Independent
+- Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen - theguardian.com
 - What I saw when drones targeted a train in Ukraine, with ex-CIA director aboard - The Washington Post
-- Saudi Arabia: Satellite image reveals major damage that shut crucial oil pipeline - bbc.com
-- Latin American migrants deported by ICE to West Africa describe being stranded "on the other side of the world" - CBS News
-- Stock Market Today: Dow Falls 200 Points at Open; 10-Year Treasury Yield at 5% — Live Updates - WSJ
-- US Senate to vote on advancing landmark crypto bill - Reuters
-- Will AI really destroy humanity? Pioneers who created the tech weigh in - CNBC
-- Canada is a 'safe harbour' for global finance, Carney says - bbc.com
-- Steam Frame Costs More Than $1000: Price, Release Date, Reservation Queue Confirmed for US, UK and EU - Digital Foundry
-- Battery draining faster after updating to iOS 27? Don’t panic … - 9to5mac.com
+- House Dems demand answers to Trump Jr.’s ties with Russian oligarch - Politico
+- NATO jets shoot down drone over Lithuania and Russian ship fires flares at Danish helicopter - AP News
+- Global bond yields hit fresh highs, raising stakes for big borrowers - Reuters
+- Could AI really wipe out humanity and hijack the internet? - theguardian.com
+- Dow falls 450 points as losses accelerate following a 19-year high in the 10-year Treasury yield: Live updates - CNBC
+- Fed meeting live updates: Anticipation builds with Fed expected to hike interest rates for first time in 3 years - Yahoo Finance
+- Rapper Santy Sharma Makes Viral Joke And Meme About The New iPhone Duo’s Insane Price Tag - Yahoo
+- Your iPhone may die faster this week: Here’s why - The Hill
