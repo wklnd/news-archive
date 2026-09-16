@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-16 08:45_
+_Updated: 2026-09-16 14:08_
 
-- House Directs Trump to Halt War With Iran or Secure Congress’s Approval - The New York Times
-- Three dead in Los Angeles news helicopter crash - BBC
-- Election watchers brace for Trump’s next move after Supreme Court ruling - Politico
-- Kennedy Center closes as Trump threatens to stop repairs over naming fight - The Washington Post
-- Democrats are alarmed about AI. They’re not planning to hit it hard on the campaign trail. - Politico
-- Republican congressman calls to impeach US Defence Secretary Pete Hegseth - Al Jazeera
-- Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms - The New York Times
-- Kash Patel defends FBI’s new policy on bestiality at Senate hearing - NBC News
-- Poll: California wealth tax holds narrow lead - Politico
-- Trump Defended A.I. Data Centers on Truth Social, and Commenters Clapped Back - The New York Times
-- Some physical oil cargoes top $130 a barrel, nearing April's record, on Saudi disruptions - Reuters
-- Saudi-led coalition intercepts Houthi drone headed for Mecca - Al Jazeera
-- Pentagon Inspector General Details U.S. Losses and Challenges in Iran War - The New York Times
-- Donald Trump Jr.’s Wedding Scandal Is Even More Ridiculous When You Remember What Tiffany Trump Tried at Hers - Slate Magazine
-- Crypto Darling Gillibrand’s 11th-Hour Flip-Flop Helps Block Trump Crypto Bill - The Intercept
-- Fed expected to hike interest rates for first time since 2023. See what it means for your money. - CBS News
-- OpenAI, Anthropic, Google have been in talks on AI safety for weeks - TechCrunch
-- Ford unveils 2027 F-150 with hands-free towing, first-ever Carhartt edition - Fox Business
+- 3 dead after news helicopter reporting for NBC L.A. crashes while covering fatal bus collision - NBC News
+- Trump-aligned Kennedy Center board votes to close building - Axios
+- Trump's push to restrict mail ballots has failed. Other efforts to reshape the midterms are ongoing - AP News
+- US House votes to end Iran war, 7 Republicans join in favour - Al Jazeera
+- EU's von der Leyen wants Canada to become bloc's first associate member - Reuters
+- Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca - The Guardian
+- Americans are increasingly concerned about the environmental impact of AI, new poll finds - AP News
+- Senators question Trump's picks for top health positions, including surgeon general - NPR
+- Charlie Kirk's family signals intent to sue, alleging 'stunning failures' led to on-campus assassination - ABC News - Breaking News, Latest News and Videos
+- Why Trump is all-in on AI despite the warnings - bbc.com
+- In wartime Russia, veterans who fought in Ukraine are running for parliament - AP News
+- NATO jets shoot down drone in Lithuania as Russia continues to provoke Europe - PBS
+- Former Kosovo President Hashim Thaci sentenced to 25 years for war crimes - Al Jazeera
+- Saudi Pipeline Attack Risks ‘Disastrous’ Loss of Millions of Barrels of Oil - The New York Times
+- Fed meeting live updates: Anticipation builds with Fed expected to hike interest rates for first time in 3 years - Yahoo Finance
+- OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports - Reuters
+- Google DeepMind researcher quits with chilling AI warning: It could ‘kill us all’ - New York Post
+- Billionaires Mark Zuckerberg And Jensen Huang Offer AI Slowdown Counterarguement - Forbes
+- New PS5 Pulse Headsets Revealed by Sony with Better Sound and Comfort - Push Square
 - The Boox Palma 3 gets stylus support and a sleek redesign - The Verge
-- Apple Details How Reference Image Proves a Photo is Real - macrumors.com
