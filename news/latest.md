@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-16 14:08_
+_Updated: 2026-09-16 19:16_
 
-- 3 dead after news helicopter reporting for NBC L.A. crashes while covering fatal bus collision - NBC News
-- Trump-aligned Kennedy Center board votes to close building - Axios
-- Trump's push to restrict mail ballots has failed. Other efforts to reshape the midterms are ongoing - AP News
-- US House votes to end Iran war, 7 Republicans join in favour - Al Jazeera
-- EU's von der Leyen wants Canada to become bloc's first associate member - Reuters
-- Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca - The Guardian
-- Americans are increasingly concerned about the environmental impact of AI, new poll finds - AP News
-- Senators question Trump's picks for top health positions, including surgeon general - NPR
-- Charlie Kirk's family signals intent to sue, alleging 'stunning failures' led to on-campus assassination - ABC News - Breaking News, Latest News and Videos
-- Why Trump is all-in on AI despite the warnings - bbc.com
-- In wartime Russia, veterans who fought in Ukraine are running for parliament - AP News
-- NATO jets shoot down drone in Lithuania as Russia continues to provoke Europe - PBS
+- 3 dead after news helicopter crashes while covering deadly Los Angeles bus collision - NBC News
+- Canada invited to become first 'associate member' of the EU - Euronews.com
+- Mike Johnson cancels another House session day - Politico
+- Global Oil Prices Could Hit Highest Levels in Months After Saudi Pipeline Attacks - The New York Times
+- Democrat Says Trump Threw ‘Tantrum’ During Kennedy Center Board Meeting After Court Ruling - Forbes
+- Obamas' dog Sunny dies: "A cherished member of our family" - CBS News
+- Charlie Kirk's family alleges UVU knew of rooftop security risk before his assassination: legal filing - Fox News
+- Attack on University of Texas Students Tests Texas G.O.P. Unity - The New York Times
+- Iowa Republicans in battleground House races vote to halt the Iran war - AP News
+- Election officials get mail-in voting clarity after Supreme Court decision - PBS
 - Former Kosovo President Hashim Thaci sentenced to 25 years for war crimes - Al Jazeera
-- Saudi Pipeline Attack Risks ‘Disastrous’ Loss of Millions of Barrels of Oil - The New York Times
-- Fed meeting live updates: Anticipation builds with Fed expected to hike interest rates for first time in 3 years - Yahoo Finance
-- OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports - Reuters
-- Google DeepMind researcher quits with chilling AI warning: It could ‘kill us all’ - New York Post
-- Billionaires Mark Zuckerberg And Jensen Huang Offer AI Slowdown Counterarguement - Forbes
-- New PS5 Pulse Headsets Revealed by Sony with Better Sound and Comfort - Push Square
-- The Boox Palma 3 gets stylus support and a sleek redesign - The Verge
+- War-damaged Gaza building collapses, killing 20 people sheltering inside - Reuters
+- Trump envoy secures release of 25 Belarus prisoners as U.S. drops more sanctions - NBC News
+- NATO jets shoot down drone in Lithuania as Russia continues to provoke Europe - PBS
+- Fed meeting live updates: Rate hike expected for the first time in three years - CNBC
+- Sam Altman says people are right to fear advancing AI but should trust leaders - The Washington Post
+- The Richest Person In America 2026 - Forbes
+- Zuckerberg distances Meta from calls for a coordinated approach on an AI slowdown - AP News
+- The iPhone 18 Pro’s big camera update is all about the small gains - The Verge
+- macOS 27 Golden Gate: The Ars Technica review - Ars Technica
