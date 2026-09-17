@@ -1,24 +1,4 @@
 # Top News Headlines
 
-_Updated: 2026-09-17 22:33_
+_Updated: 2026-09-18 01:05_
 
-- Trump administration says Kennedy Center closure is ‘temporary’ after Trump alludes to broader shutdown - politico.com
-- Carney embraces EU associate membership proposal as Trump pushes Canada closer to Europe - AP News
-- White House pulls stalled ICE director nominee - politico.com
-- Verified video shows wreckage of Saudi fighter jet shot down over Yemen - BBC
-- Zuckerberg, Musk And Huang Reportedly Convinced Trump To Block AI Regulator - Forbes
-- What we know about the 7 women linked to massive investigation at Olney house Philadelphia - 6abc Philadelphia
-- Texas abortion ban caused pregnant woman’s death, lawsuit says - NBC News
-- Newsom floats prospect of special session or executive action on AI - politico.com
-- Senate Democrat blocks House-passed bill to shield Americans from data center energy costs, proposing alternate measure - CBS News
-- The L.A. Helicopter Crash Highlights a Sky Full of Hazards - The New York Times
-- How Yemen's Houthis went from a small mountain militia to a big regional threat - reuters.com
-- Swedish PM Ulf Kristersson resigns after election loss - BBC
-- Israel adds tender for 2,167 housing units to E1 settlement plan, rights group says - The Times of Israel
-- Scoop: Trump to hold Iran talks with Gulf leaders next week - Axios
-- What the Fed's interest rate hike reveals about Warsh, Trump and inflation - CBS News
-- Covert uploads and megalomania: OpenAI details new "misaligned" agent incidents - Ars Technica
-- GM to Produce Patriot Missile Parts as U.S. Faces Critical Arms Shortage - WSJ
-- GM touts new V-8 engines in revived ‘truck wars’ with Ford, Ram amid lackluster EV sales - CNBC
-- The Apple Watch Series 12 is the start of a new wearable era - The Verge
-- Razer Refreshes The One-Handed Tartarus Pro Keyboard With Improved Switches - Engadget
