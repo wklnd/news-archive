@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-17 19:15_
+_Updated: 2026-09-17 22:33_
 
-- Trump photo seems to reference Kennedy Center demolition amid legal battle over closure - cnbc.com
+- Trump administration says Kennedy Center closure is ‘temporary’ after Trump alludes to broader shutdown - politico.com
 - Carney embraces EU associate membership proposal as Trump pushes Canada closer to Europe - AP News
-- People's houses are collapsing into the ocean. FEMA gives them no other option - NPR
-- Dramatic recording could help answer why NBC4 helicopter crashed - Los Angeles Times
-- UN experts say grounds to believe US committed war crimes in Iran strikes - bbc.com
-- Democratic candidates hold narrow leads in Texas and Michigan US Senate races, new poll shows – live - The Guardian
-- Longtime Arizona Sen. Jon Kyl dies following dementia diagnosis - AZ Family
+- White House pulls stalled ICE director nominee - politico.com
+- Verified video shows wreckage of Saudi fighter jet shot down over Yemen - BBC
+- Zuckerberg, Musk And Huang Reportedly Convinced Trump To Block AI Regulator - Forbes
+- What we know about the 7 women linked to massive investigation at Olney house Philadelphia - 6abc Philadelphia
 - Texas abortion ban caused pregnant woman’s death, lawsuit says - NBC News
-- How China is driving the emerging partisan divide on AI safety - politico.com
-- After nitrogen execution blocked, convicted killer of famous Elvis impersonator set to die by lethal injection in Alabama - cbsnews.com
-- Sweden's prime minister steps down after losing election - Reuters
-- From Yanbu to Sohar: Tracking Saudi Arabia’s alternative oil routes - Al Jazeera
-- EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say - Reuters
-- SC suspends Imaan Mazari, husband's sentences in controversial tweets case - Geo News
-- A Treasurer’s Playbook Following a Fed Rate Hike: Ask Banks to Pay Up for Deposits - WSJ
-- OpenAI discloses more rogue agents, pressing debate on regulation - Fox News
-- Trump Looks Isolated on Interest Rates - The New York Times
-- GM touts new V-8 engines in revived ‘truck wars’ with Ford, Ram amid lackluster EV sales - cnbc.com
-- Snap targets enterprises with Salesforce, Nvidia AI tools for Specs AR glasses - Reuters
+- Newsom floats prospect of special session or executive action on AI - politico.com
+- Senate Democrat blocks House-passed bill to shield Americans from data center energy costs, proposing alternate measure - CBS News
+- The L.A. Helicopter Crash Highlights a Sky Full of Hazards - The New York Times
+- How Yemen's Houthis went from a small mountain militia to a big regional threat - reuters.com
+- Swedish PM Ulf Kristersson resigns after election loss - BBC
+- Israel adds tender for 2,167 housing units to E1 settlement plan, rights group says - The Times of Israel
+- Scoop: Trump to hold Iran talks with Gulf leaders next week - Axios
+- What the Fed's interest rate hike reveals about Warsh, Trump and inflation - CBS News
+- Covert uploads and megalomania: OpenAI details new "misaligned" agent incidents - Ars Technica
+- GM to Produce Patriot Missile Parts as U.S. Faces Critical Arms Shortage - WSJ
+- GM touts new V-8 engines in revived ‘truck wars’ with Ford, Ram amid lackluster EV sales - CNBC
 - The Apple Watch Series 12 is the start of a new wearable era - The Verge
+- Razer Refreshes The One-Handed Tartarus Pro Keyboard With Improved Switches - Engadget
