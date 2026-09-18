@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-18 13:48_
+_Updated: 2026-09-18 18:43_
 
-- Trump threatens to tear down the Kennedy Center, as legal battle continues - NPR
-- Poland's prime minister warns of Russian 'accidental' attacks on Ukraine's allies - NPR
-- Iran War Updates: U.N. panel cites possible U.S. war crimes as Trump again says Iran wants a deal - CBS News
-- A DHS email raises new questions about the Trump administration's election plans - NPR
-- The driver who slammed into an LA bus before a news helicopter crash is charged with murder - AP News
-- Is there a serial killer in Philadelphia? What police have said so far - NewsNation
+- Trump says ‘big decision coming up’ for US on Iran war, as he warns he could ‘annihilate’ regime - foxnews.com
+- Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children - BBC
+- Why Russia Holds Elections, and How the Kremlin Gets the Results It Wants - The New York Times
+- Russian hybrid attacks against Europe intensifying, says Macron - BBC
+- Judge says Trump can't demolish Kennedy Center. And, lawsuits target voter intimidation - NPR
+- Canberra responds to Metsola’s EU 'associate membership' suggestion - Euronews.com
+- Early voting begins in midterms as campaign shifts focus to cost of living and Iran war – US politics live - The Guardian
+- The driver who slammed into an LA bus before helicopter crash is charged with murder - NPR
 - Abortion Rights Activists in Idaho Find Their Pitch: Bring Back the Doctors - The New York Times
-- Alabama Executes Inmate After Supreme Court Blocked Last Attempt - The New York Times
-- White House withdraws Trump's ICE nominee as Republican senator objects - BBC
-- Fear and loathing in Trump's Miami backyard over immigration crackdown - Axios
-- ‘Voters get to choose — just not the result’: Russia’s parliamentary election reaches occupied Ukraine - Fox News
-- New tiger cat species identified in Bolivia, first in over a century - Al Jazeera
-- Two students killed in Philippine school shooting and teen suspect dead, officials say - cnn.com
-- Convicted of Theft, an Ex-Prime Minister Is Set to Swap Prison for Mansion - The New York Times
-- Warren Buffett stepping down as chairman of Berkshire Hathaway: 'Father Time always wins' - CNBC
-- Japan Raises Interest Rates in a Decision Muddied by U.S. Pressure - The New York Times
+- Hill investigates after F-35 parts diverted to Hong Kong - Politico
+- Swimmer killed in shark attack in front of horrified beachgoers in Australia: "I could see a pool of blood" - CBS News
+- 'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview - BBC
+- Malaysia’s Former Prime Minister Can Serve Rest of 1MDB Sentence Under House Arrest - WSJ
+- 37 Miners in Nigeria Die in Police Custody, Sparking Protests - The New York Times
+- Warren Buffett Steps Down as Berkshire Chairman and Names Son to Replace Him - The New York Times
+- Wall St slips as higher Treasury yields weigh on sentiment - Reuters
+- Japan’s central bank raises benchmark interest rate to 1.25%, the highest in 31 years - AP News
 - What a Fed rate hike means for credit card debt, car loans and savers - USA Today
-- Security Researchers Hacked Into OpenAI Using Anthropic’s Claude - Forbes
-- First iPhone 18 Pro, Apple Watch Series 12, Apple Watch Ultra 4 and AirPods 5 Orders Arriving to Customers - MacRumors
-- SteamOS 0.3.0 for Steam Frame released - GamingOnLinux
+- Apple AirPods 5 Review: The Choice Is Clear - Engadget
+- Apple Watch Ultra 4 vs. Galaxy Watch Ultra 2: Comparing their features, durability and displays - Engadget
