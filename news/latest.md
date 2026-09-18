@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-18 18:43_
+_Updated: 2026-09-18 21:12_
 
-- Trump says ‘big decision coming up’ for US on Iran war, as he warns he could ‘annihilate’ regime - foxnews.com
-- Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children - BBC
-- Why Russia Holds Elections, and How the Kremlin Gets the Results It Wants - The New York Times
-- Russian hybrid attacks against Europe intensifying, says Macron - BBC
+- California Gov. Newsom issues executive order to rein in AI 'before it's too late' - CNBC
+- Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children - bbc.com
+- Trump says ‘big decision coming up’ for US on Iran war, as he warns he could ‘annihilate’ regime - Fox News
+- Gas prices approach highest level this year with just weeks to go before midterms - NBC News
 - Judge says Trump can't demolish Kennedy Center. And, lawsuits target voter intimidation - NPR
-- Canberra responds to Metsola’s EU 'associate membership' suggestion - Euronews.com
-- Early voting begins in midterms as campaign shifts focus to cost of living and Iran war – US politics live - The Guardian
-- The driver who slammed into an LA bus before helicopter crash is charged with murder - NPR
-- Abortion Rights Activists in Idaho Find Their Pitch: Bring Back the Doctors - The New York Times
-- Hill investigates after F-35 parts diverted to Hong Kong - Politico
-- Swimmer killed in shark attack in front of horrified beachgoers in Australia: "I could see a pool of blood" - CBS News
-- 'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview - BBC
-- Malaysia’s Former Prime Minister Can Serve Rest of 1MDB Sentence Under House Arrest - WSJ
-- 37 Miners in Nigeria Die in Police Custody, Sparking Protests - The New York Times
-- Warren Buffett Steps Down as Berkshire Chairman and Names Son to Replace Him - The New York Times
-- Wall St slips as higher Treasury yields weigh on sentiment - Reuters
-- Japan’s central bank raises benchmark interest rate to 1.25%, the highest in 31 years - AP News
+- New species of wild cat discovered for first time in more than a century, researcher says - CBS News
+- New video shows dazed driver after deadly Metro bus crash in Chatsworth - KTLA
+- DHS’s Mullin takes swipe at Florida Republican’s mass deportation concerns: ‘Every one of them was a criminal’ - Politico
+- Rejecting Trump, South Korean Leader Says He Will Not Send Troops to Iran - The New York Times
+- Trump on war in Iran, Houthi advance in Yemen: ‘It’ll all work out’ – live - The Guardian
+- Russians go to polls with no party against Putin or war in Ukraine - Euronews.com
+- Shark kills swimmer off Western Australian city beach - WRAL
+- Brazilian police arrest a suspect in dozens of killings - AP News
+- Denmark speeds up Ukraine aid package after Russian warship fires flares at helicopter - Reuters
+- Warren Buffett steps down as Berkshire chairman, son Howard succeeds - Reuters
+- Stock Market Today: Dow Steady, Yields Edge Higher — Live Updates - WSJ
 - What a Fed rate hike means for credit card debt, car loans and savers - USA Today
+- Microsoft and OpenAI workers worry about ‘largest theft of labor’ in history, records show - The Seattle Times
+- Tech stocks today: Apple's iPhone 18 Pro goes on sale, AI safety debate continues - Yahoo Finance
 - Apple AirPods 5 Review: The Choice Is Clear - Engadget
-- Apple Watch Ultra 4 vs. Galaxy Watch Ultra 2: Comparing their features, durability and displays - Engadget
