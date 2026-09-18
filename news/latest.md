@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-18 03:29_
+_Updated: 2026-09-18 08:38_
 
-- Fear and loathing in Trump's Miami backyard over immigration crackdown - Axios
-- Judge orders Trump administration to give 30 days’ notice before moving to demolish Kennedy Center - The Guardian
-- Iran War Updates: U.N. panel cites possible U.S. war crimes as Trump again says Iran wants a deal - CBS News
-- White House pulls stalled ICE director nominee - Politico
-- Bailee Rios charged with 2nd degree murder, DUI, reckless driving in Metro bus crash in Chatsworth - ABC7 Los Angeles
-- RFK Jr. Assures Vaccine Skeptics They Have a ‘Friend at the White House’ - The New York Times
-- Man who sprayed Minnesota Rep. Omar with vinegar sentenced to 14 months in prison - AP News
-- ICE agent appears in Minnesota court to face charges in the shooting of a Venezuelan immigrant - NPR
-- Texas abortion ban caused pregnant woman’s death, lawsuit says - NBC News
-- Former ‘Alligator Alcatraz’ detainee says he was placed in phone booth-sized cage for 15 hours - NBC News
-- Explainer: How Yemen's Houthis went from a small mountain militia to a big regional threat - Reuters
+- Trump Air Force One Photos Fuel Kennedy Center Demolition Speculation - The New York Times
+- UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report - CNBC
+- The driver who slammed into an LA bus before helicopter crash is charged with murder - NPR
+- Canada might not join the EU. Why Trump slapped down the idea anyway - Politico
+- Trump claims he has spoken to Iran 'directly,' says war is 'hopefully' near an end - Fox News
+- RFK Jr promises anti-vaxxers a ‘friend at the White House’ amid deadly measles outbreak - The Guardian
+- White House withdraws nominee for ICE director allied with DHS chief Mullin - The Washington Post
+- Alabama Executes Inmate After Supreme Court Blocked Last Attempt - The New York Times
+- Man who sprayed Ilhan Omar with vinegar sentenced to 14 months - The Guardian
+- Work has stopped on system that was key to Trump effort to limit mail voting, USPS chief says - PBS
 - This country has over 100,000 people age 100 or older for first time - USA Today
+- Japan raises interest rate to new 31-year high to curb rising prices - BBC
+- Russians go to polls against backdrop of Ukraine war and Putin’s tightening grip - The Guardian
 - Princess Diana Believed King Charles Was “in Love” With a Member of His Staff, Her Brother Charles Spencer Claims - instyle.com
-- New cat species identified for first time in more than a century in Bolivia - The Guardian
-- What the Fed's interest rate hike reveals about Warsh, Trump and inflation - CBS News
-- OpenAI caught its models leaving notes to successors to hide bad behavior - techcrunch.com
-- Gas prices are about to take a big jump, analysts say, with the worst still to come - washingtonpost.com
-- AI bosses say they can self-regulate and House passes Russia sanctions bill: Morning Rundown - NBC News
+- OpenAI caught its models leaving notes to successors to hide bad behavior - TechCrunch
+- Microsoft exec called AI the ‘largest theft of labor’ in history, court records show - The Washington Post
+- Stocks rise as oil dips, yen weakens after BOJ hikes as expected - Reuters
+- Gas prices jump across the US. See map of state-by-state numbers - USA Today
+- New iPhone 18 Pro Models Will Have Day One Update - MacRumors
 - Snap's Specs AR glasses are now on pre-order, Verizon is offering data plans for them - GSMArena.com news - GSMArena.com
-- The Apple Watch Series 12 is the start of a new wearable era - The Verge
