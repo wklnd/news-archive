@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-18 08:38_
+_Updated: 2026-09-18 13:48_
 
-- Trump Air Force One Photos Fuel Kennedy Center Demolition Speculation - The New York Times
-- UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report - CNBC
-- The driver who slammed into an LA bus before helicopter crash is charged with murder - NPR
-- Canada might not join the EU. Why Trump slapped down the idea anyway - Politico
-- Trump claims he has spoken to Iran 'directly,' says war is 'hopefully' near an end - Fox News
-- RFK Jr promises anti-vaxxers a ‘friend at the White House’ amid deadly measles outbreak - The Guardian
-- White House withdraws nominee for ICE director allied with DHS chief Mullin - The Washington Post
+- Trump threatens to tear down the Kennedy Center, as legal battle continues - NPR
+- Poland's prime minister warns of Russian 'accidental' attacks on Ukraine's allies - NPR
+- Iran War Updates: U.N. panel cites possible U.S. war crimes as Trump again says Iran wants a deal - CBS News
+- A DHS email raises new questions about the Trump administration's election plans - NPR
+- The driver who slammed into an LA bus before a news helicopter crash is charged with murder - AP News
+- Is there a serial killer in Philadelphia? What police have said so far - NewsNation
+- Abortion Rights Activists in Idaho Find Their Pitch: Bring Back the Doctors - The New York Times
 - Alabama Executes Inmate After Supreme Court Blocked Last Attempt - The New York Times
-- Man who sprayed Ilhan Omar with vinegar sentenced to 14 months - The Guardian
-- Work has stopped on system that was key to Trump effort to limit mail voting, USPS chief says - PBS
-- This country has over 100,000 people age 100 or older for first time - USA Today
-- Japan raises interest rate to new 31-year high to curb rising prices - BBC
-- Russians go to polls against backdrop of Ukraine war and Putin’s tightening grip - The Guardian
-- Princess Diana Believed King Charles Was “in Love” With a Member of His Staff, Her Brother Charles Spencer Claims - instyle.com
-- OpenAI caught its models leaving notes to successors to hide bad behavior - TechCrunch
-- Microsoft exec called AI the ‘largest theft of labor’ in history, court records show - The Washington Post
-- Stocks rise as oil dips, yen weakens after BOJ hikes as expected - Reuters
-- Gas prices jump across the US. See map of state-by-state numbers - USA Today
-- New iPhone 18 Pro Models Will Have Day One Update - MacRumors
-- Snap's Specs AR glasses are now on pre-order, Verizon is offering data plans for them - GSMArena.com news - GSMArena.com
+- White House withdraws Trump's ICE nominee as Republican senator objects - BBC
+- Fear and loathing in Trump's Miami backyard over immigration crackdown - Axios
+- ‘Voters get to choose — just not the result’: Russia’s parliamentary election reaches occupied Ukraine - Fox News
+- New tiger cat species identified in Bolivia, first in over a century - Al Jazeera
+- Two students killed in Philippine school shooting and teen suspect dead, officials say - cnn.com
+- Convicted of Theft, an Ex-Prime Minister Is Set to Swap Prison for Mansion - The New York Times
+- Warren Buffett stepping down as chairman of Berkshire Hathaway: 'Father Time always wins' - CNBC
+- Japan Raises Interest Rates in a Decision Muddied by U.S. Pressure - The New York Times
+- What a Fed rate hike means for credit card debt, car loans and savers - USA Today
+- Security Researchers Hacked Into OpenAI Using Anthropic’s Claude - Forbes
+- First iPhone 18 Pro, Apple Watch Series 12, Apple Watch Ultra 4 and AirPods 5 Orders Arriving to Customers - MacRumors
+- SteamOS 0.3.0 for Steam Frame released - GamingOnLinux
