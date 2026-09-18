@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-18 08:23_
+_Updated: 2026-09-18 13:39_
 
 ## Top Stories
 
-- Talmannen träffar partiledarna – Andersson först ut - Västerbottens-Kuriren
-- LEDARE: Fel av Ulf Kristersson att avgå - Nya Wermlands-Tidningen
-- Frätande syra läckte ut på sockerbruk i Örtofta - Omni – Alla nyheter. Alla perspektiv.
-- Så kan Magdalena Andersson mäkla fred mellan C och V - Dagens Nyheter
-- Vallhallaskolan i Oskarshamn håller stängt efter hot - svt.se
-- 17 september 21.08, Mord/dråp, Osby - polisen.se
-- Flera allvarligt skadade – vårdas med splitterskador - Göteborgs-Posten
-- 18 september 07.00, Sammanfattning natt, Västra Götalands län - polisen.se
-- Ledare för internationell penningtvättsliga med kopplingar till Sverige gripen i Förenade Arabemiraten - polisen.se
-- Experten om Anderssons tal: Hon stänger inte dörrar - Dagens Nyheter
+- DN Direkt – Magdalena Andersson efter mötet med talmannen - Dagens Nyheter
+- Låst mellan C och V inför regeringsförhandlingar - SVT Nyheter
+- ”Oraklet från Omaha” avgår – sonen tar över - Svenska Dagbladet
+- Magdalena Anderssons flört kan bli SD:s räddning - Arbetet
+- Håkan Boström: Tidö förlorade, men vem vann? - Göteborgs-Posten
+- SD-källor: Intern maktstrid kan vänta - TV4 Nyheterna
+- Andersson: ”Haft kontakt med flera partiledare” - Göteborgs-Posten
+- Vallhallaskolan i Oskarshamn stängd efter hot – en person misstänkt - SVT Nyheter
+- Flammans eldsjälar begärs häktade – misstänks för grov förskingring - SVT Nyheter
+- Paret röstade olika – hatas och hyllas - Dagens Nyheter
 - ”Finns bara tre sätt att rösta på Putin” – ryssar struntar i valet - Hufvudstadsbladet – HBL
-- Oväntad Trumpkritik från republikansk kongressledamot - Dagens Nyheter
-- Så hanterar du en köttätande växt - Dagens Nyheter
-- Många skadade i ryska attacker mot Kiev och Odessa - Göteborgs-Posten
-- Kan inte koda – sparar en miljon med AI - Svenska Dagbladet
+- Ny kattart upptäckt – första på över 100 år - Dagens Nyheter
+- Ny dödlig hajattack – Australien stänger stränder - Göteborgs-Posten
+- Direkt – Kriget i Ukraina – Fem skadade i rysk drönarattack - Dagens Nyheter
+- Danske Bank tror på Stora Ensos drag: ”Skapar värde” - Dagens industri
+- Glatt på Asienbörserna – högre styrränta i Japan - Göteborgs-Posten
 - Volvo Cars fastställer ny plan för starkare kassaflöde - Evertiq
-- Lidl öppnar butik på NK Stockholm 2027 - Fooddayme
-- Kina sprider sin ai över världen – men här går regimens gräns - nyteknik.se
-- 11,3 biljoner ton is borta: ”Enorm siffra” - TV4 Nyheterna
-- Bill Skarsgård gör huvudrollen i nytt spel från Hideo Kojima - MovieZine
+- Fed-chefen trotsar Trump – höjer styrräntan - Hufvudstadsbladet – HBL
+- Nytt verktyg avslöjar om mejl är AI-genererade - Computer Sweden
+- Snap släpper egen AI-assistent – Specs Intelligence - m3.se
 
 ## World News
 
-- GT World Challenge Asia, Okayama International Circuit, Japan på idag 09:45 - tv.nu
-- European Championships set to reach millions of viewers across the world - International Orienteering Federation
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - news.cision.com
+- GT World Challenge Asia, Okayama International Circuit, Japan på idag 09:45 - TV.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
-- WALOVI's International Cans Make Global Debut, Ushering in a New Era of Eastern Natural Plant Beverages - Aktiellt
+- WALOVI's International Cans Make Global Debut, Ushering in a New Era of Eastern Natural Plant Beverages - swedbank-aktiellt.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Storbritannien: Global lanserar nyhetskanalen LBC News - Radionytt.se
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - news.cision.com
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
@@ -75,22 +75,22 @@ _Updated: 2026-09-18 08:23_
 
 - Redpill Linpro och Berget AI inleder samarbete för suverän AI - Mynewsdesk
 - 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Svensk ekonomi klarar global oro och väntas växa med 2.2 procent 2026 - EY
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
@@ -104,8 +104,8 @@ _Updated: 2026-09-18 08:23_
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Aging Research Center (ARC) ‒ ett forskningscentrum för äldre personers hälsa och levnadsvillkor - Karolinska Institutet
@@ -115,7 +115,7 @@ _Updated: 2026-09-18 08:23_
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
 - Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 - Henna Hasson och Ulrica von Thiele Schwarz skriver blogginlägg om Corona ur ett implementeringsperspektiv - Karolinska Institutet
-- En nationell, miljömässigt hållbar hälso- och sjukvård i sikte - Läkartidningen
+- Sju life science-trender 2026 - Business Region Göteborg
 
 ## Science
 
@@ -126,19 +126,19 @@ _Updated: 2026-09-18 08:23_
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningen ska vara fri - European Commission
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - ”Research on bison completely wrong” - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Enheten för öron-, näs- och halssjukdomar - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
-- Torsten Persson utsedd till vice ordförande i ERC:s vetenskapliga råd - Stockholms universitet
+- Torsten Persson utsedd till vice ordförande i ERC:s vetenskapliga råd - su.se
 - Forskning vid Karolinska Institutet - Karolinska Institutet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 
 ## Jordbruk
 
