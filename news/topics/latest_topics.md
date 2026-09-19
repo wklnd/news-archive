@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-19 13:21_
+_Updated: 2026-09-19 16:40_
 
 ## Top Stories
 
-- USA och Danmark ingår avtal om Grönland - SVT Nyheter
-- Trump portar mediejättar från Vita huset - Göteborgs-Posten
-- Inställda avgångar när norska lokförare strejkar - Västerbottens-Kuriren
-- Mustaschkupp och skolstrid – nu är kommunen SD:s starkaste fäste - Dagens Nyheter
-- Explosioner i Saudiarabiens huvudstad - SVT Nyheter
+- Valmyndigheten: Resultatet fastställt – Senaste nytt om valet 2026 - SVT Nyheter
+- USA tecknar säkerhetsavtal med Danmark och Grönland - Hufvudstadsbladet – HBL
+- Här återvänder Jhonas, 16, efter skoldådet i Fagersta - Aftonbladet
 - Svårigheter med 1177: ”Jag kan inte fullgöra min plikt mot mamma” - Dagens Nyheter
-- Birgitta Ohlsson kryssades in i riksdagen - corren.se
+- Det kan vara Kristerssons sista hopp - Expressen
+- Civila dödade i nattliga attacker mot Ukraina - Göteborgs-Posten
 - ”Jimmie Åkesson väckte den björn som sov” - Dagens Nyheter
-- Alla röster är räknade – Senaste nytt om valet 2026 - SVT Nyheter
-- Därför anmäler vi SD för otillbörlig valpåverkan - Dagens Arena
-- Polen aktiverade flygvapnet efter ryska anfall i Ukraina - Dagens Nyheter
-- Dödlig rysk attack mot höghus i Ukraina - corren.se
-- USA:s kostnad för kriget: 414 miljarder svenska kronor – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Drönare mot Moskva när vallokaler öppnar - Göteborgs-Posten
+- Väljartapp i SD-land: ”Vi har varit bortskämda” - Västerbottens-Kuriren
+- Därför anmäler vi SD för otillbörlig valpåverkan - dagensarena.se
+- Han blir Sverigedemokraternas nya riksdagsman från länet - SVT Nyheter
+- Trump portar mediejättar från Vita huset - Göteborgs-Posten
+- Larm: Våldtäkter och könsstympning i Ukraina - Hufvudstadsbladet – HBL
+- Pakistan lovar att försvara Saudiarabien - Västerbottens-Kuriren
+- DN Direkt – Dödssiffran stiger i Pakistan efter bombdåd vid moské - Dagens Nyheter
 - Lång regeringbildning kan höja bränslepriserna - Omni – Alla nyheter. Alla perspektiv.
-- Elprisras – från nio kronor till minuspris - Västerbottens-Kuriren
-- Intetsägande ny Atto i en mindre förpackning - Dagens Nyheter
-- IPO-guidens: Så ser facit ut | afv.se - Affärsvärlden
-- Bill Skarsgård får huvudrollen i Hideo Kojimas nya spel. Bill är med överallt! - Feber
+- Elpriset kollapsar efter chocken – ”tillfällig lättnad” - Dagens industri
+- Gröna lappen lovar mer än den håller - Svenska Dagbladet
+- Sanningen: Det är bland de äldre jobben ökar mest - Dagens PS
+- Bill Skarsgård får huvudrollen i Hideo Kojimas nya spionspel - Teknikveckan
 - En detalj på månens yta ledde forskare till ett enastående fynd: ”Jag stelnade bara till och lade ifrån mig allt.” - Illustrerad Vetenskap
 
 ## World News
@@ -35,7 +35,8 @@ _Updated: 2026-09-19 13:21_
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kuriren nominerad för satsning på unga läsare - Norrbottens-Kuriren
@@ -43,10 +44,9 @@ _Updated: 2026-09-19 13:21_
 - WALOVI's International Cans Make Global Debut, Ushering in a New Era of Eastern Natural Plant Beverages - Aktiellt
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Infomedia goes global with acquisition of Opoint Technology - via.tt.se
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Nasdaq to Move Global Headquarters to 4 Times Square - via.tt.se
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -56,16 +56,16 @@ _Updated: 2026-09-19 13:21_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- AI Sweden gathering forces to lead the development of edge learning - via.tt.se
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - blogg.avanza.se
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Varför behöver vi konstgjord intelligens? - Vad har detta att göra med marknadens hastighet, flexibilitet, automatisering och skalbarhet? - Xpert.Digital - Konrad Wolfenstein
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
@@ -73,16 +73,17 @@ _Updated: 2026-09-19 13:21_
 
 ## Business
 
-- Direktören för Finansakademin beskriver en rad utmaningar som den privata sektorn står inför. - Vietnam.vn
+- Direktören för Finansakademin beskriver en rad utmaningar som den privata sektorn står inför. - vietnam.vn
 - Redpill Linpro och Berget AI inleder samarbete för suverän AI - Mynewsdesk
-- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
+- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - deloitte.com
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
+- Svensk ekonomi klarar global oro och väntas växa med 2.2 procent 2026 - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -91,7 +92,6 @@ _Updated: 2026-09-19 13:21_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
@@ -101,19 +101,19 @@ _Updated: 2026-09-19 13:21_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Trump avfärdar oro inför ny hälsokontroll: ”Mycket yngre än er” - Omni – Alla nyheter. Alla perspektiv.
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
-- Heidi Stensmyren ska driva på AI-utveckling av vården - dagensmedicin.se
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Stärkta positioner för KI i Times Higher Educations ämnesrankning - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nam Dan Medical Center har en ny chef. - Vietnam.vn
-- Markerar 15 år av att skydda den globala hälsosektorn - health-isac.org
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Nam Dan Medical Center har en ny chef. - vietnam.vn
+- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - su.se
 - Vi presenterar HealthBench - OpenAI
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Aging Research Center (ARC) ‒ ett forskningscentrum för äldre personers hälsa och levnadsvillkor - Karolinska Institutet
-- Global katastrofmedicin - hälsobehov och insatser – Johan von Schreebs forskargrupp - Karolinska Institutet
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 
@@ -122,21 +122,21 @@ _Updated: 2026-09-19 13:21_
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Torsten Persson utsedd till vice ordförande i ERC:s vetenskapliga råd - su.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Täta band mellan turism och forskning på Svalbard - SLU
+- Forskningen ska vara fri - European Commission
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - ”Research on bison completely wrong” - Forskning & Framsteg
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - ju.se
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Enheten för öron-, näs- och halssjukdomar - Karolinska Institutet
-- Torsten Persson utsedd till vice ordförande i ERC:s vetenskapliga råd - Stockholms universitet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - su.se
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
