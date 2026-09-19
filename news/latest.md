@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-19 07:03_
+_Updated: 2026-09-19 11:43_
 
-- Trump Says He Has Banned CNN, MS NOW and Politico From White House - The New York Times
-- Trump claims deal with Denmark gives US ‘permanent control’ over Greenland - Al Jazeera
-- Trump defends bid to put his name on the Kennedy Center - AP News
+- Trump bans CNN, MS NOW and Politico from White House - Axios
+- Trump announces agreement with Denmark to secure ‘permanent’ control over Greenland’s security - NBC News
+- Thousands protest closure of the Kennedy Center amid fears Trump is set to demolish the institution - The Guardian
 - More U.S. troops have died amid Iran war than Pentagon has disclosed publicly - The Washington Post
-- The real reason for Trump’s pedal-to-the-metal approach on AI - CNN
-- Ekurhuleni killings: Grim discoveries of murdered women spark fear in South Africa - BBC
-- Holdout juror in Clancy trial says he didn't have 'any doubts' that she was responsible for killing her kids - PBS
-- Trump officially signs Russia sanctions bill into law - The Hill
-- Newsom Wants AI ‘Kill Switch’ to Rein In Tech Industry - Bloomberg
-- Trump criticizes Republican who said immigration enforcement had ‘gone too far’ - The Washington Post
-- Russia begins 3 days of voting in a parliamentary election set to cement the Kremlin’s power - AP News
-- The cost of the Iran war has risen to $43.6B, Pentagon tells Congress - USA Today
-- European leaders prepare public for ‘intensified threat’ from Putin - politico.eu
+- Cuba hit with another blackout as millions across the island are left without electricity - AP News
+- The Military’s Bogus AI ‘Almost Started a War’ With China: Report - rollingstone.com
+- Trump signs sweeping Russia sanctions over Ukraine war - aljazeera.com
+- Newsom signs bill to help prepare Hollywood workers for AI - politico.com
+- St. Paul Mayor’s Behavior Faulted After Police Chief’s Complaint - The New York Times
+- Trump administration begins building border wall in Texas’ Big Bend region - AP News
+- Russia holds parliamentary vote in areas it seized from Ukraine in the war - AP News
+- Trump says son has paid back Russian for wedding party - The Washington Post
 - Earl Spencer's Diana book opens old wounds royals would rather forget - BBC
-- Google’s Gemini AI hacks 3 companies in security test, then stops - Al Jazeera
-- Record US diesel prices squeeze farmers; food prices may rise - Reuters
-- Meet Howard Buffett, the New Chairman of Berkshire Hathaway - The New York Times
-- 'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran - BBC
+- Police capture suspected serial killer disguised as woman, carrying baby in Brazil - CBS News
+- Google’s Gemini AI hacked into other companies, adding to ‘rogue’ AI incidents - The Washington Post
+- Oil prices are high but could be much worse. Trump has China’s Xi to thank for that - AP News
+- A New Buffett Takes On the Task of Preserving Berkshire Hathaway’s Culture - WSJ
+- Investors warn Anthropic could struggle to sustain revenues post-IPO - Financial Times
 - Apple's iPhone 18 goes on sale as customers line up at stores worldwide - Fox Business
-- iPhone 18 Pro Max Requires 'Prepare to Ship' Battery Drain Before Shipping - MacRumors
+- Apple Exec Says 'Hold Us Accountable' on iPhone Duo Crease - MacRumors
