@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-19 23:45_
+_Updated: 2026-09-20 01:36_
 
-- Live Updates: CNN, Politico and MS NOW Reporters Denied White House Access After Trump Announces Ban - nytimes.com
-- Denmark and Greenland leaders cautiously optimistic after security deal with U.S. - CBS News
-- Trump says he’s creating an AI force and appointing a czar amid concerns over the rapidly developing tech - NBC News
-- Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport - bbc.com
+- Trump Administration Updates: CNN, Politico and MS NOW Reporters Barred From White House - The New York Times
+- Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport - BBC
+- Tech industry scratches its head over Trump 'AI Force' proposal - politico.com
 - Thousands protest Kennedy Center closure amid fears Trump set to demolish institution - The Guardian
-- A deadly crash and the perilous history of LA’s news helicopters: ‘The eye in the sky’ - The Guardian
-- Newsom Signs Bills Meant to Prevent Trump’s Interference in Midterms - nytimes.com
-- Republican South Dakota secretary of state endorses Democrat to succeed her - Politico
-- Trump Signs Sweeping Russia Sanctions Bill - The Moscow Times
-- Secret contracts reveal undisclosed terms in Trump’s drug-pricing deals - The Washington Post
+- Bailee Rios, suspect in deadly Metro bus crash, seen in new video moments after crash in Chatsworth - ABC7 Los Angeles
+- Greenland, Denmark say Trump deal won't compromise sovereignty - Reuters
+- Heirs Sue Auschwitz Museum Over Art Their Mother Made Under the Nazis - The New York Times
+- Newsom Signs Bills Meant to Prevent Trump’s Interference in Midterms - The New York Times
+- Trump signs sanctions bill that threatens up to 100% tariffs on top importers of Russian energy - Fortune
+- Torrential rain causes flooding, mudslides in southern Minnesota - MPR News
+- Israeli president pardons combat medic who shot dead wounded Palestinian attacker - The Guardian
 - Russia holds parliamentary vote in areas it seized from Ukraine in the war - AP News
-- Flames and smoke spotted at Riyadh's King Khalid airport after overnight air raid alert - Euronews.com
 - “Inequality Emergency”: Ahead of U.N. General Assembly, Oxfam Urges Action on Climate, AI & Gaza - Democracy Now!
-- Trump Says His Son Will Pay Back Russian Businessman for Wedding Party - nytimes.com
-- Fed Chair Kevin Warsh and the FOMC Just Hiked Interest Rates, and 36 Years of History Make Clear What Comes Next for Stocks - Yahoo Finance
+- Trump Says His Son Will Pay Back Russian Businessman for Wedding Party - The New York Times
 - Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - AP News
 - Google’s Gemini is the latest AI model to hack other companies - TechCrunch
+- Fed Chair Kevin Warsh and the FOMC Just Hiked Interest Rates, and 36 Years of History Make Clear What Comes Next for Stocks - Yahoo Finance
 - Treasury yields are blowing up CBO forecasts, and experts who downplayed US debt fears are worried - Fortune
-- There are ways to protect yourself from your spying TV - The Verge
+- M6 Pro Chip Result on Geekbench is Likely Fake - MacRumors
 - 5 phones to buy instead of the Google Pixel 11 Pro - Digital Trends
