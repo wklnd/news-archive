@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-20 14:37_
+_Updated: 2026-09-20 18:28_
 
-- Two killed in Ukrainian drone attack on Moscow, says Russia - Al Jazeera
-- Reporters are being denied entry to the White House after Trump's ban - Business Insider
-- 4 killed in U.S. strike on alleged drug-smuggling boat in Caribbean, Pentagon says - CBS News
-- North Korea fires two missiles off east coast in three hours - Reuters
-- Saudi Arabia says Houthis tried to attack its capital - NPR
-- An SUV slammed into a city bus, then the news helicopters took flight. How one tragedy led to another - CNN
-- Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate - CNBC
-- Newsom signs bills to shield California elections from Trump interference, increase transparency - latimes.com
+- Trump says his D.C. arch will serve as 'military complex' with snipers and drones - npr.org
+- Sen. John Barrasso says Trump isn’t violating the Constitution by banning reporters from the White House - NBC News
 - How President Trump Broke the Kennedy Center - The New York Times
-- The Romanian Crime Rings Draining U.S. Welfare Accounts - WSJ
+- Two killed in Ukrainian drone attack on Moscow, says Russia - Al Jazeera
+- Working-class Americans say their town is the next Dearborn — and they've had enough - foxnews.com
+- National Hurricane Center: Tropical Storm Fay forms in the northern Atlantic - AP News
+- Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate - cnbc.com
+- Gavin Newsom signs election security bills to thwart federal interference by Trump - The Guardian
+- Philadelphia woman was ‘petrified’ of ex-husband before she vanished. Now her case is part of a mystery involving 6 other women. - NBC News
+- Smithsonian faces Trump’s culture war as search for leader is on - CNN
+- North Korea launches missiles as it dials up pressure against U.S. - CBS News
+- Russia wraps up first wartime parliamentary election with Kremlin dominance all but assured - AP News
+- Israeli forces kill Palestinian near Jenin in occupied West Bank - Al Jazeera
 - Merz under pressure as two more German states go to the polls - Reuters
-- Israeli murdered in terrorist shooting in Binyamin - Israel National News
-- Russia Barred Their Party, but These Antiwar Voices Are Still Standing - The New York Times
-- World leaders return to UN amid wars in Middle East and Ukraine - Reuters
-- ‘Crisis even bigger than Covid’: American business owners are barely getting by - CNN
-- Fast food from the US and China catches on in both countries - AP News
-- Billionaire Tata scion faces battle of his life to avert listing - Financial Times
-- Google’s Gemini is the latest AI model to hack other companies - TechCrunch
-- Hideo Kojima explains the surprise split with Sony - The Washington Post
-- Deals: iPhone 18 Pros launch, refurbished iPhone 17 Pros are expensive, Galaxy Z8 foldables discounted - GSMArena.com news - GSMArena.com
+- Federal Reserve rate hike reflects new world of sticky inflation and faster growth - AP News
+- ‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies - cnbc.com
+- Budget airline king Bill Franke warms to first-class seats and premium upgrades - cnbc.com
+- Billionaire Tata scion faces battle of his life to avert listing - ft.com
+- Apple’s ‘Personal Hub’ AI Strategy Hints at Upcoming Home Device - Bloomberg.com
+- The tech battle to build your AI assistant - Axios
