@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-20 18:28_
+_Updated: 2026-09-20 21:02_
 
-- Trump says his D.C. arch will serve as 'military complex' with snipers and drones - npr.org
+- Trump says his triumphal arch will become a military ammunition complex - BBC
 - Sen. John Barrasso says Trump isn’t violating the Constitution by banning reporters from the White House - NBC News
+- Germany’s far-right AfD win another state election, piling pressure on Chancellor Merz, exit polls show - CNN
+- Trump weighs fresh demands from Iran ahead of UN visit - Fox News
+- Ukraine fires over 1,000 drones at Russia, including 'largest ever' attack on Moscow - PBS
+- Trump's approval rating drops, more voters say he's hurt the economy: new poll - USA Today
+- ‘He is kryptonite’: Republicans start breaking with Trump - Politico
+- House Republican doubles down on jab at Trump’s immigration enforcement - The Guardian
 - How President Trump Broke the Kennedy Center - The New York Times
-- Two killed in Ukrainian drone attack on Moscow, says Russia - Al Jazeera
-- Working-class Americans say their town is the next Dearborn — and they've had enough - foxnews.com
-- National Hurricane Center: Tropical Storm Fay forms in the northern Atlantic - AP News
-- Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate - cnbc.com
-- Gavin Newsom signs election security bills to thwart federal interference by Trump - The Guardian
-- Philadelphia woman was ‘petrified’ of ex-husband before she vanished. Now her case is part of a mystery involving 6 other women. - NBC News
-- Smithsonian faces Trump’s culture war as search for leader is on - CNN
-- North Korea launches missiles as it dials up pressure against U.S. - CBS News
-- Russia wraps up first wartime parliamentary election with Kremlin dominance all but assured - AP News
-- Israeli forces kill Palestinian near Jenin in occupied West Bank - Al Jazeera
-- Merz under pressure as two more German states go to the polls - Reuters
+- Burnham hails Greenland deal ahead of first Trump meeting in New York - BBC
+- North Korea launches 2 ballistic missiles toward the sea and dials up pressure on the US - AP News
+- Russian exiles cast votes to voice dissent to Putin and Ukraine war - Reuters
+- Macron touts relationship with Canada in Saint Pierre and Miquelon - Euronews.com
+- Saudi-led coalition says defence intercepted Houthi missile fired at Riyadh - aljazeera.com
 - Federal Reserve rate hike reflects new world of sticky inflation and faster growth - AP News
-- ‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies - cnbc.com
-- Budget airline king Bill Franke warms to first-class seats and premium upgrades - cnbc.com
-- Billionaire Tata scion faces battle of his life to avert listing - ft.com
+- AI’s Wobbly House of Cards Puts Markets and US Economy at Risk - Bloomberg.com
+- Billionaire Tata scion faces battle of his life to avert listing - Financial Times
+- 5 Takeaways From Ari Emanuel’s Memoir - The New York Times
 - Apple’s ‘Personal Hub’ AI Strategy Hints at Upcoming Home Device - Bloomberg.com
-- The tech battle to build your AI assistant - Axios
+- Hideo Kojima explains the surprise split with Sony - The Washington Post
