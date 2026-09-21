@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-21 19:11_
+_Updated: 2026-09-21 23:14_
 
-- News outlets Trump banned from White House file lawsuit - Politico
-- Merz vows to keep ruling coalition together for sake of Germany's 'democratic future' - BBC
-- Houthis push for control of Yemen highlands as Trump is said to have called off strikes - Reuters
-- ICE officer shoots Venezuelan man delivering food in Austin, lawyer says - NBC News
-- Patrick Clancy gives first TV interview on ’60 Minutes’ after Lindsay Clancy mistrial - AP News
-- The data center backlash is reshaping American politics — one community at a time - NPR
-- Senior GOP appropriator pours cold water on funding Trump’s arch - Politico
-- Everyone’s talking about ‘electability.’ Our poll shows where voters stand. - Politico
-- Trump and Xi Meet Amid an Uneasy U.S.-China Trade Truce - The New York Times
-- Indiana man wants new trial in killing of teens where pagan ritual evidence can be introduced - AP News
+- CNN, MS NOW and Politico sue Trump, challenging White House ban - Reuters
+- Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute - The Guardian
+- Banished to alien lands: Trump’s secret deportation deals - The Guardian
+- California declares statewide emergency ahead of epic El Niño storms - Los Angeles Times
+- Rare September nor’easter could bring rain, wind and waves to East Coast - The Washington Post
+- Millions urged to evacuate as powerful Typhoon Dujuan hits Japan - bbc.com
+- Man shot by ICE officer is detained in Texas with a bullet still in his back, attorney's office says - apnews.com
+- Patrick Clancy gives first TV interview on '60 Minutes' after Lindsay Clancy mistrial - PBS
+- California billionaire tax loses ground in new poll - Politico
+- Man Found Guilty of Shooting 3 Palestinian Students in Vermont - The New York Times
 - Pro-Putin party gets record 355 parliamentary seats, anti-war party a tiny regional foothold - Reuters
-- More than 1.9 million urged to evacuate as powerful typhoon batters Japan - BBC
-- War, runaway AI and climate shocks to take center stage as world leaders meet at UN - AP News
+- War, runaway AI and climate shocks to take center stage as world leaders meet at UN - apnews.com
 - Elif Eralp: A leftist leader with Turkish roots dubbed ‘Germany’s Mamdani’ - Al Jazeera
-- Paramount and state AGs will settle lawsuit, allowing Warner Bros. merger to proceed, reports say - CNBC
-- Stock Market Today: Dow Opens Higher as Oil Prices Fall — Live Updates - WSJ
-- Nissan eyes increasing U.S. production as new Rogue hybrid launches - CNBC
-- Volkswagen Group Warns 'We Have No Time To Lose' As Problems Worsen - Motor1.com
+- Trump heads into a week of diplomacy, hampered by a lack of allies - The Washington Post
+- FAA grounds flights at major Northeast airports after fiber line cut - foxbusiness.com
+- Paramount settles with California, other states over Warner Bros merger, Bloomberg News reports - Reuters
+- Operator of 314 Wendy’s locations in the US files for bankruptcy protection - apnews.com
+- Capitol agenda: Nvidia’s clout tested as AI debate shifts - Politico
 - Google Rolls Out $899-Plus ‘Googlebook’ AI Laptops With Hardware Partners - Bloomberg.com
-- ‘Destiny’ Lives: All Content To Be Unvaulted And Future Games Planned - Forbes
+- The M5 Ultra Mac Studio tears through our benchmark tests - The Verge
