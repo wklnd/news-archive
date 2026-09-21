@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-21 13:05_
+_Updated: 2026-09-21 19:11_
 
-- ICE agent shoots and wounds man in Texas as locals demand answers - BBC
-- News outlets Trump banned from White House announce lawsuit - Politico
-- Germany's Merz vows to press ahead with reforms after historic state election defeat - NPR
-- US proposes AI incident alert system in talks with China, Bessent says - AP News
-- Patrick Clancy talks about grief, forgiveness and the future with ‘60 Minutes’ after Lindsay Clancy mistrial - NBC News
+- News outlets Trump banned from White House file lawsuit - Politico
+- Merz vows to keep ruling coalition together for sake of Germany's 'democratic future' - BBC
+- Houthis push for control of Yemen highlands as Trump is said to have called off strikes - Reuters
+- ICE officer shoots Venezuelan man delivering food in Austin, lawyer says - NBC News
+- Patrick Clancy gives first TV interview on ’60 Minutes’ after Lindsay Clancy mistrial - AP News
 - The data center backlash is reshaping American politics — one community at a time - NPR
-- How Trump turned a refugee bureau into a $410 million deportation operation - The Washington Post
-- Trump's proposed Washington arch to become sniper, drone facility - Axios
-- Denmark says NATO shares responsibility for Arctic security under Greenland deal - Reuters
-- Republican Who Runs South Dakota Elections Backs Democrat to Succeed Her - The New York Times
-- World leaders meet at UN as their planet grapples with war, division, runaway AI and climate shocks - AP News
-- Russia election results show Putin’s party winning: What we know - Al Jazeera
-- Putin Reignited a Dispute With Japan. This Town Is Stuck in the Middle. - The New York Times
-- Poison suspected in deaths of ten lions in game reserve in Tanzania - NPR
-- Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting - AP News
-- Stock futures rise after Dow posts third straight losing week: Live updates - cnbc.com
-- AI Risk Is Everywhere and It's Making Billion Dollar Funds Nervous - Bloomberg.com
-- 5 Takeaways From Ari Emanuel’s Memoir - The New York Times
-- OnePlus 16 officially revealed with up to 1TB storage and three colorways - Notebookcheck
-- Hideo Kojima Says Sony Dropped PHYSINT During a Zoom Call and Gave No Reason - TechPowerUp
+- Senior GOP appropriator pours cold water on funding Trump’s arch - Politico
+- Everyone’s talking about ‘electability.’ Our poll shows where voters stand. - Politico
+- Trump and Xi Meet Amid an Uneasy U.S.-China Trade Truce - The New York Times
+- Indiana man wants new trial in killing of teens where pagan ritual evidence can be introduced - AP News
+- Pro-Putin party gets record 355 parliamentary seats, anti-war party a tiny regional foothold - Reuters
+- More than 1.9 million urged to evacuate as powerful typhoon batters Japan - BBC
+- War, runaway AI and climate shocks to take center stage as world leaders meet at UN - AP News
+- Elif Eralp: A leftist leader with Turkish roots dubbed ‘Germany’s Mamdani’ - Al Jazeera
+- Paramount and state AGs will settle lawsuit, allowing Warner Bros. merger to proceed, reports say - CNBC
+- Stock Market Today: Dow Opens Higher as Oil Prices Fall — Live Updates - WSJ
+- Nissan eyes increasing U.S. production as new Rogue hybrid launches - CNBC
+- Volkswagen Group Warns 'We Have No Time To Lose' As Problems Worsen - Motor1.com
+- Google Rolls Out $899-Plus ‘Googlebook’ AI Laptops With Hardware Partners - Bloomberg.com
+- ‘Destiny’ Lives: All Content To Be Unvaulted And Future Games Planned - Forbes
