@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-21 19:08_
+_Updated: 2026-09-21 23:11_
 
 ## Top Stories
 
-- Åklagare utreder misstänkt valfusk i Borlänge – utpekad kandidat: ”Chockad” - SVT Nyheter
-- Omkörd av Leijonborg – vill att partiet agerar: ”Sticker i ögonen” - Dagens Nyheter
-- Förseningar på gröna linjen efter stopp – resenärer evakuerades - Mitt i
-- Källor: Bränsleproduktion i Moskva upphör efter attack - Omni – Alla nyheter. Alla perspektiv.
-- Svensk man död i Thailand - vk.se
-- Tv-bolag bojkottar Trump efter bannlysningen - SVT Nyheter
+- Misstänkt valfusk i samband med Mohamed Abdukardir Alis kampanj: ”Jag blev chockad” - SVT Nyheter
+- Efter CNN-bannlysningen – medier bojkottar Trump - vk.se
+- Ukrainas nya vapen ett hot mot Kremls avancerade luftvärn - Dagens Nyheter
+- Tullar och krig tvingar republikaner välja sida - svd.se
+- Attacker mot ”knarkbåtar” kan vara brott mot mänskligheten - Omni – Alla nyheter. Alla perspektiv.
+- Sperma på väggen och erbjudande om ”handjob” avslöjar thaisalonger i Malmö - Sydsvenskan
 - 21 september 15.38, Trafikolycka, Göteborg - polisen.se
-- KD-minister blir av med sin riksdagsplats - Göteborgs-Posten
-- Fagerstadådet: Misstänkt häktad för fler brott - vk.se
+- Trenden bland unga killar: Steroider och hammare - Göteborgs-Posten
+- Omkörd av Leijonborg – vill att partiet agerar: ”Sticker i ögonen” - Dagens Nyheter
 - Förundersökning inledd efter olyckan på skjutfält i Karlsborg - SVT Nyheter
 - Väntad seger för Putins parti i iscensatt val - vk.se
-- DN Direkt – Region Halland i stabsläge – strul med journalsystemet Cosmic - Dagens Nyheter
-- Spionchefen: Rysk invasion kan vara nära - Göteborgs-Posten
-- Rysk militär använder precisionskulor från väst - Dagens Nyheter
-- Elpriset tvärvänder – nu får vi årets näst dyraste dag - Omni – Alla nyheter. Alla perspektiv.
+- Direkt – Kriget i Ukraina – Vance: Kriget svåraste konflikten i världen - Dagens Nyheter
+- Frederiksen: Ett bra avtal om Grönland - Göteborgs-Posten
+- Efter kallduschen – Merz lovar reformer - Corren
+- Lina Lund: Trump kallar farorna nonsens – Bryssel gick före med AI-lag - Dagens Nyheter
 - Novo sätter nya mål – föll tungt på börsen - vk.se
-- Eurobatterys dömda VD har plockat ut 44 miljoner ur bolaget - Affärsvärlden
-- Amazon stoppar Metas AI-agent från att handla på sajten - Computer Sweden
-- Stora problem med första betaversionen av Siri AI - Expressen
-- Googlebook en superlaptop: Arkitektur, AI-interaktion och OEM-allians - Skåne Plus
+- Eurobatterys dömda VD har plockat ut 44 miljoner ur bolaget - affarsvarlden.se
+- Risk för inställda flyg och dyrare biljetter - Sydsvenskan
+- Google öppnar förbeställningar för AI-drivna Googlebook-laptops av Investing.com - Investing.com Sverige
+- iPhone 18 Pro får 7 av 10 i reparationsbetyg - Teknikveckan
 
 ## World News
 
@@ -32,26 +32,26 @@ _Updated: 2026-09-21 19:08_
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - WALOVI's International Cans Make Global Debut, Ushering in a New Era of Eastern Natural Plant Beverages - Aktiellt
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - travronden.se
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Storbritannien: Global lanserar nyhetskanalen LBC News - Radionytt.se
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Visual Art köper Global Agencies - Dagens Media
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Tidningsjätte i England lägger ner efter skandal - svd.se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 
 ## Technology
 
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
@@ -120,10 +120,11 @@ _Updated: 2026-09-21 19:08_
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningen ska vara fri - European Commission
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
@@ -134,11 +135,10 @@ _Updated: 2026-09-21 19:08_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Simple math behind major bison blunder - Forskning & Framsteg
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Enheten för öron-, näs- och halssjukdomar - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
@@ -146,19 +146,19 @@ _Updated: 2026-09-21 19:08_
 - Sara Österman – ny akademisekreterare på KSLA från årsskiftet - Mynewsdesk
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
-- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - atl.nu
+- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - Lantbrukslogik – nu och i framtiden - SLU
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Framtidens jordbruk är här - EU Digital Strategy
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Här är världens största jordbruk - atl.nu
+- Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
