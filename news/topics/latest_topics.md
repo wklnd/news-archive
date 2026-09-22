@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-22 17:07_
+_Updated: 2026-09-22 21:02_
 
 ## Top Stories
 
 - DN Direkt – Uppgifter: Ytterligare V-politiker ingår i utredningen om valfusk i Dalarna - Dagens Nyheter
-- Polis våldtog barn – hade sex med hund - Expressen
-- Donald Trump håller tal i FN - Göteborgs-Posten
-- Stor insats – bombliknande föremål hittades - Corren
-- Tre barn påkörda inom 22 minuter - NT
-- Dömdes för sexchattar i andras namn – nu överklagar idrottsledaren - Göteborgs-Posten
-- 26-åring erkände att han tände eld på Egons hår – frias av tingsrätten - Dagens Nyheter
-- Här arbetar polisen vid den nedbrunna stugan - Nya Wermlands-Tidningen
-- Odetonerad ammunition bakom olyckan på skjutfältet i Karlsborg - SVT Nyheter
-- Ayad och Jhonas höggs med svärd i skoldådet: ”Jag fick tunnelseende” - Dagens Nyheter
-- Starkare supermajoritet för Putins parti - Göteborgs-Posten
+- Trump i FN: Ska jag förinta Iran? - gp.se
+- Odetonerad ammunition bakom explosion i Karlsborg - Corren
+- Donald Trump håller tal i FN - gp.se
 - Flera delar av Ukraina under attack - Dagens Nyheter
-- Efter ryska attacken: Solceller ska hålla Tjernobyl säkert - Dagens Nyheter
-- Källor: USA planerar nya baser på Grönland - Corren
-- Affärsvärlden ger rådet teckna ej Avioneros nyintroduktion på Spotlight - Börsvärlden
-- Konjunkturuppdatering - Lågkonjunkturen snart bakom oss - Svenskt Näringsliv
-- I vinter blir allt dyrare – hushållens kostnader har passerat en bottennivå - Sydsvenskan
-- AI tar enklare it-jobb – ”ersätter de juniora” - Falköpings Tidning
-- Nu lanseras Googlebook – efterföljaren till Chromebook - Computer Sweden
+- Susanna Ivermo köpte årets första hummer vid Göteborgs fiskauktion - Bohusläningen
+- Svenskar gripna för mord i Spanien - gp.se
+- Ett dygn senare – V fortsatt tysta om misstänkta valfusket – Senaste nytt om valet 2026 - SVT Nyheter
+- Skåne blir starkare i riksdagen – får tre nya mandat - Sydsvenskan
+- Misstänks för spioneri i Finland – nu släpps svenska männen ur häkte - SVT Nyheter
+- Karin Eriksson: Nu öser Trump kärlek över Danmark och Grönland - Dagens Nyheter
+- Klart: Oligark tas bort från EU:s sanktioner - gp.se
+- Man sköts av ICE – sitter i förvar med kulan kvar i ryggen - Dagens Nyheter
+- Studie avslöjar: Alla vägar bar inte till Rom - Dagens Nyheter
+- Karl Hedin säljer 2000 hektar skog: "Mer rationellt" - Affärsvärlden
+- Analytikern: Så vill AI-topparna tjäna på rädslan - Dagens industri
+- Skandia Time Global vald till premiepensionens fondtorg - Cision News
+- Stockholmsbörsen steg igen – AI-optimism gav stöd - Placera.se
 - Vissa iPhone 18 Pro-ägare har problem med Face ID - Teknikveckan
+- Nu lanseras Googlebook – efterföljaren till Chromebook - Computer Sweden
 
 ## World News
 
@@ -31,40 +31,40 @@ _Updated: 2026-09-22 17:07_
 - GT World Challenge Asia, Okayama International Circuit, Japan på ikväll 18:45 - TV.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Smäll för svensk pension: Rasar i global ranking från plats 11 till 22 - News55
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Smäll för svensk pension: Rasar i global ranking från plats 11 till 22 - news55.se
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Storbritannien: Global lanserar nyhetskanalen LBC News - Radionytt.se
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Visual Art köper Global Agencies - dagensmedia.se
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 
 ## Technology
 
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - iffs.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -80,8 +80,9 @@ _Updated: 2026-09-22 17:07_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Svensk ekonomi klarar global oro och väntas växa med 2.2 procent 2026 - EY
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Finansinspektionen varnar för finansbedragare - tv4.se
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2026-09-22 17:07_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -101,8 +101,8 @@ _Updated: 2026-09-22 17:07_
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Digital obesitasvårdgivare brast i journalhantering – tillståndet dras tillbaka - Dagens Medicin
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Khalid satsar på digital vård – mot fetma - st.nu
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - lakartidningen.se
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Funktion och hälsa vid respiratoriska och kardiovaskulära tillstånd – Malin Nygren-Bonniers forskargrupp - Karolinska Institutet
@@ -111,7 +111,7 @@ _Updated: 2026-09-22 17:07_
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Global katastrofmedicin - hälsobehov och insatser – Johan von Schreebs forskargrupp - Karolinska Institutet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - lakartidningen.se
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
@@ -121,7 +121,7 @@ _Updated: 2026-09-22 17:07_
 
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Vårddata för forskning – hinder och möjligheter - lakartidningen.se
+- Vårddata för forskning – hinder och möjligheter - Läkartidningen
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Centrum för medicinsk strålningsvetenskap - Karolinska Institutet
@@ -131,14 +131,14 @@ _Updated: 2026-09-22 17:07_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Registrering av forskning baserad på nationella hälsoregister - lakartidningen.se
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
-- Enheten för öron-, näs- och halssjukdomar - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - lakartidningen.se
-- Exploaterar forskares strävan efter snabb granskning och publicering - lakartidningen.se
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- ”Research on bison completely wrong” - Forskning & Framsteg
 
 ## Jordbruk
 
