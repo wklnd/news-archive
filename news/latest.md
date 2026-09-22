@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-22 02:16_
+_Updated: 2026-09-22 07:22_
 
-- Mamdani and Trump emerge from Gracie Mansion sit-down with nothing but praise - Politico
-- CNN, MS NOW and Politico sue Trump, challenging White House ban - Reuters
-- Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute - The Guardian
-- It’s Fat Bear Week. Meet this year’s heavyset hopefuls - Alaska Public Media
-- Lindsay Clancy’s Defense Lawyer Asks Judge to Investigate Holdout Juror After Mistrial - The New York Times
-- JB Pritzker reveals GLP-1 use and 80-pound weight loss, pressed on possible presidential run - CBS News
-- Man shot by ICE in Austin being held in detention center with bullet in his back, lawyer says - CBS News
-- Appeals court revives GOP gerrymander in Missouri that Supreme Court killed off twice - Politico
+- Trump and Mamdani appear friendly after ‘wide-ranging’ meeting at Gracie Mansion - The Guardian
+- Trump inaugurates new White House helipad, but networks skip coverage during First Amendment fight - AP News
+- Man Shot by ICE Agent Says His Car Was Struck Twice Before He Was Shot - The New York Times
+- CNBC's The China Connection newsletter: Five things to watch for the Trump-Xi summit - CNBC
+- U.S. military leaders divided over action against the Houthis - NBC News
+- EXCLUSIVE: US to open two new military bases in Greenland, sources say - Reuters
+- 8th Circuit rules Missouri must use 2025 congressional map in November election - KMBC
+- Grand jury finds no foul play in death of Nolan Wells, court documents state - WLOX
+- Fat Bear Week 2026 is here: Meet Chunk, Bucky and other contenders - cbsnews.com
 - California declares statewide emergency ahead of projected epic El Niño storms - Los Angeles Times
-- US man convicted in 2023 shooting of three Palestinian students in Vermont - aljazeera.com
-- Trump heads into a week of diplomacy, hampered by a lack of allies - The Washington Post
-- Millions urged to evacuate as powerful Typhoon Dujuan hits Japan - BBC
-- UK to offer Saudi Arabia aerial refueling to counter Houthi attacks - AP News
-- Exclusive | U.S. Proposes $5 Billion to Kickstart Fund to Rebuild Gulf Energy Sites - WSJ
-- Flights delayed at major US airports after cable cut by construction workers - BBC
-- Nvidia's Jensen Huang rejects AI doomsday fears: '2030 is not going to be the end of the world' - Fox Business
-- Operator of 314 Wendy’s locations in the US files for bankruptcy protection - AP News
-- Stocks had a great day on the surface. But something alarming occurred not seen since 1999 - CNBC
+- War, runaway AI and climate shocks to take center stage as world leaders meet at UN - AP News
+- UK to refuel Saudi jets to help counter Houthi attacks - Al Jazeera
+- Legendary war photographer Sir Don McCullin on his final testament to Vietnam: 50 years of "pictures to hurt you" - cbsnews.com
+- Russian drones slam southern Ukraine city after Kyiv's 1,000-drone weekend barrage - Euronews.com
+- Korean Chip Stocks Gain as Meta’s Muse AI Agent Spurs Enthusiasm - Bloomberg.com
+- SoftBank’s $50bn data centre group slows IPO - ft.com
+- ‘They must be doing it for ulterior reasons’: Jensen Huang says AI leaders are ‘irresponsible’ - Fortune
+- Alibaba plans AI model with 5 trillion to 10 trillion parameters, unveils new chip - Reuters
 - Google Rolls Out $899-Plus ‘Googlebook’ AI Laptops With Hardware Partners - Bloomberg.com
-- The M5 Ultra Mac Studio tears through our benchmark tests - The Verge
+- Apple Mac Studio (M5 Ultra) Review: Huge AI And Graphics Power At A Huge Premium - Engadget
