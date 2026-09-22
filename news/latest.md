@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-22 17:10_
+_Updated: 2026-09-22 21:09_
 
-- Autopsy shows Hayden Panettiere died from a drug overdose - BBC
-- Live updates: Trump to speak at United Nations General Assembly as world leaders gather - CNN
-- Trump’s plan to militarize proposed arch raises new legal, safety concerns - The Washington Post
-- Grand jury finds no evidence of criminal conduct in the death of Nolan Wells - NPR
+- Trump tells U.N. he could ‘annihilate’ Iran but expects a deal after the midterm elections - NBC News
+- Trump, Greenland, Denmark sign deal in bid to end Arctic standoff - Reuters
+- Mississippi grand jury finds no cause for charges in the July death of Nolan Wells - AP News
 - A ‘super’ El Niño is about to crash into California: 9 essential ways to prepare - Los Angeles Times
-- Princeton Is No Longer No. 1 in the U.S. News Rankings - The New York Times
 - First Thing: News outlets suspend coverage of Trump in escalating media access row - The Guardian
-- Lindsay Clancy’s attorney asks judge to investigate the lone juror who wanted to convict her - apnews.com
-- ‘MBS will not forget’: Donald Trump’s reluctance to fight Houthis rattles Saudi Arabia - Financial Times
-- Republicans were bullish about the Senate. Now they’re playing defense in red states. - Politico
-- Saudi Arabia Running Tests to Resume East-West Oil Pipeline - Bloomberg.com
-- Sri Lanka Easter attacks: Court finds 15 guilty over deadly bombings - BBC
+- Princeton Is No Longer No. 1 in the U.S. News Rankings - The New York Times
+- Man shot by ICE in Austin being held in detention center with bullet in his back, lawyer says - CBS News
+- ‘The scientific, technical term is BS’: Inside the new Bessent-China AI hotline - Politico
+- Fat Bear Week opens for Alaska’s heavyweight crown. Can Chunk, the 1,200-pound champ, win again? - NBC News
+- Lindsay Clancy's lawyer asks judge to investigate juror and check his phone - BBC
+- Fifteen guilty in 2019 Sri Lanka Easter bombings: What the verdict says - Al Jazeera
+- Man's metal detector wouldn't stop beeping, leading to record-breaking trove of ancient Roman coins - CBS News
+- Kremlin says UN Security Council should add new permanent members, keep veto power that Erdogan urged scrapping - Reuters
 - Tech-Utopian Movement Praxis Says It Has Found a Home in Uruguay - The New York Times
-- New book by Princess Diana's brother prompts war of words with King Charles III - NPR
-- Travel delays linger after equipment outages force ground stops at Northeast airports, including PHL - 6abc Philadelphia
-- Novo defends diversification push as CEO eyes deals beyond obesity - CNBC
+- Mamdani blasts DoorDash CEO's 'greedy algorithm,' NY slaps company with $131 million fine - Fox News
+- Wall Street expects Meta's AI agent to shape into a new revenue engine - Reuters
+- Nasdaq climbs to fresh all-time high; S&P 500 is little changed as traders monitor Middle East tensions: Live updates - CNBC
 - Why It’s Time to Load Up on Micron Stock - Barchart.com
-- McDonald's is hosting an investor day as its U.S. business struggles. Here are 4 things to expect - CNBC
-- Microsoft planning Xbox layoffs today. - The Verge
-- With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs - Yahoo Finance
+- With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs - Reuters
+- Beats 360 Deliver Customizability and a Revamped Over-Ear Headphone Design - MacRumors
