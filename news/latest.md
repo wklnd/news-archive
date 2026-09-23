@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-23 08:38_
+_Updated: 2026-09-23 14:09_
 
-- Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines - BBC
-- Trump cites national security, midterms coverage to defend press ban - Politico
-- Trump berates CNN’s Kaitlan Collins after ban: ‘You shouldn’t be covering me’ - The Washington Post
-- Trump signs ‘fantastic’ Greenland security deal with Denmark - politico.eu
-- Aided by El Niño, Hurricane Polo explodes to Category 5 as it nears Baja California - sacbee.com
-- Trump Cites National Security as He Faces Pushback on Press Ban, D.C. Arch and More - nytimes.com
-- Trump-backed Missouri congressional map returns to the Supreme Court for the third time - AP News
-- ICE officer in Texas shooting was recruit not using a body camera - The Washington Post
-- Second sea turtle spotted nesting on SoCal beach after historic sighting - KTLA
-- Kratom found at locations where two Ole Miss students were discovered dead - NBC News
-- EU renews Russia sanctions, drops Russian billionaires Usmanov and Fridman - reuters.com
-- Sri Lanka Convicts 15 in Easter 2019 Bomb Attacks - nytimes.com
+- Trump tells U.N. he could ‘annihilate’ Iran but expects a deal after the midterm elections - NBC News
+- ‘Xi Jinping’s got stature’: Trump’s China summit challenge - Politico
+- DOJ defends White House media ban, urges court to reject lawsuit - NPR
+- Hurricane Polo grows into powerful Category 5 storm off Mexico's Pacific coast. See its path. - cbsnews.com
+- Trump signs US-Denmark-Greenland agreement to bolster Arctic security after prolonged tensions - apnews.com
+- Poll: Most voters agree the 2026 midterms are all about Trump — and they disapprove - NPR
+- ICE officer in Texas shooting was recruit not using a body camera - washingtonpost.com
+- Tropical Sea Turtle Lays Eggs on Southern California Beach - The New York Times
+- Trump administration to remove 760,000 Affordable Care Act enrollees over fraud claims - apnews.com
+- US criticises Australia's proposed algorithm opt-out laws as 'censorship' - BBC
 - Burnham passes his first Trump test — but papers over the cracks - politico.eu
-- Japan’s Leader Calls on U.N. to Drop ‘Enemy State’ Label - wsj.com
-- Trump says he backs diesel export ban to curb soaring energy costs - The Guardian
-- Qantas’s New York-to-Sydney ‘Project Sunrise’ Flights to Take Off in 2028 - nytimes.com
-- Worries about an AI internet takeover gain new urgency among doomsday scenarios - AP News
-- Exclusive | Activist Jana Partners Urges Six Flags to Explore Sale - wsj.com
-- Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too - The Verge
-- Beats 360 Pre-Orders Open at Amazon With Cushion Kits on Sale, Plus More Beats Deals - MacRumors
+- El Niño goes wild: Pacific Ocean under siege from tropical cyclones - USA Today
+- Trump meets US-backed Venezuelan president for first time since Maduro seized - BBC
+- A mass shooting at a house party in South Africa kills 11, including a pregnant woman - apnews.com
+- Trump’s Oil Allies See Nightmare Scenario of Diesel-Export Ban Becoming Reality - WSJ
+- Xi and Trump Seek Safe AI Without Slowing the Race for Supremacy - finance.yahoo.com
+- Stock futures mixed after Nasdaq Composite posts fresh record: Live updates - cnbc.com
+- Nearly 10% of borrowers opted for riskier mortgages last week, as rates soared over 7% - cnbc.com
+- Motorola Signature 27 Is Coming to the US to Rival Samsung’s Galaxy Phones - CNET
+- New Adtech From Microsoft Would Interrupt Your Game at 'Promoted Content Trigger Events' - Gizmodo
