@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-23 22:40_
+_Updated: 2026-09-24 01:08_
 
-- CNN, Politico and MS NOW to face off with Trump administration in court over White House ban - NBC News
-- Iran War Updates: U.S. and Iran hold first talks since June after Trump threatens regime with annihilation - CBS News
+- Trump plans grand spectacle for potentially tense talks as Xi arrives in US - reuters.com
+- Federal judge delays ruling on White House ban on CNN, Politico and MS NOW - BBC
+- Iran’s president tells U.N. his country ‘must be powerful so as to avoid being threatened’ - The Washington Post
 - Where a powerful nor’easter could hit hardest this weekend - The Washington Post
-- Hackers Say They Stole Thousands of Sensitive F.B.I. Personnel Records - nytimes.com
-- Trump’s approval plunges into the 20s, and Republicans give up - The Hill
-- ‘We hope he’ll accept’: US invites Putin to G20 summit at Trump golf club - The Guardian
-- Live updates: Iran’s president says ‘we will never bow our head’ to Trump in defiant UN speech - CNN
-- Tensions Rise Between Mamdani and Netanyahu as Israeli Leader Visits New York - WSJ
-- Mississippi police make 2nd arrest in death of Black woman found hanging from tree, seek 3rd suspect - AP News
+- FBI investigates breach of jobs website as hackers claim ‘very sensitive data’ stolen - The Guardian
+- Many voters see midterms as vote against Trump, new poll finds - USA Today
+- U.N. Live Updates: Zelensky and Pezeshkian Address Ukraine and Iran Wars in Speeches - The New York Times
+- NRSC Chair Tim Scott leaves Georgia, North Carolina off his list of top Senate targets - Politico
 - Trump officials weigh rolling back beef import plan as GOP midterm panic spreads - Politico
-- Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war - BBC
+- Trump’s Signature Tax Bill Is Starting to Bite Before the Election - The New York Times
+- Tigrayan leaders say new war with Ethiopian government has begun - reuters.com
 - EU drops sanctions for Russian oligarchs Usmanov and Fridman - DW.com
-- Super-strong El Niño could lead to 450K deaths. Map shows the states hit hardest - The Hill
-- Greetings from Edinburgh, where a cheeky tour guide makes art history hilarious - NPR
-- Stocks fall as yields shoot higher, Nasdaq retreats from record: Live updates - CNBC
-- ‘Dammit, something has to happen’: White House preparing plan for 90-day diesel exports ban - Politico
-- Meta's Muse rekindles fears over winners and losers as personal AI agent emerges - Reuters
-- Trump reveals millions of dollars' worth of share deals in big tech and AI - BBC
-- These 3 Major Upgrades Could Be Heading to Your Next Flagship Android Phone - CNET
-- Logitech’s new Blue Yeti 2 mic adjusts itself to where you are - theverge.com
+- Burnham brands ban on football fans drinking alcohol in stands as 'discrimination' - BBC
+- China's 80% Grip on Iranian Oil Looms Over Trump-Xi Summit - Crude Oil Prices Today | OilPrice.com
+- Stock Market Today: Dow, Nasdaq Slip; 10-Year Treasury Hits 19-Year High — Live Updates - WSJ
+- US Energy Secretary Wright says diesel export ban won't work - reuters.com
+- McDonald’s to spend $8.5B on revamping restaurants, tech and franchise support - Fox Business
+- Meta's Muse AI Agent Sees Fastest Adoption Since ChatGPT. Time to Buy Meta Stock? - Yahoo Finance
+- Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus - The Verge
+- Zuckerberg to unveil new AI products as Meta’s Muse app tops charts - Financial Times
