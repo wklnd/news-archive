@@ -1,52 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-23 22:36_
+_Updated: 2026-09-24 01:53_
 
 ## Top Stories
 
-- Tre misstänkta i utredning om valfusk - UNT
-- Det här är Irans mäktiga vänner – så hjälper de till i kriget - SVT Nyheter
-- Heta vindar ger sommarvärme i delar av landet - Göteborgs-Posten
-- Harvey Weinstein döms till 15 års fängelse - Göteborgs-Posten
+- ”Vänsterpartiets krishantering misslyckas just nu grovt” - Västerbottens-Kuriren
+- Xi har landat i USA – tas emot av Trump - Göteborgs-Posten
 - Tog emot 950 miljoner – nu väcks nya frågor - Svenska Dagbladet
 - 23 september 19.54, Försvunnen person, Piteå - polisen.se
+- DN Direkt – USA bjuder in Putin till G20-möte - Dagens Nyheter
+- Harvey Weinstein döms till 15 års fängelse - Yle
 - DN Direkt – Misstänkt mord i Helsingborg – kvinna hittad död - Dagens Nyheter
-- Kristersson om Tidös framtid: ”Öppen fråga” - Göteborgs-Posten
-- De kan bli ministrar i en ny regering - Dagens Nyheter
-- DN Direkt – Upprop för Dawit Isaak: Öka ansträngningarna - Dagens Nyheter
-- Minst sju döda i ryska attacker i Ukraina - Göteborgs-Posten
+- Upprop för Dawit Isaak: Öka ansträngningarna - Västerbottens-Kuriren
+- Just nu: Stopp i ett körfält på grund av en stillastående personbil på E4 - Corren
+- Bokmässans chef om anmälan: ”Allvarligt” - Göteborgs-Posten
 - Direkt – Kriget i Ukraina – Zelenskyj i FN: Putin kommer att misslyckas - Dagens Nyheter
-- Vägg kan vara grunden till Paris - Västerbottens-Kuriren
-- USA bjuder in Putin till G20-möte - Corren
+- USA lämnade FN-salen när Irans president talade – gick till angrepp mot USA och Israel - SVT Nyheter
+- Så binder nya avtalet Grönland till väst - Västerbottens-Kuriren
+- Minst sju döda i ryska attacker i Ukraina - Göteborgs-Posten
+- Anthropic: Vi ska sakta ner AI-utvecklingen - Omni – Alla nyheter. Alla perspektiv.
 - Nasdaqs VD: "Tiotals bolag på väg till börsen" - affarsvarlden.se
-- Foremont Group: IPO för emissionsgaranten - affarsvarlden.se
-- Muminmuggarna i köket kan vara värda tusen euro - Hufvudstadsbladet – HBL
-- Dilemmat: Hur stoppar man sexet i taxibilarna? - Svenska Dagbladet
+- Börsen föll när oljepriset steg - Göteborgs-Posten
+- Rött på Wall Street – räntefrossan når ny nivå - Västerbottens-Kuriren
 - Studior bantas och slås ihop: ”Xbox är en spillra” - Omni – Alla nyheter. Alla perspektiv.
 - Test av Apples nya flaggskepp Iphone 18 Max - Expressen
 
 ## World News
 
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - media.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
-- GT World Challenge Asia, Okayama International Circuit, Japan på ikväll 18:45 - TV.nu
-- Alibaba accelererar global utbyggnad av AI-datacenter (Finwire News) - Aktiellt
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- GT World Challenge Asia, Okayama International Circuit, Japan på ikväll 18:45 - tv.nu
+- Alibaba accelererar global utbyggnad av AI-datacenter (Finwire News) - swedbank-aktiellt.se
 - Smäll för svensk pension: Rasar i global ranking från plats 11 till 22 - News55
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Storbritannien: Global lanserar nyhetskanalen LBC News - radionytt.se
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Storbritannien: Global lanserar nyhetskanalen LBC News - Radionytt.se
+- Kenya: Using social media for manipulation and suppression - globalbar.se
 - Visual Art köper Global Agencies - Dagens Media
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+
+## Technology
+
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - swedbank-aktiellt.se
+- Leveraging AI in Swedish Development Cooperation - fuf.se
+- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Skräp inom artificiell intelligens – Övergång från respons till förebyggande - Vietnam.vn
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - computersweden.se
+- I år ska AI visa affärsnytta. Igen. - computersweden.se
+- Försäkringsbolag: AI är för riskabelt att försäkra - computersweden.se
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - computersweden.se
+- USA och Kina dominerar stort när det gäller AI-patent - computersweden.se
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - computersweden.se
+- Tiden för billig vibe coding kan vara över - computersweden.se
+- Albanien utser AI-bot till minister - computersweden.se
+- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - computersweden.se
 
 ## Business
 
@@ -56,8 +79,8 @@ _Updated: 2026-09-23 22:36_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finansinspektionen varnar för finansbedragare - tv4.se
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - nordea.com
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
@@ -74,17 +97,17 @@ _Updated: 2026-09-23 22:36_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Global katastrofmedicin - hälsobehov och insatser – Johan von Schreebs forskargrupp - Karolinska Institutet
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
-- E-hälsa inom EU - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Funktion och hälsa vid respiratoriska och kardiovaskulära tillstånd – Malin Nygren-Bonniers forskargrupp - Karolinska Institutet
 - Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
@@ -92,7 +115,7 @@ _Updated: 2026-09-23 22:36_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Magisterprogram i arbetsliv och hälsa - umu.se
+- Magisterprogram i arbetsliv och hälsa - Umeå universitet
 
 ## Science
 
@@ -102,7 +125,7 @@ _Updated: 2026-09-23 22:36_
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskningen ska vara fri - commission.europa.eu
+- Forskningen ska vara fri - European Commission
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
@@ -119,23 +142,23 @@ _Updated: 2026-09-23 22:36_
 
 ## Jordbruk
 
-- Visning av uppkomst efter direktsådd - land.se
+- Visning av uppkomst efter direktsådd - Land.se
 - Sara Österman – ny akademisekreterare på KSLA från årsskiftet - Mynewsdesk
 - Sveriges förändrade lantbruk - SLU
-- Framtidens jordbruk - commission.europa.eu
+- Framtidens jordbruk - European Commission
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Brittiska bönder i massiv protest mot arvsskatten - ja.se
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Gården som sålde plogen – och förbättrade jorden - extrakt.se
 - Jordbrukspolitik - Naturvårdsverket
 - Lantbrukslogik – nu och i framtiden - SLU
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbruket har en nyckelroll för att rädda klimatet - land.se
+- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - land.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - land.se
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
