@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-23 19:27_
+_Updated: 2026-09-23 22:40_
 
-- Harvey Weinstein sentenced to 15 years after sexual assault conviction - The Guardian
-- U.N. Live Updates: Iran’s President Accuses U.S. and Israel of Lawless Attacks After Trump Threatens to 'Annihilate' Iran - The New York Times
-- Defending Trump media ban, DOJ cites national security and says White House access is a ‘privilege’ - nbcnews.com
-- Trump’s midterm woes deepen amid worsened economic backdrop: CNN poll - cnn.com
-- Polo off Mexican coast is among ‘the strongest storms ever’ as Odalys becomes a hurricane - AP News
-- White House rolling out red carpet for historic Xi Jinping visit - BBC
-- US judge blocks deportation of DoorDash driver shot by ICE - BBC
+- CNN, Politico and MS NOW to face off with Trump administration in court over White House ban - NBC News
+- Iran War Updates: U.S. and Iran hold first talks since June after Trump threatens regime with annihilation - CBS News
 - Where a powerful nor’easter could hit hardest this weekend - The Washington Post
-- Poll: Canadians and Americans agree, Trump was in the wrong with trade war - Politico
-- Endangered sea turtle lays eggs in Calif. for first time in recorded history - SFGATE
-- First Thing: Trump addresses UN with mixture of boasts, threats and jibes - The Guardian
+- Hackers Say They Stole Thousands of Sensitive F.B.I. Personnel Records - nytimes.com
+- Trump’s approval plunges into the 20s, and Republicans give up - The Hill
+- ‘We hope he’ll accept’: US invites Putin to G20 summit at Trump golf club - The Guardian
+- Live updates: Iran’s president says ‘we will never bow our head’ to Trump in defiant UN speech - CNN
+- Tensions Rise Between Mamdani and Netanyahu as Israeli Leader Visits New York - WSJ
+- Mississippi police make 2nd arrest in death of Black woman found hanging from tree, seek 3rd suspect - AP News
+- Trump officials weigh rolling back beef import plan as GOP midterm panic spreads - Politico
+- Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war - BBC
 - EU drops sanctions for Russian oligarchs Usmanov and Fridman - DW.com
-- 'Super' El Niño could cause 451,000 excess deaths, researchers say - Reuters
+- Super-strong El Niño could lead to 450K deaths. Map shows the states hit hardest - The Hill
 - Greetings from Edinburgh, where a cheeky tour guide makes art history hilarious - NPR
+- Stocks fall as yields shoot higher, Nasdaq retreats from record: Live updates - CNBC
 - ‘Dammit, something has to happen’: White House preparing plan for 90-day diesel exports ban - Politico
-- Stock Market Today: Dow, Nasdaq Slip; 10-Year Treasury Hits 19-Year High — Live Updates - WSJ
-- Meta's Muse reignites AI disruption fears. Traders are targeting this brokerage stock as next casualty - CNBC
-- US Mortgage Rates Surge Above 7% to a More Than Two-Year High - Bloomberg.com
+- Meta's Muse rekindles fears over winners and losers as personal AI agent emerges - Reuters
+- Trump reveals millions of dollars' worth of share deals in big tech and AI - BBC
 - These 3 Major Upgrades Could Be Heading to Your Next Flagship Android Phone - CNET
-- Spotify is giving you the keys to its recommendation algorithm with US launch of 'Taste Profile' - TechCrunch
+- Logitech’s new Blue Yeti 2 mic adjusts itself to where you are - theverge.com
