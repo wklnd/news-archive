@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-24 01:53_
+_Updated: 2026-09-24 07:12_
 
 ## Top Stories
 
+- Så har Trump ändrat ton om Xi – möts i Vita huset - SVT Nyheter
 - ”Vänsterpartiets krishantering misslyckas just nu grovt” - Västerbottens-Kuriren
-- Xi har landat i USA – tas emot av Trump - Göteborgs-Posten
-- Tog emot 950 miljoner – nu väcks nya frågor - Svenska Dagbladet
-- 23 september 19.54, Försvunnen person, Piteå - polisen.se
-- DN Direkt – USA bjuder in Putin till G20-möte - Dagens Nyheter
-- Harvey Weinstein döms till 15 års fängelse - Yle
-- DN Direkt – Misstänkt mord i Helsingborg – kvinna hittad död - Dagens Nyheter
-- Upprop för Dawit Isaak: Öka ansträngningarna - Västerbottens-Kuriren
-- Just nu: Stopp i ett körfält på grund av en stillastående personbil på E4 - Corren
-- Bokmässans chef om anmälan: ”Allvarligt” - Göteborgs-Posten
-- Direkt – Kriget i Ukraina – Zelenskyj i FN: Putin kommer att misslyckas - Dagens Nyheter
-- USA lämnade FN-salen när Irans president talade – gick till angrepp mot USA och Israel - SVT Nyheter
-- Så binder nya avtalet Grönland till väst - Västerbottens-Kuriren
-- Minst sju döda i ryska attacker i Ukraina - Göteborgs-Posten
+- DN Direkt – Misstänkt grovt brott i Karlskoga – en skadad - Dagens Nyheter
+- Kajsa opererade slidan via vården – kan få orgasm igen - Dagens Nyheter
+- Pakistan: Attackerat Afghanistan - Västerbottens-Kuriren
+- LEDARE: Intervju Anders Åslund: Ryssland har gått över till totalt krig - Nya Wermlands-Tidningen
+- Nu börjar hovrättsförhandlingar i Landerholm-ärendet - Dagens Nyheter
+- Upprop för Dawit Isaak: Öka ansträngningarna - Göteborgs-Posten
+- Experten tipsar: Det här behöver du ha i en krislåda hemma - SVT Nyheter
+- Så många skyddsrum finns i Västernorrland – lägst täckning i Kramfors - SVT Nyheter
+- Karl Dalén: Trumps besked en tidig julklapp till Putin - Dagens Nyheter
+- USA och Danmark enas om Grönland – "tilliten skadad" - Europaportalen
+- USA lämnade FN-salen när Irans president talade - Göteborgs-Posten
+- Antik vägg hittad i Paris – kan lösa gåtan om stadens ursprung - Dagens Nyheter
 - Anthropic: Vi ska sakta ner AI-utvecklingen - Omni – Alla nyheter. Alla perspektiv.
-- Nasdaqs VD: "Tiotals bolag på väg till börsen" - affarsvarlden.se
-- Börsen föll när oljepriset steg - Göteborgs-Posten
-- Rött på Wall Street – räntefrossan når ny nivå - Västerbottens-Kuriren
-- Studior bantas och slås ihop: ”Xbox är en spillra” - Omni – Alla nyheter. Alla perspektiv.
+- Största ränteuppgången sedan Trumps tullkaos - DI
+- Open AI hackade Medicare i Australien - SVT Nyheter
+- Nedåtgående trend i Asien, Nikkei 225-index sticker ut med uppgång - Placera.se
 - Test av Apples nya flaggskepp Iphone 18 Max - Expressen
+- Studior bantas och slås ihop: ”Xbox är en spillra” - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - media.smart.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- GT World Challenge Asia, Okayama International Circuit, Japan på ikväll 18:45 - tv.nu
-- Alibaba accelererar global utbyggnad av AI-datacenter (Finwire News) - swedbank-aktiellt.se
-- Smäll för svensk pension: Rasar i global ranking från plats 11 till 22 - News55
+- Global Unions uttrycka sin orubbliga solidaritet med HBTQI+-organisationer, aktivister och människorättsförsvarare i Turkiet - UNI Global Union
+- Alibaba accelererar global utbyggnad av AI-datacenter (Finwire News) - Aktiellt
+- Smäll för svensk pension: Rasar i global ranking från plats 11 till 22 - news55.se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Storbritannien: Global lanserar nyhetskanalen LBC News - Radionytt.se
-- Kenya: Using social media for manipulation and suppression - globalbar.se
-- Visual Art köper Global Agencies - Dagens Media
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 
@@ -53,23 +53,23 @@ _Updated: 2026-09-24 01:53_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - swedbank-aktiellt.se
-- Leveraging AI in Swedish Development Cooperation - fuf.se
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Skräp inom artificiell intelligens – Övergång från respons till förebyggande - Vietnam.vn
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - computersweden.se
-- I år ska AI visa affärsnytta. Igen. - computersweden.se
-- Försäkringsbolag: AI är för riskabelt att försäkra - computersweden.se
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - computersweden.se
-- USA och Kina dominerar stort när det gäller AI-patent - computersweden.se
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - computersweden.se
-- Tiden för billig vibe coding kan vara över - computersweden.se
-- Albanien utser AI-bot till minister - computersweden.se
-- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - computersweden.se
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
+- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
 
@@ -79,7 +79,7 @@ _Updated: 2026-09-24 01:53_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - nordea.com
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
@@ -98,24 +98,24 @@ _Updated: 2026-09-24 01:53_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Aging Research Center (ARC) ‒ ett forskningscentrum för äldre personers hälsa och levnadsvillkor - Karolinska Institutet
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Låt oss prata hälsa – Intensivvård – Segment 1 - apollohospitals.com
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Global katastrofmedicin - hälsobehov och insatser – Johan von Schreebs forskargrupp - Karolinska Institutet
+- firar 15 år av att skydda den globala hälsosektorn - health-isac.org
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Funktion och hälsa vid respiratoriska och kardiovaskulära tillstånd – Malin Nygren-Bonniers forskargrupp - Karolinska Institutet
-- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - Health-ISAC
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Global katastrofmedicin - hälsobehov och insatser – Johan von Schreebs forskargrupp - Karolinska Institutet
+- E-hälsa inom EU - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Magisterprogram i arbetsliv och hälsa - Umeå universitet
+- Grupper riktar in sig på kommunikation, läkemedelsrisker med nya vårdresurser - health-isac.org
 
 ## Science
 
@@ -131,14 +131,14 @@ _Updated: 2026-09-24 01:53_
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- ”Research on bison completely wrong” - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Andrea del Valle - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- ”Research on bison completely wrong” - Forskning & Framsteg
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
@@ -148,7 +148,7 @@ _Updated: 2026-09-24 01:53_
 - Framtidens jordbruk - European Commission
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Gården som sålde plogen – och förbättrade jorden - extrakt.se
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbrukspolitik - Naturvårdsverket
 - Lantbrukslogik – nu och i framtiden - SLU
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
