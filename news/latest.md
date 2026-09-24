@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-24 01:08_
+_Updated: 2026-09-24 03:38_
 
-- Trump plans grand spectacle for potentially tense talks as Xi arrives in US - reuters.com
-- Federal judge delays ruling on White House ban on CNN, Politico and MS NOW - BBC
-- Iran’s president tells U.N. his country ‘must be powerful so as to avoid being threatened’ - The Washington Post
-- Where a powerful nor’easter could hit hardest this weekend - The Washington Post
-- FBI investigates breach of jobs website as hackers claim ‘very sensitive data’ stolen - The Guardian
-- Many voters see midterms as vote against Trump, new poll finds - USA Today
-- U.N. Live Updates: Zelensky and Pezeshkian Address Ukraine and Iran Wars in Speeches - The New York Times
+- Trump greets Xi Jinping at plane as Chinese leader arrives for state visit - theguardian.com
+- Judge set to rule on Trump administration’s rationale for White House media ban - NBC News
+- Iran's president gives a rare wartime speech at the U.N. - NPR
+- Venezuelan man shot by ICE officer needs surgery to remove the bullet, U.S. Rep. Greg Casar says - The Texas Tribune
+- Eight US sailors in USS Abraham Lincoln strike group attempted suicide, Navy says - BBC
+- Boise's "Unknown Wanderer" is identified after 43 years. Could he be linked to Chicago Tylenol murders? - CBS News
+- OpenAI’s Altman and Anthropic’s Amodei address UN security council - theguardian.com
+- Live updates: Venezuela’s acting President Delcy Rodríguez speaks at UN months after US captured her predecessor - cnn.com
+- Court order filed against Dolly Parton’s nephew - WATE 6 On Your Side
 - NRSC Chair Tim Scott leaves Georgia, North Carolina off his list of top Senate targets - Politico
-- Trump officials weigh rolling back beef import plan as GOP midterm panic spreads - Politico
-- Trump’s Signature Tax Bill Is Starting to Bite Before the Election - The New York Times
-- Tigrayan leaders say new war with Ethiopian government has begun - reuters.com
-- EU drops sanctions for Russian oligarchs Usmanov and Fridman - DW.com
-- Burnham brands ban on football fans drinking alcohol in stands as 'discrimination' - BBC
-- China's 80% Grip on Iranian Oil Looms Over Trump-Xi Summit - Crude Oil Prices Today | OilPrice.com
-- Stock Market Today: Dow, Nasdaq Slip; 10-Year Treasury Hits 19-Year High — Live Updates - WSJ
-- US Energy Secretary Wright says diesel export ban won't work - reuters.com
+- Why new war in Ethiopia’s Tigray threatens to trigger wider conflict - Reuters
+- Iran War Updates: U.S. and Iran hold first talks since June after Trump threatens regime with annihilation - CBS News
+- China's 80% Grip on Iranian Oil Looms Over Trump-Xi Summit - oilprice.com
+- Javier Milei shreds ‘useless’ UN to its face in fiery speech to 'fatally arrogant parasites' - Fox News
+- Stock Market News, Sept. 23, 2026: Treasury Selloff Deepens, Sending 10-Year Yield Above 5.1% - WSJ
 - McDonald’s to spend $8.5B on revamping restaurants, tech and franchise support - Fox Business
-- Meta's Muse AI Agent Sees Fastest Adoption Since ChatGPT. Time to Buy Meta Stock? - Yahoo Finance
-- Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus - The Verge
-- Zuckerberg to unveil new AI products as Meta’s Muse app tops charts - Financial Times
+- US Energy Secretary Wright says diesel export ban won't work - Reuters
+- Trump reveals millions of dollars' worth of share deals in big tech and AI - BBC
+- Meta Announces ‘VR Glasses’ Next-Gen XR Headset, Priced at $1,300 - roadtovr.com
+- Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus - theverge.com
