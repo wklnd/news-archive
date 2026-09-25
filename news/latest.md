@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-24 22:46_
+_Updated: 2026-09-25 02:00_
 
-- Netanyahu takes UN stage with one eye on Israel’s election - Al Jazeera
-- At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict - The Guardian
+- Live Updates: Trump hosting China's Xi at White House as they navigate AI, trade tensions and Taiwan - CBS News
+- Netanyahu defends Israeli military actions in Middle East in UN speech - BBC
+- In one of their last votes before November, Senate GOP blocks effort to end Iran war - NPR
 - CNN, MS NOW and Politico allowed back at the White House after judge blocked Trump’s ban - NBC News
-- Track where a potent nor’easter will bring heavy rain, winds and waves - washingtonpost.com
-- Rogue OpenAI agent 'infiltrated' Australian government website in world first - BBC
-- Ballot seizure by Riverside County sheriff was ‘unlawful,’ California Supreme Court rules - Los Angeles Times
-- Ole Miss victims identified as narcotics task force probes two student deaths - Fox News
-- Florida Senate nominee Angie Nixon says "this is not about three letters" amid DSA criticism - CBS News
-- Senate to vote on ending Iran war as Americans face higher fuel costs from conflict - cnbc.com
-- FDA nominee contradicts Trump on safety of measles vaccine - Politico
-- Report: CIA warned Europe of Russian drone attack from vessels in the Mediterranean - Defense News
-- Knifeman kills priest, injures four in attack at Polish abbey - Reuters
-- At UN, 80 countries demand reopening of Hormuz, condemn Iran, Houthi attacks - Reuters
-- Krasnodar Region Declares State of Emergency as Ukrainian Strikes Cripple Grain Exports - themoscowtimes.com
-- Mortgage Rates Hit 7% as Iran War Fallout Crushes a Weak Housing Market - nytimes.com
-- Bond yields surge to fresh two-decade highs but oil prices buffeted by Iran headlines - NBC News
-- Nearly 170,000 pounds of raw meat recalled for false inspection labels - washingtonpost.com
+- OpenAI’s agents breached Australian government data. Its human response may do more damage. - Politico
+- Hurricane Polo is a Category 5 monster, a 'rare show of force' - usatoday.com
+- 'Wish I didn't say this': Ex-mistress gets emotional reading texts on stand in Caleb Flynn trial - WLWT
+- Track where a potent nor’easter will bring heavy rain, winds and waves - The Washington Post
+- Deaths of students at the University of Mississippi cast spotlight on kratom - AP News
+- Trump’s FDA pick sidesteps questions on abortion pill and vaccines at confirmation hearing - NBC News
+- Officer fended off Ontario synagogue gunman despite being shot multiple times, authorities say - CBS News
+- France to Deploy Forces to Protect Saudi Red Sea Oil Port - WSJ
+- Denmark expects Russia to escalate hybrid warfare in coming months, intelligence service says - Reuters
+- Saudi Arabia says it intercepted Houthi missiles; group claims strikes on Riyadh, Aramco - Reuters
+- Mortgage Rates Now Close to 7.5% - Mortgage News Daily
+- Trump’s state dinner for Xi to feature sea bass and a long list of tech titans - AP News
+- Global bond selloff deepens, as US 30-year yields hit highest since 2004 - Reuters
 - Google’s first Suncatcher orbital data center test launches October 1 - Ars Technica
-- Meta’s Muse AI Charms can interact with each other - theverge.com
-- Turtle Beach Rematch Review: The Cutest Switch 2 Controller Of The Bunch - Engadget
+- Zuckerberg says Meta will lead on smartglasses privacy despite ‘pervert glasses’ criticism - NBC News
+- Gemini 3.8 Live with Live Avatar gives Google’s AI a face - The Verge
