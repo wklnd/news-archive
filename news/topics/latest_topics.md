@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-25 20:48_
+_Updated: 2026-09-26 00:40_
 
 ## Top Stories
 
-- Uppgifter: Vänsterpartiet vill se Norlén som talman - Göteborgs-Posten
-- Misstänkta svenska valfusket kan få stora konsekvenser - hbl.fi
-- Annie Reuterskiöld: Rykten, misstankar och ilska flödar mellan de rödgröna - Dagens Nyheter
-- Xi lämnar USA – utan tydliga besked - Västerbottens-Kuriren
+- Fotboll: Alexander Isak och Viktor Gyökeres löste segern för Sverige - SVT Nyheter
+- Källor: Ilskan växer mot V – twittrande stör förhandlingar - Dagens Nyheter
+- Två intensivvårdas efter att ha kört in i garage - Aftonbladet
 - Flicka skadad på skola - 8 Sidor
-- Man avliden efter brand i Heby - SVT Nyheter
-- DN Direkt – Tre anhållna efter skottlossning i galleria - Dagens Nyheter
-- DN Direkt – Förundersökning inledd om misstänkt valfusk i Järva - Dagens Nyheter
-- Valincident utreds i Uppsala län - UNT
-- Bilförare har kraschat in i ett hus i Piteå - SVT Nyheter
-- Israeliska soldater dödade på Gazaremsan - Västerbottens-Kuriren
-- Zelenskyj: Trump ger Ukraina grönt ljus att tillverka Patriot robotar - Dagens Nyheter
-- DN Direkt – Svensk man misstänkt för inblandning i mordfall - Dagens Nyheter
-- Påven möttes av jubel i Paris – varnade för AI - Aftonbladet
-- Bill Gates varning: AI kan utrota en miljard människor - Expressen
+- Uppgifter: Vänsterpartiet vill se Norlén som talman - Göteborgs-Posten
+- Man död i radhusbrand utanför Heby - Västerbottens-Kuriren
+- Efter skjutningen: Flera skolor valde att inrymma eleverna - NT
+- Annie Reuterskiöld: Rykten, misstankar och ilska flödar mellan de rödgröna - Dagens Nyheter
+- Abdullahi Mohamed ser ”en våg av hets” efter valfuskmisstankarna i Borlänge - Göteborgs-Posten
+- En natt i skyddsrum: “Måste pissa” - expressen.se
+- Putin: Förbereder inte konflikt med Europa - Corren
+- Socialistveteranens ädelstenar alltmer obekväma för partiet - Dagens Nyheter
+- Xi lämnar USA – utan tydliga besked - hbl.fi
+- Flera dödade på parkering i Kiev - Göteborgs-Posten
+- Bill Gates varning: AI kan utrota en miljard människor - expressen.se
 - Chocksiffran: 23 miljarder saknas för nya tunnelbanan - Mitt i
-- Stockholmsbörsen vände upp – Iranhopp gav stöd - Affärsvärlden
+- Hissar varningsflagg inför ny noteringsfest - Svenska Dagbladet
 - Nanexa i jätteavtal med Novo – värt tolv gånger börsvärdet - Omni – Alla nyheter. Alla perspektiv.
 - Meta visar upp nya vr-glasögon - m3.se
-- EA Sports FC 27 släpps idag – 10 största nyheterna i årets spel - HurBra.se
+- Glöm köttbullarna – nu blir det FC 27 på Ikea - Mitt i
 
 ## World News
 
@@ -33,27 +33,27 @@ _Updated: 2026-09-25 20:48_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- GMMP: Global backlash syns i världens medier - fempers.se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - via.tt.se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Alibaba accelererar global utbyggnad av AI-datacenter (Finwire News) - swedbank-aktiellt.se
 - Smäll för svensk pension: Rasar i global ranking från plats 11 till 22 - News55
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Eye missar Kanadas krav – oppositionen kräver granskning - Sveriges Radio
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - via.tt.se
+- Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - WALOVI's International Cans Make Global Debut, Ushering in a New Era of Eastern Natural Plant Beverages - swedbank-aktiellt.se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Kronprinsen fick ”stor summa” för avlyssning - Omni – Alla nyheter. Alla perspektiv.
-- Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - swedbank-aktiellt.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
@@ -80,7 +80,7 @@ _Updated: 2026-09-25 20:48_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - nordea.com
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
@@ -102,7 +102,7 @@ _Updated: 2026-09-25 20:48_
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Private healthcare insurance in a public healthcare system - Göteborgs universitet
 - Global katastrofmedicin - hälsobehov och insatser – Johan von Schreebs forskargrupp - Karolinska Institutet
@@ -110,18 +110,18 @@ _Updated: 2026-09-25 20:48_
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Workshop med fokus på utmaningar och möjligheter med ny teknik - Göteborgs universitet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - Cuu Long University: Internationellt samarbete, förbättring av kvaliteten på vetenskaplig forskning i Mekongdeltatregionen. - Vietnam.vn
-- Activities for the public – Department of Earth Sciences - uu.se
+- Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
@@ -132,11 +132,11 @@ _Updated: 2026-09-25 20:48_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Sherry Nakhaeizadeh - uu.se
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Andrea del Valle - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - uu.se
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - ”Research on bison completely wrong” - Forskning & Framsteg
 - Simple math behind major bison blunder - Forskning & Framsteg
 
@@ -144,15 +144,15 @@ _Updated: 2026-09-25 20:48_
 
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Sara Österman – ny akademisekreterare på KSLA från årsskiftet - Mynewsdesk
-- Jordbrukspolitik - Naturvårdsverket
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
-- Sveriges förändrade lantbruk - SLU
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Sveriges förändrade lantbruk - SLU
+- Brittiska bönder i massiv protest mot arvsskatten - ja.se
+- Jordbrukspolitik - naturvardsverket.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Här är världens största jordbruk - ATL
