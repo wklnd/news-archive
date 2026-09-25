@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-25 21:33_
+_Updated: 2026-09-26 00:48_
 
-- Trump-Xi visit wraps up with few achievements announced - CBS News
-- Supreme Court allows Trump administration to use expanded database for potential voter purges - NBC News
-- A nor’easter is strengthening near the East Coast. These cities will be hit hard. - The Washington Post
-- Track path of eye-popping Category 5 Hurricane Polo as it strengthens - USA Today
-- Susan Sarandon, Hannah Einbinder among more than 100 detained during anti-Netanyahu protest outside UN - CNN
-- Rep. Thomas Massie: Trump 'comeuppance' will happen on Election Day - The Hill
-- New Jersey Gov. Mikie Sherrill calls for Lt. Gov. Dale Caldwell's resignation after investigation - CBS News
-- Ketanji Brown Jackson criticizes supreme court’s handling of emergency docket - theguardian.com
-- Hurricane Nolo, a zig-zagging storm, threatens Hawaii with flooding rains - npr.org
-- ‘We are hemorrhaging’: Cracks emerge in GOP’s Florida firewall - Politico
-- Pope Leo warns of AI threat to humanity at start of three-day France visit - theguardian.com
-- Nepal’s leader labels devastating flood a ‘warning to the world’ - Al Jazeera
-- Cheetah Quints Aced Their Early Trials - Newser
-- Netanyahu Said to Have Been Warned by Emirati Leader About Hamas Attack Before Oct. 7 - The New York Times
-- Bill Gates Issues Warning About AI: ‘Never Been A Weapon As Powerful’ - Forbes
-- Brightline files for bankruptcy as SoCal-Las Vegas rail project faces delays - ktla.com
-- Costco receives $184M in tariff refunds, plans to pass savings to shoppers - MyNorthwest.com
-- Treasury Yields Are Spiking. Where to Invest in the Bond Market Now. - Barron's
+- Takeaways from the Trump-Xi state visit: Pageantry and pandas - NPR
+- Supreme Court allows Trump to use SAVE database to check voter citizenship - BBC
+- Supreme Court again snubs GOP gerrymander in Missouri - Politico
+- Nor’easter set to hit East Coast today and continue through weekend - NBC News
+- New Jersey lieutenant governor resigns after sexual harassment accusation - The Guardian
+- Wisconsin police find dozens of partially clothed men in frat house basement in alleged hazing incident - CBS News
+- The White House network TV pool resumes operations after a dayslong ban of news outlets from grounds - AP News
+- Hurricane Nolo, a zig-zagging storm, threatens Hawaii with flooding rains - NPR
+- Ketanji Brown Jackson criticizes supreme court’s handling of emergency docket - The Guardian
+- Trump will hit several deep-red states in October campaign blitz - Politico
+- Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit - NPR
+- African Presidents Call for Permanent African Seats on U.N. Security Council - The New York Times
+- Crash: Tracep L410 at Kenge on Sep 25th 2026, crashed on landing - The Aviation Herald
+- Netanyahu is said to have been warned about Hamas attack before Oct. 7 - The Seattle Times
+- New Mexico jury finds Facebook liable of deceiving users about privacy protections - AP News
+- EU vows to defend its stand against X after the US backs a court challenge from Elon Musk - ABC News - Breaking News, Latest News and Videos
+- Stock Market Today: Bond Yields Drop With Oil Prices Near End of Volatile Week — Live Updates - WSJ
+- EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges - Reuters
+- Meta debuts Tamagotchi-style "charm" housing an AI agent - Dezeen
 - Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K - The Verge
-- Keychron Thunderbolt 5 Dock Review: Unusually Sensible - Engadget
