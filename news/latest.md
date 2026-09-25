@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-25 12:33_
+_Updated: 2026-09-25 17:33_
 
-- Trump's state dinner for Xi features sea bass and a long list of tech titans - NPR
-- Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech - aljazeera.com
-- Rainy and windy conditions across Connecticut Friday night through Sunday! - WTNH.com
-- Iran offers US new seven-day ceasefire proposal - Financial Times
-- How every senator voted on the Iran war powers resolution - The Washington Post
-- Deaths of students at the University of Mississippi cast spotlight on kratom - apnews.com
+- Trump welcomes China's Xi for state dinner at White House after touting "truly great friendship" - CBS News
+- Nor’easter Could Bring Heavy Rain, Winds, and Flooding to East Coast - The New York Times
+- An isolated Netanyahu was defiant at UN as he seeks reelection at home - AP News
+- Man shot during 2024 Trump campaign rally in Butler dies - BBC
+- ICE wasted millions of taxpayer dollars in rapid push to expand detention capacity, government watchdog finds - CBS News
+- Michigan GOP Senate candidate who praised the Iran war now campaigns against the pain it caused - CNN
 - New Jersey Gov. Sherrill calls on her lieutenant governor to resign - The Washington Post
-- California Supreme Court orders Riverside County sheriff to return 650,000 seized ballots - apnews.com
 - With Republicans under pressure, Trump’s White House starts bending - Politico
-- CNN, MS NOW White House reporters denied access to Xi’s state dinner arrival - CNN
-- Leo XIV, Trying to Be Everyone’s Pope, Tours Secular France - The New York Times
-- Meloni government bans burqas, caps foreign students in Italian schools - aljazeera.com
-- Nepal seeks grants, not loans, for flood recovery after deadly glacier disaster - Reuters
-- Super-sized El Niño could cause more than 450,000 heat deaths by February, study suggests - ABC7 Los Angeles
-- US mortgage rates top 7% for first time in 20 months - The Guardian
-- U.S. Treasury yields tick higher as global bond rout slows - CNBC
-- Who attended the White House dinner for Chinese leader Xi Jinping? - The Washington Post
-- US intervenes in Elon Musk’s legal challenge to EU fine against X - Financial Times
-- Meta Launches $1M Developer Competition to Stock 'VR Glasses' with More Hand-tracked Apps - Road to VR
-- Microsoft Copilot+ Branding Disappears from Latest Surface PCs - TechPowerUp
+- ‘America’s Bishop’ Was Beatified. 50,000 Catholics Showed Up. - The New York Times
+- Madison hazing incident: 'Visibly injured' students found covered with food, liquids, police say - wisn.com
+- Pope Leo XIV begins historic 4-day visit to France - Fox News
+- Russia could attack a NATO country within months, Danish intelligence warns - cnbc.com
+- Macron denies CIA warned France of Russian drone attack - Euronews.com
+- Internet and phone network disrupted in Ethiopia's war-hit Tigray region - Reuters
+- AI leaders attend Trump-Xi state dinner as Zuckerberg rejects coordinated AI safety - Fox News
+- No end to the sell-off in government bonds - axios.com
+- Stock Market Today: S&P 500, Nasdaq little-changed as early gains fade; Dow heads for fourth-straight losing week - MarketWatch
+- US backs Elon Musk's bid to overturn €120m EU fine against X - BBC
+- Create a Custom Pass in the Wallet App on iPhone - MacRumors
+- Motorola Signature 27 confirmed to support GrapheneOS - 9to5Google
