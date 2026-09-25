@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-25 07:23_
+_Updated: 2026-09-25 12:33_
 
-- Live Updates: Trump welcomes China's Xi for state dinner at White House after touting "truly great friendship" - cbsnews.com
-- Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech - Al Jazeera
-- Media outlets banned by Trump denied access to White House dinner despite judge's order - bbc.com
+- Trump's state dinner for Xi features sea bass and a long list of tech titans - NPR
+- Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech - aljazeera.com
+- Rainy and windy conditions across Connecticut Friday night through Sunday! - WTNH.com
+- Iran offers US new seven-day ceasefire proposal - Financial Times
 - How every senator voted on the Iran war powers resolution - The Washington Post
-- Hurricane Polo is coming. Here’s what it means for Southern California - Los Angeles Times
-- Nor’easter Could Bring Heavy Rain, Winds, and Flooding to East Coast - The New York Times
+- Deaths of students at the University of Mississippi cast spotlight on kratom - apnews.com
 - New Jersey Gov. Sherrill calls on her lieutenant governor to resign - The Washington Post
-- ‘America’s Bishop’ Was Beatified. 50,000 Catholics Showed Up. - The New York Times
-- Deaths of students at the University of Mississippi cast spotlight on kratom - AP News
-- St. Paul mayor called herself ‘MILF’ and touched police chief’s thigh, sexual harassment suit claims - NBC News
-- Hundreds of thousands expected in Paris for Pope's visit - bbc.com
-- From a Nepal in Pain, a Young Leader Makes a Case for Climate Reparations - The New York Times
+- California Supreme Court orders Riverside County sheriff to return 650,000 seized ballots - apnews.com
+- With Republicans under pressure, Trump’s White House starts bending - Politico
+- CNN, MS NOW White House reporters denied access to Xi’s state dinner arrival - CNN
+- Leo XIV, Trying to Be Everyone’s Pope, Tours Secular France - The New York Times
+- Meloni government bans burqas, caps foreign students in Italian schools - aljazeera.com
+- Nepal seeks grants, not loans, for flood recovery after deadly glacier disaster - Reuters
 - Super-sized El Niño could cause more than 450,000 heat deaths by February, study suggests - ABC7 Los Angeles
-- Houthis say they attacked Riyadh and Aramco facilities in Yanbu - Reuters
-- Markets News, Sept. 24, 2026: Dow Closes Lower for 3rd Straight Session; Treasury Yields, Oil Prices Rise - Investopedia
-- Oracle on the hook to pay data centre investors even if site has no electricity - Financial Times
 - US mortgage rates top 7% for first time in 20 months - The Guardian
-- Massachusetts Is Investigating Gambling Companies’ Use of A.I. - The New York Times
-- Meta’s Muse AI Charms can interact with each other - The Verge
-- Xiaomi's 18 Pro series phones have the latest Snapdragon chip and a Samsung-like privacy screen - Engadget
+- U.S. Treasury yields tick higher as global bond rout slows - CNBC
+- Who attended the White House dinner for Chinese leader Xi Jinping? - The Washington Post
+- US intervenes in Elon Musk’s legal challenge to EU fine against X - Financial Times
+- Meta Launches $1M Developer Competition to Stock 'VR Glasses' with More Hand-tracked Apps - Road to VR
+- Microsoft Copilot+ Branding Disappears from Latest Surface PCs - TechPowerUp
