@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-25 02:00_
+_Updated: 2026-09-25 07:23_
 
-- Live Updates: Trump hosting China's Xi at White House as they navigate AI, trade tensions and Taiwan - CBS News
-- Netanyahu defends Israeli military actions in Middle East in UN speech - BBC
-- In one of their last votes before November, Senate GOP blocks effort to end Iran war - NPR
-- CNN, MS NOW and Politico allowed back at the White House after judge blocked Trump’s ban - NBC News
-- OpenAI’s agents breached Australian government data. Its human response may do more damage. - Politico
-- Hurricane Polo is a Category 5 monster, a 'rare show of force' - usatoday.com
-- 'Wish I didn't say this': Ex-mistress gets emotional reading texts on stand in Caleb Flynn trial - WLWT
-- Track where a potent nor’easter will bring heavy rain, winds and waves - The Washington Post
+- Live Updates: Trump welcomes China's Xi for state dinner at White House after touting "truly great friendship" - cbsnews.com
+- Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech - Al Jazeera
+- Media outlets banned by Trump denied access to White House dinner despite judge's order - bbc.com
+- How every senator voted on the Iran war powers resolution - The Washington Post
+- Hurricane Polo is coming. Here’s what it means for Southern California - Los Angeles Times
+- Nor’easter Could Bring Heavy Rain, Winds, and Flooding to East Coast - The New York Times
+- New Jersey Gov. Sherrill calls on her lieutenant governor to resign - The Washington Post
+- ‘America’s Bishop’ Was Beatified. 50,000 Catholics Showed Up. - The New York Times
 - Deaths of students at the University of Mississippi cast spotlight on kratom - AP News
-- Trump’s FDA pick sidesteps questions on abortion pill and vaccines at confirmation hearing - NBC News
-- Officer fended off Ontario synagogue gunman despite being shot multiple times, authorities say - CBS News
-- France to Deploy Forces to Protect Saudi Red Sea Oil Port - WSJ
-- Denmark expects Russia to escalate hybrid warfare in coming months, intelligence service says - Reuters
-- Saudi Arabia says it intercepted Houthi missiles; group claims strikes on Riyadh, Aramco - Reuters
-- Mortgage Rates Now Close to 7.5% - Mortgage News Daily
-- Trump’s state dinner for Xi to feature sea bass and a long list of tech titans - AP News
-- Global bond selloff deepens, as US 30-year yields hit highest since 2004 - Reuters
-- Google’s first Suncatcher orbital data center test launches October 1 - Ars Technica
-- Zuckerberg says Meta will lead on smartglasses privacy despite ‘pervert glasses’ criticism - NBC News
-- Gemini 3.8 Live with Live Avatar gives Google’s AI a face - The Verge
+- St. Paul mayor called herself ‘MILF’ and touched police chief’s thigh, sexual harassment suit claims - NBC News
+- Hundreds of thousands expected in Paris for Pope's visit - bbc.com
+- From a Nepal in Pain, a Young Leader Makes a Case for Climate Reparations - The New York Times
+- Super-sized El Niño could cause more than 450,000 heat deaths by February, study suggests - ABC7 Los Angeles
+- Houthis say they attacked Riyadh and Aramco facilities in Yanbu - Reuters
+- Markets News, Sept. 24, 2026: Dow Closes Lower for 3rd Straight Session; Treasury Yields, Oil Prices Rise - Investopedia
+- Oracle on the hook to pay data centre investors even if site has no electricity - Financial Times
+- US mortgage rates top 7% for first time in 20 months - The Guardian
+- Massachusetts Is Investigating Gambling Companies’ Use of A.I. - The New York Times
+- Meta’s Muse AI Charms can interact with each other - The Verge
+- Xiaomi's 18 Pro series phones have the latest Snapdragon chip and a Samsung-like privacy screen - Engadget
