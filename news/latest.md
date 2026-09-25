@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-25 17:33_
+_Updated: 2026-09-25 21:33_
 
-- Trump welcomes China's Xi for state dinner at White House after touting "truly great friendship" - CBS News
-- Nor’easter Could Bring Heavy Rain, Winds, and Flooding to East Coast - The New York Times
-- An isolated Netanyahu was defiant at UN as he seeks reelection at home - AP News
-- Man shot during 2024 Trump campaign rally in Butler dies - BBC
-- ICE wasted millions of taxpayer dollars in rapid push to expand detention capacity, government watchdog finds - CBS News
-- Michigan GOP Senate candidate who praised the Iran war now campaigns against the pain it caused - CNN
-- New Jersey Gov. Sherrill calls on her lieutenant governor to resign - The Washington Post
-- With Republicans under pressure, Trump’s White House starts bending - Politico
-- ‘America’s Bishop’ Was Beatified. 50,000 Catholics Showed Up. - The New York Times
-- Madison hazing incident: 'Visibly injured' students found covered with food, liquids, police say - wisn.com
-- Pope Leo XIV begins historic 4-day visit to France - Fox News
-- Russia could attack a NATO country within months, Danish intelligence warns - cnbc.com
-- Macron denies CIA warned France of Russian drone attack - Euronews.com
-- Internet and phone network disrupted in Ethiopia's war-hit Tigray region - Reuters
-- AI leaders attend Trump-Xi state dinner as Zuckerberg rejects coordinated AI safety - Fox News
-- No end to the sell-off in government bonds - axios.com
-- Stock Market Today: S&P 500, Nasdaq little-changed as early gains fade; Dow heads for fourth-straight losing week - MarketWatch
-- US backs Elon Musk's bid to overturn €120m EU fine against X - BBC
-- Create a Custom Pass in the Wallet App on iPhone - MacRumors
-- Motorola Signature 27 confirmed to support GrapheneOS - 9to5Google
+- Trump-Xi visit wraps up with few achievements announced - CBS News
+- Supreme Court allows Trump administration to use expanded database for potential voter purges - NBC News
+- A nor’easter is strengthening near the East Coast. These cities will be hit hard. - The Washington Post
+- Track path of eye-popping Category 5 Hurricane Polo as it strengthens - USA Today
+- Susan Sarandon, Hannah Einbinder among more than 100 detained during anti-Netanyahu protest outside UN - CNN
+- Rep. Thomas Massie: Trump 'comeuppance' will happen on Election Day - The Hill
+- New Jersey Gov. Mikie Sherrill calls for Lt. Gov. Dale Caldwell's resignation after investigation - CBS News
+- Ketanji Brown Jackson criticizes supreme court’s handling of emergency docket - theguardian.com
+- Hurricane Nolo, a zig-zagging storm, threatens Hawaii with flooding rains - npr.org
+- ‘We are hemorrhaging’: Cracks emerge in GOP’s Florida firewall - Politico
+- Pope Leo warns of AI threat to humanity at start of three-day France visit - theguardian.com
+- Nepal’s leader labels devastating flood a ‘warning to the world’ - Al Jazeera
+- Cheetah Quints Aced Their Early Trials - Newser
+- Netanyahu Said to Have Been Warned by Emirati Leader About Hamas Attack Before Oct. 7 - The New York Times
+- Bill Gates Issues Warning About AI: ‘Never Been A Weapon As Powerful’ - Forbes
+- Brightline files for bankruptcy as SoCal-Las Vegas rail project faces delays - ktla.com
+- Costco receives $184M in tariff refunds, plans to pass savings to shoppers - MyNorthwest.com
+- Treasury Yields Are Spiking. Where to Invest in the Bond Market Now. - Barron's
+- Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K - The Verge
+- Keychron Thunderbolt 5 Dock Review: Unusually Sensible - Engadget
