@@ -1,64 +1,64 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-26 00:40_
+_Updated: 2026-09-26 03:50_
 
 ## Top Stories
 
-- Fotboll: Alexander Isak och Viktor Gyökeres löste segern för Sverige - SVT Nyheter
-- Källor: Ilskan växer mot V – twittrande stör förhandlingar - Dagens Nyheter
+- Irans hopp: Fred före valet i USA - Svenska Dagbladet
 - Två intensivvårdas efter att ha kört in i garage - Aftonbladet
-- Flicka skadad på skola - 8 Sidor
+- Putin: Förbereder inte konflikt med Europa - Västerbottens-Kuriren
+- Rysk statsmedia hintade om krig med Litauen – artikel togs bort - TV4 Nyheterna
+- Källor: Ilskan växer mot V – twittrande stör förhandlingar - Dagens Nyheter
 - Uppgifter: Vänsterpartiet vill se Norlén som talman - Göteborgs-Posten
-- Man död i radhusbrand utanför Heby - Västerbottens-Kuriren
-- Efter skjutningen: Flera skolor valde att inrymma eleverna - NT
 - Annie Reuterskiöld: Rykten, misstankar och ilska flödar mellan de rödgröna - Dagens Nyheter
-- Abdullahi Mohamed ser ”en våg av hets” efter valfuskmisstankarna i Borlänge - Göteborgs-Posten
-- En natt i skyddsrum: “Måste pissa” - expressen.se
-- Putin: Förbereder inte konflikt med Europa - Corren
-- Socialistveteranens ädelstenar alltmer obekväma för partiet - Dagens Nyheter
-- Xi lämnar USA – utan tydliga besked - hbl.fi
+- Misstänkta svenska valfusket kan få stora konsekvenser - Hufvudstadsbladet – HBL
+- DN Direkt – Förundersökning inledd om misstänkt valfusk i Järva - Dagens Nyheter
+- Flera stillastående fordon på E4 vid Påljungshage - sn.se
+- DN Direkt – Trump: Åker till Kina i november - Dagens Nyheter
 - Flera dödade på parkering i Kiev - Göteborgs-Posten
-- Bill Gates varning: AI kan utrota en miljard människor - expressen.se
-- Chocksiffran: 23 miljarder saknas för nya tunnelbanan - Mitt i
+- Påven möttes av jubel i Paris – varnade för AI - Aftonbladet
+- Israeliska soldater dödade på Gazaremsan - Göteborgs-Posten
+- Bill Gates varning: AI kan utrota en miljard människor - Expressen
 - Hissar varningsflagg inför ny noteringsfest - Svenska Dagbladet
-- Nanexa i jätteavtal med Novo – värt tolv gånger börsvärdet - Omni – Alla nyheter. Alla perspektiv.
-- Meta visar upp nya vr-glasögon - m3.se
+- Tunnelbanan till Nacka försenas – med två år - Nacka Värmdö Posten
+- Nya rekord på New York-börsen inför helgens handelsstopp - Börskollen
 - Glöm köttbullarna – nu blir det FC 27 på Ikea - Mitt i
+- Meta visar upp nya vr-glasögon - m3.se
 
 ## World News
 
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- BBC fyller 100 år – äldsta public service i världen - omni.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- GMMP: Global backlash syns i världens medier - fempers.se
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - via.tt.se
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Alibaba accelererar global utbyggnad av AI-datacenter (Finwire News) - swedbank-aktiellt.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
+- Alibaba accelererar global utbyggnad av AI-datacenter (Finwire News) - Aktiellt
 - Smäll för svensk pension: Rasar i global ranking från plats 11 till 22 - News55
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Eye missar Kanadas krav – oppositionen kräver granskning - Sveriges Radio
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - via.tt.se
-- Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
-- WALOVI's International Cans Make Global Debut, Ushering in a New Era of Eastern Natural Plant Beverages - swedbank-aktiellt.se
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Saabs vd: ”Har ett rejält intresse för Global Eye nu” - omni.se
+- WALOVI's International Cans Make Global Debut, Ushering in a New Era of Eastern Natural Plant Beverages - Aktiellt
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Kronprinsen fick ”stor summa” för avlyssning - Omni – Alla nyheter. Alla perspektiv.
+- Kronprinsen fick ”stor summa” för avlyssning - omni.se
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - swedbank-aktiellt.se
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - nyheter.ki.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Skräp inom artificiell intelligens – Övergång från respons till förebyggande - Vietnam.vn
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
@@ -80,7 +80,7 @@ _Updated: 2026-09-26 00:40_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - nordea.com
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
@@ -104,17 +104,17 @@ _Updated: 2026-09-26 00:40_
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Private healthcare insurance in a public healthcare system - Göteborgs universitet
+- Private healthcare insurance in a public healthcare system - gu.se
 - Global katastrofmedicin - hälsobehov och insatser – Johan von Schreebs forskargrupp - Karolinska Institutet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
+- Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - gu.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
-- Workshop med fokus på utmaningar och möjligheter med ny teknik - Göteborgs universitet
+- Digital workshop: Informationsdriven vård med AI - gu.se
+- Workshop med fokus på utmaningar och möjligheter med ny teknik - gu.se
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 
 ## Science
@@ -122,9 +122,10 @@ _Updated: 2026-09-26 00:40_
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - Cuu Long University: Internationellt samarbete, förbättring av kvaliteten på vetenskaplig forskning i Mekongdeltatregionen. - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - nyheter.ki.se
 - Hanois universitet för vetenskap och teknik främjar samarbete mellan Vietnam och Japan inom vetenskap, teknologi och utbildning i personalresurser. - Vietnam.vn
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskningen ska vara fri - European Commission
@@ -138,7 +139,6 @@ _Updated: 2026-09-26 00:40_
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - ”Research on bison completely wrong” - Forskning & Framsteg
-- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
@@ -150,9 +150,9 @@ _Updated: 2026-09-26 00:40_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Sveriges förändrade lantbruk - SLU
-- Brittiska bönder i massiv protest mot arvsskatten - ja.se
-- Jordbrukspolitik - naturvardsverket.se
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Jordbrukspolitik - Naturvårdsverket
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Här är världens största jordbruk - ATL
