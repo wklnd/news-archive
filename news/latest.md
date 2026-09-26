@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-26 00:48_
+_Updated: 2026-09-26 03:58_
 
-- Takeaways from the Trump-Xi state visit: Pageantry and pandas - NPR
-- Supreme Court allows Trump to use SAVE database to check voter citizenship - BBC
-- Supreme Court again snubs GOP gerrymander in Missouri - Politico
-- Nor’easter set to hit East Coast today and continue through weekend - NBC News
-- New Jersey lieutenant governor resigns after sexual harassment accusation - The Guardian
-- Wisconsin police find dozens of partially clothed men in frat house basement in alleged hazing incident - CBS News
-- The White House network TV pool resumes operations after a dayslong ban of news outlets from grounds - AP News
-- Hurricane Nolo, a zig-zagging storm, threatens Hawaii with flooding rains - NPR
-- Ketanji Brown Jackson criticizes supreme court’s handling of emergency docket - The Guardian
-- Trump will hit several deep-red states in October campaign blitz - Politico
-- Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit - NPR
-- African Presidents Call for Permanent African Seats on U.N. Security Council - The New York Times
-- Crash: Tracep L410 at Kenge on Sep 25th 2026, crashed on landing - The Aviation Herald
-- Netanyahu is said to have been warned about Hamas attack before Oct. 7 - The Seattle Times
-- New Mexico jury finds Facebook liable of deceiving users about privacy protections - AP News
-- EU vows to defend its stand against X after the US backs a court challenge from Elon Musk - ABC News - Breaking News, Latest News and Videos
-- Stock Market Today: Bond Yields Drop With Oil Prices Near End of Volatile Week — Live Updates - WSJ
-- EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges - Reuters
+- Trump-Xi visit wraps up with few achievements announced - cbsnews.com
+- Supreme Court rejects Republicans’ Missouri redistricting push for third time - NBC News
+- Supreme Court restores Trump's mass voter verification system - Reuters
+- Trump declares $1B canceled in ‘pocket rescission’ in another affront to Congress’ funding power - Politico
+- Dozens of pledges found covered in food in sweltering frat basement as police investigate alleged hazing - Fox News
+- Crude oil prices slide after Iranian and US negotiators discuss opening Strait of Hormuz - Fox News
+- New Jersey Lt. Gov. Dale Caldwell resigns after investigation found sexual harassment and other wrongdoing - Inquirer.com
+- Nor’easter to lash the East Coast with strong winds, flooding and heavy rain - AP News
+- White House television pool resumes after banned news outlets regain access - The Guardian
+- Iran pitches 7-day plan to restart US talks, reopen Strait of Hormuz - The Hill
+- Exclusive | Trump Rejects Iran Ceasefire, Expects Renewed Bombing After Midterms - WSJ
+- Pope Leo calls for dialogue as France’s populist forces eye power - politico.eu
+- Netanyahu Said to Have Been Warned by Emirati Leader About Hamas Attack Before Oct. 7 - The New York Times
+- UN expands list of firms involved in illegal Israeli settlement activities - Al Jazeera
+- New Mexico jury finds Facebook liable for deceiving users about privacy protections - AP News
+- OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites - The New York Times
+- Dow jumps more than 470 points Friday; stocks notch winning week despite Treasury yield surge: Live updates - CNBC
+- Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations - CNBC
 - Meta debuts Tamagotchi-style "charm" housing an AI agent - Dezeen
-- Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K - The Verge
+- Google Messages rolls out new swipe for timestamps & reply gesture - 9to5Google
