@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-27 01:08_
+_Updated: 2026-09-27 03:47_
 
-- Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable' - NPR
-- Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency - BBC
-- Hurricane Nolo expected to bring heavy rain as it skirts Hawaii’s Big Island - NBC News
-- Lawmakers slam Trump’s move to cancel $810M in funding approved by Congress - The Washington Post
-- China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit - Reuters
-- Third person arrested in death of Tasia Fortune, as police say hanging was staged - The Guardian
-- White House bars CNN from travelling with Trump on Air Force One - BBC
-- Security lapses at Utah campus where Charlie Kirk was killed, review says - BBC
-- Trump and Xi to meet twice more after summit fails to resolve tensions - Financial Times
+- Nor’easter Live Updates: Heavy Rain and Wind Batter Northeast, Bringing Coastal Flooding - The New York Times
+- Trump rejects Iran’s seven-day roadmap to end war and reopen Hormuz - Al Jazeera
 - Pope Leo draws 800,000 people to central Paris for open-air Mass on iconic square - AP News
-- Bodies of 6 people, including 4 Americans, recovered from collapsed building in Athens - ABC7 Los Angeles
-- Europe frets as the Kremlin pushes the limits of its hybrid warfare - NBC News
-- German and Russian foreign ministers meet for first time in over four years - Financial Times
-- Rogue OpenAI agents targeted three separate US government websites - CNN
-- Alabama teens getting their own version of TikTok under sweeping $100M deal - Fox Business
+- Hurricane Nolo expected to bring heavy rain as it skirts Hawaii’s Big Island - NBC News
+- Mother of woman found hanging in tree shocked as police say body was staged - BBC
+- U.S. and China agree to "super intelligence" dialogue amid AI tensions - Axios
+- Trump tells female MS Now reporter to ‘be quiet’ amid questions on press pool ban - theguardian.com
+- Trump and Xi to meet twice more after summit fails to resolve tensions - Financial Times
+- Trump turns on Salazar after Florida Republican challenges his immigration crackdown - Politico
+- Security lapses at Utah campus where Charlie Kirk was killed, review says - BBC
+- A World War II-Era Feud Is Threatening a Pivotal Alliance for Ukraine - wsj.com
+- Anger grows across Spain after elderly woman evicted from her home of 70 years - NBC News
+- Bodies of 6 people, including 4 Americans, recovered from collapsed building in Athens, Greece - ABC7 Los Angeles
+- Is Ethiopia on the verge of another civil war as fighting erupts in Tigray? - Al Jazeera
+- OpenAI pauses training of latest models after agents probed US government sites in unexpected ways - AP News
 - Boeing flags 737 Max software glitch affecting some automated approach functions - CNBC
-- Trump’s diesel threat risks burning U.S. credibility - Politico
-- At Meta Connect, the company’s smart glasses were everywhere - techcrunch.com
-- Apple Code Confirms iPad 12 Specs: A19, 8GB RAM, N1, C1X Modem - MacRumors
-- Insta360 conquered 360 cameras — now it’s eyeing glasses - The Verge
+- Inside Meta's months-long grind to turn Muse into a hit - Business Insider
+- Alabama teens getting their own version of TikTok under sweeping $100M deal - Fox Business
+- ‘Charming and disarming’ … how Meta’s technology-packed Muse harnesses the power of cuteness - theguardian.com
+- Minecraft Dungeons II’s New Dimension Coming to Minecraft Java & Bedrock Edition - news.xbox.com
