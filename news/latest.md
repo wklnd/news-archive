@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-27 23:36_
+_Updated: 2026-09-28 01:58_
 
-- Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge - NBC News
+- Five arrested as counter-terror police investigate major incident near RAF Fairford - bbc.com
 - UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war - The Guardian
-- Live updates: Powerful nor’easter lashes East Coast with rain, flooding and wind - CNN
-- White House airs another government-funded ad, this time with Trump warning of ‘final battle’ - CNN
+- A Trump 2024 Campaign Ad Returns, Now Brought to You by the Government - The New York Times
 - Bill Gates says an AI ‘kill switch’ isn’t enough - Politico
-- ICE operations are making it hard for vulnerable Republicans fighting for their political survival - Politico
-- Amodei critics target Trump with hit piece before White House dinner - Axios
-- Sheriff’s office: 11 wounded at Macon park; two teens in critical condition - WGXA
-- Paranoid owner of woke Mass. lesbian bar puts big restrictions on mask-free Saturday over ‘infiltrator’ fear - nypost.com
-- Republican says Trump’s support of Ken Paxton in Texas primary was ‘colossal mistake’ - The Guardian
-- Two mass shootings in South Africa leave 27 dead - bbc.com
-- Netanyahu’s narrative of ignorance on October 7 is rapidly unraveling - The Times of Israel
-- Four American tourists among 6 killed after explosion levels building near Athens’ Acropolis - Fox News
-- Eviction of 87-year-old sparks encampment protest in Madrid over housing crisis - AP News
-- Scoop: Top AI companies probing tens of thousands of security incidents - Axios
+- Powerful nor’easter floods Northeast again, causing problems from New Jersey to New England - AP News
+- Hurricane season is broken. Two oceans are historically out of whack - USA Today
+- Georgia park mass shooting wounds 11 teens at birthday party - CBS News
+- Trump’s latest Mamdani lovefest comes at a bad time for Republicans - Politico
+- Trump now says the Kennedy Center could be deadly. Months ago, it was ‘great.’ - The Washington Post
+- Saturday Night, No Mask Required, at the Last Ditch Lesbian Bar in Massachusetts - The New York Times
+- Gunmen kill at least 27 people in separate mass shootings in South Africa - France 24
+- Serbia's President Vucic resigns ahead of October parliamentary elections - Reuters
+- Egypt Warned Netanyahu of Impending Attack on Israel Before Oct. 7 - WSJ
+- ‘Please fight’: How an elderly woman’s eviction put Spain’s housing crisis in the spotlight - CNN
+- OpenAI agents tried to ‘bruteforce’ a UN website - The Verge
+- Walmart says it's not using personal information to set prices as it expands digital shelf labels - AP News
+- Oil rebounds after Trump rejects Iran peace deal - Reuters
 - China is playing a different game when it comes to AI - MarketWatch
-- The deeper reason behind the relentless rise in bond yields - Yahoo Finance
-- Monzo in talks on sale to Nubank at about £10 billion valuation, Sky News reports - Reuters
 - Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises - TechCrunch
-- Ruby on Rails Creator Declares 'Pencils Down' on Handwritten Code - Business Insider
+- Amazon Just Knocked $900 Off Apple's Latest 16-Inch MacBook Pro - MacRumors
