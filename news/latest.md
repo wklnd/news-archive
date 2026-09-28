@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-28 01:58_
+_Updated: 2026-09-28 07:52_
 
-- Five arrested as counter-terror police investigate major incident near RAF Fairford - bbc.com
+- 5 men arrested near UK air base used by US in Iran war on suspicion of preparing a terrorist act - AP News
 - UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war - The Guardian
-- A Trump 2024 Campaign Ad Returns, Now Brought to You by the Government - The New York Times
+- White House expands taxpayer-paid ad campaign boosting Trump - The Washington Post
+- Deadly storm hits the Northeast, and five arrested on terrorism charge near a U.S. air base: Weekend Rundown - NBC News
 - Bill Gates says an AI ‘kill switch’ isn’t enough - Politico
-- Powerful nor’easter floods Northeast again, causing problems from New Jersey to New England - AP News
-- Hurricane season is broken. Two oceans are historically out of whack - USA Today
-- Georgia park mass shooting wounds 11 teens at birthday party - CBS News
-- Trump’s latest Mamdani lovefest comes at a bad time for Republicans - Politico
+- Xi visit delivers coal deal, tariff talks — and plenty of unresolved issues - Politico
+- Hurricane Nolo still threatens Hawaii as Mexico's Baja braces for major Hurricane Polo - The Guardian
 - Trump now says the Kennedy Center could be deadly. Months ago, it was ‘great.’ - The Washington Post
-- Saturday Night, No Mask Required, at the Last Ditch Lesbian Bar in Massachusetts - The New York Times
-- Gunmen kill at least 27 people in separate mass shootings in South Africa - France 24
-- Serbia's President Vucic resigns ahead of October parliamentary elections - Reuters
-- Egypt Warned Netanyahu of Impending Attack on Israel Before Oct. 7 - WSJ
+- Trump hosting Anthropic CEO Dario Amodei for private White House dinner - Fox Business
+- Georgia park mass shooting wounds 11 teens at birthday party - cbsnews.com
+- Embattled Serbian president resigns, paving way for early elections - BBC
+- Palestine Action protesters arrested outside UK Labour Party conference - Al Jazeera
+- Ireland defeats Israel in controversial UEFA Nations League match - Al Jazeera
 - ‘Please fight’: How an elderly woman’s eviction put Spain’s housing crisis in the spotlight - CNN
-- OpenAI agents tried to ‘bruteforce’ a UN website - The Verge
-- Walmart says it's not using personal information to set prices as it expands digital shelf labels - AP News
-- Oil rebounds after Trump rejects Iran peace deal - Reuters
-- China is playing a different game when it comes to AI - MarketWatch
+- OpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways - NBC News
+- Stocks slip in Asia as oil climbs, bonds retreat - Reuters
+- Northern Star shares pop as Australian gold miner rejects $27 billion takeover proposal - CNBC
+- Thinking about buying stocks instead of a home? The S&P 500 has blown away the housing market - Fortune
 - Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises - TechCrunch
-- Amazon Just Knocked $900 Off Apple's Latest 16-Inch MacBook Pro - MacRumors
+- PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair - TechCrunch
