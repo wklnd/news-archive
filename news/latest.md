@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-28 07:52_
+_Updated: 2026-09-28 16:27_
 
-- 5 men arrested near UK air base used by US in Iran war on suspicion of preparing a terrorist act - AP News
-- UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war - The Guardian
-- White House expands taxpayer-paid ad campaign boosting Trump - The Washington Post
-- Deadly storm hits the Northeast, and five arrested on terrorism charge near a U.S. air base: Weekend Rundown - NBC News
-- Bill Gates says an AI ‘kill switch’ isn’t enough - Politico
-- Xi visit delivers coal deal, tariff talks — and plenty of unresolved issues - Politico
-- Hurricane Nolo still threatens Hawaii as Mexico's Baja braces for major Hurricane Polo - The Guardian
-- Trump now says the Kennedy Center could be deadly. Months ago, it was ‘great.’ - The Washington Post
-- Trump hosting Anthropic CEO Dario Amodei for private White House dinner - Fox Business
-- Georgia park mass shooting wounds 11 teens at birthday party - cbsnews.com
-- Embattled Serbian president resigns, paving way for early elections - BBC
-- Palestine Action protesters arrested outside UK Labour Party conference - Al Jazeera
-- Ireland defeats Israel in controversial UEFA Nations League match - Al Jazeera
-- ‘Please fight’: How an elderly woman’s eviction put Spain’s housing crisis in the spotlight - CNN
-- OpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways - NBC News
-- Stocks slip in Asia as oil climbs, bonds retreat - Reuters
-- Northern Star shares pop as Australian gold miner rejects $27 billion takeover proposal - CNBC
-- Thinking about buying stocks instead of a home? The S&P 500 has blown away the housing market - Fortune
-- Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises - TechCrunch
-- PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair - TechCrunch
+- What we know about the suspected U.K. terror plot. And, why the Gulf remains in limbo - NPR
+- Sen Kennedy says no living politicians should have buildings named after them after Trump's moves - Fox News
+- Live Updates: Iran says Trump must choose between war or diplomacy as talks expected to resume this week - CBS News
+- What to know about the $810 million in spending canceled by President Trump - NPR
+- Trump Brought Venezuelan Gold to the U.S., but Refiners Won’t Touch It - The New York Times
+- Powerful nor’easter floods Northeast again, causing problems from New Jersey to New England - AP News
+- After a Life in Isolation, a Tennessee Woman Waits for Her Execution - The New York Times
+- ‘Storm fatigue’: Hawaiians reeling from back-to-back hurricanes as Nolo’s threats diminish - NBC News
+- U.S. Marines injured in Iran attack and Taylor Swift sets VMAs record: Morning Rundown - NBC News
+- Paul emerges as a roadblock to homeland security efforts - politico.com
+- Pope Leo Praises Europe’s Democracy, Diverging Once Again From Trump - The New York Times
+- Russian drones hammer apartments, offices and a cultural landmark in Ukraine, killing 7 - AP News
+- South African tavern shooting death toll rises to 18 after one more victim dies - Reuters
+- Ukrainian forces advance in key eastern battlefield, senior commander says - Reuters
+- Nvidia announces jaw-dropping $150 billion stock buyback, largest single authorization in history - Yahoo Finance
+- Nvidia unveils security platform to stop AI agents from going rogue after new, troubling incidents - ABC News - Breaking News, Latest News and Videos
+- Trump administration set to roll out lower fuel economy standards for cars, light trucks - AP News
+- Micron's Stock Faces Another Post-Earnings Plunge (NASDAQ:MU) - Seeking Alpha
+- The Xbox Series X Can Now Play PlayStation 5 Games - Here's How - bgr.com
+- Googlebooks might be the real deal - The Verge
