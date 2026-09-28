@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-28 16:27_
+_Updated: 2026-09-28 22:47_
 
-- What we know about the suspected U.K. terror plot. And, why the Gulf remains in limbo - NPR
-- Sen Kennedy says no living politicians should have buildings named after them after Trump's moves - Fox News
+- Cornell rape allegations prompt prosecutor to reopen criminal investigation - The Washington Post
+- U.K. Releases Suspects in Terror Plot at Base Hosting U.S. Forces - WSJ
+- Capitol agenda: Thune plots final votes before midterms - Politico
+- California couple accused of killing their son-in-law in parking lot - Los Angeles Times
+- Mexico's Pacific coast braces for Hurricane Polo - bbc.com
 - Live Updates: Iran says Trump must choose between war or diplomacy as talks expected to resume this week - CBS News
-- What to know about the $810 million in spending canceled by President Trump - NPR
-- Trump Brought Venezuelan Gold to the U.S., but Refiners Won’t Touch It - The New York Times
-- Powerful nor’easter floods Northeast again, causing problems from New Jersey to New England - AP News
-- After a Life in Isolation, a Tennessee Woman Waits for Her Execution - The New York Times
-- ‘Storm fatigue’: Hawaiians reeling from back-to-back hurricanes as Nolo’s threats diminish - NBC News
-- U.S. Marines injured in Iran attack and Taylor Swift sets VMAs record: Morning Rundown - NBC News
-- Paul emerges as a roadblock to homeland security efforts - politico.com
-- Pope Leo Praises Europe’s Democracy, Diverging Once Again From Trump - The New York Times
-- Russian drones hammer apartments, offices and a cultural landmark in Ukraine, killing 7 - AP News
-- South African tavern shooting death toll rises to 18 after one more victim dies - Reuters
-- Ukrainian forces advance in key eastern battlefield, senior commander says - Reuters
-- Nvidia announces jaw-dropping $150 billion stock buyback, largest single authorization in history - Yahoo Finance
-- Nvidia unveils security platform to stop AI agents from going rogue after new, troubling incidents - ABC News - Breaking News, Latest News and Videos
-- Trump administration set to roll out lower fuel economy standards for cars, light trucks - AP News
-- Micron's Stock Faces Another Post-Earnings Plunge (NASDAQ:MU) - Seeking Alpha
-- The Xbox Series X Can Now Play PlayStation 5 Games - Here's How - bgr.com
-- Googlebooks might be the real deal - The Verge
+- FBI Co-Deputy Director Andrew Bailey resigns after year in role - Fox News
+- Trump unveils plans for a $15 billion steel mill in Iowa - NBC News
+- John Thune: Trump ads shouldn’t use taxpayer dollars - Politico
+- In reversal, Justice Samuel Alito steps aside from major climate case - NBC News
+- Pope Leo urges concessions for peace as Ukraine war drags on - Reuters
+- Russian drones hit Kyiv science academy and hospital - Financial Times
+- Best thing we can offer young people is a job, not benefits, says chancellor - bbc.com
+- 3 Egyptian Officials Convicted of Kidnapping Slain Italian Student - The New York Times
+- Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever - The New York Times
+- Trump finalizes rule to make cars less fuel efficient - The Verge
+- Stock Market Today: Dow, S&P 500 and Nasdaq drop as tech stocks slide and Treasury yields jump - MarketWatch
+- White House weighs red-dyed diesel tax relief to lower fuel prices - Reuters
+- Google says Chromebook updates end in 2034, ‘many’ models move to Googlebook OS - 9to5Google
+- Bose’s first wired earbuds in 11 years add noise canceling - The Verge
