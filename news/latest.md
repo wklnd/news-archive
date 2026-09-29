@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-28 22:47_
+_Updated: 2026-09-29 03:15_
 
-- Cornell rape allegations prompt prosecutor to reopen criminal investigation - The Washington Post
+- Prosecutor reopens probe into Cornell gang rape allegations after accuser files lawsuit - PBS
 - U.K. Releases Suspects in Terror Plot at Base Hosting U.S. Forces - WSJ
-- Capitol agenda: Thune plots final votes before midterms - Politico
-- California couple accused of killing their son-in-law in parking lot - Los Angeles Times
-- Mexico's Pacific coast braces for Hurricane Polo - bbc.com
-- Live Updates: Iran says Trump must choose between war or diplomacy as talks expected to resume this week - CBS News
-- FBI Co-Deputy Director Andrew Bailey resigns after year in role - Fox News
+- Parents-in-law arrested after New York Times Games engineering director found fatally shot - Fox News
+- Hurricane Polo unleashes threatening winds as it approaches Mexico - BBC
+- US, Iran separately talk with mediators in latest bid to end war - Reuters
+- Judge blocks Trump from tying anti-terrorism grants to election changes - Reuters
 - Trump unveils plans for a $15 billion steel mill in Iowa - NBC News
-- John Thune: Trump ads shouldn’t use taxpayer dollars - Politico
-- In reversal, Justice Samuel Alito steps aside from major climate case - NBC News
+- Tennessee to execute a woman for first time in 200 years after governor denies clemency - The Guardian
+- Trump and Johnson to meet with tech CEOs on AI risk - Politico
+- Man ordered released on bail after decades on Utah’s death row after DNA tests show no match to him - AP News
 - Pope Leo urges concessions for peace as Ukraine war drags on - Reuters
 - Russian drones hit Kyiv science academy and hospital - Financial Times
-- Best thing we can offer young people is a job, not benefits, says chancellor - bbc.com
+- Netanyahu meets Emirati leader in a secret weekend trip to Abu Dhabi, and other Mideast developments - AP News
 - 3 Egyptian Officials Convicted of Kidnapping Slain Italian Student - The New York Times
-- Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever - The New York Times
-- Trump finalizes rule to make cars less fuel efficient - The Verge
-- Stock Market Today: Dow, S&P 500 and Nasdaq drop as tech stocks slide and Treasury yields jump - MarketWatch
-- White House weighs red-dyed diesel tax relief to lower fuel prices - Reuters
-- Google says Chromebook updates end in 2034, ‘many’ models move to Googlebook OS - 9to5Google
-- Bose’s first wired earbuds in 11 years add noise canceling - The Verge
+- The Trump administration weakens fuel efficiency standards for new cars - NPR
+- Highlights: SpaceX reaches orbit in unprecedented Starship test flight - CNN
+- Jim Cramer on Nvidia's $150 billion buyback expansion - Yahoo Finance
+- Bond yields move relentlessly higher, as Wall Street wonders how much more tech stocks can take - MarketWatch
+- Here's How Much The Xbox Cost In 2001 Vs. 2026 - bgr.com
+- Leak reveals new iPhone Duo features not yet announced - 9to5Mac
