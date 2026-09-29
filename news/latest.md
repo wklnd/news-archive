@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-29 03:15_
+_Updated: 2026-09-29 09:30_
 
-- Prosecutor reopens probe into Cornell gang rape allegations after accuser files lawsuit - PBS
-- U.K. Releases Suspects in Terror Plot at Base Hosting U.S. Forces - WSJ
-- Parents-in-law arrested after New York Times Games engineering director found fatally shot - Fox News
-- Hurricane Polo unleashes threatening winds as it approaches Mexico - BBC
-- US, Iran separately talk with mediators in latest bid to end war - Reuters
-- Judge blocks Trump from tying anti-terrorism grants to election changes - Reuters
-- Trump unveils plans for a $15 billion steel mill in Iowa - NBC News
+- Prosecutor reopens probe into Cornell gang rape allegations after accuser files lawsuit - AP News
+- Lindsay Clancy holdout juror asks for one thing in new video after mistrial drama - Fox News
+- New York Times executive fatally shot allegedly by elderly in-laws - BBC
+- What to know about RAF terror plot arrests and possible Iran link - Axios
+- Mediators are working to broker a US-Iran deal, but major hurdles remain - AP News
+- Trump administration cannot tie anti-terrorism grants to election security, judge rules - Politico
+- Trump controversies pile on Senate Republicans as they seek midterm escape - Politico
+- Trump announces $15 billion steel plant planned for southeast Iowa - KCCI
 - Tennessee to execute a woman for first time in 200 years after governor denies clemency - The Guardian
-- Trump and Johnson to meet with tech CEOs on AI risk - Politico
-- Man ordered released on bail after decades on Utah’s death row after DNA tests show no match to him - AP News
-- Pope Leo urges concessions for peace as Ukraine war drags on - Reuters
-- Russian drones hit Kyiv science academy and hospital - Financial Times
-- Netanyahu meets Emirati leader in a secret weekend trip to Abu Dhabi, and other Mideast developments - AP News
-- 3 Egyptian Officials Convicted of Kidnapping Slain Italian Student - The New York Times
-- The Trump administration weakens fuel efficiency standards for new cars - NPR
-- Highlights: SpaceX reaches orbit in unprecedented Starship test flight - CNN
-- Jim Cramer on Nvidia's $150 billion buyback expansion - Yahoo Finance
-- Bond yields move relentlessly higher, as Wall Street wonders how much more tech stocks can take - MarketWatch
-- Here's How Much The Xbox Cost In 2001 Vs. 2026 - bgr.com
-- Leak reveals new iPhone Duo features not yet announced - 9to5Mac
+- Four Injured After Landing Mishap Aboard USS Dwight D. Eisenhower, Crew Safely Recovered - USNI News
+- Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences - Al Jazeera
+- Pope urges Europe to defend multilateralism as global order crumbles - Euronews.com
+- Ukraine's Zelenskiy says North Korea prepares to deploy another 10,000 troops to Russia - Reuters
+- Best thing we can offer young people is a job, not benefits, says chancellor - BBC
+- OpenAI cancels release of AI model GPT-6.1 Astra, citing safety concerns - Al Jazeera
+- From motorcycles to booze, US ban on $1 billion worth of Canadian imports goes into effect - AP News
+- Anthropic warns of ‘existential risks to humanity’ in IPO prospectus - Financial Times
+- Trump says new fuel economy rules will cut car prices. Analysts are doubtful. - The Washington Post
+- BTS Superstar V Named Global Brand Ambassador for Nothing as He Models New Headphones - The Hollywood Reporter
+- iPhone Duo StandBy Leak Reveals Five Unannounced Faces - MacRumors
