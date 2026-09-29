@@ -1,73 +1,73 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-29 10:54_
+_Updated: 2026-09-29 18:03_
 
 ## Top Stories
 
-- LEDARE: För att använda Stefan Löfvens ord: de é bara käbbel - Värmlands Folkblad
-- Utredning av Liam Nebels psykiska mående stoppades - Dagens Nyheter
-- Över 20 döda i vattenmassorna i Bangkok - SVT Nyheter
-- Rubio: Utländsk aktör inblandad i flygbashändelse - Göteborgs-Posten
-- Vilma Andersson häktas om misstänkt för Rönningemordet - mitt i Stockholm
-- Lisebergs äldsta åkattraktion försvinner - Göteborgs-Posten
-- Riksrevisionen: Brister i Försvarsmakten bromsar upprustningen - Dagens Nyheter
-- HD tar inte upp Think Pink-målet - Västerbottens-Kuriren
-- Polisen larmas ut på hjärtstopp - polisen.se
-- Surrogatagenturen: ”Inte vi som rekryterar” - Dagens Nyheter
-- Finland och fem andra ställer ultimatum på EU-budget - Hufvudstadsbladet – HBL
-- Hon vräktes och bars ut på bår – protester i Spanien - Göteborgs-Posten
-- Explosioner hörs i Kiev - Corren
-- Iran väntar på svar – Trump förnekar eftergifter - Västerbottens-Kuriren
-- AI-jätten Anthropic lyfter risker för mänskligheten i prospekt - SVT Nyheter
-- Pressade Hemnet minskar personal i nytt sparpaket - Omni – Alla nyheter. Alla perspektiv.
-- KI-barometern: Tillverkningsindustrin räknar med högre produktion och fler anställda - Svensk Verkstad
-- AI på jobbet har fördubblats – var tredje vet inte om det är tillåtet - cioanalytics.se
-- Har jobbat i 50 år – Helene tvingades kämpa för ersättning - Arbetet
-- Acemagic F9A Pro 495: Kompakt AI-arbetsstation med Ryzen AI Max+ och upp till 192 GB RAM - notebookcheck.se
+- Partiledarna tog paus från regeringsfrågan - Göteborgs-Posten
+- DN Direkt – Magdalena Andersson svarar på Åkessons krav - Dagens Nyheter
+- LEDARE: Thand Ringqvist borde få uppdraget av talmannen - Borås Tidning
+- Extramöte i Stockholm efter misstänkt valfusk - Västerbottens-Kuriren
+- Malmös nya styre: Så fördelas toppjobben - Altinget.se
+- Skola fick hot om svärdattack – trend sprids på sociala medier - UNT
+- Busch (KD): Finns majoritet för borgerlig politik – Senaste nytt om valet 2026 - SVT Nyheter
+- Trots larm - bup i Fagersta stoppade psykutredning - Göteborgs-Posten
+- Person påkörd av truck i Helsingborg – ”Utreds som allvarlig arbetsplatsolycka” - SVT Nyheter
+- Sju gripna efter tillslag mot företag - Aftonbladet
+- DN Direkt – Spanien förbjuder vräkningar av utsatta - Dagens Nyheter
+- Flera döda i ryska attacker – förödelse i Kiev - Hufvudstadsbladet – HBL
+- Storbråk mellan Sydkorea och Ukraina: ”Förtroendet allvarligt skadat” - Dagens Nyheter
+- Estland: Ryssland låg bakom brandattack - Göteborgs-Posten
+- Björn Jeffery: Hemnet får krypa till korset - svd.se
+- Unionen kräver högre lön, kortare arbetstid och ökat inflytande inför Avtal 2027 - via.tt.se
+- Frågetecken kring prospektet: ”Siffrorna är meningslösa” - EFN
+- Påven kritiserar Nvidias vd efter AI-lansering - Expressen
+- Ny sjökabel ska ge säkrare internet mellan Sverige och Finland - teknikveckan.se
+- Apple har inte gett upp på Vision Pro - teknikveckan.se
 
 ## World News
 
+- Karen Ellemann utsedd till global frontfigur i kampen mot matsvinn - The Nordic Co-operation
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
-- Bill Gates: Global AI-reglering svårare än kärnvapenavtal - Affärsvärlden
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - via.tt.se
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
+- Bill Gates: Global AI-reglering svårare än kärnvapenavtal - Affärsvärlden
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- WALOVI's International Cans Make Global Debut, Ushering in a New Era of Eastern Natural Plant Beverages - Aktiellt
-- Storbritannien: Global lanserar nyhetskanalen LBC News - Radionytt.se
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
+- WALOVI's International Cans Make Global Debut, Ushering in a New Era of Eastern Natural Plant Beverages - swedbank-aktiellt.se
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - via.tt.se
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
-- Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
-- Kronprinsen fick ”stor summa” för avlyssning - Omni – Alla nyheter. Alla perspektiv.
+- Juniper Networks Becomes Global Sponsor of World Robot Olympiad - via.tt.se
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - iffs.se
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - nyheter.ki.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - swedbank-aktiellt.se
+- Artificial intelligence in enterprises 2025 - scb.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Skräp inom artificiell intelligens – Övergång från respons till förebyggande - Vietnam.vn
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 
@@ -99,21 +99,21 @@ _Updated: 2026-09-29 10:54_
 - NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Proaktivt ta hand om och förbättra människors hälsa. - Vietnam.vn
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - lakartidningen.se
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Muong Khuong Regional Medical Center behärskar tekniker för kontinuerlig hemodialys (SHE). - Vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- SANTE - Ett lyft för patienterna och ekonomin - European Commission
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - gu.se
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - lakartidningen.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Private healthcare insurance in a public healthcare system - gu.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nam Dan Medical Center har en ny chef. - Vietnam.vn
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Private healthcare insurance in a public healthcare system - gu.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - lakartidningen.se
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - lakartidningen.se
 - Digital workshop: Informationsdriven vård med AI - gu.se
 - Workshop med fokus på utmaningar och möjligheter med ny teknik - gu.se
 
@@ -122,37 +122,36 @@ _Updated: 2026-09-29 10:54_
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - Cuu Long University: Internationellt samarbete, förbättring av kvaliteten på vetenskaplig forskning i Mekongdeltatregionen. - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
+- Registrering av forskning baserad på nationella hälsoregister - lakartidningen.se
 - Hanois universitet för vetenskap och teknik främjar samarbete mellan Vietnam och Japan inom vetenskap, teknologi och utbildning i personalresurser. - Vietnam.vn
-- Forskningen ska vara fri - European Commission
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskningen ska vara fri - commission.europa.eu
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Andrea del Valle - Karolinska Institutet
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
-- Olika slutsatser från samma data - Läkartidningen
+- Andrea del Valle - ki.se
+- Konst, vetenskap och kritiskt kulturarv - gu.se
+- Olika slutsatser från samma data - lakartidningen.se
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - ”Research on bison completely wrong” - Forskning & Framsteg
+- Många fallgropar i arbetet att ta fram systematiska översikter - lakartidningen.se
 
 ## Jordbruk
 
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Jordbrukspolitik - Naturvårdsverket
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Framtidens jordbruk - European Commission
+- Framtidens jordbruk - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Sveriges förändrade lantbruk - SLU
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
@@ -162,3 +161,4 @@ _Updated: 2026-09-29 10:54_
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
