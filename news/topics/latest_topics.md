@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-09-29 04:15_
+_Updated: 2026-09-29 10:54_
 
 ## Top Stories
 
-- HANS STIGSSON: Norlén förtjänt av den o(v)äntade segern i talmansvalet - NT
-- En person allvarligt skadad efter arbetsplatsolycka i Piteå - Norran
-- DN Direkt – Gripna för terrordådet är brittiska medborgare - Dagens Nyheter
-- Flera döda i ryska attacker – förödelse i Kiev - hbl.fi
-- Sågar Trump: Det värsta en president gjort - Expressen
-- Skickas iväg i desperat plan: ”Jävligt tufft” - Aftonbladet
-- 28 september 19.28, Rån, Stockholm - polisen.se
-- LEDARE: Socialdemokraterna var helt oförberedda på att regeringsförhandla - Nya Wermlands-Tidningen
-- Saknade stöd från skolan efter attacken mot sonen - Fagersta-Posten
-- DN Direkt – Misstänkte 39-åringen i Jönköping tidigare dömd för grovt kvinnofridsbrott - Dagens Nyheter
-- Erik de la Reguera: Macron kröp till korset – efter påvens segertåg i Paris - Dagens Nyheter
-- Miljardsmäll väntas för Thailands ekonomi efter regnet - Omni – Alla nyheter. Alla perspektiv.
-- Iranska medier: Inga planer på förhandlingar - Västerbottens-Kuriren
-- Listan klar: Sänkta USA-tullar på Kina-varor - Västerbottens-Kuriren
-- Palantirs VD köper SCA-skog för 235 miljoner - Affärsvärlden
-- Säkerhetsoro stoppar Open AI:s nya modell - Svenska Dagbladet
-- Börsen idag: Öppning kring nollan – spelbolag rasar 24 procent - borskollen.se
-- Därför bryr sig inte börsen om de höga räntorna – än - EFN
-- Android 17 på gång för Galaxy S25 och S26 - swedroid.se
-- LG UltraGear 25G590B: Världens snabbaste – som få har nytta av - Ljud & Bild
+- LEDARE: För att använda Stefan Löfvens ord: de é bara käbbel - Värmlands Folkblad
+- Utredning av Liam Nebels psykiska mående stoppades - Dagens Nyheter
+- Över 20 döda i vattenmassorna i Bangkok - SVT Nyheter
+- Rubio: Utländsk aktör inblandad i flygbashändelse - Göteborgs-Posten
+- Vilma Andersson häktas om misstänkt för Rönningemordet - mitt i Stockholm
+- Lisebergs äldsta åkattraktion försvinner - Göteborgs-Posten
+- Riksrevisionen: Brister i Försvarsmakten bromsar upprustningen - Dagens Nyheter
+- HD tar inte upp Think Pink-målet - Västerbottens-Kuriren
+- Polisen larmas ut på hjärtstopp - polisen.se
+- Surrogatagenturen: ”Inte vi som rekryterar” - Dagens Nyheter
+- Finland och fem andra ställer ultimatum på EU-budget - Hufvudstadsbladet – HBL
+- Hon vräktes och bars ut på bår – protester i Spanien - Göteborgs-Posten
+- Explosioner hörs i Kiev - Corren
+- Iran väntar på svar – Trump förnekar eftergifter - Västerbottens-Kuriren
+- AI-jätten Anthropic lyfter risker för mänskligheten i prospekt - SVT Nyheter
+- Pressade Hemnet minskar personal i nytt sparpaket - Omni – Alla nyheter. Alla perspektiv.
+- KI-barometern: Tillverkningsindustrin räknar med högre produktion och fler anställda - Svensk Verkstad
+- AI på jobbet har fördubblats – var tredje vet inte om det är tillåtet - cioanalytics.se
+- Har jobbat i 50 år – Helene tvingades kämpa för ersättning - Arbetet
+- Acemagic F9A Pro 495: Kompakt AI-arbetsstation med Ryzen AI Max+ och upp till 192 GB RAM - notebookcheck.se
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - media.smart.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - Bill Gates: Global AI-reglering svårare än kärnvapenavtal - Affärsvärlden
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
 - WALOVI's International Cans Make Global Debut, Ushering in a New Era of Eastern Natural Plant Beverages - Aktiellt
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Storbritannien: Global lanserar nyhetskanalen LBC News - Radionytt.se
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
-- Finland köper eget Global Eye-plan från Saab - Omni – Alla nyheter. Alla perspektiv.
+- Kronprinsen fick ”stor summa” för avlyssning - Omni – Alla nyheter. Alla perspektiv.
 
 ## Technology
 
@@ -59,15 +59,15 @@ _Updated: 2026-09-29 04:15_
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Skräp inom artificiell intelligens – Övergång från respons till förebyggande - Vietnam.vn
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- Hotet från AI-genererat skräp: Kan det förebyggas? - Vietnam.vn
+- AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 
@@ -81,10 +81,10 @@ _Updated: 2026-09-29 04:15_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - nordea.com
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -101,43 +101,43 @@ _Updated: 2026-09-29 04:15_
 - Proaktivt ta hand om och förbättra människors hälsa. - Vietnam.vn
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Muong Khuong Regional Medical Center behärskar tekniker för kontinuerlig hemodialys (SHE). - Vietnam.vn
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - firar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Private healthcare insurance in a public healthcare system - Göteborgs universitet
+- Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - gu.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
-- Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
-- Nam Dan Medical Center har en ny chef. - Vietnam.vn
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Private healthcare insurance in a public healthcare system - gu.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
+- Nam Dan Medical Center har en ny chef. - Vietnam.vn
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Workshop med fokus på utmaningar och möjligheter med ny teknik - Göteborgs universitet
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Digital workshop: Informationsdriven vård med AI - gu.se
+- Workshop med fokus på utmaningar och möjligheter med ny teknik - gu.se
 
 ## Science
 
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - Cuu Long University: Internationellt samarbete, förbättring av kvaliteten på vetenskaplig forskning i Mekongdeltatregionen. - Vietnam.vn
-- Activities for the public – Department of Earth Sciences - uu.se
+- Activities for the public – Department of Earth Sciences - Uppsala universitet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Gemini för vetenskap ska hjälpa forskare - swedroid.se
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Hanois universitet för vetenskap och teknik främjar samarbete mellan Vietnam och Japan inom vetenskap, teknologi och utbildning i personalresurser. - Vietnam.vn
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskningen ska vara fri - European Commission
-- Forskningsutvärdering med kvalitet i fokus - ju.se
+- Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Andrea del Valle - Karolinska Institutet
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Sherry Nakhaeizadeh - uu.se
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - uu.se
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - ”Research on bison completely wrong” - Forskning & Framsteg
 
 ## Jordbruk
