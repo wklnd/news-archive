@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-29 09:30_
+_Updated: 2026-09-29 16:20_
 
-- Prosecutor reopens probe into Cornell gang rape allegations after accuser files lawsuit - AP News
-- Lindsay Clancy holdout juror asks for one thing in new video after mistrial drama - Fox News
-- New York Times executive fatally shot allegedly by elderly in-laws - BBC
-- What to know about RAF terror plot arrests and possible Iran link - Axios
-- Mediators are working to broker a US-Iran deal, but major hurdles remain - AP News
-- Trump administration cannot tie anti-terrorism grants to election security, judge rules - Politico
-- Trump controversies pile on Senate Republicans as they seek midterm escape - Politico
-- Trump announces $15 billion steel plant planned for southeast Iowa - KCCI
-- Tennessee to execute a woman for first time in 200 years after governor denies clemency - The Guardian
-- Four Injured After Landing Mishap Aboard USS Dwight D. Eisenhower, Crew Safely Recovered - USNI News
-- Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences - Al Jazeera
-- Pope urges Europe to defend multilateralism as global order crumbles - Euronews.com
-- Ukraine's Zelenskiy says North Korea prepares to deploy another 10,000 troops to Russia - Reuters
-- Best thing we can offer young people is a job, not benefits, says chancellor - BBC
-- OpenAI cancels release of AI model GPT-6.1 Astra, citing safety concerns - Al Jazeera
-- From motorcycles to booze, US ban on $1 billion worth of Canadian imports goes into effect - AP News
-- Anthropic warns of ‘existential risks to humanity’ in IPO prospectus - Financial Times
-- Trump says new fuel economy rules will cut car prices. Analysts are doubtful. - The Washington Post
-- BTS Superstar V Named Global Brand Ambassador for Nothing as He Models New Headphones - The Hollywood Reporter
-- iPhone Duo StandBy Leak Reveals Five Unannounced Faces - MacRumors
+- Live: Lindsay Clancy in court for first time since murder mistrial - BBC
+- US’s Marco Rubio says UK airbase incident involved ‘foreign actor’ - Al Jazeera
+- News organizations ask court to bar White House enforcement of access ban - NPR
+- Jonathan McKinsey, New York Times: Documents reveal child abuse, domestic violence claims of Dublin man shot, killed by in-laws - ABC7 San Francisco
+- America's Canadian import restrictions come into force. Here are the products barred from entry - CNBC
+- What we know about the lawsuit and investigation into the alleged gang rape at Cornell University - CNN
+- What Jack Smith plans to tell the Senate Judiciary Committee - Politico
+- Tennessee to execute a woman for first time in over 200 years - The Washington Post
+- ‘On a scale of 1 to 10, 10’: Trump’s midterm travel schedule underscores GOP troubles - Politico
+- Three deaths, three states, 24 hours: one day in ICE’s quiet but ‘gruesome’ surge - The Guardian
+- Estonia Says Arson at Defense Company Was ‘Deliberate’ Attack by Russia - The New York Times
+- At least 49 dead after airstrike near market in Myanmar’s Rakhine state - nbcnews.com
+- Israeli settlers attack Jalud village in occupied West Bank pogrom - Al Jazeera
+- Pope Leo wraps up France trip by urging Europe to blunt 'desire for domination' driving today's wars - AP News
+- OpenAI Reportedly Cancels GPT-6.1 Astra's Release Over Deceptive Behavior - Engadget
+- EXCLUSIVE: Anthropic warns AI may pose 'existential risks to humanity' in IPO filing - Reuters
+- Alaska Airlines unveils massive premium cabin overhaul in high-end travel race - CNBC
+- Smart Ring Maker Oura Delays IPO Due to Market ‘Uncertainty’ - Bloomberg.com
+- Firefox just got a redesign with round tabs, new themes, and Compact Mode - The Verge
+- Opera For Android Now Comes With A Free eSIM And 3GB Of Data - Engadget
