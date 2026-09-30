@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-30 18:05_
+_Updated: 2026-09-30 23:00_
 
-- Passengers overcame pilot who tried to crash flydubai flight, Israel says - Reuters
-- Tennessee execution of lone woman on death row halted by federal appeals court - NBC News
-- The US military says its withdrawal of troops from Iraq is complete - AP News
-- Jane Doe in Cornell University case told campus police, "I can say with 100% confidence I was raped," transcript shows - CBS News
-- Trump says top tech firms have signed accord to 'self-police' AI development - npr.org
-- Live Updates: Iran says it has received U.S. counterproposal to 7-day ceasefire plan rejected by Trump - CBS News
+- Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot-on-pilot stabbing - Reuters
+- Court Pauses Execution of Tennessee’s Lone Woman on Death Row - The New York Times
+- U.S. withdraws forces in Iraq as balance of power shifts to Iran - The Washington Post
+- UK believes Iran involved in RAF Fairford incident, Burnham says - BBC
+- Here’s The White House’s 308-Word AI ‘Accord’ In Full—Including Misspelling - Forbes
+- Senate Democrats block House-passed bill restricting member stock trading - Politico
+- Exclusive: Cornell rape allegations fuel House Democratic women's Title IX push - Axios
 - Donor Gives $3 Billion to Carnegie Mellon, the Largest University Gift Ever - The New York Times
-- Los Angeles Mayoral Candidates Vie for Undecided Voters - The New York Times
-- Schmitt faces fallout after debunked Jack Smith narrative - The Hill
-- Jon Ossoff is fundraising for Georgia Democrats. It’s a bet for his party’s future — and his own. - Politico
-- Andy Burnham to fight next election on pledge to change voting system - bbc.com
-- Russia threatens nuclear strikes on Nato countries over Kaliningrad - Financial Times
-- Romanian political crisis deepens as parliament rejects PM nominee - politico.eu
-- RAF Fairford: Suspect in alleged plot against British base called police before arrest, UK media report - CNN
-- Fed’s Preferred Inflation Gauge Points to Continued Price Pressures - The New York Times
+- Trump ally urges administration to ‘step back’ and rethink immigration agenda - The Guardian
+- Senate Democrats block Sen. Husted-led bill on data centers, calling it ‘toothless’ - NBC News
+- Moscow threatens nuclear response over tiny fortress wedged between US allies as clash fears grow - Fox News
+- Andy Burnham, faux heretic - The Economist
+- France and Britain in talks to end 'one in, one out' migrant deal - Reuters
+- Ethiopia fighting escalates in Tigray killing 52 civilians in Alamata, medic tells the BBC - BBC
+- FTC opens probe into AI giants including Anthropic and OpenAI - Reuters
 - Anthropic IPO documents show there really is only one risk with AI - Yahoo Finance
-- Dow futures gain 100 points after data shows inflation slowed last month: Live updates - cnbc.com
-- AI safety group sues OpenAI over Hugging Face hack - ABC News - Breaking News, Latest News and Videos
-- Apple Will Sell 6 Million iPhone Duos in 2026, Counterpoint Says - Bloomberg.com
-- Cloudflare plans to issue quantum-safe TLS certificates - Ars Technica
+- Eli Lilly says closely watched combo obesity regimen boosts weight loss in mid-stage trial - cnbc.com
+- Stock Market Today: Dow lower, S&P 500 and Nasdaq gain as tech stocks jump, yields rise and PCE inflation data comes in cooler than expected - marketwatch.com
+- The AI Tamagotchis are coming - The Verge
+- Apple stock pops on report it will unveil all-new smart home hub at Oct. 13 event - Yahoo Finance
