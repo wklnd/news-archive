@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-30 04:22_
+_Updated: 2026-09-30 11:00_
 
-- Jack Smith clashes with senators over Trump probes, says he will not be silenced - The Washington Post
-- Supreme Court Allows Trump Administration’s Third-Country Deportations, for Now - The New York Times
-- Trump, AI CEOs sign voluntary safety pact, back data center expansion - reuters.com
-- New York judge orders city to scrap Mamdani’s pied-à-terre tax rollout - CNN
-- Caleb Flynn, former ‘American Idol’ singer, found guilty of wife’s murder - NBC News
-- Texts about alleged Cornell gang-rape released after investigation reopened - The Guardian
+- Trump signs executive order rebranding AI as 'Super Intelligence' as tech titans ink separate SI accord - Fox Business
+- Senator’s basketball mix-up derails ‘gotcha’ moment at Jack Smith hearing - The Washington Post
+- Judge orders Mamdani to redo pied-à-terre tax rollout - Politico
+- Jane Doe in Cornell University case told campus police, "I can say with 100% confidence I was raped," transcript shows - CBS News
+- RAF Fairford: Suspect in alleged plot against British base called police before arrest, UK media report - CNN
+- US forces leave Iraq, raising fears of Iran-backed militias amid power vacuum - France 24
 - Venezuelan man shot and wounded by ICE agent in Texas is charged with assaulting an officer - NBC News
-- California bans officers’ use of electric-shock gloves after ICE reveals plan to equip agents - The Guardian
 - Bear 910 vs. Backpack: It's the final showdown for Alaska's Fat Bear Week - PBS
-- US Senate blocks resolution demanding accountability over Israeli violence in West Bank - The Guardian
-- How did the RAF Fairford incident go from 'suspected bomb plot' to police bail? - BBC
-- ‘New path’: UK’s Burnham promises huge expansion of public services - Al Jazeera
-- South Korea says North Korean mines behind DMZ blast violated armistice - reuters.com
+- California bans officers’ use of electric-shock gloves after ICE reveals plan to equip agents - The Guardian
+- Caleb Flynn found guilty on all charges in wife's death - wlwt.com
+- ‘Violent incident’ between pilots sparks diversion of Israel-bound flight to Saudi Arabia, sources say - CNN
+- Spain protests: Evicted 87-year-old woman to return to Madrid home - Al Jazeera
+- South Korea demands apology from Pyongyang for landmine blasts that injured three - BBC
+- Why is South Korea unhappy with Ukraine over transfer of two captured North Korean soldiers? - independent.co.uk
+- OpenAI Cancels Upcoming AI Model When It Shows Signs of Being Evil - Futurism
+- Chinese factory activity expands in September amid AI boom - Reuters
 - Goldman Sachs CEO succession planning faces one big problem - CNBC
-- Fed's Williams sees no urgency for next rate hike - reuters.com
-- OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse - WIRED
-- First Thing: Anthropic warns of AI ‘existential risk’ as concerns emerge over Meta’s Muse and OpenAI’s model - The Guardian
-- OpenAI’s latest features take direct aim at the app store model - TechCrunch
-- Mozilla Deploys A New-Look Firefox Across Desktop And Mobile - Engadget
-- Android 17 QPR2 Beta 6.1 rolling out, including for Pixel 11 - 9to5Google
+- China’s ‘Mini Stimulus’ Seen Securing GDP Target, Not Much More - Bloomberg.com
+- You Can 'Get Ready' for iPhone Duo Pre-Orders on October 12 - MacRumors
+- Meta Plans VR Glasses Strap Accessory for Active VR Gaming - Road to VR
