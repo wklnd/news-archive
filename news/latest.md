@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-01 09:48_
+_Updated: 2026-10-01 17:39_
 
-- Who Is the FlyDubai Pilot Being Hailed as a Hero? - The New York Times
-- Tennessee death row inmate Christa Pike taken to hospital after attempted execution, lawyer says - BBC
-- Exclusive: Cornell rape allegations fuel House Democratic women's Title IX push - Axios
-- Hegseth confirms plan to cut 20% of US top military brass and rails at ‘beardos, weirdos and wimps’ - The Guardian
-- Becerra and Hilton clash over taxes, AI and immigration during the CNN California governor debate - CNN
-- CA couple accused of killing son-in-law at park charged with murder: New details on arrest revealed - ABC7 San Francisco
-- Former diplomats assess U.S. withdrawal from Iraq and region's future - PBS
-- Pete Hegseth appoints Elon Musk to US taskforce on future of warfare - The Guardian
-- Hundreds of Catholic Clerics Abused Children in Massachusetts, Report Says - The New York Times
-- Newsom, Eager for a Higher Perch, Climbs the Golden Gate Bridge - The New York Times
-- Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies - BBC
-- "Strong indications" Iran had role in U.K. bomb plot, PM Andy Burnham says - Axios
-- Trump Administration Finalizes Plan to Lower Drug Prices in Medicare - WSJ
-- UK ends 'one in, one out' migrant returns deal with France - euronews.com
-- Asian Stocks Eye Rough Start After US Reversal: Markets Wrap - Bloomberg.com
-- Fed watchdog clears former chair Powell in renovation probe - Axios
-- EXCLUSIVE: Anthropic's IPO pitch embraces AI's promise and peril - Reuters
+- ‘It was a mess’: Tennessee fails to execute woman after 2 lethal injections - NBC News
+- Flydubai passenger describes hugging his children as plane nosedived during attack - BBC
+- Family of Renee Good sues US government and Trump officials over her death - CNN
+- Statement Written by Police in Cornell Assault Case Omitted Her Claim She Was Raped - The New York Times
+- Supreme Court will rule on Trump’s ICE detention policy - Politico
+- SNAP's funding model is starting to change. Here's what that means for the program - NPR
+- ‘These guys are in a pickle’: Some Republicans spurn Trump on the campaign trail - Politico
+- Live Updates: Trump says "I don't think you could ever have peace" with Iran, threatens post-midterm attacks - CBS News
+- California helicopter crash kills two people and leaves two hospitalized - The Guardian
+- Democrats rethink their mail-voting strategy as voters grow wary - Politico
+- Pakistan launches deadly air attacks on Afghanistan - Al Jazeera
+- Britain and France Give Up Landmark Migrant Agreement - The New York Times
+- Picanha, prices and politics: What Brazil's favorite steak says about the election - NPR
+- Netanyahu says Israel warned UK of Iran attack plot on airbase - Euronews.com
+- Stock Market Today: Global Bond Selloff Resumes; Yields Remain at Highs — Live Updates - WSJ
+- Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026 - TechPowerUp
 - David Ellison Taps Mattel’s Ynon Kreiz to Be Co-CEO of Merged Paramount-Warner Bros. - Variety
-- Tim Cook bailed out just in time to avoid the iPhone Duo quagmire - phonearena.com
-- Vivo’s X Fold 6 accidentally feels like a throwback - The Verge
+- Oil Is Flowing From the Persian Gulf, but Prices Remain High. Why? - The New York Times
+- HP’s answer to the MacBook Neo is thinner, lighter, and comes with OLED - The Verge
+- Amazon introduces a completely redesigned Kindle family - About Amazon
