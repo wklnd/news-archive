@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-01 17:39_
+_Updated: 2026-10-01 22:29_
 
-- ‘It was a mess’: Tennessee fails to execute woman after 2 lethal injections - NBC News
-- Flydubai passenger describes hugging his children as plane nosedived during attack - BBC
-- Family of Renee Good sues US government and Trump officials over her death - CNN
-- Statement Written by Police in Cornell Assault Case Omitted Her Claim She Was Raped - The New York Times
-- Supreme Court will rule on Trump’s ICE detention policy - Politico
-- SNAP's funding model is starting to change. Here's what that means for the program - NPR
-- ‘These guys are in a pickle’: Some Republicans spurn Trump on the campaign trail - Politico
-- Live Updates: Trump says "I don't think you could ever have peace" with Iran, threatens post-midterm attacks - CBS News
+- What happened in the failed execution of Christa Pike - and what next? - BBC
+- Israel's Netanyahu: Co-pilot of flydubai plane underwent radical Islamist indoctrination - Reuters
+- Cornell Jane Doe's attorney says she told police in 2024: 'I was raped' - NPR
+- Trump handing 1 million Americans Obamacare refund checks in 30 states - Fox News
+- Family of Renee Good files civil suits against federal government in ICE killing - CBS News
+- Dual UK-Iranian national arrested over security incident at US-run air base in England - AP News
+- A judge permanently dismisses former Olympian's Reflecting Pool charges - NPR
+- Korea to Trump: We aren’t funding your Alaska pipeline, yet - Politico
 - California helicopter crash kills two people and leaves two hospitalized - The Guardian
-- Democrats rethink their mail-voting strategy as voters grow wary - Politico
-- Pakistan launches deadly air attacks on Afghanistan - Al Jazeera
-- Britain and France Give Up Landmark Migrant Agreement - The New York Times
-- Picanha, prices and politics: What Brazil's favorite steak says about the election - NPR
-- Netanyahu says Israel warned UK of Iran attack plot on airbase - Euronews.com
-- Stock Market Today: Global Bond Selloff Resumes; Yields Remain at Highs — Live Updates - WSJ
-- Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026 - TechPowerUp
-- David Ellison Taps Mattel’s Ynon Kreiz to Be Co-CEO of Merged Paramount-Warner Bros. - Variety
-- Oil Is Flowing From the Persian Gulf, but Prices Remain High. Why? - The New York Times
-- HP’s answer to the MacBook Neo is thinner, lighter, and comes with OLED - The Verge
-- Amazon introduces a completely redesigned Kindle family - About Amazon
+- Trump’s AI rebrand may stop at the White House - Politico
+- Russia to Sharply Increase War Spending and Cut Social Programs - The New York Times
+- Putin Says World Is Living Through a Dangerous Moment, Warns West Not to Escalate - The Moscow Times
+- Russia launches massive strikes on Ukraine’s energy grid, forcing power cuts ahead of winter - CNBC
+- Ukraine deploys FP-7 tactical ballistic missile in combat for first time, Zelenskiy says - Reuters
+- Stock Market Today: Global Bond Selloff Resumes; Yields Remain at Highs — Live Updates - wsj.com
+- As Mortgage Rates Hit Highest Level Since 2023, Buyers Look at ARMs - The New York Times
+- Anthropic Said to Target Mega-IPO Before Thanksgiving Holiday - Bloomberg.com
+- Micron stock dips after earnings despite answer to analyst's key question - Yahoo Finance
+- Microsoft makes Windows settings backup the default in 26H2 - The Register
+- Apple Stores Receive 'Do Not Open' Boxes Ahead of Smart Home Products Launch - MacRumors
