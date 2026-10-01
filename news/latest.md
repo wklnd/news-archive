@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-09-30 23:00_
+_Updated: 2026-10-01 02:49_
 
-- Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot-on-pilot stabbing - Reuters
-- Court Pauses Execution of Tennessee’s Lone Woman on Death Row - The New York Times
-- U.S. withdraws forces in Iraq as balance of power shifts to Iran - The Washington Post
-- UK believes Iran involved in RAF Fairford incident, Burnham says - BBC
-- Here’s The White House’s 308-Word AI ‘Accord’ In Full—Including Misspelling - Forbes
-- Senate Democrats block House-passed bill restricting member stock trading - Politico
-- Exclusive: Cornell rape allegations fuel House Democratic women's Title IX push - Axios
-- Donor Gives $3 Billion to Carnegie Mellon, the Largest University Gift Ever - The New York Times
-- Trump ally urges administration to ‘step back’ and rethink immigration agenda - The Guardian
-- Senate Democrats block Sen. Husted-led bill on data centers, calling it ‘toothless’ - NBC News
-- Moscow threatens nuclear response over tiny fortress wedged between US allies as clash fears grow - Fox News
+- Live updates: Netanyahu says pilot who fought back in Flydubai flight avoided ‘disaster for Israel’ - cnn.com
+- US Supreme Court allows execution of Christa Pike to go ahead - BBC
+- Trump’s Voluntary A.I. Policing Echoes What Biden Did. But Is It Enough Today? - The New York Times
+- Leaning into culture war flashpoints, Hegseth says he has transformed U.S. military - NPR
+- Trump unveils $200 billion South Korean investment in US; Seoul hedges on Alaska pipeline - Reuters
+- In-laws charged with murder of New York Times games engineer in California - The Guardian
+- Cornell Students Question Greek Life Culture After Sexual Assault Claim - The New York Times
+- Live updates: California’s gubernatorial candidates debate ahead of midterms | CNN Politics - cnn.com
+- 7 takeaways from Hegseth’s address to officers: Warfare’s future, faith and a new base - The Hill
+- Trump hails the US military’s exit from Iraq after 12-year mission against Islamic State - AP News
+- Britain believes Iran was involved in incident near air base used by U.S., Prime Minister Andy Burnham says - NBC News
 - Andy Burnham, faux heretic - The Economist
-- France and Britain in talks to end 'one in, one out' migrant deal - Reuters
-- Ethiopia fighting escalates in Tigray killing 52 civilians in Alamata, medic tells the BBC - BBC
-- FTC opens probe into AI giants including Anthropic and OpenAI - Reuters
-- Anthropic IPO documents show there really is only one risk with AI - Yahoo Finance
-- Eli Lilly says closely watched combo obesity regimen boosts weight loss in mid-stage trial - cnbc.com
-- Stock Market Today: Dow lower, S&P 500 and Nasdaq gain as tech stocks jump, yields rise and PCE inflation data comes in cooler than expected - marketwatch.com
-- The AI Tamagotchis are coming - The Verge
+- Russia sends nuclear warning to NATO as tensions rise in the Baltic - Reuters
+- UK ends 'one in, one out' migrant returns deal with France - Euronews.com
+- Micron Reports Another Dazzling Earnings Quarter. The Stock Isn’t Moving. - Barron's
+- Google announces Gemini 4 Argon AI model, but you can’t use it yet - Ars Technica
+- FTC launches broad investigation into Anthropic, OpenAI - washingtonpost.com
+- Judge allows Paramount to close $110 billion takeover of Warner Bros. Discovery - NBC News
 - Apple stock pops on report it will unveil all-new smart home hub at Oct. 13 event - Yahoo Finance
+- Amazon’s new Fire TV Stick 4K can pull power directly from your TV - The Verge
