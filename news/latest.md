@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-02 02:13_
+_Updated: 2026-10-02 08:11_
 
-- Live Updates: Tennessee Inmate in Critical Condition After ‘Torturous’ Botched Execution, Lawyer Says - The New York Times
-- ‘Hero’ pilot, plumber and dentist among those who saved flydubai flight to Israel - theguardian.com
-- What we know about the Cornell University rape investigation - Reuters
-- A judge permanently dismisses former Olympian's Reflecting Pool charges - NPR
-- Lindsay Clancy lawyer’s bid to get killer mom’s murder charges tossed is slapped down - New York Post
-- Renée Good’s family sues Trump officials, saying death was ‘not an accident’ - washingtonpost.com
-- Man Charged With Threatening Katie Miller, Wife of a Top Trump Aide - The New York Times
-- Trump’s Supreme Court grievance grows as new term looms - Politico
-- Hegseth puts the future of warfare in the hands of major Maga donors - theguardian.com
-- Judge blocks Trump's firing of top federal prosecutor in Seattle and restores him as U.S. attorney - cbsnews.com
-- Dual UK-Iranian national arrested over security incident at US-run air base in England - AP News
-- Whale sinks yacht in South Pacific, sailors rescued alive 18 hours later - cbsnews.com
-- Putin says the world is living through a dangerous moment, warns West not to escalate - Reuters
-- Ukraine deploys FP-7 tactical ballistic missile in combat for first time, Zelenskiy says - Reuters
-- Nike stock sinks as revenue misses estimates, expects to cut jobs - finance.yahoo.com
-- As Mortgage Rates Hit Highest Level Since 2023, Buyers Look at ARMs - The New York Times
-- Anthropic Targets Mega-IPO Before Thanksgiving Holiday - Bloomberg.com
-- OpenAI says rogue agents may have affected more than 100 organizations - washingtonpost.com
-- Winner of Nikon microscopy photo contest faces criticism over AI usage - CNN
-- No, No, No—Don’t Peel the Nano-Texture Layer off the iPhone Duo’s Inner Screen - Gizmodo
+- Hochul Names Letitia James as Special Prosecutor in Cornell Case - The New York Times
+- Flydubai co-pilot ‘assaulted’ captain before landing: Initial Saudi probe - Al Jazeera
+- What happened in the failed execution of Christa Pike - and what next? - BBC
+- 'They’ll be hit very hard': Trump sends 9,000 troops to the Middle East after warning Iran strikes - Fortune
+- Wife of slain NY Times exec alleged 'deeply disturbing' book given to children - SFGATE
+- A new California law bans child marriage. What's the global outlook on the practice? - NPR
+- The family of Renee Good files lawsuits over her death during Minneapolis ICE raids - NPR
+- CBP leaders cut out of Trump ad buy decision - NBC News
+- Massachusetts man accused of cyberstalking campaign against Katie Miller - Politico
+- Supreme Court to weigh Trump's mandatory immigration detention policy - reuters.com
+- British-Iranian man arrested in RAF Fairford investigation - politico.eu
+- A Front Line at the Border: How Russia Uses Migrants as Weapons Against Europe - The New York Times
+- Putin warns West that Russia is prepared to use ‘all weapons’ to protect Kaliningrad - CNN
+- What a Pearly King taught me about Cockney rhyming slang and East London history - NPR
+- Paramount, CNN Chief Mark Thompson in ‘Early Stages’ of Discussions to Keep Him in Post - Variety
+- OpenAI fires workers for mishandling 'sensitive information' - BBC
+- Mortgage rates approach 3-year high as new applications plunge - Axios
+- Boeing engineers, tech workers approve contract, avoid strike - KOMO
+- Apple’s reportedly developing a smart home camera that doesn’t record video - theverge.com
+- Microsoft makes Windows settings backup the default in 26H2 - The Register
