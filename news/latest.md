@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-03 18:44_
+_Updated: 2026-10-03 21:29_
 
-- Ax-wielding FlyDubai co-pilot had been flagged over extremism concerns - AP News
-- Prison chief in Christa Pike case oversaw five ‘botched’ executions, lawyers say - The Guardian
-- DA did not review witness statements and other evidence Cornell police collected in alleged gang rape of student - NBC News
-- Trump promises $100 checks for 20 million seniors for Medicare - Axios
-- The Supreme Court faces another term jam-packed with controversy - NPR
-- U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies - The New York Times
-- A famed Hawaii sea arch collapses, prompting NPS warnings of unstable cliffs - AP News
-- Coast Guard searching off Nantucket for medical evacuation jet carrying 6 people heading from Bermuda to Boston - NBC News
-- Stop the Steel? Iowa approves $1.36 billion for foreign-owned steel plant in swing district less than 2 weeks before early voting - CBS News
-- DOJ subpoenas Gallego’s PAC for Disneyland records - Politico
-- Brazilians will vote in a highly polarized presidential race on Sunday. Here’s what to know - AP News
-- Protesters across Spain demand action over housing crisis - BBC
+- Tennessee prison system head to resign after failed Christa Pike execution - CBS News
+- FlyDubai Attacker Used ‘Crash Ax,’ a Common Fixture on Many Jets - WSJ
+- D.A. in Cornell Rape Inquiry Declined to Review Additional Evidence - The New York Times
+- Medical plane with 6 on board missing off Massachusetts coast - BBC
+- Trump promises another round of checks before the midterms - Politico
+- No one expected Leo to be pope — except everyone who knew him as 'Bob' - NPR
+- Hawaii sea arch collapses into Pacific Ocean 550 years after its formation - CBS News
+- Trump apparently shares Tom Cotton’s phone number in push to make Daylight Saving Time permanent - Politico
+- Democrats May Have Found the Recipe for Flipping Red-State Senate Seats - The New York Times
+- The Supreme Court will hear a major climate change case involving a devastating Colorado wildfire - AP News
+- Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election - CNBC
 - Two Iranians charged over alleged plot targeting Jewish community in UK - Al Jazeera
-- Indian police detain several people in Gen Z-led protests against voter roll changes - Reuters
-- High Government Debt Is Adding Fuel to the Global Bond-Market Selloff - WSJ
-- David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz - CNBC
-- McKinsey: AI will create more jobs than it kills — after destroying 11 million - Fortune
-- Americans feel more and more glum, data shows. Economists are over it - usatoday.com
-- Apple Says iPhone 18 Pro Max Users With AT&T Cellular Issue Need to Have Device Replaced - MacRumors
+- EXCLUSIVE: Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes - reuters.com
+- Indian police detain several people in Gen Z-led protests against voter roll changes - reuters.com
+- A $28B hemp THC industry is fighting to save itself from a looming federal ban - ABC News - Breaking News, Latest News and Videos
+- U.S. labor market slows with midterms on the horizon - NBC News
+- An OpenAI safety employee has quit and is sounding the alarm - The Verge
+- Larry Ellison Risk Exposed by Paramount and Oracle Debt Binges - Bloomberg.com
+- Apple to replace iPhone 18 Pro Max facing AT&T glitch (AAPL) - Seeking Alpha
 - ‘HomePad’ coming: Will Apple hold an October special event? - 9to5Mac
