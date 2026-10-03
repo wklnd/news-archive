@@ -1,74 +1,74 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-03 19:30_
+_Updated: 2026-10-03 22:06_
 
 ## Top Stories
 
-- Kvinna och man vårdas på sjukhus efter båtkollision - SN, Södermanlands Nyheter
-- Fängelsechef avgår efter misslyckade avrättningen av Christa Pike - Dagens Nyheter
-- Flera i bråk vid hållplats i Angered – en till sjukhus - SVT Nyheter
-- Man död i drunkningsolycka i Karlshamn - aftonbladet.se
-- Toppdiplomaternas källare kan ge nya svar om Osloavtalet - Dagens Nyheter
-- Svensksomalier känner sig utpekade efter valet - Dagens Nyheter
-- DN Direkt – Man död i villabrand i Blekinge - Dagens Nyheter
-- Youtuber bar skottsäker väst – petades från hemvärnsuppdrag - Dagens Nyheter
+- Protester mot bostadsbristen blossar upp i Spanien - Göteborgs-Posten
+- Ryktet: Barn beväpnar sig för att möta "Katten i hatten" - Norran
+- Två skadade efter båtkrock i Oxelösund - Omni – Alla nyheter. Alla perspektiv.
+- Norsk jägare släppt efter dödsfallet i Arjeplog - svt.se
+- Personbil i krock med älg på E22 – trafiken igång igen - svt.se
+- Toppdiplomaternas källare kan ge nya svar om Osloavtalet - dn.se
 - 3 oktober 10.03, Bedrägeri, Jönköpings län - polisen.se
+- Bild om svenskt valfusk sprids utomlands - corren.se
 - Fordonshaveri stör trafiken på E18 - Enköpingsposten
-- Protester mot bostadsbristen blossar upp i Spanien - SVT Nyheter
-- Ryssland hotar med ”massiva” attacker - Hufvudstadsbladet – HBL
-- Olesjky nya symbolen för Rysslands övergrepp - Dagens Nyheter
-- Karl Dalén: När AI motsade Trump fick den munkavle - Dagens Nyheter
-- Stockholms bostadspriser närmar sig ny drömgräns - omni.se
-- ”Lättare att se en arg man än sanningen” - Svenska Dagbladet
-- KRÖNIKA: Stigande räntor pressar börsen - Hufvudstadsbladet – HBL
+- Man död i drunkningsolycka i Karlshamn - Göteborgs-Posten
+- Ryssland hotar med ”massiva” attacker - hbl.fi
+- Direkt – Kriget i Ukraina – Flera robotar och drönare slog ner i Moldavien - dn.se
+- Åklagare: Piloten försökte utföra terrordåd - Västerbottens-Kuriren
+- Framgång för regeringsstyrkor i Tigray - aftonbladet.se
+- Nadja Awad (V) ny ordförande i riksdagens socialförsäkringsutskott - Örebronyheter
+- Stockholms bostadspriser närmar sig ny drömgräns - Omni – Alla nyheter. Alla perspektiv.
 - G7 öppnar oljelagren för att pressa ned dieselpriserna - ENERGInyheter.se
+- KRÖNIKA: Stigande räntor pressar börsen - hbl.fi
 - Bisarra vägen till VR-spelet: ”Lät lite skumt” - aftonbladet.se
 - iPhone Duo vs Samsung Galaxy Z Fold 8: 7 viktiga skillnader – från skärmar till tålighet - TechRadar
 
 ## World News
 
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - news.cision.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
-- GMMP: Global backlash syns i världens medier - fempers.se
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- BBC fyller 100 år – äldsta public service i världen - omni.se
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Svenska universitet faller i global rankning - omni.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - news.cision.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
+- Kuriren nominerad för satsning på unga läsare - Norrbottens-Kuriren
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Svenska universitet faller i global rankning - Omni – Alla nyheter. Alla perspektiv.
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Saabs vd: ”Har ett rejält intresse för Global Eye nu” - omni.se
+- Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
-- Finland köper eget Global Eye-plan från Saab - omni.se
 
 ## Technology
 
-- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
+- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Vietnam-Japan Digital Technology Forum 2026: Lösning av "utmaningarna" i AI-eran - Vietnam.vn
+- Vietnam-Japan Digital Technology Forum 2026: Lösning av "utmaningarna" i AI-eran - vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - fuf.se
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Data Centre Expo Sweden - Mynewsdesk
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
-- Skräp inom artificiell intelligens – Övergång från respons till förebyggande - Vietnam.vn
+- AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
+- Skräp inom artificiell intelligens – Övergång från respons till förebyggande - vietnam.vn
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Hotet från AI-genererat skräp: Kan det förebyggas? - Vietnam.vn
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
@@ -98,7 +98,7 @@ _Updated: 2026-10-03 19:30_
 
 - NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Proaktivt ta hand om och förbättra människors hälsa. - Vietnam.vn
+- Proaktivt ta hand om och förbättra människors hälsa. - vietnam.vn
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
@@ -107,7 +107,6 @@ _Updated: 2026-10-03 19:30_
 - SANTE - Ett lyft för patienterna och ekonomin - European Commission
 - Private healthcare insurance in a public healthcare system - Göteborgs universitet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
@@ -115,6 +114,7 @@ _Updated: 2026-10-03 19:30_
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 
 ## Science
@@ -124,21 +124,21 @@ _Updated: 2026-10-03 19:30_
 - Täta band mellan turism och forskning på Svalbard - SLU
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Hanois universitet för vetenskap och teknik främjar samarbete mellan Vietnam och Japan inom vetenskap, teknologi och utbildning i personalresurser. - Vietnam.vn
+- Hanois universitet för vetenskap och teknik främjar samarbete mellan Vietnam och Japan inom vetenskap, teknologi och utbildning i personalresurser. - vietnam.vn
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningen ska vara fri - European Commission
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Patient and Public Involvement in Practice: What Healthcare Researchers Can Learn from Aphasia Research - Karolinska Institutet
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Simple math behind major bison blunder - Forskning & Framsteg
-- Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Andrea del Valle - ki.se
+- Andrea del Valle - Karolinska Institutet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
@@ -151,10 +151,10 @@ _Updated: 2026-10-03 19:30_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
 - Ekologiskt inte bättre för klimatet än konventionellt - ATL
