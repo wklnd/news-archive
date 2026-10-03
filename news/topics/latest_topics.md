@@ -1,74 +1,74 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-02 22:52_
+_Updated: 2026-10-03 02:38_
 
 ## Top Stories
 
-- DN Direkt – En till SD-politiker öppnar för slopat regeringskrav - Dagens Nyheter
-- Sjöfartsverkets brev till hamnarna efter båtolyckan: Förtydligar rutiner - SVT Nyheter
-- Statsvetaren om regeringsfrågan: ”Så här ska det inte gå till” - Dagens Nyheter
-- Stockholm avvaktar beslut om utredning om valfusk - Västerbottens-Kuriren
-- DN Direkt – Thand Ringqvist bjuder in S, V och MP till möte - Dagens Nyheter
+- Erik de la Reguera: Går inte att vifta bort eleverna som ouppfostrade och bortskämda - Dagens Nyheter
+- DN Direkt – Dödsdömda kvinnan vårdas för livshotande skador - Dagens Nyheter
 - Pojke frias från misstanke efter skoldåd i Växjö - Omni – Alla nyheter. Alla perspektiv.
-- Nyköpings kommun hackades – visade mangakaraktär - Västerbottens-Kuriren
-- En misstänkt för mord i Skärmarbrink släppt - SVT Nyheter
+- Statsvetaren om regeringsfrågan: ”Så här ska det inte gå till” - Dagens Nyheter
+- Man åtalas för terrorplaner mot Farage - Västerbottens-Kuriren
+- Trafikkaos i Kiev efter ryska angrepp mot broar - Corren
+- Nyköpings kommun hackad – visade karaktär från animeserie - SVT Nyheter
 - Trafikverkets utmaning – få bort den 100 ton tunga lastbilen från bron - Dagens Nyheter
-- 2 oktober 19.14, Bedrägeri, Östergötlands län - polisen.se
-- Misslyckad avrättning i USA – dödsdömd kvinnas tillstånd kritiskt - SVT Nyheter
-- Piloten berättar: ”Kunde inte låta alla andra dö” - Dagens Nyheter
-- Dödligt anfall mot Kiev – bro träffad igen - Västerbottens-Kuriren
+- Stockholm avvaktar beslut om utredning om valfusk - Västerbottens-Kuriren
+- Sjöfartsverkets brev till hamnarna efter båtolyckan: Förtydligar rutiner - SVT Nyheter
+- Spanska parlamentet röstade ned bostadslag – kan bli regeringskris - Göteborgs-Posten
+- Emma Bouvin: Israeler drillas till att alltid vara redo för terror - Dagens Nyheter
 - Så vill Donald Trump sätta sin prägel på Washington DC - Dagens Nyheter
-- Bränslepriset höjt – så tänker bilisterna - Östersunds-Posten
-- Källor: Europeisk vrede mot Trumps ”utpressning” - Omni – Alla nyheter. Alla perspektiv.
-- Stockholmsbörsen avslutade fredagen i dur - Volvo Cars backade på utsiktsvarning (Finwire News) - Aktiellt
-- Forskning visar att AI påverkar arbetsmiljön - publikt.se
+- Etiopisk milis hävdar framgång – intagit flygplats - Västerbottens-Kuriren
+- G7 frigör 100 miljoner fat olja och diesel - Omni – Alla nyheter. Alla perspektiv.
+- Tungt för Nike efter rapporten – AI-bolag lyfter igen - EFN
+- Handelsbanken ändrar sin prognos, bedömer att ECB höjer styrräntan i december - Börsvärlden
+- SBAB: Bostadspriserna trotsar stigande bolåneräntor - svenskbyggtidning -
 - Källor: Produktionen av vikbar Iphone har problem - Omni – Alla nyheter. Alla perspektiv.
 - Tidigare stoppade spelet toppar App Store – före Minecraft - SVT Nyheter
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Karen Ellemann utsedd till global frontfigur i kampen mot matsvinn - The Nordic Co-operation
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - Lunds universitet backar i global rankning - SVT Nyheter
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Storbritannien: Global lanserar nyhetskanalen LBC News - Radionytt.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Kronprinsen fick ”stor summa” för avlyssning - Omni – Alla nyheter. Alla perspektiv.
-- Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
 
 ## Technology
 
 - Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Vietnam-Japan Digital Technology Forum 2026: Lösning av "utmaningarna" i AI-eran - Vietnam.vn
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Leveraging AI in Swedish Development Cooperation - fuf.se
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Artificial intelligence in enterprises 2025 - scb.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - swedbank-aktiellt.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
-- AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Skräp inom artificiell intelligens – Övergång från respons till förebyggande - Vietnam.vn
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Hotet från AI-genererat skräp: Kan det förebyggas? - Vietnam.vn
 - Albanien utser AI-bot till minister - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
@@ -123,11 +123,11 @@ _Updated: 2026-10-02 22:52_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Gemini för vetenskap ska hjälpa forskare - swedroid.se
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Hanois universitet för vetenskap och teknik främjar samarbete mellan Vietnam och Japan inom vetenskap, teknologi och utbildning i personalresurser. - Vietnam.vn
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskningen ska vara fri - European Commission
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Patient and Public Involvement in Practice: What Healthcare Researchers Can Learn from Aphasia Research - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
@@ -137,8 +137,8 @@ _Updated: 2026-10-02 22:52_
 - Andrea del Valle - Karolinska Institutet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Simple math behind major bison blunder - Forskning & Framsteg
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
@@ -151,7 +151,6 @@ _Updated: 2026-10-02 22:52_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
@@ -162,3 +161,4 @@ _Updated: 2026-10-02 22:52_
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
