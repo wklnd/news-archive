@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-03 00:33_
+_Updated: 2026-10-03 03:26_
 
-- Christa Pike unconscious, on a ventilator at Nashville hospital, her lawyers say - NBC News
-- Cornell 'gang rape' case: Hochul, Letitia James give update after AG appointed special prosecutor - ABC7 Eyewitness News
-- Trump warns Iran of fresh strikes if Tehran involved in FlyDubai plane incident - foxnews.com
+- What happened in the failed execution of Christa Pike - and what next? - BBC
+- Trump warns Iran of fresh strikes if Tehran involved in FlyDubai plane incident - Fox News
+- What to know about the Cornell University rape allegations - The Washington Post
 - ‘God made Trump’ ad and at least 12 others are part of controversial taxpayer-funded ad campaign - CNN
-- Obama judge halts Trump firing bid as decades-old legal authority tees up possible major reversal - foxnews.com
-- A small Texas town stopped Trump’s border wall construction – for now - The Guardian
+- Hawaii’s centuries-old sea arch collapses into Pacific after series of rough storms - The Guardian
+- Judge Blocks Border Wall Construction in Big Bend in Texas - The New York Times
+- Extreme Heat in Los Angeles Area Expected to Last at Least a Week - The New York Times
+- Prosecutors probing deaths of 2 Ole Miss students charge shop clerk, son with selling illegal kratom - AP News
 - Hundreds gather in Mississippi to protest Republican redistricting: ‘This fight is familiar territory’ - The Guardian
 - Musk-led war commission triggers alarms in Pentagon - Politico
-- Trump’s motorcade neared 100 mph en route to Oklahoma after helicopter, airplane ruled out - The Hill
-- Police bodycam footage of Luigi Mangione’s arrest released - AP News
-- France: 400 schools closed as student protests continue - dw.com
+- G-7 agrees to release oil reserves to reduce fuel prices after U.S. pressure - The Washington Post
+- Riot police clash with students as education protests rage in France - BBC
 - 5 European nations follow U.S. with plans for third-country deportations as EU approves migrant "return hubs" - CBS News
 - Man accused of ex-minister murder charged with preparing terrorist acts against Reform UK's Nigel Farage - Reuters
-- Germany news: Reform row raises fears for Merz's coalition - dw.com
-- G7 countries to release up to 100 million barrels of diesel and crude oil reserves - NBC News
-- US job growth undershoots expectations in September, but labor market remains stable - Reuters
-- Stocks rise after soft jobs data; Nasdaq hits record led by Nvidia: Live updates - CNBC
-- Shivon Zilis Was ‘Let Go’ From Dating Elon Musk - thecut.com
-- Apple will limit Mac disk access as AI agents ‘substantially’ increase risk - The Verge
-- Google already rolling out Android 17 QPR3 Beta 1 for Pixel - 9to5Google
+- Another disappointing jobs report suggests more challenges for Trump, GOP - The Washington Post
+- US FAA says Boeing 737 MAX software glitch poses no safety issue - Reuters
+- Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s - CNBC
+- OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling - The Hacker News
+- Apple changes full-disk access permissions to curb abuse from AI agents - arstechnica.com
+- Apple iPhone 18 Pro Max AT&T Glitch Requires Device Replacements - Bloomberg.com
