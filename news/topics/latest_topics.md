@@ -1,61 +1,61 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-03 22:06_
+_Updated: 2026-10-04 01:15_
 
 ## Top Stories
 
-- Protester mot bostadsbristen blossar upp i Spanien - Göteborgs-Posten
-- Ryktet: Barn beväpnar sig för att möta "Katten i hatten" - Norran
-- Två skadade efter båtkrock i Oxelösund - Omni – Alla nyheter. Alla perspektiv.
-- Norsk jägare släppt efter dödsfallet i Arjeplog - svt.se
-- Personbil i krock med älg på E22 – trafiken igång igen - svt.se
-- Toppdiplomaternas källare kan ge nya svar om Osloavtalet - dn.se
-- 3 oktober 10.03, Bedrägeri, Jönköpings län - polisen.se
-- Bild om svenskt valfusk sprids utomlands - corren.se
-- Fordonshaveri stör trafiken på E18 - Enköpingsposten
-- Man död i drunkningsolycka i Karlshamn - Göteborgs-Posten
-- Ryssland hotar med ”massiva” attacker - hbl.fi
-- Direkt – Kriget i Ukraina – Flera robotar och drönare slog ner i Moldavien - dn.se
+- Flera döda i Ukraina – hot om ”massiva” attacker - Göteborgs-Posten
 - Åklagare: Piloten försökte utföra terrordåd - Västerbottens-Kuriren
-- Framgång för regeringsstyrkor i Tigray - aftonbladet.se
-- Nadja Awad (V) ny ordförande i riksdagens socialförsäkringsutskott - Örebronyheter
-- Stockholms bostadspriser närmar sig ny drömgräns - Omni – Alla nyheter. Alla perspektiv.
-- G7 öppnar oljelagren för att pressa ned dieselpriserna - ENERGInyheter.se
-- KRÖNIKA: Stigande räntor pressar börsen - hbl.fi
-- Bisarra vägen till VR-spelet: ”Lät lite skumt” - aftonbladet.se
-- iPhone Duo vs Samsung Galaxy Z Fold 8: 7 viktiga skillnader – från skärmar till tålighet - TechRadar
+- DN Direkt – Mystiskt föremål stoppar trafik i Finska viken - Dagens Nyheter
+- Ny ödla upptäckt i Peru - Göteborgs-Posten
+- Ryktet: Barn beväpnar sig för att möta "Katten i hatten" - Norran
+- Krigsveteraner i duman: ”Putin vill skapa ny militär elit” - Dagens Nyheter
+- Norsk jägare släppt efter jaktolyckan i Arjeplog - SVT Nyheter
+- 3 oktober 10.03, Bedrägeri, Jönköpings län - polisen.se
+- Statsvetare: Familiaritet talar för att det tar tid - Omni – Alla nyheter. Alla perspektiv.
+- Fordonshaveri stör trafiken på E18 - Enköpingsposten
+- Fängelsechef avgår efter misslyckade avrättningen av Christa Pike - Dagens Nyheter
+- Protester mot bostadsbristen blossar upp i Spanien - Göteborgs-Posten
+- DN Direkt – Macron: G7 överens om att använda diesellager - Dagens Nyheter
+- Framgång för regeringsstyrkor i Tigray - Aftonbladet
+- Lämnar Open AI: ”Inte tillräckligt försiktiga” - Dagens Nyheter
+- Analytiker: Kommer inte ge lägre svenska bränslepriser - Omni – Alla nyheter. Alla perspektiv.
+- Nadja Awad (V) ny ordförande i riksdagens socialförsäkringsutskott - orebronyheter.com
+- Nike faller drygt 8 procent – analytiker ser fortsatt tuff vändning - Börsvärlden
+- (+) Efter nio år – nu kan rymdgåtan vara löst - Aftonbladet
+- Bisarra vägen till VR-spelet: ”Lät lite skumt” - Aftonbladet
 
 ## World News
 
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - news.cision.com
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - news.cision.com
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Kuriren nominerad för satsning på unga läsare - Norrbottens-Kuriren
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Svenska universitet faller i global rankning - Omni – Alla nyheter. Alla perspektiv.
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
-- Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
 
 ## Technology
 
 - Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - vietnam.vn
+- Vietnam-Japan Digital Technology Forum 2026: Lösning av "utmaningarna" i AI-eran - vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Vietnam-Japan Digital Technology Forum 2026: Lösning av "utmaningarna" i AI-eran - vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Leveraging AI in Swedish Development Cooperation - fuf.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
@@ -66,7 +66,7 @@ _Updated: 2026-10-03 22:06_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
-- Skräp inom artificiell intelligens – Övergång från respons till förebyggande - vietnam.vn
+- Hotet från AI-genererat skräp: Kan det förebyggas? - vietnam.vn
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
@@ -82,6 +82,7 @@ _Updated: 2026-10-03 22:06_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -92,12 +93,11 @@ _Updated: 2026-10-03 22:06_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
 - NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
 - Proaktivt ta hand om och förbättra människors hälsa. - vietnam.vn
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
@@ -107,7 +107,7 @@ _Updated: 2026-10-03 22:06_
 - SANTE - Ett lyft för patienterna och ekonomin - European Commission
 - Private healthcare insurance in a public healthcare system - Göteborgs universitet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Vi presenterar HealthBench - OpenAI
+- Vi presenterar HealthBench - openai.com
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -122,23 +122,23 @@ _Updated: 2026-10-03 22:06_
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
-- AI för vetenskaplig forskning och upptäckter - OpenAI
+- AI för vetenskaplig forskning och upptäckter - openai.com
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Hanois universitet för vetenskap och teknik främjar samarbete mellan Vietnam och Japan inom vetenskap, teknologi och utbildning i personalresurser. - vietnam.vn
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningen ska vara fri - European Commission
-- Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Patient and Public Involvement in Practice: What Healthcare Researchers Can Learn from Aphasia Research - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Simple math behind major bison blunder - Forskning & Framsteg
 - Olika slutsatser från samma data - Läkartidningen
 - Andrea del Valle - Karolinska Institutet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
-- Simple math behind major bison blunder - Forskning & Framsteg
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
