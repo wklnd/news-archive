@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-03 03:26_
+_Updated: 2026-10-03 09:04_
 
-- What happened in the failed execution of Christa Pike - and what next? - BBC
-- Trump warns Iran of fresh strikes if Tehran involved in FlyDubai plane incident - Fox News
-- What to know about the Cornell University rape allegations - The Washington Post
-- ‘God made Trump’ ad and at least 12 others are part of controversial taxpayer-funded ad campaign - CNN
-- Hawaii’s centuries-old sea arch collapses into Pacific after series of rough storms - The Guardian
-- Judge Blocks Border Wall Construction in Big Bend in Texas - The New York Times
+- Terrorist images found on Flydubai suspect’s social media - CNN
+- D.A. in Cornell Rape Inquiry Declined to Review Additional Evidence - The New York Times
+- G7 to release 100 million barrels of oil and diesel after Trump export ban threat - BBC
+- Christa Pike unconscious and on a ventilator at Nashville hospital, her lawyers say - NBC News
+- Judge halts border barrier construction in Big Bend - The Texas Tribune
+- Trump to travel to at least 10 states before the midterms, including traditional battlegrounds - Politico
+- It's October, but Republicans are already retreating in N.C. - axios.com
+- Shop clerk, son charged with selling illegal kratom amid probe into deaths of 2 Ole Miss students - CBS News
 - Extreme Heat in Los Angeles Area Expected to Last at Least a Week - The New York Times
-- Prosecutors probing deaths of 2 Ole Miss students charge shop clerk, son with selling illegal kratom - AP News
-- Hundreds gather in Mississippi to protest Republican redistricting: ‘This fight is familiar territory’ - The Guardian
-- Musk-led war commission triggers alarms in Pentagon - Politico
-- G-7 agrees to release oil reserves to reduce fuel prices after U.S. pressure - The Washington Post
-- Riot police clash with students as education protests rage in France - BBC
-- 5 European nations follow U.S. with plans for third-country deportations as EU approves migrant "return hubs" - CBS News
-- Man accused of ex-minister murder charged with preparing terrorist acts against Reform UK's Nigel Farage - Reuters
-- Another disappointing jobs report suggests more challenges for Trump, GOP - The Washington Post
-- US FAA says Boeing 737 MAX software glitch poses no safety issue - Reuters
-- Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s - CNBC
-- OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling - The Hacker News
-- Apple changes full-disk access permissions to curb abuse from AI agents - arstechnica.com
-- Apple iPhone 18 Pro Max AT&T Glitch Requires Device Replacements - Bloomberg.com
+- Trump revisits the scene of his political ascent as Republicans struggle - The Washington Post
+- Brazil's Lula-Bolsonaro showdown unfolds in Trump's shadow — with the Amazon at stake - axios.com
+- Two Iranians charged over alleged plot targeting Jewish community in UK - Al Jazeera
+- Exclusive | Unusual Rest Breaks for Xi Jinping Sucked Hours Out of Summit With Trump - WSJ
+- Israeli air attack on Gaza City apartment kills at least five - Al Jazeera
+- OpenAI safety leader David Robinson resigns as the team's upheaval mounts - Business Insider
+- Shivon Zilis says she was 'let go' from relationship with Elon Musk - USA Today
+- Paramount’s $52 Billion Debt Saga Ends With Hair-Raising Finale - Bloomberg.com
+- Micron sees future opportunities in humanoid robots, self-driving cars - Yahoo Finance
+- Apple Confirms AT&T iPhone 18 Pro Max Problems. You Might Need a New Phone - PCMag
+- Apple changes full-disk access permissions to curb abuse from AI agents - Ars Technica
