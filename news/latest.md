@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-03 21:29_
+_Updated: 2026-10-04 00:25_
 
-- Tennessee prison system head to resign after failed Christa Pike execution - CBS News
-- FlyDubai Attacker Used ‘Crash Ax,’ a Common Fixture on Many Jets - WSJ
-- D.A. in Cornell Rape Inquiry Declined to Review Additional Evidence - The New York Times
-- Medical plane with 6 on board missing off Massachusetts coast - BBC
+- Tennessee’s prisons chief is resigning after failed execution of Christa Pike - AP News
+- FlyDubai copilot used crash ax to attempt ‘terrorist act,’ UAE says - The Washington Post
 - Trump promises another round of checks before the midterms - Politico
-- No one expected Leo to be pope — except everyone who knew him as 'Bob' - NPR
+- Woman told Cornell investigators she 'felt like bait' during alleged gang rape - PBS
+- Medical plane with 6 on board missing off Massachusetts coast - BBC
+- EXCLUSIVE: Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes, Zelenskiy says - Reuters
+- Trump appears to post Sen. Tom Cotton’s cell number in push to make daylight saving time permanent - NBC News
 - Hawaii sea arch collapses into Pacific Ocean 550 years after its formation - CBS News
-- Trump apparently shares Tom Cotton’s phone number in push to make Daylight Saving Time permanent - Politico
-- Democrats May Have Found the Recipe for Flipping Red-State Senate Seats - The New York Times
-- The Supreme Court will hear a major climate change case involving a devastating Colorado wildfire - AP News
-- Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election - CNBC
-- Two Iranians charged over alleged plot targeting Jewish community in UK - Al Jazeera
-- EXCLUSIVE: Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes - reuters.com
-- Indian police detain several people in Gen Z-led protests against voter roll changes - reuters.com
-- A $28B hemp THC industry is fighting to save itself from a looming federal ban - ABC News - Breaking News, Latest News and Videos
+- Democrats edge out, neck and neck with Republicans in 5 key Senate races: Polls - The Hill
+- Ted Cruz blasts JD Vance as ‘insecure,’ says he’s focused on helping GOP win midterms - Politico
+- What to know about Brazil’s 2026 presidential election - Al Jazeera
+- U.K. police accuse 2 Iranian men of planning terror attack on Manchester's Jewish community - CBS News
+- High school students in Paris' deprived suburbs spark national protest movement - Reuters
+- Tens of thousands protest against Spain's housing crisis following eviction of 87-year-old woman - Sky News
 - U.S. labor market slows with midterms on the horizon - NBC News
-- An OpenAI safety employee has quit and is sounding the alarm - The Verge
+- OpenAI safety employee resigns, claiming the company’s ‘culture is broken’ - TechCrunch
+- Bond yields are hovering near multi-year highs: What it means for your wallet - Fox Business
 - Larry Ellison Risk Exposed by Paramount and Oracle Debt Binges - Bloomberg.com
 - Apple to replace iPhone 18 Pro Max facing AT&T glitch (AAPL) - Seeking Alpha
 - ‘HomePad’ coming: Will Apple hold an October special event? - 9to5Mac
