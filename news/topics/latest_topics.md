@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-04 01:15_
+_Updated: 2026-10-04 04:49_
 
 ## Top Stories
 
-- Flera döda i Ukraina – hot om ”massiva” attacker - Göteborgs-Posten
-- Åklagare: Piloten försökte utföra terrordåd - Västerbottens-Kuriren
-- DN Direkt – Mystiskt föremål stoppar trafik i Finska viken - Dagens Nyheter
-- Ny ödla upptäckt i Peru - Göteborgs-Posten
+- Tre fartyg i kollision i Norge - Aftonbladet
+- Kvinna död i ”särskilt farlig sjukdom” – uppgifter om pesten - Aftonbladet
+- Okänt föremål hittades – fartygstrafiken i Helsingfors begränsades - SVT Nyheter
+- Misstänkte jägaren släppt – råkade skjuta sin kamrat i torsdags - NSD
+- Flera döda i Ukraina – hot om ”massiva” attacker - Corren
+- Polisen ryter ifrån: ”Nu är det nog med att lura våra äldre” - Sveriges Radio
 - Ryktet: Barn beväpnar sig för att möta "Katten i hatten" - Norran
-- Krigsveteraner i duman: ”Putin vill skapa ny militär elit” - Dagens Nyheter
-- Norsk jägare släppt efter jaktolyckan i Arjeplog - SVT Nyheter
-- 3 oktober 10.03, Bedrägeri, Jönköpings län - polisen.se
-- Statsvetare: Familiaritet talar för att det tar tid - Omni – Alla nyheter. Alla perspektiv.
-- Fordonshaveri stör trafiken på E18 - Enköpingsposten
-- Fängelsechef avgår efter misslyckade avrättningen av Christa Pike - Dagens Nyheter
-- Protester mot bostadsbristen blossar upp i Spanien - Göteborgs-Posten
-- DN Direkt – Macron: G7 överens om att använda diesellager - Dagens Nyheter
-- Framgång för regeringsstyrkor i Tigray - Aftonbladet
-- Lämnar Open AI: ”Inte tillräckligt försiktiga” - Dagens Nyheter
+- LEDARE: Bollen är nu tillbaka hos Magdalena Andersson - Nya Wermlands-Tidningen
+- 2 oktober 07.40, Sammanfattning natt, Jönköpings län - polisen.se
+- Stockholm avvaktar beslut om utredning om valfusk - Göteborgs-Posten
+- Undersökning: Lettlands premiärminister går mot valseger - SVT Nyheter
+- Ny ödla upptäckt i Peru - Göteborgs-Posten
+- Tumult vid spanska demonstrantläger - SVT Nyheter
+- Fängelsechef avgår efter misslyckad avrättning - Corren
+- Open AI-chef säger upp sig: ”Oacceptabelt” - Svenska Dagbladet
+- Nadja Awad (V) ny ordförande i riksdagens socialförsäkringsutskott - Örebronyheter
 - Analytiker: Kommer inte ge lägre svenska bränslepriser - Omni – Alla nyheter. Alla perspektiv.
-- Nadja Awad (V) ny ordförande i riksdagens socialförsäkringsutskott - orebronyheter.com
 - Nike faller drygt 8 procent – analytiker ser fortsatt tuff vändning - Börsvärlden
 - (+) Efter nio år – nu kan rymdgåtan vara löst - Aftonbladet
-- Bisarra vägen till VR-spelet: ”Lät lite skumt” - Aftonbladet
+- Samsung höjer priserna i USA och Europa – så mycket dyrare har det blivit i Sverige - Swedroid
 
 ## World News
 
@@ -43,33 +43,33 @@ _Updated: 2026-10-04 01:15_
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Kuriren nominerad för satsning på unga läsare - Norrbottens-Kuriren
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Svenska universitet faller i global rankning - Omni – Alla nyheter. Alla perspektiv.
+- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 
 ## Technology
 
-- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - vietnam.vn
-- Vietnam-Japan Digital Technology Forum 2026: Lösning av "utmaningarna" i AI-eran - vietnam.vn
+- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
+- Vietnam-Japan Digital Technology Forum 2026: Lösning av "utmaningarna" i AI-eran - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - nyheter.ki.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- 7 sätt att använda AI i den fysiska världen - computersweden.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Data Centre Expo Sweden - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- AI-inferens blir billigare, men dina agenter blir dyrare - computersweden.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- Försäkringsbolag: AI är för riskabelt att försäkra - computersweden.se
 - AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
-- Hotet från AI-genererat skräp: Kan det förebyggas? - vietnam.vn
-- Tiden för billig vibe coding kan vara över - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Tiden för billig vibe coding kan vara över - computersweden.se
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - computersweden.se
+- Forskare vill se dödsknapp i AI-system - computersweden.se
 
 ## Business
 
@@ -97,24 +97,24 @@ _Updated: 2026-10-04 01:15_
 ## Health
 
 - NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
-- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
-- Proaktivt ta hand om och förbättra människors hälsa. - vietnam.vn
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Proaktivt ta hand om och förbättra människors hälsa. - Vietnam.vn
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Sverige har förutsättningarna – hur blir precisionsmedicin verklighet i vården? - Mynewsdesk
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Digital obesitasvårdgivare brast i journalhantering – tillståndet dras tillbaka - Dagens Medicin
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - SANTE - Ett lyft för patienterna och ekonomin - European Commission
 - Private healthcare insurance in a public healthcare system - Göteborgs universitet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Vi presenterar HealthBench - openai.com
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 
 ## Science
@@ -122,17 +122,17 @@ _Updated: 2026-10-04 01:15_
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
-- AI för vetenskaplig forskning och upptäckter - openai.com
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Hanois universitet för vetenskap och teknik främjar samarbete mellan Vietnam och Japan inom vetenskap, teknologi och utbildning i personalresurser. - vietnam.vn
+- Hanois universitet för vetenskap och teknik främjar samarbete mellan Vietnam och Japan inom vetenskap, teknologi och utbildning i personalresurser. - Vietnam.vn
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningen ska vara fri - European Commission
-- Patient and Public Involvement in Practice: What Healthcare Researchers Can Learn from Aphasia Research - Karolinska Institutet
+- Patient and Public Involvement in Practice: What Healthcare Researchers Can Learn from Aphasia Research - nyheter.ki.se
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Simple math behind major bison blunder - Forskning & Framsteg
+- Simple math behind major bison blunder - fof.se
 - Olika slutsatser från samma data - Läkartidningen
 - Andrea del Valle - Karolinska Institutet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
@@ -149,7 +149,7 @@ _Updated: 2026-10-04 01:15_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Sveriges förändrade lantbruk - SLU
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - Naturvårdsverket
+- Jordbrukspolitik - naturvardsverket.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
