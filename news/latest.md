@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-04 00:25_
+_Updated: 2026-10-04 03:59_
 
-- Tennessee’s prisons chief is resigning after failed execution of Christa Pike - AP News
-- FlyDubai copilot used crash ax to attempt ‘terrorist act,’ UAE says - The Washington Post
-- Trump promises another round of checks before the midterms - Politico
 - Woman told Cornell investigators she 'felt like bait' during alleged gang rape - PBS
-- Medical plane with 6 on board missing off Massachusetts coast - BBC
+- Tennessee’s prisons chief is resigning after failed execution of Christa Pike - AP News
+- Trump pledges to send $90 checks to millions of seniors on Medicare - NBC News
+- FlyDubai Attacker Used ‘Crash Ax,’ a Common Fixture on Many Jets - wsj.com
+- ‘You’re coming in blind?’ Medical plane flying to Boston from Bermuda goes missing off Nantucket - The Boston Globe
 - EXCLUSIVE: Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes, Zelenskiy says - Reuters
-- Trump appears to post Sen. Tom Cotton’s cell number in push to make daylight saving time permanent - NBC News
-- Hawaii sea arch collapses into Pacific Ocean 550 years after its formation - CBS News
-- Democrats edge out, neck and neck with Republicans in 5 key Senate races: Polls - The Hill
-- Ted Cruz blasts JD Vance as ‘insecure,’ says he’s focused on helping GOP win midterms - Politico
-- What to know about Brazil’s 2026 presidential election - Al Jazeera
-- U.K. police accuse 2 Iranian men of planning terror attack on Manchester's Jewish community - CBS News
-- High school students in Paris' deprived suburbs spark national protest movement - Reuters
+- Trump reveals Tom Cotton’s phone number in daylight saving time standoff - The Washington Post
+- Democrats May Have Found the Recipe for Flipping Red-State Senate Seats - The New York Times
+- Balloons take flight with several minor crashes on day 1 of Balloon Fiesta - KOAT
+- Fact-checking Trump’s Alabama rally: What the president’s Mobile speech got wrong - AL.com
+- Yemen’s army says targets Houthis in hundreds of strikes, killing 700 - Al Jazeera
+- 2 Iranian men charged over alleged bomb plot to target UK Jewish community appear in court - CNN
+- Europe to release diesel reserves after Trump request - DW.com
 - Tens of thousands protest against Spain's housing crisis following eviction of 87-year-old woman - Sky News
 - U.S. labor market slows with midterms on the horizon - NBC News
-- OpenAI safety employee resigns, claiming the company’s ‘culture is broken’ - TechCrunch
-- Bond yields are hovering near multi-year highs: What it means for your wallet - Fox Business
-- Larry Ellison Risk Exposed by Paramount and Oracle Debt Binges - Bloomberg.com
-- Apple to replace iPhone 18 Pro Max facing AT&T glitch (AAPL) - Seeking Alpha
-- ‘HomePad’ coming: Will Apple hold an October special event? - 9to5Mac
+- Paramount Debt Drop Spells Trouble for Borrowers: Credit Weekly - bloomberg.com
+- A $28B hemp THC industry is fighting to save itself from a looming federal ban - AP News
+- Community Banks Swing Back at Trump Regulators Over Crypto Charters - wsj.com
+- iPhone 18 Pro Max users on AT&T: Take these steps to save your service - Mashable
+- RuneScape 4, The Next MMO From Jagex, Announced At RuneFest This Weekend - MMORPG.com
