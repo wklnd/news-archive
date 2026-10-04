@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-04 16:58_
+_Updated: 2026-10-04 20:47_
 
+- Exclusive | New AI Czar Unveils Goals, Members of White House Task Force - WSJ
+- Brazil’s presidential vote pits Trump ally against incumbent Lula - AP News
+- Christa Pike's prognosis still unclear after failed execution, lawyer says - BBC
+- Cornell University to take ‘serious look’ at fraternities after rape allegations - The Guardian
+- America’s Arctic war machine roars to life as commander reveals chilling new reality on Russia’s doorstep - foxnews.com
+- South Carolina birthday girls’ trip allegedly turns deadly at the hands of bartender, friend says - foxnews.com
+- Buttigieg goes big to help 2026 Dems - Politico
+- Shooting in Vienna, Ga., Leaves 2 Dead and Dozens Wounded - The New York Times
 - U.S. Coast Guard locates debris from missing plane off Nantucket, search for missing passengers ongoing - WCVB
 - Trump defiant about midterm chances as he rallies for Republicans in Ohio - Al Jazeera
-- U.S. Marine arrested on suspicion of killing Japanese woman in Okinawa - nbcnews.com
-- Brazil presidential vote pits Trump ally against Lula, who is seeking a 4th nonconsecutive term - AP News
-- Supreme Court kicks off new term with fresh questions over its legitimacy and its future - Fox News
-- She died covering war for Fox News. Her parents blame the network — and a star reporter - NPR
-- Trump announces leadership of AI task force - CNN
-- Tennessee Commissioner Resigns After Failed Execution of Christa Pike - The New York Times
-- Supreme Court to weigh energy companies' bid to end Boulder climate-change lawsuit - CBS News
-- Cornell University to take ‘serious look’ at fraternities after rape allegations - The Guardian
+- U.S. Marine accused of killing woman in Japan, drawing official protest from Tokyo - The Washington Post
 - Israeli investigators believe FlyDubai alleged hijacker was likely lone wolf, sources say - CBS News
-- Saudi-led coalition dismisses ‘misleading’ Houthi claim of Riyadh attack - Al Jazeera
-- Government forces seize capital of Ethiopia's Tigray region from rebels - Reuters
-- G7 to release 100 million barrels of oil and diesel, will it curb prices? - Al Jazeera
-- OPEC+ agrees to keep November oil output targets steady - Reuters
-- 3 No-Brainer Stocks to Buy If Data Center Expenditures Hit $3 Trillion by 2030 - Yahoo Finance
+- Yemeni and Saudi forces launch counteroffensive against the Houthis - Axios
+- Moscow says it will step up strikes on Ukraine after Kyiv vows to hit Russian oil refineries - politico.eu
 - Micron stock offers an important reminder for investors - Yahoo Finance
-- What a hiring slowdown signals about the state of the U.S. economy - pbs.org
-- Apple weekend deals: AirPods Pro 3 $179, MacBook Pro $500 off, AirTag 2, Prime Day HomeKit discounts, more - 9to5Mac
-- Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think - 9to5Google
+- Winning Powerball numbers for the $444 million jackpot on Saturday, Oct. 3, 2026: See all the prizes hit in Ohio - WKYC
+- OPEC+ agrees to keep November oil output targets steady - Reuters
+- Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad - CNBC
+- Apple weekend deals: AirPods Pro 3 $179, MacBook Air $200 off, AirTag 2, Prime Day HomeKit discounts, more - 9to5Mac
+- This toolless modular lever-action wallet is the coolest I’ve stuck to my phone - The Verge
