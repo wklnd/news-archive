@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-04 03:59_
+_Updated: 2026-10-04 10:46_
 
-- Woman told Cornell investigators she 'felt like bait' during alleged gang rape - PBS
-- Tennessee’s prisons chief is resigning after failed execution of Christa Pike - AP News
-- Trump pledges to send $90 checks to millions of seniors on Medicare - NBC News
-- FlyDubai Attacker Used ‘Crash Ax,’ a Common Fixture on Many Jets - wsj.com
-- ‘You’re coming in blind?’ Medical plane flying to Boston from Bermuda goes missing off Nantucket - The Boston Globe
-- EXCLUSIVE: Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes, Zelenskiy says - Reuters
+- Cornell president calls alleged gang rape ‘deeply disturbing,’ pledges greater transparency - AP News
+- Searchers find debris of Boston-bound medical plane that went missing off Nantucket - The Boston Globe
+- Trump announces plan to send $90 payments to millions of seniors - The Washington Post
+- Trump defiant about midterm chances as he rallies for Republicans in Ohio - Al Jazeera
+- Brazil’s Lula and Flávio Bolsonaro campaign in powerhouse state ahead of Sunday’s presidential vote - Politico
+- Flydubai co-pilot attacked captain with axe, UAE official says - BBC
+- Tennessee Commissioner Resigns After Failed Execution of Christa Pike - The New York Times
+- Bernie Sanders makes a late push for California billionaire tax - Politico
+- Latino Dems urge Democratic Governors Association to put money behind Gina Hinojosa as Texas governor's race tightens - CBS News
 - Trump reveals Tom Cotton’s phone number in daylight saving time standoff - The Washington Post
-- Democrats May Have Found the Recipe for Flipping Red-State Senate Seats - The New York Times
-- Balloons take flight with several minor crashes on day 1 of Balloon Fiesta - KOAT
-- Fact-checking Trump’s Alabama rally: What the president’s Mobile speech got wrong - AL.com
-- Yemen’s army says targets Houthis in hundreds of strikes, killing 700 - Al Jazeera
 - 2 Iranian men charged over alleged bomb plot to target UK Jewish community appear in court - CNN
-- Europe to release diesel reserves after Trump request - DW.com
+- G7 to release 100 million barrels of oil and diesel, will it curb prices? - Al Jazeera
 - Tens of thousands protest against Spain's housing crisis following eviction of 87-year-old woman - Sky News
-- U.S. labor market slows with midterms on the horizon - NBC News
-- Paramount Debt Drop Spells Trouble for Borrowers: Credit Weekly - bloomberg.com
-- A $28B hemp THC industry is fighting to save itself from a looming federal ban - AP News
-- Community Banks Swing Back at Trump Regulators Over Crypto Charters - wsj.com
-- iPhone 18 Pro Max users on AT&T: Take these steps to save your service - Mashable
-- RuneScape 4, The Next MMO From Jagex, Announced At RuneFest This Weekend - MMORPG.com
+- France’s violent student protests raise warning for America: ‘A cautionary tale’ - Fox News
+- US job growth undershoots expectations in September, but labor market remains stable - Reuters
+- AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer - Bloomberg.com
+- Community Banks Swing Back at Trump Regulators Over Crypto Charters - WSJ
+- WTI Whipsaws as Gulf Supply Improves and Middle East Risk Returns - oilprice.com
+- Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think - 9to5Google
+- Valorant Player Banned Due To Previous CPU Owner’s Cheating Ways - Kotaku
