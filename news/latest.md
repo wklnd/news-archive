@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-05 00:31_
+_Updated: 2026-10-05 09:41_
 
-- Cornell University to take ‘serious look’ at fraternities after rape allegations - The Guardian
-- FlyDubai captain reveals new details of attack in Netanyahu phone call - Euronews.com
-- Polls close in Brazil as country awaits results of high-stakes election - Reuters
-- What to Know About the Medical Plane That Went Missing Near Nantucket - The New York Times
-- Trump names national intelligence chief Jay Clayton as new AI czar - NPR
+- US removes all bombers from RAF Fairford base - BBC
+- Brazil’s presidential race: Three key takeaways from the first round - Al Jazeera
+- Multiple Security Failures Allowed FlyDubai Pilot Into Cockpit - WSJ
+- Cornell student who gave police leads in alleged rape says she feels ‘betrayed’ over its handling - NBC News
 - Yemeni and Saudi forces launch counteroffensive against the Houthis - Axios
-- Christa Pike still in critical condition after botched execution, lawyer says - The Washington Post
-- Poll: Latino voters swing away from Trump and Republicans - NBC News
-- Trump is putting a generation of young judges on the bench — for life - Politico
-- Trump's Ohio rally gets quiet after he defends data centers — a toxic political issue - Fortune
-- Japan summons US envoy as marine arrested over Okinawa murder - aljazeera.com
-- U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats - The New York Times
-- Merz makes surprise Kyiv visit as Germany pledges more aid to Ukraine - Euronews.com
-- Green Party members back 'Zionism is racism' motion - BBC
-- OPEC, Allies Hold Oil Output Steady Amid Middle East Tensions - WSJ
-- Micron stock offers an important reminder for investors - finance.yahoo.com
-- Winning Powerball numbers for the $444 million jackpot on Saturday, Oct. 3, 2026: See all the prizes hit in Ohio - WKYC
-- Wall Street’s AI Party Is on Edge as Soaring Yields Raise Risks - Bloomberg.com
+- Vienna shooting leaves two dead at party - FOX 5 Atlanta
+- California woman arrested and accused of spying on Taiwan president’s son for China - The Guardian
+- Supreme Court heads into new term with one eye on President Trump - CNN
+- Florida GOP governor candidate Byron Donalds courts skeptical Black voters - CBS News
+- All passengers presumed dead after plane went missing off US coast - BBC
+- Japan summons US envoy as marine arrested over Okinawa murder - Al Jazeera
+- Russia hospitalizes almost 200 people after researcher's death from plague: reports - CNBC
+- France to close up to 500 schools on Monday over student protests - BBC
+- Ethiopian rebel forces withdraw from Tigray regional capital - BBC
+- Asian stocks rise as weak U.S. jobs data eases Fed hike bets; Japan surges - Investing.com
+- Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI - Politico
+- Euro Falls to 17-Month Low on Region’s Fiscal, Political Risks - Bloomberg.com
+- Asian Shares Rise as Fed Bets Ease, Bonds Edge Up: Markets Wrap - Bloomberg.com
 - ‘Fitbit Edge’ leaks as Google’s next fitness tracker with ‘Apps’ & ‘Notifications’ - 9to5Google
-- Apple weekend deals: AirPods Pro 3 $179, MacBook Air $200 off, AirTag 2, Prime Day HomeKit discounts, more - 9to5Mac
+- iPhone Owners Turn Off This Setting To Save Battery Life - bgr.com
