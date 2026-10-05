@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-05 09:41_
+_Updated: 2026-10-05 18:22_
 
-- US removes all bombers from RAF Fairford base - BBC
-- Brazil’s presidential race: Three key takeaways from the first round - Al Jazeera
-- Multiple Security Failures Allowed FlyDubai Pilot Into Cockpit - WSJ
+- U.S. officials seeking details of reported Russian plague death, quarantines - The Washington Post
+- New Supreme Court term begins with a climate change case seeking to hold energy companies liable - NBC News
 - Cornell student who gave police leads in alleged rape says she feels ‘betrayed’ over its handling - NBC News
-- Yemeni and Saudi forces launch counteroffensive against the Houthis - Axios
-- Vienna shooting leaves two dead at party - FOX 5 Atlanta
-- California woman arrested and accused of spying on Taiwan president’s son for China - The Guardian
-- Supreme Court heads into new term with one eye on President Trump - CNN
-- Florida GOP governor candidate Byron Donalds courts skeptical Black voters - CBS News
+- The 10 Senate seats most likely to flip in 2026 - CNN
+- Spain’s Pedro Sanchez announces snap election amid housing crisis - Al Jazeera
+- U.S. military removes bombers from U.K. air base following security incident - CBS News
+- Christa Pike’s lawyers had warned execution would be ‘difficult and perhaps cruel’ due to her veins - The Guardian
+- Catholic schools, banned rifles and ‘climate lawfare’: Blockbuster fights await Supreme Court - Fox News
+- Dennis Hastert, Powerful Politician Disgraced by Child Sexual Abuse, Dies - nytimes.com
 - All passengers presumed dead after plane went missing off US coast - BBC
-- Japan summons US envoy as marine arrested over Okinawa murder - Al Jazeera
-- Russia hospitalizes almost 200 people after researcher's death from plague: reports - CNBC
-- France to close up to 500 schools on Monday over student protests - BBC
-- Ethiopian rebel forces withdraw from Tigray regional capital - BBC
-- Asian stocks rise as weak U.S. jobs data eases Fed hike bets; Japan surges - Investing.com
-- Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI - Politico
-- Euro Falls to 17-Month Low on Region’s Fiscal, Political Risks - Bloomberg.com
-- Asian Shares Rise as Fed Bets Ease, Bonds Edge Up: Markets Wrap - Bloomberg.com
-- ‘Fitbit Edge’ leaks as Google’s next fitness tracker with ‘Apps’ & ‘Notifications’ - 9to5Google
-- iPhone Owners Turn Off This Setting To Save Battery Life - bgr.com
+- Yemeni government forces advance to Bab el-Mandeb Strait - Reuters
+- Multiple Security Failures Allowed FlyDubai Pilot Into Cockpit - WSJ
+- Teenager's hand blown off during confrontation between France school protesters and police - BBC
+- Europe Today: Russia hits Kyiv as Merz visits; Bolsonaro wins Brazil's first round election - Euronews.com
+- GM says hybrid vehicles are coming: 'We're not tone deaf to our customers' - CNBC
+- Why airfares could rise even more, but airline profits won't - CNBC
+- Accept ‘bad things’ in return for benefits of AI, says Sam Altman - The Guardian
+- The Only Billionaires Making Money This Year Are In Tech - Bloomberg.com
+- An open-source tool lets you delete 12GB of Apple Intelligence data on macOS - The Verge
+- Windows 11 26H2 quietly shipped with a major performance boost, and here’s why - Windows Latest
