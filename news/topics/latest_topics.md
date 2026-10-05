@@ -1,38 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-05 00:26_
+_Updated: 2026-10-05 03:25_
 
 ## Top Stories
 
-- Oppositionen möts på fredag - Västerbottens-Kuriren
-- Två döda och en skadad i skjutning i norska Halden - SVT Nyheter
-- Michael Winiarski: Frågan är bara vad Putin har i sitt giftskåp - Dagens Nyheter
+- Thand Ringqvist om mötet med de rödgröna: ”Röda linjerna ligger fast” – Senaste nytt om valet 2026 - SVT Nyheter
+- Brasilien går till val: ”Demokrati eller barbari - Dagens Nyheter
+- USA kallar hem bombplan - gp.se
+- Ryska larmet: Darja, 28, dog av pestsmitta - Expressen
 - Fyra larm om beskjutning med grön laser i Skåne - Omni – Alla nyheter. Alla perspektiv.
-- Rysslands nya fokus i Ukraina: Spränga broar - Dagens Nyheter
-- DN Direkt – Källor: Misstänkt ville krascha in i Ben Gurion-flygplatsen - Dagens Nyheter
+- Far och son ihjälskjutna i Norge - Hufvudstadsbladet – HBL
+- Riskfylld vandring för invandrade vargar - gp.se
+- Regeringsbildningen 2026: Centerpartiets vågmästarroll och Magdalenas handlingsutrymme - Skåne Plus
 - Bitte Assarmo: Kultureliten hatar din kanelbulle - Fokus - Sveriges nyhetsmagasin
-- Förslagen: Höjd föräldrapeng och mer tid på förskolan - Omni – Alla nyheter. Alla perspektiv.
 - 4 oktober 16.00, Övrigt, Mölndal - polisen.se
-- Man skadad i misstänkt mordförsök - Västerbottens-Kuriren
-- Brasilien till val – Lula mot Bolsonaro - Göteborgs-Posten
 - Jemens regering förklarar fullskaligt krig mot Huthi - SVT Nyheter
-- Trump bildar sin AI-styrka - corren.se
+- Ny rysk attack mot ukrainsk bro i Kiev - Västerbottens-Kuriren
+- Trump bildar sin AI-styrka - Corren
 - Två döda i Spanien – varning för skyfall - Västerbottens-Kuriren
 - Sparare vinnare när kronan tappar i värde - Dagens Nyheter
-- Dieselpriset kan rusa igen – varnar för ny pristopp - News55
-- Finanstoppen spelar ner globala ränteoron - Expressen
+- DEBATT: SD: Har kontrollen av tunnelbanebygget varit tillräcklig? - Nacka Värmdö Posten
+- Här är de välbetalda jobben som behövs för att hålla AI-boomen vid liv - Realtid
 - Open AI-chef lämnar: ”Oacceptabel utveckling” - Västerbottens-Kuriren
 - Samsung höjer priserna på flera modeller - mobil.se
-- WhatsApp får föräldrakontroll för äldre barn - Teknikveckan
+- (+) Efter nio år – nu kan rymdgåtan vara löst - aftonbladet.se
 
 ## World News
 
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - news.cision.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - news.cision.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
@@ -51,19 +51,19 @@ _Updated: 2026-10-05 00:26_
 ## Technology
 
 - Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Digital synergi mellan Vietnam och Japan: Från modernisering av kärnsystem till samskapande av djupteknologi - Vietnam.vn
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Vietnam-Japan Digital Technology Forum 2026: Lösning av "utmaningarna" i AI-eran - Vietnam.vn
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - nyheter.ki.se
+- Leveraging AI in Swedish Development Cooperation - fuf.se
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Data Centre Expo Sweden - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - blogg.avanza.se
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
@@ -73,18 +73,18 @@ _Updated: 2026-10-05 00:26_
 
 ## Business
 
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Bitcoin Cash (BCH), Unus Sed Leo (LEO), OKB (OKB), Polygon (POL), Algorand (ALGO), Filecoin (FIL), Arbitrum (ARB), and Stacks (STX) - placera.se
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Bitcoin Cash (BCH), Unus Sed Leo (LEO), OKB (OKB), Polygon (POL), Algorand (ALGO), Filecoin (FIL), Arbitrum (ARB), and Stacks (STX) - Placera.se
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Vilken framtid arbetar du för? - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -102,7 +102,7 @@ _Updated: 2026-10-05 00:26_
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - En varm och kärleksfull present till barnpatienter på Huu Lung Regional Medical Center under midhöstfestivalen. - Vietnam.vn
 - Digital obesitasvårdgivare brast i journalhantering – tillståndet dras tillbaka - Dagens Medicin
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Khalid satsar på digital vård – mot fetma - st.nu
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Private healthcare insurance in a public healthcare system - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -111,11 +111,11 @@ _Updated: 2026-10-05 00:26_
 - Vi presenterar HealthBench - OpenAI
 - SANTE - Ett lyft för patienterna och ekonomin - European Commission
 - Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
-- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
-- Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - di.se
+- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
+- Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 
 ## Science
 
@@ -130,7 +130,7 @@ _Updated: 2026-10-05 00:26_
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Andrea del Valle - Karolinska Institutet
+- Andrea del Valle - ki.se
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
@@ -144,21 +144,21 @@ _Updated: 2026-10-05 00:26_
 
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Framtidens jordbruk - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - land.se
+- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Sveriges förändrade lantbruk - SLU
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - Naturvårdsverket
+- Jordbrukspolitik - naturvardsverket.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - land.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Lantbrukslogik – nu och i framtiden - SLU
-- Visning av uppkomst efter direktsådd - land.se
+- Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Kan agroekologi mätta världen? - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - land.se
-- Hellre plöjningsfri odling än ekologisk - land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
