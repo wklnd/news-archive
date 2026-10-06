@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-06 05:12_
+_Updated: 2026-10-06 12:39_
 
 ## Top Stories
 
-- Ung man död – 14 har förts till sjukhus - Expressen
-- Magnus Gisslén om misstänkta lungpestsmittan i Sibirien - Göteborgs-Posten
-- Huthirörelsen: Attackerat flygplats – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Franska gymnasieelever strejkar mot personalbrist och förfallna skolor - SVT Nyheter
-- Maricarmen och bostadskrisen störtade Spaniens Sánchez - dagensarena.se
-- Partiledarna på plats under rödgröna ödesmötet - Dagens Nyheter
-- SD möblerar om i utskotten – tunga namn byter plats - Dagens Nyheter
-- Man häktas efter skjutning mot jaktlag i Halden - Corren
-- Armémuseum stänger efter hyreschock: Måste flytta - Västerbottens-Kuriren
-- MIMMIE BJÖRNSDOTTER GRÖNKVIST: Mer än en fnurra på regeringsbildningstråden - Ekuriren
-- DN Direkt – Abiy Ahmed omvald i Etiopien – attacker i Tigray - Dagens Nyheter
-- Lula och Bolsonaro till andra valomgång - Corren
-- Ny rysk attack mot ukrainsk bro i Kiev - Västerbottens-Kuriren
-- DN Direkt – Källor: Misstänkt ville krascha in i Ben Gurion-flygplatsen - Dagens Nyheter
-- Utmanande läge med låg inflation och hög ränta - Fastighetstidningen
-- Arla lägger ned Falbygdens ost - Svenska Dagbladet
-- Börsen stänger runt nollan – Skanska föll - Privata Affärer
-- Fransk-tyskt förslag: Nytt handelsvapen till EU - Omni – Alla nyheter. Alla perspektiv.
+- Hovrätten fastställer livstidsstraff mot Foxtrotman - Aftonbladet
+- Katedralskolan i Växjö sörjer elev som dog i bussolyckan - Sveriges Radio
+- DN Direkt – Nobelpriset i fysik till forskning om neutriner - Dagens Nyheter
+- Tidigare försvarskonsult döms för spionförsök - Göteborgs-Posten
+- Det blir temat för Musikhjälpen 2026 - Corren
+- Två lastbilar i krock i Getinge – E6 avstängd - SVT Nyheter
+- Risk för skador med bilbarnstolen - Corren
+- Misstänkta pesten i Ryssland: WHO manar till lugn - Göteborgs-Posten
+- Person hittad död i vattnet i centrala Stockholm - SVT Nyheter
+- Kinnunen om utskotten: ”Vissa är säkert missnöjda” - Västerbottens-Kuriren
+- Kenya bekräftar första fallet av ebola – man flög hem svårt sjuk - Dagens Nyheter
+- Prorysk expresident hävdar seger i Bosnien - Göteborgs-Posten
+- Besättningen saknas efter drönarattack mot fartyg i Svarta havet - SVT Nyheter
+- Ännu en bro attackerad i Ukraina - Västerbottens-Kuriren
+- Ökat tryck på begagnade elbilar - Dagens industri
+- LO hotar med strejk om tjänstepensionen - Affärsvärlden
+- Finansinspektionen varnar för 30 oseriösa aktörer inom finans - Sak & Liv
+- Vett och etikett i butiken – här är beteendena som stör oss mest - ICAGruppen.se
+- Nästan hälften av AI-intervjuerna sker på fritiden - Computer Sweden
 - BankID slutar fungera på iPhone X och iPhone 8 - Teknikveckan
-- Google Pixel 10a har nu ett startpris på $599, vilket gör den svårare att rekommendera - notebookcheck.se
 
 ## World News
 
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
+- Två fina priser till NTM i årets INMA Global Awards - ntm.se
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- WALOVI's International Cans Make Global Debut, Ushering in a New Era of Eastern Natural Plant Beverages - swedbank-aktiellt.se
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- WALOVI's International Cans Make Global Debut, Ushering in a New Era of Eastern Natural Plant Beverages - Aktiellt
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
 
 ## Technology
@@ -67,9 +67,9 @@ _Updated: 2026-10-06 05:12_
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
-- Introduktion till boken "Skräp från artificiell intelligens - en utmaning i den digitala tidsåldern" - Vietnam.vn
 - Metas tidigare AI-chef slår Europarekord – tar in 9 miljarder - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Introduktion till boken "Skräp från artificiell intelligens - en utmaning i den digitala tidsåldern" - Vietnam.vn
 
 ## Business
 
@@ -96,49 +96,49 @@ _Updated: 2026-10-06 05:12_
 
 ## Health
 
-- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - Nyhetsbrev om hälsa och livsmedelssäkerhet - European Commission
-- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - POLITICO-panel: Vad krävs för bättre schizofrenivård? - Mynewsdesk
 - En varm och kärleksfull present till barnpatienter på Huu Lung Regional Medical Center under midhöstfestivalen. - Vietnam.vn
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Private healthcare insurance in a public healthcare system - Göteborgs universitet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Vi presenterar HealthBench - openai.com
+- Vi presenterar HealthBench - OpenAI
 - SANTE - Ett lyft för patienterna och ekonomin - European Commission
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Magisterprogram i arbetsliv och hälsa - Umeå universitet
 
 ## Science
 
+- Vårddata för forskning – hinder och möjligheter - Läkartidningen
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- AI för vetenskaplig forskning och upptäckter - openai.com
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskningen ska vara fri - European Commission
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Andrea del Valle - Karolinska Institutet
-- Simple math behind major bison blunder - Forskning & Framsteg
-- Olika slutsatser från samma data - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
+- Simple math behind major bison blunder - Forskning & Framsteg
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
