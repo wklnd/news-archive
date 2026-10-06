@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-06 19:21_
+_Updated: 2026-10-06 23:48_
 
 ## Top Stories
 
-- Efter bussolyckan på väg 25 – så tänker örebroarna om bälte i bussen - SVT Nyheter
-- Ryska vinteranfallet har börjat – slår med ökad brutalitet - Dagens Nyheter
+- Polis sköt beväpnad man vid Kungliga slottet - Aftonbladet
+- En dog i olycka med buss - 8 Sidor
+- Direkt – Kriget i Ukraina – Stor oljedepå i Moskvaregionen ska ha attackerats - Dagens Nyheter
+- Folkmassor marscherar i Paris – protester mot brist i franska skolor - SVT Nyheter
+- DN Direkt – Dödsdömda Christa Pike vaken efter avrättningsförsöket - Dagens Nyheter
+- Krock på E20 – fem till sjukhus - Göteborgs-Posten
 - Tomas Ramberg: Centern rör sig – ett myrsteg i taget - Dagens Nyheter
-- De är överens om utvisningar - 8 Sidor
-- Andersson: Ingen har suddat ut någon röd linje - Aftonbladet
-- Misstänkta pesten i Ryssland: WHO manar till lugn - Göteborgs-Posten
-- Sålde ”otrohetssoffa” – döms för grovt förtal - Dagens Nyheter
-- Infästningar brast på Strömsundsbron – ingick inte i renovering - SVT Nyheter
-- BLT erfar: Nytt styre klart i Karlskrona – Senaste nytt om valet i Blekinge 2026​ - SVT Nyheter
+- Skola i Strängnäs håller stängt efter hot - Ekuriren
+- Svenskt luftvärn till Natos östra flank - Försvarsmakten
+- Andersson: Ingen har suddat ut någon röd linje - Västerbottens-Kuriren
 - Man gripen i Storbritannien misstänkt för terrorbrott - SVT Nyheter
-- Marianne Björklund: Jättelik valskandal kan bli ny käftsmäll för Modi - Dagens Nyheter
-- Uppgift: Tidigare spionchef gripen för spionage - Västerbottens-Kuriren
-- Prorysk expresident hävdar seger i Bosnien - Göteborgs-Posten
-- Johan Torgeby avgår som VD för SEB – Jonas Ahlström blir tf VD - Sak & Liv
+- Garry Kasparov: Om Trump var Putins agent, vad skulle han göra annorlunda? - Dagens Nyheter
+- Skolan öppnar i tält – efter tre år utan normal undervisning - Dagens Nyheter
+- Grekland pressar britterna om Parthenon-skulpturer - Hufvudstadsbladet – HBL
+- SEB:s vd Johan Torgeby går på dagen - Svenska Dagbladet
+- USA-börsen stiger mot nya höjder – drivet av AI och kärnkraft - Börskollen
 - Bilköparna håller igen – men begagnade elbilar går starkt - nyteknik
-- Analys: Extrema vinster väntar USA:s teknikjättar - Omni – Alla nyheter. Alla perspektiv.
-- Open AI:s AI-agenter pekas ut efter Wikipedia-störning - Computer Sweden
+- LO hotar med strejk om tjänstepensionen - Affärsvärlden
 - Nobelpriset i fysik till mannen som gjorde Sydpolens is till ett teleskop - Yle
 - Dyrare att stanna på Windows 10 – då vinner Windows 11 mark - Computer Sweden
-- Därför tvingar SVT användare att logga in - Dagens Media
 
 ## World News
 
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Bildextra: NHL Global series med Icelandair - travelnews-se
+- WALOVI's International Cans Make Global Debut, Ushering in a New Era of Eastern Natural Plant Beverages - Aktiellt
+- Öppet virtuellt möte för Global utbildningspakt - Vatican News
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
 
 ## Technology
@@ -96,26 +96,26 @@ _Updated: 2026-10-06 19:21_
 
 ## Health
 
+- FDA godkänner AIRS Medicals AI-MRI-verktyg för kroppssammansättningsanalys - Unite.AI
+- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - Nyhetsbrev om hälsa och livsmedelssäkerhet - European Commission
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - POLITICO-panel: Vad krävs för bättre schizofrenivård? - Mynewsdesk
 - En varm och kärleksfull present till barnpatienter på Huu Lung Regional Medical Center under midhöstfestivalen. - Vietnam.vn
 - Digital obesitasvårdgivare brast i journalhantering – tillståndet dras tillbaka - Dagens Medicin
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Magisterprogram i arbetsliv och hälsa - Umeå universitet
 - Vi presenterar HealthBench - OpenAI
 - SANTE - Ett lyft för patienterna och ekonomin - European Commission
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
-- En halv miljon till innovation - minskar risken för trycksår - NewsMachine AB
+- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 
 ## Science
 
@@ -124,7 +124,6 @@ _Updated: 2026-10-06 19:21_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Forskningen ska vara fri - European Commission
 - Sherry Nakhaeizadeh - Uppsala universitet
@@ -134,6 +133,7 @@ _Updated: 2026-10-06 19:21_
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Curiepodden: Han skriver poesi om vetenskap - Tidningen Curie
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
@@ -142,7 +142,6 @@ _Updated: 2026-10-06 19:21_
 
 ## Jordbruk
 
-- Hoa Dien inför ett insektsövervakningssystem på risfälten. - Vietnam.vn
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Jordbrukspolitik - Naturvårdsverket
 - Framtidens jordbruk - European Commission
@@ -161,4 +160,5 @@ _Updated: 2026-10-06 19:21_
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Kan agroekologi mätta världen? - SLU
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
