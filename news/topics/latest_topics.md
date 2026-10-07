@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-07 03:43_
+_Updated: 2026-10-07 11:05_
 
 ## Top Stories
 
-- Dödsdömda Christa Pike vaken efter misslyckad avrättning - Dagens Nyheter
-- Polis sköt beväpnad man vid Kungliga slottet - Aftonbladet
-- Frankrike: 16-åriga Mélisande skolkar i protest - Göteborgs-Posten
-- En dog i olycka med buss - 8 Sidor
-- Fem personer till sjukhus efter trafikolycka på E20 - SVT Nyheter
-- Skola i Strängnäs håller stängt – efter hot - Ekuriren
-- Tomas Ramberg: Centern rör sig – ett myrsteg i taget - Dagens Nyheter
-- Älgen ökar – på väg bort från rödlistan - Västerbottens-Kuriren
-- Svenskt luftvärn till Natos östra flank - Försvarsmakten
-- Andersson: Ingen har suddat ut någon röd linje - Västerbottens-Kuriren
-- Man gripen i Storbritannien misstänkt för terrorbrott - SVT Nyheter
-- Emma Bouvin: Det här vet vi nu om vad som hände på flygplanet - Dagens Nyheter
-- Grekland pressar britterna om Parthenon-skulpturer - Hufvudstadsbladet – HBL
-- Huthirörelsen: Attackerat flygplats – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Efter Zelenskyjs varning – flera dödade i Kiev - Corren
+- Tre år sedan Hamas terrorattack den 7 oktober - SVT Nyheter
+- DN Direkt – USA begär information om misstänkt pest i Ryssland - Dagens Nyheter
+- SD:s Arin Karapet hörde skotten: ”Vällde in piketbilar” - Omni – Alla nyheter. Alla perspektiv.
+- Här undersöks bussen efter dödsolyckan utanför Växjö: ”Man kan se mycket” - SVT Nyheter
+- Grovt brott i Hyllie – en frihetsberövad - Göteborgs-Posten
+- BESKEDET: Så många älgar får skjutas i ditt område - Corren
+- 6 oktober 20.00, Försvunnen person, Malung-Sälen - polisen.se
+- Ann-Sofie Hermansson: De tonårsutvisas av sina föräldrar - Göteborgs-Posten
+- Ett besvärligt val kan inte sätta demokratin på undantag - Arbetet
+- Åtgärd efter kvinnomord: Två dygn utan alkohol - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Dödlig israelisk attack mot Gaza på minnesdagen - Dagens Nyheter
+- Huthirebellerna: Tre attacker i Saudiarabien – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Politiskt dödläge brutet i Kosovo - Göteborgs-Posten
+- Hasse Eriksson: Inflationen stiger – det här händer nu - Dagens Nyheter
+- NCC lyfter på börsen efter miljardaffär - Omni – Alla nyheter. Alla perspektiv.
+- Prisjakt avser att notera sina stamaktier på Nasdaq First North Premier Growth Market - Aktiellt
 - SEB:s vd Johan Torgeby går på dagen - Svenska Dagbladet
-- Efter vd-bytet: Stegra gör om organisationen i Boden - Metal Supply
-- USA-börsen stiger mot nya höjder – drivet av AI och kärnkraft - Börskollen
-- Saab motströms på grön börs - Placera.se
-- Francis Halzen får Nobelpriset i fysik 2026 - TV4 Nyheterna
-- Därför tvingar SVT användare att logga in - Dagens Media
+- Nobelpriset i fysik 2026: Gåtfulla partiklar från universum fångas på Sydpolen - Medicinsk Access
+- Källor: Apple tar hjälp av LG för nya smarta hem-produkter - BN - Börsvärlden
 
 ## World News
 
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
-- WALOVI's International Cans Make Global Debut, Ushering in a New Era of Eastern Natural Plant Beverages - Aktiellt
 - Öppet virtuellt möte för Global utbildningspakt - Vatican News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
@@ -51,7 +51,6 @@ _Updated: 2026-10-07 03:43_
 ## Technology
 
 - Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
-- Vietnam-Japan Digital Technology Forum 2026: Lösning av "utmaningarna" i AI-eran - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Data Centre Expo Sweden - Mynewsdesk
@@ -64,6 +63,7 @@ _Updated: 2026-10-07 03:43_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
+- AI in Music Studies - Kungl. Musikaliska Akademien
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
@@ -89,32 +89,32 @@ _Updated: 2026-10-07 03:43_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 
 ## Health
 
 - FDA godkänner AIRS Medicals AI-MRI-verktyg för kroppssammansättningsanalys - Unite.AI
-- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - Nyhetsbrev om hälsa och livsmedelssäkerhet - European Commission
+- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - POLITICO-panel: Vad krävs för bättre schizofrenivård? - Mynewsdesk
 - En varm och kärleksfull present till barnpatienter på Huu Lung Regional Medical Center under midhöstfestivalen. - Vietnam.vn
-- Digital obesitasvårdgivare brast i journalhantering – tillståndet dras tillbaka - Dagens Medicin
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
+- Digital obesitasvårdgivare brast i journalhantering – tillståndet dras tillbaka - Dagens Medicin
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - SANTE - Ett lyft för patienterna och ekonomin - European Commission
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 
 ## Science
@@ -130,10 +130,10 @@ _Updated: 2026-10-07 03:43_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Andrea del Valle - Karolinska Institutet
+- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Curiepodden: Han skriver poesi om vetenskap - Tidningen Curie
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
