@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-06 23:48_
+_Updated: 2026-10-07 03:43_
 
 ## Top Stories
 
+- Dödsdömda Christa Pike vaken efter misslyckad avrättning - Dagens Nyheter
 - Polis sköt beväpnad man vid Kungliga slottet - Aftonbladet
+- Frankrike: 16-åriga Mélisande skolkar i protest - Göteborgs-Posten
 - En dog i olycka med buss - 8 Sidor
-- Direkt – Kriget i Ukraina – Stor oljedepå i Moskvaregionen ska ha attackerats - Dagens Nyheter
-- Folkmassor marscherar i Paris – protester mot brist i franska skolor - SVT Nyheter
-- DN Direkt – Dödsdömda Christa Pike vaken efter avrättningsförsöket - Dagens Nyheter
-- Krock på E20 – fem till sjukhus - Göteborgs-Posten
+- Fem personer till sjukhus efter trafikolycka på E20 - SVT Nyheter
+- Skola i Strängnäs håller stängt – efter hot - Ekuriren
 - Tomas Ramberg: Centern rör sig – ett myrsteg i taget - Dagens Nyheter
-- Skola i Strängnäs håller stängt efter hot - Ekuriren
+- Älgen ökar – på väg bort från rödlistan - Västerbottens-Kuriren
 - Svenskt luftvärn till Natos östra flank - Försvarsmakten
 - Andersson: Ingen har suddat ut någon röd linje - Västerbottens-Kuriren
 - Man gripen i Storbritannien misstänkt för terrorbrott - SVT Nyheter
-- Garry Kasparov: Om Trump var Putins agent, vad skulle han göra annorlunda? - Dagens Nyheter
-- Skolan öppnar i tält – efter tre år utan normal undervisning - Dagens Nyheter
+- Emma Bouvin: Det här vet vi nu om vad som hände på flygplanet - Dagens Nyheter
 - Grekland pressar britterna om Parthenon-skulpturer - Hufvudstadsbladet – HBL
+- Huthirörelsen: Attackerat flygplats – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - SEB:s vd Johan Torgeby går på dagen - Svenska Dagbladet
+- Efter vd-bytet: Stegra gör om organisationen i Boden - Metal Supply
 - USA-börsen stiger mot nya höjder – drivet av AI och kärnkraft - Börskollen
-- Bilköparna håller igen – men begagnade elbilar går starkt - nyteknik
-- LO hotar med strejk om tjänstepensionen - Affärsvärlden
-- Nobelpriset i fysik till mannen som gjorde Sydpolens is till ett teleskop - Yle
-- Dyrare att stanna på Windows 10 – då vinner Windows 11 mark - Computer Sweden
+- Saab motströms på grön börs - Placera.se
+- Francis Halzen får Nobelpriset i fysik 2026 - TV4 Nyheterna
+- Därför tvingar SVT användare att logga in - Dagens Media
 
 ## World News
 
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
 - WALOVI's International Cans Make Global Debut, Ushering in a New Era of Eastern Natural Plant Beverages - Aktiellt
 - Öppet virtuellt möte för Global utbildningspakt - Vatican News
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
@@ -100,22 +100,22 @@ _Updated: 2026-10-06 23:48_
 - NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - Nyhetsbrev om hälsa och livsmedelssäkerhet - European Commission
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - POLITICO-panel: Vad krävs för bättre schizofrenivård? - Mynewsdesk
 - En varm och kärleksfull present till barnpatienter på Huu Lung Regional Medical Center under midhöstfestivalen. - Vietnam.vn
 - Digital obesitasvårdgivare brast i journalhantering – tillståndet dras tillbaka - Dagens Medicin
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - SANTE - Ett lyft för patienterna och ekonomin - European Commission
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 
 ## Science
 
