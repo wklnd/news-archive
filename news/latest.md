@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-07 03:48_
+_Updated: 2026-10-07 11:15_
 
 - US death row inmate Christa Pike awake and speaking after failed execution, lawyers say - BBC
-- Californians blast Trump remark that Iran could 'take out' Los Angeles, San Diego - Reuters
-- Trump says he plans to speak with Putin about possible pneumonic plague case in Russia - NBC News
-- France's police fire tear gas and water cannons as school protests sweep the country - NPR
-- Ex-C.I.A. Officer Who Stashed Gold Bars Admits to Far Larger $145 Million Scam - The New York Times
-- Arcadia surrogacy scandal: Guojun Xuan and Sylvia Zhang pleads not guilty to child abuse charges - ABC7 Los Angeles
-- Sally Yates, former acting AG who clashed with Trump, leading Cornell assault probe - NBC News
-- Trump Does Not Plan to Reimburse Taxpayers for Promotional Ads - The New York Times
-- Crypto megadonors play it safe in the House - Politico
-- White House, DOJ pushed FBI to investigate protesters, violating rights: Whistleblower - The Hill
-- Ukraine's Zelenskiy says intelligence shows Russia is preparing massive attack - Reuters
-- U.K. Security Adviser Traveled to Israel Ahead of Consulate Closure - The New York Times
-- Bulgaria's leader says drone attack hits 2 commercial vessels, and Ukraine's president blames Russia - AP News
+- Collins and Jackson Clash in First Debate of Crucial Maine Senate Race - The New York Times
+- Drone strike sinks ship in NATO waters as Zelenskyy warns of looming ‘massive strike’ - Fox News
+- Former CIA official accused of stealing $40M in gold bars pleads guilty - NPR
+- Georgia governor candidates spar over the economy and Trump in lone debate - NBC News
+- Israel marks three years since Hamas-led 7 October 2023 attacks - BBC
+- Jimmy Kimmel Shames Trump for Suggesting Iran Could Bomb California - The New York Times
+- Obama-era DOJ official to lead review of Cornell response to rape allegations - The Washington Post
+- California couple arrested on child abuse charges in horrifying surrogacy probe - AP News
+- From million-dollar mansions to surveillance missions, the life and travels of an alleged Chinese agent - CBS News
+- Houthis attack Aden airport as fighting intensifies in Yemen - Reuters
+- Trump blames mass protests in France on ‘out of control mass migration’ and Islam - Politico
+- FlyDubai Attacker Was Part of Pilot Hiring Spree at Fast-Growing Airline - WSJ
 - Live Updates: Iran-backed Houthis deny losing ground in Yemen as oil prices ease despite fierce fighting - CBS News
-- Dow Jones Futures: S&P 500 Hits High As Astera, GE Vernova, Arista Lead Buys, But These Stocks Tumble - Investor's Business Daily
-- From 'woke' ridicule to real car - new electric Jaguar unveiled - BBC
-- McDonald’s sued over AI tool that recommends prices to US franchisees - AP News
-- David Ellison backs CNN’s Trump lawsuit, pledges editorial independence - CNN
-- Amazon Prime Big Deal Days Offers Major Discounts on AirPods, iPads, and Much More - MacRumors
-- Xbox has secured exclusive GTA 6 streaming rights - The Verge
+- Stock futures little changed after S&P 500 hits fresh record: Live updates - CNBC
+- Jaguar Unveils £130,000 Electric Car in British Brand’s Reboot - Bloomberg.com
+- Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva - CNBC
+- Constellation Energy's sweeping nuclear deal sparks rally in power sector stocks (CEG:NASDAQ) - Seeking Alpha
+- Xbox has secured GTA 6 streaming rights - The Verge
+- Claude launches Google Docs, Sheets, and Slides integration with sidebar and more - 9to5Google
