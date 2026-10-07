@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-06 23:53_
+_Updated: 2026-10-07 03:48_
 
-- US death row inmate Christa Pike conscious after failed execution, lawyers say - BBC
-- School protests sweeping France cause 'heaviest toll in decades' - Reuters
-- Trump suggests letting Iran ‘take out’ Los Angeles and San Diego at campaign rally - Los Angeles Times
-- Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group - CNBC
-- Ex-US spy found with $40m in gold bars pleads guilty to wire fraud - BBC
-- Russia says no plague found in contacts of Siberian lab worker who died - NBC News
-- Tropical Depression Nine forms, expected to strengthen into Isaias - WDSU
-- Cornell faculty senate introduces no-confidence resolution over handling of alleged 2024 sexual assault - NBC News
-- Whistleblower suit alleges Trump ordered FBI investigation on LA anti-ICE protesters - The Guardian
-- US arrest announced in connection with Canada’s Tumbler Ridge school shooting - CNN
-- EU Commission throws down the gauntlet on reforming the bloc - Euronews.com
+- US death row inmate Christa Pike awake and speaking after failed execution, lawyers say - BBC
+- Californians blast Trump remark that Iran could 'take out' Los Angeles, San Diego - Reuters
+- Trump says he plans to speak with Putin about possible pneumonic plague case in Russia - NBC News
+- France's police fire tear gas and water cannons as school protests sweep the country - NPR
+- Ex-C.I.A. Officer Who Stashed Gold Bars Admits to Far Larger $145 Million Scam - The New York Times
+- Arcadia surrogacy scandal: Guojun Xuan and Sylvia Zhang pleads not guilty to child abuse charges - ABC7 Los Angeles
+- Sally Yates, former acting AG who clashed with Trump, leading Cornell assault probe - NBC News
+- Trump Does Not Plan to Reimburse Taxpayers for Promotional Ads - The New York Times
+- Crypto megadonors play it safe in the House - Politico
+- White House, DOJ pushed FBI to investigate protesters, violating rights: Whistleblower - The Hill
 - Ukraine's Zelenskiy says intelligence shows Russia is preparing massive attack - Reuters
-- Kenya Records Ebola Case for First Time - The New York Times
-- Russia’s neighbor backs push to lift ban on nuclear weapons, prompting outcry from Moscow - CNBC
-- S&P 500, Nasdaq reach record closing highs as focus pivots to earnings - Reuters
-- CNN now has a new owner. What will the future of the network be under Skydance? - AP News
-- Google, Constellation Energy Strike Deal for Nuclear Power - Bloomberg.com
+- U.K. Security Adviser Traveled to Israel Ahead of Consulate Closure - The New York Times
+- Bulgaria's leader says drone attack hits 2 commercial vessels, and Ukraine's president blames Russia - AP News
+- Live Updates: Iran-backed Houthis deny losing ground in Yemen as oil prices ease despite fierce fighting - CBS News
+- Dow Jones Futures: S&P 500 Hits High As Astera, GE Vernova, Arista Lead Buys, But These Stocks Tumble - Investor's Business Daily
+- From 'woke' ridicule to real car - new electric Jaguar unveiled - BBC
 - McDonald’s sued over AI tool that recommends prices to US franchisees - AP News
+- David Ellison backs CNN’s Trump lawsuit, pledges editorial independence - CNN
 - Amazon Prime Big Deal Days Offers Major Discounts on AirPods, iPads, and Much More - MacRumors
-- Apple’s Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped With LG - Bloomberg.com
+- Xbox has secured exclusive GTA 6 streaming rights - The Verge
