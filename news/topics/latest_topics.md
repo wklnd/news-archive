@@ -1,55 +1,56 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-07 11:05_
+_Updated: 2026-10-07 18:48_
 
 ## Top Stories
 
-- Efter Zelenskyjs varning – flera dödade i Kiev - Corren
-- Tre år sedan Hamas terrorattack den 7 oktober - SVT Nyheter
-- DN Direkt – USA begär information om misstänkt pest i Ryssland - Dagens Nyheter
-- SD:s Arin Karapet hörde skotten: ”Vällde in piketbilar” - Omni – Alla nyheter. Alla perspektiv.
-- Här undersöks bussen efter dödsolyckan utanför Växjö: ”Man kan se mycket” - SVT Nyheter
-- Grovt brott i Hyllie – en frihetsberövad - Göteborgs-Posten
-- BESKEDET: Så många älgar får skjutas i ditt område - Corren
-- 6 oktober 20.00, Försvunnen person, Malung-Sälen - polisen.se
-- Ann-Sofie Hermansson: De tonårsutvisas av sina föräldrar - Göteborgs-Posten
-- Ett besvärligt val kan inte sätta demokratin på undantag - Arbetet
-- Åtgärd efter kvinnomord: Två dygn utan alkohol - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Dödlig israelisk attack mot Gaza på minnesdagen - Dagens Nyheter
-- Huthirebellerna: Tre attacker i Saudiarabien – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Politiskt dödläge brutet i Kosovo - Göteborgs-Posten
-- Hasse Eriksson: Inflationen stiger – det här händer nu - Dagens Nyheter
-- NCC lyfter på börsen efter miljardaffär - Omni – Alla nyheter. Alla perspektiv.
-- Prisjakt avser att notera sina stamaktier på Nasdaq First North Premier Growth Market - Aktiellt
-- SEB:s vd Johan Torgeby går på dagen - Svenska Dagbladet
+- 31-årig dansk man döms till fängelse för misshandeln av Christian Zedig - SVT Nyheter
+- Kvinna knivhuggen vid matbutik i Malmö - TV4 Nyheterna
+- DN Direkt – Över 700 poliser skadade i franska skolprotester - Dagens Nyheter
+- Putin fyller år – firar med stor attack mot Ukraina - Göteborgs-Posten
+- Vindelns kommun backar helt från klädpolicy – var inte laglig - SVT Nyheter
+- Busschauffören dömd för flera trafikbrott - Aftonbladet
+- De tilldelas Nobelpriset i kemi 2026 - Göteborgs-Posten
+- Sex får dödade i vargattack utanför Värnamo - SVT Nyheter
+- Migrationsverket pausar inte tonårsutvisningarna igen - Dagens Nyheter
+- Värmländska fisknät ska skydda mot drönare - Västerbotten | Folkbladet
+- Jemen: Huthierna har attackerat flygplats - Västerbottens-Kuriren
+- EU uppges rusta för dödlig hybridattack: ”Måste vara beredda” - Omni – Alla nyheter. Alla perspektiv.
+- Palestinsk olivplockare sköts ihjäl på Västbanken - Hufvudstadsbladet – HBL
+- Förslag: Nya EU-länders rösträtt ska lättare kunna frysas - Europaportalen
+- ”Frankrike är på väg mot statsbankrutt” - Svenska Dagbladet
+- Efter Torgebys exit – så har Wallenbergsfären tagit hand om tidigare toppchefer - Affärsvärlden
+- Erik Magnusson Så blev dyr diesel en glödhet potatis i Vita huset, EU-länderna och riksdagen - Sydsvenskan
+- Affärsvärlden höjer sitt råd för NCC till köp efter verksamhetsförsäjlning - Placera.se
 - Nobelpriset i fysik 2026: Gåtfulla partiklar från universum fångas på Sydpolen - Medicinsk Access
-- Källor: Apple tar hjälp av LG för nya smarta hem-produkter - BN - Börsvärlden
+- LG påstås ha inlett ett smarta hem-samarbete med Apple - Expressen
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- EIA höjer oljeprisprognoser – sänker global efterfrågan - Börsvärlden
 - Öppet virtuellt möte för Global utbildningspakt - Vatican News
 - Bildextra: NHL Global series med Icelandair - travelnews-se
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
 
 ## Technology
 
+- Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
 - Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
@@ -57,16 +58,15 @@ _Updated: 2026-10-07 11:05_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - AI in Music Studies - Kungl. Musikaliska Akademien
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Introduktion till boken "Skräp från artificiell intelligens - en utmaning i den digitala tidsåldern" - Vietnam.vn
 - Metas tidigare AI-chef slår Europarekord – tar in 9 miljarder - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
@@ -105,40 +105,40 @@ _Updated: 2026-10-07 11:05_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
 - Digital obesitasvårdgivare brast i journalhantering – tillståndet dras tillbaka - Dagens Medicin
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Vi presenterar HealthBench - OpenAI
-- SANTE - Ett lyft för patienterna och ekonomin - European Commission
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Magisterprogram i arbetsliv och hälsa - Umeå universitet
 
 ## Science
 
 - Vårddata för forskning – hinder och möjligheter - Läkartidningen
-- Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Forskningen ska vara fri - European Commission
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Andrea del Valle - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Simple math behind major bison blunder - Forskning & Framsteg
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
