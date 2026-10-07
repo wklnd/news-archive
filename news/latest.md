@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-07 11:15_
+_Updated: 2026-10-08 00:15_
 
-- US death row inmate Christa Pike awake and speaking after failed execution, lawyers say - BBC
-- Collins and Jackson Clash in First Debate of Crucial Maine Senate Race - The New York Times
-- Drone strike sinks ship in NATO waters as Zelenskyy warns of looming ‘massive strike’ - Fox News
-- Former CIA official accused of stealing $40M in gold bars pleads guilty - NPR
-- Georgia governor candidates spar over the economy and Trump in lone debate - NBC News
-- Israel marks three years since Hamas-led 7 October 2023 attacks - BBC
-- Jimmy Kimmel Shames Trump for Suggesting Iran Could Bomb California - The New York Times
-- Obama-era DOJ official to lead review of Cornell response to rape allegations - The Washington Post
-- California couple arrested on child abuse charges in horrifying surrogacy probe - AP News
-- From million-dollar mansions to surveillance missions, the life and travels of an alleged Chinese agent - CBS News
-- Houthis attack Aden airport as fighting intensifies in Yemen - Reuters
-- Trump blames mass protests in France on ‘out of control mass migration’ and Islam - Politico
-- FlyDubai Attacker Was Part of Pilot Hiring Spree at Fast-Growing Airline - WSJ
-- Live Updates: Iran-backed Houthis deny losing ground in Yemen as oil prices ease despite fierce fighting - CBS News
-- Stock futures little changed after S&P 500 hits fresh record: Live updates - CNBC
-- Jaguar Unveils £130,000 Electric Car in British Brand’s Reboot - Bloomberg.com
-- Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva - CNBC
-- Constellation Energy's sweeping nuclear deal sparks rally in power sector stocks (CEG:NASDAQ) - Seeking Alpha
-- Xbox has secured GTA 6 streaming rights - The Verge
-- Claude launches Google Docs, Sheets, and Slides integration with sidebar and more - 9to5Google
+- Christa Pike’s attorneys believed she was brain-dead before she woke up ‘to the shock of everyone’ - CNN
+- Why Trump just loosened the rules on 'dyed diesel' — normally a farm fuel - NPR
+- Western civilisation is 'at an inflection point' Rubio says in speech overloooking Acropolis - BBC
+- Cornell students hold sit-in over alleged 2024 fraternity assault - NBC News
+- Three years after Oct. 7, Israeli strikes in Gaza grind on and deaths climb - The Washington Post
+- Trump’s Retreat: From the Gulf to Britain, American Forces Pull Back - The New York Times
+- Paxton admits Trump’s Iran war and US gas prices are plaguing Republicans in leaked audio - The Guardian
+- Trump’s SCOTUS succession dilemma: His favorite justices are also the court’s oldest - Politico
+- Students at Lincoln University, an HBCU, Sue Missouri for $549 Million, Citing Funding Disparities - The New York Times
+- Trump wants to turn his West Palm Beach golf club into the new Camp David - The Washington Post
+- The School Near Paris That Shows Why French Students Are Protesting - The New York Times
+- Saudi Arabia says Houthi attacks on airports killed three foreign nationals - Al Jazeera
+- EXCLUSIVE: Saudi Arabia launches air safety probe into flydubai incident, sources say - Reuters
+- Merz’s conservatives in new crisis over alleged support for AfD - Financial Times
+- Fed Minutes Signal Further Rate Increase This Year, but No Urgency for October Hike - WSJ
+- Wall Street ends lower, off record highs, as Treasury yields climb - Reuters
+- McDonald’s sued for allegedly using AI tool to determine pricing for franchises - The Guardian
+- ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media - The Verge
+- Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11 - TechCrunch
+- Ring’s first smart lock can be charged by turning a dial when the battery unexpectedly dies - The Verge
