@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-08 00:15_
+_Updated: 2026-10-08 11:27_
 
-- Christa Pike’s attorneys believed she was brain-dead before she woke up ‘to the shock of everyone’ - CNN
-- Why Trump just loosened the rules on 'dyed diesel' — normally a farm fuel - NPR
-- Western civilisation is 'at an inflection point' Rubio says in speech overloooking Acropolis - BBC
-- Cornell students hold sit-in over alleged 2024 fraternity assault - NBC News
-- Three years after Oct. 7, Israeli strikes in Gaza grind on and deaths climb - The Washington Post
-- Trump’s Retreat: From the Gulf to Britain, American Forces Pull Back - The New York Times
-- Paxton admits Trump’s Iran war and US gas prices are plaguing Republicans in leaked audio - The Guardian
-- Trump’s SCOTUS succession dilemma: His favorite justices are also the court’s oldest - Politico
-- Students at Lincoln University, an HBCU, Sue Missouri for $549 Million, Citing Funding Disparities - The New York Times
-- Trump wants to turn his West Palm Beach golf club into the new Camp David - The Washington Post
-- The School Near Paris That Shows Why French Students Are Protesting - The New York Times
-- Saudi Arabia says Houthi attacks on airports killed three foreign nationals - Al Jazeera
-- EXCLUSIVE: Saudi Arabia launches air safety probe into flydubai incident, sources say - Reuters
-- Merz’s conservatives in new crisis over alleged support for AfD - Financial Times
-- Fed Minutes Signal Further Rate Increase This Year, but No Urgency for October Hike - WSJ
-- Wall Street ends lower, off record highs, as Treasury yields climb - Reuters
-- McDonald’s sued for allegedly using AI tool to determine pricing for franchises - The Guardian
-- ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media - The Verge
+- Gov. DeSantis declares state of emergency for 25 Florida counties due to Hurricane Isaias - WESH
+- Live Updates: Christa Pike’s Lawyers Say She Is Angry and Confused After Failed Execution - The New York Times
+- Trump says ‘we protect our cities’ after saying Iran could ‘take out’ Los Angeles or San Diego - NBC News
+- Mamdani criticized by fellow Democrats for statement mourning Oct. 7 attacks while condemning Israel - CBS News
+- Kimberly Guilfoyle’s Demand for Cash Off the Books Exposed - The Daily Beast
+- Maricarmen, the 87-year-old woman whose eviction shook Spain, has died in hospital - AP News
+- USS Lincoln nearly home after more than 300 days at sea - NBC News
+- Trump interrupted by protesters as he fights to rally Texas voters behind Paxton in US Senate race - The Seattle Times
+- Democratic National Committee sues to stop taxpayer-funded Trump ads - The Washington Post
+- Trump backs away from top aides who reportedly advised pro-Russia government - The Guardian
+- For France’s Resurgent Far Left, Student Protests Are an Opening and a Threat - The New York Times
+- Explosions heard in Saudi capital Riyadh after Houthis' deadly attacks on airports - France 24
+- British diplomats to remain at scaled-down mission in Jerusalem - Reuters
+- Tories united behind Badenoch - but party still needs to win over voters - BBC
+- Samsung profit surges ninefold to $80bn on AI chip demand - Financial Times
+- Oil rises as Middle East supply concerns persist amid shipping attacks - Reuters
+- Fed Minutes Show Officials Saw More Work to Do to Quell Inflation - The New York Times
+- Stock futures move lower after S&P 500 retreats from record: Live updates - CNBC
 - Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11 - TechCrunch
-- Ring’s first smart lock can be charged by turning a dial when the battery unexpectedly dies - The Verge
+- Red Magic 12 Pro+ full design revealed ahead of October 15 launch - Gizmochina
