@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-08 18:48_
+_Updated: 2026-10-09 00:18_
 
 ## Top Stories
 
-- Alla norska tåg står stilla – problem hos Telenor - SVT Nyheter
-- Polisen: Misstänkte mördaren och kvinnan var bekanta - Aftonbladet
-- Kraftigt regn i väst – vägar översvämmade - Västerbottens-Kuriren
-- DN Direkt – Besvärligt väglag med blötsnö – lastbil i diket i Orsa - Dagens Nyheter
-- Nya svaret om olyckan - Expressen
-- Rödgröna topparna inför första mötet: ”Bra strategi” – Senaste nytt om valet 2026 - SVT Nyheter
+- Kommunalrådet Thérese Mancinis kritik mot Trafikverket: ”Samma varenda gång” - Bohusläningen
+- DN Direkt – Olja, räntor och AI-aktier sänkte Wall Street - Dagens Nyheter
+- Överlevde avrättningen – Pike nu ”uppe och går” - Västerbottens-Kuriren
+- Roland fast i snökaoset - ”Borde lyssnat på min fru” - TV4 Nyheterna
+- Busch och Thand Ringqvist i hemligt möte – Senaste nytt om valet 2026 - SVT Nyheter
+- Polisinsats i Malmö – uppgifter om skottlossning mot bostad - SVT Nyheter
 - Thand Ringqvist och Busch i hemligt bastumöte - Göteborgs-Posten
-- Blocköverskridande samtal i Region Stockholm - SVT Nyheter
-- DN Direkt – Man döms till vård för bränder på Stora Essingen - Dagens Nyheter
-- 8 oktober 18.12, Bedrägeri, Linköping - polisen.se
-- Ukraina: Minst 30 döda i rysk attack mot Kramatorsk - SVT Nyheter
-- Ukraina skickar delegation till USA - Dagens Nyheter
-- Putin fyller år – firar med stor attack mot Ukraina - Göteborgs-Posten
-- Uppgifter: Ryskt datacenter i brand efter attack - Västerbottens-Kuriren
-- SER STARKA SKÄL HÖJA RÄNTAN I NÄRTID - Placera.se
-- Ilska efter Klarnas drag: ”Skrattretande” - Svenska Dagbladet
-- SkandiaMäklarna om Svensk Mäklarstatistik september 2026: Världsläget påverkar bostadsaffären – men inte ännu priserna - svenskbyggtidning -
-- Kunderna vallfärdar efter Lidls regelkupp - Svenska Dagbladet
+- Peter Hellman: SL borde be William Sundman Sääf om ursäkt - Dagens Nyheter
+- Man i 60-årsåldern död efter arbetsplatsolycka i Boliden - SVT Nyheter
+- Norska S löste ny regering på valnatten - Dagens Nyheter
+- Truppförflyttningar och fler spioner – så möter väst ryska skuggkriget - Dagens Nyheter
+- Trump: Iransamtal pågår – inga attacker före val - Hufvudstadsbladet – HBL
+- Direkt – Kriget i Ukraina – Witkoff och Kushner ska träffa ukrainsk representation - Dagens Nyheter
+- Robotsplitter träffar förskola i Riyad - Göteborgs-Posten
+- Arla säger upp leverantörer av ekomjölk - Corren
+- Expert: Så genomskådar du mäklarens knep - Svenska Dagbladet
+- DN Direkt – Börsen backade – högre oljepris och räntor - Dagens Nyheter
+- Olja, räntor och AI-aktier sänkte Wall Street - Västerbotten | Folkbladet
 - Microsoft lanserar Surface Laptop Ultra och Hybrid Intelligence - Computer Sweden
-- AI-utvecklare släpper Adobe-kopior i öppen källkod - Computer Sweden
+- Nobelpriset i fysik till mannen som gjorde Sydpolens is till ett teleskop - Yle
 
 ## World News
 
 - AstraZeneca opens new global strategic R&D centre in Kendall Square, Cambridge, Massachusetts - Cision News
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Två fina priser till NTM i årets INMA Global Awards - ntm.se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Öppet virtuellt möte för Global utbildningspakt - Vatican News
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
+- Öppet virtuellt möte för Global utbildningspakt - Vatican News
+- Källor: Tiger Global kan göra miljardvinst på tidig investering i OpenAI - BN - Börsvärlden
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
+- Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -59,8 +59,8 @@ _Updated: 2026-10-08 18:48_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
+- AI Can Make Society Richer—If Politics Doesn’t Get in the Way - ekonomistas.se
 - Den aktiva AI-ETF:en på jakt efter nästa Nvidia - Morningstar
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - Sveriges lantbruksuniversitet (SLU)
@@ -73,19 +73,19 @@ _Updated: 2026-10-08 18:48_
 
 ## Business
 
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Social ekonomi, sociala företag, övergångsarbetsmarknaden och sysselsättning av partiellt arbetsföra – erfarenheter och exempel från de nordiska länderna den 9 december 2021 - Valtiovarainministeriö
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Bitcoin Cash (BCH), Unus Sed Leo (LEO), OKB (OKB), Polygon (POL), Algorand (ALGO), Filecoin (FIL), Arbitrum (ARB), and Stacks (STX) - Placera.se
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
-- Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
+- Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -108,41 +108,42 @@ _Updated: 2026-10-08 18:48_
 - Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Magisterprogram i arbetsliv och hälsa - Umeå universitet
 - Vi presenterar HealthBench - OpenAI
-- SANTE - Ett lyft för patienterna och ekonomin - European Commission
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Starten på det yrkeslivslånga lärandet som läkare - Läkartidningen
 - Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 
 ## Science
 
+- Vårddata för forskning – hinder och möjligheter - Läkartidningen
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskningen ska vara fri - European Commission
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Andrea del Valle - Karolinska Institutet
-- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Olika slutsatser från samma data - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Simple math behind major bison blunder - Forskning & Framsteg
+- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 
 ## Jordbruk
 
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
+- Att forma den digitala framtiden: Utveckla en dataplattform för jordbruk, lantbrukare och landsbygdsområden - Vietnam.vn
 - Jordbrukspolitik - Naturvårdsverket
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
@@ -152,7 +153,6 @@ _Updated: 2026-10-08 18:48_
 - Lantbrukslogik – nu och i framtiden - SLU
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
