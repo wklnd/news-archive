@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-08 00:11_
+_Updated: 2026-10-08 04:32_
 
 ## Top Stories
 
-- Sörjer kvinnan efter knivattacken: ”Var familj för oss” - Aftonbladet
-- DN Direkt – Propalestinsk demonstration intill 7 oktober-manifestation - Dagens Nyheter
-- Busschaffören tidigare dömd för grovt rattfylleri - TV4 Nyheterna
-- Advokaten: ”Christa Pike troddes vara hjärndöd” - Göteborgs-Posten
-- Vräkningen slutade med nyval i Spanien – nu är Maricarmen död - SVT Nyheter
-- Gul varning för snö i Härjedalen: ”Risk för slask” - Sveriges Radio
-- Nyheter från dagen: 7 oktober - SVT Nyheter
-- Värmländska fisknät ska skydda mot drönare - Västerbottens-Kuriren
-- Bilbrand på E6 vid Slöinge – väg avstängd - SVT Nyheter
-- 3-åring hittades gråtandes på balkong i Luleå – mamman åtalas - SVT Nyheter
-- Drottning Sonja kan bli utan apanage - Göteborgs-Posten
 - Putin fyller år – firar med stor attack mot Ukraina - Göteborgs-Posten
-- Bröder misstänks ha drivit sajt med stulna nakenbilder - Dagens Nyheter
-- ”Inte igen” – mord väcker protester mot amerikanska baser - Dagens Nyheter
-- EU förbereder importtak på kinesiska bilar - Sydsvenskan
-- Rasar efter Ikeas drag i hemstaden - Expressen
+- Vräkningen slutade med nyval i Spanien – nu är Maricarmen död - SVT Nyheter
+- Busschaffören tidigare dömd för grovt rattfylleri - TV4 Nyheterna
+- Sörjer kvinnan efter knivattacken: ”Var familj för oss” - Aftonbladet
+- Mordförsök utreds i Sundbyberg - Svenska Dagbladet
+- Varnar om Trumps hot: ”Vi sitter med huvudet i giljotinen” - Expressen
+- Försökte sälja unik vikingaskatt – två döms - Västerbottens-Kuriren
+- Bilbrand på E6 vid Slöinge – väg avstängd - SVT Nyheter
+- Migrationsverket pausar inte tonårsutvisningarna igen - Dagens Nyheter
+- Ökade satsningar på skolan – och minskad politisk organisation – Senaste nytt om valet i Blekinge 2026 - SVT Nyheter
+- Drottning Sonja kan bli utan apanage - Göteborgs-Posten
+- DN Direkt – Ida Gabrielsson (V) möter Martin Ådahl i Aktuellt - Dagens Nyheter
+- Henrik Brandão Jönsson: Mannen som dömde Bolsonaro kan kosta Lula presidentposten - Dagens Nyheter
+- Jemen: Huthierna har attackerat flygplats - Västerbottens-Kuriren
 - ”Frankrike är på väg mot statsbankrutt” - Svenska Dagbladet
-- EU-länder vill undvika ytterligare uttag ur oljereserver jämfört tidigare åtaganden - BN - Börsvärlden
+- Rasar efter Ikeas drag i hemorten - Expressen
+- Erik Magnusson Så blev dyr diesel en glödhet potatis i Vita huset, EU-länderna och riksdagen - Sydsvenskan
+- Sura amerikanska börser trots räntedämpning - Dagens Industri
 - Nobelpriset i fysik 2026: Gåtfulla partiklar från universum fångas på Sydpolen - Medicinsk Access
 - LG påstås ha inlett ett smarta hem-samarbete med Apple - Expressen
 
@@ -38,8 +38,8 @@ _Updated: 2026-10-08 00:11_
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Iranian foreign minister says negotiations with U.S. may be off the table - PBS
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -55,21 +55,21 @@ _Updated: 2026-10-08 00:11_
 - Vietnam-Japan Digital Technology Forum 2026: Lösning av "utmaningarna" i AI-eran - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Data Centre Expo Sweden - Mynewsdesk
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Data Centre Expo Sweden - Mynewsdesk
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
+- AI in Music Studies - Kungl. Musikaliska Akademien
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Metas tidigare AI-chef slår Europarekord – tar in 9 miljarder - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Introduktion till boken "Skräp från artificiell intelligens - en utmaning i den digitala tidsåldern" - Vietnam.vn
 
 ## Business
 
@@ -109,13 +109,13 @@ _Updated: 2026-10-08 00:11_
 - Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Magisterprogram i arbetsliv och hälsa - Umeå universitet
 - Vi presenterar HealthBench - OpenAI
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 
 ## Science
 
@@ -126,39 +126,39 @@ _Updated: 2026-10-08 00:11_
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Forskningen ska vara fri - European Commission
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Sherry Nakhaeizadeh - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Andrea del Valle - Karolinska Institutet
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Simple math behind major bison blunder - Forskning & Framsteg
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Simple math behind major bison blunder - Forskning & Framsteg
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Jordbrukspolitik - Naturvårdsverket
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Sveriges förändrade lantbruk - SLU
-- Jordbrukspolitik - Naturvårdsverket
+- Lantbrukslogik – nu och i framtiden - SLU
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
-- Lantbrukslogik – nu och i framtiden - SLU
-- Visning av uppkomst efter direktsådd - Land.se
 - Jord, kor och klimat - SLU
+- Visning av uppkomst efter direktsådd - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Kan agroekologi mätta världen? - SLU
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
