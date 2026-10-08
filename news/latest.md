@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-08 11:27_
+_Updated: 2026-10-08 18:56_
 
-- Gov. DeSantis declares state of emergency for 25 Florida counties due to Hurricane Isaias - WESH
-- Live Updates: Christa Pike’s Lawyers Say She Is Angry and Confused After Failed Execution - The New York Times
-- Trump says ‘we protect our cities’ after saying Iran could ‘take out’ Los Angeles or San Diego - NBC News
-- Mamdani criticized by fellow Democrats for statement mourning Oct. 7 attacks while condemning Israel - CBS News
-- Kimberly Guilfoyle’s Demand for Cash Off the Books Exposed - The Daily Beast
-- Maricarmen, the 87-year-old woman whose eviction shook Spain, has died in hospital - AP News
-- USS Lincoln nearly home after more than 300 days at sea - NBC News
-- Trump interrupted by protesters as he fights to rally Texas voters behind Paxton in US Senate race - The Seattle Times
-- Democratic National Committee sues to stop taxpayer-funded Trump ads - The Washington Post
-- Trump backs away from top aides who reportedly advised pro-Russia government - The Guardian
-- For France’s Resurgent Far Left, Student Protests Are an Opening and a Threat - The New York Times
-- Explosions heard in Saudi capital Riyadh after Houthis' deadly attacks on airports - France 24
-- British diplomats to remain at scaled-down mission in Jerusalem - Reuters
-- Tories united behind Badenoch - but party still needs to win over voters - BBC
-- Samsung profit surges ninefold to $80bn on AI chip demand - Financial Times
-- Oil rises as Middle East supply concerns persist amid shipping attacks - Reuters
-- Fed Minutes Show Officials Saw More Work to Do to Quell Inflation - The New York Times
-- Stock futures move lower after S&P 500 retreats from record: Live updates - CNBC
-- Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11 - TechCrunch
-- Red Magic 12 Pro+ full design revealed ahead of October 15 launch - Gizmochina
+- Hurricane Isaias forecast to bring dangerous storm surge, with millions under warnings in US - The Guardian
+- Texts Show Kimberly Guilfoyle Seeking $100,000 and Offering Access to Trump Officials - WSJ
+- Protesters ejected from raucous Trump rally in Texas - CBS News
+- A year into Trump’s peace plan, Netanyahu stands in the way of rebuilding - The Washington Post
+- Democrats spy a red-state opening. There may not be enough cash for it. - Politico
+- Long-Deployed Aircraft Carrier U.S.S. Abraham Lincoln Set for Homecoming - The New York Times
+- Venezuela's Maduro, wife Flores tortured opponents to stay in power, US prosecutors say - Reuters
+- Cornell gang-rape accuser was 'misled' about criminal investigation, her lawyer says - PBS
+- Christa Pike now walking after US execution went wrong, lawyer says - BBC
+- Congressional candidate says she was raped while repairing campaign signs - The Hill
+- Canadian author Anne Carson wins literature Nobel for 'bold and inventive' works that blend genres - AP News
+- Search warrants against former prince Andrew were unlawful, court finds - The Washington Post
+- Gruesome injuries throw spotlight on France’s policing of high school protests - NBC News
+- Italy approves elections overhaul as opposition accuse Meloni of 'scam' law - BBC
+- Vance suspends Microsoft, others from foreign workers applying for green cards, accuses company of visa 'abuse - Fox Business
+- S&P 500 slides as traders monitor Treasury yields; oil gains 3%: Live updates - CNBC
+- Highest Mortgage Rates in 3 Years Chills the Housing Market - The New York Times
+- PepsiCo Trims Outlook as North American Unit Underperforms - WSJ
+- Amazon’s new Alexa Tablets are an iPad-inspired reboot, complete with the Play Store - 9to5Google
+- Apple Product Launch Announced for October 13: 'Welcome Home' - MacRumors
