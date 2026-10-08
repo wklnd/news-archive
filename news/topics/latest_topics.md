@@ -1,58 +1,57 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-08 04:32_
+_Updated: 2026-10-08 11:20_
 
 ## Top Stories
 
+- Gula varningar för snö och regn – rådet till bilister - Dagens Nyheter
+- Erik var en av de första på plats vid bussolyckan: ”Jag sprang över motorvägen” - SVT Nyheter
+- Kraftiga översvämningar i Bohuslän - Göteborgs-Posten
+- Ett besvärligt val kan inte sätta demokratin på undantag - Arbetet
+- Nya Huthi-attacker mot Saudiarabien – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Man med kniv dödade kvinna - 8 Sidor
+- DN Direkt – Man knivhuggen i Sundbyberg – livshotande skador - Dagens Nyheter
+- 8 oktober 07.00, Sammanfattning natt, Örebro län - polisen.se
+- ”Jag behövde må så psykiskt dåligt innan jag fick hjälp” - Dagens Nyheter
+- Här är Region Uppsalas nya styre - UNT
 - Putin fyller år – firar med stor attack mot Ukraina - Göteborgs-Posten
-- Vräkningen slutade med nyval i Spanien – nu är Maricarmen död - SVT Nyheter
-- Busschaffören tidigare dömd för grovt rattfylleri - TV4 Nyheterna
-- Sörjer kvinnan efter knivattacken: ”Var familj för oss” - Aftonbladet
-- Mordförsök utreds i Sundbyberg - Svenska Dagbladet
-- Varnar om Trumps hot: ”Vi sitter med huvudet i giljotinen” - Expressen
-- Försökte sälja unik vikingaskatt – två döms - Västerbottens-Kuriren
-- Bilbrand på E6 vid Slöinge – väg avstängd - SVT Nyheter
-- Migrationsverket pausar inte tonårsutvisningarna igen - Dagens Nyheter
-- Ökade satsningar på skolan – och minskad politisk organisation – Senaste nytt om valet i Blekinge 2026 - SVT Nyheter
-- Drottning Sonja kan bli utan apanage - Göteborgs-Posten
-- DN Direkt – Ida Gabrielsson (V) möter Martin Ådahl i Aktuellt - Dagens Nyheter
-- Henrik Brandão Jönsson: Mannen som dömde Bolsonaro kan kosta Lula presidentposten - Dagens Nyheter
-- Jemen: Huthierna har attackerat flygplats - Västerbottens-Kuriren
-- ”Frankrike är på väg mot statsbankrutt” - Svenska Dagbladet
-- Rasar efter Ikeas drag i hemorten - Expressen
-- Erik Magnusson Så blev dyr diesel en glödhet potatis i Vita huset, EU-länderna och riksdagen - Sydsvenskan
-- Sura amerikanska börser trots räntedämpning - Dagens Industri
+- DN Direkt – Kvinna död efter skolattack i Polen - Dagens Nyheter
+- Danmark: Ryskt sabotage mot danska företag - Corren
+- Många dödade i rysk attack mot buss - Corren
+- SkandiaMäklarna om Svensk Mäklarstatistik september 2026: Världsläget påverkar bostadsaffären – men inte ännu priserna - svenskbyggtidning -
+- FÖRETAGSOBLIGATIONER GÅR OM STATEN SOM ATTRAKTIV PLACERING - BN - Placera.se
+- Ikea varslar i Älmhult – flyttar distribution och öppnar nya butiker - Ehandel.se
+- Torbjörn Petersson: EU kommer till Kina för att tala allvar innan det är för sent - Dagens Nyheter
+- Microsoft lanserar ny Surface-laptop med chip från Nvidia - Placera.se
 - Nobelpriset i fysik 2026: Gåtfulla partiklar från universum fångas på Sydpolen - Medicinsk Access
-- LG påstås ha inlett ett smarta hem-samarbete med Apple - Expressen
 
 ## World News
 
 - AstraZeneca opens new global strategic R&D centre in Kendall Square, Cambridge, Massachusetts - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
-- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Öppet virtuellt möte för Global utbildningspakt - Vatican News
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
 - Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
 - Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
-- Vietnam-Japan Digital Technology Forum 2026: Lösning av "utmaningarna" i AI-eran - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Data Centre Expo Sweden - Mynewsdesk
@@ -65,6 +64,7 @@ _Updated: 2026-10-08 04:32_
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - AI in Music Studies - Kungl. Musikaliska Akademien
+- Touareg Group Expands Global Presence with Establishment of U.S. Technology Subsidiary (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
@@ -75,15 +75,16 @@ _Updated: 2026-10-08 04:32_
 
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
 - 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Valour Launches Eight New ETPs on Spotlight Stock Market, Including Bitcoin Cash (BCH), Unus Sed Leo (LEO), OKB (OKB), Polygon (POL), Algorand (ALGO), Filecoin (FIL), Arbitrum (ARB), and Stacks (STX) - Placera.se
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Vilken framtid arbetar du för? - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2026-10-08 04:32_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 
 ## Health
 
@@ -102,7 +102,6 @@ _Updated: 2026-10-08 04:32_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - POLITICO-panel: Vad krävs för bättre schizofrenivård? - Mynewsdesk
 - En varm och kärleksfull present till barnpatienter på Huu Lung Regional Medical Center under midhöstfestivalen. - Vietnam.vn
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -116,6 +115,7 @@ _Updated: 2026-10-08 04:32_
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Magisterprogram i arbetsliv och hälsa - Umeå universitet
 
 ## Science
 
@@ -123,13 +123,13 @@ _Updated: 2026-10-08 04:32_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Forskningen ska vara fri - European Commission
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Andrea del Valle - Karolinska Institutet
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
@@ -137,8 +137,8 @@ _Updated: 2026-10-08 04:32_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Simple math behind major bison blunder - Forskning & Framsteg
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
