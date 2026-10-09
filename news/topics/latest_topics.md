@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-09 00:18_
+_Updated: 2026-10-09 04:43_
 
 ## Top Stories
 
-- Kommunalrådet Thérese Mancinis kritik mot Trafikverket: ”Samma varenda gång” - Bohusläningen
-- DN Direkt – Olja, räntor och AI-aktier sänkte Wall Street - Dagens Nyheter
-- Överlevde avrättningen – Pike nu ”uppe och går” - Västerbottens-Kuriren
-- Roland fast i snökaoset - ”Borde lyssnat på min fru” - TV4 Nyheterna
-- Busch och Thand Ringqvist i hemligt möte – Senaste nytt om valet 2026 - SVT Nyheter
-- Polisinsats i Malmö – uppgifter om skottlossning mot bostad - SVT Nyheter
+- Olycksbussen gick snabbt från vänster till höger - Omni – Alla nyheter. Alla perspektiv.
+- Översvämningar och trafikproblem när regn och blötsnö drar fram - Dagens Nyheter
+- Uppgifter: Avrättning i USA ska direktsändas - SVT Nyheter
+- Johan Nilsson: Vad är lungpest – och ska vi oroa oss? - Dagens Nyheter
+- Polisinsats på Videdal efter skottlossning - Sydsvenskan
+- Polisinsats på internatskolan Sigtuna utanför Stockholm - Göteborgs-Posten
 - Thand Ringqvist och Busch i hemligt bastumöte - Göteborgs-Posten
+- HANS STIGSSON: Därför har Andersson så svårt att bilda regering - NT
 - Peter Hellman: SL borde be William Sundman Sääf om ursäkt - Dagens Nyheter
-- Man i 60-årsåldern död efter arbetsplatsolycka i Boliden - SVT Nyheter
-- Norska S löste ny regering på valnatten - Dagens Nyheter
+- S förhandlar med KD och L i Region Stockholm - Göteborgs-Posten
+- Metoderna som kan bli aktuella om Pike avrättas - Dagens Nyheter
+- Explosioner på flera håll i Ukraina - Västerbottens-Kuriren
 - Truppförflyttningar och fler spioner – så möter väst ryska skuggkriget - Dagens Nyheter
 - Trump: Iransamtal pågår – inga attacker före val - Hufvudstadsbladet – HBL
-- Direkt – Kriget i Ukraina – Witkoff och Kushner ska träffa ukrainsk representation - Dagens Nyheter
-- Robotsplitter träffar förskola i Riyad - Göteborgs-Posten
 - Arla säger upp leverantörer av ekomjölk - Corren
-- Expert: Så genomskådar du mäklarens knep - Svenska Dagbladet
+- Swishproblem hos Danske Bank löst - Västerbottens-Kuriren
 - DN Direkt – Börsen backade – högre oljepris och räntor - Dagens Nyheter
 - Olja, räntor och AI-aktier sänkte Wall Street - Västerbotten | Folkbladet
-- Microsoft lanserar Surface Laptop Ultra och Hybrid Intelligence - Computer Sweden
-- Nobelpriset i fysik till mannen som gjorde Sydpolens is till ett teleskop - Yle
+- Microsoft lanserar ny Surface-laptop med chip från Nvidia - Börsvärlden
+- Apple visar nya smarta hem-produkter i New York nästa vecka - Macworld.se
 
 ## World News
 
 - AstraZeneca opens new global strategic R&D centre in Kendall Square, Cambridge, Massachusetts - Cision News
+- Oddsator.com launches global odds comparison platform - Mynewsdesk
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Öppet virtuellt möte för Global utbildningspakt - Vatican News
 - Källor: Tiger Global kan göra miljardvinst på tidig investering i OpenAI - BN - Börsvärlden
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
 
 ## Technology
 
@@ -63,7 +63,7 @@ _Updated: 2026-10-09 00:18_
 - Den aktiva AI-ETF:en på jakt efter nästa Nvidia - Morningstar
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - Sveriges lantbruksuniversitet (SLU)
+- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - AI in Music Studies - Kungl. Musikaliska Akademien
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
@@ -110,35 +110,35 @@ _Updated: 2026-10-09 00:18_
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Magisterprogram i arbetsliv och hälsa - Umeå universitet
 - Vi presenterar HealthBench - OpenAI
+- En halv miljon till innovation - minskar risken för trycksår - NewsMachine AB
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
-- Starten på det yrkeslivslånga lärandet som läkare - Läkartidningen
-- Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
+- Elekta-konkurrent köps upp i storaffär - Dagens industri
 
 ## Science
 
-- Vårddata för forskning – hinder och möjligheter - Läkartidningen
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskningen ska vara fri - European Commission
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Andrea del Valle - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
