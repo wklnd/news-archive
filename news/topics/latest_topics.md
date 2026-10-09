@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-09 18:27_
+_Updated: 2026-10-09 23:07_
 
 ## Top Stories
 
-- Dadgostar: S-ledaren behöver bjuda in - Västerbottens-Kuriren
-- Man i 50-årsåldern häktas misstänkt för knivmord i Malmö - SVT Nyheter
+- Trump och Putin har nått avtal – Zelenskyj rasar - Göteborgs-Posten
+- 50-årig man häktas för knivmordet i Malmö - Omni – Alla nyheter. Alla perspektiv.
+- Hamilton Steiner: Uppenbart inget militärstrategiskt syfte med anfallen - Dagens Nyheter
 - Avrättning i USA ska livesändas – kritiseras av experter: ”Medeltida” - Göteborgs-Posten
-- Johan Zedig: Min Christian ska inte ha dött förgäves - SVT Nyheter
-- Gaslarmet på SSAB i Luleå – stoppar allt arbete på området - SVT Nyheter
-- Fredspriset till Pillay – slog fast folkmord i Gaza - Corren
+- DN Direkt – Mohamed Ali (V) tar plats i riksdagen på måndag - Dagens Nyheter
+- C-ledaren: Inte pratat om regeringsförhandlingar - Göteborgs-Posten
+- Sprängde dansk kiosk – döms till fängelse - Västerbottens-Kuriren
 - Grovt sexuellt övergrepp utreds efter polisinsats på internatet i Sigtuna - SVT Nyheter
-- Klippet sprids – musikerna avvisas innan de börjat spela - SVT Nyheter
-- Sprängde dansk kiosk – döms till fängelse - Göteborgs-Posten
-- Smugglade knark – i sin sport-bh - Västerbottens-Kuriren
-- Schröders firande av Putin i Moskva väcker tysk ilska - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Iran: Har beskjutit tankfartyg vid Hormuz - Dagens Nyheter
+- Färjetrafiken i Strömsund dröjer – viktiga tillstånd saknas - SVT Nyheter
+- De jagar skogens nya guld – men håller affären? - ATL
+- Iran: Har beskjutit tankfartyg vid Hormuz - Västerbottens-Kuriren
+- Tre saudier dödade i torsdagens attacker - Västerbottens-Kuriren
 - DN Direkt – 11.00: Nobels fredspristagare 2026 tillkännages - Dagens Nyheter
-- Explosioner på flera håll i Ukraina – flera döda - Corren
-- Franska revolutionen – nya avsnitt varje vecka - Affärsvärlden
-- Hundarna som kan vara värda 370 000 kronor - Dagens Nyheter
-- Börsen studsar tillbaka – rekord lyfter Lundin Gold - Omni – Alla nyheter. Alla perspektiv.
-- New York-börsen inleder med en lätt uppgång, S&P 500-index ökar 0,2 procent - Placera.se
-- Robyn får en radiostation i nya GTA - SVT Nyheter
+- Utredning: ”Planerade självmordsattack” - Västerbottens-Kuriren
+- Nobelpristagaren slår larm: ”En allvarlig kris” - EFN
+- EU och Kina ”överens” om hybridbilar - Aktuell Hållbarhet
+- Tusentals svenskar har problem med hantverkare – så undviker du att bli en av dem - Dagens Nyheter
+- Trendbrottet: Nu säljs bostäderna snabbare - Expressen
 - Låt galenpannorna förändra världen | Madina Refoi | SvD Ledare - Svenska Dagbladet
+- Ny ”GTA 6”-läcka med naken Jason: ”Har inget att skämmas för” - Aftonbladet
 
 ## World News
 
 - FN: Global tillväxt bromsar in till 2,6 procent 2026 (Finwire News) - Aktiellt
 - AstraZeneca opens new global strategic R&D centre in Kendall Square, Cambridge, Massachusetts - Cision News
 - Oddsator.com launches global odds comparison platform - Mynewsdesk
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Öppet virtuellt möte för Global utbildningspakt - Vatican News
 - Källor: Tiger Global kan göra miljardvinst på tidig investering i OpenAI - BN - Börsvärlden
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
+- Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
@@ -64,7 +64,7 @@ _Updated: 2026-10-09 18:27_
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - AI in Music Studies - Kungl. Musikaliska Akademien
-- Touareg Group Expands Global Presence with Establishment of U.S. Technology Subsidiary (PR Newswire) - Aktiellt
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
@@ -92,7 +92,7 @@ _Updated: 2026-10-09 18:27_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -100,22 +100,22 @@ _Updated: 2026-10-09 18:27_
 - NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - FDA godkänner AIRS Medicals AI-MRI-verktyg för kroppssammansättningsanalys - Unite.AI
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - POLITICO-panel: Vad krävs för bättre schizofrenivård? - Mynewsdesk
+- En varm och kärleksfull present till barnpatienter på Huu Lung Regional Medical Center under midhöstfestivalen. - Vietnam.vn
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
+- Nationellt klimatinitiativ inom hälso- och sjukvård och life science - Mynewsdesk
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - SANTE - Ett lyft för patienterna och ekonomin - European Commission
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Starten på det yrkeslivslånga lärandet som läkare - Läkartidningen
 
 ## Science
 
@@ -127,22 +127,22 @@ _Updated: 2026-10-09 18:27_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskningen ska vara fri - European Commission
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Andrea del Valle - Karolinska Institutet
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- Olika slutsatser från samma data - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
+- Vetenskap, skratt och naturupplevelser – när postdoktorer möts i Kronlund - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Att forma den digitala framtiden: Utveckla en dataplattform för jordbruk, lantbrukare och landsbygdsområden - Vietnam.vn
 - Jordbrukspolitik - Naturvårdsverket
 - Framtidens jordbruk - European Commission
@@ -151,8 +151,8 @@ _Updated: 2026-10-09 18:27_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Lantbrukslogik – nu och i framtiden - SLU
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
