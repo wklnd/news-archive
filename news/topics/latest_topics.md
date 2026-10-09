@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-09 11:28_
+_Updated: 2026-10-09 18:27_
 
 ## Top Stories
 
-- Fredspriset till ”Navi” Pillay - Västerbottens-Kuriren
-- Elever i Sigtuna anhållna för allvarliga brott - Göteborgs-Posten
-- SMHI vindvarnar – kan nå stormstyrka - Dagens Nyheter
-- Christian Zedigs pappa: Min Christian ska inte dö förgäves - SVT Nyheter
-- Åker du buss? Här är råden som kan göra din resa säkrare - Oskarshamns-Nytt
-- USA vill direktsända avrättning av arméspsykiatriker - Dagens Nyheter
-- DN Direkt – Skott mot villa i Malmö - Dagens Nyheter
-- Vänsterpartiets resa mot makten: ”Det är nu eller aldrig” - Dagens Nyheter
-- Peter Alestig: Därför blir Sverige allt regnigare - Dagens Nyheter
-- C-ledaren om mötet med Busch: Det pratade vi om i bastun – Senaste nytt om valet 2026 - SVT Nyheter
-- Explosioner på flera håll i Ukraina - Västerbottens-Kuriren
-- Överlevde avrättningen – Pike nu ”uppe och går” - Göteborgs-Posten
-- Tre saudier dödade i torsdagens attacker - Västerbottens-Kuriren
-- Man skjuten av ICE-agent i New York - Västerbotten | Folkbladet
-- OpenAI:s intäkter lägre än tidigare rapporterat - satte press på AI-relaterade aktier - Börsvärlden
-- Vill strypa boendes makt: ”Backa bandet” - Svenska Dagbladet
-- Whisky testas i rymden – ska mogna i raketfart - Omni – Alla nyheter. Alla perspektiv.
-- Prisades av Trump – kommer till Sverige - Expressen
-- Ny ”GTA 6”-läcka med naken Jason: ”Har inget att skämmas för” - Aftonbladet
-- Källor: Svalt intresse får Apple att dra ner på Iphone 18 - Omni – Alla nyheter. Alla perspektiv.
+- Dadgostar: S-ledaren behöver bjuda in - Västerbottens-Kuriren
+- Man i 50-årsåldern häktas misstänkt för knivmord i Malmö - SVT Nyheter
+- Avrättning i USA ska livesändas – kritiseras av experter: ”Medeltida” - Göteborgs-Posten
+- Johan Zedig: Min Christian ska inte ha dött förgäves - SVT Nyheter
+- Gaslarmet på SSAB i Luleå – stoppar allt arbete på området - SVT Nyheter
+- Fredspriset till Pillay – slog fast folkmord i Gaza - Corren
+- Grovt sexuellt övergrepp utreds efter polisinsats på internatet i Sigtuna - SVT Nyheter
+- Klippet sprids – musikerna avvisas innan de börjat spela - SVT Nyheter
+- Sprängde dansk kiosk – döms till fängelse - Göteborgs-Posten
+- Smugglade knark – i sin sport-bh - Västerbottens-Kuriren
+- Schröders firande av Putin i Moskva väcker tysk ilska - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Iran: Har beskjutit tankfartyg vid Hormuz - Dagens Nyheter
+- DN Direkt – 11.00: Nobels fredspristagare 2026 tillkännages - Dagens Nyheter
+- Explosioner på flera håll i Ukraina – flera döda - Corren
+- Franska revolutionen – nya avsnitt varje vecka - Affärsvärlden
+- Hundarna som kan vara värda 370 000 kronor - Dagens Nyheter
+- Börsen studsar tillbaka – rekord lyfter Lundin Gold - Omni – Alla nyheter. Alla perspektiv.
+- New York-börsen inleder med en lätt uppgång, S&P 500-index ökar 0,2 procent - Placera.se
+- Robyn får en radiostation i nya GTA - SVT Nyheter
+- Låt galenpannorna förändra världen | Madina Refoi | SvD Ledare - Svenska Dagbladet
 
 ## World News
 
+- FN: Global tillväxt bromsar in till 2,6 procent 2026 (Finwire News) - Aktiellt
 - AstraZeneca opens new global strategic R&D centre in Kendall Square, Cambridge, Massachusetts - Cision News
 - Oddsator.com launches global odds comparison platform - Mynewsdesk
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Öppet virtuellt möte för Global utbildningspakt - Vatican News
 - Källor: Tiger Global kan göra miljardvinst på tidig investering i OpenAI - BN - Börsvärlden
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
+- Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
@@ -59,31 +59,30 @@ _Updated: 2026-10-09 11:28_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
-- AI Can Make Society Richer—If Politics Doesn’t Get in the Way - ekonomistas.se
-- Den aktiva AI-ETF:en på jakt efter nästa Nvidia - Morningstar
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
+- Bästa AI-aktierna att köpa nu - Morningstar
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - AI in Music Studies - Kungl. Musikaliska Akademien
+- Touareg Group Expands Global Presence with Establishment of U.S. Technology Subsidiary (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Bästa AI-aktierna att köpa nu - Morningstar
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 
 ## Business
 
+- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - Social ekonomi, sociala företag, övergångsarbetsmarknaden och sysselsättning av partiellt arbetsföra – erfarenheter och exempel från de nordiska länderna den 9 december 2021 - Valtiovarainministeriö
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
-- Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
@@ -93,6 +92,7 @@ _Updated: 2026-10-09 11:28_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
 
@@ -100,22 +100,22 @@ _Updated: 2026-10-09 11:28_
 - NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - FDA godkänner AIRS Medicals AI-MRI-verktyg för kroppssammansättningsanalys - Unite.AI
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - POLITICO-panel: Vad krävs för bättre schizofrenivård? - Mynewsdesk
-- En varm och kärleksfull present till barnpatienter på Huu Lung Regional Medical Center under midhöstfestivalen. - Vietnam.vn
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
+- SANTE - Ett lyft för patienterna och ekonomin - European Commission
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
-- Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
-- Starten på det yrkeslivslånga lärandet som läkare - Läkartidningen
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Magisterprogram i arbetsliv och hälsa - Umeå universitet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
