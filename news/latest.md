@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-09 18:34_
+_Updated: 2026-10-09 23:16_
 
-- Legendary coach, Hall of Fame TE Mike Ditka dies at age 86 - ESPN
-- Live updates: Hurricane Isaias threatens the Gulf Coast with dangerous landfall expected tonight - FOX Weather
-- Nobel Peace Prize Live Updates: Navi Pillay, Human Rights Lawyer, Wins - The New York Times
-- EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize - Reuters
-- Christa Pike is walking with help and eating after failed execution attempt - NPR
-- Key takeaways from US Senate debate in Michigan between El-Sayed, Rogers - Al Jazeera
-- Hegseth faces bipartisan backlash over public execution for Fort Hood shooter - Politico
-- ICE agent shoots man in New York City - BBC
-- House Republicans are bracing for catastrophe in once safe red seats - Politico
-- Hunger grips a rural community hit by Trump’s cuts - NBC News
-- Live Updates: Iran's Houthi allies kill 3 in strike on Saudi airport as Trump rules out pre-midterms strikes - CBS News
-- Merz 'outraged' that German former Chancellor Schroeder attended Putin's birthday - Reuters
-- EXCLUSIVE: Palestinians set to delay legislative elections due to worsening conditions, letter says - Reuters
-- Two men deny Iran-backed surveillance of Jewish and Israeli sites in London - BBC
+- A 7.7-magnitude earthquake rocks Panama - NBC News
+- JD Vance says he won't watch livestream execution of Fort Hood shooter - Axios
+- Hurricane Isaias live updates: Gulf Coast evacuations expand with expected Category 3 landfall - CNN
+- Trump says Russia to supply diesel to US and global market - Reuters
+- US hits International Criminal Court with sweeping sanctions as part of drive to dismantle tribunal - AP News
+- 3 killed at Saudi Arabia airport as Iran-backed Houthis claim attack - Fox News
+- NYPD body camera video shows aftermath of ICE agent shooting man in Marble Hill - CBS News
+- Kansas Senate Race Is a Surprising New Midterm Fight - The New York Times
+- Vance on Guilfoyle texts: If ‘something bad’ happened, ‘people have to suffer consequences’ - The Hill
+- Mamdani defends Oct. 7 message that angered Jewish leaders, unnerved some Democrats - The Washington Post
+- Navi Pillay, former UN human rights chief, wins Nobel Peace Prize - BBC
+- Palestinian Authority Says Elections Are to Be Postponed - The New York Times
+- Alleged Flydubai hijacker said 9/11 attacks spurred him to become a pilot, early investigation finds - CNN
+- EU and China clinch deal to curb hybrid car exports - POLITICO.eu
 - Trump Announces White House Inquiry Into Fed Governor Cook - The New York Times
-- ‘Indentured servants’: US green card move will hit thousands of IT workers - Al Jazeera
-- Wall St climbs as oil slips; SpaceX spectrum deal weighs on telecoms - Reuters
-- Stock Market Today: Nasdaq Opens Higher After Trump Vows Not to Strike Iran Before Midterms — Live Updates - WSJ
-- Apple’s new ‘second-party’ HomeKit products will have this exclusive iPhone feature - 9to5Mac
-- A week with Googlebooks: four notes from our testing so far - The Verge
+- What Microsoft’s green card suspension means for Seattle-area workers - The Seattle Times
+- Elon Musk’s growing SpaceX empire sends AT&T, Verizon and T-Mobile shares plunging - NBC News
+- Trump wants to reduce the cost of fuel as the midterms loom - will it work? - BBC
+- Apple ‘Welcome home’ event: Three new products are coming next week - 9to5Mac
+- Microsoft’s new Nvidia PCs are cool for extreme power users – but I’ll wait for AI PC 3.0 - ZDNET
