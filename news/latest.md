@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-09 11:37_
+_Updated: 2026-10-09 18:34_
 
-- October 8, 2026 — Gulf Coast evacuations underway as Hurricane Isaias strengthens - CNN
-- ICE shooting of New York man in car with five-year-old sparks protests - Al Jazeera
-- Michigan Senate debate goes off the rails: 4 takeaways - The Hill
-- Pentagon says the firing squad execution of Fort Hood shooter will be livestreamed - NPR
-- Fiery Senate Debates in Maine, Michigan and Georgia: Five Takeaways - The New York Times
-- Exclusive: House Democrats ask Kimberly Guilfoyle for records related to alleged pay-to-play scheme - PBS
-- The long-deployed USS Lincoln returns home to San Diego Bay - NPR
-- How Trump Has Alienated Republican Voters - The New York Times
-- Democratic senator says Hegseth trying to hide costs of Iran war from US public - The Guardian
-- Christa Pike is walking with help and eating after failed execution attempt, her attorneys say - AP News
-- Nobel Peace Prize awarded to former International Criminal Court judge Navanethem Pillay - CNBC
-- Mélenchon declares ‘Bastille retaken’ after major student rally in Paris - Euronews.com
-- At least 30 dead in Russian bus strike as Moscow closes in on Ukraine’s ‘fortress belt’ - The Washington Post
-- Ethiopia launches drone attack against Eritrean troops who crossed into Tigray - The Guardian
-- Stock futures edge higher after OpenAI's revenue report prompts tech sector turmoil: Live updates - CNBC
-- Scrapped IPO of Nvidia-Backed Company Points to Limits of AI Boom - WSJ
-- What smart people are saying about the US suspending PERM visas for Microsoft, Adobe, and Indian tech giants - Business Insider
-- Starbucks says it’s focused on turnaround after report it explored Chipotle merger - NBC News
-- AMD will bring FSR 4 to handhelds by the end of 2026 - The Verge
-- Amazon Alexa Tablet 12 Pro hands-on: Taking aim at the iPad Pro for less than half the price - Engadget
+- Legendary coach, Hall of Fame TE Mike Ditka dies at age 86 - ESPN
+- Live updates: Hurricane Isaias threatens the Gulf Coast with dangerous landfall expected tonight - FOX Weather
+- Nobel Peace Prize Live Updates: Navi Pillay, Human Rights Lawyer, Wins - The New York Times
+- EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize - Reuters
+- Christa Pike is walking with help and eating after failed execution attempt - NPR
+- Key takeaways from US Senate debate in Michigan between El-Sayed, Rogers - Al Jazeera
+- Hegseth faces bipartisan backlash over public execution for Fort Hood shooter - Politico
+- ICE agent shoots man in New York City - BBC
+- House Republicans are bracing for catastrophe in once safe red seats - Politico
+- Hunger grips a rural community hit by Trump’s cuts - NBC News
+- Live Updates: Iran's Houthi allies kill 3 in strike on Saudi airport as Trump rules out pre-midterms strikes - CBS News
+- Merz 'outraged' that German former Chancellor Schroeder attended Putin's birthday - Reuters
+- EXCLUSIVE: Palestinians set to delay legislative elections due to worsening conditions, letter says - Reuters
+- Two men deny Iran-backed surveillance of Jewish and Israeli sites in London - BBC
+- Trump Announces White House Inquiry Into Fed Governor Cook - The New York Times
+- ‘Indentured servants’: US green card move will hit thousands of IT workers - Al Jazeera
+- Wall St climbs as oil slips; SpaceX spectrum deal weighs on telecoms - Reuters
+- Stock Market Today: Nasdaq Opens Higher After Trump Vows Not to Strike Iran Before Midterms — Live Updates - WSJ
+- Apple’s new ‘second-party’ HomeKit products will have this exclusive iPhone feature - 9to5Mac
+- A week with Googlebooks: four notes from our testing so far - The Verge
