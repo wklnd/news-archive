@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-09 00:27_
+_Updated: 2026-10-09 11:37_
 
-- Pete Hegseth says public can watch Fort Hood shooter's execution - Axios
-- USS Abraham Lincoln returns home after historic deployment. Live updates - USA Today
-- Hurricane Isaias live updates: Gulf Coast braces for dangerous storm - CNN
-- Trump donor accuses ‘grifter’ Kimberly Guilfoyle of $100,000 quid pro quo - The Guardian
-- Arizona House candidate says she was raped while out fixing campaign signs - The Washington Post
-- For Mamdani, Oct. 7 Anniversary Sets Off Anger and Bitterness - The New York Times
-- Lawyers for accused man in Cornell case want Letitia James removed as prosecutor - The Washington Post
-- Trump says US will not attack Iran before midterm elections in November - Reuters
-- Curtis Flowers, Mississippi man wrongfully convicted after being tried for the same killings 6 times, dies at 56 - CBS News
-- DoJ seeks to charge ex-Trump aide who gave key testimony on January 6 attack - The Guardian
-- Thousands of Spaniards march to mark death of octogenarian at heart of housing protests - Reuters
+- October 8, 2026 — Gulf Coast evacuations underway as Hurricane Isaias strengthens - CNN
+- ICE shooting of New York man in car with five-year-old sparks protests - Al Jazeera
+- Michigan Senate debate goes off the rails: 4 takeaways - The Hill
+- Pentagon says the firing squad execution of Fort Hood shooter will be livestreamed - NPR
+- Fiery Senate Debates in Maine, Michigan and Georgia: Five Takeaways - The New York Times
+- Exclusive: House Democrats ask Kimberly Guilfoyle for records related to alleged pay-to-play scheme - PBS
+- The long-deployed USS Lincoln returns home to San Diego Bay - NPR
+- How Trump Has Alienated Republican Voters - The New York Times
+- Democratic senator says Hegseth trying to hide costs of Iran war from US public - The Guardian
+- Christa Pike is walking with help and eating after failed execution attempt, her attorneys say - AP News
+- Nobel Peace Prize awarded to former International Criminal Court judge Navanethem Pillay - CNBC
+- Mélenchon declares ‘Bastille retaken’ after major student rally in Paris - Euronews.com
 - At least 30 dead in Russian bus strike as Moscow closes in on Ukraine’s ‘fortress belt’ - The Washington Post
-- Students Rally in France for Second Day of Mass Protests in a Week: Live Updates - The New York Times
-- 'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls - BBC
-- Trump administration freezes green cards for Microsoft, IT firms, probes universities - Reuters
-- Tech stocks drop after report that OpenAI’s revenue is lower than expected - CNN
-- Why a Starbucks takeover of Chipotle would — and wouldn't — make sense for both companies - CNBC
-- Highest Mortgage Rates in 3 Years Chills the Housing Market - The New York Times
-- Amazon is phasing out Fire Tablets because they weren’t ‘giving customers what they were asking for’ - The Verge
-- Apple Product Launch Announced for October 13: 'Welcome Home' - MacRumors
+- Ethiopia launches drone attack against Eritrean troops who crossed into Tigray - The Guardian
+- Stock futures edge higher after OpenAI's revenue report prompts tech sector turmoil: Live updates - CNBC
+- Scrapped IPO of Nvidia-Backed Company Points to Limits of AI Boom - WSJ
+- What smart people are saying about the US suspending PERM visas for Microsoft, Adobe, and Indian tech giants - Business Insider
+- Starbucks says it’s focused on turnaround after report it explored Chipotle merger - NBC News
+- AMD will bring FSR 4 to handhelds by the end of 2026 - The Verge
+- Amazon Alexa Tablet 12 Pro hands-on: Taking aim at the iPad Pro for less than half the price - Engadget
