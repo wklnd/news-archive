@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-10 16:36_
+_Updated: 2026-10-10 21:26_
 
 ## Top Stories
 
-- Trumps och Putins dieselavtal – ”Ett desperat röstfiske” - Dagens Nyheter
-- Bussolyckan: Länstrafiken kräver att olycksföraren stoppas - Bussmagasinet
-- Tolv döda i rysk attack mot Zaporizjzja - Göteborgs-Posten
-- Flera gripna efter klimataktion vid Bromma flygplats - SVT Nyheter
-- Kvinna död i Hudiksvall – hittades allvarligt skadad - Omni – Alla nyheter. Alla perspektiv.
-- Sparprofilen Jan Bolmeson är död - DI
-- Skott mot villa i Huddinge – en anhållen - Västerbottens-Kuriren
+- Trump: Dags en ny president i Ukraina - Dagens Nyheter
+- Flygplats i Riyad evakueras – uppgifter om angrepp - Västerbottens-Kuriren
+- Familjen om Thanh Do, 51, efter knivdådet i Malmö - TV4 Nyheterna
+- Nytt skoldåd i Polen – flera skadade - SVT Nyheter
+- Här testar DN:s korrespondent den ukrainska arméns lögndetektor - Dagens Nyheter
+- Nio döda efter masskjutning i USA - Expressen
 - Försvararen i Sigtuna-fallet: ”En kultur och tradition som vuxit fram över tid” - SVT Nyheter
+- DN Direkt – Kvinna hitta död ute i Hudiksvall – misstänkt mord - Dagens Nyheter
+- Håkan Boström En HR-dag på Lidingö förändrar inte politikens väsen - Göteborgs-Posten
 - Ovanligt många utredningar om valfusk - Corren
-- Familjen om stödet efter knivmordet i Malmö: ”De är tacksamma” - SVT Nyheter
-- Guide: Så får du koll på mellanårsvalet i USA - Göteborgs-Posten
-- Hitler Mussolini vald till borgmästare i Peru - SVT Nyheter
-- Nytt skoldåd i Polen – flera skadade - Corren
-- Trump: Fredspriset borde ha gått till USA - Hufvudstadsbladet – HBL
-- Kinajättens stora invigning i Sverige - Expressen
-- Rebaba tar in 44 miljoner kronor – ger elbilsbatterier ett andra liv - Dagens Nyheter
-- Viktigast i veckan: EU skyddar domstol mot USA – Kina redo begränsa bilexport till EU - Europaportalen
+- Sexåring död i rysk attack: ”Hon skulle snart fylla år” - Dagens Nyheter
+- Man död efter tigerattack på brittisk djurpark - Göteborgs-Posten
+- Christa Pike har lämnat sjukhuset - Borås Tidning
+- Läget mellan Eritrea och Etiopien skärps ytterligare: ”Har förklarat krig” - Dagens Nyheter
+- Kinesiska elbilsjätten gasar i Sverige – öppnar showroom i Stockholm - Sydsvenskan
+- Aktie-Albin: ”Blir inte proffs av att läsa böcker” - Svenska Dagbladet
 - Börsen lyfte – Telia föll - Västerbottens-Kuriren
+- Wall Street steg efter AI-oron – Space X lyfte - Omni – Alla nyheter. Alla perspektiv.
 - Källor: Svalt intresse får Apple att dra ner på Iphone 18 - Omni – Alla nyheter. Alla perspektiv.
-- Fransk astronaut tillbaka på jorden efter nytt rekord - Omni – Alla nyheter. Alla perspektiv.
+- Låt galenpannorna förändra världen | Madina Refoi | SvD Ledare - Svenska Dagbladet
 
 ## World News
 
@@ -33,12 +33,12 @@ _Updated: 2026-10-10 16:36_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Öppet virtuellt möte för Global utbildningspakt - Vatican News
 - Källor: Tiger Global kan göra miljardvinst på tidig investering i OpenAI - BN - Börsvärlden
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -51,11 +51,10 @@ _Updated: 2026-10-10 16:36_
 ## Technology
 
 - Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
-- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
-- Vietnam-Japan Digital Technology Forum 2026: Lösning av "utmaningarna" i AI-eran - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Data Centre Expo Sweden - Mynewsdesk
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
@@ -64,6 +63,7 @@ _Updated: 2026-10-10 16:36_
 - Bästa AI-aktierna att köpa nu - Morningstar
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
+- Vietnam-Japan Digital Technology Forum 2026: Lösning av "utmaningarna" i AI-eran - Vietnam.vn
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
@@ -73,10 +73,10 @@ _Updated: 2026-10-10 16:36_
 
 ## Business
 
-- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
@@ -96,23 +96,23 @@ _Updated: 2026-10-10 16:36_
 
 ## Health
 
-- Nyhetsbrev om hälsa och livsmedelssäkerhet - European Commission
 - NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - FDA godkänner AIRS Medicals AI-MRI-verktyg för kroppssammansättningsanalys - Unite.AI
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Nyhetsbrev om hälsa och livsmedelssäkerhet - European Commission
 - POLITICO-panel: Vad krävs för bättre schizofrenivård? - Mynewsdesk
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
-- Nationellt klimatinitiativ inom hälso- och sjukvård och life science - Mynewsdesk
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - SANTE - Ett lyft för patienterna och ekonomin - European Commission
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
+- Nationellt klimatinitiativ inom hälso- och sjukvård och life science - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
@@ -127,16 +127,16 @@ _Updated: 2026-10-10 16:36_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningen ska vara fri - European Commission
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Andrea del Valle - Karolinska Institutet
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Curiepodden: Han skriver poesi om vetenskap - Tidningen Curie
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
