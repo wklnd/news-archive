@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-10 03:14_
+_Updated: 2026-10-10 09:44_
 
-- ‘Not as long as I’m premier’: Danielle Smith rules out 2nd separation referendum if Albertans vote to remain - CBC
-- ‘Barbaric’: US lawmakers condemn plan to livestream Nidal Hasan’s execution - Al Jazeera
-- Canadian woman who married ISIS fighter pleads guilty to terrorism charge - CTV News
-- The 8 wars Trump claims to have 'settled' in his last-minute Nobel Peace Prize pitch - National Post
-- South Africa's Navi Pillay wins 2026 Nobel Peace Prize - France 24
-- Alberta First Nation taking Ottawa to court over move to fast-track Pacific Link pipeline - The Globe and Mail
-- Outgoing Quebec Premier Christine Fréchette pushed off 'glass cliff' in election - CTV News
-- New video shows moments before woman fatally struck in Vaughan hit-and-run - CP24
-- Lorne Gunter: Premier Smith puts lid on Edmonton's infill monstrosities - Edmonton Journal
-- Sask. man among those killed in Latitude Air Ambulance jet crash - CTV News
-- European states, Canada, Japan and UN back ICC against US sanctions - Al Jazeera
-- Two powerful earthquakes and multiple aftershocks rock Panama - CTV News
-- Trump strikes diesel deal with Putin, reversing years of pressure on Russia over Ukraine war - France 24
-- After ICE shot man with kid in car, Mamdani urges halt to operations in NYC - Global News
-- Canada’s labour market stumbles again with loss of 68,000 jobs in September - The Globe and Mail
-- Poilievre unveils five-point steel plan, urges Ottawa to sue Stelco's U.S. owner - Castanet
-- Shell to buy 30% stake in proposed Bay du Nord oil project off Newfoundland - CBC
-- In the market for a new heating system? Federal government unveils $2B heat pump rebate program - CTV News
-- Shopify Upgrades Checkout Blocks to Polaris Web Components, Cutting Bundle Sizes up to 85% - infoq.com
-- This Gold-Rated JPMorgan ETF Has Beaten the S&P 500. Can It Keep Delivering? - Morningstar
+- Hurricane Isaias updates: Storm makes landfall in Florida Panhandle - ABC News - Breaking News, Latest News and Videos
+- Trump announces deal for Russian diesel as Zelensky calls it a 'gift to Putin' - BBC
+- JD Vance says he won't watch livestream execution of Fort Hood shooter - Axios
+- Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip - WSJ
+- Panama rocked by 2 powerful earthquakes and multiple aftershocks, prompting evacuations - AP News
+- 'Everyone hates the police' – what France's school protests reveal about a divided nation - BBC
+- Trump rallies New York crowd for Republican Bruce Blakeman's bid to replace Gov. Kathy Hochul - Fox News
+- After surviving a botched lethal injection, Christa Pike faces unprecedented legal battle - NBC News
+- Newport Beach declares local emergency after coastal flooding on Balboa Peninsula - CBS News
+- Donor Says Kimberly Guilfoyle Sought Money From Him to Cover Debt - The New York Times
+- 3 men found guilty of killing American and Australian brothers on surfing trip in Mexico - CBS News
+- Houthi attack on Riyadh airport killed three Saudi nationals - Al Jazeera
+- Trump hits International Criminal Court with sanctions after Nobel goes to former judge - The Washington Post
+- Trump says Nobel committee not awarding him the peace prize leaves ‘indelible stain’ on Norway - NBC News
+- Here’s how Treasury yields could rise to 6% — even without market upheaval - MarketWatch
+- UAW leader reviled by Trump declares victory in reelection - The Washington Post
+- Trump wants to reduce the cost of fuel as the midterms loom - will it work? - BBC
+- AT&T, Verizon, and T-Mobile Are Dropping on Starlink Fears. Analysts Say Buy. - Barron's
+- 5 Cool MagSafe Gadgets That Are Not Mounts, Wallets, Or Power Banks - BGR
+- Decade-old RAM is making a comeback - The Verge
