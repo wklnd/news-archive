@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-10 15:58_
+_Updated: 2026-10-10 20:50_
 
-- Hurricane Isaias updates: Isaias downgraded to post-tropical cyclone - ABC News - Breaking News, Latest News and Videos
-- 'Cockroach' group leaders among hundreds detained in Delhi protest - BBC
-- Trump announces major diesel deal with Putin, infuriating Ukraine - Axios
-- Winston Lee, Accused in Cornell Sexual Assault Case, Is Related to Former South Korean Prime Minister - The New York Times
-- JD Vance says he won't watch livestream execution of Fort Hood shooter - Axios
-- Panama rocked by 2 powerful earthquakes and multiple aftershocks, prompting evacuations - AP News
-- A Vague, Redacted Execution Protocol in Tennessee Draws Scrutiny - The New York Times
-- Could the Oregon Governor’s Race Be a Republican Hope? - The New York Times
-- Trump’s Syracuse stop showed us who we are right now: motivated and divided - Syracuse.com
-- 9 dead, including children, after mass shooting in Erie, Pennsylvania - 6abc Philadelphia
-- Trump fumes at ‘stain’ on Norway after missing out on Nobel Peace Prize - The Washington Post
-- What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’? - Al Jazeera
-- Attacks on airport in Riyadh, Saudi Arabia leave 3 dead as Iran-backed Houthis escalate conflict - Fox News
-- 3 men found guilty of killing American and Australian brothers on surfing trip in Mexico - CBS News
+- Damage assessments, cleanup begin after Hurricane Isaias thrashes Florida Panhandle - Politico
+- Nine dead in mass shooting at Pennsylvania home - BBC
+- Christa Pike out of hospital and back in prison after botched execution attempt - The Guardian
+- Several wounded in Riyadh airport attack, operations suspended, Saudi aviation authority says - Reuters
+- Pope Leo declares death penalty 'inadmissible' as his native US plans to livestream execution - AP News
+- Democrats explode over Trump’s Russia diesel deal - The Hill
+- Live updates: Hurricane Isaias downgraded; Okaloosa County assesses damage - The Northwest Florida Daily News
+- ‘Ship has sailed’: New poll shows even an end to the war or lower gas prices may not save Republicans - Politico
+- Vehicle driven by ICE agents in Texas hits and injures man, sheriff says - CBS News
+- Exasperation and Resignation in Greece Over Allegations Against Kimberly Guilfoyle - The New York Times
+- India’s ‘Cockroach’ leaders detained; New Delhi in lockdown - Al Jazeera
+- Photos: What a year of ceasefire in Gaza looks like - NPR
+- 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal - BBC
+- Palestinian Authority president postpones legislative elections another year, marking 20 years without a vote - CBS News
+- Anthropic AI model submits false homicide tip to Philadelphia police - Al Jazeera
 - From BJ’s to Lululemon, retailers are trimming assortments to boost business - CNBC
-- Here’s how Treasury yields could rise to 6% — even without market upheaval - MarketWatch
-- Fired OpenAI employees question the company's commitment to safety - NPR
-- Anthropic asks users to stop being mean to Claude - The Register
-- Amazon shuffles Alexa leadership following high-end tablet release - Reuters
-- One with the world? A new look at brains transformed by psychedelics. - Ars Technica
+- Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows - CNBC
+- Millions lose private Medicare plans and face rising costs - The Seattle Times
+- Unboxing the Lenovo Googlebook 15: A gorgeous 15-inch debut for Google’s new OS [VIDEO] - Chrome Unboxed
+- Everything We Expect From Apple’s Surprise Smart Home Event Next Week - CNET
