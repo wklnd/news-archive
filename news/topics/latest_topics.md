@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-10 09:35_
+_Updated: 2026-10-10 16:36_
 
 ## Top Stories
 
-- Flera skott avlossades mot villa i Huddinge – man gripen - Omni – Alla nyheter. Alla perspektiv.
-- Trump: Ryssland ska leverera diesel – Zelenskyj rasar - SVT Nyheter
-- Ukraina-samtal i Miami över: ”Bör utredas” - Dagens Nyheter
+- Trumps och Putins dieselavtal – ”Ett desperat röstfiske” - Dagens Nyheter
+- Bussolyckan: Länstrafiken kräver att olycksföraren stoppas - Bussmagasinet
+- Tolv döda i rysk attack mot Zaporizjzja - Göteborgs-Posten
+- Flera gripna efter klimataktion vid Bromma flygplats - SVT Nyheter
+- Kvinna död i Hudiksvall – hittades allvarligt skadad - Omni – Alla nyheter. Alla perspektiv.
+- Sparprofilen Jan Bolmeson är död - DI
+- Skott mot villa i Huddinge – en anhållen - Västerbottens-Kuriren
+- Försvararen i Sigtuna-fallet: ”En kultur och tradition som vuxit fram över tid” - SVT Nyheter
+- Ovanligt många utredningar om valfusk - Corren
+- Familjen om stödet efter knivmordet i Malmö: ”De är tacksamma” - SVT Nyheter
+- Guide: Så får du koll på mellanårsvalet i USA - Göteborgs-Posten
+- Hitler Mussolini vald till borgmästare i Peru - SVT Nyheter
+- Nytt skoldåd i Polen – flera skadade - Corren
 - Trump: Fredspriset borde ha gått till USA - Hufvudstadsbladet – HBL
-- Finlands klara signal till Sverige: Det är bråttom - Svenska Dagbladet
-- Grundaren av ”kackerlackspartiet” frihetsberövad - Göteborgs-Posten
-- C-ledaren: Inte pratat om regeringsförhandlingar - Västerbottens-Kuriren
-- Ovanligt många utredningar om valfusk - Göteborgs-Posten
-- Grovt sexuellt övergrepp utreds efter polisinsats på internatet i Sigtuna - SVT Nyheter
-- Just nu: En stillastående personbil ger stopp i ett körfält på E18 - Enköpingsposten
-- Kraftiga jordskalv i Panama – varnar för tsunami - Göteborgs-Posten
-- Trump: Inget beslut om direktsändning av avrättning - Västerbottens-Kuriren
-- Explosioner på flera håll i Ukraina - Dagens Nyheter
-- ”Vapenvilan i Gaza existerar bara på pappret” - Dagens Nyheter
-- Claude-modell skickade fejkat mordtips till polisen - Omni – Alla nyheter. Alla perspektiv.
 - Kinajättens stora invigning i Sverige - Expressen
-- Orkan drar in över Florida – första att nå USA:s kust på två år - SVT Nyheter
-- Torbjörn Hållö Svenska löntagare förtjänar några goda ekonomiska år - Göteborgs-Posten
+- Rebaba tar in 44 miljoner kronor – ger elbilsbatterier ett andra liv - Dagens Nyheter
+- Viktigast i veckan: EU skyddar domstol mot USA – Kina redo begränsa bilexport till EU - Europaportalen
+- Börsen lyfte – Telia föll - Västerbottens-Kuriren
 - Källor: Svalt intresse får Apple att dra ner på Iphone 18 - Omni – Alla nyheter. Alla perspektiv.
-- Låt galenpannorna förändra världen | Madina Refoi | SvD Ledare - Svenska Dagbladet
+- Fransk astronaut tillbaka på jorden efter nytt rekord - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
-- AstraZeneca opens new global strategic R&D centre in Kendall Square, Cambridge, Massachusetts - Cision News
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Öppet virtuellt möte för Global utbildningspakt - Vatican News
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Källor: Tiger Global kan göra miljardvinst på tidig investering i OpenAI - BN - Börsvärlden
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Finland köper eget Global Eye-plan från Saab - Omni – Alla nyheter. Alla perspektiv.
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
@@ -69,7 +69,7 @@ _Updated: 2026-10-10 09:35_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
+- IDC: Marknaden för AI-mjukvara fyrdubblas till 2027 - Computer Sweden
 
 ## Business
 
@@ -85,6 +85,7 @@ _Updated: 2026-10-10 09:35_
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -92,18 +93,17 @@ _Updated: 2026-10-10 09:35_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
 
 - Nyhetsbrev om hälsa och livsmedelssäkerhet - European Commission
 - NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
-- FDA godkänner AIRS Medicals AI-MRI-verktyg för kroppssammansättningsanalys - Unite.AI
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- FDA godkänner AIRS Medicals AI-MRI-verktyg för kroppssammansättningsanalys - Unite.AI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - POLITICO-panel: Vad krävs för bättre schizofrenivård? - Mynewsdesk
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
 - Nationellt klimatinitiativ inom hälso- och sjukvård och life science - Mynewsdesk
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
@@ -114,17 +114,17 @@ _Updated: 2026-10-10 09:35_
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskningen ska vara fri - European Commission
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
@@ -132,13 +132,13 @@ _Updated: 2026-10-10 09:35_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Andrea del Valle - Karolinska Institutet
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- Simple math behind major bison blunder - Forskning & Framsteg
+- Curiepodden: Han skriver poesi om vetenskap - Tidningen Curie
 - Olika slutsatser från samma data - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
-- Simple math behind major bison blunder - Forskning & Framsteg
-- Curiepodden: Han skriver poesi om vetenskap - Tidningen Curie
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
