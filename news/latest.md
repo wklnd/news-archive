@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-09 23:16_
+_Updated: 2026-10-10 03:14_
 
-- A 7.7-magnitude earthquake rocks Panama - NBC News
-- JD Vance says he won't watch livestream execution of Fort Hood shooter - Axios
-- Hurricane Isaias live updates: Gulf Coast evacuations expand with expected Category 3 landfall - CNN
-- Trump says Russia to supply diesel to US and global market - Reuters
-- US hits International Criminal Court with sweeping sanctions as part of drive to dismantle tribunal - AP News
-- 3 killed at Saudi Arabia airport as Iran-backed Houthis claim attack - Fox News
-- NYPD body camera video shows aftermath of ICE agent shooting man in Marble Hill - CBS News
-- Kansas Senate Race Is a Surprising New Midterm Fight - The New York Times
-- Vance on Guilfoyle texts: If ‘something bad’ happened, ‘people have to suffer consequences’ - The Hill
-- Mamdani defends Oct. 7 message that angered Jewish leaders, unnerved some Democrats - The Washington Post
-- Navi Pillay, former UN human rights chief, wins Nobel Peace Prize - BBC
-- Palestinian Authority Says Elections Are to Be Postponed - The New York Times
-- Alleged Flydubai hijacker said 9/11 attacks spurred him to become a pilot, early investigation finds - CNN
-- EU and China clinch deal to curb hybrid car exports - POLITICO.eu
-- Trump Announces White House Inquiry Into Fed Governor Cook - The New York Times
-- What Microsoft’s green card suspension means for Seattle-area workers - The Seattle Times
-- Elon Musk’s growing SpaceX empire sends AT&T, Verizon and T-Mobile shares plunging - NBC News
-- Trump wants to reduce the cost of fuel as the midterms loom - will it work? - BBC
-- Apple ‘Welcome home’ event: Three new products are coming next week - 9to5Mac
-- Microsoft’s new Nvidia PCs are cool for extreme power users – but I’ll wait for AI PC 3.0 - ZDNET
+- ‘Not as long as I’m premier’: Danielle Smith rules out 2nd separation referendum if Albertans vote to remain - CBC
+- ‘Barbaric’: US lawmakers condemn plan to livestream Nidal Hasan’s execution - Al Jazeera
+- Canadian woman who married ISIS fighter pleads guilty to terrorism charge - CTV News
+- The 8 wars Trump claims to have 'settled' in his last-minute Nobel Peace Prize pitch - National Post
+- South Africa's Navi Pillay wins 2026 Nobel Peace Prize - France 24
+- Alberta First Nation taking Ottawa to court over move to fast-track Pacific Link pipeline - The Globe and Mail
+- Outgoing Quebec Premier Christine Fréchette pushed off 'glass cliff' in election - CTV News
+- New video shows moments before woman fatally struck in Vaughan hit-and-run - CP24
+- Lorne Gunter: Premier Smith puts lid on Edmonton's infill monstrosities - Edmonton Journal
+- Sask. man among those killed in Latitude Air Ambulance jet crash - CTV News
+- European states, Canada, Japan and UN back ICC against US sanctions - Al Jazeera
+- Two powerful earthquakes and multiple aftershocks rock Panama - CTV News
+- Trump strikes diesel deal with Putin, reversing years of pressure on Russia over Ukraine war - France 24
+- After ICE shot man with kid in car, Mamdani urges halt to operations in NYC - Global News
+- Canada’s labour market stumbles again with loss of 68,000 jobs in September - The Globe and Mail
+- Poilievre unveils five-point steel plan, urges Ottawa to sue Stelco's U.S. owner - Castanet
+- Shell to buy 30% stake in proposed Bay du Nord oil project off Newfoundland - CBC
+- In the market for a new heating system? Federal government unveils $2B heat pump rebate program - CTV News
+- Shopify Upgrades Checkout Blocks to Polaris Web Components, Cutting Bundle Sizes up to 85% - infoq.com
+- This Gold-Rated JPMorgan ETF Has Beaten the S&P 500. Can It Keep Delivering? - Morningstar
