@@ -1,46 +1,46 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-11 22:29_
+_Updated: 2026-10-12 01:51_
 
 ## Top Stories
 
-- Åklagaren om det misstänkta övergreppet: Äldre elever utövar makt mot yngre - Dagens Nyheter
+- Elever häktas för grovt sexuellt ofredande - Västerbottens-Kuriren
 - Trump: Ryssland och Ukraina har nått energivapenvila - SVT Nyheter
-- Två flygplatser attackerade i Saudiarabien - Göteborgs-Posten
-- Burnham om direktsänd avrättning: ”Avskyvärt” - Göteborgs-Posten
-- Nya spårvagnar försenade – klassiska vagnen blir kvar - Göteborgs-Posten
-- Andersson (S) får mer tid av talmannen - Corren
-- Dubbla besked om V-ledamot – ”ett missförstånd" - Göteborgs-Posten
-- Stillastående personbil på E4 – påverkar trafiken - Norran
-- Misshandel, narkotika och "ovanligt många trafikolyckor" - SN, Södermanlands Nyheter
-- Två brandmän till sjukhus efter brand vid gruva i Lycksele - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Saudiarabien och Iran i samtal om upptrappningen - Dagens Nyheter
+- ”Ingen är säker för Putin nu” - Expressen
+- Delade livet med cancer – nu har Alexander, 38, gått bort - Expressen
 - Michael Winiarski: Trumps present till Putin ett hugg i ryggen på Ukraina - Dagens Nyheter
-- El Niño slår till – bönder rustar för monsterregn - Aftonbladet
+- S-ledarens möte med talmannen skjuts upp – det händer nu - Dagens Nyheter
+- Ansvaret som följer med ett nej - Dagens Arena
+- Dubbla besked om V-ledamot – ”ett missförstånd" - Göteborgs-Posten
+- Stillastående personbil på E4 – påverkade trafiken - Norran
 - Landet toppar Pisa – men är Kinas elever verkligen bäst? - Dagens Nyheter
-- Nord Stream-rättegången startar: Ex-militären tänker tiga sig igenom - Dagens Nyheter
-- Motvind för järnmalmsgruvor: ”Stort överskott på stål” - Dagens Nyheter
-- Nu drar börsens ödesperiod igång: ”Väldigt beroende” - DI
-- Enkät: Främst villaägare med god ekonomi som kör elbil - Tidningen Syre
+- El Niño slår till – bönder rustar för monsterregn - Aftonbladet
+- Burnham om direktsänd avrättning: ”Avskyvärt” - Göteborgs-Posten
+- Byar i Nepal evakueras efter översvämningar - Västerbottens-Kuriren
 - Växte upp i Gävle – prisas som Årets företagare - Gefle Dagblad
-- Först övergav han sin uppfinning, men bara några droppar av den visade sig vara starka nog att bära en bil - Illustrerad Vetenskap
+- Dubbelsmäll pressar börsen: ”Skyddsnätet kan brista” - DI
+- EU uppges införa importkvot på kinesiska hybridbilar - DI
+- Enkät: Främst villaägare med god ekonomi som kör elbil - Tidningen Syre
 - Nobelpriset i fysik till mannen som gjorde Sydpolens is till ett teleskop - Yle
+- Cyberleek kan läcka en version av GTA 6 före lanseringsdatumet, om inte kraven på en PS5-skiva uppfylls - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
@@ -60,8 +60,8 @@ _Updated: 2026-10-11 22:29_
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
-- Bästa AI-aktierna att köpa nu - Morningstar
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- AI in Music Studies - Kungl. Musikaliska Akademien
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
@@ -100,6 +100,7 @@ _Updated: 2026-10-11 22:29_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - FDA godkänner AIRS Medicals AI‑MRI‑verktyg för kroppssammansättningsanalys - Unite.AI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Nobelpriset i medicin går till ljusknappen för hjärnan - Metro Mode
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
@@ -110,15 +111,13 @@ _Updated: 2026-10-11 22:29_
 - SANTE - Ett lyft för patienterna och ekonomin - European Commission
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
+- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 
 ## Science
 
-- Internationell workshop om nätverket av excellenscentra inom bioteknikutbildning och forskning 2026: Främjande av forskning, utbildning och tekniköverföring - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
@@ -127,17 +126,18 @@ _Updated: 2026-10-11 22:29_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningen ska vara fri - European Commission
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Andrea del Valle - Karolinska Institutet
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Curiepodden: Han skriver poesi om vetenskap - Tidningen Curie
 - Simple math behind major bison blunder - Forskning & Framsteg
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
-- Curiepodden: Han skriver poesi om vetenskap - Tidningen Curie
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
@@ -150,8 +150,8 @@ _Updated: 2026-10-11 22:29_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Lantbrukslogik – nu och i framtiden - SLU
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
