@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-11 17:57_
+_Updated: 2026-10-11 22:33_
 
-- Trump claims Russia and Ukraine agree to energy ceasefire - Axios
-- World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport - Al Jazeera
-- Pope Leo to have surgery after lump found on lung - BBC
-- What to Know About Isaias, the First Atlantic Hurricane of the Season - The New York Times
-- Reshaped civil rights mission at Justice Department transforms its work, workforce - NPR
-- Abdul El-Sayed says Democrats must ‘win by massive numbers’ to fend off GOP election denial - NBC News
+- Passenger terminal at Riyadh airport is struck again, a day after 12 were killed - AP News
+- Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy - Reuters
 - Justice Department investigating major TV networks over suspending pool coverage of Trump - NBC News
-- ICE agent strikes man with vehicle during pursuit in Texas, officials say - The Guardian
-- Shooter kills 8 people and himself in Pennsylvania, police say, with Governor Shapiro offering support - DW.com
-- Western NC counties respond to impacts from Isaias’ remnants - WLOS
+- Abdul El-Sayed says Democrats must ‘win by massive numbers’ to fend off GOP election denial - NBC News
+- Amelia Earhart expedition team heads to island of huge, hunting crabs - USA Today
+- Republicans stay bullish on Texas governor’s race, but two key groups present challenges - NBC News
+- Mullin says livestreaming Hasan execution is part of ‘restoring American values’ - The Hill
+- Six senators call for Trump administration to 'immediately reverse course' on Russian diesel plan - AP News
+- Full transcript of "Face the Nation with Margaret Brennan," Oct. 11, 2026 - CBS News
+- Democrat Chris Pappas says "we're taking nothing for granted" amid "tough race" in New Hampshire - CBS News
+- Pope Leo to have surgery to remove nodule on his lung - The Guardian
+- Hurricane Simon nears Mexico with 155 mph winds and flooding fears - NPR
 - India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi - The New York Times
-- A Russian Spy’s Lone Regret: ‘I Got Caught’ - The New York Times
-- A heroic, 7-day bike ride made this teen a global star. Where is she now? - NPR
-- Hurricane Simon pounds resorts and vulnerable towns along Mexico’s Pacific coast - AP News
+- Man dies after entering tiger enclosure at England wildlife park - Al Jazeera
 - Powerball winning numbers, results for Saturday, Oct. 10, 2026: No jackpot winner - Detroit Free Press
-- World Bank in talks with dozens of countries about crisis aid, Banga says - Reuters
-- Welcome back to earnings season: What to watch this week - Yahoo Finance
-- Tech companies have an adorable plan to make you forget about AI's threat to jobs and humanity - Business Insider
-- Rumor: Apple to Announce New Partnership With ADT - MacRumors
-- Learning to use local AI is exciting, overwhelming, and frustrating - The Verge
+- The bull market is turning 4 years old — but yields could crash the party - MarketWatch
+- Social Security announcing benefits change on Oct. 14 - AL.com
+- Are markets open on Columbus/Indigenous Peoples' Day? (US10Y:) - Seeking Alpha
+- New Apple TV 4K and HomePod Mini to Ship on October 30 - MacRumors
+- Report: Apple 'HomeView' smart home hub will ship in November, come in four colors, A18 chip - 9to5Mac
