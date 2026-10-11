@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-11 22:33_
+_Updated: 2026-10-12 01:58_
 
-- Passenger terminal at Riyadh airport is struck again, a day after 12 were killed - AP News
+- Saudi Arabia's Riyadh airport hit by second Houthi strike in two days - BBC
 - Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy - Reuters
-- Justice Department investigating major TV networks over suspending pool coverage of Trump - NBC News
-- Abdul El-Sayed says Democrats must ‘win by massive numbers’ to fend off GOP election denial - NBC News
-- Amelia Earhart expedition team heads to island of huge, hunting crabs - USA Today
-- Republicans stay bullish on Texas governor’s race, but two key groups present challenges - NBC News
+- Rachel downgraded from 'tropical' storm, but strong winds, rain and flooding hit Southern California - Los Angeles Times
+- Bipartisan group of senators demands Trump kill Russian diesel deal - Politico
+- Hurricane Isaias’ devastating aftermath comes into focus in striking images - Fox News
+- Trump and Rubio weigh firing Kimberly Guilfoyle after reports of improper conduct - The Guardian
 - Mullin says livestreaming Hasan execution is part of ‘restoring American values’ - The Hill
-- Six senators call for Trump administration to 'immediately reverse course' on Russian diesel plan - AP News
-- Full transcript of "Face the Nation with Margaret Brennan," Oct. 11, 2026 - CBS News
-- Democrat Chris Pappas says "we're taking nothing for granted" amid "tough race" in New Hampshire - CBS News
-- Pope Leo to have surgery to remove nodule on his lung - The Guardian
+- The tenant activist at the center of Mamdani’s housing gamble - Politico
+- Transcript: Sen. John Barrasso on "Face the Nation with Margaret Brennan," Oct. 11, 2026 - CBS News
+- Flamingos at a Florida Zoo Rode Out Hurricane Isaias in the Bathroom - The New York Times
+- What to know about Pope Leo’s lung surgery for an early-stage nodule - NBC News
 - Hurricane Simon nears Mexico with 155 mph winds and flooding fears - NPR
-- India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi - The New York Times
-- Man dies after entering tiger enclosure at England wildlife park - Al Jazeera
-- Powerball winning numbers, results for Saturday, Oct. 10, 2026: No jackpot winner - Detroit Free Press
-- The bull market is turning 4 years old — but yields could crash the party - MarketWatch
-- Social Security announcing benefits change on Oct. 14 - AL.com
-- Are markets open on Columbus/Indigenous Peoples' Day? (US10Y:) - Seeking Alpha
-- New Apple TV 4K and HomePod Mini to Ship on October 30 - MacRumors
-- Report: Apple 'HomeView' smart home hub will ship in November, come in four colors, A18 chip - 9to5Mac
+- Man dies after entering tiger habitat at British zoo - USA Today
+- UK prime minister say it is ‘clear’ Russia interfered in 2016 Brexit referendum - AP News
+- Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion - WSJ
+- The Citroën 2CV Is Back As An Ultra-Affordable City Car - Motor1.com
+- Bond yields closely track diesel prices now, and Trump's deal with Putin may be too little too late - Fortune
+- Ohio Powerball winners hit prizes worth $50K and $100K: See the winning numbers for Oct. 11 and all the prizes hit in Ohio - WKYC
+- New Apple TV 4K, HomeView, and HomePod Mini: 16 Details Just Leaked - MacRumors
+- Google TV Streamer’s sequel showcases a struggling smart home - 9to5Google
