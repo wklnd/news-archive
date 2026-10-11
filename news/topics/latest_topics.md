@@ -1,36 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-11 00:50_
+_Updated: 2026-10-11 04:04_
 
 ## Top Stories
 
-- Kristersson: Vi beklagar Trumps diesel-uppgörelse - Västerbottens-Kuriren
 - Sexåring död i rysk attack: ”Hon skulle snart fylla år” - Dagens Nyheter
-- Michael Winiarski: Kommer Trump att återuppta bombkriget mot Iran? - Dagens Nyheter
-- Trippla årstider i Sverige: ”Väldigt blåsigt” - Aftonbladet
-- Källor: Flera döda i attack mot saudisk flygplats - Göteborgs-Posten
+- Experter sågar Trumps dieselaffär med Ryssland - Västerbotten | Folkbladet
+- 12 döda i robotattack mot flygplats i Riyad – hundratals skadade - SVT Nyheter
 - Familjen om Thanh Do, 51, efter knivdådet i Malmö - TV4 Nyheterna
-- Sigtunaelevens advokat: Även skolan har ett ansvar - Västerbottens-Kuriren
-- DN Direkt – Kvinna hitta död ute i Hudiksvall – misstänkt mord - Dagens Nyheter
-- Håkan Boström En HR-dag på Lidingö förändrar inte politikens väsen - Göteborgs-Posten
-- Brand vid pizzeria söder om Stockholm - Göteborgs-Posten
-- Nytt skoldåd i Polen – flera skadade - Corren
-- Chatt: Vad har hänt sedan avtalet om vapenvila i Gaza? - SVT Nyheter
 - Man attackerad av tiger på brittisk djurpark - Västerbottens-Kuriren
+- Michael Winiarski: Kommer Trump att återuppta bombkriget mot Iran? - Dagens Nyheter
+- Sigtunaelevens advokat: Även skolan har ett ansvar - Västerbottens-Kuriren
+- Håkan Boström En HR-dag på Lidingö förändrar inte politikens väsen - Göteborgs-Posten
+- Bussföraren släpps – nekar till brott - Sveriges Radio
+- Ovanligt många utredningar om valfusk - Corren
+- UKMTO: Fartyg träffat av projektil i Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Christa Pike tillbaka i fängelset efter misslyckade avrättningen - SVT Nyheter
+- Våg av skoldåd skakar Polen – polisen har genomsökt 50 000 skolor - Dagens Nyheter
 - Läget mellan Eritrea och Etiopien skärps ytterligare: ”Har förklarat krig” - Dagens Nyheter
-- AI-modell skickade fejkat mordtips - Aftonbladet
+- Minst fyra döda efter orkanen Isaias framfart i USA - Omni – Alla nyheter. Alla perspektiv.
 - Börsen lyfte – Telia föll - Västerbottens-Kuriren
-- Efter turbulensen: Fastators revisor hoppar av - DI
-- Wall Street steg efter AI-oron – Space X lyfte - Omni – Alla nyheter. Alla perspektiv.
+- Dow stiger 423 punkter när tech-aktier återhämtar sig, telekom faller efter SpaceX - Invezz
+- Volatil börs skakar av sig AI-oron: ”Tecken på nervositet” - Dagens Industri
 - Låt galenpannorna förändra världen | Madina Refoi | SvD Ledare - Svenska Dagbladet
-- Källor: Svalt intresse får Apple att dra ner på Iphone 18 - Omni – Alla nyheter. Alla perspektiv.
+- Apple uppges dra ner på produktionen av iPhone 18 Pro. Har de blivit för dyra? - Feber
 
 ## World News
 
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
@@ -38,14 +39,13 @@ _Updated: 2026-10-11 00:50_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Öppet virtuellt möte för Global utbildningspakt - Vatican News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Finland köper eget Global Eye-plan från Saab - Omni – Alla nyheter. Alla perspektiv.
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
@@ -62,14 +62,14 @@ _Updated: 2026-10-11 00:50_
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - Bästa AI-aktierna att köpa nu - Morningstar
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - Vietnam-Japan Digital Technology Forum 2026: Lösning av "utmaningarna" i AI-eran - Vietnam.vn
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - IDC: Marknaden för AI-mjukvara fyrdubblas till 2027 - Computer Sweden
+- Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 
 ## Business
 
@@ -85,7 +85,6 @@ _Updated: 2026-10-11 00:50_
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2026-10-11 00:50_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
 
@@ -102,20 +102,20 @@ _Updated: 2026-10-11 00:50_
 - FDA godkänner AIRS Medicals AI-MRI-verktyg för kroppssammansättningsanalys - Unite.AI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- POLITICO-panel: Vad krävs för bättre schizofrenivård? - Mynewsdesk
+- Nationellt klimatinitiativ inom hälso- och sjukvård och life science - Mynewsdesk
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
-- Nationellt klimatinitiativ inom hälso- och sjukvård och life science - Mynewsdesk
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - SANTE - Ett lyft för patienterna och ekonomin - European Commission
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 
 ## Science
 
@@ -127,23 +127,22 @@ _Updated: 2026-10-11 00:50_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningen ska vara fri - European Commission
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Andrea del Valle - Karolinska Institutet
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Simple math behind major bison blunder - Forskning & Framsteg
 - Curiepodden: Han skriver poesi om vetenskap - Tidningen Curie
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Simple math behind major bison blunder - Forskning & Framsteg
 - Olika slutsatser från samma data - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Att forma den digitala framtiden: Utveckla en dataplattform för jordbruk, lantbrukare och landsbygdsområden - Vietnam.vn
 - Jordbrukspolitik - Naturvårdsverket
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
@@ -162,3 +161,4 @@ _Updated: 2026-10-11 00:50_
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Markbristen: EUs unga bönders största utmaning - Land.se
