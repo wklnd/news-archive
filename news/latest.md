@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-11 11:18_
+_Updated: 2026-10-11 17:57_
 
-- Shooter kills 8 people and himself in Pennsylvania, police say, with Governor Shapiro offering support - DW.com
-- Trump says Ukraine should ‘get a new president’ after U.S.-Russia diesel deal - The Washington Post
+- Trump claims Russia and Ukraine agree to energy ceasefire - Axios
 - World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport - Al Jazeera
-- Four dead and thousands without power after Hurricane Isaias lashes US - BBC
+- Pope Leo to have surgery after lump found on lung - BBC
+- What to Know About Isaias, the First Atlantic Hurricane of the Season - The New York Times
+- Reshaped civil rights mission at Justice Department transforms its work, workforce - NPR
+- Abdul El-Sayed says Democrats must ‘win by massive numbers’ to fend off GOP election denial - NBC News
 - Justice Department investigating major TV networks over suspending pool coverage of Trump - NBC News
-- What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’? - Al Jazeera
-- Christa Pike discharged from the hospital and back in prison - NPR
-- House Republican, invoking Reagan, moves to block Trump's Russia oil deal - Axios
-- ‘Not Pleasant’ but ‘Necessary’: Support at Trump Rally for Public Execution - The New York Times
-- Officer killed, another injured in West Philly shooting; suspect ID’ed as water department employee - Inquirer.com
-- Hurricane Simon strengthens into Category 4 storm as it takes aim at Mexico's Pacific coast - CBS News
-- India’s ‘Cockroach’ Leaders Released as New Delhi Braces for More Protests - The New York Times
-- Man dies after tiger attack at wildlife park - BBC
-- Trump fumes at ‘stain’ on Norway after missing out on Nobel Peace Prize - The Washington Post
-- AI Issuers Are Upending Longstanding Safety Valve - Bloomberg.com
-- Ship captains and crews crossing Hormuz earn so much they're 'almost being viewed as mercenaries' - Fortune
-- Anthropic is cutting off its internal evaluations from the internet - The Verge
-- Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows - CNBC
+- ICE agent strikes man with vehicle during pursuit in Texas, officials say - The Guardian
+- Shooter kills 8 people and himself in Pennsylvania, police say, with Governor Shapiro offering support - DW.com
+- Western NC counties respond to impacts from Isaias’ remnants - WLOS
+- India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi - The New York Times
+- A Russian Spy’s Lone Regret: ‘I Got Caught’ - The New York Times
+- A heroic, 7-day bike ride made this teen a global star. Where is she now? - NPR
+- Hurricane Simon pounds resorts and vulnerable towns along Mexico’s Pacific coast - AP News
+- Powerball winning numbers, results for Saturday, Oct. 10, 2026: No jackpot winner - Detroit Free Press
+- World Bank in talks with dozens of countries about crisis aid, Banga says - Reuters
+- Welcome back to earnings season: What to watch this week - Yahoo Finance
+- Tech companies have an adorable plan to make you forget about AI's threat to jobs and humanity - Business Insider
 - Rumor: Apple to Announce New Partnership With ADT - MacRumors
-- Microsoft Weekly: New Surface Laptop, Local AI, and Microsoft 365 Family storage cuts - Neowin
+- Learning to use local AI is exciting, overwhelming, and frustrating - The Verge
