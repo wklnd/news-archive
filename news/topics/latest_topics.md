@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-12 01:51_
+_Updated: 2026-10-12 08:21_
 
 ## Top Stories
 
-- Elever häktas för grovt sexuellt ofredande - Västerbottens-Kuriren
-- Trump: Ryssland och Ukraina har nått energivapenvila - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Saudiarabien och Iran i samtal om upptrappningen - Dagens Nyheter
-- ”Ingen är säker för Putin nu” - Expressen
-- Delade livet med cancer – nu har Alexander, 38, gått bort - Expressen
+- Telia sparar – 900 tjänster försvinner - Svenska Dagbladet
 - Michael Winiarski: Trumps present till Putin ett hugg i ryggen på Ukraina - Dagens Nyheter
-- S-ledarens möte med talmannen skjuts upp – det händer nu - Dagens Nyheter
-- Ansvaret som följer med ett nej - Dagens Arena
-- Dubbla besked om V-ledamot – ”ett missförstånd" - Göteborgs-Posten
-- Stillastående personbil på E4 – påverkade trafiken - Norran
-- Landet toppar Pisa – men är Kinas elever verkligen bäst? - Dagens Nyheter
-- El Niño slår till – bönder rustar för monsterregn - Aftonbladet
-- Burnham om direktsänd avrättning: ”Avskyvärt” - Göteborgs-Posten
-- Byar i Nepal evakueras efter översvämningar - Västerbottens-Kuriren
-- Växte upp i Gävle – prisas som Årets företagare - Gefle Dagblad
-- Dubbelsmäll pressar börsen: ”Skyddsnätet kan brista” - DI
-- EU uppges införa importkvot på kinesiska hybridbilar - DI
-- Enkät: Främst villaägare med god ekonomi som kör elbil - Tidningen Syre
+- Värmländska V-toppen starkt kritisk mot C-beslutet - Nya Wermlands-Tidningen
+- USA hotar stoppa vapen till Ukraina - Hufvudstadsbladet – HBL
+- ”Ingen är säker för Putin nu” - Expressen
+- Misstänkt penningtvätt för miljarder i Sverige - Göteborgs-Posten
+- ”Inte förvånad om de beslutar att testa henne i kammaren” – Senaste nytt om valet 2026 - SVT Nyheter
+- Misstänkt mordbrand i södra Stockholm – satte eld på lägenhetsdörr - SVT Nyheter
+- DN Direkt – Två elever häktade efter misstänkta övergrepp i Sigtuna - Dagens Nyheter
+- Samhällsviktiga styrsystem ligger öppna på internet - SVT Nyheter
+- Två flygplatser attackerade i Saudiarabien - Corren
+- Indien: Två saknas efter attack utanför Oman – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Över 70 uppges ha dödats i attack mot guldgruva - Göteborgs-Posten
+- 12 oktober 06.40, Vållande till kroppsskada, Sollentuna - polisen.se
+- Annie Lööf föreslås ta plats i Academedia - Aftonbladet
+- Rapparna Oscar och Isabella lämnade förorten – flyttade till kollektiv i skogen - Dagens Nyheter
+- Prisras efter dubbelsmäll – tuff period väntar svenska gruvor - DI
+- Starka vinster väntas – men börsen kan kräva mer - Omni – Alla nyheter. Alla perspektiv.
+- Forskare fick kontrollera sin utrustning: Ny organism slår rekord gällande att överleva extrema förhållanden - Illustrerad Vetenskap
 - Nobelpriset i fysik till mannen som gjorde Sydpolens is till ett teleskop - Yle
-- Cyberleek kan läcka en version av GTA 6 före lanseringsdatumet, om inte kraven på en PS5-skiva uppfylls - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
@@ -31,13 +31,13 @@ _Updated: 2026-10-12 01:51_
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -51,17 +51,17 @@ _Updated: 2026-10-12 01:51_
 ## Technology
 
 - Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
-- Vietnam-Japan Digital Technology Forum 2026: Lösning av "utmaningarna" i AI-eran - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Data Centre Expo Sweden - Mynewsdesk
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Vietnam-Japan Digital Technology Forum 2026: Lösning av "utmaningarna" i AI-eran - Vietnam.vn
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
+- Bästa AI-aktierna att köpa nu - Morningstar
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- AI in Music Studies - Kungl. Musikaliska Akademien
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
@@ -73,17 +73,19 @@ _Updated: 2026-10-12 01:51_
 
 ## Business
 
-- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - Social ekonomi, sociala företag, övergångsarbetsmarknaden och sysselsättning av partiellt arbetsföra – erfarenheter och exempel från de nordiska länderna den 9 december 2021 - Valtiovarainministeriö
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
+- Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -91,15 +93,14 @@ _Updated: 2026-10-12 01:51_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
 
 - Nyhetsbrev om hälsa och livsmedelssäkerhet - European Commission
 - NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- FDA godkänner AIRS Medicals AI‑MRI‑verktyg för kroppssammansättningsanalys - Unite.AI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- FDA godkänner AIRS Medicals AI‑MRI‑verktyg för kroppssammansättningsanalys - Unite.AI
 - Nobelpriset i medicin går till ljusknappen för hjärnan - Metro Mode
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
@@ -118,6 +119,7 @@ _Updated: 2026-10-12 01:51_
 
 ## Science
 
+- Internationell workshop om nätverket av excellenscentra inom bioteknikutbildning och forskning 2026: Främjande av forskning, utbildning och tekniköverföring - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
@@ -131,13 +133,12 @@ _Updated: 2026-10-12 01:51_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Andrea del Valle - Karolinska Institutet
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- Curiepodden: Han skriver poesi om vetenskap - Tidningen Curie
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Olika slutsatser från samma data - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Curiepodden: Han skriver poesi om vetenskap - Tidningen Curie
 
 ## Jordbruk
 
