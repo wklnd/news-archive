@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-12 17:55_
+_Updated: 2026-10-13 01:08_
 
 ## Top Stories
 
-- Kritiserar uttalandet om skolkultur: Förminskar - Göteborgs-Posten
-- ”Inte förvånad om de beslutar att testa henne i kammaren” – Senaste nytt om valet 2026 - SVT Nyheter
-- DN Direkt – Mohamed Ali är sjukanmäld - Dagens Nyheter
-- Flygplatsen i Riyad attackerad igen - Hufvudstadsbladet – HBL
-- Trafikverket: Oklart när Strömsundsbron är lagad - Omni – Alla nyheter. Alla perspektiv.
-- Man med kniv sköts vid Kungliga slottet – nu häktad - Mitt i
-- Efterlyst svensk medborgare gripen i Spanien - SVT Nyheter
-- Snö på ingång – många börjar byta till vinterdäck: Passa på innan stora rusningen - SVT Nyheter
-- Tysk man häktad för mord i Sverige - Göteborgs-Posten
-- Här är stadsdelen där flest känner sig otrygga - Dagens Nyheter
-- Trots Trumps utspel – nya attacker mot Ukraina - Aftonbladet
-- Två skadade i skjutning på skola i Frankrike - TV4 Nyheterna
-- DN Direkt – Byar i Nepal evakueras efter översvämningar - Dagens Nyheter
-- EU utökar sanktionerna – slår mot tusentals fler - Västerbottens-Kuriren
-- UD avråder från resor till Saudiarabien - Expressen
-- AcadeMedias valberedning föreslår nyval av Annie Lööf och Fredrik Rågmark till AcadeMedia ABs styrelse - Via TT
-- BofA varnar för fortsatt pressad lyxsektor - Affärsvärlden
-- Uppdatering efter branden vid Fäbodtjärnsgruvan – produktionen återupptagen (MFN) - Aktiellt
+- Ingmar Nevéus: Väljarna lär inte luras av Trumps dieselaffär med Putin - Dagens Nyheter
+- Zelenskyj: Attacker tydligt ryskt budskap - Göteborgs-Posten
+- UD avråder från resor till Saudiarabien - Göteborgs-Posten
+- Tredje Sigtunaeleven häktad - UNT
+- Politiker efter granskningen: ”Strider mot sunt förnuft” - Expressen
+- Mannen som sköts vid Kungliga slottet häktad - Sveriges Radio
+- Omröstning om S-ledaren kan ske i veckan - Göteborgs-Posten
+- Här håller dricksvattnet på att ta slut: "Mycket allvarligt läge" - UNT
+- Möte om Alis ledighetsansökan på onsdag – Senaste nytt om valet 2026 - SVT Nyheter
+- Larm om höga smällar på Lidingö - SVT Nyheter
+- Trump om påstådda vapenvilan: ”De har kommit överens för att jag har sagt det” – Senaste nytt om kriget i Ukraina - SVT Nyheter
+- DN Direkt – Efter flygbasincidenten – fler sanktioner mot Iran - Dagens Nyheter
+- EU utökar sanktionerna – slår mot tusentals fler - Hufvudstadsbladet – HBL
+- Fem saknas i översvämningar i Nepal - Dagens Nyheter
+- Franska frysar hackade – mat för miljoner förstörd - Aftonbladet
+- Macéus: Bind inte räntan för guds skull! - Placera.se
+- Analytiker spår jättelyft för Boliden - Affärsvärlden
+- Miljardären Bill Gates varnar för risken att illvilliga aktörer "beväpnar" AI för cyberattacker. - Vietnam.vn
+- Google lanserar Fitbit Edge med AI-coach och sju dagars batteritid - Affärsvärlden
 - Apple TV 4K och Homepod Mini väntas få nya chip - Macworld.se
-- Google lanserar Fitbit Edge med AI-coach och sju dagars batteritid - Börsvärlden
 
 ## World News
 
@@ -34,10 +34,10 @@ _Updated: 2026-10-12 17:55_
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Iranian foreign minister says negotiations with U.S. may be off the table - PBS
 - Öppet virtuellt möte för Global utbildningspakt - Vatican News
@@ -63,12 +63,12 @@ _Updated: 2026-10-12 17:55_
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
 - Bästa AI-aktierna att köpa nu - Morningstar
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - IDC: Marknaden för AI-mjukvara fyrdubblas till 2027 - Computer Sweden
 
 ## Business
@@ -108,57 +108,57 @@ _Updated: 2026-10-12 17:55_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Vi presenterar HealthBench - OpenAI
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
-- Magisterprogram i arbetsliv och hälsa - Umeå universitet
+- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 
 ## Science
 
 - Internationell workshop om nätverket av excellenscentra inom bioteknikutbildning och forskning 2026: Främjande av forskning, utbildning och tekniköverföring - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Täta band mellan turism och forskning på Svalbard - SLU
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningen ska vara fri - European Commission
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Andrea del Valle - Karolinska Institutet
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Simple math behind major bison blunder - Forskning & Framsteg
 - Olika slutsatser från samma data - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Simple math behind major bison blunder - Forskning & Framsteg
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Ho Chi Minh City University of Agriculture and Forestry utökar samarbetet inom utbildning och vetenskaplig forskning. - Vietnam.vn
-- Jordbrukspolitik - Naturvårdsverket
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Tio svenska ekoföretag satsar på den brittiska marknaden - Mynewsdesk
+- Svenska Bin ger ut boken Honung – En smakupplevelse - Mynewsdesk
+- Jordbrukspolitik - Naturvårdsverket
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
-- Svenska Bin ger ut boken Honung – En smakupplevelse - Mynewsdesk
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Lantbrukslogik – nu och i framtiden - SLU
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Kan agroekologi mätta världen? - SLU
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Markbristen: EUs unga bönders största utmaning - Land.se
