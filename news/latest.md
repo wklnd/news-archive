@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-12 18:06_
+_Updated: 2026-10-13 01:13_
 
-- Rep. Ilhan Omar’s home searched by federal agents in criminal probe - NBC News
-- Russia-Ukraine live: Ukraine doesn't deserve 'respite' ceasefire would bring, Lavrov says - BBC
-- US issues warning over Saudi airports as Trump weighs new strikes on Iran - Fox News
-- Hall, Woodford win Nobel prize for work on how to stabilise economies - Reuters
-- Facing smaller crowds and low approval ratings, Trump tries to rally the base for the midterms - NBC News
-- Takeaways from first S.C. Senate debate between Darline Graham, Annie Andrews - The Washington Post
-- Long Beach homes red-tagged as high surf from Tropical Storm Rachel damages shoreline - ABC7 Los Angeles
-- Federal judge orders temporary halt to taxpayer-funded pro-Trump TV ads - The Guardian
-- Hurricane Isaias leaves trail of destruction in Southeast: "Never expected to be 77 years old and go through this" - CBS News
-- Whether Tennessee tries to execute Christa Pike again is an open question. Here’s why - CNN
-- What to know about Pope Leo’s planned lung nodule surgery - CNN
-- Man dies after entering tiger habitat at British zoo - USA Today
-- Iran sets supertanker ablaze after US takes out ship breaking blockade - New York Post
-- U.K. Government Faces Test of Budget Credibility - WSJ
-- Oil surge keeps S&P 500, Nasdaq in check before earnings; Salesforce lifts Dow - Reuters
-- Why IonQ Is Betting Big on Quantum Cybersecurity With $1.3 Billion Elisity Acquisition - Barron's
-- Starbucks says it is not buying Chipotle after takeover speculation - CNBC
-- In the US, a wealth boom and a price shock collide - Reuters
-- Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air - Ars Technica
-- First Impressions: Dell XPS Googlebook and the Googlebook OS - John Scalzi's Whatever
+- RJ Mitte, actor best known for playing Walter White Jr. on ‘Breaking Bad,’ dies at 34 - NBC News
+- US immigration authorities raid home of Democratic Trump critic Ilhan Omar - Reuters
+- Trump's Russia deal leaves GOP candidates with a Putin problem - Axios
+- Republican attempts to trip up James Talarico keep backfiring - NBC News
+- Judge chastises Justice Department lawyers after hundreds of trees cut down at D.C. golf course - CBS News
+- San Francisco’s former top female cop and daughter shot dead by police sergeant husband in posh California county - New York Post
+- Archbishop of the US military says Catholic soldiers should not serve on firing squad - Politico
+- Trump says he's "looking at" firing Kimberly Guilfoyle: "We're not happy" - CBS News
+- Emergency help was delayed by confusion after failed execution of Christa Pike, 911 calls reveal - CNN
+- California beaches, homes slammed by waves from Tropical Storm Rachel - The Washington Post
+- Iran War Updates: Deadly Houthi attacks keep Saudi airport closed as Trump considers U.S. strikes in Yemen - CBS News
+- Zelenskyy says Russia strikes energy facilities despite Trump claim of an energy ceasefire - AP News
+- U.S. and NATO commander vows to thwart Moscow, warns Kyiv over refinery strikes - The Washington Post
+- Pope Leo to be hospitalized Tuesday for surgery to remove a lung nodule - NBC News
+- Starbucks says it is not buying Chipotle following deal speculation - Fox Business
+- Meta releases its first frontier model, Muse Wonder - TechCrunch
+- Nasdaq falls ahead of earnings, economic data while oil rallies - Reuters
+- AI’s Giant Money Loop Is Drawing Foreign Cash Like 2008 - Bloomberg.com
+- Apple 'Welcome Home' Launch: Everything to Expect Tomorrow - MacRumors
+- Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch - TechCrunch
