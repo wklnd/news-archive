@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-12 08:31_
+_Updated: 2026-10-12 18:06_
 
-- Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport - Al Jazeera
-- AP source: Trump, Rubio weigh firing US envoy to Greece after mounting reports of improper conduct - AP News
-- South Carolina Senate rivals spar over Iran war, AI and Trump in fiery debate - NBC News
-- Trump bears down on Zelensky as Russia keeps up attacks on Ukraine - Axios
-- Judge orders cancellation of Trump’s government-funded ads - The Hill
-- Hurricane Isaias in Video and Pictures - The New York Times
-- Rachel slams Southern California, bringing high tides, flooding, coastal damage - Los Angeles Times
-- Trump faces growing backlash over plans to import diesel from Russia - BBC
-- At least 5 tornadoes strike Central NC, uprooting trees and damaging homes in northeast Raleigh - WRAL
-- Pennsylvania shooter who killed eight was a grandfather, says slain child’s dad - The Guardian
-- Trump says Ukraine and Russia have agreed 'energy ceasefire' - BBC
-- North Korea fires multiple ballistic missiles, adding to streak of weapons tests - AP News
-- Hurricane Simon nears Mexico with 155 mph winds and flooding fears - NPR
-- Wildlife park confirms tiger will not be euthanised after man mauled to death | Yorkshire - The Guardian
-- Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion - WSJ
-- What’s open on Columbus Day 2026? UPS, Costco, banks, mail delivery, stock markets, restaurants - NJ.com
-- China's debt interest costs are soaring—and growing faster than any other major budget category - Fortune
-- Healey faces £35bn hole in Budget over Iran war, experts warn - The Sun
-- New Apple TV 4K, HomeView, and HomePod Mini: 16 Details Just Leaked - MacRumors
-- Google TV Streamer’s sequel showcases a struggling smart home - 9to5Google
+- Rep. Ilhan Omar’s home searched by federal agents in criminal probe - NBC News
+- Russia-Ukraine live: Ukraine doesn't deserve 'respite' ceasefire would bring, Lavrov says - BBC
+- US issues warning over Saudi airports as Trump weighs new strikes on Iran - Fox News
+- Hall, Woodford win Nobel prize for work on how to stabilise economies - Reuters
+- Facing smaller crowds and low approval ratings, Trump tries to rally the base for the midterms - NBC News
+- Takeaways from first S.C. Senate debate between Darline Graham, Annie Andrews - The Washington Post
+- Long Beach homes red-tagged as high surf from Tropical Storm Rachel damages shoreline - ABC7 Los Angeles
+- Federal judge orders temporary halt to taxpayer-funded pro-Trump TV ads - The Guardian
+- Hurricane Isaias leaves trail of destruction in Southeast: "Never expected to be 77 years old and go through this" - CBS News
+- Whether Tennessee tries to execute Christa Pike again is an open question. Here’s why - CNN
+- What to know about Pope Leo’s planned lung nodule surgery - CNN
+- Man dies after entering tiger habitat at British zoo - USA Today
+- Iran sets supertanker ablaze after US takes out ship breaking blockade - New York Post
+- U.K. Government Faces Test of Budget Credibility - WSJ
+- Oil surge keeps S&P 500, Nasdaq in check before earnings; Salesforce lifts Dow - Reuters
+- Why IonQ Is Betting Big on Quantum Cybersecurity With $1.3 Billion Elisity Acquisition - Barron's
+- Starbucks says it is not buying Chipotle after takeover speculation - CNBC
+- In the US, a wealth boom and a price shock collide - Reuters
+- Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air - Ars Technica
+- First Impressions: Dell XPS Googlebook and the Googlebook OS - John Scalzi's Whatever
