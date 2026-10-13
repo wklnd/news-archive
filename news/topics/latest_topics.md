@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-13 14:03_
+_Updated: 2026-10-13 21:27_
 
 ## Top Stories
 
-- DN Direkt – Talmannen: Omröstning om Andersson (S) som statsminister - Dagens Nyheter
-- Fjärde person misstänks ha utsatts på Sigtunaskolan - Göteborgs-Posten
+- Nya protester i Frankrike – Greta Thunberg ansluter - SVT Nyheter
+- Petter Sandgren: Det finns ett perverst syfte bakom Sigtunas elevstyre - Dagens Nyheter
+- Giftig gas läcker efter en kemisk reaktion i lastbil - Omni – Alla nyheter. Alla perspektiv.
 - SOS Alarm varnar för falska sms om dödsfall - Läkartidningen
-- SL om försvunna bussarna: ”Oklarheter” - Aftonbladet
-- Tunnelbanetrubaduren slutar spela i tunnelbanan - SVT Nyheter
-- En decimeter kan falla – SMHI varnar för snö - Expressen
-- Alla partier för stopplag mot tonårsutvisningar - Västerbottens-Kuriren
-- Insändare. Släpp in Vänsterpartiet i regeringen - Dagens Nyheter
-- V-toppen om Ali: ”Ska komma så fort som möjligt” – Senaste nytt om valet 2026 - SVT Nyheter
-- Anhållen för förberedelse till mord på skola - Göteborgs-Posten
-- LEDARE: Europa måste utgå från att Trump är opålitlig - Hufvudstadsbladet – HBL
-- En död i olycka i bergochdalbana i USA - Hufvudstadsbladet – HBL
-- Trump om påstådda vapenvilan: ”De är överens” - Västerbottens-Kuriren
-- Attacker mot Kiev – flera smällar - Corren
-- Sjukskrivningarna minskade brett i fjol - Tidningen Näringslivet
-- SD-krav på sänkt bensinpris stoppas – ”inte realistiskt” - DI
-- Starkaste framtidstron bland småföretag på fyra år - Omni – Alla nyheter. Alla perspektiv.
-- Varnar för okunnighet om AI – ”som på kasino” - Aftonbladet
-- Källor: Epic Games skjuter upp Disney-spel och kräver ökad AI-användning - BN - Placera.se
-- Google Fitbit Edge presenterad – med en ”fantastisk Hybrid OLED-skärm”, batteritid på en vecka och utbytbart batteri - TechRadar
+- En person misstänkt för valfusk i Järva - Göteborgs-Posten
+- DN Direkt – KD, MP och S hoppar av regionförhandlingar - Dagens Nyheter
+- Partierna överens: Inför stopplag mot tonårsutvisningar - Corren
+- DN Direkt – Ingen tvångsförvaltning för ”vanvårdade” hyreshus i Vårberg - Dagens Nyheter
+- Gav det något att sjunga karaoke? - Svenska Dagbladet
+- SL om de försvunna bussarna: ”Har kontakt med företaget för att reda ut situationen” - RT-Forum
+- Vatikanen: Påvens operation lyckad - Västerbottens-Kuriren
+- Sköts i ryggen av ICE – kulan satt kvar i elva dagar - Dagens Nyheter
+- Saudiarabien har attackerat mål i Jemen - Corren
+- Trump gör sig av med mutanklagad ambassadör - Göteborgs-Posten
+- Nej till SD-initiativ för sänkt bensinskatt - TV4 Nyheterna
+- Från köphysteri till rea – på bara ett år - Svenska Dagbladet
+- Kontroversiella knepet – så sparar du för ditt barn - Expressen
+- Råttor i kylen och oskyddade bullar på Bröd & Salt - Mitt i Stockholm
+- Apples nya smarta skärm Homeview uteblir i EU - Macworld.se
+- Apple presenterar nya Apple TV 4K med Siri AI - Dopest.se
 
 ## World News
 
+- GT World Challenge Asia, Sepang International Circuit, Malaysia på igår 07:40 - TV.nu
 - EPO President discusses future of global IP system at AIPPI World Congress - epo.org
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Swedbank Robur lanserar global aktiefond - Finanswatch.se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
+- Opec sänker prognosen för global efterfrågetillväxt 2026 - Börsvärlden
 - Öppet virtuellt möte för Global utbildningspakt - Vatican News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Ögonblick vi minns från Global Series i Sverige - NHL.com
 
 ## Technology
 
@@ -62,14 +62,14 @@ _Updated: 2026-10-13 14:03_
 - Data Centre Expo Sweden - Mynewsdesk
 - My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
 - Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
-- Bästa AI-aktierna att köpa nu - Morningstar
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Vietnam-Japan Digital Technology Forum 2026: Lösning av "utmaningarna" i AI-eran - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - IDC: Marknaden för AI-mjukvara fyrdubblas till 2027 - Computer Sweden
+- Från ett laboratorium till en modell för att popularisera STEM, robotik och AI i skolor. - Vietnam.vn
 
 ## Business
 
@@ -100,22 +100,22 @@ _Updated: 2026-10-13 14:03_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - FDA godkänner AIRS Medicals AI‑MRI‑verktyg för kroppssammansättningsanalys - Unite.AI
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
-- CO-AX accelerator at Sahlgrenska Science Park invites trailblazing healthtech entrepreneurs for spring 2024 intake - NewsMachine AB
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Flexibel kapacitetsökning i katastrofer och allvarliga händelser - Göteborgs universitet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - Mynewsdesk
-- K-Beauty KAT 2026: Utökar det internationella lärutrymmet för HIU-studenter. - Vietnam.vn
-- Hormonspiral förbättrar livskvaliteten hos kvinnor med riklig mens - Mynewsdesk
+- CO-AX accelerator at Sahlgrenska Science Park invites trailblazing healthtech entrepreneurs for spring 2024 intake - NewsMachine AB
 
 ## Science
 
