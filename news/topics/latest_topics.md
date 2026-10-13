@@ -1,68 +1,68 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-13 01:08_
+_Updated: 2026-10-13 05:49_
 
 ## Top Stories
 
-- Ingmar Nevéus: Väljarna lär inte luras av Trumps dieselaffär med Putin - Dagens Nyheter
+- Två personer döda i ryska anfall mot Ukraina - Omni – Alla nyheter. Alla perspektiv.
 - Zelenskyj: Attacker tydligt ryskt budskap - Göteborgs-Posten
-- UD avråder från resor till Saudiarabien - Göteborgs-Posten
-- Tredje Sigtunaeleven häktad - UNT
-- Politiker efter granskningen: ”Strider mot sunt förnuft” - Expressen
-- Mannen som sköts vid Kungliga slottet häktad - Sveriges Radio
-- Omröstning om S-ledaren kan ske i veckan - Göteborgs-Posten
-- Här håller dricksvattnet på att ta slut: "Mycket allvarligt läge" - UNT
-- Möte om Alis ledighetsansökan på onsdag – Senaste nytt om valet 2026 - SVT Nyheter
+- DN Direkt – Dödsolycka i bergochdalbana i USA - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Ska utreda luckor i Saudiarabiens luftförsvar - Dagens Nyheter
+- Tvåfrontskritik mot Trump efter affären med Putin - Dagens Nyheter
+- Frågorna som avslöjar om du borde bli en bättre partner - Dagens Nyheter
 - Larm om höga smällar på Lidingö - SVT Nyheter
-- Trump om påstådda vapenvilan: ”De har kommit överens för att jag har sagt det” – Senaste nytt om kriget i Ukraina - SVT Nyheter
-- DN Direkt – Efter flygbasincidenten – fler sanktioner mot Iran - Dagens Nyheter
+- V-ledamot fortsatt frånvarande – sjukanmält sig - Altinget.se
+- Tredje elev misstänkt för brott i Sigtuna häktad - SVT Nyheter
+- Strömsundsbron kan förbli stängd i månader – lastbilen fortfarande kvar på bron - Dagens Nyheter
+- Iran varnas efter incident vid militärflygplats - Göteborgs-Posten
 - EU utökar sanktionerna – slår mot tusentals fler - Hufvudstadsbladet – HBL
-- Fem saknas i översvämningar i Nepal - Dagens Nyheter
-- Franska frysar hackade – mat för miljoner förstörd - Aftonbladet
-- Macéus: Bind inte räntan för guds skull! - Placera.se
-- Analytiker spår jättelyft för Boliden - Affärsvärlden
-- Miljardären Bill Gates varnar för risken att illvilliga aktörer "beväpnar" AI för cyberattacker. - Vietnam.vn
-- Google lanserar Fitbit Edge med AI-coach och sju dagars batteritid - Affärsvärlden
-- Apple TV 4K och Homepod Mini väntas få nya chip - Macworld.se
+- DN Direkt – Byar i Nepal evakueras efter översvämningar - Dagens Nyheter
+- Talman ser risker med direktsänd avrättning - Västerbottens-Kuriren
+- Rapporter om att olja flödar ur Hormuz – priserna fortsatt höga - Dagens Nyheter
+- Börsen redo för kurskaos - DI
+- ECB-topp öppnar för ytterligare räntehöjning - Affärsvärlden
+- IMF varnar för högre inflation - Aftonbladet
+- Google lanserar Fitbit Edge med AI-coach och sju dagars batteritid - Börsvärlden
+- Iskall fälla för spökpartiklar gav Francis Halzen fysikpriset - Dagens Nyheter
 
 ## World News
 
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Mellan talibanerna, Indien och Irankriget - Kvartal
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Mellan talibanerna, Indien och Irankriget - Kvartal
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
+- Två fina priser till NTM i årets INMA Global Awards - ntm.se
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Iranian foreign minister says negotiations with U.S. may be off the table - PBS
-- Öppet virtuellt möte för Global utbildningspakt - Vatican News
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Öppet virtuellt möte för Global utbildningspakt - Vatican News
 
 ## Technology
 
 - Kinesisk teknologi är närvarande i AI-vågen i USA. - Vietnam.vn
 - Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
-- Vietnam-Japan Digital Technology Forum 2026: Lösning av "utmaningarna" i AI-eran - Vietnam.vn
+- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Data Centre Expo Sweden - Mynewsdesk
+- Vietnam-Japan Digital Technology Forum 2026: Lösning av "utmaningarna" i AI-eran - Vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
+- Data Centre Expo Sweden - Mynewsdesk
 - My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
-- Bästa AI-aktierna att köpa nu - Morningstar
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
@@ -96,31 +96,32 @@ _Updated: 2026-10-13 01:08_
 
 ## Health
 
-- SANTE - Ett lyft för patienterna och ekonomin - European Commission
 - NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - FDA godkänner AIRS Medicals AI‑MRI‑verktyg för kroppssammansättningsanalys - Unite.AI
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Nobelpriset i medicin går till ljusknappen för hjärnan - Metro Mode
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Vi presenterar HealthBench - OpenAI
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
-- Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
-- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
+- CO-AX accelerator at Sahlgrenska Science Park invites trailblazing healthtech entrepreneurs for spring 2024 intake - NewsMachine AB
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Flexibel kapacitetsökning i katastrofer och allvarliga händelser - Göteborgs universitet
+- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - Mynewsdesk
+- K-Beauty KAT 2026: Utökar det internationella lärutrymmet för HIU-studenter. - Vietnam.vn
+- Hormonspiral förbättrar livskvaliteten hos kvinnor med riklig mens - Mynewsdesk
 
 ## Science
 
 - Internationell workshop om nätverket av excellenscentra inom bioteknikutbildning och forskning 2026: Främjande av forskning, utbildning och tekniköverföring - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
@@ -129,21 +130,21 @@ _Updated: 2026-10-13 01:08_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Täta band mellan turism och forskning på Svalbard - SLU
 - Andrea del Valle - Karolinska Institutet
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Simple math behind major bison blunder - Forskning & Framsteg
 - Olika slutsatser från samma data - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
-- Ho Chi Minh City University of Agriculture and Forestry utökar samarbetet inom utbildning och vetenskaplig forskning. - Vietnam.vn
+- Att utveckla jordbruket i en ekologisk riktning. - Vietnam.vn
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Ho Chi Minh City University of Agriculture and Forestry utökar samarbetet inom utbildning och vetenskaplig forskning. - Vietnam.vn
 - Tio svenska ekoföretag satsar på den brittiska marknaden - Mynewsdesk
 - Svenska Bin ger ut boken Honung – En smakupplevelse - Mynewsdesk
 - Jordbrukspolitik - Naturvårdsverket
@@ -158,7 +159,6 @@ _Updated: 2026-10-13 01:08_
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Kan agroekologi mätta världen? - SLU
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Markbristen: EUs unga bönders största utmaning - Land.se
