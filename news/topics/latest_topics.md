@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-13 21:27_
+_Updated: 2026-10-14 01:22_
 
 ## Top Stories
 
-- Nya protester i Frankrike – Greta Thunberg ansluter - SVT Nyheter
-- Petter Sandgren: Det finns ett perverst syfte bakom Sigtunas elevstyre - Dagens Nyheter
-- Giftig gas läcker efter en kemisk reaktion i lastbil - Omni – Alla nyheter. Alla perspektiv.
-- SOS Alarm varnar för falska sms om dödsfall - Läkartidningen
-- En person misstänkt för valfusk i Järva - Göteborgs-Posten
-- DN Direkt – KD, MP och S hoppar av regionförhandlingar - Dagens Nyheter
-- Partierna överens: Inför stopplag mot tonårsutvisningar - Corren
-- DN Direkt – Ingen tvångsförvaltning för ”vanvårdade” hyreshus i Vårberg - Dagens Nyheter
-- Gav det något att sjunga karaoke? - Svenska Dagbladet
-- SL om de försvunna bussarna: ”Har kontakt med företaget för att reda ut situationen” - RT-Forum
-- Vatikanen: Påvens operation lyckad - Västerbottens-Kuriren
-- Sköts i ryggen av ICE – kulan satt kvar i elva dagar - Dagens Nyheter
-- Saudiarabien har attackerat mål i Jemen - Corren
-- Trump gör sig av med mutanklagad ambassadör - Göteborgs-Posten
-- Nej till SD-initiativ för sänkt bensinskatt - TV4 Nyheterna
-- Från köphysteri till rea – på bara ett år - Svenska Dagbladet
+- Påve Leo har fått diagnosen lungcancer - Dagens Nyheter
+- Bodströms känga till V: ”Handlar om dem själva” – Senaste nytt om valet 2026 - SVT Nyheter
+- DN Direkt – Greta Thunberg i Paris för att stötta elevprotester - Dagens Nyheter
+- Saudiarabien uppges ha attackerat oljeanläggning - Västerbottens-Kuriren
+- Alva, 25, fick falskt sms om dödsfall: ”Det var panik” - Aftonbladet
+- Rysk robotattack mot kraftverk i Kyjiv - Omni – Alla nyheter. Alla perspektiv.
+- Tomas Ramberg: Förödmjukat centerparti större problem för Andersson - Dagens Nyheter
+- Hundratals misstänks ha köpt sex av samma kvinna - Göteborgs-Posten
+- Fem personer misstänks ha utsatts på Sigtunaskolan - Västerbottens-Kuriren
+- DN Direkt – Omdebatterad trubadur slutar spela i tunnelbanan - Dagens Nyheter
+- Zelenskyj: Attack mot energianläggning i Kiev - Göteborgs-Posten
+- Socialisterna som kan ta makten i storstäderna i USA - Dagens Nyheter
+- Trump gör sig av med mutanklagad ambassadör - Västerbottens-Kuriren
+- LEDARE: Europa måste utgå från att Trump är opålitlig - Hufvudstadsbladet – HBL
+- SSAB om nya miljardinvesteringen: ”Räknar hem sig själv ganska enkelt” - EFN
+- Oljepriserna sjunker tillbaka - DI
 - Kontroversiella knepet – så sparar du för ditt barn - Expressen
-- Råttor i kylen och oskyddade bullar på Bröd & Salt - Mitt i Stockholm
+- Bajens sponsor kopplas till rysk brottslighet - Aftonbladet
 - Apples nya smarta skärm Homeview uteblir i EU - Macworld.se
-- Apple presenterar nya Apple TV 4K med Siri AI - Dopest.se
+- Skottsekunden kan slopas – när jorden snurrar snabbare - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på igår 07:40 - TV.nu
 - EPO President discusses future of global IP system at AIPPI World Congress - epo.org
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Swedbank Robur lanserar global aktiefond - Finanswatch.se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Opec sänker prognosen för global efterfrågetillväxt 2026 - Börsvärlden
-- Öppet virtuellt möte för Global utbildningspakt - Vatican News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Opec sänker prognosen för global efterfrågetillväxt 2026 - Börsvärlden
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
@@ -65,9 +65,9 @@ _Updated: 2026-10-13 21:27_
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Vietnam-Japan Digital Technology Forum 2026: Lösning av "utmaningarna" i AI-eran - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - IDC: Marknaden för AI-mjukvara fyrdubblas till 2027 - Computer Sweden
 - Från ett laboratorium till en modell för att popularisera STEM, robotik och AI i skolor. - Vietnam.vn
 
@@ -99,23 +99,23 @@ _Updated: 2026-10-13 21:27_
 - NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - FDA godkänner AIRS Medicals AI‑MRI‑verktyg för kroppssammansättningsanalys - Unite.AI
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Flexibel kapacitetsökning i katastrofer och allvarliga händelser - Göteborgs universitet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - Mynewsdesk
-- CO-AX accelerator at Sahlgrenska Science Park invites trailblazing healthtech entrepreneurs for spring 2024 intake - NewsMachine AB
+- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 
 ## Science
 
@@ -144,7 +144,6 @@ _Updated: 2026-10-13 21:27_
 
 - Att utveckla jordbruket i en ekologisk riktning. - Vietnam.vn
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Tio svenska ekoföretag satsar på den brittiska marknaden - Mynewsdesk
 - Ho Chi Minh City University of Agriculture and Forestry utökar samarbetet inom utbildning och vetenskaplig forskning. - Vietnam.vn
 - Jordbrukspolitik - Naturvårdsverket
 - Framtidens jordbruk - European Commission
@@ -153,10 +152,11 @@ _Updated: 2026-10-13 21:27_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Lantbrukslogik – nu och i framtiden - SLU
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- ”Resiliens är det nya effektiva” - Jordbruksaktuellt
 - Kan agroekologi mätta världen? - SLU
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
