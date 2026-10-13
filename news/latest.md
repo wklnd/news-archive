@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-13 05:52_
+_Updated: 2026-10-13 14:10_
 
-- Trump faces stiff bipartisan pushback to Russian diesel import deal - The Washington Post
-- Agents search Rep. Omar's Washington home in criminal probe as she vows she won't 'be silenced' - AP News
-- Republicans Promoted a False Rumor That James Talarico Was in Ohio - The New York Times
-- NATO general sets out tough military response to any 'foolish' Russian attack - Reuters
-- One dead and more injured after incident on Six Flags rollercoaster in US - The Guardian
-- Government spent $10 million on pro-Trump ads after president said super PAC would fund - NPR
-- US archbishop says Catholics in army should not participate in firing squad - Al Jazeera
-- Calls Show How Confusion Delayed Emergency Response for Christa Pike - The New York Times
+- Saudi Airport Attacks Pressure Trump to Boost US Role in Yemen - Bloomberg.com
+- One dead, several others hurt on Six Flags rollercoaster in Georgia - BBC
+- Trump’s diesel deal with Putin draws criticism from a frustrated Congress - AP News
 - Trump says he’s ‘looking at’ firing Kimberly Guilfoyle from Athens post - The Washington Post
-- Judge chastises Justice Department lawyers after hundreds of trees cut down at D.C. golf course - CBS News
-- Kyiv says Russia hits energy targets despite Trump ceasefire announcement - Reuters
-- Burnham: Iran’s IRGC ‘highly likely’ to be behind RAF Fairford terror plot - POLITICO.eu
-- Iran War Updates: Deadly Houthi attacks keep Saudi airport closed as Trump considers U.S. strikes in Yemen - CBS News
-- Poland says two Turks arrested over Russia-linked Starlink station fire - Al Jazeera
-- Meta has reached AI ‘frontier,’ Zuckerberg says - Semafor
-- Delta Delays Plans for Nonstop Service to Saudi Arabia - WSJ
-- Starbucks says it is not buying Chipotle following deal speculation - Fox Business
-- Korean Chip Stocks Sink on Chinese Rival Worry, Broadcom Remarks - Bloomberg.com
-- Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch - TechCrunch
-- iPhone Duo: Apple To Debut Special Extra For In-Store Buyers - Forbes
+- NATO warns Russia: 'We will break' forces, destroy 'anything and everything' if you attack - Fox News
+- Trump, Playing Defense in Ohio, Tries to Shore Up Republicans in Tough Races - The New York Times
+- Trump attacks Rep. Ilhan Omar and Senate hopeful Abdul El-Sayed at Ohio rally - NBC News
+- Calls Show How Confusion Delayed Emergency Response for Christa Pike - The New York Times
+- ‘She totally blew it’: How Kamala Harris wasted a year to make her case - Politico
+- These California Boat Dwellers Fear the Worst: Life on Land - The New York Times
+- Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast - The Guardian
+- Police detain leaders of India’s ‘cockroach’ movement at New Delhi protest - Al Jazeera
+- Poland blames Starlink sabotage on Russia - AP News
+- They Came to Russia for Work. Now They Are Under Fire. - The New York Times
+- IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen - CNBC
+- Goldman Sachs profits surge 29% as trading boom holds up better than expected - Yahoo Finance
+- Visa gets approval for China card business ahead of Trump-Xi summit - Financial Times
+- Nasdaq falls ahead of earnings, economic data while oil rallies - Reuters
+- Apple ‘Welcome home’ event: Three new products are coming tomorrow - 9to5Mac
+- Foldable iPhone sales are reportedly going to be riddled with problems - PhoneArena
