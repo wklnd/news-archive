@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-13 14:10_
+_Updated: 2026-10-13 21:31_
 
-- Saudi Airport Attacks Pressure Trump to Boost US Role in Yemen - Bloomberg.com
-- One dead, several others hurt on Six Flags rollercoaster in Georgia - BBC
-- Trump’s diesel deal with Putin draws criticism from a frustrated Congress - AP News
-- Trump says he’s ‘looking at’ firing Kimberly Guilfoyle from Athens post - The Washington Post
-- NATO warns Russia: 'We will break' forces, destroy 'anything and everything' if you attack - Fox News
-- Trump, Playing Defense in Ohio, Tries to Shore Up Republicans in Tough Races - The New York Times
-- Trump attacks Rep. Ilhan Omar and Senate hopeful Abdul El-Sayed at Ohio rally - NBC News
-- Calls Show How Confusion Delayed Emergency Response for Christa Pike - The New York Times
-- ‘She totally blew it’: How Kamala Harris wasted a year to make her case - Politico
-- These California Boat Dwellers Fear the Worst: Life on Land - The New York Times
-- Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast - The Guardian
-- Police detain leaders of India’s ‘cockroach’ movement at New Delhi protest - Al Jazeera
-- Poland blames Starlink sabotage on Russia - AP News
-- They Came to Russia for Work. Now They Are Under Fire. - The New York Times
-- IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen - CNBC
-- Goldman Sachs profits surge 29% as trading boom holds up better than expected - Yahoo Finance
-- Visa gets approval for China card business ahead of Trump-Xi summit - Financial Times
-- Nasdaq falls ahead of earnings, economic data while oil rallies - Reuters
-- Apple ‘Welcome home’ event: Three new products are coming tomorrow - 9to5Mac
-- Foldable iPhone sales are reportedly going to be riddled with problems - PhoneArena
+- Trump fires ambassador to Greece Guilfoyle after reports of misconduct - Reuters
+- Cornell Bans Fraternity Parties and Adds Sexual Assault Investigators - The New York Times
+- Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home - NPR
+- Trump’s new White House press secretary Katie Zacharia keeps first briefing short - NBC News
+- ‘A gift to our adversary': Bipartisan group of senators slam Trump’s Russian diesel deal - Politico
+- MI5 tackling more state threats than during Cold War, warns intelligence chief - BBC
+- Six Flags closes nine rides across country after man dies falling off roller coaster in Georgia - live updates - CNN
+- Cornell University Suspends Frat Parties, Admits Campus Drug Problem - TMZ
+- He Would Be Florida’s First Black Governor. Can He Sway Black Voters? - The New York Times
+- Trump’s Tree Removal Plans At D.C. Golf Course Blocked 2 More Weeks—After Abruptly Downing Hundreds - Forbes
+- Pope Leo Prepares for Surgery to Remove Lung Nodule - The New York Times
+- Why advanced U.S. weapons aren’t stopping Houthi attacks in Saudi Arabia - NBC News
+- Drones hit ships in Black Sea, sinking 1 and prompting rescue operations, Bulgaria says - AP News
+- The Oct. 7 Attack Changed Israel, but Not Its Politics - The New York Times
+- Cyberattack Hits Hundreds of Supermarket Refrigeration Systems in France - The New York Times
+- S&P 500 is little changed as traders mull over bank earnings; chip stocks slide: Live updates - CNBC
+- AI bubble could burst and take global economy with it, IMF warns - The Register
+- Bank stocks rise on JPMorgan, Goldman earnings as chip stocks fall: AlphaCheck - Yahoo Finance
+- Apple releases HomeView smart home hub with screen as showcase for Siri AI - CNBC
+- Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands - TechCrunch
