@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-14 04:09_
+_Updated: 2026-10-14 10:00_
 
-- Kimberly Guilfoyle is out as U.S. ambassador to Greece - The Washington Post
-- Pope Leo has lung cancer, the Vatican announces after surgery - NPR
-- Justice Dept. Issues Subpoenas in Ilhan Omar Investigation - The New York Times
-- Enter the Zachbot: Trump’s new press secretary malfunctions on podium debut - The Guardian
-- Cornell suspends fraternity parties, gives state police role in investigating campus assault reports - AP News
-- Judge blocks Trump administration from cutting down trees at D.C. golf course for 2 weeks - CBS News
+- ‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle. - The New York Times
+- Pope Leo diagnosed with lung cancer, undergoes successful surgery - Axios
+- Judge extends White House access to banned media outlets CNN, MS Now and Politico - The Guardian
+- U.S. probe of Rep. Ilhan Omar focuses on birth date, citizenship papers, people familiar say - The Washington Post
+- Ossoff commits to 6-year Senate term amid 2028 speculation - The Hill
+- New Trump press secretary says she passed bar exam in China, raising eyebrows - South China Morning Post
+- Cornell suspends frat parties after gang rape case - DW.com
+- Trump Adds Another Giveaway to His Midterm Pitch: Pardons. - The New York Times
 - Texas DA says ICE intentionally hit immigrant with a car and may have withheld evidence - NBC News
-- Trump debates calling off livestream of firing squad execution after learning Fort Hood shooter was paralyzed - CNN
-- Man who died in Six Flags rollercoaster fall in Georgia was a father and educator - The Guardian
-- They Pushed an Anti-Abortion Pill Law. Now, They’re Being Sued Under It. - The New York Times
-- Zelensky and Burnham to meet in Downing Street - BBC
-- Germany news: Left-leaning Berlin coalition talks break down - DW.com
-- As Houthis strike Riyadh, Saudi Arabia confronts the costs of U.S. war on Iran - The Washington Post
-- Britain has entered a ‘new era of national security,’ the head of MI5 says. - NBC News
-- FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says - Reuters
-- Bank of America fined $1.2 billion by Treasury Department for money laundering and sanctions laws violations - CNN
-- Bank stocks rise on JPMorgan, Goldman earnings as chip stocks fall: AlphaCheck - Yahoo Finance
-- How you can prepare for 6% bond yields - MarketWatch
+- Trump says "massive" oil, gas and mineral exploration in Greenland is "getting ready to begin" - CBS News
+- Argentina seeks tribunal order against UK oil activity near Falklands - Reuters
+- MI5 chief warns against overstating Russian interference in Brexit vote - BBC
+- Houthis strike Aramco hours after Saudi-led coalition hits Sanaa oil site - Al Jazeera
+- Iran shifting tactics to step up attacks on shipping before US vote, officials say - Reuters
+- Bank of America fined $1.2bn over failing to stop money laundering - BBC
+- OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room - The Hacker News
+- Wall Street Sees Inflation Easing Even With Oil Above $90 - Crude Oil Prices Today | OilPrice.com
+- ASML says it's getting order interest through 2030 as profit smashes expectations - CNBC
 - John Ternus Takes Next Big Swing as Apple CEO With HomeView Tablet - WSJ
 - Apple TV 4K And HomePod Mini 2 Hands-On: A Look At The Audio Updates And Siri AI - Engadget
