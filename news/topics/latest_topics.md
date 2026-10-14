@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-14 15:56_
+_Updated: 2026-10-14 20:48_
 
 ## Top Stories
 
-- En man har rymt från Svartsjöanstalten - Mitt i
-- Dådet som fick världen att häpna – nu inleds rättegången om Nord Stream - SVT Nyheter
-- Efter larmen om valfusk – så har det gått - Dagens Nyheter
-- Trumps nya utspel: Ska leta olja på ”vårt” Grönland - Göteborgs-Posten
-- Polis utredde barnporrbrott - misstänktes själv - Aftonbladet
-- Hovrätten fastställer domen för grovt koppleri i Kramfors - Sveriges Domstolar
-- Anderssons hemliga krav på V: ”Känsliga frågor” - Expressen
-- SD: Ställer oss inte bakom stopplag - Västerbottens-Kuriren
-- DN Direkt – Mohamed Ali (V) tillbakavisar uppgifter om förhören - Dagens Nyheter
-- Barn påkört i Luleå – förd med ambulans till sjukhus - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Uppgifter: Fartyg har sjunkit i Hormuz - Dagens Nyheter
-- Nya ryska attacker – Ukraina varnades inte av allierade - Göteborgs-Posten
-- Nya angrepp mot Saudiarabiens huvudstad - Västerbottens-Kuriren
-- Analyser: Giants låter inte sina fans spela quarterback - Omni – Alla nyheter. Alla perspektiv.
-- SEB faller tungt: ”Risk för inställt återköpsprogram” - DI
-- Kina slår till mot Europas bilindustri – här är tio bilar som avgör slaget - Dagens Nyheter
-- Jobbslakt hos Netflix – 1 000 tjänster bort - Aftonbladet
-- Leos Lekland hotas av miljonböter - Omni – Alla nyheter. Alla perspektiv.
+- DN Direkt – Talmannen: Mohamed Alis ledighet är inte beviljad - Dagens Nyheter
+- Kristersson: Inga förutsättningar för en icke-socialistisk regering - Dagens Nyheter
+- Hamilton Steiner: Plötsligt kommer missilerna utan förvarning - Dagens Nyheter
+- Nya hyror klara för 18 000 hushåll i Malmö – så mycket höjs din hyra - Sydsvenskan
+- Kristersson: ”Alla lösningar är helt osannolika” – Senaste nytt om valet 2026 - SVT Nyheter
+- Ny polisinsats på Sigtunaskolan - Göteborgs-Posten
+- Andersson: Diskuterar vad V ska göra - Corren
+- Fånge på rymmen från Svartsjöanstalten - SVT Nyheter
+- Man knivskuren i Sigtuna – misstänkt gripen - Västerbottens-Kuriren
+- SOS varnar för falska dödsbesked – via sms - NT
+- Två fartyg har sjunkit nära Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Kan regeringen stoppa en dubblerad svensk EU-avgift? - Dagens Nyheter
+- Påve Leo har haft en lugn natt efter en komplikationsfri lungoperation - Vatican News
+- DN Direkt – Grönland slår tillbaka mot Trump: ”Väldigt långt ifrån” - Dagens Nyheter
+- Svag stängning för Stockholmsbörsen – SEB föll - Placera.se
+- Jobbslakt hos Netflix – 1 000 tjänster bort efter svag tillväxt - Ny Teknik
+- Spotifygrundaren Martin Lorentzons hemliga investering - Expressen
+- Bränslepriser lyfter inflationen – matpriserna backar - Omni – Alla nyheter. Alla perspektiv.
 - 3 995 kronor? Glöm det. Uppgradera din gamla Apple TV 4K för 799 kronor - Macworld.se
 - Skottsekunden kan slopas – när jorden snurrar snabbare - Omni – Alla nyheter. Alla perspektiv.
 
@@ -39,8 +39,8 @@ _Updated: 2026-10-14 15:56_
 - Swedbank Robur lanserar global aktiefond - Finanswatch.se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Opec sänker prognosen för global efterfrågetillväxt 2026 - Börsvärlden
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
@@ -62,10 +62,10 @@ _Updated: 2026-10-14 15:56_
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - IDC: Marknaden för AI-mjukvara fyrdubblas till 2027 - Computer Sweden
@@ -78,7 +78,6 @@ _Updated: 2026-10-14 15:56_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
-- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
@@ -123,6 +122,7 @@ _Updated: 2026-10-14 15:56_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Internationell workshop om nätverket av excellenscentra inom bioteknikutbildning och forskning 2026: Främjande av forskning, utbildning och tekniköverföring - Vietnam.vn
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Forskningen ska vara fri - European Commission
@@ -137,7 +137,6 @@ _Updated: 2026-10-14 15:56_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 
 ## Jordbruk
 
