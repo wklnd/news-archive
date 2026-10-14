@@ -1,38 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-14 01:22_
+_Updated: 2026-10-14 04:04_
 
 ## Top Stories
 
+- Rysk robotattack mot kraftverk i Kyjiv - Omni – Alla nyheter. Alla perspektiv.
 - Påve Leo har fått diagnosen lungcancer - Dagens Nyheter
 - Bodströms känga till V: ”Handlar om dem själva” – Senaste nytt om valet 2026 - SVT Nyheter
 - DN Direkt – Greta Thunberg i Paris för att stötta elevprotester - Dagens Nyheter
-- Saudiarabien uppges ha attackerat oljeanläggning - Västerbottens-Kuriren
-- Alva, 25, fick falskt sms om dödsfall: ”Det var panik” - Aftonbladet
-- Rysk robotattack mot kraftverk i Kyjiv - Omni – Alla nyheter. Alla perspektiv.
-- Tomas Ramberg: Förödmjukat centerparti större problem för Andersson - Dagens Nyheter
+- 234 foster och spädbarn begravdes i Lund - TV4 Nyheterna
+- Fem personer misstänks ha utsatts på Sigtunaskolan - Göteborgs-Posten
 - Hundratals misstänks ha köpt sex av samma kvinna - Göteborgs-Posten
-- Fem personer misstänks ha utsatts på Sigtunaskolan - Västerbottens-Kuriren
 - DN Direkt – Omdebatterad trubadur slutar spela i tunnelbanan - Dagens Nyheter
+- Tomas Ramberg: Förödmjukat centerparti större problem för Andersson - Dagens Nyheter
+- Partierna överens: Inför stopplag mot tonårsutvisningar - Corren
 - Zelenskyj: Attack mot energianläggning i Kiev - Göteborgs-Posten
-- Socialisterna som kan ta makten i storstäderna i USA - Dagens Nyheter
+- Saudiarabien har attackerat mål i Jemen - Corren
+- Minst tio saknas i Svarta havet efter attacker utanför Bulgarien - Dagens Nyheter
 - Trump gör sig av med mutanklagad ambassadör - Västerbottens-Kuriren
-- LEDARE: Europa måste utgå från att Trump är opålitlig - Hufvudstadsbladet – HBL
-- SSAB om nya miljardinvesteringen: ”Räknar hem sig själv ganska enkelt” - EFN
-- Oljepriserna sjunker tillbaka - DI
-- Kontroversiella knepet – så sparar du för ditt barn - Expressen
+- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
 - Bajens sponsor kopplas till rysk brottslighet - Aftonbladet
-- Apples nya smarta skärm Homeview uteblir i EU - Macworld.se
+- Volvo Cars återkallar 234.000 elbilar - DI
+- Nedgång för bankaktier på Wall Street - Göteborgs-Posten
+- Fjärde generationen av Apple TV 4K ger surround med fyra Homepod - Macworld.se
 - Skottsekunden kan slopas – när jorden snurrar snabbare - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på igår 07:40 - TV.nu
 - EPO President discusses future of global IP system at AIPPI World Congress - epo.org
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -51,9 +51,11 @@ _Updated: 2026-10-14 01:22_
 ## Technology
 
 - Kinesisk teknologi är närvarande i AI-vågen i USA. - Vietnam.vn
+- Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
+- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
+- Vietnam-Japan Digital Technology Forum 2026: Lösning av "utmaningarna" i AI-eran - Vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
@@ -61,11 +63,9 @@ _Updated: 2026-10-14 01:22_
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - Data Centre Expo Sweden - Mynewsdesk
 - My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
-- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Vietnam-Japan Digital Technology Forum 2026: Lösning av "utmaningarna" i AI-eran - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - IDC: Marknaden för AI-mjukvara fyrdubblas till 2027 - Computer Sweden
@@ -74,9 +74,9 @@ _Updated: 2026-10-14 01:22_
 ## Business
 
 - Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
+- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
 - Vilken framtid arbetar du för? - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
