@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-14 01:25_
+_Updated: 2026-10-14 04:09_
 
-- Kimberly Guilfoyle, U.S. ambassador to Greece, resigns amid misconduct allegations - NBC News
-- Pope Leo XIV diagnosed with lung cancer - Politico
+- Kimberly Guilfoyle is out as U.S. ambassador to Greece - The Washington Post
+- Pope Leo has lung cancer, the Vatican announces after surgery - NPR
+- Justice Dept. Issues Subpoenas in Ilhan Omar Investigation - The New York Times
 - Enter the Zachbot: Trump’s new press secretary malfunctions on podium debut - The Guardian
-- Ilhan Omar's wealth scandal takes a turn just one day after raid of her DC home - Fox News
 - Cornell suspends fraternity parties, gives state police role in investigating campus assault reports - AP News
-- Man who died after being ‘ejected’ from Goliath coaster at Six Flags Over Georgia was cherished teacher, school says - CNN
+- Judge blocks Trump administration from cutting down trees at D.C. golf course for 2 weeks - CBS News
+- Texas DA says ICE intentionally hit immigrant with a car and may have withheld evidence - NBC News
 - Trump debates calling off livestream of firing squad execution after learning Fort Hood shooter was paralyzed - CNN
-- He Would Be Florida’s First Black Governor. Can He Sway Black Voters? - The New York Times
-- More Republicans come out against Trump's diesel deal with Putin - CNBC
-- A judge blocks the government's tree-clearing spree at a municipal D.C. golf course - NPR
-- MI5 tackling more state threats than during Cold War, warns intelligence chief - BBC
-- Drones hit ships in Black Sea, sinking 1 and prompting rescue operations, Bulgaria says - AP News
+- Man who died in Six Flags rollercoaster fall in Georgia was a father and educator - The Guardian
+- They Pushed an Anti-Abortion Pill Law. Now, They’re Being Sued Under It. - The New York Times
+- Zelensky and Burnham to meet in Downing Street - BBC
 - Germany news: Left-leaning Berlin coalition talks break down - DW.com
-- MI5 chief warns against overstating Russian interference in Brexit vote - BBC
-- Bank of America hit with $1.2B in penalties over money laundering compliance failures - Fox Business
-- Saudi OpenAI engineer arrested by FBI for planting covert recording device, US DOJ says - Reuters
-- Goldman Jumps On Strong Earnings. But Big Bank Rivals Waver, Fall. - Investor's Business Daily
-- IMF raises its forecast for world growth this year but warns of risks from AI boom and debt - AP News
-- Apple unveils new smart home devices that showcase upgraded Siri AI - The Guardian
-- The Apple TV 4K Gets Siri AI, an A19 Chip, and a $299 Price Tag - MacStories
+- As Houthis strike Riyadh, Saudi Arabia confronts the costs of U.S. war on Iran - The Washington Post
+- Britain has entered a ‘new era of national security,’ the head of MI5 says. - NBC News
+- FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says - Reuters
+- Bank of America fined $1.2 billion by Treasury Department for money laundering and sanctions laws violations - CNN
+- Bank stocks rise on JPMorgan, Goldman earnings as chip stocks fall: AlphaCheck - Yahoo Finance
+- How you can prepare for 6% bond yields - MarketWatch
+- John Ternus Takes Next Big Swing as Apple CEO With HomeView Tablet - WSJ
+- Apple TV 4K And HomePod Mini 2 Hands-On: A Look At The Audio Updates And Siri AI - Engadget
