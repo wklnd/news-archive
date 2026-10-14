@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-14 10:00_
+_Updated: 2026-10-14 16:01_
 
-- ‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle. - The New York Times
-- Pope Leo diagnosed with lung cancer, undergoes successful surgery - Axios
-- Judge extends White House access to banned media outlets CNN, MS Now and Politico - The Guardian
-- U.S. probe of Rep. Ilhan Omar focuses on birth date, citizenship papers, people familiar say - The Washington Post
-- Ossoff commits to 6-year Senate term amid 2028 speculation - The Hill
-- New Trump press secretary says she passed bar exam in China, raising eyebrows - South China Morning Post
-- Cornell suspends frat parties after gang rape case - DW.com
-- Trump Adds Another Giveaway to His Midterm Pitch: Pardons. - The New York Times
-- Texas DA says ICE intentionally hit immigrant with a car and may have withheld evidence - NBC News
-- Trump says "massive" oil, gas and mineral exploration in Greenland is "getting ready to begin" - CBS News
-- Argentina seeks tribunal order against UK oil activity near Falklands - Reuters
-- MI5 chief warns against overstating Russian interference in Brexit vote - BBC
-- Houthis strike Aramco hours after Saudi-led coalition hits Sanaa oil site - Al Jazeera
-- Iran shifting tactics to step up attacks on shipping before US vote, officials say - Reuters
-- Bank of America fined $1.2bn over failing to stop money laundering - BBC
-- OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room - The Hacker News
-- Wall Street Sees Inflation Easing Even With Oil Above $90 - Crude Oil Prices Today | OilPrice.com
-- ASML says it's getting order interest through 2030 as profit smashes expectations - CNBC
+- Pope Leo spends a peaceful night in the hospital after cancer surgery - NBC News
+- Ukraine accuses SpaceX of crippling drone missions as ties with US worsen - Reuters
+- Ossoff rejects 2028 buzz amid bruising night of Senate debates - Axios
+- Jimmy Kimmel Takes Aim at Trump's New Press Secretary: 'Her Reading Is Good for an 11-Year-Old' - Rolling Stone
+- How the pre-election search of Rep. Ilhan Omar’s home breaks Justice Dept. norms - The Washington Post
+- A Trump Backlash Endangers Susan Collins, the Only Blue-State G.O.P. Senator - The New York Times
+- House control all but gone, top Republicans privately concede - Politico
+- Roller coaster rider’s death puts spotlight on the safety of ever more thrilling rides - AP News
+- Cornell cancels fraternity parties over sexual assault case - BBC
+- Federal judge issues longer-term decision blocking Trump’s White House media ban - NBC News
+- Ukraine received no intel about incoming missiles, Zelenskyy says - Euronews.com
+- Live Updates: Houthis launch new attack on Saudi capital as Trump mulls U.S. role in Mideast war's new front - CBS News
+- Bulgaria says Russia was likely behind Black Sea drone strikes as rescue operations continue - AP News
+- Russia arrests Japanese journalist on espionage charges - Financial Times
+- Consumer prices rose at 3.7% annual rate in September as gas costs skyrocket - CNBC
+- Bank of America Q3 profit tumbles 17% as deals, trading revenue fall - Yahoo Finance
+- OpenAI engineer arrested after recording device found at San Francisco office - Fox News
+- Morgan Stanley’s Wealth Arm Brings in Record New Money From IPOs - Bloomberg.com
 - John Ternus Takes Next Big Swing as Apple CEO With HomeView Tablet - WSJ
-- Apple TV 4K And HomePod Mini 2 Hands-On: A Look At The Audio Updates And Siri AI - Engadget
+- Your Galaxy Watch is about to become a whole lot better - PhoneArena
