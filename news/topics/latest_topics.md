@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-14 04:04_
+_Updated: 2026-10-14 09:55_
 
 ## Top Stories
 
-- Rysk robotattack mot kraftverk i Kyjiv - Omni – Alla nyheter. Alla perspektiv.
-- Påve Leo har fått diagnosen lungcancer - Dagens Nyheter
-- Bodströms känga till V: ”Handlar om dem själva” – Senaste nytt om valet 2026 - SVT Nyheter
-- DN Direkt – Greta Thunberg i Paris för att stötta elevprotester - Dagens Nyheter
-- 234 foster och spädbarn begravdes i Lund - TV4 Nyheterna
-- Fem personer misstänks ha utsatts på Sigtunaskolan - Göteborgs-Posten
-- Hundratals misstänks ha köpt sex av samma kvinna - Göteborgs-Posten
-- DN Direkt – Omdebatterad trubadur slutar spela i tunnelbanan - Dagens Nyheter
-- Tomas Ramberg: Förödmjukat centerparti större problem för Andersson - Dagens Nyheter
-- Partierna överens: Inför stopplag mot tonårsutvisningar - Corren
-- Zelenskyj: Attack mot energianläggning i Kiev - Göteborgs-Posten
+- Traditionella kändisar förlorare på Instagram - Göteborgs-Posten
+- DN Direkt – Ny mätning: Största stödet för M på fem år - Dagens Nyheter
+- Nya pressekreteraren i Vita huset är advokat – eller? - Omni – Alla nyheter. Alla perspektiv.
+- Petter Sandgren: Det finns ett perverst syfte bakom Sigtunas elevstyre - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Elen utslagen i Kiev efter rysk attack - Dagens Nyheter
+- Talmannen: Föreslår Andersson som statsminister - Corren
+- Två till sjukhus efter brand i mikrovågsugn - TV4 Nyheterna
+- Körde i fel färdriktning – och sen i diket - TV4 Nyheterna
+- Andersson (S) om C: Då har man blåst väljarna totalt – Senaste nytt om valet 2026 - SVT Nyheter
+- Åklagaren om Hovslättsskjutningen: ”Fotboja hade sannolikt inte ändrat utgången” - SVT Nyheter
+- Dådet som fick världen att häpna – nu inleds rättegången om Nord Stream - SVT Nyheter
 - Saudiarabien har attackerat mål i Jemen - Corren
-- Minst tio saknas i Svarta havet efter attacker utanför Bulgarien - Dagens Nyheter
-- Trump gör sig av med mutanklagad ambassadör - Västerbottens-Kuriren
-- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
-- Bajens sponsor kopplas till rysk brottslighet - Aftonbladet
-- Volvo Cars återkallar 234.000 elbilar - DI
-- Nedgång för bankaktier på Wall Street - Göteborgs-Posten
+- Turkisk polis i räd mot tv-kanal - Västerbottens-Kuriren
+- Båt kapsejsade i Indien – många barn döda - Aftonbladet
+- Bränslepriser lyfter inflationen – matpriserna backar - Omni – Alla nyheter. Alla perspektiv.
+- BÖTFÄLLS FÖR PENNINGTVÄTT OCH SANKTIONSBROTT (OMS) - Placera.se
+- Ekonom: Högt oljepris här för att stanna – även efter kriget - EFN
+- Finansinspektionen: SEB får tillfälligt högre kapitalkrav på grund av modellbrister (Cision) - Aktiellt
 - Fjärde generationen av Apple TV 4K ger surround med fyra Homepod - Macworld.se
 - Skottsekunden kan slopas – när jorden snurrar snabbare - Omni – Alla nyheter. Alla perspektiv.
 
@@ -29,10 +29,9 @@ _Updated: 2026-10-14 04:04_
 
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på igår 07:40 - TV.nu
 - EPO President discusses future of global IP system at AIPPI World Congress - epo.org
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -40,11 +39,12 @@ _Updated: 2026-10-14 04:04_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Swedbank Robur lanserar global aktiefond - Finanswatch.se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Opec sänker prognosen för global efterfrågetillväxt 2026 - Börsvärlden
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
 
@@ -55,17 +55,17 @@ _Updated: 2026-10-14 04:04_
 - Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Vietnam-Japan Digital Technology Forum 2026: Lösning av "utmaningarna" i AI-eran - Vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - Data Centre Expo Sweden - Mynewsdesk
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - IDC: Marknaden för AI-mjukvara fyrdubblas till 2027 - Computer Sweden
@@ -77,21 +77,19 @@ _Updated: 2026-10-14 04:04_
 - 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
 - Vilken framtid arbetar du för? - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
-- Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
@@ -100,22 +98,22 @@ _Updated: 2026-10-14 04:04_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - FDA godkänner AIRS Medicals AI‑MRI‑verktyg för kroppssammansättningsanalys - Unite.AI
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Flexibel kapacitetsökning i katastrofer och allvarliga händelser - Göteborgs universitet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - Mynewsdesk
 
 ## Science
 
@@ -135,9 +133,9 @@ _Updated: 2026-10-14 04:04_
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - Olika slutsatser från samma data - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
