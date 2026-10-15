@@ -1,43 +1,43 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-15 00:30_
+_Updated: 2026-10-15 02:44_
 
 ## Top Stories
 
-- Hyrorna höjs 2,85 procent i Stockholm: ”Hårt slag” - Omni – Alla nyheter. Alla perspektiv.
-- Skakig debut för Trumps nya talesperson – ”måste bli bättre fort” - Dagens Nyheter
-- Regeringsdramat går vidare – här är alternativen - Dagens Nyheter
+- Nya hyror hos privata värdar: ”Gränsen nådd” - Västerbottens-Kuriren
+- DN Direkt – Grönland slår tillbaka mot Trump: ”Väldigt långt ifrån” - Dagens Nyheter
+- Förblindade av röda linjer - Dagens Arena
 - Nya angrepp mot Saudiarabiens huvudstad - Västerbottens-Kuriren
-- Alva, 25, fick bluff-sms – trodde pappan var död - Svenska Dagbladet
+- Brittiska pengar till Tjernobyl - Göteborgs-Posten
+- Två fartyg har sjunkit nära Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Ny polisinsats på Sigtunaskolan - Göteborgs-Posten
 - Alis ledighetsansökan inte godkänd – Senaste nytt om valet 2026 - SVT Nyheter
-- Talmannen: Mohamed Alis ledighet är inte beviljad - Dagens Nyheter
+- Mohamed Alis ledighetsansökan får nej - Västerbottens-Kuriren
 - Trafikverket om bärgningen på Strömsundsbron: Största risken att bron kan lyfta - SVT Nyheter
-- SD: Ställer oss inte bakom stopplag - Västerbottens-Kuriren
 - Zelenskyj känner sig förrådd av Trump - Dagens Nyheter
-- Påven är på fötter igen efter lungoperationen - Omni – Alla nyheter. Alla perspektiv.
+- Påve Leo har haft en lugn natt efter en komplikationsfri lungoperation - Vatican News
+- Skakig debut för Trumps nya talesperson – ”måste bli bättre fort” - Dagens Nyheter
 - Kan regeringen stoppa en dubblerad svensk EU-avgift? - Dagens Nyheter
-- Två fartyg har sjunkit nära Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Inflation och AI-aktier sänkte Wall Street - Sydsvenskan
-- Citi ser begränsad risk för Swedbank och Nordea efter FI-beslut om SEB - Placera.se
+- Oregelbunden avslutning på Stockholmsbörsen, SEB föll på högre kapitalkrav (Finwire News) - Aktiellt
 - Jobbslakt hos Netflix – 1 000 tjänster bort efter svag tillväxt - Ny Teknik
-- Wall Street-profilen satsar på olja – varnar för 25 dollar mer per fat - Börskollen
-- Skottsekunden kan slopas – när jorden snurrar snabbare - Omni – Alla nyheter. Alla perspektiv.
+- USA-bankerna: Färre affärer men ekonomin står pall - Omni – Alla nyheter. Alla perspektiv.
 - Jag har sett Apples HomeView i verkligheten – den ser ut som en korsning mellan Apple Watch och klassiska iMac G4 - TechRadar
+- Mats låg nedsövd i 42 dygn: ”Ett mirakel” - Aftonbladet
 
 ## World News
 
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på igår 07:40 - TV.nu
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Swedbank Robur lanserar global aktiefond - Finanswatch.se
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
@@ -47,6 +47,29 @@ _Updated: 2026-10-15 00:30_
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
+
+## Technology
+
+- Kinesisk teknologi är närvarande i AI-vågen i USA. - Vietnam.vn
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- Oron: Då tar datan på internet slut - Svenska Dagbladet
+- Data Centre Expo Sweden - Mynewsdesk
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
+- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Tiden för billig vibe coding kan vara över - Computer Sweden
+- AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
+- IDC: Marknaden för AI-mjukvara fyrdubblas till 2027 - Computer Sweden
+- Från ett laboratorium till en modell för att popularisera STEM, robotik och AI i skolor. - Vietnam.vn
 
 ## Business
 
@@ -100,6 +123,7 @@ _Updated: 2026-10-15 00:30_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Internationell workshop om nätverket av excellenscentra inom bioteknikutbildning och forskning 2026: Främjande av forskning, utbildning och tekniköverföring - Vietnam.vn
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Forskningen ska vara fri - European Commission
@@ -108,13 +132,12 @@ _Updated: 2026-10-15 00:30_
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Andrea del Valle - Karolinska Institutet
-- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - Olika slutsatser från samma data - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
-- Simple math behind major bison blunder - Forskning & Framsteg
+- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 
 ## Jordbruk
 
