@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-15 22:31_
+_Updated: 2026-10-16 01:17_
 
-- Katie Zacharia did not pass the bar exam, senior administration official says - NBC News
-- Trump calls off livestream of Fort Hood attacker's execution by firing squad - BBC
-- Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump - AP News
+- 3 children, 1 adult killed in shooting at Bend, Oregon, elementary school, sources say; suspect dead - CBS News
+- Trump, after bipartisan backlash, says Pentagon won't livestream execution of Fort Hood shooter - AP News
+- The new White House press secretary failed the bar exam. She shared posts calling her an attorney anyway - CNN
 - Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports - Reuters
-- SpaceX Stock Drops: Starlink Ukraine Risks Are a Problem for Musk - Barron's
-- Government records reveal mechanical failures, faulty restraint bars and broken bones at Six Flags theme parks - CNN
 - Trump Administration Sues California Over Voter Rolls - The New York Times
-- What we know about the criminal investigation into US Congresswoman Ilhan Omar - BBC
-- Some GOP walk the line on Trump’s tariffs and a look at Apple HomeView: Morning Rundown - NBC News
-- MAGA donor hits Guilfoyle, attorneys with defamation lawsuit - The Hill
+- SpaceX Stock Drops: Starlink Ukraine Risks Are a Problem for Musk - Barron's
+- Ilhan Omar's husband snaps over rumors she fled US after federal immigration fraud raid - Fox News
+- Authorities investigate letters with 'suspicious substances' sent to congressional, election offices - AP News
+- ICE agent driving vehicle that struck, injured Houston man is placed on administrative leave - NBC News
+- The GOP’s midterm lifeline: Maybe the polls are wrong - Politico
 - Pope Leo resumes working, sees top aide in hospital as doctors say lung recovered from surgery - AP News
-- Houthi missile attack on Yemeni presidential palace kills two, minister says - BBC
-- 32 Children Killed After School Roof Collapses in Pakistan - The New York Times
-- Kenya’s Ebola cases test preparedness beyond Nairobi - Al Jazeera
-- Social Security cost-of-living increase sparks debate over looming funding shortfall - Fox Business
-- Dow climbs 500 points as investors shake off a tech sell-off, more hot inflation data: Live updates - CNBC
-- Elon Musk says Tesla’s Roadster demo could be a bang, quite literally - Teslarati
-- US producer prices post largest gain in 4-1/2 years; expensive gasoline boosts retail sales - Reuters
+- Houthi missiles strike Saudi-led forces HQ at presidential palace in Aden - The Guardian
+- Peshawar: At least 33 pupils and teacher killed after Pakistan school roof collapses - BBC
+- Second Ebola Infection Announced in Kenya - The New York Times
+- EXCLUSIVE: Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say - Reuters
+- Cracks are beginning to show in the stock market, as doubts grow about AI investments - NBC News
+- Tesla plans next-generation Roadster reveal after almost a decade of delays - CNBC
+- KFC to Ditch Pepsi for Coke in Thousands of Restaurants - WSJ
 - I’ve Tested Echo Shows and Nest Hubs. Here’s How Apple’s HomeView Display Stacks Up - CNET
-- Amazon Debuts Revamped Bee AI Wearables, $12-a-Month Subscription Plan - Bloomberg.com
+- Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps - TechCrunch
