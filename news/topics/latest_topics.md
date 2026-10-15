@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-15 19:15_
+_Updated: 2026-10-15 22:28_
 
 ## Top Stories
 
-- S-ledaren Magdalena Andersson röstas ner - UNT
-- Agnes Hellström: Något av det mest skrämmande under mina år på Sigtuna var internatpapporna - Dagens Nyheter
-- Pojke misstänkt för mordplan på skola häktas - Göteborgs-Posten
-- Zelenskyj: Återupptar bombningarna av rysk olja - Dagens Nyheter
-- Nettobetalarna kräver nytt budgetbud när EU-ledarna samlas - Europaportalen
-- 15 oktober 16.07, Farligt föremål, misstänkt, Uppsala - polisen.se
-- Ambulansföraren Lotta attackerades med kniv - Arbetet
-- Person hittad avliden i Göteborg – polisen utreder mord - SVT Nyheter
+- Håkan Boström: Till sist kan S tvingas rädda kvar Kristersson - Göteborgs-Posten
 - DN Direkt – Dadgostar: Thand Ringqvist bör få uppdraget - Dagens Nyheter
-- Arborist föll flera meter på Östermalm - Mitt i Stockholm
-- Det här bråket spelar Ryssland i händerna - Hufvudstadsbladet – HBL
+- Elev utreds för förberedelse till mord • Kniv togs med till skola - Hudiksvalls Tidning
+- Zelenskyj: Återupptar bombningarna av rysk olja - Dagens Nyheter
+- Allt fler göteborgare behöver låna pengar till mat och hyra - Göteborgs-Posten
+- Person hittad avliden i Göteborg – polisen utreder mord - SVT Nyheter
+- Pojkar rånade och påkörda i Malmö - SVT Nyheter
+- DN Direkt – Ytterligare två anhållna på Sigtunaskolan - Dagens Nyheter
+- Larm om brand var teaterrök - Västerbottens-Kuriren
+- Nu har lastbilen flyttats från Strömsundsbron: ”Man åker inga onödiga resor” - Dagens Nyheter
 - Trump: Inte aktuellt med direktsänd avrättning - Corren
+- Marcus Lindqvist Ukraina har blivit offer för USA:s inrikespolitik - Hufvudstadsbladet – HBL
 - ”Fel riktning” – Kristersson om USA och Ukraina - Göteborgs-Posten
-- Ryskt oljeraffinaderi attackerat av Ukraina - Västerbottens-Kuriren
-- USA-börser åt olika håll – fortsatt AI-oro tynger - Omni – Alla nyheter. Alla perspektiv.
-- Kinnevik nollar värdet på Stegra – avstår kapitalrunda - Metal Supply
-- Jensen Huang om Wallenbergs superdator: ”Som en tidsmaskin” - EFN
-- DN Direkt – Ericsson mot strömmen på negativ börs - Dagens Nyheter
-- Sekunddrama på Versailles – nu ska tidssystemets öde avgöras - Dagens Nyheter
-- Sex, action och biljakter i nya trailern till ”Grand Theft Auto VI” - MovieZine
+- Kristersson om EU-budget: Pengar är inte gratis - Göteborgs-Posten
+- Wallenbergs nya superdator – Huang: ”Som en tidsmaskin” - EFN
+- Åtta amerikanska delstater stämmer Open AI - Västerbottens-Kuriren
+- Här är Saabs nya plan som ska skydda Sverige - Corren
+- Volvo tar hjälp av Nvidia – siktar mot självkörning. - Dagens Nyheter
+- Nu försvinner en sekund - Aftonbladet
+- Rockstar släpper nya lanseringstrailern för GTA VI - Dopest.se
 
 ## World News
 
@@ -39,14 +39,14 @@ _Updated: 2026-10-15 19:15_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
-- GT World Challenge Asia, Sepang International Circuit, Malaysia på igår 07:40 - TV.nu
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 
 ## Technology
 
@@ -60,8 +60,8 @@ _Updated: 2026-10-15 19:15_
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Data Centre Expo Sweden - Mynewsdesk
 - My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
-- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
 - Bästa AI-aktierna att köpa nu - Morningstar
+- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
@@ -99,8 +99,8 @@ _Updated: 2026-10-15 19:15_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - FDA godkänner AIRS Medicals AI‑MRI‑verktyg för kroppssammansättningsanalys - Unite.AI
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
@@ -108,8 +108,8 @@ _Updated: 2026-10-15 19:15_
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Flexibel kapacitetsökning i katastrofer och allvarliga händelser - Göteborgs universitet
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - Mynewsdesk
