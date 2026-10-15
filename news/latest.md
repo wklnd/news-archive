@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-15 14:06_
+_Updated: 2026-10-15 19:20_
 
-- Talarico debates Texas voters in CNN-Jubilee town hall amid tight Senate race - The Hill
-- Republicans’ last hope for 2026: Another polling miss - Politico
-- ‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts - NBC News
+- Trump cancels public execution, but a line may already have been crossed - NPR
+- Ukraine hits Russian refinery as Starlink satellite services are restored - Axios
+- Katie Zacharia did not pass the bar exam, senior administration official says - NBC News
+- Five Takeaways From James Talarico’s CNN Town Hall With Texas Voters - WSJ
+- At least 33 pupils and teacher killed after school roof collapses in Pakistan - BBC
 - Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems - CNBC
-- Trump suggests those who leak government information should ‘be shot’ - Al Jazeera
-- Iranian attacks sink two ships in Strait of Hormuz - The Washington Post
-- Donald Trump claims ‘Iran war will end very soon’ as midterm rallies heat up – US politics live - The Guardian
-- How Adam Hamilton Built a Megachurch Where People Can Disagree - The New York Times
-- Police investigate report of sexual assault at a fraternity party near the University of Chicago - AP News
-- Trump administration seeks to strip Ilhan Omar of US citizenship: WSJ - Al Jazeera
-- School roof collapse kills at least 29, injures more than 50 in Pakistan - AP News
-- The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones - The New York Times
-- Why Does Saudi Arabia Struggle to Stop Houthi Attacks? - The New York Times
-- Sally Rooney Can’t Publish in the U.K. Because of Her Palestine Support - The Cut
-- Anthropic flags revenue surge to investors ahead of stock market debut - BBC
-- OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis - The New York Times
-- Stock Market Today: Tech Selloff to Extend Into Second Day — Live Updates - WSJ
-- Korea Stocks Tumble 8% as Investors Rush to Unwind AI Exposure - Bloomberg.com
+- Some GOP walk the line on Trump’s tariffs and a look at Apple HomeView: Morning Rundown - NBC News
+- Cornell’s President Grilled by Faculty Senate Over Handling of Crisis - The New York Times
+- Group chats from Nolan Wells' phone show what his friends said before and after he vanished - CBS News
+- Man shot by ICE in NYC's Marble Hill said federal officers never identified themselves - Gothamist
+- Trump ripped for reaction to Pope Leo cancer diagnosis: ‘Incapable of giving a s—t’ - SILive.com
+- Iran War Updates: Ships in Strait of Hormuz still face "indiscriminate attacks," maritime monitor warns - CBS News
+- Sally Rooney Withdraws Her Books From UK Over Her Support of Palestine Action - The New York Times
+- Homeowner Makes Priceless 3,000-Year-Old Discovery in Garden - The Daily Beast
+- Wholesale inflation reaches levels last seen in 2022 - AP News
+- Social Security cost-of-living increase sparks debate over looming funding shortfall - Fox Business
+- CoreWeave's slump spotlights growing burden of debt behind AI boom - Reuters
+- Dow jumps 400 points, Nasdaq slides as investors rotate out of tech shares: Live updates - CNBC
 - Apple and Schneider’s new smart thermostat could help cut your electric bill - Electrek
-- New Xbox Nano Controller is designed for "younger players, smaller hands, or anyone seeking something portable" - Digital Foundry
+- Red Magic 12 Pro+ gaming phone launches with Snapdragon 8 Elite Extreme Gen 6, liquid-cooling system, 8,400mAh battery, and more - Gizmochina
