@@ -1,36 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-15 22:28_
+_Updated: 2026-10-16 01:11_
 
 ## Top Stories
 
-- Håkan Boström: Till sist kan S tvingas rädda kvar Kristersson - Göteborgs-Posten
-- DN Direkt – Dadgostar: Thand Ringqvist bör få uppdraget - Dagens Nyheter
-- Elev utreds för förberedelse till mord • Kniv togs med till skola - Hudiksvalls Tidning
-- Zelenskyj: Återupptar bombningarna av rysk olja - Dagens Nyheter
-- Allt fler göteborgare behöver låna pengar till mat och hyra - Göteborgs-Posten
-- Person hittad avliden i Göteborg – polisen utreder mord - SVT Nyheter
-- Pojkar rånade och påkörda i Malmö - SVT Nyheter
+- Trump: Inte aktuellt med direktsänd avrättning - Göteborgs-Posten
+- Uppgifter: Ung man död i Göteborg – blodspår på kyrkogård - Aftonbladet
+- DN Direkt – Ulf Kristersson: Magdalena Andersson har misslyckats - Dagens Nyheter
+- Skolskjutning i Oregon – misstänkte skytten är död - Omni – Alla nyheter. Alla perspektiv.
+- Minibuss i krock med godståg vid Kanaltunneln – flera skadade - SVT Nyheter
+- Pojkar rånade och påkörda i Malmö - TV4 Nyheterna
+- Pojke misstänkt för mordplan på skola häktas - Göteborgs-Posten
 - DN Direkt – Ytterligare två anhållna på Sigtunaskolan - Dagens Nyheter
-- Larm om brand var teaterrök - Västerbottens-Kuriren
+- Misstänkt brand i centrala Stockholm – var "teaterrök" - Expressen
 - Nu har lastbilen flyttats från Strömsundsbron: ”Man åker inga onödiga resor” - Dagens Nyheter
-- Trump: Inte aktuellt med direktsänd avrättning - Corren
-- Marcus Lindqvist Ukraina har blivit offer för USA:s inrikespolitik - Hufvudstadsbladet – HBL
-- ”Fel riktning” – Kristersson om USA och Ukraina - Göteborgs-Posten
-- Kristersson om EU-budget: Pengar är inte gratis - Göteborgs-Posten
+- Tredje dagen av regeringsprotester i Albanien - Västerbottens-Kuriren
+- EU-ledarna oense – nytt budgetförslag på gång - Dagens Nyheter
+- DN Direkt – Trumps talesperson erkänner: är inte advokat - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Källor: USA överväger superbomb i Iran - Dagens Nyheter
 - Wallenbergs nya superdator – Huang: ”Som en tidsmaskin” - EFN
 - Åtta amerikanska delstater stämmer Open AI - Västerbottens-Kuriren
 - Här är Saabs nya plan som ska skydda Sverige - Corren
-- Volvo tar hjälp av Nvidia – siktar mot självkörning. - Dagens Nyheter
-- Nu försvinner en sekund - Aftonbladet
-- Rockstar släpper nya lanseringstrailern för GTA VI - Dopest.se
+- Volvo Cars och Nvidia siktar på självkörande bilar – igen - Omni – Alla nyheter. Alla perspektiv.
+- En sekund försvinner – vilken är din mest minnesvärda? - Aftonbladet
+- Rockstar droppar nya lanseringstrailern för GTA VI - Dopest.se
 
 ## World News
 
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
@@ -40,13 +40,13 @@ _Updated: 2026-10-15 22:28_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 
 ## Technology
 
@@ -59,31 +59,31 @@ _Updated: 2026-10-15 22:28_
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Data Centre Expo Sweden - Mynewsdesk
+- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
 - Bästa AI-aktierna att köpa nu - Morningstar
 - Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - IDC: Marknaden för AI-mjukvara fyrdubblas till 2027 - Computer Sweden
 - Från ett laboratorium till en modell för att popularisera STEM, robotik och AI i skolor. - Vietnam.vn
 
 ## Business
 
+- Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
 - 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
-- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -99,17 +99,17 @@ _Updated: 2026-10-15 22:28_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - FDA godkänner AIRS Medicals AI‑MRI‑verktyg för kroppssammansättningsanalys - Unite.AI
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
+- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
-- Flexibel kapacitetsökning i katastrofer och allvarliga händelser - Göteborgs universitet
+- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Flexibel kapacitetsökning i katastrofer och allvarliga händelser - Göteborgs universitet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - Mynewsdesk
@@ -140,10 +140,10 @@ _Updated: 2026-10-15 22:28_
 
 ## Jordbruk
 
+- Att utveckla jordbruket i en ekologisk riktning. - Vietnam.vn
 - OlsAro closes €5m seed investment to scale climate-resilient cereal genetics - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Ho Chi Minh City University of Agriculture and Forestry utökar samarbetet inom utbildning och vetenskaplig forskning. - Vietnam.vn
-- Svenska Bin ger ut boken Honung – En smakupplevelse - Mynewsdesk
 - Jordbrukspolitik - Naturvårdsverket
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
@@ -154,8 +154,8 @@ _Updated: 2026-10-15 22:28_
 - Kan agroekologi mätta världen? - SLU
 - Här är världens största jordbruk - ATL
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Visning av uppkomst efter direktsådd - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
