@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-16 22:00_
+_Updated: 2026-10-17 00:57_
 
 ## Top Stories
 
-- DN Direkt – Person skjuten i en idrottshall i Älvsjö - Dagens Nyheter
-- Trumps nya talesperson sparkas – efter några dagar - Västerbottens-Kuriren
-- Bråk bakom kulisserna: C vägrar delta i rödgröna möten - Dagens Nyheter
-- Interna kritiken: ”Ett slag i magen” - Svenska Dagbladet
-- Barn lånade ”dark romance”-bok – biblioteket gjorde en orosanmälan - SVT Nyheter
-- Åklagaren: Elever på Sigtunaskolan har gjort sig av med föremål - SVT Nyheter
+- Polisjakt i Älvsjö efter skottdrama vid skola - Aftonbladet
+- Vita husets nya pressekreterare sparkas - SVT Nyheter
+- DN Direkt – Källor: Zacharia får sparken som Trumps pressekreterare - Dagens Nyheter
+- Minst 30 döda i drönarattack mot marknad i Sudan - Aftonbladet
 - Pressträff: Talmannen om nästa steg i regeringsbildningen - Altinget.se
-- Stort polispådrag i Ronneby – man körde in i stadshuset - SVT Nyheter
-- Foodorabud våldtog kvinna – döms - Expressen
-- DN Direkt – Efter Alis kryssraket – M-ledamot vill ändra lagen - Dagens Nyheter
+- Barn lånade ”dark romance”-bok – biblioteket gjorde en orosanmälan - SVT Nyheter
+- Larmen om Sigtunaskolan: ”Utstuderade metoder för att skapa rädsla” - Dagens Nyheter
+- Bråk bakom kulisserna: C vägrar delta i rödgröna möten - Dagens Nyheter
+- Därför lägger polisen ner utredningen om lastbilen på Strömsundsbron - SVT Nyheter
+- V: Mohamed Ali kommer till riksdagen inom kort - Bulletin
 - Fotograf misshandlad av bosättare på Västbanken - Göteborgs-Posten
-- Robotar mot Riyad nedskjutna av Saudiarabien - Västerbottens-Kuriren
-- Zelenskyj om Patriotrobotar: ”Vi ber om absolut minimum” - Dagens Nyheter
-- DN Direkt – Våldsamma protester i Albanien – Rama uppmanar till lugn - Dagens Nyheter
-- Flera höjda riktkurser för Ericsson efter rapporten - Placera.se
-- Jonathan Axelsson: Wallenberg krattar för nya miljarder till Stegra - EFN
-- Putins nya drag: ”Det är bara så sjukt” - DI
-- Cirkus i Texas medan världen brinner: Varför Elon Musks flygande bil är ett hån mot vår tid - Skåne Plus
-- Poddpuff: Kritik mot Zara Larsson - Aftonbladet
-- Hanna Stjärne lämnar Stiftelsen Nobel Center efter krav från styrelsen - Dagens Nyheter
+- Rama uppmanar till lugn efter våldsamma protester - Västerbottens-Kuriren
+- Robotar mot Riyad nedskjutna av Saudiarabien - Göteborgs-Posten
+- Direkt – Kriget i Ukraina – Zelenskyj: Begränsningar av Starlink hotar civila - Dagens Nyheter
+- Tesla Roadster – det här är Elon Musks nya flygande bil - EFN
+- ”Pratet om svensk digital suveränitet skaver när Nvidia står för chippen” - Ny Teknik
+- Investor ökade justerat substansvärde till 411 kronor per aktie - Placera.se
+- Nya kursras – sur vecka på Wall Street - Västerbottens-Kuriren
+- Kvinna skjuten i idrottshall - Aftonbladet
+- Apples iPhone Duo slutsåld på några minuter efter förbokningsstart - aktien upp i förhandeln - Placera.se
 
 ## World News
 
@@ -53,17 +53,17 @@ _Updated: 2026-10-16 22:00_
 - Kinesisk teknologi är närvarande i AI-vågen i USA. - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
+- Skräp inom artificiell intelligens – från respons till förebyggande - Vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
 - Data Centre Expo Sweden - Mynewsdesk
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
-- Bästa AI-aktierna att köpa nu - Morningstar
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
@@ -125,8 +125,8 @@ _Updated: 2026-10-16 22:00_
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Forskningen ska vara fri - European Commission
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
