@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-16 18:56_
+_Updated: 2026-10-16 22:03_
 
-- Oregon Live Updates: Police Investigate Deadly School Shooting in Bend - The New York Times
-- US senators call for investigation into Ukraine's Starlink restrictions - BBC
-- 'Everything got worse': Gen Z express frustration, regret after Trump vote - NPR
-- Trump says he won't use nuclear weapons or send ground troops to Iran - CNBC
-- Katie Zacharia Says White House Never Asked If She'd Passed Bar Exam - Forbes
-- Natalie Harp Knifes Ice Maiden and Sparks Trump ‘Freakout’ - The Daily Beast
-- Body found in barrel at Lake Mead identified as murder victim from Arkansas: "Earmarks of a mob hit" - CBS News
+- Katie Zacharia fired after five days as White House press secretary – reports - The Guardian
+- Teen shooter kills 3 children, teacher in Oregon elementary school before being shot by bystander - CNN
+- Trump: White House didn't impede satellite system in Ukraine - Axios
+- Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks - NPR
+- New NOAA outlook reveals what Minnesota can expect this winter - Bring Me The News
+- U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year - CNBC
+- Amber Guyger, police officer who murdered black neighbor in his home, released from prison - The Guardian
+- Troy Jackson tells Susan Collins to ‘shut up’ during Maine Senate debate - The Hill
+- New York City college student dead after being drugged with fentanyl and raped in her dorm room, prosecutors say - NBC News
 - Trump wants the midterms to be all about himself. Judging by the ads, Democrats are happy to oblige - AP News
-- Amber Guyger, ex-Dallas police officer convicted of murder, is released on parole - NBC News
-- Trump slams Ukraine’s decision to resume energy strikes as a ‘disgrace’ - POLITICO.eu
-- First images of Pope Leo released since lung surgery as he celebrates mass in makeshift chapel - CNN
-- Israeli settlers attack olive farmers and Washington Post journalist in West Bank - The Guardian
-- Indian police detain ‘cockroach’ movement founder Dipke ahead of protest - NBC News
-- Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation - The New York Times
-- 'Something extraordinary': Tesla Roadster wows with compressed air thrusters for limited flight - Yahoo Finance
-- CoreWeave Drops. Even Jensen Huang and Cathie Wood Can’t Buoy the Stock. - Barron's
-- Warsh Boosts Market Expectations of Fed Rate Hold in October - Bloomberg.com
-- S&P 500 dragged down by AI stocks as chip shares head for worst week since July: Live updates - CNBC
+- Pope Leo XIV seen for first time since lung cancer surgery amid major recovery milestone - Fox News
+- EU’s support to Ukraine matters more than ever, von der Leyen says, as US relationship sours – as it happened - The Guardian
+- Sally Rooney’s books will no longer be sold in U.K. after Palestinian Action support - NPR
+- India police detain ‘Cockroach’ leader again to head off new protests - Financial Times
+- FAA: Musk’s flying car not our responsibility - Politico
+- Stock market today: Nasdaq, S&P 500, Dow fall as tech stocks slide, oil climbs to $110 - Yahoo Finance
+- Warsh signals steady Fed outlook despite inflation jump - Axios
+- Netflix Chief Content Officer Bela Bajaria exits amid major layoffs - Los Angeles Times
 - Apple iPhone Duo preorders sell out, deliveries extend to late January - Yahoo Finance
 - The Surface Laptop Ultra delivers on most of Microsoft’s promises - Ars Technica
