@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-16 03:38_
+_Updated: 2026-10-16 08:21_
 
-- Live updates: 3 children among dead in Bend school shooting, OPB sources say - Oregon Public Broadcasting - OPB
-- White House press secretary Katie Zacharia confirms she never passed bar exam after saying she's a lawyer - CBS News
+- Three children and a teacher killed by 16-year-old at Oregon primary school - BBC
+- Trump press secretary explains failed bar exam - Axios
+- Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter - The New York Times
 - Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports - Reuters
-- Trump sues California to prevent counting 20,000 voters' ballots - Axios
-- Trump cancels Hegseth’s plan to live-stream Fort Hood shooter’s execution - The Washington Post
-- Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump - AP News
-- Authorities investigate letters with 'suspicious substances' sent to congressional, election offices - AP News
-- Four years after discovery, remains found in a barrel in Lake Mead identified as 1980s murder victim - NBC News
-- ICE Agents Who Rammed a Worker in Houston Were Chasing a Dead Man, Family Says - The New York Times
-- Details emerge as ‘brave individual' helps foil alleged mass shooting plot at suburban Hindu temple - NBC 5 Chicago
+- Trump looms as tensions flare in final Maine Senate debate - NBC News
+- 4 GOP senators join letter demanding Pentagon inspector general investigation of Ukraine’s Starlink outage - The Hill
+- Cornell president admits he never followed up on gang rape allegation ahead of no-confidence debate - PBS
+- FAA seeks ownership stake in air traffic AI company - Politico
+- Letters with 'suspicious substances' sent to US senators and election offices - BBC
+- Gun jammed when neo-Nazi attempted mass shooting at Hindu temple in Aurora, prosecutors say - Chicago Sun-Times
 - What is adenocarcinoma? Here's what to know about Pope Leo XIV's form of lung cancer - PBS
-- Houthi missiles strike Saudi-led forces HQ at presidential palace in Aden - The Guardian
-- School roof collapse in Pakistan kills at least 35 and injures more than 50 - AP News
-- Kenya’s Ebola cases test preparedness beyond Nairobi - Al Jazeera
-- EXCLUSIVE: Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say - Reuters
-- Wholesale inflation reaches levels last seen in 2022 - AP News
-- Dow Jones Futures: Techs Slide On Anthropic Valuation Doubts; Tesla Roadster On Tap - Investor's Business Daily
-- KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades - CNBC
+- Houthi missile attack on Yemeni presidential palace kills five, minister says - BBC
+- Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump - AP News
+- Pakistan school roof collapses in Peshawar, killing almost 30 young students and a teacher - CBS News
+- Elon Musk's flying Tesla is gloriously absurd - Axios
+- CNBC Daily Open: Is the AI sector losing its rose-colored glow? - CNBC
+- U.S. producer prices post biggest gain in 4 1/2 years - Honolulu Star-Advertiser
+- Fed's Warsh sees US economic tailwinds, mum on rate-path view - Reuters
 - I’ve Tested Echo Shows and Nest Hubs. Here’s How Apple’s HomeView Display Stacks Up - CNET
-- Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps - TechCrunch
+- Google updates Android earthquake alerts with more info, expands to 200+ regions - 9to5Google
