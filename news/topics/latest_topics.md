@@ -1,43 +1,43 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-16 08:17_
+_Updated: 2026-10-16 13:46_
 
 ## Top Stories
 
-- Flera barn dödade i skolskjutning i USA - Göteborgs-Posten
-- Tonåringar misstänks ha kraschat stulen bil - Aftonbladet
-- DN Direkt – Ulf Kristersson: Magdalena Andersson har misslyckats - Dagens Nyheter
-- Bibliotek orosanmälde – efter tioårings boklån - Aftonbladet
-- Elisabeth Thand Ringqvists dröm är helt orimlig - Arbetet
+- Nöjesprofilen Jonas “Heavy” Stentäpp är död - Omni – Alla nyheter. Alla perspektiv.
+- DN Direkt – Talmannen skjuter upp beskedet om nästa steg - Dagens Nyheter
+- Trafikverket varnar för halt väglag i Värmland - SVT Nyheter
+- 16 oktober 07.00, Trafikolycka, singel, Vingåker - polisen.se
+- Trotset mot Trump efter dödssveket - Expressen
+- Hund räddad – satt fast i grävlingsgryt - Västerbottens-Kuriren
+- Åklagaren: Elever på Sigtunaskolan har gjort sig av med föremål - SVT Nyheter
+- Barn drog kniv utanför förskola i Täfteå – händelsen polisanmäld - SVT Nyheter
+- Nu gör hon comeback i SD-toppen: ”Knäcks inte av motgångar” - Sydsvenskan
+- Företaget om att fastna på Strömsundsbron: ”Otäckt som det heter på svensk” - SVT Nyheter
+- Zelenskyj i Bryssel: Tackar ”verkliga ledare” - Göteborgs-Posten
+- Sommarvärme i september – ny toppnotering - Västerbottens-Kuriren
 - Kiev strömlöst efter flera attacker - Västerbottens-Kuriren
-- Trots underkänd säkerhetsprövning – hade tillgång till ”svarta nätet” - Dagens Nyheter
-- Två nya anhållna på Sigtunaskolan - Västerbottens-Kuriren
-- JOHAN RUDSTRÖM: Det stora skuldberget är långt ifrån Lyxfällan - UNT
-- Kristdemokraterna – inget oskyldigt ”mittenparti” - Dagens Arena
-- Pressas av attacker – kronprinsens vision skadad - Corren
-- Det var det vackraste året i deras liv – sedan flyttade bosättarna in - Dagens Nyheter
-- Tredje dagen av regeringsprotester i Albanien - Göteborgs-Posten
-- Direkt – Krisen i Mellanöstern – USA pressar Libanon om Hizbollah - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Källor: Trump överväger lättade sanktioner mot skuggflottor - Dagens Nyheter
+- Putins nya drag: ”Det är bara så sjukt” - DI
+- Wallenberg Investments säljer aktier i EQT – fortsätter att vara ägare i EQT och investerare i EQT:s fonder - Cision News
+- Nordea stäms i Norge för nollränta - Sydsvenskan
 - Nvidias grundare: ”Om en AI-modell är osäker, släpp den inte” - Omni – Alla nyheter. Alla perspektiv.
-- USA-börserna repar sig – svenskbolaget lyfter efter Nvidia-vd:ns ord - DI
-- Kyckling – nu på laxens meny - Svenska Dagbladet
-- Höjda riktkurser för Ericsson – här är dagens rekar - DI
-- Sekunddrama på Versailles – nu ska tidssystemets öde avgöras - Dagens Nyheter
-- Jag har sett Apples HomeView i verkligheten – den ser ut som en korsning mellan Apple Watch och klassiska iMac G4 - TechRadar
+- Forskare registrerar mystisk signal från yttre rymden – men vet inte varifrån den kommer - Illustrerad Vetenskap
+- Poddpuff: Kritik mot Zara Larsson - Aftonbladet
 
 ## World News
 
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -53,23 +53,23 @@ _Updated: 2026-10-16 08:17_
 - Kinesisk teknologi är närvarande i AI-vågen i USA. - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
+- Skräp inom artificiell intelligens – från respons till förebyggande - Vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
+- Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
 - Data Centre Expo Sweden - Mynewsdesk
-- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
 - Bästa AI-aktierna att köpa nu - Morningstar
-- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
-- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - IDC: Marknaden för AI-mjukvara fyrdubblas till 2027 - Computer Sweden
-- Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
+- Från ett laboratorium till en modell för att popularisera STEM, robotik och AI i skolor. - Vietnam.vn
 
 ## Business
 
@@ -77,19 +77,18 @@ _Updated: 2026-10-16 08:17_
 - 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
 - Vilken framtid arbetar du för? - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Four European takes on open banking - Mastercard Data and Services - Mastercard
-- Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
@@ -118,13 +117,13 @@ _Updated: 2026-10-16 08:17_
 
 ## Science
 
-- Internationell workshop om nätverket av excellenscentra inom bioteknikutbildning och forskning 2026: Främjande av forskning, utbildning och tekniköverföring - Vietnam.vn
 - NVIDIA tillkännager femårigt engagemang för amerikansk vetenskaplig forskning - Unite.AI
+- Internationell workshop om nätverket av excellenscentra inom bioteknikutbildning och forskning 2026: Främjande av forskning, utbildning och tekniköverföring - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - Dr. Ha Thi Thanh Huong vann första pris i ASEAN-US Science Prize for Women 2026. - Vietnam.vn
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningen ska vara fri - European Commission
@@ -132,8 +131,8 @@ _Updated: 2026-10-16 08:17_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Olika slutsatser från samma data - Läkartidningen
 - Andrea del Valle - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
@@ -141,6 +140,7 @@ _Updated: 2026-10-16 08:17_
 
 ## Jordbruk
 
+- Lantmännen: AI kan stärka Europas jordbruk och lantbrukarnas lönsamhet - https://www.dagenslantbruk.se/
 - Att utveckla jordbruket i en ekologisk riktning. - Vietnam.vn
 - OlsAro closes €5m seed investment to scale climate-resilient cereal genetics - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
@@ -149,15 +149,14 @@ _Updated: 2026-10-16 08:17_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Kan agroekologi mätta världen? - SLU
-- Här är världens största jordbruk - ATL
-- Visning av uppkomst efter direktsådd - Land.se
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
-- ”Resiliens är det nya effektiva” - Jordbruksaktuellt
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Hellre plöjningsfri odling än ekologisk - Land.se
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Här är världens största jordbruk - ATL
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- Visning av uppkomst efter direktsådd - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
 - Markbristen: EUs unga bönders största utmaning - Land.se
