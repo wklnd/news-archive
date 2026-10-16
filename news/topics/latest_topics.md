@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-16 18:51_
+_Updated: 2026-10-16 22:00_
 
 ## Top Stories
 
+- DN Direkt – Person skjuten i en idrottshall i Älvsjö - Dagens Nyheter
+- Trumps nya talesperson sparkas – efter några dagar - Västerbottens-Kuriren
 - Bråk bakom kulisserna: C vägrar delta i rödgröna möten - Dagens Nyheter
-- Direkt – Kriget i Ukraina – Zelenskyj: Begränsningar av Starlink hotar civila - Dagens Nyheter
+- Interna kritiken: ”Ett slag i magen” - Svenska Dagbladet
+- Barn lånade ”dark romance”-bok – biblioteket gjorde en orosanmälan - SVT Nyheter
 - Åklagaren: Elever på Sigtunaskolan har gjort sig av med föremål - SVT Nyheter
 - Pressträff: Talmannen om nästa steg i regeringsbildningen - Altinget.se
-- Malin Ullgren: Har verkligen socialen med våldsporr i textform att göra? - Dagens Nyheter
-- C slopar röd linje mot V i Västra Götaland - Västerbottens-Kuriren
-- V: Mohamed Ali kommer till riksdagen inom kort - Bulletin
-- Därför lägger polisen ner utredningen om lastbilen på Strömsundsbron - SVT Nyheter
-- Så kan Ryssland utnyttja gripna svensken: ”Sätta press på regeringen” - SVT Nyheter
-- Talmannen kallar till pressträff på måndag – Senaste nytt om valet 2026 - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Robotar mot Riyad nedskjutna av Saudiarabien - Dagens Nyheter
-- 63-årig kvinna nersparkad och olivträd i lågor när bosättare åter attackerar - Dagens Nyheter
-- Kiev strömlöst efter flera attacker - Västerbottens-Kuriren
-- Så avslöjar Trump hur han tror att valet ska gå - Expressen
+- Stort polispådrag i Ronneby – man körde in i stadshuset - SVT Nyheter
+- Foodorabud våldtog kvinna – döms - Expressen
+- DN Direkt – Efter Alis kryssraket – M-ledamot vill ändra lagen - Dagens Nyheter
+- Fotograf misshandlad av bosättare på Västbanken - Göteborgs-Posten
+- Robotar mot Riyad nedskjutna av Saudiarabien - Västerbottens-Kuriren
+- Zelenskyj om Patriotrobotar: ”Vi ber om absolut minimum” - Dagens Nyheter
+- DN Direkt – Våldsamma protester i Albanien – Rama uppmanar till lugn - Dagens Nyheter
 - Flera höjda riktkurser för Ericsson efter rapporten - Placera.se
 - Jonathan Axelsson: Wallenberg krattar för nya miljarder till Stegra - EFN
 - Putins nya drag: ”Det är bara så sjukt” - DI
-- TEKNIKAKTIER FÖRLÄNGER NEDGÅNGEN, S&P 500 OFÖR - Placera.se
+- Cirkus i Texas medan världen brinner: Varför Elon Musks flygande bil är ett hån mot vår tid - Skåne Plus
 - Poddpuff: Kritik mot Zara Larsson - Aftonbladet
 - Hanna Stjärne lämnar Stiftelsen Nobel Center efter krav från styrelsen - Dagens Nyheter
 
@@ -29,24 +29,24 @@ _Updated: 2026-10-16 18:51_
 
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Bildextra: NHL Global series med Icelandair - travelnews-se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 
 ## Technology
 
@@ -81,6 +81,7 @@ _Updated: 2026-10-16 18:51_
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -124,8 +125,8 @@ _Updated: 2026-10-16 18:51_
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningen ska vara fri - European Commission
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
