@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-16 01:11_
+_Updated: 2026-10-16 03:34_
 
 ## Top Stories
 
-- Trump: Inte aktuellt med direktsänd avrättning - Göteborgs-Posten
+- Minst fyra döda i skolskjutning i USA - Dagens Nyheter
+- DN Direkt – Trumps talesperson medger: Är inte advokat - Dagens Nyheter
 - Uppgifter: Ung man död i Göteborg – blodspår på kyrkogård - Aftonbladet
-- DN Direkt – Ulf Kristersson: Magdalena Andersson har misslyckats - Dagens Nyheter
-- Skolskjutning i Oregon – misstänkte skytten är död - Omni – Alla nyheter. Alla perspektiv.
-- Minibuss i krock med godståg vid Kanaltunneln – flera skadade - SVT Nyheter
-- Pojkar rånade och påkörda i Malmö - TV4 Nyheterna
-- Pojke misstänkt för mordplan på skola häktas - Göteborgs-Posten
-- DN Direkt – Ytterligare två anhållna på Sigtunaskolan - Dagens Nyheter
-- Misstänkt brand i centrala Stockholm – var "teaterrök" - Expressen
+- Trump: Inte aktuellt med direktsänd avrättning - Göteborgs-Posten
+- HANS STIGSSON: Ett svårt nederlag för Magdalena Andersson - NT
+- DN Direkt – Thand Ringqvist: V och MP bär ansvaret för att Andersson föll - Dagens Nyheter
+- Agnes Hellström: Något av det mest skrämmande under mina år på Sigtuna var internatpapporna - Dagens Nyheter
+- Pojkar rånade och påkörda i Malmö - SVT Nyheter
 - Nu har lastbilen flyttats från Strömsundsbron: ”Man åker inga onödiga resor” - Dagens Nyheter
-- Tredje dagen av regeringsprotester i Albanien - Västerbottens-Kuriren
+- Kristdemokraterna – inget oskyldigt ”mittenparti” - Dagens Arena
+- Tredje dagen av regeringsprotester i Albanien - Göteborgs-Posten
+- Kiev strömlöst efter flera attacker - Västerbottens-Kuriren
 - EU-ledarna oense – nytt budgetförslag på gång - Dagens Nyheter
-- DN Direkt – Trumps talesperson erkänner: är inte advokat - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Källor: USA överväger superbomb i Iran - Dagens Nyheter
+- Zelenskyj: USA får inte stötta angriparen - Västerbottens-Kuriren
 - Wallenbergs nya superdator – Huang: ”Som en tidsmaskin” - EFN
+- EFN ser fortsatt köpläge i Kinnevik efter rapportbesvikelse - Placera.se
+- USA-börserna repar sig – svenskbolaget lyfter efter Nvidia-vd:ns ord - DI
 - Åtta amerikanska delstater stämmer Open AI - Västerbottens-Kuriren
-- Här är Saabs nya plan som ska skydda Sverige - Corren
-- Volvo Cars och Nvidia siktar på självkörande bilar – igen - Omni – Alla nyheter. Alla perspektiv.
 - En sekund försvinner – vilken är din mest minnesvärda? - Aftonbladet
 - Rockstar droppar nya lanseringstrailern för GTA VI - Dopest.se
 
 ## World News
 
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 
 ## Technology
 
@@ -77,7 +77,6 @@ _Updated: 2026-10-16 01:11_
 - 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
 - Vilken framtid arbetar du för? - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
@@ -89,6 +88,7 @@ _Updated: 2026-10-16 01:11_
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
@@ -102,14 +102,14 @@ _Updated: 2026-10-16 01:11_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
+- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - Flexibel kapacitetsökning i katastrofer och allvarliga händelser - Göteborgs universitet
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - Mynewsdesk
@@ -117,26 +117,13 @@ _Updated: 2026-10-16 01:11_
 
 ## Science
 
-- Internationell workshop om nätverket av excellenscentra inom bioteknikutbildning och forskning 2026: Främjande av forskning, utbildning och tekniköverföring - Vietnam.vn
-- NVIDIA tillkännager femårigt engagemang för amerikansk vetenskaplig forskning - Unite.AI
-- Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
-- Dr. Ha Thi Thanh Huong vann första pris i ASEAN-US Science Prize for Women 2026. - Vietnam.vn
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
-- AI för vetenskaplig forskning och upptäckter - OpenAI
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskningen ska vara fri - European Commission
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Täta band mellan turism och forskning på Svalbard - SLU
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Andrea del Valle - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
+- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 
 ## Jordbruk
 
@@ -144,6 +131,7 @@ _Updated: 2026-10-16 01:11_
 - OlsAro closes €5m seed investment to scale climate-resilient cereal genetics - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Ho Chi Minh City University of Agriculture and Forestry utökar samarbetet inom utbildning och vetenskaplig forskning. - Vietnam.vn
+- Svenska Bin ger ut boken Honung – En smakupplevelse - Mynewsdesk
 - Jordbrukspolitik - Naturvårdsverket
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
@@ -154,9 +142,8 @@ _Updated: 2026-10-16 01:11_
 - Kan agroekologi mätta världen? - SLU
 - Här är världens största jordbruk - ATL
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- Markbristen: EUs unga bönders största utmaning - Land.se
