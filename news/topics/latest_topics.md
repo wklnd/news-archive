@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-16 13:46_
+_Updated: 2026-10-16 18:51_
 
 ## Top Stories
 
-- Nöjesprofilen Jonas “Heavy” Stentäpp är död - Omni – Alla nyheter. Alla perspektiv.
-- DN Direkt – Talmannen skjuter upp beskedet om nästa steg - Dagens Nyheter
-- Trafikverket varnar för halt väglag i Värmland - SVT Nyheter
-- 16 oktober 07.00, Trafikolycka, singel, Vingåker - polisen.se
-- Trotset mot Trump efter dödssveket - Expressen
-- Hund räddad – satt fast i grävlingsgryt - Västerbottens-Kuriren
+- Bråk bakom kulisserna: C vägrar delta i rödgröna möten - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Zelenskyj: Begränsningar av Starlink hotar civila - Dagens Nyheter
 - Åklagaren: Elever på Sigtunaskolan har gjort sig av med föremål - SVT Nyheter
-- Barn drog kniv utanför förskola i Täfteå – händelsen polisanmäld - SVT Nyheter
-- Nu gör hon comeback i SD-toppen: ”Knäcks inte av motgångar” - Sydsvenskan
-- Företaget om att fastna på Strömsundsbron: ”Otäckt som det heter på svensk” - SVT Nyheter
-- Zelenskyj i Bryssel: Tackar ”verkliga ledare” - Göteborgs-Posten
-- Sommarvärme i september – ny toppnotering - Västerbottens-Kuriren
+- Pressträff: Talmannen om nästa steg i regeringsbildningen - Altinget.se
+- Malin Ullgren: Har verkligen socialen med våldsporr i textform att göra? - Dagens Nyheter
+- C slopar röd linje mot V i Västra Götaland - Västerbottens-Kuriren
+- V: Mohamed Ali kommer till riksdagen inom kort - Bulletin
+- Därför lägger polisen ner utredningen om lastbilen på Strömsundsbron - SVT Nyheter
+- Så kan Ryssland utnyttja gripna svensken: ”Sätta press på regeringen” - SVT Nyheter
+- Talmannen kallar till pressträff på måndag – Senaste nytt om valet 2026 - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Robotar mot Riyad nedskjutna av Saudiarabien - Dagens Nyheter
+- 63-årig kvinna nersparkad och olivträd i lågor när bosättare åter attackerar - Dagens Nyheter
 - Kiev strömlöst efter flera attacker - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Källor: Trump överväger lättade sanktioner mot skuggflottor - Dagens Nyheter
+- Så avslöjar Trump hur han tror att valet ska gå - Expressen
+- Flera höjda riktkurser för Ericsson efter rapporten - Placera.se
+- Jonathan Axelsson: Wallenberg krattar för nya miljarder till Stegra - EFN
 - Putins nya drag: ”Det är bara så sjukt” - DI
-- Wallenberg Investments säljer aktier i EQT – fortsätter att vara ägare i EQT och investerare i EQT:s fonder - Cision News
-- Nordea stäms i Norge för nollränta - Sydsvenskan
-- Nvidias grundare: ”Om en AI-modell är osäker, släpp den inte” - Omni – Alla nyheter. Alla perspektiv.
-- Forskare registrerar mystisk signal från yttre rymden – men vet inte varifrån den kommer - Illustrerad Vetenskap
+- TEKNIKAKTIER FÖRLÄNGER NEDGÅNGEN, S&P 500 OFÖR - Placera.se
 - Poddpuff: Kritik mot Zara Larsson - Aftonbladet
+- Hanna Stjärne lämnar Stiftelsen Nobel Center efter krav från styrelsen - Dagens Nyheter
 
 ## World News
 
@@ -38,35 +38,35 @@ _Updated: 2026-10-16 13:46_
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 
 ## Technology
 
 - Kinesisk teknologi är närvarande i AI-vågen i USA. - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Skräp inom artificiell intelligens – från respons till förebyggande - Vietnam.vn
+- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
 - Data Centre Expo Sweden - Mynewsdesk
+- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
 - Bästa AI-aktierna att köpa nu - Morningstar
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - IDC: Marknaden för AI-mjukvara fyrdubblas till 2027 - Computer Sweden
 - Från ett laboratorium till en modell för att popularisera STEM, robotik och AI i skolor. - Vietnam.vn
@@ -81,7 +81,6 @@ _Updated: 2026-10-16 13:46_
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -96,11 +95,10 @@ _Updated: 2026-10-16 13:46_
 
 - NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- FDA godkänner AIRS Medicals AI‑MRI‑verktyg för kroppssammansättningsanalys - Unite.AI
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
@@ -108,12 +106,13 @@ _Updated: 2026-10-16 13:46_
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Flexibel kapacitetsökning i katastrofer och allvarliga händelser - Göteborgs universitet
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - Mynewsdesk
-- K-Beauty KAT 2026: Utökar det internationella lärutrymmet för HIU-studenter. - Vietnam.vn
 
 ## Science
 
@@ -123,20 +122,20 @@ _Updated: 2026-10-16 13:46_
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - Dr. Ha Thi Thanh Huong vann första pris i ASEAN-US Science Prize for Women 2026. - Vietnam.vn
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Forskningen ska vara fri - European Commission
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Andrea del Valle - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Andrea del Valle - Karolinska Institutet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
@@ -152,11 +151,11 @@ _Updated: 2026-10-16 13:46_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Kan agroekologi mätta världen? - SLU
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
-- Visning av uppkomst efter direktsådd - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Visning av uppkomst efter direktsådd - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Markbristen: EUs unga bönders största utmaning - Land.se
