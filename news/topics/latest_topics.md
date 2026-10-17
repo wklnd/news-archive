@@ -1,33 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-17 21:37_
+_Updated: 2026-10-18 00:32_
 
 ## Top Stories
 
-- Oro i Älvsjö efter skjutningen: ”Inte fredad någonstans” - Dagens Nyheter
-- Polis skjuter tårgas mot demonstranter i Paris - SVT Nyheter
-- Två gripna – misstänks för våldtäkt mot barn - Aftonbladet
-- Trumps sparkade talesperson – ”Det var en ära” - Hufvudstadsbladet – HBL
-- Kvinna hittad död i Linköping – polisen utreder mord - SVT Nyheter
-- Därför flyttade Clara till topprankade kommunen - Göteborgs-Posten
+- DN Direkt – Tårgas och kravaller i Paris - Dagens Nyheter
+- Kvinna död efter skjutning i idrottshall - Västerbottens-Kuriren
+- Svagt Starlink slår ut Ukrainas drönare: ”Obrukbara” - Dagens Nyheter
+- Två män anhållna för grov våldtäkt mot barn - Aftonbladet
+- Verkstadschef bröt näsan på kund som skrivit negativ recension - Sydsvenskan
+- Rumänien har skjutit ner två drönare - Svenska Dagbladet
 - Två anhållna för misstänkt mord i Majorna - Göteborgs-Posten
-- Räddningsinsats inledd efter försvunnen fiskare - SVT Nyheter
+- 4 438 kom i mål: "Ganska tjockt med folk" - UNT
 - VERONICA PALM: Bra att Magdalena Andersson faller i riksdagen - Corren
-- Vädersuccé för loppet – igen - UNT
-- Påve får lämna sjukbädd efter canceroperation - Corren
-- Malmer Stenergard om sanktionsstopp: ”Beklagligt” - Göteborgs-Posten
-- Så tog engelska bubblor upp kampen med Champagne - Dagens Nyheter
-- Rumänien har skjutit ner två drönare - Västerbottens-Kuriren
+- Barn körde för snabba elsparkcyklar – över 30 föräldrar har åtalats - Dagens Nyheter
+- Flera ihjältrampade i skyfall vid hinduisk festival - Göteborgs-Posten
+- Drönare över Riyad nedskjutna av Saudiarabien - Västerbottens-Kuriren
+- Trumps sparkade talesperson – ”Det var en ära” - Hufvudstadsbladet – HBL
+- Trump överväger att använda ”alla bombers mamma” - Expressen
 - Ölen flödar efter slopat matkrav: ”Jättenajs” - Svenska Dagbladet
 - Nvidias vd om AI-varningarna: ”Jag är ansvarsfull optimist" - Dagens Nyheter
 - FORTSATT AI-FROSSA OCH HÖGRE OLJEPRIS, S&P 500 -1,1% - Placera.se
-- Stockholm vill göra elbilar till kraftkälla vid kris - Dagens Nyheter
+- Cirkus i Texas medan världen brinner: Varför Elon Musks flygande bil är ett hån mot vår tid - Skåne Plus
 - Nu är det avgjort: skottsekunden försvinner - Computer Sweden
 - KRÖNIKA: Nya ”Grand Theft Auto” kan ge svenska stjärnor skjuts - Ystads Allehanda
 
 ## World News
 
 - Miss Universe utfärdade ett kraftfullt uttalande till Mr. Nawat och krävde att hans partner skulle dra sig ur Miss Grand International. - Vietnam.vn
+- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Volvo Cars reports Q3 2026 sales - Volvo
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
@@ -35,7 +36,6 @@ _Updated: 2026-10-17 21:37_
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -46,7 +46,7 @@ _Updated: 2026-10-17 21:37_
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Dress for Success® Worldwide Launches Global Brand Refresh and Campaign to Transform Women's Futures - Aktiellt
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
 
 ## Technology
 
@@ -64,17 +64,17 @@ _Updated: 2026-10-17 21:37_
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
 - My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
-- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Från ett laboratorium till en modell för att popularisera STEM, robotik och AI i skolor. - Vietnam.vn
 - Virtuell verklighet och artificiell intelligens driver energiträning. - Vietnam.vn
 
 ## Business
 
-- Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
 - CSC Financial (SHSE:601066) - Aktieanalys - Simply Wall Street
+- Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
 - 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
 - Vilken framtid arbetar du för? - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
@@ -125,9 +125,9 @@ _Updated: 2026-10-17 21:37_
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Internationell workshop om nätverket av excellenscentra inom bioteknikutbildning och forskning 2026: Främjande av forskning, utbildning och tekniköverföring - Vietnam.vn
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskningen ska vara fri - European Commission
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
@@ -135,28 +135,28 @@ _Updated: 2026-10-17 21:37_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Andrea del Valle - Karolinska Institutet
-- AI och data science - Stockholms universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 
 ## Jordbruk
 
 - AI kan stärka Europas lantbruk och lantbrukarnas lönsamhet - Lantbruksnytt
 - Att utveckla jordbruket i en ekologisk riktning. - Vietnam.vn
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Svenska Bin ger ut boken Honung – En smakupplevelse - Mynewsdesk
 - Jordbrukspolitik - Naturvårdsverket
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Kan agroekologi mätta världen? - SLU
 - Här är världens största jordbruk - ATL
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- ”Resiliens är det nya effektiva” - Jordbruksaktuellt
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
