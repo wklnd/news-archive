@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-17 16:24_
+_Updated: 2026-10-17 19:32_
 
-- Katie Zacharia quits as White House press secretary five days into job - BBC
-- Zelenskyy says Trump is ‘rewarding Putin’ as he waives new Russia sanctions passed by Congress - NBC News
-- It took just 3 minutes. How the Bend school shooting unfolded - CNN
-- No Kings turns its focus to voting this weekend. Here's what we know - NPR
-- Evacuation orders issued as wildfire burns in Orange County, California - ABC News - Breaking News, Latest News and Videos
-- Uncertainty Over Pope’s Health Fuels Familiar Debate Over Vatican’s Candor - The New York Times
-- 71-year-old man killed in alligator attack while fishing in Florida pond: FWC - WFLA
+- Katie Zacharia leaving White House role less than five days into job - BBC
+- Oregon father is the latest armed civilian to confront a gunman in a US mass shooting - AP News
+- Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold - NPR
+- Protesters clash with police in Paris and across France during major day of demonstrations - follow live - BBC
+- US: California wildfires destroy homes, leave thousands without power - DW.com
+- Chicago 'No Kings' protest locations near me: Rallies against Donald Trump, ICE, happening in Evanston, Arlington Heights and more - ABC7 Chicago
+- Florida fisher dragged into water and killed by 12ft alligator - The Guardian
+- Susan Collins Says Rival’s ‘Oh, Shut Up’ Comment Reflects How He Treats Women - The New York Times
+- Inside Hegseth’s political ambitions — and the risks threatening them - CNN
 - Texas, Minnesota candidates fuel latest 2026 midterm election news - Fox News
-- Ilhan Omar’s Sister’s Phone Was Seized Before Search of Lawmaker’s Home - The New York Times
-- Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’ - Financial Times
-- Live updates: Dozens detained in Paris as protestors clash with police during France protests - CNN
-- Three Mexicans jailed for 158 years each for killing Australian, US surfers - Al Jazeera
+- Pope Leo leaves hospital after lung cancer operation - The Washington Post
+- Albanian police fire rubber bullets as student protests rage - Reuters
+- Trump’s team is in chaos as midterms enter final stretch - Los Angeles Times
 - Houthi strikes on Saudi Arabia show the Yemeni rebels’ growing strength - AP News
-- Albanian PM blames 'foreign hands' for violent protests across country - Euronews.com
-- Ikea throws shade at Tesla with "safe and affordable" flying car - Creative Bloq
-- Why CoreWeave is in the crosshairs of the AI scare - Reuters
-- Stock Market News, Oct. 16, 2026: Dow falls, S&P 500 and Nasdaq cement worst week since June, as tech rout deepens - MarketWatch
-- Rebuilding Buffers Without the Luxury of Time - International Monetary Fund | IMF
+- What Tesla’s Flying Roadster Really Means for the Global Auto Race - WSJ
+- Weddings are expensive. How about a grocery store cake? - NPR
+- IMF urges support for poorer nations facing high inflation, war spillovers - Al Jazeera
+- The dress rehearsal for an AI reckoning - Financial Times
 - Apple blames ‘extraordinary’ demand as foldable iPhones sell out - Financial Times
-- HomeView will include these Apple apps at launch - 9to5Mac
+- Qualcomm says rumors about Snapdragon 8 Elite Extreme Gen 6 overheating are 'inaccurate' - 9to5Google
