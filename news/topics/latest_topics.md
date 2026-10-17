@@ -1,33 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-17 19:26_
+_Updated: 2026-10-17 21:37_
 
 ## Top Stories
 
+- Oro i Älvsjö efter skjutningen: ”Inte fredad någonstans” - Dagens Nyheter
 - Polis skjuter tårgas mot demonstranter i Paris - SVT Nyheter
 - Två gripna – misstänks för våldtäkt mot barn - Aftonbladet
-- Malmer Stenergard om sanktionsstopp: ”Beklagligt” - Göteborgs-Posten
-- Hummerfiskare saknas – stor sökinsats - Västerbottens-Kuriren
-- Skjutningen skakar Älvsjö: ”Obehagligt” - Dagens Nyheter
-- Två anhållna för misstänkt mord på 20-åring i Göteborg - Omni – Alla nyheter. Alla perspektiv.
-- EDVARD HOLLERTZ: Självklart trivs C bättre med M och KD - Corren
-- Barn körde för snabba elsparkcyklar – över 30 föräldrar har åtalats - Dagens Nyheter
-- ”Helveteslarven” spred oro i somras – det hände sedan - Dagens Nyheter
-- Pressträff: Talmannen om nästa steg i regeringsbildningen - Altinget.se
-- Påven lämnade sjukhuset efter lungcanceroperation - Yle
-- Nathan Shachar: Netanyahus generaler vill stoppa en Iranattack före valet - Dagens Nyheter
 - Trumps sparkade talesperson – ”Det var en ära” - Hufvudstadsbladet – HBL
-- Allt dyrare att leva i Gaza: ”Vi tvingas avstå från mycket” - Dagens Nyheter
-- Nvidias vd om AI-varningarna: ”Jag är ansvarsfull optimist" - Dagens Nyheter
+- Kvinna hittad död i Linköping – polisen utreder mord - SVT Nyheter
+- Därför flyttade Clara till topprankade kommunen - Göteborgs-Posten
+- Två anhållna för misstänkt mord i Majorna - Göteborgs-Posten
+- Räddningsinsats inledd efter försvunnen fiskare - SVT Nyheter
+- VERONICA PALM: Bra att Magdalena Andersson faller i riksdagen - Corren
+- Vädersuccé för loppet – igen - UNT
+- Påve får lämna sjukbädd efter canceroperation - Corren
+- Malmer Stenergard om sanktionsstopp: ”Beklagligt” - Göteborgs-Posten
+- Så tog engelska bubblor upp kampen med Champagne - Dagens Nyheter
+- Rumänien har skjutit ner två drönare - Västerbottens-Kuriren
 - Ölen flödar efter slopat matkrav: ”Jättenajs” - Svenska Dagbladet
-- Så kan AI utplåna mänskligheten - DI
+- Nvidias vd om AI-varningarna: ”Jag är ansvarsfull optimist" - Dagens Nyheter
 - FORTSATT AI-FROSSA OCH HÖGRE OLJEPRIS, S&P 500 -1,1% - Placera.se
+- Stockholm vill göra elbilar till kraftkälla vid kris - Dagens Nyheter
 - Nu är det avgjort: skottsekunden försvinner - Computer Sweden
 - KRÖNIKA: Nya ”Grand Theft Auto” kan ge svenska stjärnor skjuts - Ystads Allehanda
 
 ## World News
 
 - Miss Universe utfärdade ett kraftfullt uttalande till Mr. Nawat och krävde att hans partner skulle dra sig ur Miss Grand International. - Vietnam.vn
+- Volvo Cars reports Q3 2026 sales - Volvo
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
@@ -44,9 +45,8 @@ _Updated: 2026-10-17 19:26_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Dress for Success® Worldwide Launches Global Brand Refresh and Campaign to Transform Women's Futures - Aktiellt
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
-- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 
 ## Technology
 
@@ -67,7 +67,7 @@ _Updated: 2026-10-17 19:26_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
-- IDC: Marknaden för AI-mjukvara fyrdubblas till 2027 - Computer Sweden
+- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - Från ett laboratorium till en modell för att popularisera STEM, robotik och AI i skolor. - Vietnam.vn
 - Virtuell verklighet och artificiell intelligens driver energiträning. - Vietnam.vn
 
@@ -113,32 +113,32 @@ _Updated: 2026-10-17 19:26_
 - Flexibel kapacitetsökning i katastrofer och allvarliga händelser - Göteborgs universitet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - Mynewsdesk
 
 ## Science
 
 - NVIDIA tillkännager femårigt engagemang för amerikansk vetenskaplig forskning - Unite.AI
-- Activities for the public – Department of Earth Sciences - Uppsala universitet
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Dr. Ha Thi Thanh Huong vann första pris i ASEAN-US Science Prize for Women 2026. - Vietnam.vn
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Internationell workshop om nätverket av excellenscentra inom bioteknikutbildning och forskning 2026: Främjande av forskning, utbildning och tekniköverföring - Vietnam.vn
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskningen ska vara fri - European Commission
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Andrea del Valle - Karolinska Institutet
+- AI och data science - Stockholms universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -146,17 +146,17 @@ _Updated: 2026-10-17 19:26_
 - Att utveckla jordbruket i en ekologisk riktning. - Vietnam.vn
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Jordbrukspolitik - Naturvårdsverket
-- Svenska Bin ger ut boken Honung – En smakupplevelse - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Kan agroekologi mätta världen? - SLU
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- ”Resiliens är det nya effektiva” - Jordbruksaktuellt
 - Visning av uppkomst efter direktsådd - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
