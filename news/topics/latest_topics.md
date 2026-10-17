@@ -1,44 +1,45 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-17 00:57_
+_Updated: 2026-10-17 03:25_
 
 ## Top Stories
 
-- Polisjakt i Älvsjö efter skottdrama vid skola - Aftonbladet
 - Vita husets nya pressekreterare sparkas - SVT Nyheter
-- DN Direkt – Källor: Zacharia får sparken som Trumps pressekreterare - Dagens Nyheter
-- Minst 30 döda i drönarattack mot marknad i Sudan - Aftonbladet
+- Polisjakt i Älvsjö efter skottdrama vid skola - Aftonbladet
+- Lärare kastade mobil och tacklade gärningsmannen - Omni – Alla nyheter. Alla perspektiv.
+- Misstänkt mord i Skellefteå - Göteborgs-Posten
 - Pressträff: Talmannen om nästa steg i regeringsbildningen - Altinget.se
-- Barn lånade ”dark romance”-bok – biblioteket gjorde en orosanmälan - SVT Nyheter
+- Malin Ullgren: Har verkligen socialen med våldsporr i textform att göra? - Dagens Nyheter
+- DN Direkt – Bil körde in i stadshus - Dagens Nyheter
 - Larmen om Sigtunaskolan: ”Utstuderade metoder för att skapa rädsla” - Dagens Nyheter
 - Bråk bakom kulisserna: C vägrar delta i rödgröna möten - Dagens Nyheter
 - Därför lägger polisen ner utredningen om lastbilen på Strömsundsbron - SVT Nyheter
-- V: Mohamed Ali kommer till riksdagen inom kort - Bulletin
 - Fotograf misshandlad av bosättare på Västbanken - Göteborgs-Posten
 - Rama uppmanar till lugn efter våldsamma protester - Västerbottens-Kuriren
+- Växande ordbråket – Zelenskyj har fått nog - Expressen
 - Robotar mot Riyad nedskjutna av Saudiarabien - Göteborgs-Posten
-- Direkt – Kriget i Ukraina – Zelenskyj: Begränsningar av Starlink hotar civila - Dagens Nyheter
 - Tesla Roadster – det här är Elon Musks nya flygande bil - EFN
 - ”Pratet om svensk digital suveränitet skaver när Nvidia står för chippen” - Ny Teknik
-- Investor ökade justerat substansvärde till 411 kronor per aktie - Placera.se
-- Nya kursras – sur vecka på Wall Street - Västerbottens-Kuriren
-- Kvinna skjuten i idrottshall - Aftonbladet
+- Wallenberg Investments säljer aktier i EQT – fortsätter att vara ägare i EQT och investerare i EQT:s fonder - Cision News
+- Stockholmsbörsen avslutade veckan med en bred uppgång, OMXS30-index ökade 1,3 procent (Finwire News) - Aktiellt
+- Poddpuff: Kritik mot Zara Larsson - Aftonbladet
 - Apples iPhone Duo slutsåld på några minuter efter förbokningsstart - aktien upp i förhandeln - Placera.se
 
 ## World News
 
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
@@ -46,7 +47,6 @@ _Updated: 2026-10-17 00:57_
 - Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 
 ## Technology
 
@@ -60,14 +60,14 @@ _Updated: 2026-10-17 00:57_
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Data Centre Expo Sweden - Mynewsdesk
-- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - IDC: Marknaden för AI-mjukvara fyrdubblas till 2027 - Computer Sweden
 - Från ett laboratorium till en modell för att popularisera STEM, robotik och AI i skolor. - Vietnam.vn
 
@@ -141,22 +141,22 @@ _Updated: 2026-10-17 00:57_
 ## Jordbruk
 
 - Lantmännen: AI kan stärka Europas jordbruk och lantbrukarnas lönsamhet - https://www.dagenslantbruk.se/
-- Att utveckla jordbruket i en ekologisk riktning. - Vietnam.vn
 - OlsAro closes €5m seed investment to scale climate-resilient cereal genetics - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Jordbrukspolitik - Naturvårdsverket
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
+- Svenska Bin ger ut boken Honung – En smakupplevelse - Mynewsdesk
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Kan agroekologi mätta världen? - SLU
-- Här är världens största jordbruk - ATL
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Här är världens största jordbruk - ATL
+- Visning av uppkomst efter direktsådd - Land.se
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
-- Visning av uppkomst efter direktsådd - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Markbristen: EUs unga bönders största utmaning - Land.se
