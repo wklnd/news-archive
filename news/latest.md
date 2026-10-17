@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-17 01:00_
+_Updated: 2026-10-17 03:32_
 
-- Live updates: Father and teacher hailed for preventing further tragedy in Bend, Oregon, school shooting - CNN
+- Oregon shooting victims: three boys and female teacher killed at elementary school - The Guardian
 - White House press secretary Katie Zacharia leaving role days after taking job - BBC
 - Brush fires trigger evacuations in Los Angeles, Orange counties amid Santa Ana winds across SoCal - ABC7 Los Angeles
-- U.S. Budget Deficit Nears $2 Trillion, a Reality Check for Trump’s Cost Cutting - The New York Times
+- Trump: White House didn't impede satellite system in Ukraine - Axios
 - Israeli settlers burn olive trees, injure journalist in West Bank attack - Reuters
-- Starlink access still not fully restored for Ukraine’s military, says Zelenskyy - The Guardian
-- Trump rallies with top Republicans in critical battleground state of Georgia - AP News
-- Amber Guyger, police officer who murdered black neighbor in his home, released from prison - The Guardian
-- ‘Oh, Shut Up’: 5 Takeaways From the Senate Debate in Maine - The New York Times
-- New York City college student dead after being drugged with fentanyl and raped in her dorm room, prosecutors say - NBC News
-- Pope Leo XIV seen for first time since lung cancer surgery amid major recovery milestone - Fox News
+- Frantic White House Scramble to Undo Pentagon Pete Disaster Revealed - The Daily Beast
+- Exclusive | In New Letter, Ilhan Omar Fights Back Against Home Search - WSJ
+- After Six Flags Roller Coaster Death, Critics Call for Federal Oversight - The New York Times
+- FIT student dies after being drugged and raped on Manhattan campus: officials - ABC7 New York
+- 'Oh, shut up': Troy Jackson defends heated moment with Sen. Collins - WGME
+- New photos show Pope Leo celebrating Mass at hospital as he recovers from lung cancer surgery - CBS News
 - EU’s support to Ukraine matters more than ever, von der Leyen says, as US relationship sours – as it happened - The Guardian
-- Young Voters Say They Are Turning Their Backs on Trump and His Party - The New York Times
-- Indian police detain ‘cockroach’ movement founder Dipke ahead of protest - NBC News
-- FAA: Musk’s flying car not our responsibility - Politico
-- Netflix stock falls as executive shake-up aims to revive viewership growth - Yahoo Finance
-- Stock Market Today: Nasdaq Faces Weekly Loss on Tech Stock Slump — Live Updates - WSJ
-- Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries - CNBC
-- Apple iPhone Duo preorders sell out, deliveries extend to late January - Yahoo Finance
+- Crowds throng New Delhi and wave Indian flags amid escalating protests - NPR
+- Police assess Palestine Action post by national security adviser's wife - BBC
+- With flying Roadster, Tesla waves goodbye to the car business - Axios
+- Tech stocks tumble as AI debt fears rattle Wall Street - CBS News
+- With Layoffs and a Firing, Netflix Hurries to Rewrite Its Narrative - The New York Times
+- Oil hits $110 per barrel for first time since May - The Hill
+- Apple blames ‘extraordinary’ demand as foldable iPhones sell out - Financial Times
 - Why Apple is finally making its own smart home devices - The Verge
