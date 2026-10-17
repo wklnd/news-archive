@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-17 03:32_
+_Updated: 2026-10-17 08:10_
 
-- Oregon shooting victims: three boys and female teacher killed at elementary school - The Guardian
-- White House press secretary Katie Zacharia leaving role days after taking job - BBC
+- Oregon teacher fought school attacker before armed dad shot suspect 'multiple times' - BBC
+- Katie Zacharia out as White House press secretary - Axios
+- Trump puts new Russia sanctions passed by Congress on hold amid deepening row with Ukraine - The Guardian
 - Brush fires trigger evacuations in Los Angeles, Orange counties amid Santa Ana winds across SoCal - ABC7 Los Angeles
-- Trump: White House didn't impede satellite system in Ukraine - Axios
-- Israeli settlers burn olive trees, injure journalist in West Bank attack - Reuters
-- Frantic White House Scramble to Undo Pentagon Pete Disaster Revealed - The Daily Beast
-- Exclusive | In New Letter, Ilhan Omar Fights Back Against Home Search - WSJ
-- After Six Flags Roller Coaster Death, Critics Call for Federal Oversight - The New York Times
-- FIT student dies after being drugged and raped on Manhattan campus: officials - ABC7 New York
-- 'Oh, shut up': Troy Jackson defends heated moment with Sen. Collins - WGME
-- New photos show Pope Leo celebrating Mass at hospital as he recovers from lung cancer surgery - CBS News
-- EU’s support to Ukraine matters more than ever, von der Leyen says, as US relationship sours – as it happened - The Guardian
-- Crowds throng New Delhi and wave Indian flags amid escalating protests - NPR
-- Police assess Palestine Action post by national security adviser's wife - BBC
+- Ilhan Omar’s Sister’s Phone Was Seized Before Search of Lawmaker’s Home - The New York Times
+- Hersheypark opens Candymonium coaster following Six Flags coaster death - ABC27
+- Hackers steal personal data of millions of California students in massive breach - Los Angeles Times
+- Trump slams Ukraine’s decision to resume energy strikes as a ‘disgrace’ - POLITICO.eu
+- Trump threatens California officials with imprisonment over stance on mail ballots - Reuters
+- Trump in Georgia falsely claims election of Jon Ossoff was illegitimate - The Guardian
+- Pope pictured for first time since surgery and cancer diagnosis - BBC
+- Palestinians, US journalist attacked in West Bank pogrom: What we know - Al Jazeera
+- Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia - WSJ
+- Budget, Ukraine, migration: Five takeaways from the EU leaders’ summit - Euronews
 - With flying Roadster, Tesla waves goodbye to the car business - Axios
-- Tech stocks tumble as AI debt fears rattle Wall Street - CBS News
+- Tech stocks erase $1 trillion of wealth as oil surges to $110 for the first time since May - NBC News
 - With Layoffs and a Firing, Netflix Hurries to Rewrite Its Narrative - The New York Times
-- Oil hits $110 per barrel for first time since May - The Hill
+- Indonesia faces rare MSCI exclusion that could cut it off from global capital - Reuters
 - Apple blames ‘extraordinary’ demand as foldable iPhones sell out - Financial Times
-- Why Apple is finally making its own smart home devices - The Verge
+- Verizon Will Charge $10 a Month for iPhone Handoff - MacRumors
