@@ -1,78 +1,79 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-17 03:25_
+_Updated: 2026-10-17 07:57_
 
 ## Top Stories
 
-- Vita husets nya pressekreterare sparkas - SVT Nyheter
 - Polisjakt i Älvsjö efter skottdrama vid skola - Aftonbladet
+- Vita husets nya pressekreterare sparkas - SVT Nyheter
+- Polisen utreder mord i Skellefteå under natten - Omni – Alla nyheter. Alla perspektiv.
+- Mellanårsvalet – en folkomröstning om Trump - Dagens Nyheter
+- ”Nepo baby – det får mig att överkompensera” - Svenska Dagbladet
 - Lärare kastade mobil och tacklade gärningsmannen - Omni – Alla nyheter. Alla perspektiv.
-- Misstänkt mord i Skellefteå - Göteborgs-Posten
 - Pressträff: Talmannen om nästa steg i regeringsbildningen - Altinget.se
-- Malin Ullgren: Har verkligen socialen med våldsporr i textform att göra? - Dagens Nyheter
-- DN Direkt – Bil körde in i stadshus - Dagens Nyheter
+- EDVARD HOLLERTZ: Självklart trivs C bättre med M och KD - Corren
+- TOVE HOVEMYR: Både C och V kan vinna på att ge upp först - UNT
 - Larmen om Sigtunaskolan: ”Utstuderade metoder för att skapa rädsla” - Dagens Nyheter
-- Bråk bakom kulisserna: C vägrar delta i rödgröna möten - Dagens Nyheter
-- Därför lägger polisen ner utredningen om lastbilen på Strömsundsbron - SVT Nyheter
-- Fotograf misshandlad av bosättare på Västbanken - Göteborgs-Posten
-- Rama uppmanar till lugn efter våldsamma protester - Västerbottens-Kuriren
+- Protester i Europa: ”Vi gör som i Frankrike” - Göteborgs-Posten
+- Ambulansförare dödad i attack mot Ukraina - Corren
+- USA häver Rysslandskopplade sanktioner - Västerbottens-Kuriren
 - Växande ordbråket – Zelenskyj har fått nog - Expressen
-- Robotar mot Riyad nedskjutna av Saudiarabien - Göteborgs-Posten
-- Tesla Roadster – det här är Elon Musks nya flygande bil - EFN
-- ”Pratet om svensk digital suveränitet skaver när Nvidia står för chippen” - Ny Teknik
-- Wallenberg Investments säljer aktier i EQT – fortsätter att vara ägare i EQT och investerare i EQT:s fonder - Cision News
+- Cirkus i Texas medan världen brinner: Varför Elon Musks flygande bil är ett hån mot vår tid - Skåne Plus
 - Stockholmsbörsen avslutade veckan med en bred uppgång, OMXS30-index ökade 1,3 procent (Finwire News) - Aktiellt
-- Poddpuff: Kritik mot Zara Larsson - Aftonbladet
-- Apples iPhone Duo slutsåld på några minuter efter förbokningsstart - aktien upp i förhandeln - Placera.se
+- Wall Street föll tungt – teknikaktier pressades - Omni – Alla nyheter. Alla perspektiv.
+- ”Pratet om svensk digital suveränitet skaver när Nvidia står för chippen” - Ny Teknik
+- Hanna Stjärne lämnar Stiftelsen Nobel Center efter krav från styrelsen - Dagens Nyheter
+- Apples iPhone Duo slutsåld på några minuter efter förbokningsstart - aktien upp i förhandeln - Börsvärlden
 
 ## World News
 
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Juniper Networks Becomes Global Sponsor of World Robot Olympiad - Via TT
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 
 ## Technology
 
 - Kinesisk teknologi är närvarande i AI-vågen i USA. - Vietnam.vn
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Skräp inom artificiell intelligens – från respons till förebyggande - Vietnam.vn
+- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Data Centre Expo Sweden - Mynewsdesk
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Data Centre Expo Sweden - Mynewsdesk
+- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - IDC: Marknaden för AI-mjukvara fyrdubblas till 2027 - Computer Sweden
 - Från ett laboratorium till en modell för att popularisera STEM, robotik och AI i skolor. - Vietnam.vn
 
 ## Business
 
+- CSC Financial (SHSE:601066) - Aktieanalys - Simply Wall Street
 - Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
 - 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
 - Vilken framtid arbetar du för? - EY
@@ -118,10 +119,10 @@ _Updated: 2026-10-17 03:25_
 ## Science
 
 - NVIDIA tillkännager femårigt engagemang för amerikansk vetenskaplig forskning - Unite.AI
-- Internationell workshop om nätverket av excellenscentra inom bioteknikutbildning och forskning 2026: Främjande av forskning, utbildning och tekniköverföring - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - Dr. Ha Thi Thanh Huong vann första pris i ASEAN-US Science Prize for Women 2026. - Vietnam.vn
+- Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
+- Internationell workshop om nätverket av excellenscentra inom bioteknikutbildning och forskning 2026: Främjande av forskning, utbildning och tekniköverföring - Vietnam.vn
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
@@ -147,15 +148,15 @@ _Updated: 2026-10-17 03:25_
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
-- Svenska Bin ger ut boken Honung – En smakupplevelse - Mynewsdesk
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Kan agroekologi mätta världen? - SLU
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - ATL
-- Visning av uppkomst efter direktsådd - Land.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- ”Resiliens är det nya effektiva” - Jordbruksaktuellt
+- Visning av uppkomst efter direktsådd - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
