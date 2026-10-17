@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-17 21:42_
+_Updated: 2026-10-17 23:45_
 
-- Katie Zacharia ousted as White House press secretary - Axios
+- Katie Zacharia leaving White House role less than five days into job - BBC
+- Half a million protesters sweep France in major show of youth unrest - CNN
+- Zelenskyy says Trump is ‘rewarding Putin’ as he waives new Russia sanctions passed by Congress - NBC News
+- Chicago 'No Kings' protest locations near me: Rallies against Donald Trump, ICE, happening in Evanston, Arlington Heights and more - ABC7 Chicago
 - Oregon father is the latest armed civilian to confront a gunman in a US mass shooting - AP News
-- Trump signs executive order waiving sanctions against Russia - The Washington Post
-- Protesters clash with police in Paris and across France during major day of demonstrations - follow live - BBC
-- No Kings turns its focus to voting this weekend. Here's what we know - NPR
-- Ilhan Omar’s lawyers demand the return of property seized in house raid - Al Jazeera
+- Zelensky says Musk-owned satellite system still restricted in Ukraine - Axios
+- Midterm election live updates: Trump stumps in deep-red Kentucky as GOP tries to hold its turf - CNN
 - Alligator kills 71-year-old man fishing in Florida - BBC
-- Fast-moving California wildfire burns homes as people are ordered to leave - BBC
-- Zelenskyy urges support for new US sanctions on Russia put on hold by Trump - AP News
-- Susan Collins Says Rival’s ‘Oh, Shut Up’ Comment Reflects How He Treats Women - The New York Times
+- NYC Subway Shooting in Midtown Leaves Man Dead - The New York Times
+- US: California wildfires destroy homes, leave thousands without power - DW.com
 - Pope Leo leaves hospital after lung cancer operation - The Washington Post
-- European diplomats attacked by Israeli settlers in West Bank - BBC
-- Albanian police fire rubber bullets as student protests rage - Reuters
+- Israeli Settlers Attack Palestinians and European Officials in West Bank - The New York Times
+- Desperate civilians risk their lives along mined roads to escape from a Russian-held city - AP News
 - Italian police clash with protesters in Milan and Bologna - Reuters
-- Ikea throws shade at Tesla with "safe and affordable" flying car - Creative Bloq
-- US Interest Costs Hit Record $1 Trillion, Risking Debt Snowball - Bloomberg.com
-- Weddings are expensive. How about a grocery store cake? - NPR
-- Susan Dell is the one running the Dells’ $10 billion giving operation - Fortune
+- Tesla unveils new ‘flying’ car, but consumer rollout likely still years away - The Times of Israel
+- US debt interest costs hit $3 billion a day and jumped 8% in 2026—faster than spending, revenue, GDP - Fortune
+- Retail price impacts from the Iran war are uneven but add up for US households before midterms - AP News
+- SoftBank in Early Talks to Buy Allied Universal - WSJ
 - Verizon Will Charge You $10 A Month For iPhone Handoff - Engadget
-- Intel SVP Confirms Razor Lake-AX Will Hit 700 TOPS & Launch In 2028, 3.88x The AI Compute Of Panther Lake - Wccftech
+- Intel "Razor Lake-AX" to Pack 700 TOPS of AI Compute - TechPowerUp
