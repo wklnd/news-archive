@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-18 16:06_
+_Updated: 2026-10-18 19:28_
 
 ## Top Stories
 
-- Bordtennis: Anton Källberg klar för EM-final efter skrällseger - SVT Nyheter
-- Förödelse i Frankrike dagen efter protester – Macron väntas tala - Dagens Nyheter
-- Hammarby spelar med sorgband efter skjutningen i Älvsjö - Aftonbladet
+- Förödelsen stor efter protesterna i Frankrike - SVT Nyheter
+- DN Direkt – C avböjer kommentar på Åkessons invit - Dagens Nyheter
 - Ingmar Nevéus: Nu slipper Zelenskyj dölja sitt förakt för Trump - Dagens Nyheter
-- Trafikolycka på E4 vid Gränna - SVT Nyheter
+- Flera fordon i krock på E4 – orsakar långa köer - Omni – Alla nyheter. Alla perspektiv.
 - Flera döda efter brand på militärbas i Kanada - Göteborgs-Posten
-- Skolinspektionen överväger tillsyn av Sigtunaskolan - Göteborgs-Posten
-- På väg att bli pappa – när bron havererade: ”Släkt var förberedda med båt” - Dagens Nyheter
-- Diplomaten Sven Hirdman är död - SVT Nyheter
+- Malmer Stenergard om bosättarvåld: ”Allvarligt” - Corren
+- Boende efter dödsskjutningen i Älvsjö: ”Sorg och förtvivlan” - SVT Nyheter
+- Skolinspektionen överväger tillsyn av Sigtunaskolan - Corren
+- Höstens högskoleprov 2026 – hur många ord klarar du? - SVT Nyheter
 - INSÄNDARE: Att vistas bland cyklister och elsparkcyklar med livet som insats - Norran
-- Hasan Piker – socialisten som splittrar Demokraterna - Dagens Nyheter
-- Ukraina anföll flera mål i Sankt Petersburg i natt - Dagens Nyheter
-- Påven tacksam i första talet efter operationen - Omni – Alla nyheter. Alla perspektiv.
-- Rubio om attack på Västbanken: ”Upprörd” - Corren
+- Zelenskyj tacksam för återupptagna underrättelser - Göteborgs-Posten
+- Direkt – Kriget i Ukraina – Larm i Baltikum och Polen – drönare har kraschat - Dagens Nyheter
+- Påvens Angelus om att ge kejsaren det som tillhör kejsaren - Vatican News
+- Direkt – Krisen i Mellanöstern – Malmer Stenergard om bosättarvåld: ”Allvarligt” - Dagens Nyheter
+- Jobba tolv timmar om dagen, sex dagar i veckan – nu även i Europa - Dagens PS
 - Hotet mot billig svensk el: ”Smutsig hemlighet” - Svenska Dagbladet
-- ”Hur mänskligheten kan utplåna sig själv med AI” - Västerbottens-Kuriren
 - Giftig AI-cocktail sänkte Wall Street – analytiker ser köpläge - Dagens industri
-- Ryssland lägger beslag på svenskt företag - Tidningen Näringslivet
+- ”Hur mänskligheten kan utplåna sig själv med AI” - Västerbottens-Kuriren
 - Nioåriga Adam drömmer om att bli organist: ”Spelar varje dag” - Blekinge Läns Tidning
 - En grön stjärna har upptäckts för första gången - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
-- Miss Universe utfärdade ett kraftfullt uttalande till Mr. Nawat och krävde att hans partner skulle dra sig ur Miss Grand International. - Vietnam.vn
-- Två fina priser till NTM i årets INMA Global Awards - NTM
 - Volvo Cars reports Q3 2026 sales - Volvo
+- Två fina priser till NTM i årets INMA Global Awards - NTM
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
 
 ## Technology
 
@@ -64,11 +64,11 @@ _Updated: 2026-10-18 16:06_
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Timnit Gebru - Right Livelihood
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
 - My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
-- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Från ett laboratorium till en modell för att popularisera STEM, robotik och AI i skolor. - Vietnam.vn
+- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - Virtuell verklighet och artificiell intelligens driver energiträning. - Vietnam.vn
 
 ## Business
@@ -122,7 +122,7 @@ _Updated: 2026-10-18 16:06_
 - NVIDIA tillkännager femårigt engagemang för amerikansk vetenskaplig forskning - Unite.AI
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
-- Internationell workshop om nätverket av excellenscentra inom bioteknikutbildning och forskning 2026: Främjande av forskning, utbildning och tekniköverföring - Vietnam.vn
+- Dr. Ha Thi Thanh Huong vann första pris i ASEAN-US Science Prize for Women 2026. - Vietnam.vn
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
@@ -130,7 +130,6 @@ _Updated: 2026-10-18 16:06_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskningen ska vara fri - European Commission
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Sherry Nakhaeizadeh - Uppsala universitet
@@ -139,11 +138,10 @@ _Updated: 2026-10-18 16:06_
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 
 ## Jordbruk
 
-- AI kan stärka Europas lantbruk och lantbrukarnas lönsamhet - Lantbruksnytt
-- Att utveckla jordbruket i en ekologisk riktning. - Vietnam.vn
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Jordbrukspolitik - Naturvårdsverket
 - Svenska Bin ger ut boken Honung – En smakupplevelse - Mynewsdesk
@@ -153,10 +151,12 @@ _Updated: 2026-10-18 16:06_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Sorseles sista mjölkgård till salu - Lokaltidningen
 - Här är världens största jordbruk - ATL
 - Kan agroekologi mätta världen? - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- ”Resiliens är det nya effektiva” - Jordbruksaktuellt
 - Visning av uppkomst efter direktsådd - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
