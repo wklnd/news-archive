@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-18 23:01_
+_Updated: 2026-10-19 01:39_
 
 - Huge Riots and Anti-Government Protests in France: What to Know - The New York Times
-- Canadian military base fire: Death toll confirmed and cause under investigation - BBC
-- Trump announces plans to renovate D.C. golf course amid legal battle - NBC News
-- St Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia - AP News
-- Trump approval hits record low, handing Democrats a clear midterm edge - The Washington Post
-- Six-year-old among two dead after Kansas woman drives through soccer game, with 11 more injured - The Guardian
-- A compassionate teacher and her young students: What we know about the victims of the Bend school shooting - CNN
-- Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink - CNBC
 - Trump ‘border czar’ says Ilhan Omar could be ‘of course’ denaturalized and deported - The Guardian
-- 2026 Midterm Elections: Trump Rallies Republicans - Fox News
-- Pope Leo Addresses the Faithful a Day After Leaving the Hospital - The New York Times
+- Trump shares plan to overhaul East Potomac golf course amid court fight over land - The Washington Post
+- 95% of MAGA Republicans approve of Trump. For non-MAGA Republicans, it's 47%. - Axios
+- Trump tries different approach with Russia to bring Americans relief amid ongoing war with Ukraine - Fox News
+- 2 dead, 11 injured after woman in truck drives through soccer game in Wichita, Kansas: Police - ABC News - Breaking News, Latest News and Videos
+- Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink - CNBC
+- Semi-Truck Rollover Spills Dozens of Cattle Across Downtown Kansas City - The New York Times
+- Trump endorses Netanyahu in close Israeli election - Reuters
+- Massachusetts Republican lieutenant governor candidate suspends campaign after OUI arrest - NBC News
+- Alberta premier says 39 people hospitalized, at least 19 critical after fire at Canada military base - AP News
+- Pope Leo says he will gradually resume duties after cancer surgery - NPR
 - U.S. ambassador to Israel calls for "arrest and prosecution" of Heidi Levine's West Bank settler attackers - CBS News
-- Meloni condemns ‘gangs of thugs’ after protests turned violent across Italy - Fox News
-- Albanian police fire rubber bullets as student protests rage - Reuters
+- Alberta independence referendum: Will separatists survive a loss? - Al Jazeera
 - China looks like it's dumping Treasury debt but may actually be stashing it in Canada and Belgium - Fortune
-- Ford Wants to Make Fun Cars Again in Europe—if Drivers Can Wait Until 2028 - WSJ
+- Saudi Arabia sends skyscraper employees home amid Houthi threats - DW.com
+- Disney agrees to hire the majority of Character.AI’s workforce - TechCrunch
 - Tesla Roadster flies, flips and hits 60 mph in a flash - Fox News
-- Consumer apprehension grows as US retailers adopt AI-assisted pricing tools - ABC News - Breaking News, Latest News and Videos
-- Apple Expected to Release New Products on Next Four Fridays - MacRumors
-- Apple Reveals iPhone Duo's Battery Capacity - MacRumors
+- Video game ownership bill introduced in Congress - The Verge
+- Apple Store plans reveal when the OLED iPad mini will likely go on sale - PhoneArena
