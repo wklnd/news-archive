@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-18 19:28_
+_Updated: 2026-10-18 21:32_
 
 ## Top Stories
 
-- Förödelsen stor efter protesterna i Frankrike - SVT Nyheter
+- Macron om förödelsen i Frankike: De måste betala - Göteborgs-Posten
+- Hur många ord klarar du på högskoleprovet? - Svenska Dagbladet
+- Olycka på E4 – flera fordon inblandade - Sveriges Radio
 - DN Direkt – C avböjer kommentar på Åkessons invit - Dagens Nyheter
 - Ingmar Nevéus: Nu slipper Zelenskyj dölja sitt förakt för Trump - Dagens Nyheter
-- Flera fordon i krock på E4 – orsakar långa köer - Omni – Alla nyheter. Alla perspektiv.
-- Flera döda efter brand på militärbas i Kanada - Göteborgs-Posten
-- Malmer Stenergard om bosättarvåld: ”Allvarligt” - Corren
-- Boende efter dödsskjutningen i Älvsjö: ”Sorg och förtvivlan” - SVT Nyheter
+- Huthierna manövrerar skickligt med medeltida idéer i det moderna Mellanöstern - Dagens Nyheter
+- USA:s ovanliga drag: Krigsfartyg utanför Sundsvall - Dagens Nyheter
+- Ivo stängde hvb-hemmen – utan belägg för kriminalitet - Dagens Nyheter
 - Skolinspektionen överväger tillsyn av Sigtunaskolan - Corren
-- Höstens högskoleprov 2026 – hur många ord klarar du? - SVT Nyheter
-- INSÄNDARE: Att vistas bland cyklister och elsparkcyklar med livet som insats - Norran
+- En släppt efter misstänkt mord i Skellefteå - Göteborgs-Posten
 - Zelenskyj tacksam för återupptagna underrättelser - Göteborgs-Posten
-- Direkt – Kriget i Ukraina – Larm i Baltikum och Polen – drönare har kraschat - Dagens Nyheter
-- Påvens Angelus om att ge kejsaren det som tillhör kejsaren - Vatican News
-- Direkt – Krisen i Mellanöstern – Malmer Stenergard om bosättarvåld: ”Allvarligt” - Dagens Nyheter
-- Jobba tolv timmar om dagen, sex dagar i veckan – nu även i Europa - Dagens PS
-- Hotet mot billig svensk el: ”Smutsig hemlighet” - Svenska Dagbladet
+- Trump ger Netanyahu sitt fulla stöd inför valet - Västerbottens-Kuriren
+- Malmer Stenergard kräver att Israel agerar - Dagens Nyheter
+- Trumps krav på pressekreterarna – detaljen sticker ut - Dagens Nyheter
+- Brist på gas, kärnkraft och vatten – elpriset skjuter i höjden - TV4 Nyheterna
+- Minnesmästaren blev deprimerad av AI-hotet – nu vill han varna andra - HD
 - Giftig AI-cocktail sänkte Wall Street – analytiker ser köpläge - Dagens industri
-- ”Hur mänskligheten kan utplåna sig själv med AI” - Västerbottens-Kuriren
-- Nioåriga Adam drömmer om att bli organist: ”Spelar varje dag” - Blekinge Läns Tidning
-- En grön stjärna har upptäckts för första gången - Omni – Alla nyheter. Alla perspektiv.
+- Revanscher och ras – här är veckans vinnare och förlorare - Dagens industri
+- Så mycket kortare var dygnet på dinosauriernas tid - Sveriges Radio
+- Grön stjärna upptäckt för första gången - Kvartal
 
 ## World News
 
@@ -46,7 +46,7 @@ _Updated: 2026-10-18 19:28_
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
+- Ögonblick vi minns från Global Series i Sverige - NHL.com
 
 ## Technology
 
@@ -64,11 +64,11 @@ _Updated: 2026-10-18 19:28_
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Timnit Gebru - Right Livelihood
+- 290 million for digitalisation of Swedish industry - Vinnova
 - AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
 - My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Från ett laboratorium till en modell för att popularisera STEM, robotik och AI i skolor. - Vietnam.vn
-- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - Virtuell verklighet och artificiell intelligens driver energiträning. - Vietnam.vn
 
 ## Business
@@ -83,14 +83,14 @@ _Updated: 2026-10-18 19:28_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Redpill Linpro och Berget AI inleder samarbete för suverän AI - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
@@ -125,6 +125,7 @@ _Updated: 2026-10-18 19:28_
 - Dr. Ha Thi Thanh Huong vann första pris i ASEAN-US Science Prize for Women 2026. - Vietnam.vn
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Internationell workshop om nätverket av excellenscentra inom bioteknikutbildning och forskning 2026: Främjande av forskning, utbildning och tekniköverföring - Vietnam.vn
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -138,7 +139,6 @@ _Updated: 2026-10-18 19:28_
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 
 ## Jordbruk
 
@@ -151,14 +151,14 @@ _Updated: 2026-10-18 19:28_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Sorseles sista mjölkgård till salu - Lokaltidningen
 - Här är världens största jordbruk - ATL
 - Kan agroekologi mätta världen? - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - ”Resiliens är det nya effektiva” - Jordbruksaktuellt
 - Visning av uppkomst efter direktsådd - Land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Driva lantbruk i Ryssland är ingen promenad i parken - ATL
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Markbristen: EUs unga bönders största utmaning - Land.se
