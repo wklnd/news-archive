@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-18 11:47_
+_Updated: 2026-10-18 16:06_
 
 ## Top Stories
 
-- Många dödade och skadade på militärbas i Kanada - Dagens Nyheter
-- Trafikverket varnar för blixthalka - SVT Nyheter
-- Tusental demonstranter gripna i Frankrike - Corren
+- Bordtennis: Anton Källberg klar för EM-final efter skrällseger - SVT Nyheter
+- Förödelse i Frankrike dagen efter protester – Macron väntas tala - Dagens Nyheter
+- Hammarby spelar med sorgband efter skjutningen i Älvsjö - Aftonbladet
+- Ingmar Nevéus: Nu slipper Zelenskyj dölja sitt förakt för Trump - Dagens Nyheter
+- Trafikolycka på E4 vid Gränna - SVT Nyheter
+- Flera döda efter brand på militärbas i Kanada - Göteborgs-Posten
+- Skolinspektionen överväger tillsyn av Sigtunaskolan - Göteborgs-Posten
 - På väg att bli pappa – när bron havererade: ”Släkt var förberedda med båt” - Dagens Nyheter
 - Diplomaten Sven Hirdman är död - SVT Nyheter
-- Östersjöns största oljeterminal står i brand - Hufvudstadsbladet – HBL
-- Kvinna död efter skjutning i idrottshall i södra Stockholm – två anhållna - SVT Nyheter
-- Ivo stängde hvb-hemmen – utan belägg för kriminalitet - Dagens Nyheter
-- Skolinspektionen överväger tillsyn av Sigtunaskolan - Göteborgs-Posten
-- Två anhållna för misstänkt mord i Majorna - Västerbottens-Kuriren
-- Två döda då bil körde in på fotbollsplan - Västerbottens-Kuriren
-- Nya beskeden om Trumps lättade sanktioner – 60 dagars paus - Dagens Nyheter
-- Mellanårsvalet – en folkomröstning om Trump - Dagens Nyheter
-- Larm i Baltikum och Polen – drönare har kraschat - Corren
-- Elräkningen: Så kan Sveriges villaägare spara 10 000 kronor om året - Dagens PS
+- INSÄNDARE: Att vistas bland cyklister och elsparkcyklar med livet som insats - Norran
+- Hasan Piker – socialisten som splittrar Demokraterna - Dagens Nyheter
+- Ukraina anföll flera mål i Sankt Petersburg i natt - Dagens Nyheter
+- Påven tacksam i första talet efter operationen - Omni – Alla nyheter. Alla perspektiv.
+- Rubio om attack på Västbanken: ”Upprörd” - Corren
+- Hotet mot billig svensk el: ”Smutsig hemlighet” - Svenska Dagbladet
 - ”Hur mänskligheten kan utplåna sig själv med AI” - Västerbottens-Kuriren
-- Giftig AI-cocktail sänkte Wall Street – analytiker ser köpläge - DI
-- Hennes pension räcker längre här – du kan köpa hus för under miljonen - Dagens PS
-- Ett märkligt ben dök upp i fiskares nät – dolde en häpnadsväckande hemlighet om en mystisk människoart - Illustrerad Vetenskap
+- Giftig AI-cocktail sänkte Wall Street – analytiker ser köpläge - Dagens industri
+- Ryssland lägger beslag på svenskt företag - Tidningen Näringslivet
 - Nioåriga Adam drömmer om att bli organist: ”Spelar varje dag” - Blekinge Läns Tidning
+- En grön stjärna har upptäckts för första gången - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
 - Miss Universe utfärdade ett kraftfullt uttalande till Mr. Nawat och krävde att hans partner skulle dra sig ur Miss Grand International. - Vietnam.vn
-- Två fina priser till NTM i årets INMA Global Awards - ntm.se
+- Två fina priser till NTM i årets INMA Global Awards - NTM
 - Volvo Cars reports Q3 2026 sales - Volvo
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
+- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
 
 ## Technology
 
@@ -62,11 +62,11 @@ _Updated: 2026-10-18 11:47_
 - Data Centre Expo Sweden - Mynewsdesk
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Timnit Gebru - Right Livelihood
+- 290 million for digitalisation of Swedish industry - Vinnova
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - Från ett laboratorium till en modell för att popularisera STEM, robotik och AI i skolor. - Vietnam.vn
 - Virtuell verklighet och artificiell intelligens driver energiträning. - Vietnam.vn
@@ -76,15 +76,15 @@ _Updated: 2026-10-18 11:47_
 - CSC Financial (SHSE:601066) - Aktieanalys - Simply Wall Street
 - Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
 - 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
-- Redpill Linpro och Berget AI inleder samarbete för suverän AI - Mynewsdesk
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
-- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Redpill Linpro och Berget AI inleder samarbete för suverän AI - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -121,16 +121,16 @@ _Updated: 2026-10-18 11:47_
 
 - NVIDIA tillkännager femårigt engagemang för amerikansk vetenskaplig forskning - Unite.AI
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- University of Science samarbetar med University of Houston, USA: Utbyte och samarbete, intervjuer för antagning till forskarutbildning - University of Science, VNU-HCM - Vietnam.vn
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
+- Internationell workshop om nätverket av excellenscentra inom bioteknikutbildning och forskning 2026: Främjande av forskning, utbildning och tekniköverföring - Vietnam.vn
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Dr. Ha Thi Thanh Huong vann första pris i ASEAN-US Science Prize for Women 2026. - Vietnam.vn
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskningen ska vara fri - European Commission
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Sherry Nakhaeizadeh - Uppsala universitet
