@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-18 06:57_
+_Updated: 2026-10-18 11:47_
 
 ## Top Stories
 
-- Sanktionsstopp mot Ryssland ska gälla i 60 dagar - Västerbottens-Kuriren
-- Efter protesterna – brand rasar i franskt stadshus - Göteborgs-Posten
-- Dödlig militärolycka i Alberta i Kanada - SVT Nyheter
+- Många dödade och skadade på militärbas i Kanada - Dagens Nyheter
+- Trafikverket varnar för blixthalka - SVT Nyheter
+- Tusental demonstranter gripna i Frankrike - Corren
+- På väg att bli pappa – när bron havererade: ”Släkt var förberedda med båt” - Dagens Nyheter
+- Diplomaten Sven Hirdman är död - SVT Nyheter
+- Östersjöns största oljeterminal står i brand - Hufvudstadsbladet – HBL
+- Kvinna död efter skjutning i idrottshall i södra Stockholm – två anhållna - SVT Nyheter
 - Ivo stängde hvb-hemmen – utan belägg för kriminalitet - Dagens Nyheter
-- Åkte inte på brandlarm – nu måste butik saneras - Västerbottens-Kuriren
-- Kvinna död efter skjutningen i Älvsjö - Aftonbladet
-- Två anhållna för misstänkt mord i Majorna - Göteborgs-Posten
-- VERONICA PALM: Bra att Magdalena Andersson faller i riksdagen - Corren
-- Åklagaren: Elever på Sigtunaskolan har gjort sig av med föremål - SVT Nyheter
-- Två döda då bil körde in på fotbollsplan - Göteborgs-Posten
-- Uppgifter: Musk och Trump bakom stoppet - Dagens Nyheter
+- Skolinspektionen överväger tillsyn av Sigtunaskolan - Göteborgs-Posten
+- Två anhållna för misstänkt mord i Majorna - Västerbottens-Kuriren
 - Två döda då bil körde in på fotbollsplan - Västerbottens-Kuriren
-- Rumänien har skjutit ner två drönare - Västerbottens-Kuriren
-- Rubio om attack på Västbanken: ”Upprörd” - Västerbottens-Kuriren
-- FORTSATT AI-FROSSA OCH HÖGRE OLJEPRIS, S&P 500 -1,1% - Placera.se
-- Nvidias vd om AI-varningarna: ”Jag är ansvarsfull optimist" - Dagens Nyheter
-- Så kan AI utplåna mänskligheten - DI
-- Skattepengar till hampavideo – nu krävs föreningen på miljoner - Bulletin
-- Nu är det avgjort: skottsekunden försvinner - Computer Sweden
-- Ingen OnePlus 16 i USA eller EU: Så importerar du detta prisvärda flaggskepp med ett enormt batteri och en 185Hz-skärm - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
+- Nya beskeden om Trumps lättade sanktioner – 60 dagars paus - Dagens Nyheter
+- Mellanårsvalet – en folkomröstning om Trump - Dagens Nyheter
+- Larm i Baltikum och Polen – drönare har kraschat - Corren
+- Elräkningen: Så kan Sveriges villaägare spara 10 000 kronor om året - Dagens PS
+- ”Hur mänskligheten kan utplåna sig själv med AI” - Västerbottens-Kuriren
+- Giftig AI-cocktail sänkte Wall Street – analytiker ser köpläge - DI
+- Hennes pension räcker längre här – du kan köpa hus för under miljonen - Dagens PS
+- Ett märkligt ben dök upp i fiskares nät – dolde en häpnadsväckande hemlighet om en mystisk människoart - Illustrerad Vetenskap
+- Nioåriga Adam drömmer om att bli organist: ”Spelar varje dag” - Blekinge Läns Tidning
 
 ## World News
 
@@ -32,21 +32,21 @@ _Updated: 2026-10-18 06:57_
 - Volvo Cars reports Q3 2026 sales - Volvo
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Mellan talibanerna, Indien och Irankriget - Kvartal
+- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Dress for Success® Worldwide Launches Global Brand Refresh and Campaign to Transform Women's Futures - Aktiellt
+- Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 
 ## Technology
 
@@ -76,22 +76,22 @@ _Updated: 2026-10-18 06:57_
 - CSC Financial (SHSE:601066) - Aktieanalys - Simply Wall Street
 - Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
 - 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
-- Vilken framtid arbetar du för? - EY
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Redpill Linpro och Berget AI inleder samarbete för suverän AI - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
+- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Redpill Linpro och Berget AI inleder samarbete för suverän AI - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
@@ -121,24 +121,24 @@ _Updated: 2026-10-18 06:57_
 
 - NVIDIA tillkännager femårigt engagemang för amerikansk vetenskaplig forskning - Unite.AI
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- University of Science samarbetar med University of Houston, USA: Utbyte och samarbete, intervjuer för antagning till forskarutbildning - University of Science, VNU-HCM - Vietnam.vn
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
-- Dr. Ha Thi Thanh Huong vann första pris i ASEAN-US Science Prize for Women 2026. - Vietnam.vn
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Dr. Ha Thi Thanh Huong vann första pris i ASEAN-US Science Prize for Women 2026. - Vietnam.vn
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Internationell workshop om nätverket av excellenscentra inom bioteknikutbildning och forskning 2026: Främjande av forskning, utbildning och tekniköverföring - Vietnam.vn
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskningen ska vara fri - European Commission
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Andrea del Valle - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - AI och data science - Stockholms universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
