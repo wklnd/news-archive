@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-18 21:32_
+_Updated: 2026-10-18 23:45_
 
 ## Top Stories
 
 - Macron om förödelsen i Frankike: De måste betala - Göteborgs-Posten
-- Hur många ord klarar du på högskoleprovet? - Svenska Dagbladet
-- Olycka på E4 – flera fordon inblandade - Sveriges Radio
+- Zelenskyj: Trump pressar Ukraina att kapitulera - Dagens Nyheter
+- Åklagaren om dödsskjutningen: Vi har några uppslag - Västerbottens-Kuriren
+- DN Direkt – Tirana brinner i nya kravaller - Dagens Nyheter
+- Testa dig själv: Kan du orden från högskoleprovet? - Ny Teknik
+- Två bilar krockade på E4 vid Trosa – långa köer på platsen - SN, Södermanlands Nyheter
 - DN Direkt – C avböjer kommentar på Åkessons invit - Dagens Nyheter
-- Ingmar Nevéus: Nu slipper Zelenskyj dölja sitt förakt för Trump - Dagens Nyheter
-- Huthierna manövrerar skickligt med medeltida idéer i det moderna Mellanöstern - Dagens Nyheter
-- USA:s ovanliga drag: Krigsfartyg utanför Sundsvall - Dagens Nyheter
-- Ivo stängde hvb-hemmen – utan belägg för kriminalitet - Dagens Nyheter
 - Skolinspektionen överväger tillsyn av Sigtunaskolan - Corren
 - En släppt efter misstänkt mord i Skellefteå - Göteborgs-Posten
-- Zelenskyj tacksam för återupptagna underrättelser - Göteborgs-Posten
+- INSÄNDARE: Att vistas bland cyklister och elsparkcyklar med livet som insats - Norran
+- DN Direkt – Venezuelas opposition väljer Machado som ledare - Dagens Nyheter
+- Huthierna manövrerar skickligt med medeltida idéer i det moderna Mellanöstern - Dagens Nyheter
 - Trump ger Netanyahu sitt fulla stöd inför valet - Västerbottens-Kuriren
-- Malmer Stenergard kräver att Israel agerar - Dagens Nyheter
 - Trumps krav på pressekreterarna – detaljen sticker ut - Dagens Nyheter
 - Brist på gas, kärnkraft och vatten – elpriset skjuter i höjden - TV4 Nyheterna
-- Minnesmästaren blev deprimerad av AI-hotet – nu vill han varna andra - HD
+- Bilavtal skulle rädda EU – Volvo Cars går emot - Svenska Dagbladet
 - Giftig AI-cocktail sänkte Wall Street – analytiker ser köpläge - Dagens industri
 - Revanscher och ras – här är veckans vinnare och förlorare - Dagens industri
-- Så mycket kortare var dygnet på dinosauriernas tid - Sveriges Radio
-- Grön stjärna upptäckt för första gången - Kvartal
+- Forskarnas fynd: En grön stjärna - Aftonbladet
+- Skottsekunden kan slopas – när jorden snurrar snabbare - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
@@ -76,21 +76,21 @@ _Updated: 2026-10-18 21:32_
 - CSC Financial (SHSE:601066) - Aktieanalys - Simply Wall Street
 - Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
 - 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
-- Vilken framtid arbetar du för? - EY
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Redpill Linpro och Berget AI inleder samarbete för suverän AI - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
+- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Redpill Linpro och Berget AI inleder samarbete för suverän AI - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
@@ -125,7 +125,6 @@ _Updated: 2026-10-18 21:32_
 - Dr. Ha Thi Thanh Huong vann första pris i ASEAN-US Science Prize for Women 2026. - Vietnam.vn
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Internationell workshop om nätverket av excellenscentra inom bioteknikutbildning och forskning 2026: Främjande av forskning, utbildning och tekniköverföring - Vietnam.vn
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -139,6 +138,7 @@ _Updated: 2026-10-18 21:32_
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 
 ## Jordbruk
 
