@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-18 00:32_
+_Updated: 2026-10-18 02:13_
 
 ## Top Stories
 
-- DN Direkt – Tårgas och kravaller i Paris - Dagens Nyheter
-- Kvinna död efter skjutning i idrottshall - Västerbottens-Kuriren
+- Tusental demonstranter gripna i Frankrike - Västerbottens-Kuriren
+- Kvinna död efter skjutningen i Älvsjö - Aftonbladet
 - Svagt Starlink slår ut Ukrainas drönare: ”Obrukbara” - Dagens Nyheter
-- Två män anhållna för grov våldtäkt mot barn - Aftonbladet
+- Trump stoppar sanktioner mot Ryssland - Göteborgs-Posten
 - Verkstadschef bröt näsan på kund som skrivit negativ recension - Sydsvenskan
-- Rumänien har skjutit ner två drönare - Svenska Dagbladet
+- Rubio om attack på Västbanken: ”Upprörd” - Västerbottens-Kuriren
 - Två anhållna för misstänkt mord i Majorna - Göteborgs-Posten
+- 17 oktober 04.42, Våldtäkt, Malmö - polisen.se
 - 4 438 kom i mål: "Ganska tjockt med folk" - UNT
 - VERONICA PALM: Bra att Magdalena Andersson faller i riksdagen - Corren
-- Barn körde för snabba elsparkcyklar – över 30 föräldrar har åtalats - Dagens Nyheter
-- Flera ihjältrampade i skyfall vid hinduisk festival - Göteborgs-Posten
-- Drönare över Riyad nedskjutna av Saudiarabien - Västerbottens-Kuriren
+- Flera ihjältrampade i skyfall vid hinduisk festival - Västerbottens-Kuriren
+- Rumänien har skjutit ner två drönare - Västerbottens-Kuriren
+- Massprotester mot Trump samlade folk från kust till kust i USA - Dagens Nyheter
 - Trumps sparkade talesperson – ”Det var en ära” - Hufvudstadsbladet – HBL
-- Trump överväger att använda ”alla bombers mamma” - Expressen
-- Ölen flödar efter slopat matkrav: ”Jättenajs” - Svenska Dagbladet
 - Nvidias vd om AI-varningarna: ”Jag är ansvarsfull optimist" - Dagens Nyheter
 - FORTSATT AI-FROSSA OCH HÖGRE OLJEPRIS, S&P 500 -1,1% - Placera.se
-- Cirkus i Texas medan världen brinner: Varför Elon Musks flygande bil är ett hån mot vår tid - Skåne Plus
+- Stockholm vill göra elbilar till kraftkälla vid kris - Dagens Nyheter
+- Stockholm tog revansch – Saab och EQT i topp - EFN
 - Nu är det avgjort: skottsekunden försvinner - Computer Sweden
-- KRÖNIKA: Nya ”Grand Theft Auto” kan ge svenska stjärnor skjuts - Ystads Allehanda
+- Naims nya lyx-soundbar får en utopisk prislapp - Ljud & Bild
 
 ## World News
 
@@ -90,9 +90,9 @@ _Updated: 2026-10-18 00:32_
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Accure och Basware satsar stort på e-faktura - Mynewsdesk
 
 ## Health
 
