@@ -1,58 +1,59 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-19 02:22_
+_Updated: 2026-10-19 07:05_
 
 ## Top Stories
 
 - Macron efter protester: Ingenting ursäktar våld - Västerbottens-Kuriren
-- Älvsjö sörjer mördade 25-åringen – minnesplats vid Kämpetorpshallarna - Mitt i
-- Explosion avfärdas efter branden på militärbasen i Kanada - Dagens Nyheter
+- Tunnelbanestation förstörd i dödligt angrepp - Corren
+- Vad blir nästa steg i regeringsbildningen? - Västerbottens-Kuriren
+- Zelenskyj: Trump pressar Ukraina att kapitulera - Dagens Nyheter
+- JD Vances ord – om att bli president - Expressen
 - Karl Dalén: Kommer en demokratisk våg att svepa över USA? - Dagens Nyheter
-- Zelenskyj: Trump vill få Ukraina att kapitulera - Göteborgs-Posten
-- Trumps krav på pressekreterarna – detaljen sticker ut - Dagens Nyheter
 - DN Direkt – C avböjer kommentar på Åkessons invit - Dagens Nyheter
-- Skolinspektionen överväger tillsyn av Sigtunaskolan - Corren
-- Höstens högskoleprov 2026 – hur många ord klarar du? - SVT Nyheter
-- VERONICA PALM: Bra att Magdalena Andersson faller i riksdagen - Corren
+- Tunnelbanestation förstörd i dödligt angrepp - Göteborgs-Posten
+- JOHAN RUDSTRÖM: Den önskvärda pennalismen på Sigtuna Hum - UNT
+- Häst dog efter att ha blivit påkörd av lastbil på E6 - SVT Nyheter
 - Albaniens Tirana brinner i nya kravaller - Göteborgs-Posten
-- DN Direkt – Venezuelas opposition väljer Machado som ledare - Dagens Nyheter
-- Påvens Angelus om att ge kejsaren det som tillhör kejsaren - Vatican News
-- Malmer Stenergard kräver att Israel agerar - Dagens Nyheter
-- Oljepriset sjunker när handeln öppnat - Västerbottens-Kuriren
-- Hotet mot billig svensk el: ”Smutsig hemlighet” - Svenska Dagbladet
-- ”Hur mänskligheten kan utplåna sig själv med AI” - Västerbottens-Kuriren
-- Revanscher och ras – här är veckans vinnare och förlorare - DI
+- Serbiens studenter utmanar ledare: "Ett nytt sätt” - Västerbottens-Kuriren
+- Venezuelas opposition väljer Machado som ledare - Göteborgs-Posten
+- Explosion avfärdas efter branden på militärbasen i Kanada - Dagens Nyheter
+- Bensinen blir dyrare – nu kör elbilen ifrån - Hallandsposten
+- Nya ägare till 60-talshus i Alingsås – prislappen: 1 525 000 kronor - Alingsås Tidning
+- Oljepriset sjunker när handeln öppnat - Dagens industri
+- BoJ-chefen: Underliggande inflation nära tvåprocentsmålet - Placera.se
+- Apple klantade till förbeställningarna av iPhone Duo genom att insistera på en bredare lansering - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 - Forskarnas fynd: En grön stjärna - Aftonbladet
-- Skottsekunden kan slopas – när jorden snurrar snabbare - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
+- Miss Universe utfärdade ett kraftfullt uttalande till Mr. Nawat och krävde att hans partner skulle dra sig ur Miss Grand International. - Vietnam.vn
 - Volvo Cars reports Q3 2026 sales - Volvo
 - Två fina priser till NTM i årets INMA Global Awards - NTM
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Mellan talibanerna, Indien och Irankriget - Kvartal
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
+- Alibaba accelererar global utbyggnad av AI-datacenter (Finwire News) - Aktiellt
 
 ## Technology
 
 - Kinesisk teknologi är närvarande i AI-vågen i USA. - Vietnam.vn
 - Skräp inom artificiell intelligens – från respons till förebyggande - Vietnam.vn
 - Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
+- Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
@@ -65,26 +66,26 @@ _Updated: 2026-10-19 02:22_
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Timnit Gebru - Right Livelihood
 - 290 million for digitalisation of Swedish industry - Vinnova
-- AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
-- My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
 - Från ett laboratorium till en modell för att popularisera STEM, robotik och AI i skolor. - Vietnam.vn
 - Virtuell verklighet och artificiell intelligens driver energiträning. - Vietnam.vn
 
 ## Business
 
 - CSC Financial (SHSE:601066) - Aktieanalys - Simply Wall Street
-- Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
+- Årets Nobelpris i ekonomi: Så påverkar krisforskningen din plånbok - Mynewsdesk
 - 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
-- Redpill Linpro och Berget AI inleder samarbete för suverän AI - Mynewsdesk
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
-- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Redpill Linpro och Berget AI inleder samarbete för suverän AI - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2026-10-19 02:22_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
 
@@ -121,10 +121,11 @@ _Updated: 2026-10-19 02:22_
 
 - NVIDIA tillkännager femårigt engagemang för amerikansk vetenskaplig forskning - Unite.AI
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- University of Science samarbetar med University of Houston, USA: Utbyte och samarbete, intervjuer för antagning till forskarutbildning - University of Science, VNU-HCM - Vietnam.vn
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
-- Dr. Ha Thi Thanh Huong vann första pris i ASEAN-US Science Prize for Women 2026. - Vietnam.vn
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Dr. Ha Thi Thanh Huong vann första pris i ASEAN-US Science Prize for Women 2026. - Vietnam.vn
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -138,7 +139,6 @@ _Updated: 2026-10-19 02:22_
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 
 ## Jordbruk
 
