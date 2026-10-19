@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-19 03:41_
+_Updated: 2026-10-19 08:50_
 
-- France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops - The New York Times
-- 2 dead, 11 injured after woman in truck drives through soccer game in Wichita, Kansas: Police - ABC News - Breaking News, Latest News and Videos
+- Huge Riots and Anti-Government Protests in France: What to Know - The New York Times
 - Trump plans to begin DC golf course renovation in defiance of judge’s order - The Guardian
-- Vance reveals ‘there’s a chance’ he won’t run for president in 2028: ‘We’ve got 4 little kids’ - New York Post
-- Trump approval hits record low, handing Democrats a clear midterm edge - The Washington Post
-- Alberta premier says 39 people hospitalized, at least 19 critical after fire at Canada military base - AP News
-- Obama says Trump officials’ pursuit of Rep. Omar should ‘outrage all Americans’ - The Washington Post
-- Semi-Truck Rollover Spills Dozens of Cattle Across Downtown Kansas City - The New York Times
-- SpaceX throttled Starlink in Ukraine. Neither Trump nor Elon Musk wants to own the decision. - Yahoo Finance
-- Can Scott Colom win Mississippi Senate? Warnock is making a big bet on it. - Politico
+- Takeaways from JD Vance’s town hall forum in Michigan - The Washington Post
+- Oil tumbles as Trump's Russia sanctions waiver may lead to more fuel supplies - Reuters
+- What we know so far about deadly fire at Canadian military base - BBC
+- Expedition to find Amelia Earhart's missing plane comes up empty - CBS News
+- Driver released after pickup truck kills 2, injures 10 at Kansas youth soccer game - Reuters
+- Obama calls Trump officials’ investigation of Ilhan Omar ‘appalling’ - NBC News
+- Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze - Al Jazeera
+- 'Little of it was constructive’: GOP bemoans a distracted Trump in midterms’ final stretch - Politico
+- U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them - The New York Times
+- Saudi Arabia’s Military Limitations Are Being Exposed by Houthi Attacks - WSJ
 - Pope Leo says he will gradually resume duties after cancer surgery - NPR
-- U.S. ambassador to Israel calls for "arrest and prosecution" of Heidi Levine's West Bank settler attackers - CBS News
-- Returning the first samples from a Martian moon: Inside the science of Japan's bold MMX mission to Mars - Space
-- Alberta independence referendum: Will separatists survive a loss? - Al Jazeera
-- Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption - CNBC
-- Home sellers cut asking prices on 3,000 properties a day, says Rightmove - BBC
-- Disney agrees to hire the majority of Character.AI’s workforce - TechCrunch
+- Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes - DW.com
+- China’s Economy Expanded 4.5% in Third Quarter, Powered by Exports - WSJ
+- Anthropic says it will commit 5% of its shares to 'public benefit fund' - BBC
+- Indonesian stocks plunge to six-year low as MSCI downgrade fears mount - CNBC
 - Tesla Roadster flies, flips and hits 60 mph in a flash - Fox News
 - Apple’s HomeViews Reportedly Collected Dust in Warehouses ‘For the Better Part of a Year’ - Gizmodo
-- Video game ownership bill introduced in Congress - The Verge
+- I thought working in AI would put me ahead of the curve. Two years in, I've never felt more behind and tired of the topic. - Business Insider
