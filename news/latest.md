@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-19 08:50_
+_Updated: 2026-10-19 16:58_
 
-- Huge Riots and Anti-Government Protests in France: What to Know - The New York Times
+- In pictures: More than 500,000 took to the streets as France protests erupted into violence - CNBC
+- Suburban women souring on Paxton could doom him in tight race - The Washington Post
+- Australian prime minister says lawmaker critically injured by car is 'no accident' - NPR
+- Exclusive | Putin Floats a Summit With Trump and Xi to Discuss Ukraine Deal - WSJ
+- Albertans vote on path to independence as Carney fights to keep Canada united - AP News
+- Witnesses haunted by what they saw when pickup plowed through a Kansas youth soccer game - NBC News
+- Supreme Court agrees to review a Reconstruction-era ban on distilling spirits in private homes - AP News
 - Trump plans to begin DC golf course renovation in defiance of judge’s order - The Guardian
-- Takeaways from JD Vance’s town hall forum in Michigan - The Washington Post
-- Oil tumbles as Trump's Russia sanctions waiver may lead to more fuel supplies - Reuters
-- What we know so far about deadly fire at Canadian military base - BBC
-- Expedition to find Amelia Earhart's missing plane comes up empty - CBS News
-- Driver released after pickup truck kills 2, injures 10 at Kansas youth soccer game - Reuters
-- Obama calls Trump officials’ investigation of Ilhan Omar ‘appalling’ - NBC News
-- Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze - Al Jazeera
-- 'Little of it was constructive’: GOP bemoans a distracted Trump in midterms’ final stretch - Politico
-- U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them - The New York Times
-- Saudi Arabia’s Military Limitations Are Being Exposed by Houthi Attacks - WSJ
-- Pope Leo says he will gradually resume duties after cancer surgery - NPR
-- Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes - DW.com
-- China’s Economy Expanded 4.5% in Third Quarter, Powered by Exports - WSJ
-- Anthropic says it will commit 5% of its shares to 'public benefit fund' - BBC
-- Indonesian stocks plunge to six-year low as MSCI downgrade fears mount - CNBC
-- Tesla Roadster flies, flips and hits 60 mph in a flash - Fox News
-- Apple’s HomeViews Reportedly Collected Dust in Warehouses ‘For the Better Part of a Year’ - Gizmodo
-- I thought working in AI would put me ahead of the curve. Two years in, I've never felt more behind and tired of the topic. - Business Insider
+- Republicans already know who they want to blame if they suffer big midterm losses - Politico
+- Latest Climate Report Warns of Major Upheaval to California Way of Life - The New York Times
+- Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank - BBC
+- What's behind Egypt's move towards possible military involvement in Saudi-Yemen conflict? - Reuters
+- Priest killed by falling crucifix during live streamed Mass - CNN
+- Italian police detain hundreds as stores looted in weekend unrest in Milan - Reuters
+- Musk pledges 1 SpaceX share for every child in America - Axios
+- S&P 500, Nasdaq open higher as AI stocks rebound ahead of major earnings - Reuters
+- Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments - CNBC
+- China’s economy grows faster than forecast after AI boom boosts exports - The Guardian
+- DIY VR: How to build your own headset, and why you probably won't want to - Ars Technica
+- Android's brand-new 3D emoji are rolling out more widely - Android Authority
