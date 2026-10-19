@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-18 23:45_
+_Updated: 2026-10-19 02:22_
 
 ## Top Stories
 
-- Macron om förödelsen i Frankike: De måste betala - Göteborgs-Posten
-- Zelenskyj: Trump pressar Ukraina att kapitulera - Dagens Nyheter
-- Åklagaren om dödsskjutningen: Vi har några uppslag - Västerbottens-Kuriren
-- DN Direkt – Tirana brinner i nya kravaller - Dagens Nyheter
-- Testa dig själv: Kan du orden från högskoleprovet? - Ny Teknik
-- Två bilar krockade på E4 vid Trosa – långa köer på platsen - SN, Södermanlands Nyheter
+- Macron efter protester: Ingenting ursäktar våld - Västerbottens-Kuriren
+- Älvsjö sörjer mördade 25-åringen – minnesplats vid Kämpetorpshallarna - Mitt i
+- Explosion avfärdas efter branden på militärbasen i Kanada - Dagens Nyheter
+- Karl Dalén: Kommer en demokratisk våg att svepa över USA? - Dagens Nyheter
+- Zelenskyj: Trump vill få Ukraina att kapitulera - Göteborgs-Posten
+- Trumps krav på pressekreterarna – detaljen sticker ut - Dagens Nyheter
 - DN Direkt – C avböjer kommentar på Åkessons invit - Dagens Nyheter
 - Skolinspektionen överväger tillsyn av Sigtunaskolan - Corren
-- En släppt efter misstänkt mord i Skellefteå - Göteborgs-Posten
-- INSÄNDARE: Att vistas bland cyklister och elsparkcyklar med livet som insats - Norran
+- Höstens högskoleprov 2026 – hur många ord klarar du? - SVT Nyheter
+- VERONICA PALM: Bra att Magdalena Andersson faller i riksdagen - Corren
+- Albaniens Tirana brinner i nya kravaller - Göteborgs-Posten
 - DN Direkt – Venezuelas opposition väljer Machado som ledare - Dagens Nyheter
-- Huthierna manövrerar skickligt med medeltida idéer i det moderna Mellanöstern - Dagens Nyheter
-- Trump ger Netanyahu sitt fulla stöd inför valet - Västerbottens-Kuriren
-- Trumps krav på pressekreterarna – detaljen sticker ut - Dagens Nyheter
-- Brist på gas, kärnkraft och vatten – elpriset skjuter i höjden - TV4 Nyheterna
-- Bilavtal skulle rädda EU – Volvo Cars går emot - Svenska Dagbladet
-- Giftig AI-cocktail sänkte Wall Street – analytiker ser köpläge - Dagens industri
-- Revanscher och ras – här är veckans vinnare och förlorare - Dagens industri
+- Påvens Angelus om att ge kejsaren det som tillhör kejsaren - Vatican News
+- Malmer Stenergard kräver att Israel agerar - Dagens Nyheter
+- Oljepriset sjunker när handeln öppnat - Västerbottens-Kuriren
+- Hotet mot billig svensk el: ”Smutsig hemlighet” - Svenska Dagbladet
+- ”Hur mänskligheten kan utplåna sig själv med AI” - Västerbottens-Kuriren
+- Revanscher och ras – här är veckans vinnare och förlorare - DI
 - Forskarnas fynd: En grön stjärna - Aftonbladet
 - Skottsekunden kan slopas – när jorden snurrar snabbare - Omni – Alla nyheter. Alla perspektiv.
 
@@ -39,8 +39,8 @@ _Updated: 2026-10-18 23:45_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
