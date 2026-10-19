@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-19 16:58_
+_Updated: 2026-10-19 22:42_
 
-- In pictures: More than 500,000 took to the streets as France protests erupted into violence - CNBC
-- Suburban women souring on Paxton could doom him in tight race - The Washington Post
-- Australian prime minister says lawmaker critically injured by car is 'no accident' - NPR
-- Exclusive | Putin Floats a Summit With Trump and Xi to Discuss Ukraine Deal - WSJ
-- Albertans vote on path to independence as Carney fights to keep Canada united - AP News
-- Witnesses haunted by what they saw when pickup plowed through a Kansas youth soccer game - NBC News
-- Supreme Court agrees to review a Reconstruction-era ban on distilling spirits in private homes - AP News
-- Trump plans to begin DC golf course renovation in defiance of judge’s order - The Guardian
-- Republicans already know who they want to blame if they suffer big midterm losses - Politico
-- Latest Climate Report Warns of Major Upheaval to California Way of Life - The New York Times
-- Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank - BBC
-- What's behind Egypt's move towards possible military involvement in Saudi-Yemen conflict? - Reuters
-- Priest killed by falling crucifix during live streamed Mass - CNN
-- Italian police detain hundreds as stores looted in weekend unrest in Milan - Reuters
-- Musk pledges 1 SpaceX share for every child in America - Axios
-- S&P 500, Nasdaq open higher as AI stocks rebound ahead of major earnings - Reuters
-- Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments - CNBC
+- France's leaders vow to restore order after weekend of violent riots across the country - CBS News
+- Amelia Earhart search suffers crushing setback after researchers make disappointing find - Fox News
+- Trump signs order creating NIH division, task force for women's health - Reuters
+- DoJ charges 28 green card holders in California over alleged voter fraud - The Guardian
+- 2026 Midterm Elections: Trump Campaigns in Kansas - Fox News
+- Obama blasts Trump administration probe of congresswoman Ilhan Omar as 'so appalling' - BBC
+- Massachusetts Republican lieutenant governor candidate suspends campaign after OUI arrest - NBC News
+- New details emerge on two killed after woman drove through Kansas soccer game - The Guardian
+- Over three dozen Congress members’ offices targeted with white powder envelopes - The Guardian
+- US prosecutors allege Saudi royal links in OpenAI bugging case - Financial Times
+- Warning signs over threats to Australian politicians were rising before MP hit by car - BBC
+- Saudi Arabia postpones its 'Davos in the Desert' conference after attacks - Reuters
+- Egypt agrees to help Saudi Arabia defend itself against Houthis - Politico
+- Kenyan starvation cult leader guilty of murder of 190 children and one adult - The Guardian
+- Elon Musk says he's giving SpaceX stock to every kid in America - Yahoo Finance
+- Stock Market Today: S&P 500 and Nasdaq close higher as tech stocks surged, but the Dow slips as yields rise - MarketWatch
 - China’s economy grows faster than forecast after AI boom boosts exports - The Guardian
-- DIY VR: How to build your own headset, and why you probably won't want to - Ars Technica
-- Android's brand-new 3D emoji are rolling out more widely - Android Authority
+- Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments - CNBC
+- Apple Announces Oct. 28 Event for Touch-Screen MacBook Pro - Bloomberg
+- Apple Says iPhone Duo Not Available on Walk-In Basis in Two Countries - MacRumors
