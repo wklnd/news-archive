@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-19 13:04_
+_Updated: 2026-10-19 19:39_
 
 ## Top Stories
 
-- I dag faller hovrättsdomen mot Henrik Landerholm - SVT Nyheter
-- Sjuksköterska åtalas för våldtäkt på döende kvinna - Aftonbladet
-- Ung kvinna skjuten till döds - 8 Sidor
-- Robotar mot Kiev i natt: ”Utan förvarning” - Västerbottens-Kuriren
-- Skulle hem från Rhodos – fastnade vid Göteborg C - Göteborgs-Posten
-- Vad blir nästa steg i regeringsbildningen? - Västerbottens-Kuriren
-- Tre kommunpolitiker åtalas för grovt tjänstefel efter LVU-härvan i Älvsbyn - SVT Nyheter
-- Förundersökning läggs ner efter dödsfall i Ronneby - SVT Nyheter
-- Johan, 55, dog efter läkemedelsmiss på Karolinska - Dagens Nyheter
-- JOHAN RUDSTRÖM: Den önskvärda pennalismen på Sigtuna Hum - UNT
+- Thand Ringqvist: Kommer även prata med V och SD - Västerbottens-Kuriren
 - Efter protesterna i Frankrike – ministrar i krismöte - SVT Nyheter
-- Israel: Tio har gripits efter bosättarvåld - Corren
+- Körde in i Ronneby stadshus – trodde det var militärbas - TV4 Nyheterna
+- DN Direkt – 25 tjurar saknade efter rymning – sökinsats med drönare - Dagens Nyheter
+- 19 oktober 07.44, Trafikolycka, Åstorp - polisen.se
+- Kunders paket förstörda i Coop-branden - Göteborgs-Posten
+- Eleverna tillbaka efter mordet i idrottshallen: ”En chock” - Dagens Nyheter
+- Trafikolycka vid Hjärnarp – två till sjukhus - SVT Nyheter
+- Rakade kvinnas underliv på äldreboende – döms - Västerbottens-Kuriren
+- Krav om KU-granskning efter Landerholm-domen - Göteborgs-Posten
+- Robotar mot Kiev i natt: ”Utan förvarning” - Hufvudstadsbladet – HBL
 - Därför röstar Alberta om att lämna Kanada - Göteborgs-Posten
-- Karl Dalén: Kommer en demokratisk våg att svepa över USA? - Dagens Nyheter
-- Musk: Jag ska ge en Space X-aktie till varje barn i USA - Omni – Alla nyheter. Alla perspektiv.
-- Expertens bästa knep för billigare flygbiljetter - Svenska Dagbladet
-- Svenska ISK pekas ut som EU:s största succé - Dagens PS
-- SD: "S måste ge besked om bränslepriserna" - dagensinfrastruktur -
+- Över 50 döda i Huthi-anfall - Västerbottens-Kuriren
+- Zelenskyj: Trump vill få Ukraina att kapitulera - Corren
+- AVSLUTADE NED, MOWI OCH GENMAB MOT STRÖMMEN, VINX 30 -0,8% - Placera.se
+- Trots Trumps tullar ökar svenska Eleiko försäljningen i USA - Dagens Nyheter
+- Alla barn i USA ska få en Space X-aktie - Hufvudstadsbladet – HBL
+- När statsskulden skenar: fallet Frankrike - Utrikespolitiska institutet
 - Iphone Duo släpps på fredag – men förbeställer du nu får du den i januari - Macworld.se
-- Fullt Koreakrig bryter ut i storserien - Göteborgs-Posten
+- Edvin Törnblom avslöjar sin månadslön: ”Hur kan man behöva så mycket pengar?” - Expressen
 
 ## World News
 
 - Miss Universe utfärdade ett kraftfullt uttalande till Mr. Nawat och krävde att hans partner skulle dra sig ur Miss Grand International. - Vietnam.vn
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Två fina priser till NTM i årets INMA Global Awards - NTM
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
-- Kinesisk teknologi är närvarande i AI-vågen i USA. - Vietnam.vn
+- Skräp inom artificiell intelligens – från respons till förebyggande - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Skräp inom artificiell intelligens – från respons till förebyggande - Vietnam.vn
+- Kinesisk teknologi är närvarande i AI-vågen i USA. - Vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Data Centre Expo Sweden - Mynewsdesk
-- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
-- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
+- Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
 - AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
 - My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Från ett laboratorium till en modell för att popularisera STEM, robotik och AI i skolor. - Vietnam.vn
 - Virtuell verklighet och artificiell intelligens driver energiträning. - Vietnam.vn
-- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 
 ## Business
 
@@ -81,7 +81,6 @@ _Updated: 2026-10-19 13:04_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Redpill Linpro och Berget AI inleder samarbete för suverän AI - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
@@ -89,6 +88,7 @@ _Updated: 2026-10-19 13:04_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- Redpill Linpro och Berget AI inleder samarbete för suverän AI - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -124,39 +124,39 @@ _Updated: 2026-10-19 13:04_
 - University of Science samarbetar med University of Houston, USA: Utbyte och samarbete, intervjuer för antagning till forskarutbildning - University of Science, VNU-HCM - Vietnam.vn
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Dr. Ha Thi Thanh Huong vann första pris i ASEAN-US Science Prize for Women 2026. - Vietnam.vn
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Forskningen ska vara fri - European Commission
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskningen ska vara fri - European Commission
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Andrea del Valle - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - AI och data science - Stockholms universitet
-- Andrea del Valle - Karolinska Institutet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 
 ## Jordbruk
 
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Jordbrukspolitik - Naturvårdsverket
-- Svenska Bin ger ut boken Honung – En smakupplevelse - Mynewsdesk
+- Tio svenska ekoföretag satsar på den brittiska marknaden - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
+- Svenska Bin ger ut boken Honung – En smakupplevelse - Mynewsdesk
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - Kan agroekologi mätta världen? - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
-- ”Resiliens är det nya effektiva” - Jordbruksaktuellt
 - Visning av uppkomst efter direktsådd - Land.se
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Driva lantbruk i Ryssland är ingen promenad i parken - ATL
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
