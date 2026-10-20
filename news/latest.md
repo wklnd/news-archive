@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-20 21:34_
+_Updated: 2026-10-21 00:39_
 
-- French riots become Republican midterm boogeyman - Axios
-- ‘I trusted you all’: Judges question Trump administration’s credibility - NBC News
-- Ukraine live updates: Zelensky speaking after talks with US envoy Witkoff - BBC
-- DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns - NPR
-- ‘Everything you said there was a lie’: Joe Scarborough rips Trump’s Kansas rally - MS NOW
-- More survivors emerge in account of deadly Bend elementary school shooting - OregonLive.com
-- Attack Ad Featuring Candidate’s Mother Turns Ohio Governors Race Even Uglier - The New York Times
+- US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy - The Guardian
+- France riots become Republican midterm boogeyman - Axios
+- Midterm Updates: Trump Says He Plans to Spend at Least $400 Million by Election Day - The New York Times
+- California residents accused by feds of voter fraud react with shock, confusion and anger - Los Angeles Times
+- Exclusive | Musk Ordered Starlink Slowdown That Blindsided Ukraine - WSJ
+- Amy Acton’s brother slams ad featuring estranged mother - The Columbus Dispatch
+- Trump to Offer Up to $30,000 for Tips That Expose Government Fraud - WSJ
+- Woman Who Says She Was Raped at Cornell Sends Message to Faculty Senate - The New York Times
+- Alabama Gov. Kay Ivey spares death row inmate, citing doubts about evidence - NBC News
 - Offshore nor’easter creating high surf and coastal flooding along the East Coast - NBC News
-- Mike Bloomberg spent $80M to boost Democrats in midterms: NYT - CNBC
-- Trump pledges $8 billion in relief for farmers struggling with soaring diesel prices - CBS News
-- Lawmaker reportedly loses leg as car ramming stuns Australia - NBC News
-- Orient beach attack: South African swimmer killed by shark - BBC
-- 2 men rearrested in UK on suspicion of assisting Iran over suspected plot at a US-run air base - AP News
-- Student Protesters in France Have a Strange New Slogan. What Does It Mean? - The New York Times
-- Here's what to expect when Netflix reports earnings after the bell - CNBC
-- Stock Market Today: Dow Jumps, Oil Falls On U.S.-Iran Hopes; GM Stock Flashes This Sell Signal (Live Coverage) - Investor's Business Daily
-- Ahead of massive IPOs, AI companies are sketching plans to share their wealth - AP News
-- Trump praises Elon Musk's 'incredible generosity' over $10 billion SpaceX stock pledge for kids - Business Insider
-- Spotify launches paid podcast memberships with perks beyond bonus content - TechCrunch
-- AMD is bringing FSR 4.1 to Xbox consoles and handhelds - The Verge
+- Nigeria confirms Ebola case in patient who arrived from Uganda - Reuters
+- Hegseth meets Netanyahu on unannounced Israel visit - Al Jazeera
+- Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident - BBC
+- Robert Kabera, Rwandan Government Critic, Beheaded in Uganda - The New York Times
+- SpaceX quarterly revenue jumps, beats estimates as AI business surges - Reuters
+- Netflix stock sinks after announcing Q3 earnings, Q4 revenue forecast falls short of estimates - Yahoo Finance
+- US to approve Boeing 737 Max 10 for passenger service after years of delays, AP source says - AP News
+- United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares - CNBC
+- Report: Microsoft's Project Helix planned for 2028 at $1,200 to $1,800 price - Ars Technica
+- Xbox Game Pass Reportedly Getting 'Major Overhaul,' Will Feature 'À La Carte' Options - IGN
