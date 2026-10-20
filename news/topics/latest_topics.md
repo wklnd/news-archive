@@ -1,38 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-20 03:11_
+_Updated: 2026-10-20 08:22_
 
 ## Top Stories
 
+- Expressen: Gryningsräd i Borlänge – adresser kan kopplas till valfusk - SVT Nyheter
 - Experten om orsaken bakom franska protester: ”En djupare kris” - Göteborgs-Posten
-- Thand Ringqvist utesluter samarbete högerut - Västerbottens-Kuriren
-- Svarthalka i delar av Sverige – polisen varnar efter fem dödsolyckor - Dagens Nyheter
-- Qusai, 15, kände mördade kvinnan: ”Hon ville alltid hjälpa” - Aftonbladet
-- 19 oktober 16.36, Trafikolycka, Varberg - polisen.se
-- Robotar mot Kiev i natt: ”Utan förvarning” - Hufvudstadsbladet – HBL
-- Kvinna död i olycka på Tjörn - Göteborgs-Posten
-- 25 tjurar spårlöst borta efter rymning - Göteborgs-Posten
-- Krav om KU-granskning efter Landerholm-domen - Västerbottens-Kuriren
-- Utbrända undersköterskor ska inte bli offer i politiskt spel - Arbetet
-- DN Direkt – Hembränt kan bli lagligt i USA - Dagens Nyheter
+- LEDARE: Centern bör tacka ja till Åkessons invit - Nya Wermlands-Tidningen
+- Zelenskyj: Ukraina och USA kan mötas i Norge - Hufvudstadsbladet – HBL
+- USA hotar EU: ”Väldigt förödande” - Expressen
 - Hamilton Steiner: Ukraina har offrat för mycket för att lyssna på Trump - Dagens Nyheter
+- Oro efter dödsskjutning: ”Är med barnen hela tiden” - Göteborgs-Posten
+- Svarthalka i delar av Sverige – polisen varnar efter fem dödsolyckor - Dagens Nyheter
+- Här ökar medellivslängden mest i Sverige: ”En otrolig ökning” - Dagens Nyheter
+- Störningar på blå linjen – rälsen har gått sönder - SVT Nyheter
+- Alberta: Nej till självständighet från Kanada - Göteborgs-Posten
+- Tiotal döda i gruvras i Colombia - Sydsvenskan
+- Aung San Suu Kyi tog emot gåvor från kung Charles - Dagens Nyheter
 - Saudisk investerarkonferens tvingas ställa in - Västerbottens-Kuriren
-- Bosättarvåldet trappas upp inför israeliska valet: ”Aldrig så intensivt som nu” - SVT Nyheter
-- Rekyl för teknikaktier på Wall Street - Göteborgs-Posten
-- Krisen i Frankrike visar Sverige ska hålla sig borta från euron - Dagens Arena
-- Volvokoncernen etablerar dedikerad enhet för att möta den växande efterfrågan inom gruvindustrin - Cision News
-- Larm om livsfarligt damm – 100 byggen granskas - Västgöta-Bladet
-- Japansk rymdraket på väg till Marsmåne - Aftonbladet
-- Edvin Törnblom avslöjar sin månadslön: ”Hur kan man behöva så mycket pengar?” - Expressen
+- Byggföretagen: Bräcklig återhämtning – bostadsbyggandet går fortsatt trögt - Bostadspolitik
+- Höga köttpriser – en guldkalv för bönder - Hallands Nyheter
+- Europas elbilshopp kan byggas med kinesisk teknik - Dagens Nyheter
+- Börsen idag: Öppning i moll väntas - Placera.se
+- Googles nya AI klarade Minecraft på egen hand - Computer Sweden
+- Bank of America upprepar köp för Apple – långa leveranstider för iPhone Duo - Placera.se
 
 ## World News
 
 - Facebook-duon gör global modesuccé - DI
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Två fina priser till NTM i årets INMA Global Awards - NTM
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -40,7 +41,6 @@ _Updated: 2026-10-20 03:11_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
@@ -50,26 +50,26 @@ _Updated: 2026-10-20 03:11_
 
 ## Technology
 
+- Kinesisk teknologi är närvarande i AI-vågen i USA. - Vietnam.vn
+- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
 - Skräp inom artificiell intelligens – från respons till förebyggande - Vietnam.vn
+- Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Kinesisk teknologi är närvarande i AI-vågen i USA. - Vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Data Centre Expo Sweden - Mynewsdesk
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
-- Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
 - AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
 - My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
+- Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Från ett laboratorium till en modell för att popularisera STEM, robotik och AI i skolor. - Vietnam.vn
-- Virtuell verklighet och artificiell intelligens driver energiträning. - Vietnam.vn
 
 ## Business
 
@@ -124,26 +124,25 @@ _Updated: 2026-10-20 03:11_
 - University of Science samarbetar med University of Houston, USA: Utbyte och samarbete, intervjuer för antagning till forskarutbildning - University of Science, VNU-HCM - Vietnam.vn
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskningen ska vara fri - European Commission
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Forskningen ska vara fri - European Commission
-- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- Andrea del Valle - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Andrea del Valle - Karolinska Institutet
+- Sherry Nakhaeizadeh - Uppsala universitet
 - AI och data science - Stockholms universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 
 ## Jordbruk
 
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Tio svenska ekoföretag satsar på den brittiska marknaden - Mynewsdesk
 - Svenska Bin ger ut boken Honung – En smakupplevelse - Mynewsdesk
 - Jordbrukspolitik - Naturvårdsverket
 - Framtidens jordbruk - European Commission
@@ -155,6 +154,7 @@ _Updated: 2026-10-20 03:11_
 - Här är världens största jordbruk - ATL
 - Kan agroekologi mätta världen? - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - ”Resiliens är det nya effektiva” - Jordbruksaktuellt
 - Visning av uppkomst efter direktsådd - Land.se
 - Driva lantbruk i Ryssland är ingen promenad i parken - ATL
