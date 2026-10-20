@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-20 01:55_
+_Updated: 2026-10-20 07:17_
 
-- Overnight curfews announced in parts of Paris and Nice after riots across France - BBC
-- ‘I don’t care what you think’: Judge tees off on DOJ official over Trump golf course - Politico
-- DoJ charges 28 green card holders in California over alleged voter fraud - The Guardian
-- Trump open to summit with Xi and Putin — to discuss denuclearization - Axios
-- Trump signs order creating NIH division, task force for women's health - Reuters
-- EXCLUSIVE: Trump's approval falls to record low of 31% as midterms near, Reuters/Ipsos poll finds - Reuters
-- City of Wichita announces barriers being put up at Stryker complex following deadly crash - KWCH
-- ICE agents broke US citizen’s arm as they detained him in California, officials say - The Guardian
-- Mississippi AG says police shooting that killed 1-year-old was ‘justified’ - NBC News
-- Utah's LG says Postal inspector intercepts letter with suspicious powder meant for her office - KSL News
-- Australian lawmaker critically injured by car is 'no accident,' prime minister says - PBS
-- Saudi Arabia postpones its 'Davos in the Desert' conference after attacks - Yahoo Finance
-- Arab voter turnout could make or break Netanyahu in Israeli election - Reuters
-- Kenyan court convicts starvation cult leader of murdering 191 people - Al Jazeera
-- Musk Vows to Give Each U.S. Child a SpaceX Share - WSJ
+- Curfew imposed in parts of central Paris and other cities after rioting across France - BBC
+- Judge leans toward extending halt on tree clearing at golf course where Trump says redesign should start ‘immediately’ - NBC News
+- California residents accused by feds of voter fraud react with shock, confusion and anger - Los Angeles Times
+- Barber says he had 'no choice' but to tackle driver who struck Australian MP Helen Haines - BBC
+- Trump’s Push for Deals With Russia Powers His Frustration With Ukraine - The New York Times
+- Trump rallies in Kansas as rising farm costs fuel Republican concerns about voter turnout - AP News
+- Parents of Bend, Oregon, shooting victim hire attorneys to investigate school plans and gun purchase - AP News
+- Mississippi attorney general says officer's force was justified in death of 1-year-old Kohen Wiley - PBS
+- ICE agents accused of breaking man's arm in dramatic arrest caught on video in Long Beach - ABC7 Los Angeles
+- Man accused of stealing Las Vegas flamingo found guilty - FOX5 Vegas
+- Priest in Ecuador Dies After Crucifix Falls on Him During Livestreamed Mass - The New York Times
+- Academic conferences draw Israeli expats home just days before election - The Times of Israel
+- Hegseth meets Netanyahu in unannounced Israel visit - Al Jazeera
+- The French Teen Maimed During School Unrest by Tear Gas Grenade - The New York Times
+- Elon Musk’s proposed SpaceX stock giveaway would go into ‘Trump Accounts’ - The Verge
 - OpenAI employee accused of bugging had links to Saudi royals, prosecutors claim - Financial Times
-- Germany's Merz urges AI investment ahead of Nvidia deal - Reuters
-- Stock Market Today: S&P 500 and Nasdaq close higher as tech stocks surged, but the Dow slips as yields rise - MarketWatch
+- Asian shares tumble, oil rises as markets await AI sector results - Reuters
+- Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal - Bloomberg.com
 - Apple Announces Oct. 28 Event for Touch-Screen MacBook Pro - Bloomberg.com
 - Apple Starts Moving Up iPhone Duo Delivery Dates - MacRumors
