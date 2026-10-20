@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-20 17:21_
+_Updated: 2026-10-20 21:34_
 
-- Marseille braces for more unrest after protests give way to 'apocalyptic' disorder - BBC
-- Judge leans toward extending halt on tree clearing at golf course where Trump says redesign should start ‘immediately’ - NBC News
-- Mississippi Says It Won’t Bring Criminal Charges in Police Shooting of Toddler - The New York Times
-- Australian lawmaker loses leg after being rammed twice in vehicle attack - Reuters
-- From France to Albania, social unrest is setting Europe’s streets ablaze - AP News
-- Gun used in Oregon elementary school shooting was birthday gift from shooter's mom, sources say - CBS News
-- Commentary: Why Trump's attack on California voting is false — and even a bit funny - Los Angeles Times
+- French riots become Republican midterm boogeyman - Axios
+- ‘I trusted you all’: Judges question Trump administration’s credibility - NBC News
+- Ukraine live updates: Zelensky speaking after talks with US envoy Witkoff - BBC
+- DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns - NPR
+- ‘Everything you said there was a lie’: Joe Scarborough rips Trump’s Kansas rally - MS NOW
+- More survivors emerge in account of deadly Bend elementary school shooting - OregonLive.com
+- Attack Ad Featuring Candidate’s Mother Turns Ohio Governors Race Even Uglier - The New York Times
+- Offshore nor’easter creating high surf and coastal flooding along the East Coast - NBC News
+- Mike Bloomberg spent $80M to boost Democrats in midterms: NYT - CNBC
 - Trump pledges $8 billion in relief for farmers struggling with soaring diesel prices - CBS News
-- Trump continues midterm campaign blitz in North Carolina – US politics live - The Guardian
-- ‘Big business’: little-known court system in Louisiana churns out thousands of evictions – and millions in fees for judges - The Guardian
-- UK to deploy fighter jets to defend Saudi cities from Houthi attacks - CNBC
-- Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post
-- Portuguese police clear housing protest camps, arresting 55 - Reuters
-- US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack - Al Jazeera
-- Walmart rolls out new bundle combining Walmart+, Sam’s Club Plus - Fox Business
-- Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment - CNBC
-- What if an AI bubble bursts — and that accelerates AI job losses? : Planet Money - NPR
-- SpaceX earnings: Live updates - Yahoo Finance
-- Antigravity just halved the price of its drone — by swapping its headset for wristwatch control - The Verge
-- Apple Announces Oct. 28 Event for Touch-Screen MacBook Pro - Bloomberg.com
+- Lawmaker reportedly loses leg as car ramming stuns Australia - NBC News
+- Orient beach attack: South African swimmer killed by shark - BBC
+- 2 men rearrested in UK on suspicion of assisting Iran over suspected plot at a US-run air base - AP News
+- Student Protesters in France Have a Strange New Slogan. What Does It Mean? - The New York Times
+- Here's what to expect when Netflix reports earnings after the bell - CNBC
+- Stock Market Today: Dow Jumps, Oil Falls On U.S.-Iran Hopes; GM Stock Flashes This Sell Signal (Live Coverage) - Investor's Business Daily
+- Ahead of massive IPOs, AI companies are sketching plans to share their wealth - AP News
+- Trump praises Elon Musk's 'incredible generosity' over $10 billion SpaceX stock pledge for kids - Business Insider
+- Spotify launches paid podcast memberships with perks beyond bonus content - TechCrunch
+- AMD is bringing FSR 4.1 to Xbox consoles and handhelds - The Verge
