@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-20 00:33_
+_Updated: 2026-10-20 03:11_
 
 ## Top Stories
 
 - Experten om orsaken bakom franska protester: ”En djupare kris” - Göteborgs-Posten
-- DN Direkt – Talmannen: Thand Ringqvist (C) får sonderingsuppdraget - Dagens Nyheter
-- Svart måndag i trafiken – fem döda i olyckor - Expressen
+- Thand Ringqvist utesluter samarbete högerut - Västerbottens-Kuriren
+- Svarthalka i delar av Sverige – polisen varnar efter fem dödsolyckor - Dagens Nyheter
+- Qusai, 15, kände mördade kvinnan: ”Hon ville alltid hjälpa” - Aftonbladet
+- 19 oktober 16.36, Trafikolycka, Varberg - polisen.se
 - Robotar mot Kiev i natt: ”Utan förvarning” - Hufvudstadsbladet – HBL
-- Man avliden efter frontalkrock med buss utanför Varberg - SVT Nyheter
-- 19 oktober 06.42, Mord/dråp, Kramfors - polisen.se
-- Man död i trafikolycka i Mellerud - Göteborgs-Posten
-- DN Direkt – 25 tjurar saknade efter rymning – sökinsats med drönare - Dagens Nyheter
-- 19 oktober 16.57, Trafikolycka, Tjörn - polisen.se
+- Kvinna död i olycka på Tjörn - Göteborgs-Posten
+- 25 tjurar spårlöst borta efter rymning - Göteborgs-Posten
 - Krav om KU-granskning efter Landerholm-domen - Västerbottens-Kuriren
+- Utbrända undersköterskor ska inte bli offer i politiskt spel - Arbetet
+- DN Direkt – Hembränt kan bli lagligt i USA - Dagens Nyheter
 - Hamilton Steiner: Ukraina har offrat för mycket för att lyssna på Trump - Dagens Nyheter
-- Hembränt kan bli lagligt i USA - Corren
 - Saudisk investerarkonferens tvingas ställa in - Västerbottens-Kuriren
-- Trump öppnar för möte med Putin och Xi - Göteborgs-Posten
+- Bosättarvåldet trappas upp inför israeliska valet: ”Aldrig så intensivt som nu” - SVT Nyheter
+- Rekyl för teknikaktier på Wall Street - Göteborgs-Posten
+- Krisen i Frankrike visar Sverige ska hålla sig borta från euron - Dagens Arena
 - Volvokoncernen etablerar dedikerad enhet för att möta den växande efterfrågan inom gruvindustrin - Cision News
-- BLANDAD AVSLUTNING, TEKNIKAKTIER ÅTERHÄMTADE SIG, S&P 500 +0,4% - Placera.se
 - Larm om livsfarligt damm – 100 byggen granskas - Västgöta-Bladet
-- När statsskulden skenar: fallet Frankrike - Utrikespolitiska institutet
-- Iphone Duo släpps på fredag – men förbeställer du nu får du den i januari - Macworld.se
-- DN Direkt – Japan skickar rymdfarkost till Marsmåne - Dagens Nyheter
+- Japansk rymdraket på väg till Marsmåne - Aftonbladet
+- Edvin Törnblom avslöjar sin månadslön: ”Hur kan man behöva så mycket pengar?” - Expressen
 
 ## World News
 
@@ -37,8 +37,8 @@ _Updated: 2026-10-20 00:33_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -64,12 +64,12 @@ _Updated: 2026-10-20 00:33_
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
-- Timnit Gebru - Right Livelihood
 - Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
 - AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
 - My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Från ett laboratorium till en modell för att popularisera STEM, robotik och AI i skolor. - Vietnam.vn
+- Virtuell verklighet och artificiell intelligens driver energiträning. - Vietnam.vn
 
 ## Business
 
@@ -81,6 +81,7 @@ _Updated: 2026-10-20 00:33_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2026-10-20 00:33_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -143,8 +143,9 @@ _Updated: 2026-10-20 00:33_
 ## Jordbruk
 
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Jordbrukspolitik - Naturvårdsverket
+- Tio svenska ekoföretag satsar på den brittiska marknaden - Mynewsdesk
 - Svenska Bin ger ut boken Honung – En smakupplevelse - Mynewsdesk
+- Jordbrukspolitik - Naturvårdsverket
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
@@ -154,7 +155,6 @@ _Updated: 2026-10-20 00:33_
 - Här är världens största jordbruk - ATL
 - Kan agroekologi mätta världen? - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - ”Resiliens är det nya effektiva” - Jordbruksaktuellt
 - Visning av uppkomst efter direktsådd - Land.se
 - Driva lantbruk i Ryssland är ingen promenad i parken - ATL
