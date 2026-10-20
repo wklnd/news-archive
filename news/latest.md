@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-20 12:24_
+_Updated: 2026-10-20 17:21_
 
-- The Failures of Emmanuel Macron - The New York Times
+- Marseille braces for more unrest after protests give way to 'apocalyptic' disorder - BBC
 - Judge leans toward extending halt on tree clearing at golf course where Trump says redesign should start ‘immediately’ - NBC News
-- Helen Haines: Man charged with attacking Australian MP, as suspect's father says she was family friend - BBC
-- California residents accused by feds of voter fraud react with shock, confusion and anger - Los Angeles Times
-- Alberta voters reject a move toward independence in referendum backing Canadian unity - AP News
-- Trump escalates clash with Zelenskyy as Russia continues deadly attacks on Ukraine - PBS
-- Parents of Bend, Oregon, shooting victim hire attorneys to investigate school plans and gun purchase - AP News
-- U.S. Citizen Hospitalized After Being Detained by ICE, His Family Says - The New York Times
-- Man accused of stealing Las Vegas flamingo found guilty - FOX5 Vegas
-- In Kansas, Trump says a pastor running as a Democrat ‘mocks Jesus’ - The Washington Post
+- Mississippi Says It Won’t Bring Criminal Charges in Police Shooting of Toddler - The New York Times
+- Australian lawmaker loses leg after being rammed twice in vehicle attack - Reuters
 - From France to Albania, social unrest is setting Europe’s streets ablaze - AP News
-- Scoop: Pete Hegseth meets with Netanyahu in Israel ahead of elections - Axios
-- 160 people reported killed in escalating drone attacks across Sudan - Al Jazeera
-- Priest in Ecuador Dies After Crucifix Falls on Him During Livestreamed Mass - The New York Times
-- Morning Bid: Korean canary in the AI coalmine - Reuters
-- Elon Musk’s proposed SpaceX stock giveaway would go into ‘Trump Accounts’ - The Verge
-- U.S. bans DeepSeek from government agency systems amid AI rift with China - CNBC
-- OpenAI employee arrested for listening device communicated with Saudi royal, feds say - ABC News - Breaking News, Latest News and Videos
+- Gun used in Oregon elementary school shooting was birthday gift from shooter's mom, sources say - CBS News
+- Commentary: Why Trump's attack on California voting is false — and even a bit funny - Los Angeles Times
+- Trump pledges $8 billion in relief for farmers struggling with soaring diesel prices - CBS News
+- Trump continues midterm campaign blitz in North Carolina – US politics live - The Guardian
+- ‘Big business’: little-known court system in Louisiana churns out thousands of evictions – and millions in fees for judges - The Guardian
+- UK to deploy fighter jets to defend Saudi cities from Houthi attacks - CNBC
+- Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post
+- Portuguese police clear housing protest camps, arresting 55 - Reuters
+- US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack - Al Jazeera
+- Walmart rolls out new bundle combining Walmart+, Sam’s Club Plus - Fox Business
+- Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment - CNBC
+- What if an AI bubble bursts — and that accelerates AI job losses? : Planet Money - NPR
+- SpaceX earnings: Live updates - Yahoo Finance
+- Antigravity just halved the price of its drone — by swapping its headset for wristwatch control - The Verge
 - Apple Announces Oct. 28 Event for Touch-Screen MacBook Pro - Bloomberg.com
-- Apple Starts Moving Up iPhone Duo Delivery Dates - MacRumors
