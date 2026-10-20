@@ -1,39 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-20 08:22_
+_Updated: 2026-10-20 13:57_
 
 ## Top Stories
 
-- Expressen: Gryningsräd i Borlänge – adresser kan kopplas till valfusk - SVT Nyheter
-- Experten om orsaken bakom franska protester: ”En djupare kris” - Göteborgs-Posten
-- LEDARE: Centern bör tacka ja till Åkessons invit - Nya Wermlands-Tidningen
-- Zelenskyj: Ukraina och USA kan mötas i Norge - Hufvudstadsbladet – HBL
-- USA hotar EU: ”Väldigt förödande” - Expressen
-- Hamilton Steiner: Ukraina har offrat för mycket för att lyssna på Trump - Dagens Nyheter
-- Oro efter dödsskjutning: ”Är med barnen hela tiden” - Göteborgs-Posten
-- Svarthalka i delar av Sverige – polisen varnar efter fem dödsolyckor - Dagens Nyheter
-- Här ökar medellivslängden mest i Sverige: ”En otrolig ökning” - Dagens Nyheter
-- Störningar på blå linjen – rälsen har gått sönder - SVT Nyheter
-- Alberta: Nej till självständighet från Kanada - Göteborgs-Posten
-- Tiotal döda i gruvras i Colombia - Sydsvenskan
-- Aung San Suu Kyi tog emot gåvor från kung Charles - Dagens Nyheter
-- Saudisk investerarkonferens tvingas ställa in - Västerbottens-Kuriren
+- Saba Abraham, 24, sköts till döds i Älvsjö - Aftonbladet
+- DN Direkt – Skolinspektionen genomför ny tillsyn av Sigtunaskolan - Dagens Nyheter
+- V-politikerns omfattande ärenden hos Kronofogden - Dagens Nyheter
+- Stubb till Oslo för möte med Zelenskyj - Hufvudstadsbladet – HBL
+- Sjuksköterskans egna ord om våldtäkten på den dödssjuka patienten - SVT Nyheter
+- Två begärda häktade för knivmord i Majorna - Göteborgs-Posten
+- DN Direkt – Polistillslag i Borlänge kopplas till valfuskutredning - Dagens Nyheter
+- Misstänkt mordförsök i Norrtälje – en till sjukhus - SVT Nyheter
+- Skolverket: Fler behöver gå en gymnasial yrkesutbildning i Gävleborgs län - Via TT
+- Daniel Helldén får riksdagsarvode – och över 20 000 i pension från Stockholms stad - Dagens Nyheter
+- DN Direkt – Alberta: Nej till självständighet från Kanada - Dagens Nyheter
+- Lyxvaror från plundringarna i Frankrike lades direkt ut till försäljning - Dagens Nyheter
+- Butiker stängde i rädsla för nya oroligheter i Milano - Dagens Nyheter
+- Trump: ”Ryssland har varit okej i Ukraina” - Göteborgs-Posten
 - Byggföretagen: Bräcklig återhämtning – bostadsbyggandet går fortsatt trögt - Bostadspolitik
-- Höga köttpriser – en guldkalv för bönder - Hallands Nyheter
-- Europas elbilshopp kan byggas med kinesisk teknik - Dagens Nyheter
-- Börsen idag: Öppning i moll väntas - Placera.se
-- Googles nya AI klarade Minecraft på egen hand - Computer Sweden
-- Bank of America upprepar köp för Apple – långa leveranstider för iPhone Duo - Placera.se
+- Smäll för Investor: ABB-miljarder upp i rök - Placera.se
+- Gartner varnar för konsolidering inom AI - investeringar på 3 500 miljarder dollar hotas - Börsvärlden
+- Volkswagens nya mål – fryser löner till 2030 för 600 000 anställda - Ny Teknik
+- Ingenjörens hemliga recept: Så släpper hon loss en armé av AI-agenter - Ny Teknik
+- Bank of America upprepar köp för Apple – långa leveranstider för iPhone Duo (Finwire News) - Aktiellt
 
 ## World News
 
 - Facebook-duon gör global modesuccé - DI
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Två fina priser till NTM i årets INMA Global Awards - NTM
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -41,35 +40,36 @@ _Updated: 2026-10-20 08:22_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
-- Ögonblick vi minns från Global Series i Sverige - NHL.com
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Bildextra: NHL Global series med Icelandair - travelnews-se
+- Ögonblick vi minns från Global Series i Sverige - NHL.com
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 
 ## Technology
 
 - Kinesisk teknologi är närvarande i AI-vågen i USA. - Vietnam.vn
-- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
-- Skräp inom artificiell intelligens – från respons till förebyggande - Vietnam.vn
-- Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Skräp inom artificiell intelligens – från respons till förebyggande - Vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Data Centre Expo Sweden - Mynewsdesk
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
+- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
 - AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
 - My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Från ett laboratorium till en modell för att popularisera STEM, robotik och AI i skolor. - Vietnam.vn
 
 ## Business
 
@@ -114,7 +114,7 @@ _Updated: 2026-10-20 08:22_
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
@@ -124,17 +124,17 @@ _Updated: 2026-10-20 08:22_
 - University of Science samarbetar med University of Houston, USA: Utbyte och samarbete, intervjuer för antagning till forskarutbildning - University of Science, VNU-HCM - Vietnam.vn
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskningen ska vara fri - European Commission
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Andrea del Valle - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- AI och data science - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
@@ -143,18 +143,18 @@ _Updated: 2026-10-20 08:22_
 ## Jordbruk
 
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Svenska Bin ger ut boken Honung – En smakupplevelse - Mynewsdesk
 - Jordbrukspolitik - Naturvårdsverket
+- Tio svenska ekoföretag satsar på den brittiska marknaden - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Svenska Bin ger ut boken Honung – En smakupplevelse - Mynewsdesk
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - Kan agroekologi mätta världen? - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - ”Resiliens är det nya effektiva” - Jordbruksaktuellt
 - Visning av uppkomst efter direktsådd - Land.se
 - Driva lantbruk i Ryssland är ingen promenad i parken - ATL
