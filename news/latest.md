@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-21 03:02_
+_Updated: 2026-10-21 08:34_
 
-- US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy - The Guardian
-- Ilhan Omar's daughters show up at scene of DC raid as rumors swirl about embattled rep's whereabouts - Fox News
-- Democrats fear slippage with Black voters makes Michigan Senate race feel ‘far closer than it should’ - CNN
-- As violent riots and looting rock France, far-right leader Marine Le Pen is seizing the moment - NBC News
-- Alberta votes to stay in Canada amid trade war with U.S. - The Washington Post
-- Russia, sensing victory, cheers Trump’s latest shift against Ukraine - The Washington Post
-- Ohio governor’s race in uproar over video featuring Democrat’s estranged mother - The Washington Post
-- Trump launches $25 million whistleblower incentive program; Nick Shirley receives first payout - The Hill
-- ‘France should serve as a wakeup call’: Republicans find a closing message in Paris riots - Politico
-- Judge Trump called a ‘lunatic’ abruptly backs off demand after showdown with DOJ No. 3 - Fox News
-- Nigeria confirms Ebola case linked to East Africa - BBC
-- Hegseth meets Netanyahu on unannounced Israel visit - Al Jazeera
-- Lawmaker reportedly loses leg as car ramming stuns Australia - NBC News
-- Witkoff to present Putin with peace proposal after talks with Zelensky - Axios
+- Some on DOJ's 20,000 "likely" noncitizen list in Calif. appear to be U.S.-born - NPR
+- US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now' - BBC
+- Musk chose to restrict Ukraine's access to SpaceX satellite network, sources say - CBS News
+- Election Dispatches: Vast Sums Flood Races as Republicans Try Fending Off Democratic Charge - The New York Times
+- Ohio governor’s race in uproar over ad featuring Democrat’s estranged mother - The Washington Post
+- Kansas Soccer Field Incident: Driver Gave Hours Long Statement To Cops - TMZ
+- Trump presents $10,000 check to Nick Shirley, the YouTuber behind Minnesota day care fraud furor - CBS News
+- 'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute - BBC
+- Trump finds ominous campaign message in French riots - The Hill
+- In Texas’ Senate Race, Paxton and Talarico Converge on Key Battleground - The New York Times
+- EU probes pro-Kremlin disinformation around French riots - Financial Times
+- Nigeria confirms Ebola case as outbreak spreads into western Africa - The Guardian
+- Alberta voters overwhelmingly reject separation process in a victory for Carney - AP News
+- Helen Haines: Brendan Nugent silent and emotionless as he faces court over alleged attack on Australian MP - BBC
 - SpaceX revenue soars 161% as AI business grows - ABC News - Breaking News, Latest News and Videos
-- Netflix Q3 Revenue Meets Wall Street Estimates, Forecasts Q4 Slowdown and Says It Will Miss Ad Sales Target for the Year - Variety
-- FAA clears the way for airlines to put Boeing’s long-delayed 737 Max 10 into service - AP News
-- United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares - CNBC
-- Google is bringing a more personal version of its Gemini AI assistant to your car - TechCrunch
+- Elon Musk says Tesla-SpaceX merger would be 'a good idea' as companies form special committees - Fox Business
+- Boeing’s Large 737 Max Jet Secures U.S. Approval - The New York Times
+- NFLX Stock Tumbles Overnight: Co-CEO Wants Netflix To Be Last Service Customers 'Ever Cancel', Says Live Events 'Drive New Membership' - Yahoo Finance
 - Apple's Touchscreen OLED MacBook Pro: Everything We Know - MacRumors
+- Google is bringing a more personal version of its Gemini AI assistant to your car - TechCrunch
