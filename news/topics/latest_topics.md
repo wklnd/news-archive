@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-20 22:47_
+_Updated: 2026-10-21 02:02_
 
 ## Top Stories
 
 - KARL RYDÅ: Det är Socialdemokraternas fel att vi inte får en ny regering - UNT
-- Mötet mellan Zelenskyj och Witkoff har inletts i Oslo - Dagens Nyheter
-- Efter protesterna i Frankrike – Vinted stoppar annonser om stöldgods - Göteborgs-Posten
-- 20 oktober 16.47, Farligt föremål, misstänkt, Uppsala - polisen.se
-- Direkt – Kriget i Ukraina – Två döda i Luhansk - Dagens Nyheter
-- Efter statsministerfiaskot: Tiden rinner ut för rödgrön budget - Dagens Nyheter
-- Sigtunaskolan i krismöte - SVT Nyheter
-- Space X klår förväntningarna - Göteborgs-Posten
-- Skolverket: Fler elever borde gå yrkesprogram - Göteborgs-Posten
-- V: Vi fäller alla minoritetsstyren i Region Stockholm - Dagens Nyheter
 - DN Direkt – Frankrike sätter in militär mot demonstranter - Dagens Nyheter
-- Bildt går till attack mot Trump efter uttalande – Senaste nytt om kriget i Ukraina - SVT Nyheter
+- Utbrända undersköterskor ska inte bli offer i politiskt spel - Arbetet
+- Frågan fick Trump att koka över: ”Är du en sjuk person?” - Aftonbladet
+- Ryssland skuggar finländsk satellit som hjälper Ukraina - Dagens Nyheter
+- Nato förstärker i Svarta havet - Västerbottens-Kuriren
+- 20 oktober 16.47, Farligt föremål, misstänkt, Uppsala - polisen.se
+- Saba Abraham, 24, sköts ihjäl i Älvsjö – tonårspojkar häktade - Dagens Nyheter
+- 20 oktober 21.53, Trafikkontroll, Norrbottens län - polisen.se
+- Skolinspektionen inleder tillsyn av Sigtunaskolan - SVT Nyheter
+- Fredsförsök i Oslo: Zelenskyj och Witkoff på väg - Corren
 - Mellanårsvalet i USA 2026: Vem vinner kampen om kongressen? - SVT Nyheter
-- Nato förstärker i Svarta havet - Göteborgs-Posten
+- Trump: ”Ryssland har varit okej i Ukraina” - Göteborgs-Posten
+- USA vill att Reliance ökar raffineringen av venezuelansk olja - Placera.se
 - ”Cheeseburger-strategin” är över | Björn Jeffery - Svenska Dagbladet
-- Smäll för Investor: ABB-miljarder upp i rök - Placera.se
-- Stockholmsbörsen stänger ned trots återhämtning – tungt fall i ABB - EFN
 - Patricias sociala medier raderades: ”Femton år av minnen” - Dagens Nyheter
-- Japansk rymdraket på väg till Marsmåne - Tidningen Näringslivet
-- Bank of America upprepar köp för Apple – långa leveranstider för iPhone Duo (Finwire News) - Aktiellt
+- Plundrad på miljonbelopp: ”Det här var min dröm” - Aftonbladet
+- Stockholmsbörsen stänger ned trots återhämtning – tungt fall i ABB - EFN
+- Macbook Pro med pekskärm kan vara på gång - Expressen
+- Hands-on-video med Apple iPhone Duo visar ett ovanligt veck i skärmen - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
@@ -38,15 +38,15 @@ _Updated: 2026-10-20 22:47_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Kina varnar för ökad global ekonomisk turbulens - Börsvärlden
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 
 ## Technology
 
@@ -65,11 +65,11 @@ _Updated: 2026-10-20 22:47_
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
 - My Instant AI Becomes First Company to Include Small Businesses Worldwide in AI Economy (PR Newswire) - Aktiellt
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 
 ## Business
 
@@ -87,12 +87,12 @@ _Updated: 2026-10-20 22:47_
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Redpill Linpro och Berget AI inleder samarbete för suverän AI - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -124,11 +124,11 @@ _Updated: 2026-10-20 22:47_
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - University of Science samarbetar med University of Houston, USA: Utbyte och samarbete, intervjuer för antagning till forskarutbildning - University of Science, VNU-HCM - Vietnam.vn
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskningen ska vara fri - European Commission
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Andrea del Valle - Karolinska Institutet
