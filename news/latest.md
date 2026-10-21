@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-21 14:24_
+_Updated: 2026-10-21 19:39_
 
-- Russia frees retired American teacher as Trump envoy meets with Putin - NBC News
-- United Nations report highlights significant increase in U.S. climate pollution - NPR
-- Exclusive | Musk Ordered Starlink Slowdown That Blindsided Ukraine - WSJ
-- Haitian migrants changed this town - Trump's deportation drive is reshaping it again - BBC
-- Zelenskyy says early warning system for Russian missile attacks resumes - NPR
+- Russia ready to resume talks with Ukraine and US to end war - BBC
+- Supreme Court rejects Trump policy restricting treatment for transgender prison inmates - NBC News
+- Ohio chemical tank blast forces evacuations, raises fears of another explosion - CNN
+- Trump’s approval ratings hit new lows in final stretch of midterms - Politico
+- Brad Lander freed after IDF detention in West Bank during olive harvest - ABC7 New York
 - Ohio governor’s race in uproar over ad featuring Democrat’s estranged mother - The Washington Post
-- US envoy Witkoff arrives in St Petersburg for talks with Putin - Reuters
-- How a Democrat Positioned Himself to Be Alaska’s Next Governor - The New York Times
-- New Video Shows Chaotic Moments Before Police Shot 1-Year-Old Kohen Wiley - The New York Times
-- Trump promises more than $5,000 checks and Russia frees U.S. citizen: Morning Rundown - NBC News
-- The history behind France’s proud tradition of protests - AP News
-- Australian MP loses both legs in vehicle attack as suspect appears in court - Al Jazeera
-- North Korea tells border troops to take 'resolute action' if South threatens their safety - Reuters
-- Why Palestinians Hope Israelis Will Oust Netanyahu in Pivotal Election - The New York Times
-- Elon Musk confirms he is considering merging Tesla and SpaceX - BBC
-- Netflix stock sinks after streamer's Q3 earnings, Q4 revenue forecast falls short of estimates - Yahoo Finance
-- Stock futures rise as traders evaluate latest raft of earnings; SpaceX shares surge: Live updates - CNBC
-- FAA clears the way for airlines to put Boeing's long-delayed 737 Max 10 into service - NPR
-- iPhone Duo orders limited to two per customer as Apple tackles scalping - 9to5Mac
-- Xbox's next-gen console to reportedly cost up to $1,800, with a Helix handheld coming in 2027 and a full release in holiday 2028 - Eurogamer.net
+- The House GOP’s imminent decision on the Omar raid - Politico
+- Democrats have 11-point lead among likely voters as Trump’s approval rating craters – live - The Guardian
+- Justice Kagan says Supreme Court has damaged democracy with recent rulings - The Washington Post
+- Elon Musk ordered a slowdown of Starlink in Ukraine — report - DW.com
+- What We Saw at Fast-Track Trials of Riot Suspects in France - The New York Times
+- UK government approves a natural gas project off Scotland despite environmental concerns - AP News
+- Australian politician who was intentionally hit by car loses both her legs - CBS News
+- Turkey plans mandate to send military personnel to Saudi Arabia, ruling party official says - Reuters
+- Elon Musk Says SpaceX and Tesla Are Exploring a Merger - The New York Times
+- Stock Market Today: Nasdaq Opens Higher; SpaceX Shares Surge on Tesla Deal Talks — Live Updates - WSJ
+- PHP2Shell: Critical PHP vulnerabilities patched, update now! - Help Net Security
+- Anthropic to publicly file for IPO as early as Friday, sources say - Yahoo Finance
+- Apple Stores Will Have 'Limited' Availability of iPhone Duo for Walk-In Customers - MacRumors
+- Apple Music unveils new design rebrand, with logo ‘made by sound’ - 9to5Mac
