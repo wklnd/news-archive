@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-21 00:39_
+_Updated: 2026-10-21 03:02_
 
 - US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy - The Guardian
-- France riots become Republican midterm boogeyman - Axios
-- Midterm Updates: Trump Says He Plans to Spend at Least $400 Million by Election Day - The New York Times
-- California residents accused by feds of voter fraud react with shock, confusion and anger - Los Angeles Times
-- Exclusive | Musk Ordered Starlink Slowdown That Blindsided Ukraine - WSJ
-- Amy Acton’s brother slams ad featuring estranged mother - The Columbus Dispatch
-- Trump to Offer Up to $30,000 for Tips That Expose Government Fraud - WSJ
-- Woman Who Says She Was Raped at Cornell Sends Message to Faculty Senate - The New York Times
-- Alabama Gov. Kay Ivey spares death row inmate, citing doubts about evidence - NBC News
-- Offshore nor’easter creating high surf and coastal flooding along the East Coast - NBC News
-- Nigeria confirms Ebola case in patient who arrived from Uganda - Reuters
+- Ilhan Omar's daughters show up at scene of DC raid as rumors swirl about embattled rep's whereabouts - Fox News
+- Democrats fear slippage with Black voters makes Michigan Senate race feel ‘far closer than it should’ - CNN
+- As violent riots and looting rock France, far-right leader Marine Le Pen is seizing the moment - NBC News
+- Alberta votes to stay in Canada amid trade war with U.S. - The Washington Post
+- Russia, sensing victory, cheers Trump’s latest shift against Ukraine - The Washington Post
+- Ohio governor’s race in uproar over video featuring Democrat’s estranged mother - The Washington Post
+- Trump launches $25 million whistleblower incentive program; Nick Shirley receives first payout - The Hill
+- ‘France should serve as a wakeup call’: Republicans find a closing message in Paris riots - Politico
+- Judge Trump called a ‘lunatic’ abruptly backs off demand after showdown with DOJ No. 3 - Fox News
+- Nigeria confirms Ebola case linked to East Africa - BBC
 - Hegseth meets Netanyahu on unannounced Israel visit - Al Jazeera
-- Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident - BBC
-- Robert Kabera, Rwandan Government Critic, Beheaded in Uganda - The New York Times
-- SpaceX quarterly revenue jumps, beats estimates as AI business surges - Reuters
-- Netflix stock sinks after announcing Q3 earnings, Q4 revenue forecast falls short of estimates - Yahoo Finance
-- US to approve Boeing 737 Max 10 for passenger service after years of delays, AP source says - AP News
+- Lawmaker reportedly loses leg as car ramming stuns Australia - NBC News
+- Witkoff to present Putin with peace proposal after talks with Zelensky - Axios
+- SpaceX revenue soars 161% as AI business grows - ABC News - Breaking News, Latest News and Videos
+- Netflix Q3 Revenue Meets Wall Street Estimates, Forecasts Q4 Slowdown and Says It Will Miss Ad Sales Target for the Year - Variety
+- FAA clears the way for airlines to put Boeing’s long-delayed 737 Max 10 into service - AP News
 - United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares - CNBC
-- Report: Microsoft's Project Helix planned for 2028 at $1,200 to $1,800 price - Ars Technica
-- Xbox Game Pass Reportedly Getting 'Major Overhaul,' Will Feature 'À La Carte' Options - IGN
+- Google is bringing a more personal version of its Gemini AI assistant to your car - TechCrunch
+- Apple's Touchscreen OLED MacBook Pro: Everything We Know - MacRumors
