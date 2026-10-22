@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-22 17:39_
+_Updated: 2026-10-22 21:29_
 
-- High-ranking Virginia state Democrat charged in public corruption case - NBC News
+- Ramaswamy not removing ad even as Ohio GOP governor urges him to do so - CNN
+- Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out - BBC
+- Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist - CNBC
+- Feds charge L. Louise Lucas, powerful Virginia Democrat, in alleged drug scheme - CBS News
+- Judge orders Trump to sit for deposition in his $10 billion lawsuit against the BBC - NBC News
+- Judge restricts DHS investigations into noncitizen voting, citing flawed data - The Washington Post
+- UK trashes Witkoff for Putin ‘humanitarian’ remarks - Politico
 - Michigan Senate debate: Key takeaways from El-Sayed, Rogers clash - Al Jazeera
-- "Stop whining": What Vance's take on Ohio ad flap means for 2028 - Axios
-- ‘Looksmaxxing’ streamer known as Clavicular pleads not guilty to rape charge - CNN
-- U.S. and Israel are planning for a possible post-midterms attack on Iran - NPR
-- Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to leave - BBC
-- Injured Bend, Oregon teacher tried to shut classroom door during school shooting before playing dead - Fox News
-- Higher, Faster, Gnarlier: Have Roller Coasters Become Too Extreme? - The New York Times
-- Facing a ban on horse-drawn carriages, Central Park’s drivers fear for their livelihoods - CNN
-- Trump hopes to flatter Putin into negotiating on Ukraine, experts say - NBC News
-- WHO says not informed Nigeria Ebola patient visited Congo - Reuters
-- Serbian Election Underscores the Region’s Long Political Limbo - The New York Times
-- Medical tests show Pope Leo requires no further treatment for lung cancer - The Washington Post
-- Ukrainian troops infiltrate Russian rear through gas pipelines near Kupiansk, Khartiia says - The Kyiv Independent
-- Why Elon Musk wants to merge Tesla and SpaceX before Trump leaves office - Euronews.com
-- Nasdaq tumbles on AI spending concerns and jump in oil prices: Live updates - CNBC
-- Meta strikes deal with Zuckerberg to help him foot billionaire tax bill - The Guardian
-- Powerball winner in Ohio hits prize worth $2 million: See where the winning ticket was sold and check the lucky numbers for Oct. 21 - WKYC
-- Giant iPhone Duo installations spotted at Apple Fifth Avenue ahead of Friday launch - 9to5Mac
-- Apple Reveals More Than 50 Apps That Will Be Updated for iPhone Duo - MacRumors
+- 'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge - BBC
+- What the Six Flags Over Georgia death investigation will focus on, according to roller coaster inspection experts - CBS News
+- Zelenskyy accuses Russia of using cluster warheads in deadly strikes hours after U.S. prisoner release - CBS News
+- France's Macron tightens curbs on protests, blaming hard left for unrest - Reuters
+- Africa CDC calls crisis meeting as Ebola spreads to Nigeria - DW.com
+- El Salvador's president threatens Haitian gangs over military hostages - BBC
+- Wall Street sinks as Nasdaq falls over 2% on AI cost worries - Reuters
+- Race to update services' computer systems after cyber-security flaw found - BBC
+- Moderna’s Shares Plummet After Cancer-Vaccine Data Shared on Social Media - WSJ
+- Average long-term US mortgage rate eases to 7.32% in first pullback since late August - Yahoo Finance
+- Giant iPhone Duo Installations Spotted at Apple Fifth Avenue - MacRumors
+- Apple will label apps that are ‘Made for iPhone Duo’ - The Verge
