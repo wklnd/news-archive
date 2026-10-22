@@ -1,47 +1,47 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-22 03:42_
+_Updated: 2026-10-22 09:51_
 
 ## Top Stories
 
-- Stubb om mötet i Oslo: Vi ville kyla ned bråket - Hufvudstadsbladet – HBL
-- Robotattacker mot Kyjiv under natten – Senaste nytt om kriget i Ukraina - SVT Nyheter
-- DN Direkt – Demonstrationer förbjuds i delar av Paris - Dagens Nyheter
-- E6 öppen efter tidigare olycka – Vattenplaning - Sveriges Radio
-- ”Bygget stoppades – sen vill de ha våra pengar” - Svenska Dagbladet
-- Nya regionstyret klart efter veckor av kaos - Dagens Nyheter
-- Här hedras offret i Älvsjö med tyst minut - SVT Nyheter
-- Färja sätts in vid skadade Strömsundsbron - Göteborgs-Posten
-- Insändare. Ge oss möjlighet att kasta ut Mohamed Ali ur riksdagen - Dagens Nyheter
-- Trots dödläget – rödgröna eniga om klimatet - Västerbottens-Kuriren
-- Glädjebeskedet: Påven behöver inga fler ingrepp - Aftonbladet
-- Uppgifter: USA skickar hem diplomater i Saudiarabien - Västerbottens-Kuriren
-- Ambanis möter Rubio i Jamnagar för att diskutera energisamarbete av Investing.com - Investing.com Sverige
-- Mellanårsval i USA – nu kommer folkets dom över Trump - Göteborgs-Posten
-- Teslas vinst rasar – Musk planerar gigantisk fusion - Dagens Nyheter
-- Kommunen har stängt ner flera system efter it-hotet - Norran
-- Meta döms att betala 250 miljarder efter Cambridge Analytica-skandalen - Omni – Alla nyheter. Alla perspektiv.
-- Space X-rapport gav AI-aktier ny skjuts på Wall Street - Börskollen
-- Sparpaket hos Electronic Arts – stänger Bioware - Svenska Dagbladet
-- Kostnader för reparation av iPhone Duo utan AppleCare+ - Vietnam.vn
+- BK Häcken backar efter kritiskstormen - Göteborgs-Posten
+- SVT sände direkt från frontnära sjukvårdsbunker – Senaste nytt om kriget i Ukraina - SVT Nyheter
+- Kamp mot klockan för försvagad Macron - Altinget.se
+- Mohamsson om mötet med C: "Blir ett kort samtal" om Andersson är kandidat - https://morgonbladet.se/
+- Fick extra förmåner – krävde ännu mer - Svenska Dagbladet
+- Man död efter lägenhetsbrand på Vallby i Västerås - Sveriges Radio
+- Rök på riksdagsförvaltningen – våning utrymd - Västerbottens-Kuriren
+- Svensk gripen i Irak – tros ha styrt omfattande narkotikahandel - polisen.se
+- Färre pluggar till förskollärare – teorin om varför - Sveriges Radio
+- Polisen varnar för bluff: ”Strömmar in samtal” - Nya Wermlands-Tidningen
+- Påve Leo. Biopsi visar att ingen behandling behövs - Vatican News
+- Trump sätter sitt namn på statliga Amazoncheckar - Dagens Nyheter
+- Witkoff i Europa: Smicker och signaler om nya möten - Dagens Nyheter
+- 21 oktober 22.14, Trafikolycka, personskada, Uppsala - polisen.se
+- Dyrare el hotar – nu över gränsen för elstöd - Svenska Dagbladet
+- Säkerhetsbrister kan leda till cyberangrepp på webbplatser - Krisinformation.se
+- Airbnbs nya regler: Får inte tvinga gäster städa - Aftonbladet
+- JUST NU: Stora rapportrörelser på sjunkande börs - EFN
+- DN Direkt – Sparpaket hos Electronic Arts – stänger Bioware - Dagens Nyheter
+- TLS-certifikat komprometterade – ”värre än Heartbleed” - SweClockers
 
 ## World News
 
+- Ännu en gripen i global knarkhärva - Aftonbladet
+- Gia Binh International Airport utökar sina internationella förbindelser på Routes World 2026 med över 230 flygbolag. - Vietnam.vn
 - Facebook-duon gör global modesuccé - DI
-- Gia Binh International Airport på Routes World 2026: Vietnams strävan att bli en internationell flygportal tas upp i den globala dialogen. - Vietnam.vn
+- Volvo Cars reports Q3 2026 sales - Volvo
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Två fina priser till NTM i årets INMA Global Awards - NTM
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - Sverige faller i global pensionsranking - igen - Finanswatch.se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Kina varnar för ökad global ekonomisk turbulens - Börsvärlden
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
@@ -52,17 +52,17 @@ _Updated: 2026-10-22 03:42_
 
 - Kinesisk teknologi är närvarande i AI-vågen i USA. - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Data Centre Expo Sweden - Mynewsdesk
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- AI Can Make Society Richer—If Politics Doesn’t Get in the Way - ekonomistas.se
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Skräp inom artificiell intelligens – från respons till förebyggande - Vietnam.vn
-- Data Centre Expo Sweden - Mynewsdesk
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
-- AMD köper AI-företaget World Labs. Som startades av AI-gudmodern Fei-Fei Li. - Feber
+- Northvolt tech revived as Carlsson launches Aris Machina - Norran
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -73,7 +73,6 @@ _Updated: 2026-10-22 03:42_
 
 ## Business
 
-- CSC Financial (SHSE:601066) - Aktieanalys - Simply Wall Street
 - Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
@@ -93,11 +92,12 @@ _Updated: 2026-10-22 03:42_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Redpill Linpro och Berget AI inleder samarbete för suverän AI - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
-- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
@@ -131,10 +131,10 @@ _Updated: 2026-10-22 03:42_
 - Forskningen ska vara fri - European Commission
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Andrea del Valle - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Sherry Nakhaeizadeh - Uppsala universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
@@ -145,20 +145,20 @@ _Updated: 2026-10-22 03:42_
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - De blev grönsaksodlare tack vare lokalt stöd - Land.se
 - Jordbrukspolitik - Naturvårdsverket
-- Svenska Bin ger ut boken Honung – En smakupplevelse - Mynewsdesk
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Sorseles sista mjölkgård till salu - Lokaltidningen
 - Här är världens största jordbruk - ATL
 - Kan agroekologi mätta världen? - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Driva lantbruk i Ryssland är ingen promenad i parken - ATL
 - Visning av uppkomst efter direktsådd - Land.se
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Markbristen: EUs unga bönders största utmaning - Land.se
