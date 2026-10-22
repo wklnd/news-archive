@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-22 21:29_
+_Updated: 2026-10-23 00:45_
 
-- Ramaswamy not removing ad even as Ohio GOP governor urges him to do so - CNN
-- Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out - BBC
+- 'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother - BBC
+- Ilhan Omar issues stunning admission when confronted with brother marriage rumors - Fox News
+- Supreme Court says New Hampshire student IDs can’t be used to vote in November - NBC News
+- Netanyahu says U.S. and Israel must topple Iranian regime - The Washington Post
+- Paris extends curfew as Marseille and Lyon ban protests after riots - BBC
 - Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist - CNBC
-- Feds charge L. Louise Lucas, powerful Virginia Democrat, in alleged drug scheme - CBS News
 - Judge orders Trump to sit for deposition in his $10 billion lawsuit against the BBC - NBC News
-- Judge restricts DHS investigations into noncitizen voting, citing flawed data - The Washington Post
-- UK trashes Witkoff for Putin ‘humanitarian’ remarks - Politico
-- Michigan Senate debate: Key takeaways from El-Sayed, Rogers clash - Al Jazeera
-- 'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge - BBC
-- What the Six Flags Over Georgia death investigation will focus on, according to roller coaster inspection experts - CBS News
-- Zelenskyy accuses Russia of using cluster warheads in deadly strikes hours after U.S. prisoner release - CBS News
-- France's Macron tightens curbs on protests, blaming hard left for unrest - Reuters
-- Africa CDC calls crisis meeting as Ebola spreads to Nigeria - DW.com
-- El Salvador's president threatens Haitian gangs over military hostages - BBC
-- Wall Street sinks as Nasdaq falls over 2% on AI cost worries - Reuters
+- Mamdani expected to face legal trouble over PETA-backed horse carriage ban - Fox News
+- Va. Sen. Louise Lucas, six others indicted in federal cannabis corruption case - Virginia Mercury
+- Canada Bans Its Diplomats From Being Seen With US Candidates - Bloomberg.com
+- Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed - KSL
+- Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports - Reuters
+- I will make final decision on Rosebank oil field, energy secretary insists - BBC
+- Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti - NPR
 - Race to update services' computer systems after cyber-security flaw found - BBC
-- Moderna’s Shares Plummet After Cancer-Vaccine Data Shared on Social Media - WSJ
-- Average long-term US mortgage rate eases to 7.32% in first pullback since late August - Yahoo Finance
+- Moderna’s Stock Plummets After Cancer-Vaccine Data Shared on Social Media - WSJ
+- Nasdaq falls more than 2% for worst day since June as AI spending woes, oil prices spark sell-off: Live updates - CNBC
+- Mark Zuckerberg makes deal with Meta to help him pay California billionaire tax, if it passes - AP News
 - Giant iPhone Duo Installations Spotted at Apple Fifth Avenue - MacRumors
-- Apple will label apps that are ‘Made for iPhone Duo’ - The Verge
+- Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’ - TechCrunch
