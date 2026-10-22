@@ -1,47 +1,47 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-22 20:43_
+_Updated: 2026-10-23 00:37_
 
 ## Top Stories
 
-- DN Direkt – Sigtunaskolans vd: Absolut ingen våldskultur - Dagens Nyheter
+- Uppgifter: Uppdraget var ”skjut vem som helst” - Aftonbladet
+- Ukraina inleder satellitsamarbete med Finland - Dagens Nyheter
 - Thand Ringqvist (C) har haft möten med partiledare – Senaste nytt om valet 2026 - SVT Nyheter
-- Föraren släppt efter lastbilsolycka – kvinna i 70-årsåldern död - Sveriges Radio
-- Direkt – Kriget i Ukraina – Zelenskyj: Fortfarande problem med Starlink - Dagens Nyheter
-- Hjälpte barn kasta handgranat – sex års fängelse - Aftonbladet
-- Man i 65-årsåldern död efter olycka på Stegra - Arbetet
+- Flera franska städer förbjuder demonstrationer - Västerbottens-Kuriren
+- Mohamed Ali (V) bryter tystnaden: ”Behåller min plats” - SVT Nyheter
+- Finländsk satellitteknik ska hjälpa Ukraina - Göteborgs-Posten
 - Tre misstänks i valfuskhärvan i Borlänge - Dagens Nyheter
-- ”Håll er inne” – stormvarning i Bryssel - Västerbottens-Kuriren
-- Mohamed Ali: Kommer behålla riksdagsplatsen - Altinget.se
-- Svenska kraftnäts generaldirektör om kritiken: ”Har aldrig varit en dålig ton” - Dagens Nyheter
-- Macron: Förbjuder protester - Göteborgs-Posten
-- Direkt – Krisen i Mellanöstern – Flera fartyg attackerade i Persiska viken - Dagens Nyheter
+- En person skadad vid brand i Motala - Corren
+- ”Håll er inne” – stormvarning i Bryssel - Göteborgs-Posten
+- Kriminalvårdens chef om Estland: ”Mycket soppor” - Västerbottens-Kuriren
+- Oväntade hotet mot Trump: Vapenvän från Alaskas ödemark - Dagens Nyheter
 - Uppgifter: Trump bad Musk lätta på Starlink-begränsningar – Senaste nytt om kriget i Ukraina - SVT Nyheter
-- Uppgifter: Hotad domstol får EU:s finaste pris - Västerbottens-Kuriren
-- Simon Campanello: Nu rusar halva internet för att stoppa hackarna - Dagens Nyheter
-- Chock på Fastpartner – anställd misstänkt för grov penningtvätt - Affärsvärlden
-- Smällen: Elpriserna fortsätter rusa - Aftonbladet
-- Börsen föll på bred front i rapportfloden - Västerbottens-Kuriren
+- Trump: Starlink tillbaka i Ukraina - Göteborgs-Posten
+- Hegseths tjänstemän förstörde Eisenhowers jordglob - Dagens Nyheter
+- Tidigare hackaren om luckan: ”Väldigt attraktivt” - Aftonbladet
+- DN Direkt – Börsen föll på bred front i rapportfloden - Dagens Nyheter
+- Höga elpriser i vinter – hushåll kan få stöd - Sveriges Radio
+- New York-börserna väntas inleda med nedgång, S&P 500-terminen sjunker 0,9 procent (Finwire News) - Aktiellt
 - Electronic Arts säger upp 400 anställda och lägger ned BioWare (Finwire News) - Aktiellt
-- Snabbkollen – Mohamed Ali (V) bryter tystnaden: "Behåller min plats" - SVT Play
+- Raye vinner Mercurypriset - Göteborgs-Posten
 
 ## World News
 
 - Gia Binh International Airport utökar sina internationella förbindelser på Routes World 2026 med över 230 flygbolag. - Vietnam.vn
 - Volvo Cars reports Q3 2026 sales - Volvo
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Två fina priser till NTM i årets INMA Global Awards - NTM
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Ännu en gripen i global knarkhärva - Aftonbladet
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - CRM- och Digital Engagement-specialist till liten men global hållbarhetsorganisation, Stockholm - Dagens Media
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - Sverige faller i global pensionsranking - igen - Finanswatch.se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
@@ -54,22 +54,22 @@ _Updated: 2026-10-22 20:43_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Data Centre Expo Sweden - Mynewsdesk
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
+- Skräp inom artificiell intelligens – från respons till förebyggande - Vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - AI Can Make Society Richer—If Politics Doesn’t Get in the Way - ekonomistas.se
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Skräp inom artificiell intelligens – från respons till förebyggande - Vietnam.vn
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
-- Northvolt tech revived as Carlsson launches Aris Machina - Norran
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
-- AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
 - Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Northvolt tech revived as Carlsson launches Aris Machina - Norran
+- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
+- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 
 ## Business
 
@@ -88,11 +88,11 @@ _Updated: 2026-10-22 20:43_
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Redpill Linpro och Berget AI inleder samarbete för suverän AI - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -119,26 +119,14 @@ _Updated: 2026-10-22 20:43_
 
 ## Science
 
-- Öppen vetenskap vid SLU - SLU
-- NVIDIA tillkännager femårigt engagemang för amerikansk vetenskaplig forskning - Unite.AI
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Google investerar i Zuckerbergs Biohub. Ska utveckla dataset för biologisk forskning. - Feber
-- Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
-- University of Science samarbetar med University of Houston, USA: Utbyte och samarbete, intervjuer för antagning till forskarutbildning - University of Science, VNU-HCM - Vietnam.vn
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskningen ska vara fri - European Commission
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskningsutvärdering med kvalitet i fokus - Jönköping University
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Andrea del Valle - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Täta band mellan turism och forskning på Svalbard - SLU
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
+- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
 
 ## Jordbruk
 
@@ -152,13 +140,13 @@ _Updated: 2026-10-22 20:43_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Sorseles sista mjölkgård till salu - Lokaltidningen
+- De gick från reko till eko - ST-tidningen
 - Här är världens största jordbruk - ATL
 - Kan agroekologi mätta världen? - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Driva lantbruk i Ryssland är ingen promenad i parken - ATL
 - Visning av uppkomst efter direktsådd - Land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Markbristen: EUs unga bönders största utmaning - Land.se
