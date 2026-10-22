@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-22 07:21_
+_Updated: 2026-10-22 12:38_
 
-- Vance says Republicans shouldn't complain about Ramaswamy ad featuring Amy Acton's estranged mother - AP News
-- ‘Man, I loved that’: Trump cheers South Carolina rally attender who hit protester - The Guardian
-- US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin - BBC
-- In Michigan and Kansas Senate debates, Republicans make careful breaks with Trump - CNN
+- Abdul El-Sayed and Mike Rogers’ second debate clash sets up final sprint in Michigan - NBC News
+- Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks - BBC
+- California state workers stage one-day strike over contract disputes - KCRA
+- As Ohio attack ad draws bipartisan heat, Vivek Ramaswamy doubles down - The Washington Post
 - Ilhan Omar says US agents seized 17 items in raid designed to ‘freak’ her out - The Guardian
-- U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections - The New York Times
-- New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes - BBC
+- U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms - CNBC
 - Teacher who survived Oregon school shooting says she had no chance to protect children - CNN
 - Farmers, Health Care and Highways: 5 Takeaways from the Kansas Senate Debate - The New York Times
 - Judge rules against DHS's policy of knocking on doors to track down possible noncitizen voters - CBS News
-- One killed, eight injured in attack on Saudi Arabia’s King Fahd airport - Al Jazeera
-- North Korea's Kim Yo Jong warns South Korea, says border loudspeakers to be ready within days - Reuters
-- Pope Leo's tests show he needs no further treatment for lung cancer, his doctors say - PBS
-- US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate - BBC
-- Musk Tries to Lock In His Tesla-SpaceX Dream Before Trump’s Exit - Bloomberg.com
+- Wisconsin governor candidates tangle over the economy, Trump and the 2020 election in tense debate - NBC News
+- El Salvador’s Bukele threatens Haitian gangs over abducted soldiers - Al Jazeera
+- Students march into Belgrade while populist Vucic holds rally in Serbia's south ahead of vote - AP News
+- Three Killed in Attacks on Aramco Oil Field, Saudi Airport - Bloomberg.com
+- Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched - WIRED
+- TSLA, SPCX Slip Overnight: Musk Reportedly Pushes Merger Before Trump’s Exit — ARK Sees Tesla Holders ‘5x Better Off’ By 2036 - Yahoo Finance
+- Meta hit with $25 billion penalty for misleading Facebook users - Axios
 - Meta Will Split Stock, Create New Class to Fund AI Spending - WSJ
-- Meta strikes deal to keep Zuckerberg in California after wealth tax concerns - Reuters
-- Tesla profits fall on higher spending as 'Elon Inc.' talk builds - Yahoo Finance
-- Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought - Ars Technica
-- Electronic Arts Laying Off 3% of Employees in Studios Restructuring: BioWare Shutting Down, Respawn and DICE to Team on ‘Star Wars: Battlefront 3’ - Variety
+- AI Trade Stumbles After Tech Earnings, Oil Rallies: Markets Wrap - Bloomberg.com
+- Giant iPhone Duo installations spotted at Apple Fifth Avenue ahead of Friday launch - 9to5Mac
+- YouTube says it isn’t testing hiding the dislike button - The Verge
