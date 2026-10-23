@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-23 08:28_
+_Updated: 2026-10-23 14:06_
 
 - Ramaswamy’s Ohio attack ad shows ‘owning the libs’ may have limits - The Washington Post
+- Trump Asked Musk to Reverse Limits on Ukraine’s Military Internet Use - The New York Times
 - Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search - PBS
-- Republicans retreat from North Carolina as Trump admits Democrats are likely to win the Senate seat - NBC News
-- Supreme Court Allows Blanket Ban on Student IDs at Polls in New Hampshire - The New York Times
-- Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions - WSJ
-- Netanyahu promises Iran regime change: Can Israel topple Tehran government? - Al Jazeera
-- NYC votes to end nearly 170-year-old horse carriage tradition as Trump blasts ban, drivers threaten lawsuit - Fox News
-- DOJ monitoring plans and DHS voter checks raise concerns of election interference - PBS
-- 2 Air Force pilots eject safely from aircraft near Seguin, JBSA says - KSAT
-- More parents facing criminal charges for their children's electric motorcycle accidents - CBS News
-- France's Macron tightens curbs on protests, blaming hard left for unrest - Reuters
-- Hundreds of flights cancelled across East Asia as Typhoon Champi roars toward Taiwan - BBC
-- Blaze that killed 4 soldiers on Canadian military base sparked on grenade launcher range, officials say - CBS News
-- Powerful earthquake in China’s Tibet region collapses hundreds of homes and kills at least 16 people - AP News
-- Hackers appear to be struggling to exploit PHP flaws after global cybersecurity crisis - NBC News
-- Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on. - MarketWatch
-- ‘Just the beginning’: New Mexico AG warns AI industry after $25B Meta ruling - Politico
-- SpaceX in Talks to Access 80,000 Cell Sites for New Network - Bloomberg.com
-- Giant iPhone Duo Installations Spotted at Apple Fifth Avenue - MacRumors
-- The next-gen Xbox won’t cost you $1,800. It can’t. Can it? - The Verge
+- Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack - NPR
+- Trump Rallies to Shore Up Iowa Senate Race for Ashley Hinson - The New York Times
+- Calley Means, top MAHA ally, resigns from Trump administration - Politico
+- Central Park’s horse-drawn carriage drivers fear for their future as New York City passes a ban - NBC News
+- Trump to rally in Florida after stoking Ramaswamy ad furor – US politics live - The Guardian
+- Supreme Court blocks use of student IDs as voter identification in New Hampshire - Fox News
+- 2 pilots eject from military training jet in Texas after landing gear issue - CBS News
+- Tougher discipline, and Xi's authority, key at China's Communist Party's fifth plenum - Reuters
+- Grenade exercise sparked deadly fire at Canada military base, army says - Al Jazeera
+- Powerful earthquake in Tibet's Nagqu area leaves 16 dead - BBC
+- France’s Emmanuel Macron says ‘illegitimate’ protests will be banned as cities block demonstrations - NBC News
+- Stock futures remain under pressure after worst Nasdaq session since June: Live updates - CNBC
+- Treasuries’ Link to AI Shows Sharp Shift as Haven Trade Returns - Bloomberg.com
+- First-of-Its-Kind Vaccine Ushers in New Hope for Cancer Patients - The New York Times
+- Mark Zuckerberg owns 13% of Meta but controls 61% of its votes. California’s wealth tax would bill him on the 13% - Fortune
+- Greg Joswiak talks iPhone Duo in-store availability and demand ahead of launch - 9to5Mac
+- WhatsApp starts testing long-awaited scheduled messages on iPhone - 9to5Mac
