@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-23 00:45_
+_Updated: 2026-10-23 03:22_
 
-- 'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother - BBC
-- Ilhan Omar issues stunning admission when confronted with brother marriage rumors - Fox News
+- Live updates: Trump tells Ramaswamy not to take down controversial ad featuring his opponent’s estranged mother - CNN
+- Ilhan Omar is not the Minnesota congresswoman’s 'real name': sources - Fox News
 - Supreme Court says New Hampshire student IDs can’t be used to vote in November - NBC News
 - Netanyahu says U.S. and Israel must topple Iranian regime - The Washington Post
-- Paris extends curfew as Marseille and Lyon ban protests after riots - BBC
-- Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist - CNBC
-- Judge orders Trump to sit for deposition in his $10 billion lawsuit against the BBC - NBC News
-- Mamdani expected to face legal trouble over PETA-backed horse carriage ban - Fox News
-- Va. Sen. Louise Lucas, six others indicted in federal cannabis corruption case - Virginia Mercury
-- Canada Bans Its Diplomats From Being Seen With US Candidates - Bloomberg.com
-- Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed - KSL
+- Republicans retreat from North Carolina as Trump admits Democrats are likely to win the Senate seat - NBC News
+- Pete Hegseth’s staff break priceless historic globe he requested for office - The Guardian
+- Trump laments NYC horse-drawn carriage ban - The Hill
+- Canada tells diplomats to steer clear of US midterm candidates - Politico
+- Clavicular, the ‘Looksmaxxing’ Influencer, Pleads Not Guilty to Rape Charge - The New York Times
+- Federal judge restricts DHS field operations looking for noncitizen voters - NPR
+- Typhoon Champi roars towards Taiwan, Japan and China bringing heavy rain and wind - BBC
 - Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports - Reuters
-- I will make final decision on Rosebank oil field, energy secretary insists - BBC
-- Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti - NPR
-- Race to update services' computer systems after cyber-security flaw found - BBC
-- Moderna’s Stock Plummets After Cancer-Vaccine Data Shared on Social Media - WSJ
-- Nasdaq falls more than 2% for worst day since June as AI spending woes, oil prices spark sell-off: Live updates - CNBC
-- Mark Zuckerberg makes deal with Meta to help him pay California billionaire tax, if it passes - AP News
+- Final Israeli polls point to stalemate ahead of Tuesday’s election - Jewish Insider
+- Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed - KSL
+- Hackers appear to be struggling to exploit PHP flaws after global cybersecurity crisis - NBC News
+- Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial - STAT
+- Airbnb guests no longer have to wash the dishes or strip the beds at checkout - AP News
+- Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations - The Hacker News
 - Giant iPhone Duo Installations Spotted at Apple Fifth Avenue - MacRumors
-- Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’ - TechCrunch
+- Microsoft says its AI tool is better than doctors at diagnosing conditions - The Verge
