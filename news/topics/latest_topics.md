@@ -1,65 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-23 20:37_
+_Updated: 2026-10-24 00:30_
 
 ## Top Stories
 
-- En person skjuten i södra Stockholm - Aftonbladet
-- Flera skadade vid garagebrand i Borås - SVT Nyheter
-- Älg, hästbuss och flera bilar i olycka på E4 - TV4 Nyheterna
-- DN Direkt – Pojke häktad efter knivlarm vid skola - Dagens Nyheter
-- Knäckesjukan slår mot tallar i norr - Västerbottens-Kuriren
-- SMHI varnar: Blåsigt väder väntas på söndag - Nordsverige
-- ”Det var en enkel googling, men det finns många Mohamed Ali” - Dagens Nyheter
-- Vargar på tre platser i Stockholms län: ”Inte haft tidigare” - Dagens Nyheter
-- Efter avhoppen och kritiken – Svenska kraftnät kallar till extra styrelsemöte - Dagens Nyheter
+- Storbrand i ”Örnnästet” – Hitlers prestigebygge i lågor - Göteborgs-Posten
+- En man död efter skjutning i Bagarmossen - Mitt i
+- Sju barn allvarligt skadade i garagebrand utanför Borås - Dagens Nyheter
+- C-ledaren om mötet med Åkesson: ”Står nära varandra i vissa frågor” - SVT Nyheter
+- Älg och hästtransport i trafikolycka på E4 - Expressen
+- 14-årig flicka anhållen efter mordet i Älvsjö - Omni – Alla nyheter. Alla perspektiv.
+- Ali (V) kontrollerades genom ”en enkel googling” - Göteborgs-Posten
+- Storm på väg – SMHI varnar för hårda vindar - Västerbottens-Kuriren
+- Ett körfält blockerades av stillastående lastbil på E4 - SN, Södermanlands Nyheter
 - Nya styret klart – så här ska de sköta vården - Corren
-- Melania Trump: Har fått till stånd lokal vapenvila - Corren
-- Orkestern deltog i franska protesterna – blev tårgasade - SVT Nyheter
-- Sju döda och många skadade i skjutning i kyrka - Göteborgs-Posten
+- Ingmar Nevéus: Kan Trump ogiltigförklara valet om han inte gillar resultatet? - Dagens Nyheter
 - Ukraina: Över 19 000 civila dödsoffer - Västerbottens-Kuriren
+- Ukraina slog tillbaka ryssarna – i överraskningsoffensiv under marken - Dagens Nyheter
+- Trump öppnar för ”liten” Iran-operation - Aftonbladet
 - Ingenjörsstudenter oroas av Volvo Cars besked - Omni – Alla nyheter. Alla perspektiv.
-- Kommuniké från extra bolagsstämma i Samhällsbyggnadsbolaget i Norden AB (publ) (MFN) - Aktiellt
-- Kommunen och Telge ser över IT-system efter globala PHP-incidenten - Södertälje kommun
-- Chat GPT och Claude förbjuder Regeringskansliet - Sveriges Radio
-- Microsoft-AI påstås vara bättre än läkare på att ställa diagnoser - Computer Sweden
+- SBB avser att kalla till ny extra bolagsstämma gällande återköp och inlösen av D-aktierna (MFN) - Aktiellt
+- Goldman Sachs: Amerikanska aktier faller på tech-rapporter och makroskiften av Investing.com - Investing.com Sverige
+- Regeringskansliet spärrar Chat GPT och Claude - Computer Sweden
+- Googles varningar för jordskalv införs i Sverige - Omni – Alla nyheter. Alla perspektiv.
 - Forskning: AI kan skada chefers omdöme - Chef och Chefakademin
 
 ## World News
 
-- Gia Binh International Airport utökar sina internationella förbindelser på Routes World 2026 med över 230 flygbolag. - Vietnam.vn
 - Ännu en gripen i global knarkhärva - Aftonbladet
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- CRM- och Digital Engagement-specialist till liten men global hållbarhetsorganisation, Stockholm - Dagens Media
-- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
+- Gia Binh International Airport utökar sina internationella förbindelser på Routes World 2026 med över 230 flygbolag. - Vietnam.vn
+- Volvo Cars reports Q3 2026 sales - Volvo
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
+- FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Två fina priser till NTM i årets INMA Global Awards - NTM
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
+- CRM- och Digital Engagement-specialist till liten men global hållbarhetsorganisation, Stockholm - Dagens Media
+- Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- 1 426 potential victims identified in global operation against human trafficking - Europol
 
 ## Technology
 
-- Tre år med AI: Vad har hänt med jobben? - Almega
-- Förordningen om artificiell intelligens - Consilium.europa.eu
-- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
-- Bästa AI-aktierna att köpa nu - Morningstar
+- Kinesisk teknologi är närvarande i AI-vågen i USA. - Vietnam.vn
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Data Centre Expo Sweden - Mynewsdesk
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Skräp inom artificiell intelligens – från respons till förebyggande - Vietnam.vn
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- AI Can Make Society Richer—If Politics Doesn’t Get in the Way - ekonomistas.se
+- Oron: Då tar datan på internet slut - Svenska Dagbladet
+- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
+- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
+- Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- Internationella standarder stöder företag i att hantera AI-inducerade risker. - Vietnam.vn
-- AI-explosion på svenska arbetsplatser - Computer Sweden
-- Here are the Swedish AI companies everyone is talking about - DI
-- Sandvik AI investments - smarter Industry solutions - Sandvik Group
-- Artificiell intelligens: Möjligheter och risker - European Parliament
-- AI-agenter måste lära sig att veta när det räcker - Computer Sweden
-- Do You Smell That? Hidden Technical Debt in AI Development - Towards Data Science
-- Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
+- Timnit Gebru - Right Livelihood
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- Utvecklare gömde fälla för AI-agenter i öppen källkod - Computer Sweden
-- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
+- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 
 ## Business
 
@@ -75,7 +85,6 @@ _Updated: 2026-10-23 20:37_
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -97,15 +106,15 @@ _Updated: 2026-10-23 20:37_
 - Faith Medical Camp Uganda | Under ytan #3 - YouTube
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Vi presenterar HealthBench - OpenAI
+- Flexibel kapacitetsökning i katastrofer och allvarliga händelser - Göteborgs universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Flexibel kapacitetsökning i katastrofer och allvarliga händelser - Göteborgs universitet
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
@@ -120,26 +129,35 @@ _Updated: 2026-10-23 20:37_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskningen ska vara fri - European Commission
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Andrea del Valle - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 
 ## Jordbruk
 
-- Sveriges förändrade lantbruk - SLU
-- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Jordbruk och landsbygdsutveckling - European Commission
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Jordbrukspolitik - Naturvårdsverket
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Framtidens jordbruk - European Commission
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- De gick från reko till eko - ST-tidningen
 - Här är världens största jordbruk - ATL
+- Kan agroekologi mätta världen? - SLU
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Jord, kor och klimat - SLU
+- Driva lantbruk i Ryssland är ingen promenad i parken - ATL
 - Visning av uppkomst efter direktsådd - Land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
