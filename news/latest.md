@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-23 19:26_
+_Updated: 2026-10-23 22:38_
 
-- Trump administration sues to block certification of upcoming Alaska election - BBC
-- Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries - NPR
-- Netanyahu vows West Bank military operation after attack kills two Israeli soldiers - The Washington Post
-- One person killed in shooting near Paris, French prime minister says - NBC News
-- EXCLUSIVE: First Russian diesel from Putin-Trump deal heading for US, data shows - Reuters
-- Midterms, rift with moms may be 'death knell' of MAHA-Trump alliance - USA Today
-- Trump turns the GOP’s Ramaswamy ad headache into a migraine - CNN
-- Police officer who shot and killed 1-year-old boy in Mississippi has resigned, Senatobia mayor says - AP News
-- Starlink still restricted for Ukraine despite Trump saying Musk lifted speed limits - POLITICO.eu
-- Drivers Are Livid and Activists Exult After Vote to Ban Horse Carriages - The New York Times
+- Trump administration sues to block Alaska Senate certification if Republican Sen. Dan Sullivan loses in November - NBC News
+- Trump to lower Canada tariffs for certain agricultural goods, Collins says - Politico
+- Ilhan Omar hit with expulsion threat as GOP lawmaker vows to boot her from Congress over DOJ probe - Fox News
+- 2 ex-FBI officials charged with lying to Congress about Hunter Biden laptop probe - CBS News
+- Deadly shooting near Paris is a 'racist terrorist attack', Macron says - BBC
+- Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising - CNBC
+- Officer who shot and killed Black toddler in Mississippi resigns from police force - The Guardian
+- Hero who stopped Bend school shooter haunted by encounter: ‘I didn’t save everybody’ - NBC News
+- Rodney Hinton convicted of murder in death of deputy Larry Henderson - WLWT
+- Jackson again publicly breaks with Supreme Court as justices side with GOP in last-minute voter ID fight - Fox News
 - Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump - Reuters
-- Louvre and other museums closing for Saturday protests as French authorities deploy 70,000 officers - AP News
+- Netanyahu vows West Bank military operation after attack kills two Israeli soldiers - The Washington Post
+- France Plans to Bolster Police Presence, Expecting New Protests - The New York Times
 - Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus - The Guardian
-- Six shot dead by gunmen at church funeral in Jordan, officials say - BBC
-- AI-discovered bugs may soon trigger fresh disruptions, cyber experts say - Reuters
-- Dow tumbles 500 points as Middle East tensions rise, selling broadens beyond tech: Live updates - CNBC
-- American Express to Cut 3,500 Jobs - WSJ
-- Mark Zuckerberg owns 13% of Meta but controls 61% of its votes. California’s wealth tax would bill him on the 13% - Fortune
-- Excited Apple fans flip out over new iPhone Duo release - 6abc Philadelphia
+- Dow tumbles more than 600 points as oil prices rise and market sell-off hits most sectors - CNBC
+- ‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking - The Guardian
+- Wall Street Is Getting Very Nervous About AI - Jacobin
+- AmEx lifts 2026 profit forecast, plans to cut 5% of workforce - Reuters
+- Apple’s $1,999 iPhone Duo hits stores Friday amid limited supplies - Yahoo Finance
 - Apple revives the original iPod as an Apple Music easter egg - The Verge
