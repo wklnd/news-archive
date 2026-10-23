@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-23 03:45_
+_Updated: 2026-10-23 09:50_
 
 ## Top Stories
 
-- Trump: Starlinks militära variant tillbaka i Ukraina - Göteborgs-Posten
-- Utredningen kring Älvsjö-mordet växer – flicka och pojke gripna - Aftonbladet
-- Då drar stormen Boelo in – risk för stormbyar - Sveriges Radio
-- Serbien: 150 000 i demonstration - Göteborgs-Posten
-- Sofia Norlin: Därför är jag en del av protesterna i Frankrike - Dagens Nyheter
-- Explosion i elcentral – en person till sjukhus - SVT Nyheter
+- Stort sparpaket på Volvo Cars – 2 500 anställda berörs - SVT Nyheter
+- ”Det var en enkel googling, men det finns många Mohamed Ali” - Dagens Nyheter
+- Dilan, 33, om mördade Saba: ”En eldsjäl” - Aftonbladet
+- 150 000 demonstrerade mot Serbiens ledare inför valet - SVT Nyheter
+- Långa köer på Kastrup flygplats – hundratals missade sina flyg - SVT Nyheter
+- Två till sjukhus efter svår trafikolycka utanför Malmö - Omni – Alla nyheter. Alla perspektiv.
 - Tre misstänkta i valfuskhärvan i Borlänge - Göteborgs-Posten
-- Mohamed Ali (V) bryter tystnaden: ”Behåller min plats” - SVT Nyheter
-- Thand Ringqvist (C) har haft möten med partiledare – Senaste nytt om valet 2026 - SVT Nyheter
-- Ny rapport: Fler i utsatta områden upplever påtryckningar vid val - SVT Nyheter
-- Putin: Inte intresserad av "kort vapenvila" - Corren
-- Över 800 drönare mot Ryssland efter förhandlingar - Hufvudstadsbladet – HBL
-- DN Direkt – Danmark köper robotar av USA och Norge - Dagens Nyheter
-- Uppgifter: Hotad domstol får EU:s finaste pris - Västerbottens-Kuriren
-- Viktig säkerhetsvarning om PHP – föreningar med egna webbplatser uppmanas att agera - sls.se
-- Stockholmsbörsen föll rejält i rapportintensiv handel, OMXS30-index sjönk 2,5 procent (Finwire News) - Aktiellt
-- Börsfall väntas på Wall Street - Affärsvärlden
+- Typåldern visar: Då är sannolikheten störst att du dör - Dagens Nyheter
+- Explosion i elcentral – en person till sjukhus - SVT Nyheter
+- Södertälje utses till Sveriges Miljöbästa kommun – igen - Södertälje kommun
+- Minst 16 döda i jordskalv i Tibet - SVT Nyheter
+- Trump om skandalfilmen: Fortsätt att använda den - Dagens Nyheter
+- Östasien bävar inför tyfonen Champi - Västerbottens-Kuriren
+- Millenniets dödligaste sommar: 50 000 döda i Europas värmeböljor - Dagens Nyheter
+- Nya uppgifter: Hackare slog till fyra dagar före larmet - Aftonbladet
+- New York-börserna föll på bred front - Affärsvärlden
 - Ebba Busch om elpriserna: ”Kan bli en stökig vinter” - Dagens Nyheter
+- Så väljer du rätt aktie – bytet kan ge 50 procent fler - Expressen
+- En praktisk genomgång av den nya Googlebook: En trevande start med stor potential - Computer Sweden
 - DN Direkt – Sparpaket hos Electronic Arts – stänger Bioware - Dagens Nyheter
-- Raye vinner Mercurypriset - Aftonbladet
 
 ## World News
 
-- Ännu en gripen i global knarkhärva - Aftonbladet
 - Gia Binh International Airport utökar sina internationella förbindelser på Routes World 2026 med över 230 flygbolag. - Vietnam.vn
 - Volvo Cars reports Q3 2026 sales - Volvo
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
@@ -35,18 +34,19 @@ _Updated: 2026-10-23 03:45_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Två fina priser till NTM i årets INMA Global Awards - NTM
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Ännu en gripen i global knarkhärva - Aftonbladet
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - CRM- och Digital Engagement-specialist till liten men global hållbarhetsorganisation, Stockholm - Dagens Media
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
-- Sverige faller i global pensionsranking - igen - Finanswatch.se
+- Facebook-duon gör global modesuccé - DI
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -54,18 +54,18 @@ _Updated: 2026-10-23 03:45_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Data Centre Expo Sweden - Mynewsdesk
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Vietnamesiska företag inom digital teknik utnyttjar kraften i AI. - Vietnam.vn
+- Skräp inom artificiell intelligens – från respons till förebyggande - Vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - AI Can Make Society Richer—If Politics Doesn’t Get in the Way - ekonomistas.se
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Skräp inom artificiell intelligens – från respons till förebyggande - Vietnam.vn
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
-- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
+- Timnit Gebru - Right Livelihood
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
@@ -73,72 +73,62 @@ _Updated: 2026-10-23 03:45_
 
 ## Business
 
-- Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Organon lanserar ett nytt företag för kvinnohälsa - Via TT
-- What are BIN sponsorships and how do they drive the digital economy - Mastercard
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Redpill Linpro och Berget AI inleder samarbete för suverän AI - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
+- What are BIN sponsorships and how do they drive the digital economy - Mastercard
+- Organon lanserar ett nytt företag för kvinnohälsa - Via TT
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
+- Låt oss prata hälsa – Hjärt- och kärlsjukdomar – Segment 2 - Apollo Hospitals
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
+- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Vi presenterar HealthBench - OpenAI
+- Flexibel kapacitetsökning i katastrofer och allvarliga händelser - Göteborgs universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Flexibel kapacitetsökning i katastrofer och allvarliga händelser - Göteborgs universitet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
+- Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
 - Öppen vetenskap vid SLU - SLU
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - NVIDIA tillkännager femårigt engagemang för amerikansk vetenskaplig forskning - Unite.AI
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Google investerar i Zuckerbergs Biohub. Ska utveckla dataset för biologisk forskning. - Feber
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - University of Science samarbetar med University of Houston, USA: Utbyte och samarbete, intervjuer för antagning till forskarutbildning - University of Science, VNU-HCM - Vietnam.vn
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskningen ska vara fri - European Commission
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- ”Dagens peer review-system är inte värt att bevara” - Forskning & Framsteg
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Andrea del Valle - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Andrea del Valle - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
+- Årets tio största vetenskapliga genombrott - Dagens Nyheter
 
 ## Jordbruk
 
