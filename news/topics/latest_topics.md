@@ -1,44 +1,43 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-23 09:50_
+_Updated: 2026-10-23 15:42_
 
 ## Top Stories
 
-- Stort sparpaket på Volvo Cars – 2 500 anställda berörs - SVT Nyheter
-- ”Det var en enkel googling, men det finns många Mohamed Ali” - Dagens Nyheter
 - Dilan, 33, om mördade Saba: ”En eldsjäl” - Aftonbladet
-- 150 000 demonstrerade mot Serbiens ledare inför valet - SVT Nyheter
-- Långa köer på Kastrup flygplats – hundratals missade sina flyg - SVT Nyheter
-- Två till sjukhus efter svår trafikolycka utanför Malmö - Omni – Alla nyheter. Alla perspektiv.
-- Tre misstänkta i valfuskhärvan i Borlänge - Göteborgs-Posten
-- Typåldern visar: Då är sannolikheten störst att du dör - Dagens Nyheter
-- Explosion i elcentral – en person till sjukhus - SVT Nyheter
-- Södertälje utses till Sveriges Miljöbästa kommun – igen - Södertälje kommun
-- Minst 16 döda i jordskalv i Tibet - SVT Nyheter
-- Trump om skandalfilmen: Fortsätt att använda den - Dagens Nyheter
-- Östasien bävar inför tyfonen Champi - Västerbottens-Kuriren
-- Millenniets dödligaste sommar: 50 000 döda i Europas värmeböljor - Dagens Nyheter
+- DN Direkt – Skjutning utanför Paris – en död - Dagens Nyheter
+- Buschs vädjan till S: Släpp fram Kristersson - Västerbottens-Kuriren
+- Greps med kniv nära skola i Landskrona – begärs häktad - Omni – Alla nyheter. Alla perspektiv.
+- Misstänkt utlämnad från Förenade Arabemiraten - polisen.se
+- 19 personer åtalas i bedrägerihärva – lurade jägare på deras vapen - SVT Nyheter
+- Storm på väg – SMHI varnar för hårda vindar - NT
+- DN Direkt – Talmannen träffar C-ledaren på måndag - Dagens Nyheter
+- AI-tjänster spärras på Regeringskansliet - SVT Nyheter
+- 16 års fängelse för knivmord i Säffle - Göteborgs-Posten
+- Skjutning utanför Paris misstänks vara terrordåd - Dagens Nyheter
+- Sofia Norlin: Därför är jag en del av protesterna i Frankrike - Dagens Nyheter
+- Trump: Starlinks militära variant tillbaka i Ukraina - Hufvudstadsbladet – HBL
+- ”Värsta någonsin” – 50 000 dog i värmen - Corren
+- Läget är en mardröm för Volvo Cars | Björn Jeffery - Svenska Dagbladet
+- Kommuniké från extra bolagsstämma i Samhällsbyggnadsbolaget i Norden AB (publ) (MFN) - Aktiellt
 - Nya uppgifter: Hackare slog till fyra dagar före larmet - Aftonbladet
 - New York-börserna föll på bred front - Affärsvärlden
-- Ebba Busch om elpriserna: ”Kan bli en stökig vinter” - Dagens Nyheter
-- Så väljer du rätt aktie – bytet kan ge 50 procent fler - Expressen
-- En praktisk genomgång av den nya Googlebook: En trevande start med stor potential - Computer Sweden
-- DN Direkt – Sparpaket hos Electronic Arts – stänger Bioware - Dagens Nyheter
+- Microsoft-AI påstås vara bättre än läkare på att ställa diagnoser - Computer Sweden
+- Finska Jolla utmanar Apple och Google i Sverige – ”Full kontroll över tekniken” - nyteknik
 
 ## World News
 
 - Gia Binh International Airport utökar sina internationella förbindelser på Routes World 2026 med över 230 flygbolag. - Vietnam.vn
 - Volvo Cars reports Q3 2026 sales - Volvo
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Två fina priser till NTM i årets INMA Global Awards - NTM
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Ännu en gripen i global knarkhärva - Aftonbladet
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - CRM- och Digital Engagement-specialist till liten men global hållbarhetsorganisation, Stockholm - Dagens Media
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
-- Facebook-duon gör global modesuccé - DI
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
@@ -46,6 +45,7 @@ _Updated: 2026-10-23 09:50_
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Bildextra: NHL Global series med Icelandair - travelnews-se
+- Visual Art köper Global Agencies - Dagens Media
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
 
 ## Technology
@@ -74,11 +74,11 @@ _Updated: 2026-10-23 09:50_
 ## Business
 
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
 - What are BIN sponsorships and how do they drive the digital economy - Mastercard
 - Organon lanserar ett nytt företag för kvinnohälsa - Via TT
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
@@ -89,23 +89,23 @@ _Updated: 2026-10-23 09:50_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - Låt oss prata hälsa – Hjärt- och kärlsjukdomar – Segment 2 - Apollo Hospitals
+- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Faith Medical Camp Uganda | Under ytan #3 - YouTube
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Vi presenterar HealthBench - OpenAI
-- Flexibel kapacitetsökning i katastrofer och allvarliga händelser - Göteborgs universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
+- Flexibel kapacitetsökning i katastrofer och allvarliga händelser - Göteborgs universitet
 
 ## Science
 
