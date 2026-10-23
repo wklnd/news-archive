@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-23 22:38_
+_Updated: 2026-10-24 01:29_
 
-- Trump administration sues to block Alaska Senate certification if Republican Sen. Dan Sullivan loses in November - NBC News
-- Trump to lower Canada tariffs for certain agricultural goods, Collins says - Politico
+- Midterm Elections Updates: Trump Says He Ordered Justice Dept. to Intervene in Alaska Senate Race - The New York Times
+- Trump ends tariffs on some Canadian products, aiming to help Senator Collins - Reuters
 - Ilhan Omar hit with expulsion threat as GOP lawmaker vows to boot her from Congress over DOJ probe - Fox News
+- British PM pushes Trump on Ukraine’s Starlink access - Politico
 - 2 ex-FBI officials charged with lying to Congress about Hunter Biden laptop probe - CBS News
 - Deadly shooting near Paris is a 'racist terrorist attack', Macron says - BBC
-- Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising - CNBC
-- Officer who shot and killed Black toddler in Mississippi resigns from police force - The Guardian
+- Bodycam clip released in fatal police shooting of Mississippi one-year-old - BBC
 - Hero who stopped Bend school shooter haunted by encounter: ‘I didn’t save everybody’ - NBC News
-- Rodney Hinton convicted of murder in death of deputy Larry Henderson - WLWT
-- Jackson again publicly breaks with Supreme Court as justices side with GOP in last-minute voter ID fight - Fox News
-- Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump - Reuters
+- Trump again invokes claim he has the ‘right’ to run for third term as president - The Guardian
+- Vivek Ramaswamy defends ad featuring Amy Acton's estranged mother - PBS
+- Melania Trump Says She Brokered a Cease-Fire in a Starving Ukrainian City - The New York Times
+- Ebola: Kenya records second death as 65-year-old woman succumbs - Daily Nation
 - Netanyahu vows West Bank military operation after attack kills two Israeli soldiers - The Washington Post
-- France Plans to Bolster Police Presence, Expecting New Protests - The New York Times
-- Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus - The Guardian
-- Dow tumbles more than 600 points as oil prices rise and market sell-off hits most sectors - CNBC
+- Louvre and other museums closing for Saturday protests as French authorities deploy 70,000 officers - AP News
 - ‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking - The Guardian
-- Wall Street Is Getting Very Nervous About AI - Jacobin
+- AI agents are roaming around consumers' bank accounts, and banks aren't happy about it - CBS News
+- Stock Market Today: Dow Opens Lower, Oil Prices Hit 5-Month High — Live Updates - WSJ
 - AmEx lifts 2026 profit forecast, plans to cut 5% of workforce - Reuters
-- Apple’s $1,999 iPhone Duo hits stores Friday amid limited supplies - Yahoo Finance
-- Apple revives the original iPod as an Apple Music easter egg - The Verge
+- Apple Store Pickup for iPhone Duo Starting to Resume But Very Limited - MacRumors
+- Xbox’s first chief operating officer is out after just a few months - The Verge
