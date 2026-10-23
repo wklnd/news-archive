@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-23 14:06_
+_Updated: 2026-10-23 19:26_
 
-- Ramaswamy’s Ohio attack ad shows ‘owning the libs’ may have limits - The Washington Post
-- Trump Asked Musk to Reverse Limits on Ukraine’s Military Internet Use - The New York Times
-- Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search - PBS
-- Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack - NPR
-- Trump Rallies to Shore Up Iowa Senate Race for Ashley Hinson - The New York Times
-- Calley Means, top MAHA ally, resigns from Trump administration - Politico
-- Central Park’s horse-drawn carriage drivers fear for their future as New York City passes a ban - NBC News
-- Trump to rally in Florida after stoking Ramaswamy ad furor – US politics live - The Guardian
-- Supreme Court blocks use of student IDs as voter identification in New Hampshire - Fox News
-- 2 pilots eject from military training jet in Texas after landing gear issue - CBS News
-- Tougher discipline, and Xi's authority, key at China's Communist Party's fifth plenum - Reuters
-- Grenade exercise sparked deadly fire at Canada military base, army says - Al Jazeera
-- Powerful earthquake in Tibet's Nagqu area leaves 16 dead - BBC
-- France’s Emmanuel Macron says ‘illegitimate’ protests will be banned as cities block demonstrations - NBC News
-- Stock futures remain under pressure after worst Nasdaq session since June: Live updates - CNBC
-- Treasuries’ Link to AI Shows Sharp Shift as Haven Trade Returns - Bloomberg.com
-- First-of-Its-Kind Vaccine Ushers in New Hope for Cancer Patients - The New York Times
+- Trump administration sues to block certification of upcoming Alaska election - BBC
+- Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries - NPR
+- Netanyahu vows West Bank military operation after attack kills two Israeli soldiers - The Washington Post
+- One person killed in shooting near Paris, French prime minister says - NBC News
+- EXCLUSIVE: First Russian diesel from Putin-Trump deal heading for US, data shows - Reuters
+- Midterms, rift with moms may be 'death knell' of MAHA-Trump alliance - USA Today
+- Trump turns the GOP’s Ramaswamy ad headache into a migraine - CNN
+- Police officer who shot and killed 1-year-old boy in Mississippi has resigned, Senatobia mayor says - AP News
+- Starlink still restricted for Ukraine despite Trump saying Musk lifted speed limits - POLITICO.eu
+- Drivers Are Livid and Activists Exult After Vote to Ban Horse Carriages - The New York Times
+- Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump - Reuters
+- Louvre and other museums closing for Saturday protests as French authorities deploy 70,000 officers - AP News
+- Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus - The Guardian
+- Six shot dead by gunmen at church funeral in Jordan, officials say - BBC
+- AI-discovered bugs may soon trigger fresh disruptions, cyber experts say - Reuters
+- Dow tumbles 500 points as Middle East tensions rise, selling broadens beyond tech: Live updates - CNBC
+- American Express to Cut 3,500 Jobs - WSJ
 - Mark Zuckerberg owns 13% of Meta but controls 61% of its votes. California’s wealth tax would bill him on the 13% - Fortune
-- Greg Joswiak talks iPhone Duo in-store availability and demand ahead of launch - 9to5Mac
-- WhatsApp starts testing long-awaited scheduled messages on iPhone - 9to5Mac
+- Excited Apple fans flip out over new iPhone Duo release - 6abc Philadelphia
+- Apple revives the original iPod as an Apple Music easter egg - The Verge
