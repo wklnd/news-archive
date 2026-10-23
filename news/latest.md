@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-23 03:22_
+_Updated: 2026-10-23 08:28_
 
-- Live updates: Trump tells Ramaswamy not to take down controversial ad featuring his opponent’s estranged mother - CNN
-- Ilhan Omar is not the Minnesota congresswoman’s 'real name': sources - Fox News
-- Supreme Court says New Hampshire student IDs can’t be used to vote in November - NBC News
-- Netanyahu says U.S. and Israel must topple Iranian regime - The Washington Post
+- Ramaswamy’s Ohio attack ad shows ‘owning the libs’ may have limits - The Washington Post
+- Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search - PBS
 - Republicans retreat from North Carolina as Trump admits Democrats are likely to win the Senate seat - NBC News
-- Pete Hegseth’s staff break priceless historic globe he requested for office - The Guardian
-- Trump laments NYC horse-drawn carriage ban - The Hill
-- Canada tells diplomats to steer clear of US midterm candidates - Politico
-- Clavicular, the ‘Looksmaxxing’ Influencer, Pleads Not Guilty to Rape Charge - The New York Times
-- Federal judge restricts DHS field operations looking for noncitizen voters - NPR
-- Typhoon Champi roars towards Taiwan, Japan and China bringing heavy rain and wind - BBC
-- Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports - Reuters
-- Final Israeli polls point to stalemate ahead of Tuesday’s election - Jewish Insider
-- Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed - KSL
+- Supreme Court Allows Blanket Ban on Student IDs at Polls in New Hampshire - The New York Times
+- Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions - WSJ
+- Netanyahu promises Iran regime change: Can Israel topple Tehran government? - Al Jazeera
+- NYC votes to end nearly 170-year-old horse carriage tradition as Trump blasts ban, drivers threaten lawsuit - Fox News
+- DOJ monitoring plans and DHS voter checks raise concerns of election interference - PBS
+- 2 Air Force pilots eject safely from aircraft near Seguin, JBSA says - KSAT
+- More parents facing criminal charges for their children's electric motorcycle accidents - CBS News
+- France's Macron tightens curbs on protests, blaming hard left for unrest - Reuters
+- Hundreds of flights cancelled across East Asia as Typhoon Champi roars toward Taiwan - BBC
+- Blaze that killed 4 soldiers on Canadian military base sparked on grenade launcher range, officials say - CBS News
+- Powerful earthquake in China’s Tibet region collapses hundreds of homes and kills at least 16 people - AP News
 - Hackers appear to be struggling to exploit PHP flaws after global cybersecurity crisis - NBC News
-- Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial - STAT
-- Airbnb guests no longer have to wash the dishes or strip the beds at checkout - AP News
-- Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations - The Hacker News
+- Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on. - MarketWatch
+- ‘Just the beginning’: New Mexico AG warns AI industry after $25B Meta ruling - Politico
+- SpaceX in Talks to Access 80,000 Cell Sites for New Network - Bloomberg.com
 - Giant iPhone Duo Installations Spotted at Apple Fifth Avenue - MacRumors
-- Microsoft says its AI tool is better than doctors at diagnosing conditions - The Verge
+- The next-gen Xbox won’t cost you $1,800. It can’t. Can it? - The Verge
