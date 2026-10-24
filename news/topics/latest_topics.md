@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-24 23:04_
+_Updated: 2026-10-25 01:32_
 
 ## Top Stories
 
-- DN Direkt – Kraftiga vindar när höststormen når västkusten - Dagens Nyheter
+- Flera varningar för ovädret Boelo - Aftonbladet
 - En man död efter skjutning i Bagarmossen - Mitt i
-- Stora protester väntas i Frankrike – 70 000 poliser involverade - Göteborgs-Posten
 - Israelisk insats på Västbanken – familjer körs bort - Dagens Nyheter
+- DN Direkt – Trump har förtidsröstat i Florida - Dagens Nyheter
+- Stora protester väntas i Frankrike – 70 000 poliser involverade - Göteborgs-Posten
 - Saba blev mördad i Älvsjö - 8 Sidor
-- Demonstranter tog sig in i Colosseum - Expressen
-- Sju allvarligt skadade i garagebrand - Corren
+- Tonåring livshotande skadad efter Boråsbrand - Göteborgs-Posten
+- 24 oktober 14.00, Försvunnen person, Karlsborg - polisen.se
 - Bostaden sprängdes i bombdåd – får 20 000 kronor i ersättning - Dagens Nyheter
-- Dags att ställa om – och övergå till vintertid - Göteborgs-Posten
 - Just nu: En stillastående personbil ger stopp i ett körfält på E4 - Norran
 - Tusentals demonstrerar inför ödesval i Israel - Göteborgs-Posten
 - Hon kan bli Texas första demokratiska guvernör på 30 år - Dagens Nyheter
 - Ukraina har ”stabil” Starlink-uppkoppling igen - Västerbottens-Kuriren
-- En gripen efter brand i Hitlers ”örnnäste” - Corren
-- Börsen stänger strax över nollan – Volvo Cars rasade efter kapade jobb - DI
-- Kommunen och Telge ser över IT-system efter globala PHP-incidenten - Södertälje kommun
-- Positiva resultat offentliggjorda för skräddarsytt cancervaccin - LäkemedelsVärlden
-- "Är full fart framåt i Linköping" - Corren
+- DN Direkt – Uppgift: Misstänkt i Trappe ville hämnas plundring - Dagens Nyheter
+- Ingenjörsstudenter oroas av Volvo Cars besked - Omni – Alla nyheter. Alla perspektiv.
+- Nyköpings kommun stängde ner system efter globalt it-larm - SN, Södermanlands Nyheter
+- SBB kallar till ny extrastämma om D-aktien - Fastighetsnytt
+- Kyrka betalar offer för sexövergrepp - Svenska Dagbladet
 - Studie: Inte bara skärmtiden som avgör risken - Corren
 - Nerlagda "Mass Effect" såg otroligt ut - enligt en som spelat - MovieZine
 
@@ -43,10 +43,10 @@ _Updated: 2026-10-24 23:04_
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - Iranian foreign minister says negotiations with U.S. may be off the table - PBS
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Dress for Success® Worldwide Launches Global Brand Refresh and Campaign to Transform Women's Futures - Aktiellt
 - Global coal demand forecast to rise by 1.2% in 2026 to a record 8.94 billion tonnes due to Middle East conflict, IEA says - Reuters
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
+- Ögonblick vi minns från Global Series i Sverige - NHL.com
 
 ## Technology
 
@@ -58,7 +58,6 @@ _Updated: 2026-10-24 23:04_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - Timnit Gebru - Right Livelihood
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
@@ -66,9 +65,10 @@ _Updated: 2026-10-24 23:04_
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 
 ## Business
@@ -77,20 +77,20 @@ _Updated: 2026-10-24 23:04_
 - Framtidens värdeskapande kräver resiliens - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Accure och Basware satsar stort på e-faktura - Mynewsdesk
 - Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
@@ -108,37 +108,25 @@ _Updated: 2026-10-24 23:04_
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Vi presenterar HealthBench - OpenAI
 - Flexibel kapacitetsökning i katastrofer och allvarliga händelser - Göteborgs universitet
-- E-hälsa inom EU - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
-- Öppen vetenskap vid SLU - SLU
-- NVIDIA tillkännager femårigt engagemang för amerikansk vetenskaplig forskning - Unite.AI
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Google investerar i Zuckerbergs Biohub. Ska utveckla dataset för biologisk forskning. - Feber
-- Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskningen ska vara fri - European Commission
-- Forskningsutvärdering med kvalitet i fokus - Jönköping University
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Sherry Nakhaeizadeh - Uppsala universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Andrea del Valle - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Täta band mellan turism och forskning på Svalbard - SLU
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
-- Årets tio största vetenskapliga genombrott - Dagens Nyheter
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 
 ## Jordbruk
 
