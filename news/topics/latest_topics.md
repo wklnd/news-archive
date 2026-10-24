@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-24 03:14_
+_Updated: 2026-10-24 08:16_
 
 ## Top Stories
 
+- Följ med in till Oceana – då öppnar Lisebergs vattenland - Göteborgs-Posten
+- Hitlers ”örnnäste” stod i lågor - Nya Wermlands-Tidningen
 - Sju barn allvarligt skadade i garagebrand utanför Borås - Dagens Nyheter
+- ”På måndagar kan man se blåmärken på killarnas kroppar” - Dagens Nyheter
 - En man död efter skjutning i Bagarmossen - Mitt i
-- Storbrand i ”Örnnästet” – Hitlers prestigebygge i lågor - Göteborgs-Posten
-- C-ledaren om mötet med Åkesson: ”Står nära varandra i vissa frågor” - SVT Nyheter
-- USA mildrar tullpressen på Kanada – öppnar för lättnad i handelskonflikten - Börskollen
-- Trump om skandalfilmen: Fortsätt att använda den - Dagens Nyheter
+- Man i 20-årsåldern död i mc-olycka i Helsingborg - SVT Nyheter
 - SMHI varnar för stormvindar längs västkusten - SVT Nyheter
-- 14-årig flicka anhållen efter mordet i Älvsjö - Göteborgs-Posten
-- C: Kan regera utan V – se bara på Region Stockholm - Omni – Alla nyheter. Alla perspektiv.
-- Ett körfält blockerades av stillastående lastbil på E4 - SN, Södermanlands Nyheter
-- Ingmar Nevéus: Kan Trump ogiltigförklara valet om han inte gillar resultatet? - Dagens Nyheter
-- Vaxholmsbåt i krock med tankfartyg - Expressen
-- Ukraina: Fortsatta problem med Starshield - Hufvudstadsbladet – HBL
+- ”Läsförståelsen sjunker – men granskar vi rätt saker?” - Vi Lärare
+- ”Det var en enkel googling, men det finns många Mohamed Ali” - Dagens Nyheter
+- 24 oktober 07.32, Sammanfattning natt, Örebro län - polisen.se
 - Ukraina slog tillbaka ryssarna – i överraskningsoffensiv under marken - Dagens Nyheter
-- Busch om Volvo Cars kris: ”Tungt för väldigt många” - DI
-- SBB avser att kalla till ny extra bolagsstämma gällande återköp och inlösen av D-aktierna (MFN) - Aktiellt
+- Källor: USA har bett om Starlink-påverkan tidigare - Corren
+- Ukraina: Över 19 000 civila dödsoffer - Västerbottens-Kuriren
+- Melania Trump: Har fått till stånd lokal vapenvila - Hufvudstadsbladet – HBL
+- Därför kraschar Volvo Cars: ”Otroligt olyckligt” - Svenska Dagbladet
 - Goldman Sachs: Amerikanska aktier faller på tech-rapporter och makroskiften av Investing.com - Investing.com Sverige
+- Långa köer på Kastrup – tredje dagen i rad - SVT Nyheter
 - DN Direkt – Högsta oljepriset på flera månader - Dagens Nyheter
+- Studie: Inte bara skärmtiden som avgör risken - Svenska Dagbladet
 - Googles varningar för jordskalv införs i Sverige - Omni – Alla nyheter. Alla perspektiv.
-- BioWare läggs ner och Mass Effect 5 skrotas – spelbranschen i chock - TechRadar
 
 ## World News
 
@@ -35,6 +35,7 @@ _Updated: 2026-10-24 03:14_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Två fina priser till NTM i årets INMA Global Awards - NTM
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Viktig seger efter ovissheten: ”Visste inte” - Nya Wermlands-Tidningen
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - CRM- och Digital Engagement-specialist till liten men global hållbarhetsorganisation, Stockholm - Dagens Media
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
@@ -46,29 +47,29 @@ _Updated: 2026-10-24 03:14_
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
-- Tre år med AI: Vad har hänt med jobben? - Almega
-- Förordningen om artificiell intelligens - Consilium.europa.eu
-- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
-- Bästa AI-aktierna att köpa nu - Morningstar
+- Kinesisk teknologi är närvarande i AI-vågen i USA. - Vietnam.vn
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Data Centre Expo Sweden - Mynewsdesk
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Skräp inom artificiell intelligens – från respons till förebyggande - Vietnam.vn
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- Oron: Då tar datan på internet slut - Svenska Dagbladet
+- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
+- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
+- Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
+- Timnit Gebru - Right Livelihood
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
-- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- Internationella standarder stöder företag i att hantera AI-inducerade risker. - Vietnam.vn
-- AI-explosion på svenska arbetsplatser - Computer Sweden
-- Sandvik AI investments - smarter Industry solutions - Sandvik Group
-- Artificiell intelligens: Möjligheter och risker - European Parliament
-- AI-agenter måste lära sig att veta när det räcker - Computer Sweden
-- Do You Smell That? Hidden Technical Debt in AI Development - Towards Data Science
-- Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- Utvecklare gömde fälla för AI-agenter i öppen källkod - Computer Sweden
-- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
+- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 
 ## Business
 
@@ -77,14 +78,13 @@ _Updated: 2026-10-24 03:14_
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -125,7 +125,6 @@ _Updated: 2026-10-24 03:14_
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - University of Science samarbetar med University of Houston, USA: Utbyte och samarbete, intervjuer för antagning till forskarutbildning - University of Science, VNU-HCM - Vietnam.vn
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskningen ska vara fri - European Commission
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
@@ -134,10 +133,11 @@ _Updated: 2026-10-24 03:14_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Andrea del Valle - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 
 ## Jordbruk
 
@@ -159,5 +159,5 @@ _Updated: 2026-10-24 03:14_
 - Driva lantbruk i Ryssland är ingen promenad i parken - ATL
 - Visning av uppkomst efter direktsådd - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Markbristen: EUs unga bönders största utmaning - Land.se
