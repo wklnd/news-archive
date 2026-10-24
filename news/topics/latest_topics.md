@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-24 00:30_
+_Updated: 2026-10-24 03:14_
 
 ## Top Stories
 
-- Storbrand i ”Örnnästet” – Hitlers prestigebygge i lågor - Göteborgs-Posten
-- En man död efter skjutning i Bagarmossen - Mitt i
 - Sju barn allvarligt skadade i garagebrand utanför Borås - Dagens Nyheter
+- En man död efter skjutning i Bagarmossen - Mitt i
+- Storbrand i ”Örnnästet” – Hitlers prestigebygge i lågor - Göteborgs-Posten
 - C-ledaren om mötet med Åkesson: ”Står nära varandra i vissa frågor” - SVT Nyheter
-- Älg och hästtransport i trafikolycka på E4 - Expressen
-- 14-årig flicka anhållen efter mordet i Älvsjö - Omni – Alla nyheter. Alla perspektiv.
-- Ali (V) kontrollerades genom ”en enkel googling” - Göteborgs-Posten
-- Storm på väg – SMHI varnar för hårda vindar - Västerbottens-Kuriren
+- USA mildrar tullpressen på Kanada – öppnar för lättnad i handelskonflikten - Börskollen
+- Trump om skandalfilmen: Fortsätt att använda den - Dagens Nyheter
+- SMHI varnar för stormvindar längs västkusten - SVT Nyheter
+- 14-årig flicka anhållen efter mordet i Älvsjö - Göteborgs-Posten
+- C: Kan regera utan V – se bara på Region Stockholm - Omni – Alla nyheter. Alla perspektiv.
 - Ett körfält blockerades av stillastående lastbil på E4 - SN, Södermanlands Nyheter
-- Nya styret klart – så här ska de sköta vården - Corren
 - Ingmar Nevéus: Kan Trump ogiltigförklara valet om han inte gillar resultatet? - Dagens Nyheter
-- Ukraina: Över 19 000 civila dödsoffer - Västerbottens-Kuriren
+- Vaxholmsbåt i krock med tankfartyg - Expressen
+- Ukraina: Fortsatta problem med Starshield - Hufvudstadsbladet – HBL
 - Ukraina slog tillbaka ryssarna – i överraskningsoffensiv under marken - Dagens Nyheter
-- Trump öppnar för ”liten” Iran-operation - Aftonbladet
-- Ingenjörsstudenter oroas av Volvo Cars besked - Omni – Alla nyheter. Alla perspektiv.
+- Busch om Volvo Cars kris: ”Tungt för väldigt många” - DI
 - SBB avser att kalla till ny extra bolagsstämma gällande återköp och inlösen av D-aktierna (MFN) - Aktiellt
 - Goldman Sachs: Amerikanska aktier faller på tech-rapporter och makroskiften av Investing.com - Investing.com Sverige
-- Regeringskansliet spärrar Chat GPT och Claude - Computer Sweden
+- DN Direkt – Högsta oljepriset på flera månader - Dagens Nyheter
 - Googles varningar för jordskalv införs i Sverige - Omni – Alla nyheter. Alla perspektiv.
-- Forskning: AI kan skada chefers omdöme - Chef och Chefakademin
+- BioWare läggs ner och Mass Effect 5 skrotas – spelbranschen i chock - TechRadar
 
 ## World News
 
@@ -41,35 +41,34 @@ _Updated: 2026-10-24 00:30_
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
-- Kinesisk teknologi är närvarande i AI-vågen i USA. - Vietnam.vn
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Data Centre Expo Sweden - Mynewsdesk
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Skräp inom artificiell intelligens – från respons till förebyggande - Vietnam.vn
-- 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- AI Can Make Society Richer—If Politics Doesn’t Get in the Way - ekonomistas.se
-- Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
-- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
-- Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
+- Tre år med AI: Vad har hänt med jobben? - Almega
+- Förordningen om artificiell intelligens - Consilium.europa.eu
+- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
+- Bästa AI-aktierna att köpa nu - Morningstar
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
-- Timnit Gebru - Right Livelihood
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- 290 million for digitalisation of Swedish industry - Vinnova
+- Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
+- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
+- Internationella standarder stöder företag i att hantera AI-inducerade risker. - Vietnam.vn
+- AI-explosion på svenska arbetsplatser - Computer Sweden
+- Sandvik AI investments - smarter Industry solutions - Sandvik Group
+- Artificiell intelligens: Möjligheter och risker - European Parliament
+- AI-agenter måste lära sig att veta när det räcker - Computer Sweden
+- Do You Smell That? Hidden Technical Debt in AI Development - Towards Data Science
+- Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- AI-modeller tog sig ur sina testmiljöer - Mynewsdesk
-- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
+- Utvecklare gömde fälla för AI-agenter i öppen källkod - Computer Sweden
+- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
 
@@ -85,6 +84,7 @@ _Updated: 2026-10-24 00:30_
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -134,10 +134,10 @@ _Updated: 2026-10-24 00:30_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Andrea del Valle - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
