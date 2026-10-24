@@ -1,75 +1,72 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-24 16:45_
+_Updated: 2026-10-24 20:17_
 
 ## Top Stories
 
-- Ukraina har ”stabil” Starlink-uppkoppling igen - Västerbottens-Kuriren
 - Stora protester väntas i Frankrike – 70 000 poliser involverade - Göteborgs-Posten
-- Ett barn livshotande skadat efter garagebrand i Fristad - Dagens Nyheter
-- En man död efter skjutning i Bagarmossen - Mitt i
-- Inställda tåg i Skåne efter vädervarning - Expressen
-- Tomas Ramberg: Risken för extraval är överskattad - Dagens Nyheter
-- Dags att ställa om – och övergå till vintertid - Göteborgs-Posten
+- Ukraina har ”stabil” Starlink-uppkoppling igen - Västerbottens-Kuriren
+- Storm och regn väntas – tåg ställs in - Aftonbladet
+- 20-åriga Charlize har avlidit – drabbades av blodcancer - SVT Nyheter
+- DN Direkt – Demonstranter tog sig in i Colosseum - Dagens Nyheter
+- Sju barn intensivvårdas efter brand i Borås - TV4 Nyheterna
 - 24 oktober 14.00, Försvunnen person, Karlsborg - polisen.se
-- Person hittad avliden i bil i vattnet norr om Visby - Helagotland
-- Trots domarna – Think Pinks dolda sopberg ligger kvar - Västerbottens-Kuriren
-- Brand i Hitlers ”örnnäste” - Västerbottens-Kuriren
-- Vad har Usha Vance offrat för att vara USA:s ”second lady”? - Dagens Nyheter
+- Trots domarna – Think Pinks dolda sopberg ligger kvar - Göteborgs-Posten
+- Ingen gripen efter dödsskjutning i Stockholm - Västerbottens-Kuriren
+- David Seger i förhandlingar med Häcken: ”Vi vet var vi har varandra” - Göteborgs-Posten
+- Efter branden: Hitlers ”örnnäste” ska byggas upp - Västerbottens-Kuriren
 - Stenvallen runt den konstgjorda ön i Köpenhamn är färdig - Sydsvenskan
-- Person hittad död i bil i vattnet - TV4 Nyheterna
-- Busch om Volvo Cars kris: ”Tungt för väldigt många” - DI
-- Barnens dom: Fullvuxna människor trängs - Expressen
-- Alzheimersjuka Barbarag lömde ta ut 1,2 miljoner i pension - Expressen
-- Kommunen och Telge ser över IT-system efter globala PHP-incidenten - Södertälje kommun
+- Kan ”mannen utan karisma” besegra Netanyahu? - SVT Nyheter
+- Krim mörklagt efter attacker – hundratals drönare - Hufvudstadsbladet – HBL
+- Ingenjörsstudenter oroas av Volvo Cars besked - Omni – Alla nyheter. Alla perspektiv.
+- Tillfälligt andrum för Frankrikes pressade styre - DI
+- Dyrare med anställda om karensavdraget tas bort? - ATL
+- "Är full fart framåt i Linköping" - Corren
 - Studie: Inte bara skärmtiden som avgör risken - Corren
 - Uppgraderingsdags? Så stor är skillnaden mellan RTX 5080 och 3080 i Control Resonant - FZ.se
 
 ## World News
 
 - Volvo Cars reports Q3 2026 sales - Volvo
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
 - EU-parlamentariker eniga om global AI-styrning – oeniga om nya regler - Europaportalen
 - Två fina priser till NTM i årets INMA Global Awards - NTM
-- Ännu en gripen i global knarkhärva - Aftonbladet
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
+- Ännu en gripen i global knarkhärva - Aftonbladet
 - Viktig seger efter ovissheten: ”Visste inte” - Nya Wermlands-Tidningen
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - CRM- och Digital Engagement-specialist till liten men global hållbarhetsorganisation, Stockholm - Dagens Media
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
+- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Tests in Italy, Spain come back negative in global hunt for hantavirus - Reuters
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Global coal demand forecast to rise by 1.2% in 2026 to a record 8.94 billion tonnes due to Middle East conflict, IEA says - Reuters
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
-- Kinesisk teknologi är närvarande i AI-vågen i USA. - Vietnam.vn
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Data Centre Expo Sweden - Mynewsdesk
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
-- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
-- Timnit Gebru - Right Livelihood
+- Tre år med AI: Vad har hänt med jobben? - Almega
+- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
+- Förordningen om artificiell intelligens - Consilium.europa.eu
+- Bästa AI-aktierna att köpa nu - Morningstar
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Internationella standarder stöder företag i att hantera AI-inducerade risker. - Vietnam.vn
+- AI-explosion på svenska arbetsplatser - Computer Sweden
+- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
+- Sandvik AI investments - smarter Industry solutions - Sandvik Group
+- Artificiell intelligens: Möjligheter och risker - European Parliament
+- AI-agenter måste lära sig att veta när det räcker - Computer Sweden
+- Do You Smell That? Hidden Technical Debt in AI Development - Towards Data Science
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
+- Utvecklare gömde fälla för AI-agenter i öppen källkod - Computer Sweden
 
 ## Business
 
@@ -101,18 +98,18 @@ _Updated: 2026-10-24 16:45_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Låt oss prata hälsa – Hjärt- och kärlsjukdomar – Segment 2 - Apollo Hospitals
 - NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Faith Medical Camp Uganda | Under ytan #3 - YouTube
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Vi presenterar HealthBench - OpenAI
 - Flexibel kapacitetsökning i katastrofer och allvarliga händelser - Göteborgs universitet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- E-hälsa inom EU - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
@@ -131,11 +128,11 @@ _Updated: 2026-10-24 16:45_
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Andrea del Valle - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Täta band mellan turism och forskning på Svalbard - SLU
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Täta band mellan turism och forskning på Svalbard - SLU
+- Olika slutsatser från samma data - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Årets tio största vetenskapliga genombrott - Dagens Nyheter
