@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-24 13:25_
+_Updated: 2026-10-24 16:45_
 
 ## Top Stories
 
-- Flera barn skadade i garagebrand i Fristad - Expressen
-- Stora protester väntas i Frankrike – 70 000 poliser involverade - Göteborgs-Posten
-- En man död efter skjutning i Bagarmossen - Mitt i
-- Person hittad död i bil i vattnet - TV4 Nyheterna
-- ”På måndagar kan man se blåmärken på killarnas kroppar” - Dagens Nyheter
-- Försökte förbjuda dem – nu kan de fälla honom - Svenska Dagbladet
-- Trots domarna – Think Pinks dolda sopberg ligger kvar - Göteborgs-Posten
-- Person hittad avliden i bil i vattnet norr om Visby - Helagotland
-- David Seger i förhandlingar med Häcken: ”Vi vet var vi har varandra” - Göteborgs-Posten
-- ”Läsförståelsen sjunker – men granskar vi rätt saker?” - Vi Lärare
-- Hitlers ”örnnäste” i lågor – misstänkt mordbrand - Dagens Nyheter
-- Israel inleder utlovad offensiv på Västbanken - Göteborgs-Posten
-- Vad har Usha Vance offrat för att vara USA:s ”second lady”? - Dagens Nyheter
 - Ukraina har ”stabil” Starlink-uppkoppling igen - Västerbottens-Kuriren
+- Stora protester väntas i Frankrike – 70 000 poliser involverade - Göteborgs-Posten
+- Ett barn livshotande skadat efter garagebrand i Fristad - Dagens Nyheter
+- En man död efter skjutning i Bagarmossen - Mitt i
+- Inställda tåg i Skåne efter vädervarning - Expressen
+- Tomas Ramberg: Risken för extraval är överskattad - Dagens Nyheter
+- Dags att ställa om – och övergå till vintertid - Göteborgs-Posten
+- 24 oktober 14.00, Försvunnen person, Karlsborg - polisen.se
+- Person hittad avliden i bil i vattnet norr om Visby - Helagotland
+- Trots domarna – Think Pinks dolda sopberg ligger kvar - Västerbottens-Kuriren
+- Brand i Hitlers ”örnnäste” - Västerbottens-Kuriren
+- Vad har Usha Vance offrat för att vara USA:s ”second lady”? - Dagens Nyheter
+- Stenvallen runt den konstgjorda ön i Köpenhamn är färdig - Sydsvenskan
+- Person hittad död i bil i vattnet - TV4 Nyheterna
 - Busch om Volvo Cars kris: ”Tungt för väldigt många” - DI
+- Barnens dom: Fullvuxna människor trängs - Expressen
 - Alzheimersjuka Barbarag lömde ta ut 1,2 miljoner i pension - Expressen
-- Tre oroshärdar som skaver på ekonomin - Dagens Nyheter
 - Kommunen och Telge ser över IT-system efter globala PHP-incidenten - Södertälje kommun
-- Ny ledtråd kan vara pusselbit till skillnaden mellan människor och schimpanser - Sydsvenskan
 - Studie: Inte bara skärmtiden som avgör risken - Corren
+- Uppgraderingsdags? Så stor är skillnaden mellan RTX 5080 och 3080 i Control Resonant - FZ.se
 
 ## World News
 
-- Gia Binh International Airport utökar sina internationella förbindelser på Routes World 2026 med över 230 flygbolag. - Vietnam.vn
 - Volvo Cars reports Q3 2026 sales - Volvo
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Två fina priser till NTM i årets INMA Global Awards - NTM
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- EU-parlamentariker eniga om global AI-styrning – oeniga om nya regler - Europaportalen
+- Två fina priser till NTM i årets INMA Global Awards - NTM
 - Ännu en gripen i global knarkhärva - Aftonbladet
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Viktig seger efter ovissheten: ”Visste inte” - Nya Wermlands-Tidningen
 - CRM- och Digital Engagement-specialist till liten men global hållbarhetsorganisation, Stockholm - Dagens Media
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Tests in Italy, Spain come back negative in global hunt for hantavirus - Reuters
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -60,9 +60,9 @@ _Updated: 2026-10-24 13:25_
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
+- Timnit Gebru - Right Livelihood
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
-- Timnit Gebru - Right Livelihood
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
@@ -75,16 +75,16 @@ _Updated: 2026-10-24 13:25_
 
 - Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
 - Framtidens värdeskapande kräver resiliens - EY
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -126,6 +126,7 @@ _Updated: 2026-10-24 13:25_
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningen ska vara fri - European Commission
 - Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
@@ -133,7 +134,6 @@ _Updated: 2026-10-24 13:25_
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Andrea del Valle - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
