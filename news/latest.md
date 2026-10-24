@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-24 14:13_
+_Updated: 2026-10-24 18:14_
 
-- Iran trying harder to target US personnel in Middle East, intelligence chief warns - BBC
-- Paris shuts museums and police deploy in big numbers for new protests across France - AP News
-- Campaigns, attorneys weigh in on Trump’s DOJ suit to block election results if Sen. Sullivan loses - Anchorage Daily News
+- Thousands march in France over schools and living costs as police use tear gas - AP News
+- Facing an electoral wipeout, Trump goes after the system - Politico
+- How Trump Gave the Worst Polluters a Free Pass - The New York Times
 - DOJ demands that California counties help identify noncitizen voters - NBC News
-- Former FBI officials charged with lying to Congress about Hunter Biden laptop inquiry - The Washington Post
-- EXCLUSIVE: US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say - Reuters
+- Ukraine says Starlink connection 'now stable' after network limits - BBC
+- Vivek Ramaswamy campaign switches to shorter version of attack ad featuring Amy Acton’s estranged mother - NBC News
 - Records offer a picture of the Oregon school shooter’s tumultuous home life - NBC News
-- Melania Trump brokers a ceasefire deal in Russian-occupied Ukrainian city to get relief aid in - AP News
-- Guilty: Faith Hedgepeth's killer sentenced to life in prison without parole - WRAL
-- White House lifts tariffs on some Canadian goods as midterm elections loom - BBC
-- Israel imposes closures across a West Bank city after attacks, and other Mideast news - AP News
-- Netanyahu Has Reinvented Himself. Will Voters Think It’s Enough? - The New York Times
-- Major fire breaks out at Hitler's mountain retreat in Bavaria - Euronews.com
-- Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege - Al Jazeera
-- Six Flags to Add Seat Belts to Rides Following Death - WSJ
-- Wall Street closes lower to end rocky week - Reuters
-- Argentinian judge drops fraud investigation into Milei over crypto scandal - Al Jazeera
+- She had five siblings, but only she survived childhood with her father - NBC News
+- Ilhan Omar answers questions regarding name change - FOX 9 Minneapolis-St. Paul
+- Exceptionally high tides will swamp California, ‘likely to get worse before it gets better’ - Los Angeles Times
+- Israeli soldiers raze neighbourhood in Hebron, driving families from homes - The Guardian
+- Is Iran planning attacks on Americans; why is the US on alert? - Al Jazeera
+- Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat - BBC
+- Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40 - NPR
 - Attention, Passengers: High Airfares May Be Here to Stay - The New York Times
-- Apple’s $2,000 foldable iPhone launches amid strong demand - Honolulu Star-Advertiser
+- Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns - AP News
+- Six Flags signals Goliath roller coaster will reopen — with seat belts — after fatal fall at Georgia park - CNN
+- 'The transit world is where innovation goes to die' — The U.S. lags far behind on using driverless trains, but new projects could open the floodgates - Fortune
+- Apple Store Pickup System for iPhone Duo Just Went Live Again in U.S. and Canada - MacRumors
 - Apple’s official DIY repair guides for the iPhone Duo now available - 9to5Mac
