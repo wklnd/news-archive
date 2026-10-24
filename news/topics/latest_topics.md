@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-24 20:17_
+_Updated: 2026-10-24 23:04_
 
 ## Top Stories
 
+- DN Direkt – Kraftiga vindar när höststormen når västkusten - Dagens Nyheter
+- En man död efter skjutning i Bagarmossen - Mitt i
 - Stora protester väntas i Frankrike – 70 000 poliser involverade - Göteborgs-Posten
+- Israelisk insats på Västbanken – familjer körs bort - Dagens Nyheter
+- Saba blev mördad i Älvsjö - 8 Sidor
+- Demonstranter tog sig in i Colosseum - Expressen
+- Sju allvarligt skadade i garagebrand - Corren
+- Bostaden sprängdes i bombdåd – får 20 000 kronor i ersättning - Dagens Nyheter
+- Dags att ställa om – och övergå till vintertid - Göteborgs-Posten
+- Just nu: En stillastående personbil ger stopp i ett körfält på E4 - Norran
+- Tusentals demonstrerar inför ödesval i Israel - Göteborgs-Posten
+- Hon kan bli Texas första demokratiska guvernör på 30 år - Dagens Nyheter
 - Ukraina har ”stabil” Starlink-uppkoppling igen - Västerbottens-Kuriren
-- Storm och regn väntas – tåg ställs in - Aftonbladet
-- 20-åriga Charlize har avlidit – drabbades av blodcancer - SVT Nyheter
-- DN Direkt – Demonstranter tog sig in i Colosseum - Dagens Nyheter
-- Sju barn intensivvårdas efter brand i Borås - TV4 Nyheterna
-- 24 oktober 14.00, Försvunnen person, Karlsborg - polisen.se
-- Trots domarna – Think Pinks dolda sopberg ligger kvar - Göteborgs-Posten
-- Ingen gripen efter dödsskjutning i Stockholm - Västerbottens-Kuriren
-- David Seger i förhandlingar med Häcken: ”Vi vet var vi har varandra” - Göteborgs-Posten
-- Efter branden: Hitlers ”örnnäste” ska byggas upp - Västerbottens-Kuriren
-- Stenvallen runt den konstgjorda ön i Köpenhamn är färdig - Sydsvenskan
-- Kan ”mannen utan karisma” besegra Netanyahu? - SVT Nyheter
-- Krim mörklagt efter attacker – hundratals drönare - Hufvudstadsbladet – HBL
-- Ingenjörsstudenter oroas av Volvo Cars besked - Omni – Alla nyheter. Alla perspektiv.
-- Tillfälligt andrum för Frankrikes pressade styre - DI
-- Dyrare med anställda om karensavdraget tas bort? - ATL
+- En gripen efter brand i Hitlers ”örnnäste” - Corren
+- Börsen stänger strax över nollan – Volvo Cars rasade efter kapade jobb - DI
+- Kommunen och Telge ser över IT-system efter globala PHP-incidenten - Södertälje kommun
+- Positiva resultat offentliggjorda för skräddarsytt cancervaccin - LäkemedelsVärlden
 - "Är full fart framåt i Linköping" - Corren
 - Studie: Inte bara skärmtiden som avgör risken - Corren
-- Uppgraderingsdags? Så stor är skillnaden mellan RTX 5080 och 3080 i Control Resonant - FZ.se
+- Nerlagda "Mass Effect" såg otroligt ut - enligt en som spelat - MovieZine
 
 ## World News
 
@@ -34,39 +34,42 @@ _Updated: 2026-10-24 20:17_
 - FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
 - EU-parlamentariker eniga om global AI-styrning – oeniga om nya regler - Europaportalen
 - Två fina priser till NTM i årets INMA Global Awards - NTM
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- Ännu en gripen i global knarkhärva - Aftonbladet
 - Viktig seger efter ovissheten: ”Visste inte” - Nya Wermlands-Tidningen
+- Ännu en gripen i global knarkhärva - Aftonbladet
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - CRM- och Digital Engagement-specialist till liten men global hållbarhetsorganisation, Stockholm - Dagens Media
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - Iranian foreign minister says negotiations with U.S. may be off the table - PBS
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Dress for Success® Worldwide Launches Global Brand Refresh and Campaign to Transform Women's Futures - Aktiellt
 - Global coal demand forecast to rise by 1.2% in 2026 to a record 8.94 billion tonnes due to Middle East conflict, IEA says - Reuters
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
-- Ögonblick vi minns från Global Series i Sverige - NHL.com
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 
 ## Technology
 
-- Tre år med AI: Vad har hänt med jobben? - Almega
-- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
-- Förordningen om artificiell intelligens - Consilium.europa.eu
-- Bästa AI-aktierna att köpa nu - Morningstar
+- Kinesisk teknologi är närvarande i AI-vågen i USA. - Vietnam.vn
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Data Centre Expo Sweden - Mynewsdesk
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Vietnam tilldelades priser i 10 kategorier vid ASOCIO 2026 Digital Technology and Artificial Intelligence Awards. - Vietnam.vn
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- Oron: Då tar datan på internet slut - Svenska Dagbladet
+- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
+- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
+- Timnit Gebru - Right Livelihood
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - 290 million for digitalisation of Swedish industry - Vinnova
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
-- Internationella standarder stöder företag i att hantera AI-inducerade risker. - Vietnam.vn
-- AI-explosion på svenska arbetsplatser - Computer Sweden
-- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- Sandvik AI investments - smarter Industry solutions - Sandvik Group
-- Artificiell intelligens: Möjligheter och risker - European Parliament
-- AI-agenter måste lära sig att veta när det räcker - Computer Sweden
-- Do You Smell That? Hidden Technical Debt in AI Development - Towards Data Science
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- Utvecklare gömde fälla för AI-agenter i öppen källkod - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 
 ## Business
 
@@ -132,10 +135,10 @@ _Updated: 2026-10-24 20:17_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Olika slutsatser från samma data - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Årets tio största vetenskapliga genombrott - Dagens Nyheter
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
