@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-24 09:35_
+_Updated: 2026-10-24 14:13_
 
-- EXCLUSIVE: US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say - Reuters
-- Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say - The New York Times
-- Vivek Ramaswamy defends ad featuring Amy Acton's estranged mother - PBS
-- White House lifts tariffs on some Canadian goods as midterm elections loom - BBC
-- Father who killed Oregon school shooter speaks out for first time: ‘I have to go in’ - The Guardian
-- Paris to shut down the Louvre, other tourist attractions over fears of violent Saturday protests - New York Post
+- Iran trying harder to target US personnel in Middle East, intelligence chief warns - BBC
+- Paris shuts museums and police deploy in big numbers for new protests across France - AP News
 - Campaigns, attorneys weigh in on Trump’s DOJ suit to block election results if Sen. Sullivan loses - Anchorage Daily News
-- Justice Dept. Demands That California Counties Help Identify Noncitizen Voters - The New York Times
+- DOJ demands that California counties help identify noncitizen voters - NBC News
+- Former FBI officials charged with lying to Congress about Hunter Biden laptop inquiry - The Washington Post
+- EXCLUSIVE: US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say - Reuters
+- Records offer a picture of the Oregon school shooter’s tumultuous home life - NBC News
 - Melania Trump brokers a ceasefire deal in Russian-occupied Ukrainian city to get relief aid in - AP News
-- Trump again invokes claim he has the ‘right’ to run for third term as president - The Guardian
-- Suspect arrested as Hitler's Eagle's Nest, the Kehlsteinhaus, catches fire - DW.com
-- Attack in the West Bank kills 2 Israeli soldiers, and other Mideast news - AP News
-- Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says - Al Jazeera
-- Several killed, dozens wounded in Jordan church shooting - France 24
+- Guilty: Faith Hedgepeth's killer sentenced to life in prison without parole - WRAL
+- White House lifts tariffs on some Canadian goods as midterm elections loom - BBC
+- Israel imposes closures across a West Bank city after attacks, and other Mideast news - AP News
+- Netanyahu Has Reinvented Himself. Will Voters Think It’s Enough? - The New York Times
+- Major fire breaks out at Hitler's mountain retreat in Bavaria - Euronews.com
+- Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege - Al Jazeera
+- Six Flags to Add Seat Belts to Rides Following Death - WSJ
 - Wall Street closes lower to end rocky week - Reuters
-- AI Hacks Are Coming Thick and Fast and Overwhelming the Internet - WSJ
 - Argentinian judge drops fraud investigation into Milei over crypto scandal - Al Jazeera
-- Moderna mRNA vaccine almost halves the risk of skin cancer returning - Nature
-- Apple Store Pickup for iPhone Duo Starting to Resume But Very Limited - MacRumors
-- Uh-oh: iPhone Duo displays are reportedly cracking along the hinge on launch day - Mashable
+- Attention, Passengers: High Airfares May Be Here to Stay - The New York Times
+- Apple’s $2,000 foldable iPhone launches amid strong demand - Honolulu Star-Advertiser
+- Apple’s official DIY repair guides for the iPhone Duo now available - 9to5Mac
