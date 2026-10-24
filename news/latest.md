@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-24 01:29_
+_Updated: 2026-10-24 03:58_
 
 - Midterm Elections Updates: Trump Says He Ordered Justice Dept. to Intervene in Alaska Senate Race - The New York Times
-- Trump ends tariffs on some Canadian products, aiming to help Senator Collins - Reuters
-- Ilhan Omar hit with expulsion threat as GOP lawmaker vows to boot her from Congress over DOJ probe - Fox News
-- British PM pushes Trump on Ukraine’s Starlink access - Politico
-- 2 ex-FBI officials charged with lying to Congress about Hunter Biden laptop probe - CBS News
-- Deadly shooting near Paris is a 'racist terrorist attack', Macron says - BBC
-- Bodycam clip released in fatal police shooting of Mississippi one-year-old - BBC
-- Hero who stopped Bend school shooter haunted by encounter: ‘I didn’t save everybody’ - NBC News
-- Trump again invokes claim he has the ‘right’ to run for third term as president - The Guardian
+- US lifts tariffs on some Canadian goods before midterm elections - BBC
+- Ukraine says satellite access still restricted despite Trump saying otherwise - The Washington Post
+- Ilhan Omar doubles down on ‘real name’ when confronted at Mall of Somalia - Fox News
+- Father who killed Oregon school shooter speaks out for first time: ‘I have to go in’ - The Guardian
+- DOJ charges two former top FBI officials who were frequent targets of Trump allies - NBC News
 - Vivek Ramaswamy defends ad featuring Amy Acton's estranged mother - PBS
-- Melania Trump Says She Brokered a Cease-Fire in a Starving Ukrainian City - The New York Times
+- Mississippi police officer who shot and killed 1-year-old Kohen Wiley resigns after being cleared by state - CBS News
+- US ambassador softens accusations of Canadian interference in midterms - Politico
+- Trump again invokes claim he has the ‘right’ to run for third term as president - The Guardian
+- Deadly shooting near Paris is a 'racist terrorist attack', Macron says - BBC
+- France Plans to Bolster Police Presence, Expecting New Protests - The New York Times
 - Ebola: Kenya records second death as 65-year-old woman succumbs - Daily Nation
-- Netanyahu vows West Bank military operation after attack kills two Israeli soldiers - The Washington Post
-- Louvre and other museums closing for Saturday protests as French authorities deploy 70,000 officers - AP News
-- ‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking - The Guardian
+- Attack in the West Bank kills 2 Israeli soldiers, and other Mideast news - AP News
+- Wall Street closes lower to end rocky week - Reuters
+- Global Oil Price Hits $116 a Barrel, Highest Since April - The New York Times
 - AI agents are roaming around consumers' bank accounts, and banks aren't happy about it - CBS News
-- Stock Market Today: Dow Opens Lower, Oil Prices Hit 5-Month High — Live Updates - WSJ
-- AmEx lifts 2026 profit forecast, plans to cut 5% of workforce - Reuters
+- Nvidia Stock’s 2 Critical Flaws and More Reasons an Analyst Says Sell - Barron's
 - Apple Store Pickup for iPhone Duo Starting to Resume But Very Limited - MacRumors
 - Xbox’s first chief operating officer is out after just a few months - The Verge
