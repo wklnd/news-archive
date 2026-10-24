@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-24 18:14_
+_Updated: 2026-10-24 20:59_
 
-- Thousands march in France over schools and living costs as police use tear gas - AP News
-- Facing an electoral wipeout, Trump goes after the system - Politico
-- How Trump Gave the Worst Polluters a Free Pass - The New York Times
-- DOJ demands that California counties help identify noncitizen voters - NBC News
-- Ukraine says Starlink connection 'now stable' after network limits - BBC
-- Vivek Ramaswamy campaign switches to shorter version of attack ad featuring Amy Acton’s estranged mother - NBC News
-- Records offer a picture of the Oregon school shooter’s tumultuous home life - NBC News
-- She had five siblings, but only she survived childhood with her father - NBC News
-- Ilhan Omar answers questions regarding name change - FOX 9 Minneapolis-St. Paul
-- Exceptionally high tides will swamp California, ‘likely to get worse before it gets better’ - Los Angeles Times
-- Israeli soldiers raze neighbourhood in Hebron, driving families from homes - The Guardian
-- Is Iran planning attacks on Americans; why is the US on alert? - Al Jazeera
+- Violence flares in Paris after largely peaceful protests across France - Reuters
 - Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat - BBC
-- Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40 - NPR
-- Attention, Passengers: High Airfares May Be Here to Stay - The New York Times
+- Facing an electoral wipeout, Trump goes after the system - Politico
+- Interactive graphic: Explore how the battle for the House could play out - NBC News
+- North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge - AP News
+- California must respond to DOJ's emergency request over ballots mailed to alleged noncitizens, court rules - Fox News
+- Records offer a picture of the Oregon school shooter’s tumultuous home life - NBC News
+- Starlink in Ukraine back to normal after week of throttling - Reuters
+- Jennings: Ramaswamy’s campaign tactics ‘worst politics you could imagine’ - The Hill
+- New Court Filings Identify Ilhan Omar by Another Name as Trump Calls for Her Resignation - WBFF
+- Is Iran planning attacks on Americans; why is the US on alert? - Al Jazeera
+- 7 dead, 40 wounded in Jordan church funeral shooting - AL.com
+- Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say - BBC
+- Rubio calls on Cubans seeking change to partner with CIA - Euronews.com
 - Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns - AP News
-- Six Flags signals Goliath roller coaster will reopen — with seat belts — after fatal fall at Georgia park - CNN
+- Six Flags adding seat belts to Goliath rollercoaster following death - BBC
+- Mark Zuckerberg’s deal to stay in California cheered by wealth tax campaign - Financial Times
 - 'The transit world is where innovation goes to die' — The U.S. lags far behind on using driverless trains, but new projects could open the floodgates - Fortune
-- Apple Store Pickup System for iPhone Duo Just Went Live Again in U.S. and Canada - MacRumors
-- Apple’s official DIY repair guides for the iPhone Duo now available - 9to5Mac
+- What to expect from Apple’s ‘Pro and tell’ event - The Verge
+- These clever apps show off the iPhone Duo’s potential - TechCrunch
