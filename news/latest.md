@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-24 03:58_
+_Updated: 2026-10-24 09:35_
 
-- Midterm Elections Updates: Trump Says He Ordered Justice Dept. to Intervene in Alaska Senate Race - The New York Times
-- US lifts tariffs on some Canadian goods before midterm elections - BBC
-- Ukraine says satellite access still restricted despite Trump saying otherwise - The Washington Post
-- Ilhan Omar doubles down on ‘real name’ when confronted at Mall of Somalia - Fox News
-- Father who killed Oregon school shooter speaks out for first time: ‘I have to go in’ - The Guardian
-- DOJ charges two former top FBI officials who were frequent targets of Trump allies - NBC News
+- EXCLUSIVE: US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say - Reuters
+- Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say - The New York Times
 - Vivek Ramaswamy defends ad featuring Amy Acton's estranged mother - PBS
-- Mississippi police officer who shot and killed 1-year-old Kohen Wiley resigns after being cleared by state - CBS News
-- US ambassador softens accusations of Canadian interference in midterms - Politico
+- White House lifts tariffs on some Canadian goods as midterm elections loom - BBC
+- Father who killed Oregon school shooter speaks out for first time: ‘I have to go in’ - The Guardian
+- Paris to shut down the Louvre, other tourist attractions over fears of violent Saturday protests - New York Post
+- Campaigns, attorneys weigh in on Trump’s DOJ suit to block election results if Sen. Sullivan loses - Anchorage Daily News
+- Justice Dept. Demands That California Counties Help Identify Noncitizen Voters - The New York Times
+- Melania Trump brokers a ceasefire deal in Russian-occupied Ukrainian city to get relief aid in - AP News
 - Trump again invokes claim he has the ‘right’ to run for third term as president - The Guardian
-- Deadly shooting near Paris is a 'racist terrorist attack', Macron says - BBC
-- France Plans to Bolster Police Presence, Expecting New Protests - The New York Times
-- Ebola: Kenya records second death as 65-year-old woman succumbs - Daily Nation
+- Suspect arrested as Hitler's Eagle's Nest, the Kehlsteinhaus, catches fire - DW.com
 - Attack in the West Bank kills 2 Israeli soldiers, and other Mideast news - AP News
+- Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says - Al Jazeera
+- Several killed, dozens wounded in Jordan church shooting - France 24
 - Wall Street closes lower to end rocky week - Reuters
-- Global Oil Price Hits $116 a Barrel, Highest Since April - The New York Times
-- AI agents are roaming around consumers' bank accounts, and banks aren't happy about it - CBS News
-- Nvidia Stock’s 2 Critical Flaws and More Reasons an Analyst Says Sell - Barron's
+- AI Hacks Are Coming Thick and Fast and Overwhelming the Internet - WSJ
+- Argentinian judge drops fraud investigation into Milei over crypto scandal - Al Jazeera
+- Moderna mRNA vaccine almost halves the risk of skin cancer returning - Nature
 - Apple Store Pickup for iPhone Duo Starting to Resume But Very Limited - MacRumors
-- Xbox’s first chief operating officer is out after just a few months - The Verge
+- Uh-oh: iPhone Duo displays are reportedly cracking along the hinge on launch day - Mashable
