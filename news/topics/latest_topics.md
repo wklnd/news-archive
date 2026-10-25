@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-25 21:52_
+_Updated: 2026-10-26 00:44_
 
 ## Top Stories
 
-- Vallokaler öppna i Brasilien – Lula mot Bolsonaro - Hufvudstadsbladet – HBL
-- DN Direkt – SMHI varnar igen – nya stormvindar på väg - Dagens Nyheter
-- Uppgifter: Misstänkt könsstympning – åtta gripna - Aftonbladet
-- Tobias Heintz ilska – blev utbytt mot Gais: ”Var inte jättenöjd” - Göteborgs-Posten
+- Efter två år av protester – många röstar i Serbien - Västerbottens-Kuriren
+- Både da Silva och Bolsonaro begär förlängd röstningstid - SVT Nyheter
+- Fyra tonåringar misstänks för dödsskjutning: ”Många unga utförare” - Aftonbladet
 - Trump upprepar: Vill ha svenska invandrare - Västerbottens-Kuriren
-- Ministern höll hemliga möten med skogsindustrin - Aftonbladet
+- DN Direkt – Efter polisinsatsen – man misstänkt för grov misshandel - Dagens Nyheter
+- Så blir vädret på måndagen - Göteborgs-Posten
 - Forskaren varnar för skadedjuret – ökar rekordartat - Dagens Nyheter
+- 6,5 meter höga vågor vid Knolls grund - Aftonbladet
+- Flera tonåringar skadade efter brand i Borås kommun - SVT Nyheter
 - Han surfar i stormen: ”Kaoset är lite av njutningen” - Dagens Nyheter
-- Bråk om M-”nepo baby”: ”Sällsynt slaskigt” - Omni – Alla nyheter. Alla perspektiv.
-- Pojke begärs häktad för medhjälp till mord i Solberga - Åklagarmyndigheten
-- Efter två års protester – många röstar i Serbien - Dagens Nyheter
-- Peter Alestig: Bortglömt orange helvete visar hur världen har förändrats - Dagens Nyheter
-- Kung Charles kommer inte att be om ursäkt för slaveriet - Dagens Nyheter
 - Många fördrivna i militärinsats på Västbanken - Hufvudstadsbladet – HBL
-- Möbeljätte stoppar kudde – tvist om psalmcitat - Corren
-- ”Kungen av Rinkebys” uppgång och fall - Dagens Nyheter
+- Zelenskyj: Ryssland har attackerat med tusentals drönare och bomber - DI
+- Ryssland: ”Massiv” attack mot Belgorod - Corren
+- Musk: Ukraina bröt mot Starlinks regler - Hufvudstadsbladet – HBL
 - Adam Cwejman Europas bilkris är också Göteborgs - Göteborgs-Posten
-- Så agerar du rätt vid vattenplaning - Dagens Nyheter
-- Låg gömd i en låda i 100 år: Forskare hittar gammal fossil – avslöjar mystisk varelse som vi inte har känt till tidigare - Illustrerad Vetenskap
+- DN Direkt – Oljepriset sjunker när handeln öppnat - Dagens Nyheter
+- ”Kungen av Rinkebys” uppgång och fall - Dagens Nyheter
+- Linnéa, 24, köpte julkalender – upptäckte bisarra missen - Aftonbladet
 - Hjärnforskaren: Jag har ändrat mig om barns skärmtid - UNT
+- Apple uppges testa Iphone Duo med Face ID - Mobil
 
 ## World News
 
@@ -36,24 +36,24 @@ _Updated: 2026-10-25 21:52_
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Ännu en gripen i global knarkhärva - Aftonbladet
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - CRM- och Digital Engagement-specialist till liten men global hållbarhetsorganisation, Stockholm - Dagens Media
+- Påve Leo XIV har hittat akilleshälen hos Trump - Kvartal
 - Tests in Italy, Spain come back negative in global hunt for hantavirus - Reuters
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Ögonblick vi minns från Global Series i Sverige - NHL.com
 
 ## Technology
 
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Data Centre Expo Sweden - Mynewsdesk
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - Timnit Gebru - Right Livelihood
@@ -125,18 +125,18 @@ _Updated: 2026-10-25 21:52_
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskningen ska vara fri - European Commission
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskningen ska vara fri - European Commission
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Andrea del Valle - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 
 ## Jordbruk
