@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-25 07:17_
+_Updated: 2026-10-25 12:08_
 
-- Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats - Al Jazeera
-- A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War - The New York Times
-- Musk says he was behind Starlink’s slowdown in Ukraine - The Hill
-- Almost 1,000 arrested as clashes follow another day of mass protests across France - BBC
-- Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification - CNBC
+- 12 injured, including several minors, in shooting near Florida A&M University stadium - NBC News
+- Ramaswamy ad puts Acton’s estranged mother in spotlight as records reveal family’s troubled past - NBC News
 - Trump in Georgia, Michigan this weekend ahead of 2026 midterm elections - Fox News
-- ‘There were ones I didn’t save’: Oregon man who killed school shooter says he has regrets - FOX 8 News
-- California leader calls attack on alleged noncitizen voting ‘weaponizing the law’ - The Guardian
-- Former President Barack Obama tells Detroit 'change is in the air' - The Detroit News
-- Alabama man says he found wife with a self-inflicted gunshot to the head. Security cameras tell another story. - CBS News
-- 7 dead, 40 wounded in Jordan church funeral shooting - AL.com
-- Palestinian families displaced as Israeli forces demolish Hebron homes - BBC
-- Trump and Rubio escalate rhetoric on possible Cuba action - USA Today
-- UK police says letter with claims against Meghan's father was not shared with other law enforcement - AP News
-- Trump Announces Audi’s First-Ever U.S. Factory in Georgia as Tariffs Bite - WSJ
-- Here's the 'core economic flaw' in the AI bull case as stock and bond trades unravel, according to a top economist - Fortune
-- Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns - NBC News
+- Almost 1,000 arrested as clashes follow another day of mass protests across France - BBC
+- In first midterm rallies, Obama assails Trump administration - The Washington Post
+- Musk says he was behind Starlink speed restriction after service in Ukraine is restored - The Seattle Times
+- In Tennessee, a man's murder and his wife's death feed into the local legend of a "cursed" mansion - CBS News
+- Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’ - The Guardian
+- Trump Prepares for Iran Escalation After US, Israeli Elections - Bloomberg.com
+- Democrats ask judge to dismiss Trump administration’s challenge to Alaska Senate race - NBC News
+- Kim Jong Un Makes Surprise Trip to China, Crosses New Bridge - WSJ
+- Jordan’s King Abdullah orders firm response after deadly church attack - Al Jazeera
+- Soldiers guard center of Milan as thousands of protesters march in cities across Europe - NPR
+- Serbia votes as students seek to unseat Vucic in snap election - Reuters
+- Trump announces at a Georgia campaign rally that Audi will build a new auto factory in the state - AP News
 - The PHP developer who became the unsung hero of the internet - BBC
-- Apple's $2,000 foldable iPhone reportedly cracks within hours as owners report display failures - Notebookcheck
-- 'Arguably Better Than Face ID': the iPhone Duo Touch ID Tip to Try - MacRumors
+- Americans have never had more of their money in stocks — not even in the dot-com bubble: Chart of the Day - Yahoo Finance
+- Microsoft Q1: A $744 Billion AI Reckoning Is Coming (NASDAQ:MSFT) - Seeking Alpha
+- Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display - 9to5Mac
+- Apple Store Pickup System for iPhone Duo Just Went Live Again in U.S. and Canada - MacRumors
