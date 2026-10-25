@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-25 12:08_
+_Updated: 2026-10-25 16:33_
 
-- 12 injured, including several minors, in shooting near Florida A&M University stadium - NBC News
+- Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms - Al Jazeera
+- Elon Musk says SpaceX closed Ukraine Starlink ‘loophole,’ while Kyiv denies breaching terms - NBC News
+- More than one million Lula supporters rally on eve of Brazilian election runoff - The Guardian
+- Iranians Face Anxious Wait as Threat of Attack Looms - The New York Times
 - Ramaswamy ad puts Acton’s estranged mother in spotlight as records reveal family’s troubled past - NBC News
-- Trump in Georgia, Michigan this weekend ahead of 2026 midterm elections - Fox News
-- Almost 1,000 arrested as clashes follow another day of mass protests across France - BBC
-- In first midterm rallies, Obama assails Trump administration - The Washington Post
-- Musk says he was behind Starlink speed restriction after service in Ukraine is restored - The Seattle Times
-- In Tennessee, a man's murder and his wife's death feed into the local legend of a "cursed" mansion - CBS News
-- Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’ - The Guardian
-- Trump Prepares for Iran Escalation After US, Israeli Elections - Bloomberg.com
+- 12 injured in mass shooting after Florida A&M homecoming game - USA Today
 - Democrats ask judge to dismiss Trump administration’s challenge to Alaska Senate race - NBC News
-- Kim Jong Un Makes Surprise Trip to China, Crosses New Bridge - WSJ
-- Jordan’s King Abdullah orders firm response after deadly church attack - Al Jazeera
-- Soldiers guard center of Milan as thousands of protesters march in cities across Europe - NPR
-- Serbia votes as students seek to unseat Vucic in snap election - Reuters
-- Trump announces at a Georgia campaign rally that Audi will build a new auto factory in the state - AP News
-- The PHP developer who became the unsung hero of the internet - BBC
-- Americans have never had more of their money in stocks — not even in the dot-com bubble: Chart of the Day - Yahoo Finance
-- Microsoft Q1: A $744 Billion AI Reckoning Is Coming (NASDAQ:MSFT) - Seeking Alpha
-- Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display - 9to5Mac
-- Apple Store Pickup System for iPhone Duo Just Went Live Again in U.S. and Canada - MacRumors
+- For years, relatives didn’t know their uncle had died. Later they learned a police officer allegedly stole his house and identity. - NBC News
+- Trump administration has pushed off 13% of Americans enrolled in food stamps - The Guardian
+- Republican billionaire Rick Jackson is walking a Trump tightrope in his quest to lead Georgia - AP News
+- Israeli elections: What are the possible outcomes? - Al Jazeera
+- Serbia election: Can student-led opposition end Aleksandar Vucic's grip on power? - DW.com
+- North Korea's Kim Jong Un touts ties, opens bridge with China on first trip in a year - CBS News
+- More than 1,300 arrested as clashes follow another day of mass protests across France - BBC
+- Trump announces Audi will build $4 billion factory in US state of Georgia - DW.com
+- Earnings playbook: Alphabet, Microsoft, Amazon and more report this week. Here's what to expect - CNBC
+- Home sellers are lowering their price and helping buyers to make a deal in a stagnant market - AP News
+- How Pepsi fell behind in the cola wars—and then lost KFC - Fortune
+- AV2 Video Codec Adoption Talked Up, SVT-AV2 Being Developed - Phoronix
+- Instagram Launches Apple TV App With Reels and More - MacRumors
