@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-25 02:31_
+_Updated: 2026-10-25 07:17_
 
-- Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail - The New York Times
+- Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats - Al Jazeera
+- A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War - The New York Times
+- Musk says he was behind Starlink’s slowdown in Ukraine - The Hill
 - Almost 1,000 arrested as clashes follow another day of mass protests across France - BBC
-- Musk says he was behind Starlink speed restriction after service in Ukraine is restored - AP News
 - Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification - CNBC
-- Bulldozers tear down home as Israel cracks down in the West Bank - NBC News
-- Melania Rewrites History in Shocking Snub of Pope - The Daily Beast
+- Trump in Georgia, Michigan this weekend ahead of 2026 midterm elections - Fox News
 - ‘There were ones I didn’t save’: Oregon man who killed school shooter says he has regrets - FOX 8 News
-- German man arrested for allegedly driving American teen girl to die by suicide, prosecutors say - CBS News
-- 'Once in a generation' flood event impacts San Juan County - KOAT
-- Vivek Ramaswamy campaign switches to shorter version of attack ad featuring Amy Acton’s estranged mother - NBC News
-- A fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A suspect is detained - AP News
+- California leader calls attack on alleged noncitizen voting ‘weaponizing the law’ - The Guardian
+- Former President Barack Obama tells Detroit 'change is in the air' - The Detroit News
+- Alabama man says he found wife with a self-inflicted gunshot to the head. Security cameras tell another story. - CBS News
 - 7 dead, 40 wounded in Jordan church funeral shooting - AL.com
-- Iran in ‘advanced stages’ of plots to kill U.S. officials abroad, memo warns - The Washington Post
-- U.K. police say they received letter with claims against Meghan's father, wasn't shared with other law enforcement - CBS News
+- Palestinian families displaced as Israeli forces demolish Hebron homes - BBC
+- Trump and Rubio escalate rhetoric on possible Cuba action - USA Today
+- UK police says letter with claims against Meghan's father was not shared with other law enforcement - AP News
+- Trump Announces Audi’s First-Ever U.S. Factory in Georgia as Tariffs Bite - WSJ
+- Here's the 'core economic flaw' in the AI bull case as stock and bond trades unravel, according to a top economist - Fortune
 - Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns - NBC News
-- In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges - The New York Times
-- Six Flags adding seat belts to Goliath rollercoaster following death - BBC
-- Trump set to announce Audi plan to build US factory in Georgia, source says - Reuters
-- iPhone Duo Fails JerryRigEverything's Dusty Durability Test - MacRumors
-- The AI graveyard: a running list of projects and startups that didn’t make it - TechCrunch
+- The PHP developer who became the unsung hero of the internet - BBC
+- Apple's $2,000 foldable iPhone reportedly cracks within hours as owners report display failures - Notebookcheck
+- 'Arguably Better Than Face ID': the iPhone Duo Touch ID Tip to Try - MacRumors
