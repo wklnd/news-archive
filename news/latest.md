@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-24 23:52_
+_Updated: 2026-10-25 02:31_
 
-- More than 400,000 protest across France, challenging Macron as Paris clashes erupt - AP News
-- Obama describes Trump as an agent of ‘chaos and cruelty’ in midterm elections pitch - NBC News
-- Ukraine says Starlink and Starshield high speed restrictions have been lifted - CNBC
-- In Second Term, Trump’s Justice Dept. Submits to His Election Demands - The New York Times
-- Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat - BBC
-- Election 2026: How Democrats could win the House, how Republicans could hold on - NBC News
-- An Oregon parent has never been prosecuted for a child’s mass shooting. Will Bend mom be first? - OregonLive.com
+- Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail - The New York Times
+- Almost 1,000 arrested as clashes follow another day of mass protests across France - BBC
+- Musk says he was behind Starlink speed restriction after service in Ukraine is restored - AP News
+- Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification - CNBC
+- Bulldozers tear down home as Israel cracks down in the West Bank - NBC News
+- Melania Rewrites History in Shocking Snub of Pope - The Daily Beast
+- ‘There were ones I didn’t save’: Oregon man who killed school shooter says he has regrets - FOX 8 News
 - German man arrested for allegedly driving American teen girl to die by suicide, prosecutors say - CBS News
+- 'Once in a generation' flood event impacts San Juan County - KOAT
 - Vivek Ramaswamy campaign switches to shorter version of attack ad featuring Amy Acton’s estranged mother - NBC News
-- Omar’s deleted tweet could give clue on alleged brother marriage - Fox News
-- Palestinian families displaced as Israeli forces demolish Hebron homes - BBC
+- A fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A suspect is detained - AP News
 - 7 dead, 40 wounded in Jordan church funeral shooting - AL.com
-- Is Iran planning attacks on Americans; why is the US on alert? - Al Jazeera
-- Rubio calls on Cubans seeking "positive change" to work with CIA: "Now is the time" - CBS News
+- Iran in ‘advanced stages’ of plots to kill U.S. officials abroad, memo warns - The Washington Post
+- U.K. police say they received letter with claims against Meghan's father, wasn't shared with other law enforcement - CBS News
 - Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns - NBC News
+- In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges - The New York Times
 - Six Flags adding seat belts to Goliath rollercoaster following death - BBC
-- Mark Zuckerberg’s deal to stay in California cheered by wealth tax campaign - Financial Times
-- The PHP Meltdown Shows How AI Makes Bugs More Exploitable - WIRED
+- Trump set to announce Audi plan to build US factory in Georgia, source says - Reuters
+- iPhone Duo Fails JerryRigEverything's Dusty Durability Test - MacRumors
 - The AI graveyard: a running list of projects and startups that didn’t make it - TechCrunch
-- What to expect from Apple’s ‘Pro and tell’ event - The Verge
