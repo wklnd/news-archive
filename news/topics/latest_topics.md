@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-25 03:30_
+_Updated: 2026-10-25 08:36_
 
 ## Top Stories
 
-- Flera varningar för ovädret Boelo - Aftonbladet
-- Israelisk insats på Västbanken – familjer körs bort - Dagens Nyheter
-- Ukraina har ”stabil” Starlink-uppkoppling igen - Västerbottens-Kuriren
-- Stora protester väntas i Frankrike – 70 000 poliser involverade - Göteborgs-Posten
-- Svenskt ölkoncentrat kan bli revolutionerande - Omni – Alla nyheter. Alla perspektiv.
-- En man död efter skjutning i Bagarmossen - Mitt i
-- 24 oktober 14.00, Försvunnen person, Karlsborg - polisen.se
+- Nu drar stormen in över Sverige – flera gula varningar - SVT Nyheter
+- Stänger övergångar till Västbanken - Göteborgs-Posten
+- DN Direkt – Ovanligt jämnt inför ödesvalet i Brasilien - Dagens Nyheter
+- Musk: Ukraina bröt mot Starlinks regler - Göteborgs-Posten
+- Vännen om Saba: "Såg fram emot att fylla 25" - Mitt i
+- Väljare i Serbien: Första gången jag känner hopp - Västerbottens-Kuriren
+- Forskare söker svar om sportfiskets baksidor - Dagens Nyheter
 - Dags att ställa om – och övergå till vintertid - Corren
-- Singelolycka orsakar stopp på väg 55 - Katrineholms-Kuriren
+- Ingen gripen efter dödsskjutning i Stockholm - Västerbottens-Kuriren
 - Tonåring livshotande skadad efter Boråsbrand - Göteborgs-Posten
 - Tusentals demonstrerar inför ödesval i Israel - Göteborgs-Posten
+- Polis skjuter tårgas i flera franska städer - Västerbottens-Kuriren
 - Nya dödliga attacker i Jemen - Göteborgs-Posten
-- Skjutning utanför Paris: ”Rasistiskt terrordåd” - SVT Nyheter
-- Ukraina: Över 19 000 civila dödsoffer - Västerbottens-Kuriren
+- Han kan tippa senaten: ”Inte sett sedan Obama” - Corren
+- Adam Cwejman Europas bilkris är också Göteborgs - Göteborgs-Posten
+- Tillfälligt andrum för Frankrikes pressade styre - DI
 - Nyköpings kommun stängde ner system efter globalt it-larm - SN, Södermanlands Nyheter
-- Ingenjörsstudenter oroas av Volvo Cars besked - Omni – Alla nyheter. Alla perspektiv.
-- SBB kallar till ny extrastämma om D-aktien - Fastighetsnytt
-- Kyrka betalar offer för sexövergrepp - Svenska Dagbladet
-- Studie: Inte bara skärmtiden som avgör risken - Corren
+- Kraftiga kostnadsökningar för värme, el, vatten och avfall - Lysekilsposten
+- Uppgraderingsdags? Så stor är skillnaden mellan RTX 5080 och 3080 i Control Resonant - FZ.se
 - Nerlagda "Mass Effect" såg otroligt ut - enligt en som spelat - MovieZine
 
 ## World News
@@ -38,8 +38,8 @@ _Updated: 2026-10-25 03:30_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Ännu en gripen i global knarkhärva - Aftonbladet
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - CRM- och Digital Engagement-specialist till liten men global hållbarhetsorganisation, Stockholm - Dagens Media
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - Iranian foreign minister says negotiations with U.S. may be off the table - PBS
 - Global coal demand forecast to rise by 1.2% in 2026 to a record 8.94 billion tonnes due to Middle East conflict, IEA says - Reuters
@@ -98,14 +98,24 @@ _Updated: 2026-10-25 03:30_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Låt oss prata hälsa – Hjärt- och kärlsjukdomar – Segment 2 - Apollo Hospitals
+- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Faith Medical Camp Uganda | Under ytan #3 - YouTube
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Vi presenterar HealthBench - OpenAI
+- Flexibel kapacitetsökning i katastrofer och allvarliga händelser - Göteborgs universitet
+- E-hälsa inom EU - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
+- Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 
 ## Science
 
@@ -118,6 +128,7 @@ _Updated: 2026-10-25 03:30_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningen ska vara fri - European Commission
+- Forskningsutvärdering med kvalitet i fokus - Jönköping University
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Andrea del Valle - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
@@ -125,19 +136,18 @@ _Updated: 2026-10-25 03:30_
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Årets tio största vetenskapliga genombrott - Dagens Nyheter
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - De blev grönsaksodlare tack vare lokalt stöd - Land.se
 - Jordbrukspolitik - Naturvårdsverket
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
@@ -150,5 +160,5 @@ _Updated: 2026-10-25 03:30_
 - Driva lantbruk i Ryssland är ingen promenad i parken - ATL
 - Visning av uppkomst efter direktsådd - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Markbristen: EUs unga bönders största utmaning - Land.se
