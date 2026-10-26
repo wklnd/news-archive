@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-26 03:30_
+_Updated: 2026-10-26 08:45_
 
 ## Top Stories
 
-- Historisk Lula vinner valet i Brasilien - Göteborgs-Posten
+- Henrik Brandão Jönsson: Högernationalisterna föll på eget grepp - Dagens Nyheter
+- Så blir vädret på måndagen - Göteborgs-Posten
 - Efter två år av protester – många röstar i Serbien - Västerbottens-Kuriren
-- Efter skjutningarna: ”Risk för eskalering” - Svenska Dagbladet
+- Försvaret ska lära av företag: ”Inte friåkning” - Svenska Dagbladet
+- DN Direkt – Tre gripna efter attack mot kyrka i Jordanien - Dagens Nyheter
+- Ytterligare 27 000 kalkoner ska avlivas i Danmark - Göteborgs-Posten
+- Stora skillnader i vård vid könsdysfori – Göteborg sticker ut - Dagens Nyheter
+- Fem vanliga myter om livslängd och longevity - Dagens Nyheter
+- Flera barn togs om hand - UNT
+- Fler söker yrkesprogram för femte året i rad - Vi Lärare
+- Ödesval i Israel – oväntad grupp kan avgöra - Västerbottens-Kuriren
 - Senatsvalen som Trump fruktar - Dagens Arena
-- DN Direkt – Bussolycka i Katalonien – 80 skadade - Dagens Nyheter
-- Tonårsflicka häktas efter mordet i Älvsjö - Västerbotten | Folkbladet
-- DN Direkt – Efter polisinsatsen – man misstänkt för grov misshandel - Dagens Nyheter
-- Nu drar stormen in över Sverige – flera gula varningar - SVT Nyheter
-- Ambulanserna räckte inte till för alla brandoffer - Göteborgs-Posten
-- Damberg (S): ”Nästan omöjligt” med gemensam rödgrön budget innan deadline – Senaste nytt om valet 2026 - SVT Nyheter
-- Zelenskyj: Ryssland har attackerat med tusentals drönare och bomber - DI
-- Många fördrivna i militärinsats på Västbanken - Hufvudstadsbladet – HBL
-- Polis skjuter tårgas i flera franska städer - Västerbottens-Kuriren
-- Ryssland: ”Massiv” attack mot Belgorod - Corren
-- Adam Cwejman Europas bilkris är också Göteborgs - Göteborgs-Posten
-- Oljepriset sjunker något när handeln öppnat - Västerbottens-Kuriren
-- Linnéa, 24, köpte julkalender – upptäckte bisarra missen - Aftonbladet
-- Kinas tvärvändning slår hårt mot Europas lyxjättar – 2 800 miljarder borta - Börskollen
-- Studie: Inte bara skärmtiden som avgör risken - PT.se
+- Trump mötte Magafolket på hemmaplan i Michigan - Dagens Nyheter
+- Saudiarabien: Skjutit ned robot - Corren
+- Pareto Securities sänker riktkursen för Diös till 75 kronor (80), upprepar köp - Placera.se
+- Experternas tips: Fem aktier att köpa efter börsrasen - EFN
+- Dagens industri upprepar köpråd för Kinnevik trots kursras - Börsvärlden
+- Audi bygger sin första fabrik i USA – Trump tar år sig äran - DI
+- Studie: Inte bara skärmtiden som avgör risken - Corren
 - Recension av Phantom Blade Zero läcker före lanseringsdatumet och påpekar att striderna är repetitiva - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
 - Volvo Cars reports Q3 2026 sales - Volvo
-- Två fina priser till NTM i årets INMA Global Awards - NTM
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Två fina priser till NTM i årets INMA Global Awards - NTM
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
-- CRM- och Digital Engagement-specialist till liten men global hållbarhetsorganisation, Stockholm - Dagens Media
-- Påve Leo XIV har hittat akilleshälen hos Trump - Kvartal
 - Tests in Italy, Spain come back negative in global hunt for hantavirus - Reuters
+- International Media Recognize FOTILE's Next-Generation In-Sink Dishwasher During Global HQ Tour (PR Newswire) - Aktiellt
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
+- Alibaba accelererar global utbyggnad av AI-datacenter (Finwire News) - Aktiellt
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
 
@@ -67,24 +67,24 @@ _Updated: 2026-10-26 03:30_
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Svenska företag riskerar tappa i AI-racet - Techarenan News
 - Warum Künstliche Intelligenz-Modelle kein Bewusstsein haben können - Xpert.Digital - Konrad Wolfenstein
+- Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - ”AI:s gudfader” varnar – men ”AI:s fader” inte rädd - Omni – Alla nyheter. Alla perspektiv.
-- Verkörperte Künstliche Intelligenz (Embodied AI) - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
 - Framtidens värdeskapande kräver resiliens - EY
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -112,9 +112,9 @@ _Updated: 2026-10-26 03:30_
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
+- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 
 ## Science
 
@@ -131,13 +131,13 @@ _Updated: 2026-10-26 03:30_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Andrea del Valle - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 
 ## Jordbruk
 
@@ -152,12 +152,12 @@ _Updated: 2026-10-26 03:30_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - De gick från reko till eko - ST-tidningen
+- Sorseles sista mjölkgård till salu - Lokaltidningen
 - Här är världens största jordbruk - ATL
 - Kan agroekologi mätta världen? - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Driva lantbruk i Ryssland är ingen promenad i parken - ATL
-- Visning av uppkomst efter direktsådd - Land.se
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Markbristen: EUs unga bönders största utmaning - Land.se
