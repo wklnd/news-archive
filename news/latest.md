@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-26 16:33_
+_Updated: 2026-10-26 22:08_
 
-- Stocks rise to start the week as tech shares gain on Anthropic IPO enthusiasm: Live updates - CNBC
-- Brazil heads back to the future as Flavio Bolsonaro refuses to recognize Lula win - Reuters
-- Trump escalates anti-Muslim attacks against El-Sayed in Michigan - NPR
-- What to know about the Israeli elections as Netanyahu faces a battle for survival - NBC News
+- Brazil election: Lula wins fourth term in dramatic comeback over Bolsonaro - BBC
+- Judge says DOJ illegally fired the daughter of former FBI director Comey - NPR
+- Trump calls Bill Maher a ‘total loser’ in 1,300-word Truth Social rant - The Guardian
 - ‘Pull Out the Sick Trees’: Xi’s Constant Purges Pave Way for Next Term - The New York Times
-- US has plans for major Iran strikes if Trump chooses - CNN
-- 12 injured, including 6 children, in shooting near Florida A&M University; 15-year-old arrested - CBS News
-- Spurned by Trump, these outgoing Republicans aren’t helping their potential successors - Politico
-- In his own words: Trump on gas prices and energy costs since launching the war with Iran - AP News
-- Data centre backlash grows ahead of US midterms - here's what you need to know - BBC
+- 2026 Midterms: Trump attacks El-Sayed, DOJ defends Alaska lawsuit - Fox News
+- Police arrest a 15-year-old in shooting near Florida A&M stadium that injured 12 - NBC News
+- Catholic leaders distance themselves from Trump after Oval Office prayer video - Politico
+- Exclusive: Democrats lay groundwork to probe Trump's diesel deal - Axios
+- Swing State Republican in a Razor-Thin Race Tries to Outrun Trump - The New York Times
+- No risk of ammonia contamination, officials say, after fire at Oregon seafood plant prompted evacuations - NBC News
+- Israel's elections are wide open. Here's what could decide Netanyahu's political fate. - CBS News
+- Egypt approves military support for Saudi Arabia after Houthi attacks escalate - Reuters
+- Serbia’s Election Shows New Vulnerability for Nationalist Populists - The New York Times
 - Australian judge rejects prisoner's human rights challenge to Vegemite ban - NPR
-- Netanyahu pushed for Iran strike before election but Trump refused, CNN says - The Times of Israel
-- Japanese prosecutors charge US marine suspected of robbing and killing woman - The Guardian
-- Aleksandar Vucic, Serbia’s autocrat, loses to a bunch of students - The Economist
-- SpaceX's Elon Musk reveals $40 billion in debt for AI chips, warns of neoclouds - Yahoo Finance
-- Trump failed to stop inflation. Now Republicans may pay the price in the midterm elections - AP News
-- Fed to hit pause on rate hikes, but maybe not for long - Reuters
-- Stock Market Today: Dow Rises As Oil Prices Fall; Tesla Shares Rally On This Brokerage's Upgrade (Live Coverage) - Investor's Business Daily
-- Apple updates the iPad Mini with a larger OLED display - The Verge
-- Hinge damage suspected to be behind iPhone Duo screen cracks - AppleInsider
+- Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI - AP News
+- Microsoft offers buyouts to 60,000 workers as it pours money into AI - CBS News
+- FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers - CNBC
+- Stock market today: Dow, S&P 500, Nasdaq rally as investors parse Anthropic IPO filing, busy week of tech earnings - Yahoo Finance
+- Apple’s Foldable iPhone Duo Draws Early Complaints of the Screen Cracking - Yahoo Finance
+- Apple unveils new iPad mini with OLED display and faster A20 Pro chip - TechCrunch
