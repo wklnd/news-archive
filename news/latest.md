@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-26 08:59_
+_Updated: 2026-10-26 16:33_
 
-- Brazil election: Lula wins runoff vote but Bolsonaro rejects results - as it happened - Reuters
-- Trump calls El-Sayed a ‘jihadist’ as he escalates campaign rhetoric - The Washington Post
-- Opposition leader María Machado returns to Venezuela - BBC
-- Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses - NPR
-- Appeals Court Appears to Doubt Justice Dept. Claims in California Ballot Case - The New York Times
-- Deeply divided Israel braces for pivotal election - BBC
-- More flooding in Four Corners region after storms bring heavy rain and at least one tornado - AP News
-- Level 3 evacuation issued near Newport Bayfront due to fire - KATU
-- Mamdani Struggles to Get a Handle on Homeless Encampments - WSJ
-- Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign - PBS
-- Belgrade in rapture as Serbian students topple Vucic in historic election - Reuters
-- Saudi Arabia intercepts missiles and drones as fighting with Houthis rages - Al Jazeera
-- Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders - The Guardian
-- In pictures: Protests over inequality, rising living costs turn violent across France - CNBC
-- Stocks trade warily in Asia, Brent off six-month top - Reuters
-- Musk Claims SpaceX Closed $40 Billion Debt Deal for AI Chips - Bloomberg.com
-- Japanese companies compensate users as cyberattacks buffet economy - Reuters
-- Earnings playbook: Alphabet, Microsoft, Amazon and more report this week. Here's what to expect - CNBC
+- Stocks rise to start the week as tech shares gain on Anthropic IPO enthusiasm: Live updates - CNBC
+- Brazil heads back to the future as Flavio Bolsonaro refuses to recognize Lula win - Reuters
+- Trump escalates anti-Muslim attacks against El-Sayed in Michigan - NPR
+- What to know about the Israeli elections as Netanyahu faces a battle for survival - NBC News
+- ‘Pull Out the Sick Trees’: Xi’s Constant Purges Pave Way for Next Term - The New York Times
+- US has plans for major Iran strikes if Trump chooses - CNN
+- 12 injured, including 6 children, in shooting near Florida A&M University; 15-year-old arrested - CBS News
+- Spurned by Trump, these outgoing Republicans aren’t helping their potential successors - Politico
+- In his own words: Trump on gas prices and energy costs since launching the war with Iran - AP News
+- Data centre backlash grows ahead of US midterms - here's what you need to know - BBC
+- Australian judge rejects prisoner's human rights challenge to Vegemite ban - NPR
+- Netanyahu pushed for Iran strike before election but Trump refused, CNN says - The Times of Israel
+- Japanese prosecutors charge US marine suspected of robbing and killing woman - The Guardian
+- Aleksandar Vucic, Serbia’s autocrat, loses to a bunch of students - The Economist
+- SpaceX's Elon Musk reveals $40 billion in debt for AI chips, warns of neoclouds - Yahoo Finance
+- Trump failed to stop inflation. Now Republicans may pay the price in the midterm elections - AP News
+- Fed to hit pause on rate hikes, but maybe not for long - Reuters
+- Stock Market Today: Dow Rises As Oil Prices Fall; Tesla Shares Rally On This Brokerage's Upgrade (Live Coverage) - Investor's Business Daily
+- Apple updates the iPad Mini with a larger OLED display - The Verge
 - Hinge damage suspected to be behind iPhone Duo screen cracks - AppleInsider
-- Apple to Unveil Touch MacBook Pro After Two Decades of Resistance - Bloomberg.com
