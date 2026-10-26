@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-26 22:03_
+_Updated: 2026-10-27 01:59_
 
 ## Top Stories
 
-- Grannarna till skönhetssalongen: ”Folk sent på nätterna” - Aftonbladet
-- Efter garagebrand: Barn inte längre livshotande skadat - Västerbottens-Kuriren
-- C-ledaren: Ingen majoritet för mittenregering - Göteborgs-Posten
-- 26 oktober 18.16, Trafikolycka, Lund - polisen.se
-- Vänsterpartiets Mohamed Ali om skulderna: ”Jag var helt ärlig” - Dagens Nyheter
-- DN Direkt – Börsens svar på Lulas vinst: Rasar 16 procent - Dagens Nyheter
-- Ingen regering i sikte – detta har hänt sedan valet - Göteborgs-Posten
-- Vattenläcka skakar Orkla – kan behöva prioritera om - Food Supply SE
-- Man döms för sju våldtäkter mot flickan - Corren
-- Bilbrand på E6 i höjd med Lomma stoppade trafiken - SVT Nyheter
+- Flera unga skadades i garage­brand i Borås – kristna erbjuder stöd - Världen idag
+- Åklagaren: Målsägande i Uppsala är pojkar - TV4 Nyheterna
+- Dödliga planen för Trump: ”Sker inom 96 timmar” - Expressen
 - Anita Goldman: Gränslösheten är Israels grundproblem - Dagens Nyheter
-- Israel anklagas för ”utrotning” på Västbanken - Corren
-- DN Direkt – De ställs Sverige mot i volleyboll-VM - Dagens Nyheter
+- Kvinna död – blev påkörd av buss - Aftonbladet
+- Börsens svar på Lulas vinst: Rasade 14 procent - Corren
+- Tomas Ramberg: Nu har både C och V tröttnat på Andersson - Dagens Nyheter
+- Felskjutning bland utredningsspåren efter mordet i Bagarmossen - SVT Nyheter
+- SMHI varnar – stormen slår till igen - Göteborgs-Posten
+- Olycka på E18 – bil har voltat - SVT Nyheter
 - Direkt – Kriget i Ukraina – Putin möter Irans och Qatars ledare i Moskva - Dagens Nyheter
-- Därför sker Anthropics notering nu | Björn Jeffery - Svenska Dagbladet
-- Meta planerar kapitalanskaffning på upp till 945 miljarder för AI-satsningar - Placera.se
-- Dold faktor kan bidra till prisrallyt på bostäder - Dagens Nyheter
-- Uppgång på Wall Street vid börsöppning - Affärsvärlden
-- ”Crackgate” knäcker upplevelsen – därför pajar nya Iphone Duo - nyteknik
+- Tidigare FBI-chef åtalas – igen - Västerbottens-Kuriren
+- Israel anklagas för ”utrotning” på Västbanken - Corren
+- Serbien i chock efter valet: ”Var extatiskt” - Göteborgs-Posten
+- Jätten till börsen: ”Ny fas för AI-bolagen” - Dagens Nyheter
+- Microsoft erbjuder 60 000 anställda avgångsvederlag - Placera.se
+- Meta vill ta in 950 miljarder för AI-investeringar - Omni – Alla nyheter. Alla perspektiv.
+- (+) Stena köper Color Line i nordisk färjejätteaffär - Sjöfartstidningen
+- iFixit plockar isär iPhone Duo och ger den högsta reparationspoängen hittills för en vikbar mobil - TechRadar
 - Stjärnhästen startade på V85 – med hjärtfel - Aftonbladet
 
 ## World News
@@ -32,20 +32,20 @@ _Updated: 2026-10-26 22:03_
 - FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Två fina priser till NTM i årets INMA Global Awards - NTM
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - International Media Recognize FOTILE's Next-Generation In-Sink Dishwasher During Global HQ Tour (PR Newswire) - Aktiellt
-- Tests in Italy, Spain come back negative in global hunt for hantavirus - Reuters
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
 
 ## Technology
@@ -54,44 +54,35 @@ _Updated: 2026-10-26 22:03_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Data Centre Expo Sweden - Mynewsdesk
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- Timnit Gebru - Right Livelihood
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
+- Timnit Gebru - Right Livelihood
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- 290 million for digitalisation of Swedish industry - Vinnova
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- 290 million for digitalisation of Swedish industry - Vinnova
 - Konstgjord intelligens inom medicin och utbildning: blir läkare och lärare överflödiga? Hur AI förändrar yrken - Xpert.Digital - Konrad Wolfenstein
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
 - Svenska företag riskerar tappa i AI-racet - Techarenan News
-- Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - ”AI:s gudfader” varnar – men ”AI:s fader” inte rädd - Omni – Alla nyheter. Alla perspektiv.
 - Warum Künstliche Intelligenz-Modelle kein Bewusstsein haben können - Xpert.Digital - Konrad Wolfenstein
+- Verkörperte Künstliche Intelligenz (Embodied AI) - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
-- Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
-- Framtidens värdeskapande kräver resiliens - EY
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
+- What are BIN sponsorships and how do they drive the digital economy - Mastercard
+- Organon lanserar ett nytt företag för kvinnohälsa - Via TT
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Accure och Basware satsar stort på e-faktura - Mynewsdesk
-- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
 
@@ -118,26 +109,14 @@ _Updated: 2026-10-26 22:03_
 
 ## Science
 
-- Öppen vetenskap vid SLU - SLU
-- NVIDIA tillkännager femårigt engagemang för amerikansk vetenskaplig forskning - Unite.AI
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Google investerar i Zuckerbergs Biohub. Ska utveckla dataset för biologisk forskning. - Feber
-- Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskningen ska vara fri - European Commission
-- 5 myter om öppen vetenskap - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Andrea del Valle - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Täta band mellan turism och forskning på Svalbard - SLU
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
+- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
 
 ## Jordbruk
 
