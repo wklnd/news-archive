@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-26 16:28_
+_Updated: 2026-10-26 22:03_
 
 ## Top Stories
 
-- DN Direkt – C-ledaren: ”Ingen majoritet för en mittenregering” - Dagens Nyheter
-- EU öppnar dörren för Serbien efter studentrörelsens seger - Europaportalen
-- Nova, 17, spelade in familjehemspappan – nu döms han till fängelse - Aftonbladet
-- DN Direkt – Kran riskerar att rasa i centrala Oslo - Dagens Nyheter
-- En person häktad för grov mordbrand i samband med mordet i Älvsjö - SVT Nyheter
-- En man anhållen efter stor polisinsats i Uppsala - Göteborgs-Posten
-- Barn som vårdas på US efter brand inte längre livshotande skadat - Corren
+- Grannarna till skönhetssalongen: ”Folk sent på nätterna” - Aftonbladet
+- Efter garagebrand: Barn inte längre livshotande skadat - Västerbottens-Kuriren
+- C-ledaren: Ingen majoritet för mittenregering - Göteborgs-Posten
+- 26 oktober 18.16, Trafikolycka, Lund - polisen.se
+- Vänsterpartiets Mohamed Ali om skulderna: ”Jag var helt ärlig” - Dagens Nyheter
+- DN Direkt – Börsens svar på Lulas vinst: Rasar 16 procent - Dagens Nyheter
 - Ingen regering i sikte – detta har hänt sedan valet - Göteborgs-Posten
-- Misshandlade sina barn – döms till fängelse - SVT Nyheter
-- Organisationer varnar för könsidentitetsmottagningen i Göteborg - Dagens Nyheter
-- Ryssland: Kriget fortsätter trots samtalsplan - Västerbottens-Kuriren
-- Henrik Brandão Jönsson: Högernationalisterna föll på eget grepp - Dagens Nyheter
+- Vattenläcka skakar Orkla – kan behöva prioritera om - Food Supply SE
+- Man döms för sju våldtäkter mot flickan - Corren
+- Bilbrand på E6 i höjd med Lomma stoppade trafiken - SVT Nyheter
 - Anita Goldman: Gränslösheten är Israels grundproblem - Dagens Nyheter
-- Mellanårsvalet i USA: Här är delstaterna som kan avgöra Trumps öde - Göteborgs-Posten
+- Israel anklagas för ”utrotning” på Västbanken - Corren
+- DN Direkt – De ställs Sverige mot i volleyboll-VM - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Putin möter Irans och Qatars ledare i Moskva - Dagens Nyheter
+- Därför sker Anthropics notering nu | Björn Jeffery - Svenska Dagbladet
 - Meta planerar kapitalanskaffning på upp till 945 miljarder för AI-satsningar - Placera.se
-- Anthropic ansöker om börsnotering - Svenska Dagbladet
-- Inderes sänker Saab till minska – höjer riktkursen - Affärsvärlden
-- Wall Street lyfter i öppningen – AI-bolag i täten - Privata Affärer
-- 14 dagar och tre jätteraketer: ”Något som Nasa aldrig tidigare har försökt” - nyteknik
-- iFixit plockar isär iPhone Duo och ger den högsta reparationspoängen hittills för en vikbar mobil - TechRadar
+- Dold faktor kan bidra till prisrallyt på bostäder - Dagens Nyheter
+- Uppgång på Wall Street vid börsöppning - Affärsvärlden
+- ”Crackgate” knäcker upplevelsen – därför pajar nya Iphone Duo - nyteknik
+- Stjärnhästen startade på V85 – med hjärtfel - Aftonbladet
 
 ## World News
 
@@ -31,45 +31,45 @@ _Updated: 2026-10-26 16:28_
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Två fina priser till NTM i årets INMA Global Awards - NTM
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Två fina priser till NTM i årets INMA Global Awards - NTM
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - International Media Recognize FOTILE's Next-Generation In-Sink Dishwasher During Global HQ Tour (PR Newswire) - Aktiellt
+- Tests in Italy, Spain come back negative in global hunt for hantavirus - Reuters
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Bildextra: NHL Global series med Icelandair - travelnews-se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Data Centre Expo Sweden - Mynewsdesk
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - Timnit Gebru - Right Livelihood
+- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - 290 million for digitalisation of Swedish industry - Vinnova
+- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
+- Konstgjord intelligens inom medicin och utbildning: blir läkare och lärare överflödiga? Hur AI förändrar yrken - Xpert.Digital - Konrad Wolfenstein
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
 - Svenska företag riskerar tappa i AI-racet - Techarenan News
-- Warum Künstliche Intelligenz-Modelle kein Bewusstsein haben können - Xpert.Digital - Konrad Wolfenstein
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - ”AI:s gudfader” varnar – men ”AI:s fader” inte rädd - Omni – Alla nyheter. Alla perspektiv.
+- Warum Künstliche Intelligenz-Modelle kein Bewusstsein haben können - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -98,8 +98,8 @@ _Updated: 2026-10-26 16:28_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - Låt oss prata hälsa – Hjärt- och kärlsjukdomar – Segment 2 - Apollo Hospitals
+- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -125,39 +125,29 @@ _Updated: 2026-10-26 16:28_
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningen ska vara fri - European Commission
+- 5 myter om öppen vetenskap - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Andrea del Valle - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- 5 myter om öppen vetenskap - Läkartidningen
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 
 ## Jordbruk
 
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
-- Jordbrukspolitik - Naturvårdsverket
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Framtidens jordbruk - European Commission
+- Sveriges förändrade lantbruk - SLU
+- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Jordbruk och landsbygdsutveckling - European Commission
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- De gick från reko till eko - ST-tidningen
-- Sorseles sista mjölkgård till salu - Lokaltidningen
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Här är världens största jordbruk - ATL
-- Kan agroekologi mätta världen? - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Driva lantbruk i Ryssland är ingen promenad i parken - ATL
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Jord, kor och klimat - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- Markbristen: EUs unga bönders största utmaning - Land.se
