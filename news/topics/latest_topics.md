@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-26 00:44_
+_Updated: 2026-10-26 03:30_
 
 ## Top Stories
 
+- Historisk Lula vinner valet i Brasilien - Göteborgs-Posten
 - Efter två år av protester – många röstar i Serbien - Västerbottens-Kuriren
-- Både da Silva och Bolsonaro begär förlängd röstningstid - SVT Nyheter
-- Fyra tonåringar misstänks för dödsskjutning: ”Många unga utförare” - Aftonbladet
-- Trump upprepar: Vill ha svenska invandrare - Västerbottens-Kuriren
+- Efter skjutningarna: ”Risk för eskalering” - Svenska Dagbladet
+- Senatsvalen som Trump fruktar - Dagens Arena
+- DN Direkt – Bussolycka i Katalonien – 80 skadade - Dagens Nyheter
+- Tonårsflicka häktas efter mordet i Älvsjö - Västerbotten | Folkbladet
 - DN Direkt – Efter polisinsatsen – man misstänkt för grov misshandel - Dagens Nyheter
-- Så blir vädret på måndagen - Göteborgs-Posten
-- Forskaren varnar för skadedjuret – ökar rekordartat - Dagens Nyheter
-- 6,5 meter höga vågor vid Knolls grund - Aftonbladet
-- Flera tonåringar skadade efter brand i Borås kommun - SVT Nyheter
-- Han surfar i stormen: ”Kaoset är lite av njutningen” - Dagens Nyheter
-- Många fördrivna i militärinsats på Västbanken - Hufvudstadsbladet – HBL
+- Nu drar stormen in över Sverige – flera gula varningar - SVT Nyheter
+- Ambulanserna räckte inte till för alla brandoffer - Göteborgs-Posten
+- Damberg (S): ”Nästan omöjligt” med gemensam rödgrön budget innan deadline – Senaste nytt om valet 2026 - SVT Nyheter
 - Zelenskyj: Ryssland har attackerat med tusentals drönare och bomber - DI
+- Många fördrivna i militärinsats på Västbanken - Hufvudstadsbladet – HBL
+- Polis skjuter tårgas i flera franska städer - Västerbottens-Kuriren
 - Ryssland: ”Massiv” attack mot Belgorod - Corren
-- Musk: Ukraina bröt mot Starlinks regler - Hufvudstadsbladet – HBL
 - Adam Cwejman Europas bilkris är också Göteborgs - Göteborgs-Posten
-- DN Direkt – Oljepriset sjunker när handeln öppnat - Dagens Nyheter
-- ”Kungen av Rinkebys” uppgång och fall - Dagens Nyheter
+- Oljepriset sjunker något när handeln öppnat - Västerbottens-Kuriren
 - Linnéa, 24, köpte julkalender – upptäckte bisarra missen - Aftonbladet
-- Hjärnforskaren: Jag har ändrat mig om barns skärmtid - UNT
-- Apple uppges testa Iphone Duo med Face ID - Mobil
+- Kinas tvärvändning slår hårt mot Europas lyxjättar – 2 800 miljarder borta - Börskollen
+- Studie: Inte bara skärmtiden som avgör risken - PT.se
+- Recension av Phantom Blade Zero läcker före lanseringsdatumet och påpekar att striderna är repetitiva - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
@@ -36,17 +36,17 @@ _Updated: 2026-10-26 00:44_
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - CRM- och Digital Engagement-specialist till liten men global hållbarhetsorganisation, Stockholm - Dagens Media
 - Påve Leo XIV har hittat akilleshälen hos Trump - Kvartal
 - Tests in Italy, Spain come back negative in global hunt for hantavirus - Reuters
-- SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Ögonblick vi minns från Global Series i Sverige - NHL.com
 
 ## Technology
 
@@ -62,8 +62,8 @@ _Updated: 2026-10-26 00:44_
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Svenska företag riskerar tappa i AI-racet - Techarenan News
 - Warum Künstliche Intelligenz-Modelle kein Bewusstsein haben können - Xpert.Digital - Konrad Wolfenstein
@@ -77,17 +77,17 @@ _Updated: 2026-10-26 00:44_
 - Framtidens värdeskapande kräver resiliens - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Accure och Basware satsar stort på e-faktura - Mynewsdesk
@@ -128,12 +128,12 @@ _Updated: 2026-10-26 00:44_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningen ska vara fri - European Commission
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Andrea del Valle - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Täta band mellan turism och forskning på Svalbard - SLU
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Täta band mellan turism och forskning på Svalbard - SLU
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
