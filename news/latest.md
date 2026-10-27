@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-27 02:04_
+_Updated: 2026-10-27 07:35_
 
-- DOJ charges ex-FBI Director James Comey in new case - CNBC
-- Man charged with mailing threatening letters with white substance to members of Congress - NBC News
-- The anti-Bibi candidate who has Netanyahu on his heels - Axios
-- Trump says Brazil election looked 'rigged' as Bolsonaro refuses to recognize Lula win - Reuters
-- Trump offers $1M reward for people who report voter fraud in past or upcoming elections - ABC News - Breaking News, Latest News and Videos
-- 15-year-old arrested in Florida A&M shooting that wounded 11 after homecoming game - AP News
-- Appeals court rejects Trump DOJ demand to set aside 20,000 California mail ballots - CNN
-- Trump administration illegally fired James Comey's daughter, judge rules - BBC
-- Catholic leaders distance themselves from Trump after Oval Office prayer video - Politico
-- 2026 Midterms: Trump attacks El-Sayed, DOJ defends Alaska lawsuit - Fox News
-- Egyptian parliament authorises military aid for Saudi Arabia - Al Jazeera
-- Aleksandar Vucic, Serbia’s autocrat, loses to a bunch of students - The Economist
+- Netanyahu's political survival on the line as Israel votes - Reuters
+- Justice Dept. Brings More Charges Against Comey, Accusing Him of Leaks - The New York Times
+- Trump campaigns in Mississippi, highlighting Republicans’ challenges - AP News
+- Catholic bishops apologize after video shows them praying over Trump in Oval Office - CNN
+- Appeals court rejects DOJ’s bid to quickly force California to set aside ballots - Politico
+- Brazil's election ignites MAGA's midterm warnings - Axios
+- Manhunt Begins After Convicted Murderer Escapes From Tennessee Prison - The New York Times
+- Judge halts tree removal, imposes new limits on Trump’s golf project - The Washington Post
+- ‘Deflections’: Abdul El-Sayed responds to Trump’s anti-Muslim attacks - Al Jazeera
+- 15-year-old arrested in connection with mass shooting near Florida A&M University, police say - WESH
+- Saudi-led coalition says it intercepted Houthi missiles, drones attacking kingdom - Reuters
+- Chris Mason: The Budget is imminent as tricky things pile up for Burnham - BBC
 - Pope's South American trip to go ahead following lung cancer surgery - BBC
-- Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say - The New York Times
-- Anthropic IPO live updates: S-1 filing discloses $16.3B in first-half revenue, plans to list as 'ANT' - Yahoo Finance
+- Jordan arrests three suspects over church attack in dawn raid: What to know - Al Jazeera
+- Asian stocks surge as Anthropic IPO lifts sentiment ahead of earnings, central banks - Reuters
 - Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates - AP News
-- Dollar General is sued by the FTC and 20 states for what's being described as deceptive pricing - ABC News - Breaking News, Latest News and Videos
-- Broadcom Arranges $63 Billion Deal to Finance Anthropic’s Chips - Bloomberg.com
-- iPhone Duo Users Are Already Seeing a Big Old Crease in the Middle of Their $2,000 Foldable iPhone - 404 Media
-- Watch out, YouTube — Instagram goes from short-form to 90-minute videos - TechCrunch
+- FTC and 20 states sue Dollar General, accusing bargain chain of overcharging customers - The Guardian
+- 'Crash ur row only': United flight turned around after passenger allegedly said he'd 'hijack' plane - SFGATE
+- iPhone Duo owners report cracks in Apple’s first foldable handset - The Guardian
+- New iMac and 14-Inch MacBook Pro With M6 Chip Expected Tomorrow - MacRumors
