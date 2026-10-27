@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-27 12:58_
+_Updated: 2026-10-27 18:51_
 
-- Israel election results 2026: When will we know who won and what’s next? - Al Jazeera
-- 9th Circuit denies feds’ appeal over 20,000 ballots; district court hearing to proceed - Los Angeles Times
-- Trump campaigns in Mississippi, highlighting Republicans’ challenges - AP News
-- Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say - The New York Times
-- Brazil's election ignites MAGA's midterm warnings - Axios
-- Local ceasefire brokered by Melania Trump starts in southern Ukraine - NPR
-- Super Bowl 2027: Jay-Z to perform at half-time show - BBC
-- Convicted murderer serving life escapes through Tennessee prison fence, uses stolen truck as getaway vehicle, officials say - CNN
-- Judge halts tree removal, imposes new limits on Trump’s golf project - The Washington Post
-- Trump administration attempting to prosecute former FBI Director James Comey again - NPR
-- UK prosecutors charge two after RAF Fairford incident - Al Jazeera
+- Israel Election Live Updates: Record Voter Turnout as Netanyahu Faces Challenge Led by Eisenkot - The New York Times
+- FBI serves search warrant tied to Eric Swalwell investigation at Beverly Hills mansion belonging to Stephen Cloobeck - ABC7 Los Angeles
+- Democrats still poised to make gains, but poll shows warning signs for just how many - NPR
+- Inside the Billionaires’ War Against California’s Proposed Wealth Tax - The New York Times
+- Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’ - Al Jazeera
+- How Trump and his allies are sowing doubt ahead of the midterms - The Washington Post
+- Flood-weary U.S. Southwest eyes forecast for more rain - NBC News
+- Trump administration asks Washington state to hold more than 400 people’s ballots - The Washington Post
+- The hidden GOP fundraising weakness is getting worse - Politico
+- U.C.L.A. Asks Judge to Dismiss Trump Lawsuit Over Antisemitism - The New York Times
+- U.K. charges 2 men arrested over alleged Iran-linked terror plot against RAF Fairford air base used by U.S. - CBS News
+- Civilian Suffering Was Goal of Russian Strikes in Ukraine, U.N. Panel Says - The New York Times
+- Protesters enter Serbian pro-Vucic TV station, call for arrest of editor - Reuters
 - Opinion: UK bond investors want spending cuts. John Healey’s first Budget may disappoint - CNBC
-- Pope's South American trip to go ahead following lung cancer surgery - BBC
-- Trump allies fall in two elections as Netanyahu faces next test - Axios
-- Here's the cash windfall the Anthropic IPO may bring to banks like Goldman Sachs, JP Morgan and Morgan Stanley - Yahoo Finance
-- Xbox staff among up to 60,000 Microsoft employees offered voluntary exit - GamesIndustry.biz
-- FTC and 20 states sue Dollar General, accusing bargain chain of overcharging customers - The Guardian
-- Stock futures are mixed as earnings season continues: Live updates - CNBC
-- Google Photos rolls out customizable redesign of your ‘Collections’ tab - 9to5Google
-- Apple Releases watchOS 27.2 With Siri AI Enhancements - MacRumors
+- Anthropic IPO Filing Calms Nerves With Signs of Healthy Growth - Bloomberg.com
+- Stock Market Today: Dow stays flat, Nasdaq and S&P 500 surge as oil prices fall and chip stocks bounce - MarketWatch
+- US consumer confidence recovers in October as gas prices eased a bit - AP News
+- Boeing share price plummets with slower 737 production and free cash flow growth outlook - Reuters
+- Apple unveils new 14-inch MacBook Pro with M6 chip - TechCrunch
+- Apple Could Lose Its $5 Trillion Valuation as iPhone Duo Screens Crack - Yahoo Finance
