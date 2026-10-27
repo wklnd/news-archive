@@ -1,51 +1,47 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-27 01:59_
+_Updated: 2026-10-27 07:24_
 
 ## Top Stories
 
-- Flera unga skadades i garage­brand i Borås – kristna erbjuder stöd - Världen idag
-- Åklagaren: Målsägande i Uppsala är pojkar - TV4 Nyheterna
+- Val i Israel – det här står på spel - Göteborgs-Posten
 - Dödliga planen för Trump: ”Sker inom 96 timmar” - Expressen
-- Anita Goldman: Gränslösheten är Israels grundproblem - Dagens Nyheter
+- Jordanien anfaller ”terrorgömställen” i Syrien - SVT Nyheter
+- DN Direkt – Bolsonaro: Jag förbjuds att lämna landet - Dagens Nyheter
+- Bro i Kiev skadad i rysk attack - Västerbottens-Kuriren
 - Kvinna död – blev påkörd av buss - Aftonbladet
-- Börsens svar på Lulas vinst: Rasade 14 procent - Corren
+- Barn inte längre livshotande skadat efter brand – vårdas på US - Corren
 - Tomas Ramberg: Nu har både C och V tröttnat på Andersson - Dagens Nyheter
-- Felskjutning bland utredningsspåren efter mordet i Bagarmossen - SVT Nyheter
-- SMHI varnar – stormen slår till igen - Göteborgs-Posten
-- Olycka på E18 – bil har voltat - SVT Nyheter
-- Direkt – Kriget i Ukraina – Putin möter Irans och Qatars ledare i Moskva - Dagens Nyheter
+- Åklagare: Målsägande i Uppsala-insatsen är pojkar - Göteborgs-Posten
+- Här hålls böner för Mohamed Ali (V) – i Nairobi - SVT Nyheter
 - Tidigare FBI-chef åtalas – igen - Västerbottens-Kuriren
-- Israel anklagas för ”utrotning” på Västbanken - Corren
-- Serbien i chock efter valet: ”Var extatiskt” - Göteborgs-Posten
+- EU öppnar dörren för Serbien efter studentrörelsens seger - Europaportalen
+- Efter protesterna: Macron lovar åtgärder - Corren
+- Kända shoppinggatan förvandlas till gågata - Göteborgs-Posten
 - Jätten till börsen: ”Ny fas för AI-bolagen” - Dagens Nyheter
-- Microsoft erbjuder 60 000 anställda avgångsvederlag - Placera.se
+- Chefen: ”Vill inte behöva tvinga folk” - Svenska Dagbladet
+- Sydkoreas ekonomi växer – stor uppgång på börsen - Västerbottens-Kuriren
 - Meta vill ta in 950 miljarder för AI-investeringar - Omni – Alla nyheter. Alla perspektiv.
-- (+) Stena köper Color Line i nordisk färjejätteaffär - Sjöfartstidningen
 - iFixit plockar isär iPhone Duo och ger den högsta reparationspoängen hittills för en vikbar mobil - TechRadar
-- Stjärnhästen startade på V85 – med hjärtfel - Aftonbladet
+- Efter år av motstånd – Apple väntas lansera Macbook med pekskärm - nyteknik
 
 ## World News
 
-- Volvo Cars reports Q3 2026 sales - Volvo
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- International Media Recognize FOTILE's Next-Generation In-Sink Dishwasher During Global HQ Tour (PR Newswire) - Aktiellt
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
-- Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
+- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Från medresenärer till medskapare: LEPAS presenterar sina första Global Elegant Partners - EIN Presswire
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- Trump celebrates Messi, revels in Inter Miami’s “good looks” - Reuters
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
 
 ## Technology
@@ -61,15 +57,15 @@ _Updated: 2026-10-27 01:59_
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Konstgjord intelligens inom medicin och utbildning: blir läkare och lärare överflödiga? Hur AI förändrar yrken - Xpert.Digital - Konrad Wolfenstein
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
 - Svenska företag riskerar tappa i AI-racet - Techarenan News
+- Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - ”AI:s gudfader” varnar – men ”AI:s fader” inte rädd - Omni – Alla nyheter. Alla perspektiv.
 - Warum Künstliche Intelligenz-Modelle kein Bewusstsein haben können - Xpert.Digital - Konrad Wolfenstein
-- Verkörperte Künstliche Intelligenz (Embodied AI) - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -96,16 +92,16 @@ _Updated: 2026-10-27 01:59_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Vi presenterar HealthBench - OpenAI
-- E-hälsa inom EU - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- E-hälsa inom EU - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 
 ## Science
 
@@ -113,20 +109,30 @@ _Updated: 2026-10-27 01:59_
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Andrea del Valle - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
 
 ## Jordbruk
 
-- Sveriges förändrade lantbruk - SLU
-- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Jordbruk och landsbygdsutveckling - European Commission
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Jordbrukspolitik - Naturvårdsverket
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Framtidens jordbruk - European Commission
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- De gick från reko till eko - ST-tidningen
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Framtidens jordbruk är här - Shaping Europe’s digital future
+- Intäkten upp för Pellbrants Farming - Västerbottens Mellanbygd
 - Här är världens största jordbruk - ATL
+- Kan agroekologi mätta världen? - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Jord, kor och klimat - SLU
+- Driva lantbruk i Ryssland är ingen promenad i parken - ATL
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
