@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-27 18:51_
+_Updated: 2026-10-27 23:28_
 
-- Israel Election Live Updates: Record Voter Turnout as Netanyahu Faces Challenge Led by Eisenkot - The New York Times
-- FBI serves search warrant tied to Eric Swalwell investigation at Beverly Hills mansion belonging to Stephen Cloobeck - ABC7 Los Angeles
-- Democrats still poised to make gains, but poll shows warning signs for just how many - NPR
-- Inside the Billionaires’ War Against California’s Proposed Wealth Tax - The New York Times
-- Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’ - Al Jazeera
-- How Trump and his allies are sowing doubt ahead of the midterms - The Washington Post
-- Flood-weary U.S. Southwest eyes forecast for more rain - NBC News
+- No clear winner in Israeli election, exit polls show - CNN
+- Brazil wonders: Where on earth is Flavio Bolsonaro? - Reuters
+- Alexander brothers, ex-luxury real estate brokers, to be sentenced on federal sex trafficking charges - NBC News
+- Trump administration can block immigration judges from closing deportation cases - The Washington Post
+- Serial killer Ted Bundy is linked to another Utah teenager's 1974 murder through DNA testing - AP News
+- Trump says he will respect midterm results ‘if they’re honest elections’ - The Hill
+- Parents of nurse killed by ICE demand DOJ release evidence of fatal shooting - NBC News
 - Trump administration asks Washington state to hold more than 400 people’s ballots - The Washington Post
-- The hidden GOP fundraising weakness is getting worse - Politico
-- U.C.L.A. Asks Judge to Dismiss Trump Lawsuit Over Antisemitism - The New York Times
+- 2026 Midterms: Trump Rallies Texas as DOJ Moves Against Comey - Fox News
+- As Election Nears, Reports of an Increase in ICE Arrests Across California - The New York Times
 - U.K. charges 2 men arrested over alleged Iran-linked terror plot against RAF Fairford air base used by U.S. - CBS News
-- Civilian Suffering Was Goal of Russian Strikes in Ukraine, U.N. Panel Says - The New York Times
-- Protesters enter Serbian pro-Vucic TV station, call for arrest of editor - Reuters
-- Opinion: UK bond investors want spending cuts. John Healey’s first Budget may disappoint - CNBC
-- Anthropic IPO Filing Calms Nerves With Signs of Healthy Growth - Bloomberg.com
-- Stock Market Today: Dow stays flat, Nasdaq and S&P 500 surge as oil prices fall and chip stocks bounce - MarketWatch
+- Two Nordic leaders urge Putin to end Ukraine war in rare direct contact by Europeans - Reuters
+- Russia committed war crimes in Ukraine by attacking its energy grid, UN-backed inquiry says - AP News
+- Zookeeper dies after she was attacked in leopard enclosure, Dutch safari park says - CBS News
+- Why Anthropic's IPO contrasts the 'cult of Elon Musk' at SpaceX and Tesla - Yahoo Finance
+- Law firm Weil prepares for possible wind-down as crisis deepens - Financial Times
 - US consumer confidence recovers in October as gas prices eased a bit - AP News
-- Boeing share price plummets with slower 737 production and free cash flow growth outlook - Reuters
+- Federal Reserve expected to hold interest rates steady in last decision before midterm elections - Fox Business
 - Apple unveils new 14-inch MacBook Pro with M6 chip - TechCrunch
-- Apple Could Lose Its $5 Trillion Valuation as iPhone Duo Screens Crack - Yahoo Finance
+- Apple's New iPhone Duo Breaks After 75,000 Folds in Real-Life Test - Gizmodo
