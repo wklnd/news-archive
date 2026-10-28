@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-28 21:06_
+_Updated: 2026-10-29 01:32_
 
-- Fed holds rates steady despite concerns over inflation - CNBC
+- Report: Peltola's campaign involved in effort to recruit second Dan Sullivan for Alaska Senate race - AP News
 - Spain train crash kills at least 68 as witnesses describe devastating scenes - CNN
-- Flávio Bolsonaro seen landing in Miami with family after Brazil presidential election defeat - BBC
-- Inside Democrats’ Secret Effort to Stack Alaska’s Midterm Ballot With Another Dan Sullivan - The New York Times
-- Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96 - NPR
-- Hottest 2026 Midterm Races—Democrats Ahead In Minnesota And Ohio, Republican Leads In Florida - Forbes
-- Conservative influencers charged with voter fraud in Minnesota primary - MPR News
-- Comey, Hutchinson and more Trump foes are in Justice Dept.’s pre-election sights - The Washington Post
-- Texas Senate Rivals Converge on Lubbock, With Trump in the Mix - The New York Times
-- Photos show record-breaking high tides flooding homes, roads in Southern California - CBS News
-- Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties - AP News
-- Russell Brand takes the stand at his rape and sexual assault trial - CBS News
+- Flavio Bolsonaro, from US, declares himself rightful leader of Brazil after losing election - Reuters
+- The Israeli election is deadlocked - NPR
+- Garrett Haake Says He's Never Seen Trump at a Smaller Venue - Mediaite
+- Dolores Huerta, Who Founded United Farm Workers With Cesar Chavez, Dies - The New York Times
+- Conservative influencers charged with unlawful voting after ‘Muslim garb’ election stunt - The Guardian
+- 3 major issues that Republican Byron Donalds or Democrat David Jolly will need to address as Florida’s next governor - The Conversation
+- California election official says federal agents threatened him over ‘voter fraud’ - The Guardian
+- Justice Department Push Against Trump’s Foes Reaches Higher Gear - WSJ
+- A U.K. Budget With ‘Breathing Space’ in a Time of Rising Energy Costs - The New York Times
+- Russell Brand Takes Stand In Rape Trial — Says People Have Abandoned Him - Rolling Stone
+- Iran sees only unacceptable ideas in latest mediation to end war, official says - Reuters
 - Houthis strike Yemen's Aden airport after evacuation warning - Reuters
-- Iran pressed to make nuke concessions as massive post-midterms strikes loom - Axios
-- Kennedy to Allow Broad Use of Unapproved Peptide Injections - The New York Times
-- U.S. cruise ship suspends 3-year around-the-world voyage in Cambodia due to fuel costs - CBS News
-- Weil Practice Head Tells Lawyers to Find Jobs as Firm Struggles - Bloomberg Law News
-- Stock market today: Dow futures fall, S&P 500 and Nasdaq futures climb ahead of Fed decision, Big Tech earnings - Yahoo Finance
-- Apple Unveils Touch-Screen MacBook Pro, Reversing Longheld Jobs Stance - Bloomberg.com
-- Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices - TechCrunch
+- Fed leaves rates steady as governor Lisa Cook dissents - Axios
+- Google Shares Fall 10% as Growth in Search Revenue Slows - WSJ
+- Cruise line folds over fuel costs, booting passengers in Cambodia - The Washington Post
+- Weil Junior Lawyers Urged to Find Work With Firm in Jeopardy (1) - Bloomberg Law News
+- Apple Unveils Touch-Screen MacBook Pro, Reversing Long-Held Jobs Stance - Bloomberg.com
+- Reddit is the latest platform to embrace the ‘For You’ feed - TechCrunch
