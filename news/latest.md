@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-27 23:28_
+_Updated: 2026-10-28 02:43_
 
-- No clear winner in Israeli election, exit polls show - CNN
-- Brazil wonders: Where on earth is Flavio Bolsonaro? - Reuters
-- Alexander brothers, ex-luxury real estate brokers, to be sentenced on federal sex trafficking charges - NBC News
-- Trump administration can block immigration judges from closing deportation cases - The Washington Post
-- Serial killer Ted Bundy is linked to another Utah teenager's 1974 murder through DNA testing - AP News
-- Trump says he will respect midterm results ‘if they’re honest elections’ - The Hill
-- Parents of nurse killed by ICE demand DOJ release evidence of fatal shooting - NBC News
-- Trump administration asks Washington state to hold more than 400 people’s ballots - The Washington Post
-- 2026 Midterms: Trump Rallies Texas as DOJ Moves Against Comey - Fox News
-- As Election Nears, Reports of an Increase in ICE Arrests Across California - The New York Times
-- U.K. charges 2 men arrested over alleged Iran-linked terror plot against RAF Fairford air base used by U.S. - CBS News
+- Netanyahu fights to survive as opposition surges in Israel election - CNN
+- Flavio Bolsonaro and family to receive US visas after leaving Brazil, State Department says - Reuters
+- Trump makes last-minute push to keep Texas in Republican hands with third trip - AP News
+- Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports - CNBC
+- Alexander brothers each sentenced to 30 years in prison for sex trafficking case - BBC
+- Serial killer Ted Bundy linked to another Utah teenager's cold case murder through DNA testing, prosecutor says - CBS News
+- ‘Shameful’: Alex Pretti parents accuse Trump officials of shielding son’s killers - The Guardian
+- ‘Highest king tide ever’ swamps South Florida and exposes danger of sea rise - Miami Herald
+- Republicans wanted Rubio on the stump. Trump coaxed him there. - Politico
+- Trump admin zeroes in on noncitizen voting in final midterm push - Politico
 - Two Nordic leaders urge Putin to end Ukraine war in rare direct contact by Europeans - Reuters
-- Russia committed war crimes in Ukraine by attacking its energy grid, UN-backed inquiry says - AP News
-- Zookeeper dies after she was attacked in leopard enclosure, Dutch safari park says - CBS News
-- Why Anthropic's IPO contrasts the 'cult of Elon Musk' at SpaceX and Tesla - Yahoo Finance
-- Law firm Weil prepares for possible wind-down as crisis deepens - Financial Times
+- U.K. charges 2 men arrested over alleged Iran-linked terror plot against RAF Fairford air base used by U.S. - CBS News
+- UK budget: Markets on watch for new finance minister's plans - Reuters
+- Zookeeper dies after leopard savagely mauls her inside animal enclosure - New York Post
+- Anthropic IPO warns its AI could blackmail people, become sentient, end humanity - Ars Technica
 - US consumer confidence recovers in October as gas prices eased a bit - AP News
-- Federal Reserve expected to hold interest rates steady in last decision before midterm elections - Fox Business
-- Apple unveils new 14-inch MacBook Pro with M6 chip - TechCrunch
-- Apple's New iPhone Duo Breaks After 75,000 Folds in Real-Life Test - Gizmodo
+- AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch. - CNBC
+- Chinese Stocks’ Final-Hour Slide Shows Reliance on National Team - Bloomberg.com
+- Here’s why the iPhone Duo’s hinge could be cracking the screen - The Verge
+- Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip - Ars Technica
