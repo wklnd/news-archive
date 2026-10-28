@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-28 02:43_
+_Updated: 2026-10-28 08:19_
 
-- Netanyahu fights to survive as opposition surges in Israel election - CNN
-- Flavio Bolsonaro and family to receive US visas after leaving Brazil, State Department says - Reuters
-- Trump makes last-minute push to keep Texas in Republican hands with third trip - AP News
-- Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports - CNBC
-- Alexander brothers each sentenced to 30 years in prison for sex trafficking case - BBC
-- Serial killer Ted Bundy linked to another Utah teenager's cold case murder through DNA testing, prosecutor says - CBS News
-- ‘Shameful’: Alex Pretti parents accuse Trump officials of shielding son’s killers - The Guardian
-- ‘Highest king tide ever’ swamps South Florida and exposes danger of sea rise - Miami Herald
-- Republicans wanted Rubio on the stump. Trump coaxed him there. - Politico
-- Trump admin zeroes in on noncitizen voting in final midterm push - Politico
-- Two Nordic leaders urge Putin to end Ukraine war in rare direct contact by Europeans - Reuters
-- U.K. charges 2 men arrested over alleged Iran-linked terror plot against RAF Fairford air base used by U.S. - CBS News
-- UK budget: Markets on watch for new finance minister's plans - Reuters
-- Zookeeper dies after leopard savagely mauls her inside animal enclosure - New York Post
-- Anthropic IPO warns its AI could blackmail people, become sentient, end humanity - Ars Technica
-- US consumer confidence recovers in October as gas prices eased a bit - AP News
-- AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch. - CNBC
-- Chinese Stocks’ Final-Hour Slide Shows Reliance on National Team - Bloomberg.com
-- Here’s why the iPhone Duo’s hinge could be cracking the screen - The Verge
+- Netanyahu, Eisenkot stake rival claims to lead Israel after deadlocked vote - Reuters
+- Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports - BBC
+- Grand jury refuses to indict former White House aide Cassidy Hutchinson, AP sources say - AP News
+- Midterm elections updates: Trump and Talarico campaign two miles apart in Texas rallies - CNN
+- U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms - WSJ
+- Alexander brothers each sentenced to 30 years for drugging and raping dozens of women - The Guardian
+- Alaska’s ranked choice voting is on the ballot this year. Republicans want it gone. - Politico
+- Bend, Oregon, shooter previously said he was bullied and told police he was assaulted at home - NBC News
+- Judge Questions Trump Administration’s Need to Target Noncitizen Voters - The New York Times
+- FBI raids California home tied to former Congressman Eric Swalwell - US media - BBC
+- Chris Mason: Budget needs to go some way towards delivering PM's promises - BBC
+- European Leaders Split Over Phone Call to Putin - The New York Times
+- Iran hasn’t tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says - AP News
+- King acknowledges 'suffering of the past' as Caribbean tour begins - BBC
+- VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more - TechCrunch
+- China AI Hardware Firms Face Earnings Test After Stock Selloff - Bloomberg.com
+- A US cruise ship ends a global voyage in Asia due to fuel costs and 200 passengers lose their homes - AP News
+- SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors - CNBC
+- Apple's iPhone Duo is getting roasted over screen cracks - Business Insider
 - Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip - Ars Technica
