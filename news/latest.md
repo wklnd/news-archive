@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-29 19:04_
+_Updated: 2026-10-30 00:00_
 
-- Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate - BBC
-- 5 days until midterms, Trump heads to South Carolina as Senate race tightens - Fox News
-- How Netanyahu Used Fear, Again, to Win More Votes Than Anyone Else - The New York Times
-- Democrats in striking distance: New CNN polls in four states highlight party’s path to Senate majority - CNN
-- Hackers expose the identities of more than 40,000 DHS employees - NPR
-- Hegseth fires Pentagon's top military planner over what official says were leaks to media - CBS News
-- Support dwindles for wealth tax, voter ID ballot measures, new poll shows - Los Angeles Times
-- Fox News Power Rankings: South Carolina moves to toss-up - Fox News
-- Man accused in Cornell rape lawsuit wants Letitia James removed from investigation over her posts - AP News
+- Patrick Stewart, Shakespearean actor turned 'Star Trek' and 'X-Men' star, dies at 86 - Reuters
+- Alaska governor orders investigation into Peltola camp after report they recruited second Dan Sullivan - NBC News
 - Federal judge denies Trump administration's request to segregate 20,000 ballots in California - ABC7 Los Angeles
-- Christine Lagarde to Step Down as President of European Central Bank - The New York Times
+- Before appearing in an ad calling Amy Acton a ‘liar,’ her mother faced years of turmoil, records show - NBC News
+- Ilhan Omar Investigation Involves New Scrutiny of Long-Disputed Marriage - The New York Times
 - Shock of rail tragedy gives way to sorrow and outrage in politically divided Spain - BBC
-- At least 13 people killed in Russian attack on Dnipro train station - Al Jazeera
-- China’s Xi Demands More Loyalty as Purges Trim Party Elite - WSJ
-- U.S. economy grew at a fast clip this summer, thanks to business, consumer spending - The Washington Post
-- Stock Market Today: Nasdaq Sinks 350 Points; Google Stock's Tumble in Focus — Live Updates - WSJ
-- DoorDash strikes $17 billion deal for US rival Instacart in mega grocery delivery bet - Reuters
-- Fed’s preferred inflation gauge rose in September as third-quarter GDP beats expectations - Fox Business
+- Man accused in Cornell rape lawsuit wants Letitia James removed from investigation over her posts - AP News
+- Support dwindles for wealth tax, voter ID ballot measures, new poll shows - Los Angeles Times
+- U.S. citizens included on Justice Department list of 400 alleged noncitizens, Washington state says - CBS News
+- General ousted by Hegseth referred for criminal prosecution, officials say - The Washington Post
+- Israel election result shows no overall majority as vote count complete - Al Jazeera
+- Greek container ship sinks after drone attack off Bulgaria - Reuters
+- China Confirms Expulsion of 33 Officials, as Xi’s Purge Deepens - The New York Times
+- US and Japan agree to establish a Japanese facility for joint missile production - NPR
+- Amazon earnings live: Q3 earnings miss sends stock lower - Yahoo Finance
+- Wall Street ends lower as Alphabet revenue miss revives AI capex jitters - Reuters
+- Consumers and A.I. Spending Push U.S. Economic Growth Higher - The New York Times
+- DoorDash to Buy Rival Instacart in $17 Billion Deal - Bloomberg.com
 - Everything Apple Announced at Its 'Pro and Tell' Event: Touch-Screen MacBook Pro, M6 Macs, More - PCMag
-- EasySMX S10 Lite Review: A Switch 2 Fidget Toy With A Weird Removable Faceplate - Engadget
+- Microsoft fixes a Windows 11 annoyance as PC revenue declines - Ars Technica
