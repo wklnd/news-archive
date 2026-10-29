@@ -1,63 +1,62 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-28 21:46_
+_Updated: 2026-10-29 02:12_
 
 ## Top Stories
 
-- Uppsala • Läkaren om omskärelsen: ”Förvånad” - Aftonbladet
-- Direkt – Krisen i Mellanöstern – Netanyahus parti: Valet stals av arabiska partier - Dagens Nyheter
-- Två tåg har krockat i Spanien – flera skadade - Göteborgs-Posten
-- Flávio Bolsonaro flög via Argentina och Ecuador till USA - SVT Nyheter
-- TOVE HOVEMYR: Ett extraval vore respektlöst mot väljarna - UNT
-- 15 000 Lisebergsgäster drabbade av dataläcka - Göteborgs-Posten
-- En gripen efter dödsskjutning i Stockholm - Göteborgs-Posten
-- Två män döms för 13 termosbomber - Västerbottens-Kuriren
-- Förskoleanställd i Vänersborg misstänkt för grovt sexualbrott mot barn - SVT Nyheter
-- Serie av äldrebedrägerier i Stockholm: ”Direkt avgörande att anmäla” - Dagens Nyheter
+- Expertens teori: Så gick tågolyckan i Spanien till - Göteborgs-Posten
 - Detta betyder Putins samtal i klarspråk - Hufvudstadsbladet – HBL
-- Hundra uppges dödade vid attack mot marknad - Göteborgs-Posten
+- Blodig man i trapphus – misstänkt mordförsök - Expressen
+- New York Times: Demokraterna värvade bluffkandidat i Alaska - Dagens Nyheter
+- Två män döms för 13 termosbomber - Västerbottens-Kuriren
+- Man ihjälslagen – efter hundbråk på krog i Majorna - Göteborgs-Posten
+- Kvinna hittad avliden i bostad i Ängelholm – polisen misstänker mord - SVT Nyheter
+- Misstänkte läkaren om omskärelsen: ”Allting har gått rätt till” - Dagens Nyheter
+- TOVE HOVEMYR: Ett extraval vore respektlöst mot väljarna - UNT
+- 28 oktober 16.16, Bedrägeri, Stockholm - polisen.se
+- Netanyahus parti: Valet stals av arabiska partier - Västerbottens-Kuriren
+- Bolsonaro flydde – har landat i USA - Västerbottens-Kuriren
+- Passagerare på lyxkryssning strandsatta – bränslet för dyrt - Dagens Nyheter
 - Erik de la Reguera: Därför demonstrerar fransmännen så mycket - Dagens Nyheter
-- Zelenskyj: Över 100 robotar mot Kiev - Corren
-- SSAB:s rörelseresultat i linje med konsensus - Placera.se
 - Elpriserna på årshögsta i södra Sverige - Omni – Alla nyheter. Alla perspektiv.
-- Fed avvaktar – ingen räntehöjning - Göteborgs-Posten
-- Brittisk bankskatt dubblas i januari - Tidningen Näringslivet
-- Apple lanserar iMac M6 och MacBook Pro M6 – med en dold prishöjning - TechRadar
-- Ny Pluto upptäckt? Kan bli solsystemets sjätte dvärgplanet - Ny Teknik
+- Fed avvaktar – ingen räntehöjning - Svenska Dagbladet
+- Så stoppar du dyra bluffabonnemang – expertens tips - Dagens Nyheter
+- Bilindustrins besked: Kunderna vill inte betala för grönt stål - Affärsvärlden
+- Apple MacBook Pro får OLED-pekskärm som täcker Adobe RGB - Fotosidan
+- 8 Sidor har ny sajt - 8 Sidor
 
 ## World News
 
 - Global hotellkedja med 141 hotell i Sverige byter namn - Realtid
-- Tredje AP-fonden visar styrka i global jämförelse - Finanswatch.se
-- Ho Chi Minh-staden strävar efter att utvecklas till en global stad. - Vietnam.vn
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Volvo Cars reports Q3 2026 sales - Volvo
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
-- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Neonode Surpasses 100 Million Technology Licenses Worldwide - DI
-- BBC hjälper mig att dosera min förtvivlan - Aftonbladet
-- Från medresenärer till medskapare: LEPAS presenterar sina första Global Elegant Partners - EIN Presswire
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- UNESCO statement on Ukraine - UNESCO
+- FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Två fina priser till NTM i årets INMA Global Awards - NTM
+- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
+- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- International Media Recognize FOTILE's Next-Generation In-Sink Dishwasher During Global HQ Tour (PR Newswire) - Aktiellt
+- Tredje AP-fonden visar styrka i global jämförelse - Finanswatch.se
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
-- Sundin ser fram emot Global Series och OS: ”På tiden" - NHL.com
-- Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
 
 ## Technology
 
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Data Centre Expo Sweden - Mynewsdesk
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - Timnit Gebru - Right Livelihood
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Konstgjord intelligens inom medicin och utbildning: blir läkare och lärare överflödiga? Hur AI förändrar yrken - Xpert.Digital - Konrad Wolfenstein
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
@@ -65,59 +64,58 @@ _Updated: 2026-10-28 21:46_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Svenska företag riskerar tappa i AI-racet - Techarenan News
-- Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
+- Warum Künstliche Intelligenz-Modelle kein Bewusstsein haben können - Xpert.Digital - Konrad Wolfenstein
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
-- Warum Künstliche Intelligenz-Modelle kein Bewusstsein haben können - Xpert.Digital - Konrad Wolfenstein
+- Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
 - ”AI:s gudfader” varnar – men ”AI:s fader” inte rädd - Omni – Alla nyheter. Alla perspektiv.
+- KI Entwicklung: o1 von ChatGPT – das neue KI-Modell: Neuigkeiten, Hintergründe, Einsatzmöglichkeiten und Einschränkungen - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
-- Stödja företag i övergången till ESG, förbättra tillgången till grön finansiering. - Vietnam.vn
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Organon lanserar ett nytt företag för kvinnohälsa - Via TT
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Nam A Bank utökar grön finansiering för små och medelstora företag. - Vietnam.vn
+- Stödja företag i övergången till ESG, förbättra tillgången till grön finansiering. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Faith Medical Camp Uganda | Under ytan #3 - YouTube
+- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
-- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
+- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 
 ## Science
 
-- Naturvetenskapliga universitetet föreslår en modell för att koppla samman grundläggande vetenskaplig forskning med nationella strategiska teknologier - Naturvetenskapliga universitetet, VNU-HCM - Vietnam.vn
-- Öppen vetenskap vid SLU - SLU
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Google investerar i Zuckerbergs Biohub. Ska utveckla dataset för biologisk forskning. - Feber
-- Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
-- 2026-10-20 Seminarium på KSLA: Forskning och innovation, hur motståndskraftiga grödor bidrar till global livsmedelsförsörjning - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskningen ska vara fri - European Commission
-- Sherry Nakhaeizadeh - Uppsala universitet
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Andrea del Valle - Karolinska Institutet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Täta band mellan turism och forskning på Svalbard - SLU
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 
 ## Jordbruk
 
