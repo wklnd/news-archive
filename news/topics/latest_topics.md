@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-29 08:15_
+_Updated: 2026-10-29 15:31_
 
 ## Top Stories
 
-- Expertens teori: Så gick tågolyckan i Spanien till - Göteborgs-Posten
-- Omfattande störningar för Stockholms pendeltåg - SVT Nyheter
-- Blev av med drömjobbet – efter ett PEth-test - Svenska Dagbladet
-- New York Times: Demokraterna värvade bluffkandidat i Alaska - Dagens Nyheter
-- Två gripna för mordförsök – ska ha påträffats med mopp - Omni – Alla nyheter. Alla perspektiv.
+- Nytt besked från talmannen i eftermiddag - Göteborgs-Posten
+- Många saknas efter tågolyckan i Spanien - Corren
+- DN Direkt – Två hallar i Tumba brinner – elever utrymda - Dagens Nyheter
+- Strömsundsbron öppnar för gående och cyklister - Västerbottens-Kuriren
+- 100 nötkreatur omhändertogs akut – lantbrukare åtalas för djurplågeri - SVT Nyheter
+- Fler än 1 200 drönare mot Ryssland i natt - Hufvudstadsbladet – HBL
+- Moderaterna tätt bakom S i ny mätning - Västerbottens-Kuriren
+- Skolskjutskaoset drabbar elever med särskilda behov: ”En demokratifråga” - Dagens Nyheter
+- Man begärs häktad efter mordet i Bagarmossen - SVT Nyheter
 - Internt SD-bråk kan skada relation till M - Göteborgs-Posten
-- Ny rapport: Världens största räddningsaktion för naturen - Dagens Nyheter
-- 28 oktober 16.16, Bedrägeri, Stockholm - polisen.se
-- Misstänkte läkaren om omskärelsen: ”Allting har gått rätt till” - Dagens Nyheter
-- INSÄNDARE: Svensk livsmedelsberedskap kräver växtbaserad omställning - Dalslänningen
-- Netanyahus parti: Valet stals av arabiska partier - Corren
-- Källor: USA varnar för nya attacker mot Iran - Västerbottens-Kuriren
-- Detta betyder Putins samtal i klarspråk - Hufvudstadsbladet – HBL
-- Direkt – Kriget i Ukraina – Ryssland: Storskalig drönarattack mot Moskva - Dagens Nyheter
-- Oron: Ny avgift på paket kan bli kostnadssmäll - Svenska Dagbladet
-- Varför rasar Alphabets aktie i efterhandeln idag? av Investing.com - Investing.com Sverige
-- TU välkomnar norskt domstolsbeslut att stoppa Metas nya villkor - Tidningsutgivarna
-- Mitt under en kris har man gjort bensin och diesel billigare - Arbetet
-- Apple MacBook Pro får OLED-pekskärm som täcker Adobe RGB - Fotosidan
-- Opera gör det möjligt att köra AI-modeller lokalt i webbläsaren - Computer Sweden
+- Netanyahus son drivande i valfuskkampanjen - Dagens Nyheter
+- FN: Afghanistans opiumproduktion ökar - Västerbottens-Kuriren
+- Støre ryter ifrån – kräver rättelse om Putin-samtal - Göteborgs-Posten
+- Mellanårsvalet i USA – följ senaste nytt - SVT Nyheter
+- Christine Lagarde slutar som chef för Europeiska centralbanken - Yle
+- Vattenfall hoppas alla reaktorer är i gång i vinter - Tidningen Näringslivet
+- Fakta i frågan: Är Sverige på väg in i en ny bostadsprisboom? - Dagens Nyheter
+- Vattenpumpar sms:ade varandra – fick räkning på 1,4 miljoner - Bulletin
+- Nya Macbook Pro får pekskärm – här är de 5 största nyheterna - Macworld.se
+- (+) Mobil svarar på läsarfrågor om Iphone Duo, minimobiler och billiga mobiler - Mobil
 
 ## World News
 
+- Första staden som bidrar till global fond för naturen - Aktuell Hållbarhet
 - Global hotellkedja med 141 hotell i Sverige byter namn - Realtid
-- Volvo Cars reports Q3 2026 sales - Volvo
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- UNESCO statement on Ukraine - UNESCO
-- FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
-- Bildextra: NHL Global series med Icelandair - travelnews-se
-- Två fina priser till NTM i årets INMA Global Awards - NTM
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
-- International Media Recognize FOTILE's Next-Generation In-Sink Dishwasher During Global HQ Tour (PR Newswire) - Aktiellt
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Ögonblick vi minns från Global Series i Sverige - NHL.com
+- Pareto sänker riktkursen för VNV Global till 25 kronor - upprepar köp - Börsvärlden
+- Ho Chi Minh-staden strävar efter att utvecklas till en global stad. - Vietnam.vn
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
+- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
+- Norden vill samla stark global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Neonode Surpasses 100 Million Technology Licenses Worldwide - DI
+- Från medresenärer till medskapare: LEPAS presenterar sina första Global Elegant Partners - EIN Presswire
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Trump celebrates Messi, revels in Inter Miami’s “good looks” - Reuters
+- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
+- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
+- BREAKING NEWS. Putin kommenterar USA-valet! - Global Bar Magazine
 
 ## Technology
 
@@ -57,7 +57,6 @@ _Updated: 2026-10-29 08:15_
 - Timnit Gebru - Right Livelihood
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Northvolt tech revived as Carlsson launches Aris Machina - Norran
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Konstgjord intelligens inom medicin och utbildning: blir läkare och lärare överflödiga? Hur AI förändrar yrken - Xpert.Digital - Konrad Wolfenstein
@@ -68,54 +67,45 @@ _Updated: 2026-10-29 08:15_
 - Svenska företag riskerar tappa i AI-racet - Techarenan News
 - Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- ”AI:s gudfader” varnar – men ”AI:s fader” inte rädd - Omni – Alla nyheter. Alla perspektiv.
+- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - Warum Künstliche Intelligenz-Modelle kein Bewusstsein haben können - Xpert.Digital - Konrad Wolfenstein
+- ”AI:s gudfader” varnar – men ”AI:s fader” inte rädd - Omni – Alla nyheter. Alla perspektiv.
 
 ## Business
 
-- Stödja företag i övergången till ESG, förbättra tillgången till grön finansiering. - Vietnam.vn
 - Nam A Bank utökar grön finansiering för små och medelstora företag. - Vietnam.vn
+- Stödja företag i övergången till ESG, förbättra tillgången till grön finansiering. - Vietnam.vn
 - Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
-- Framtidens värdeskapande kräver resiliens - EY
 - Nam A Bank stärker globala resursförbindelser och främjar ESG och teknologi på AEF 2026. - Vietnam.vn
+- Vilken framtid arbetar du för? - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Ivrig att se faktiska transaktioner äga rum i International Financial Center i november. - Vietnam.vn
+- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
+- Organon lanserar ett nytt företag för kvinnohälsa - Via TT
+- What are BIN sponsorships and how do they drive the digital economy - Mastercard
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Framtidens värdeskapande kräver resiliens - EY
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Ho Chi Minh Citys skattemyndighet berömmer 358 företag, och nämner Google, GS25, RMIT, Nike och andra. - Vietnam.vn
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Låt oss prata hälsa – Hjärt- och kärlsjukdomar – Segment 2 - Apollo Hospitals
-- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Vi presenterar HealthBench - OpenAI
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Fonderna som investerar i megatrenden - Avanzabloggen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Dags att uppdatera riktlinjerna för medicinsk cannabis i Sverige - Läkartidningen
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - Mynewsdesk
 
 ## Science
 
@@ -131,7 +121,6 @@ _Updated: 2026-10-29 08:15_
 ## Jordbruk
 
 - Sveriges förändrade lantbruk - SLU
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
