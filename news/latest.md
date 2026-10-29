@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-29 12:24_
+_Updated: 2026-10-29 19:04_
 
-- Alaska Governor Orders Criminal Investigation Into Peltola Campaign - The New York Times
-- What we know so far about deadly Spain train crash - BBC
-- Judge denies federal request to segregate California ballots, says it would 'wreak havoc' on voting - AP News
-- Flávio Bolsonaro lands in Miami, declares himself Brazil’s true ‘leader’ - The Washington Post
-- These are the House races to watch in the 2026 midterm election on Nov. 3 - NPR
-- No clear winner in Israel election with nearly 90 percent of votes counted - Al Jazeera
-- Manhunt grows for escaped murderer who may have left area where truck was ditched - NBC News
-- Dolores Huerta, activist and labor leader who advocated for farmworkers, dies at 96 - KCRA
-- Justice Department Push Against Trump’s Foes Reaches Higher Gear - WSJ
-- King tides inundate streets and flood homes and businesses along both US coasts - AP News
-- North Korea fires missile barrage toward the sea as tensions with South rise - AP News
-- A U.K. Budget With ‘Breathing Space’ in a Time of Rising Energy Costs - The New York Times
-- Moscow, Pyongyang back network sending workers to Russian factories, report says - Reuters
-- Germany and other EU countries block von der Leyen's plan to give Canada 'associate membership' - DW.com
-- Nasdaq-100 futures fall over 1% as Alphabet shares sell off after earnings report: Live updates - CNBC
-- Why Microsoft stock isn't getting crushed like Google stock after its earnings report - Yahoo Finance
-- Federal Reserve holds interest rates steady as midterm elections loom - ABC News - Breaking News, Latest News and Videos
-- An ‘Endless’ Cruise Around the World Is Suspended, Leaving Passengers Stranded - The New York Times
-- Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme - TechCrunch
-- Apple Releases Mac Studio With 512GB of RAM, But It Costs As Much As a Small Car - PCMag
+- Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate - BBC
+- 5 days until midterms, Trump heads to South Carolina as Senate race tightens - Fox News
+- How Netanyahu Used Fear, Again, to Win More Votes Than Anyone Else - The New York Times
+- Democrats in striking distance: New CNN polls in four states highlight party’s path to Senate majority - CNN
+- Hackers expose the identities of more than 40,000 DHS employees - NPR
+- Hegseth fires Pentagon's top military planner over what official says were leaks to media - CBS News
+- Support dwindles for wealth tax, voter ID ballot measures, new poll shows - Los Angeles Times
+- Fox News Power Rankings: South Carolina moves to toss-up - Fox News
+- Man accused in Cornell rape lawsuit wants Letitia James removed from investigation over her posts - AP News
+- Federal judge denies Trump administration's request to segregate 20,000 ballots in California - ABC7 Los Angeles
+- Christine Lagarde to Step Down as President of European Central Bank - The New York Times
+- Shock of rail tragedy gives way to sorrow and outrage in politically divided Spain - BBC
+- At least 13 people killed in Russian attack on Dnipro train station - Al Jazeera
+- China’s Xi Demands More Loyalty as Purges Trim Party Elite - WSJ
+- U.S. economy grew at a fast clip this summer, thanks to business, consumer spending - The Washington Post
+- Stock Market Today: Nasdaq Sinks 350 Points; Google Stock's Tumble in Focus — Live Updates - WSJ
+- DoorDash strikes $17 billion deal for US rival Instacart in mega grocery delivery bet - Reuters
+- Fed’s preferred inflation gauge rose in September as third-quarter GDP beats expectations - Fox Business
+- Everything Apple Announced at Its 'Pro and Tell' Event: Touch-Screen MacBook Pro, M6 Macs, More - PCMag
+- EasySMX S10 Lite Review: A Switch 2 Fidget Toy With A Weird Removable Faceplate - Engadget
