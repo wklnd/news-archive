@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-29 21:08_
+_Updated: 2026-10-30 01:29_
 
 ## Top Stories
 
-- Talmannen: C-ledaren ska prövas – sedan får Kristersson chansen - Altinget.se
-- Mitt i sorgen efter tågolyckan kom beskedet: Mannen hade överlevt - Göteborgs-Posten
-- Idrottshall brinner i Tumba: ”Går inte att rädda” - SVT Nyheter
-- Fyra anhållna efter misstänkt kidnappning - Västerbottens-Kuriren
-- Eskilstunabo misstänkt – för mord i Bagarmossen - Ekuriren
-- Upp till 50 mil lång algblomning stoppade dricksvatten till Gaza och Israel - Dagens Nyheter
-- Försvunna kvinnan från Karlskoga hittad död - SVT Nyheter
-- S-toppens kritik mot ledningen: ”En förlorande strategi” - Dagens Nyheter
-- Strömsundsbron öppnar för gående och cyklister - Västerbottens-Kuriren
-- Ildar Galiyev misstänks ligga bakom mordvåg – tiger sig igenom förhören - Dagens Nyheter
-- Støre ryter ifrån – kräver rättelse om Putin-samtal - Göteborgs-Posten
-- Räddade djur vid fronten – dog i drönarattack - Dagens Nyheter
-- Mellanårsvalet i USA – följ senaste nytt - SVT Nyheter
-- Källor: USA varnar för nya attacker mot Iran - Corren
-- Lagarde lämnar ECB i förtid för att kunna uttala sig om fransk politik - https://morgonbladet.se/
-- USA:s ekonomi växte oväntat snabbt under tredje kvartalet - Börskollen
+- Magdalena Anderssons kritik mot talmannen: ”Anmärkningsvärt” - Göteborgs-Posten
+- Många vill ge blod efter olyckan – samtidigt som vreden växer mot regeringen - Dagens Nyheter
+- Analys: De står inte på valsedeln men tar över valkampen - Göteborgs-Posten
+- Statsvetaren om talmannens tempo: Ökar sannolikheten för extra val - Dagens Nyheter
+- Putin: Ryssland redo för krig med Europa - Aftonbladet
+- Kartkriget kan straffa Republikanerna i mellanårsvalet - Dagens Nyheter
+- SD skakas av bråk om svenskhet: ”Oerhört olyckligt för partiet” - Dagens Nyheter
+- Fyra anhållna efter misstänkt människorov i Malmö - SVT Nyheter
+- Kvinna hittad avliden • Kökrock på E18 • Påkörd av bil - Nya Wermlands-Tidningen
+- Ett körfält blockerat på grund av en stillastående personbil på E4 - UNT
+- Henrik Brandão Jönsson: Högern vänder Flávio Bolsonaro ryggen efter flykten - Dagens Nyheter
+- Valresultatet här: Netanyahu saknar majoritet – Israels regeringsbildning oviss - SVT Nyheter
+- Putin kommenterar Stubbsamtal: Vill återställa relationer med Europa - Hufvudstadsbladet – HBL
+- DN Direkt – Franska ministern: Extremvänstern mobiliserar inför protest - Dagens Nyheter
+- Tungt börsfall i New York – Alphabet rasar tvåsiffrigt - EFN
+- Ett kreditkort utmanar matjättarnas egna kort - Svenska Dagbladet
+- Sjuksköterskor får sänkt ob – ”ramaskri” - Nerikes Allehanda
 - Wallenbergs krutbolag får uppdrag av FMV - Affärsvärlden
-- Dieselbilarna är snabbt på väg bort - Svenska Dagbladet
 - Nya Macbook Pro får pekskärm – här är de 5 största nyheterna - Macworld.se
 - Nu drar höstens vaccinationer i gång - Hudiksvalls Tidning
 
@@ -30,40 +30,40 @@ _Updated: 2026-10-29 21:08_
 - Första staden som bidrar till global fond för naturen - Aktuell Hållbarhet
 - Global Exploration Summit pågår just nu i Coimbra! - The Portugal News
 - Global hotellkedja med 141 hotell i Sverige byter namn - Realtid
-- Pareto sänker riktkursen för VNV Global till 25 kronor - upprepar köp - Börsvärlden
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Ho Chi Minh-staden strävar efter att utvecklas till en global stad. - Vietnam.vn
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
-- Norden vill samla stark global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
-- Neonode Surpasses 100 Million Technology Licenses Worldwide - DI
-- Från medresenärer till medskapare: LEPAS presenterar sina första Global Elegant Partners - EIN Presswire
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Trump celebrates Messi, revels in Inter Miami’s “good looks” - Reuters
-- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
-- BREAKING NEWS. Putin kommenterar USA-valet! - Global Bar Magazine
+- Volvo Cars reports Q3 2026 sales - Volvo
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Två fina priser till NTM i årets INMA Global Awards - NTM
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
+- Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- International Media Recognize FOTILE's Next-Generation In-Sink Dishwasher During Global HQ Tour (PR Newswire) - Aktiellt
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Ögonblick vi minns från Global Series i Sverige - NHL.com
 
 ## Technology
 
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - Tre år med AI: Vad har hänt med jobben? - Almega
+- AI-explosion på svenska arbetsplatser - Computer Sweden
 - Förordningen om artificiell intelligens - Council, European Union
-- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
 - Bästa AI-aktierna att köpa nu - Morningstar
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - 290 million for digitalisation of Swedish industry - Vinnova
+- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
 - Lösningar för artificiell intelligens (AI) - SAS: Data and AI Solutions
-- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - Artificiell intelligens: Möjligheter och risker - European Parliament
 - Sandvik AI investments - smarter Industry solutions - Sandvik Group
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
+- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
-- AI-explosion på svenska arbetsplatser - Computer Sweden
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Use of artificial intelligence by the police: MEPs oppose mass surveillance - European Parliament
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
@@ -86,46 +86,48 @@ _Updated: 2026-10-29 21:08_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Fonderna som investerar i megatrenden - Avanzabloggen
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Matvanor för god hälsa och miljö - Läkartidningen
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap vid SLU - SLU
+- Naturvetenskapliga universitetet föreslår en modell för att koppla samman grundläggande vetenskaplig forskning med nationella strategiska teknologier - Naturvetenskapliga universitetet, VNU-HCM - Vietnam.vn
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Täta band mellan turism och forskning på Svalbard - SLU
+- Google investerar i Zuckerbergs Biohub. Ska utveckla dataset för biologisk forskning. - Feber
+- Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- 2026-10-20 Seminarium på KSLA: Forskning och innovation, hur motståndskraftiga grödor bidrar till global livsmedelsförsörjning - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Andrea del Valle - Karolinska Institutet
-- AI för vetenskaplig forskning och upptäckter - OpenAI
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- AI för vetenskaplig forskning och upptäckter - OpenAI
+- Täta band mellan turism och forskning på Svalbard - SLU
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Årets tio största vetenskapliga genombrott - Dagens Nyheter
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 
 ## Jordbruk
 
 - Sveriges förändrade lantbruk - SLU
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Här är världens största jordbruk - ATL
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Lantbrukslogik – nu och i framtiden - SLU
 - Jord, kor och klimat - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
