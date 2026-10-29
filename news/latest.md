@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-29 04:51_
+_Updated: 2026-10-29 12:24_
 
-- Spain train crash kills at least 68 as witnesses describe devastating scenes - CNN
-- Flávio Bolsonaro Lands in Miami After Fleeing Brazil - The New York Times
-- Judge denies the Justice Department's bid to stop processing California ballots - NPR
-- NBC Reporter Who’s Covered ‘Dozens if Not Hundreds’ of MAGA Rallies Says He’s Never Seen Trump Speak at Such a Small Venue - Mediaite
-- Trump kills methane rule days after a plume was found near his rally - Politico
-- Trump calls for prosecution of Democratic Alaska Senate candidate over spoiler candidate controversy - AP News
-- ‘Lisa is Lisa’: Murkowski endorses a Democrat as she faces 2028 dilemma - Politico
-- Dolores Huerta, resolute champion of workers’ rights, dies at 96 - The Washington Post
-- Conservative activists O’Keefe, Higby charged with unlawful voting in Minnesota - AP News
+- Alaska Governor Orders Criminal Investigation Into Peltola Campaign - The New York Times
+- What we know so far about deadly Spain train crash - BBC
+- Judge denies federal request to segregate California ballots, says it would 'wreak havoc' on voting - AP News
+- Flávio Bolsonaro lands in Miami, declares himself Brazil’s true ‘leader’ - The Washington Post
+- These are the House races to watch in the 2026 midterm election on Nov. 3 - NPR
+- No clear winner in Israel election with nearly 90 percent of votes counted - Al Jazeera
+- Manhunt grows for escaped murderer who may have left area where truck was ditched - NBC News
+- Dolores Huerta, activist and labor leader who advocated for farmworkers, dies at 96 - KCRA
 - Justice Department Push Against Trump’s Foes Reaches Higher Gear - WSJ
+- King tides inundate streets and flood homes and businesses along both US coasts - AP News
+- North Korea fires missile barrage toward the sea as tensions with South rise - AP News
 - A U.K. Budget With ‘Breathing Space’ in a Time of Rising Energy Costs - The New York Times
-- Iran sees only unacceptable ideas in latest mediation to end war, official says - Reuters
-- Netanyahu claims stolen election amid failure to secure victory - Politico
-- Election polls in New Zealand continue to show no clear outcome - Reuters
-- Alphabet Shares Tank on Sales Misses Across Core Businesses - Bloomberg
-- Federal Reserve makes interest rate decision ahead of midterms - Fox Business
-- Microsoft earnings live: Microsoft beats Q1 expectations on top and bottom line on AI growth - Yahoo Finance
-- Couple who lived on cruise ship for 2 years forced off in Cambodia after company halts operations - 12News
+- Moscow, Pyongyang back network sending workers to Russian factories, report says - Reuters
+- Germany and other EU countries block von der Leyen's plan to give Canada 'associate membership' - DW.com
+- Nasdaq-100 futures fall over 1% as Alphabet shares sell off after earnings report: Live updates - CNBC
+- Why Microsoft stock isn't getting crushed like Google stock after its earnings report - Yahoo Finance
+- Federal Reserve holds interest rates steady as midterm elections loom - ABC News - Breaking News, Latest News and Videos
+- An ‘Endless’ Cruise Around the World Is Suspended, Leaving Passengers Stranded - The New York Times
 - Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme - TechCrunch
-- PSA: Your Discord messages could soon show up on Google, but here's how to opt out - Android Authority
+- Apple Releases Mac Studio With 512GB of RAM, But It Costs As Much As a Small Car - PCMag
