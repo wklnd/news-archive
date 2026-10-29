@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-29 01:32_
+_Updated: 2026-10-29 04:51_
 
-- Report: Peltola's campaign involved in effort to recruit second Dan Sullivan for Alaska Senate race - AP News
 - Spain train crash kills at least 68 as witnesses describe devastating scenes - CNN
-- Flavio Bolsonaro, from US, declares himself rightful leader of Brazil after losing election - Reuters
-- The Israeli election is deadlocked - NPR
-- Garrett Haake Says He's Never Seen Trump at a Smaller Venue - Mediaite
-- Dolores Huerta, Who Founded United Farm Workers With Cesar Chavez, Dies - The New York Times
-- Conservative influencers charged with unlawful voting after ‘Muslim garb’ election stunt - The Guardian
-- 3 major issues that Republican Byron Donalds or Democrat David Jolly will need to address as Florida’s next governor - The Conversation
-- California election official says federal agents threatened him over ‘voter fraud’ - The Guardian
+- Flávio Bolsonaro Lands in Miami After Fleeing Brazil - The New York Times
+- Judge denies the Justice Department's bid to stop processing California ballots - NPR
+- NBC Reporter Who’s Covered ‘Dozens if Not Hundreds’ of MAGA Rallies Says He’s Never Seen Trump Speak at Such a Small Venue - Mediaite
+- Trump kills methane rule days after a plume was found near his rally - Politico
+- Trump calls for prosecution of Democratic Alaska Senate candidate over spoiler candidate controversy - AP News
+- ‘Lisa is Lisa’: Murkowski endorses a Democrat as she faces 2028 dilemma - Politico
+- Dolores Huerta, resolute champion of workers’ rights, dies at 96 - The Washington Post
+- Conservative activists O’Keefe, Higby charged with unlawful voting in Minnesota - AP News
 - Justice Department Push Against Trump’s Foes Reaches Higher Gear - WSJ
 - A U.K. Budget With ‘Breathing Space’ in a Time of Rising Energy Costs - The New York Times
-- Russell Brand Takes Stand In Rape Trial — Says People Have Abandoned Him - Rolling Stone
 - Iran sees only unacceptable ideas in latest mediation to end war, official says - Reuters
-- Houthis strike Yemen's Aden airport after evacuation warning - Reuters
-- Fed leaves rates steady as governor Lisa Cook dissents - Axios
-- Google Shares Fall 10% as Growth in Search Revenue Slows - WSJ
-- Cruise line folds over fuel costs, booting passengers in Cambodia - The Washington Post
-- Weil Junior Lawyers Urged to Find Work With Firm in Jeopardy (1) - Bloomberg Law News
-- Apple Unveils Touch-Screen MacBook Pro, Reversing Long-Held Jobs Stance - Bloomberg.com
-- Reddit is the latest platform to embrace the ‘For You’ feed - TechCrunch
+- Netanyahu claims stolen election amid failure to secure victory - Politico
+- Election polls in New Zealand continue to show no clear outcome - Reuters
+- Alphabet Shares Tank on Sales Misses Across Core Businesses - Bloomberg
+- Federal Reserve makes interest rate decision ahead of midterms - Fox Business
+- Microsoft earnings live: Microsoft beats Q1 expectations on top and bottom line on AI growth - Yahoo Finance
+- Couple who lived on cruise ship for 2 years forced off in Cambodia after company halts operations - 12News
+- Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme - TechCrunch
+- PSA: Your Discord messages could soon show up on Google, but here's how to opt out - Android Authority
