@@ -1,48 +1,55 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-30 12:21_
+_Updated: 2026-10-30 18:46_
 
 ## Top Stories
 
-- Åkesson: ”Egocentriska, självutnämnda idéväktare” - Dagens Nyheter
-- Man i Bohuslän misstänkt för våldtäkt mot barn – begärs häktad - SVT Nyheter
-- Källor: Ukraina pausar anfall mot rysk energi - Västerbottens-Kuriren
-- Man häktad för mordet i Bagarmossen - Omni – Alla nyheter. Alla perspektiv.
-- Varnar för ny våg – går hårt mot äldre - Aftonbladet
-- Talmannens besked – omröstning om Thand Ringqvist (C) - Göteborgs-Posten
-- Migrationsverket pausar inte utvisningar - Västerbottens-Kuriren
-- Brister i arbetsmiljön på SSAB:s prestigeprojekt - Dagens Nyheter
-- Fyra anhållna efter misstänkt människorov i Malmö - SVT Nyheter
-- E4 stängdes av på grund av sjukvårdinsats - SVT Nyheter
-- Två helikoptrar har krockat i luften – tre döda - SVT Nyheter
-- Hundratusentals strömlösa efter attacker i Ukraina - Dagens Nyheter
-- Hon leder landet där kvinnorna styr – ”ett intressant experiment” - Dagens Nyheter
-- Valresultatet här: Netanyahu saknar majoritet – Israels regeringsbildning oviss - SVT Nyheter
-- Tyskland växer och Frankrike krymper mätt i BNP - Omni – Alla nyheter. Alla perspektiv.
-- Rekordkupp skakar tilltron till krypto - Finanswatch.se
-- Ny avgift – dyrare paket utanför EU - Corren
-- Prognos: Svenska kronan ska stärkas mot euro och dollar - Omni – Alla nyheter. Alla perspektiv.
+- Håkan Boström: Bra att talmannen ökar tempot - Göteborgs-Posten
+- Dubbeldäckare har kört i diket – väg 161 avstängd - SVT Nyheter
+- Åkesson om SD-bråket: ”Extremt provocerande” - Corren
+- Väljarnas dom: Socialdemokraterna är fast i det förgångna - Dagens Nyheter
+- Vägglöss på akuten: "Låg risk att någon drabbats" - UNT
+- Klimatforskaren Andreas Malm nekas inresa i Storbritannien - SVT Nyheter
+- Lärare misstänks för barnvåldtäkt i Grästorp – nekar till anklagelserna - Nya Lidköpings-Tidningen
+- Man häktad för dödsskjutning i Stockholm - Göteborgs-Posten
+- Man begärs häktad för mord på sin sambo - Västerbottens-Kuriren
+- En person skadad i villabrand - TV4 Nyheterna
+- Pike om misslyckade avrättningen: ”Vaknade förvirrad” - Aftonbladet
+- Direkt – Kriget i Ukraina – Fler broar byggs i Kiev efter ryska attacker - Dagens Nyheter
+- Esthers bror försvann i spanska tågolyckan: ”Långa timmar” - Göteborgs-Posten
+- Många evakuerade från krigshärjad stad - Corren
+- Rekordstort cyberangrepp mot Binance – 60 miljarder befaras vara borta - Omni – Alla nyheter. Alla perspektiv.
+- Förändrade biljettpriser hos Skånetrafiken väcker politisk debatt - Skåne Plus
+- Ny avgift – dyrare paket utanför EU - Tidningen Näringslivet
+- DN Direkt – Apple återigen störst – går om Nvidia - Dagens Nyheter
 - Hoppsan! Apple har satt sin första pekskärm på fel MacBook - TechRadar
-- Nu drar höstens vaccinationer i gång - Hudiksvalls Tidning
+- Johannes fick i uppdrag att granska forskning– var plagiat av hans egen - Västerbottens-Kuriren
 
 ## World News
 
 - Första staden som bidrar till global fond för naturen - Aktuell Hållbarhet
 - Global hotellkedja med 141 hotell i Sverige byter namn - Realtid
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Global Exploration Summit pågår just nu i Coimbra! - The Portugal News
-- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
-- Pareto sänker riktkursen för VNV Global till 25 kronor - upprepar köp - Börsvärlden
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Ho Chi Minh-staden strävar efter att utvecklas till en global stad. - Vietnam.vn
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- Trump celebrates Messi, revels in Inter Miami’s “good looks” - Reuters
+- Volvo Cars reports Q3 2026 sales - Volvo
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Visual Art köper Global Agencies - Dagens Media
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Ögonblick vi minns från Global Series i Sverige - NHL.com
 
 ## Technology
 
-- Quang Ninh-provinsen inviger AI-forskningssamarbetscenter och utställningsområde för grön teknik och digitala energiprodukter. - Vietnam.vn
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Data Centre Expo Sweden - Mynewsdesk
@@ -54,13 +61,14 @@ _Updated: 2026-10-30 12:21_
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Konstgjord intelligens inom medicin och utbildning: blir läkare och lärare överflödiga? Hur AI förändrar yrken - Xpert.Digital - Konrad Wolfenstein
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Quang Ninh-provinsen inviger AI-forskningssamarbetscenter och utställningsområde för grön teknik och digitala energiprodukter. - Vietnam.vn
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Svenska företag riskerar tappa i AI-racet - Techarenan News
 - Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
 - Metas tidigare AI-chef slår Europarekord – tar in 9 miljarder - Computer Sweden
-- Warum Künstliche Intelligenz-Modelle kein Bewusstsein haben können - Xpert.Digital - Konrad Wolfenstein
+- ”AI:s gudfader” varnar – men ”AI:s fader” inte rädd - Omni – Alla nyheter. Alla perspektiv.
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 
 ## Business
@@ -79,27 +87,48 @@ _Updated: 2026-10-30 12:21_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Health-ISAC Hacking Healthcare 10-27-2026 - Health-ISAC
+- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
+- Vi presenterar HealthBench - OpenAI
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Existentiell hälsa kräver ett samhällsperspektiv - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Fonderna som investerar i megatrenden - Avanzabloggen
+- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Tre faktorer för en god psykisk hälsa - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap vid SLU - SLU
+- Naturvetenskapliga universitetet föreslår en modell för att koppla samman grundläggande vetenskaplig forskning med nationella strategiska teknologier - Naturvetenskapliga universitetet, VNU-HCM - Vietnam.vn
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Täta band mellan turism och forskning på Svalbard - SLU
+- Google investerar i Zuckerbergs Biohub. Ska utveckla dataset för biologisk forskning. - Feber
+- Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- 2026-10-20 Seminarium på KSLA: Forskning och innovation, hur motståndskraftiga grödor bidrar till global livsmedelsförsörjning - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- 5 myter om öppen vetenskap - Läkartidningen
+- Forskningen ska vara fri - European Commission
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Andrea del Valle - Karolinska Institutet
-- AI för vetenskaplig forskning och upptäckter - OpenAI
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
+- AI för vetenskaplig forskning och upptäckter - OpenAI
+- Täta band mellan turism och forskning på Svalbard - SLU
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Årets tio största vetenskapliga genombrott - Dagens Nyheter
 
 ## Jordbruk
 
@@ -116,10 +145,10 @@ _Updated: 2026-10-30 12:21_
 - De gick från reko till eko - ST-tidningen
 - Intäkten upp för Pellbrants Farming - Västerbottens Mellanbygd
 - Framtidens jordbruk är här - Shaping Europe’s digital future
-- Kan agroekologi mätta världen? - SLU
 - Här är världens största jordbruk - ATL
+- Kan agroekologi mätta världen? - SLU
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Markbristen: EUs unga bönders största utmaning - Land.se
