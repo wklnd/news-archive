@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-30 00:00_
+_Updated: 2026-10-30 04:31_
 
-- Patrick Stewart, Shakespearean actor turned 'Star Trek' and 'X-Men' star, dies at 86 - Reuters
-- Alaska governor orders investigation into Peltola camp after report they recruited second Dan Sullivan - NBC News
-- Federal judge denies Trump administration's request to segregate 20,000 ballots in California - ABC7 Los Angeles
-- Before appearing in an ad calling Amy Acton a ‘liar,’ her mother faced years of turmoil, records show - NBC News
-- Ilhan Omar Investigation Involves New Scrutiny of Long-Disputed Marriage - The New York Times
-- Shock of rail tragedy gives way to sorrow and outrage in politically divided Spain - BBC
-- Man accused in Cornell rape lawsuit wants Letitia James removed from investigation over her posts - AP News
-- Support dwindles for wealth tax, voter ID ballot measures, new poll shows - Los Angeles Times
-- U.S. citizens included on Justice Department list of 400 alleged noncitizens, Washington state says - CBS News
-- General ousted by Hegseth referred for criminal prosecution, officials say - The Washington Post
+- DoJ reportedly issues subpoenas over same-name Alaska candidates - The Guardian
+- DOJ subpoenas local election officials over claims of noncitizen voting in California - NBC News
+- Midterms live updates: Trump scraps another red-state rally as he shifts strategy ahead of midterms - CNN
+- Hegseth fires the Pentagon's top military planner even as Trump considers new Iran strikes - PBS
+- Vivek Ramaswamy's ad featuring Amy Acton's mother stops airing in Ohio - The Columbus Dispatch
+- 3 dead after 2 helicopters collide midair near Oregon airport, sheriff says - CNN
+- Judge considers whether Letitia James should be removed from Cornell rape case - The Washington Post
+- Pentagon plans for death of Trump’s record military budget - Politico
+- Obama admin first launched the investigation into Ilhan Omar's alleged brother marriage - Fox News
+- A ‘compulsion’ to hurt kids: San Diego woman pleads guilty to killing best friend’s baby - Los Angeles Times
+- Bukele's gang offensive goes abroad as El Salvador rushes troops to Haiti - Reuters
 - Israel election result shows no overall majority as vote count complete - Al Jazeera
-- Greek container ship sinks after drone attack off Bulgaria - Reuters
-- China Confirms Expulsion of 33 Officials, as Xi’s Purge Deepens - The New York Times
-- US and Japan agree to establish a Japanese facility for joint missile production - NPR
-- Amazon earnings live: Q3 earnings miss sends stock lower - Yahoo Finance
-- Wall Street ends lower as Alphabet revenue miss revives AI capex jitters - Reuters
-- Consumers and A.I. Spending Push U.S. Economic Growth Higher - The New York Times
-- DoorDash to Buy Rival Instacart in $17 Billion Deal - Bloomberg.com
-- Everything Apple Announced at Its 'Pro and Tell' Event: Touch-Screen MacBook Pro, M6 Macs, More - PCMag
-- Microsoft fixes a Windows 11 annoyance as PC revenue declines - Ars Technica
+- Exclusive | The Troubled History of Russia’s Anti-Plague Institute - WSJ
+- Protests erupt in Spain after train crash kills dozens - NBC News
+- Wall Street ends lower as Alphabet revenue miss revives AI capex jitters - Yahoo Finance
+- Crypto worth billions frozen after suspected Binance hack - BBC
+- Robust consumer spending, AI-related investment power US economy in third quarter - Reuters
+- Amazon Spending Soars Amid Slowing Growth of Online Business - Bloomberg
+- How macOS Adapts Its Controls for Touch on the New MacBook Pro - MacRumors
+- Apple VP talks new iPad mini: OLED without ProMotion, Acoustic Display, more - 9to5Mac
