@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-30 10:58_
+_Updated: 2026-10-30 18:13_
 
-- Trump cancels weekend rallies in Iowa and Kansas in favor of holding numerous tele-rallies - NBC News
-- DOJ contends Democrats misled court on Alaska Senate race - Politico
-- Justice Department issues subpoenas to California election workers - NPR
-- Israel’s election ended in deadlock. Here are four ways out - CNN
-- Exclusive: Fired general admitted to leaking classified Iran and Ukraine info, report says - Axios
-- Three dead after two helicopters collide midair near Oregon airport - BBC
-- Vivek Ramaswamy discontinues attack ad that prompted wave of revulsion - The Guardian
+- Trump uncancels weekend rallies in Iowa and Kansas with Senate control at stake - NBC News
+- Alaska Senate candidate denies knowing about alleged plot to put 2 Dan Sullivans on ballot - BBC
+- ‘My Body Hurts’: Christa Pike Describes Pain and Isolation After Botched Execution - The New York Times
+- Here are the Senate races to watch ahead of Election Day - NPR
+- Why is the Cheesecake Factory at the center of the latest culture war? - NPR
+- Pope Leo casts absentee ballot in Illinois to vote in the midterms - NBC News
 - Judge considers whether Letitia James should be removed from Cornell rape case - The Washington Post
-- Judge presses the Trump administration for details on its campaign to stop noncitizens from voting - AP News
-- A midterm crossroads for both parties eyeing the beginning of the end of the Trump era - AP News
-- Russian oil refinery reportedly attacked amid renewed Ukrainian strikes on energy infrastructure - The Kyiv Independent
-- Copper thieves arrested over Plaka gas explosion that killed six - eKathimerini.com
-- Exclusive | The Troubled History of Russia’s Anti-Plague Institute - WSJ
-- China expels a record number from Communist party amid Xi’s intensified purges of top officials - The Guardian
-- Crypto giant Binance hit by $6.3bn hack suspected to be largest in history - BBC
-- Intel Earnings: 2 Reasons the Stock Is Down So Much - Barron's
-- Wall Street ends lower as Alphabet revenue miss revives AI capex jitters - Yahoo Finance
-- Amazon Spending Soars Amid Slowing Growth of Online Business - Bloomberg.com
-- How macOS Adapts Its Controls for Touch on the New MacBook Pro - MacRumors
-- Assassin’s Creed Franchise Update Reveals Codename Hexe News Coming Next Year, New Game Plus for Valhalla, And Confirms No New Remakes - Game Informer
+- An ICE officer has been charged after striking a man with a car in Houston - CNN
+- Vivek Ramaswamy Pulls Amy Acton Mother Ad After Bipartisan Backlash - Forbes
+- Why Cancer Is a Major Issue in Iowa’s Heated Race for Governor - The New York Times
+- No Clear Winner in Israel Election, Final Results Show - The New York Times
+- Iran hits Hormuz tanker with limpet mines in apparent tactical shift - Financial Times
+- Spain transport minister says he won't resign over high-speed rail disaster - BBC
+- Pentagon tells Europeans to cool their rhetoric on Russia, sources say - Defense News
+- 'Bad time to troll': Binance cofounder Changpeng Zhao asks Elon Musk for 'respect' after post about bitcoin hack - CNBC
+- Stock market today: Nasdaq futures dive, S&P 500 futures fall as Amazon, Intel earnings rattle investors - Yahoo Finance
+- Why Intel’s stock is sinking toward its worst day in two years — and a $128 billion wipeout - MarketWatch
+- ExxonMobil and Chevron report blowout profits as Trump touts benefits of high oil prices - NBC News
+- Lenovo Googlebook 15 Review: Your Android Phone's New Best Friend - Engadget
+- Scientists Crack Solar Panels' 33% Efficiency Ceiling - BGR
