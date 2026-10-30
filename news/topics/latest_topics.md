@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-30 01:29_
+_Updated: 2026-10-30 04:48_
 
 ## Top Stories
 
 - Magdalena Anderssons kritik mot talmannen: ”Anmärkningsvärt” - Göteborgs-Posten
-- Många vill ge blod efter olyckan – samtidigt som vreden växer mot regeringen - Dagens Nyheter
-- Analys: De står inte på valsedeln men tar över valkampen - Göteborgs-Posten
+- Mitt i sorgen efter tågolyckan kom beskedet: Mannen hade överlevt - Göteborgs-Posten
+- Källor: Ukraina pausar anfall mot rysk energi - Västerbottens-Kuriren
 - Statsvetaren om talmannens tempo: Ökar sannolikheten för extra val - Dagens Nyheter
-- Putin: Ryssland redo för krig med Europa - Aftonbladet
-- Kartkriget kan straffa Republikanerna i mellanårsvalet - Dagens Nyheter
-- SD skakas av bråk om svenskhet: ”Oerhört olyckligt för partiet” - Dagens Nyheter
-- Fyra anhållna efter misstänkt människorov i Malmö - SVT Nyheter
-- Kvinna hittad avliden • Kökrock på E18 • Påkörd av bil - Nya Wermlands-Tidningen
-- Ett körfält blockerat på grund av en stillastående personbil på E4 - UNT
-- Henrik Brandão Jönsson: Högern vänder Flávio Bolsonaro ryggen efter flykten - Dagens Nyheter
 - Valresultatet här: Netanyahu saknar majoritet – Israels regeringsbildning oviss - SVT Nyheter
-- Putin kommenterar Stubbsamtal: Vill återställa relationer med Europa - Hufvudstadsbladet – HBL
-- DN Direkt – Franska ministern: Extremvänstern mobiliserar inför protest - Dagens Nyheter
-- Tungt börsfall i New York – Alphabet rasar tvåsiffrigt - EFN
+- Putin: Ryssland redo för krig med Europa - Aftonbladet
+- SD skakas av bråk om svenskhet: ”Oerhört olyckligt för partiet” - Dagens Nyheter
+- Ett körfält blockerat på grund av en stillastående personbil på E4 - UNT
+- Man begärs häktad efter mordet i Bagarmossen - SVT Nyheter
+- Strömsundsbron öppnar för gående och cyklister - Västerbottens-Kuriren
+- Henrik Brandão Jönsson: Högern vänder Flávio Bolsonaro ryggen efter flykten - Dagens Nyheter
+- Analys: De står inte på valsedeln men tar över valkampen - Göteborgs-Posten
+- Støre ryter ifrån – kräver rättelse om Putin-samtal - Västerbottens-Kuriren
+- Mellanårsvalet i USA – följ senaste nytt - SVT Nyheter
+- Alphabet rekordrasar på fallande USA-börser - DI
+- Sjuksköterskor får sänkt ob – ”ramaskri” - Svenska Dagbladet
+- Wall Street backar i den inledande handeln - Placera.se
 - Ett kreditkort utmanar matjättarnas egna kort - Svenska Dagbladet
-- Sjuksköterskor får sänkt ob – ”ramaskri” - Nerikes Allehanda
-- Wallenbergs krutbolag får uppdrag av FMV - Affärsvärlden
 - Nya Macbook Pro får pekskärm – här är de 5 största nyheterna - Macworld.se
 - Nu drar höstens vaccinationer i gång - Hudiksvalls Tidning
 
@@ -39,49 +39,60 @@ _Updated: 2026-10-30 01:29_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- International Media Recognize FOTILE's Next-Generation In-Sink Dishwasher During Global HQ Tour (PR Newswire) - Aktiellt
-- Bildextra: NHL Global series med Icelandair - travelnews-se
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- International Media Recognize FOTILE's Next-Generation In-Sink Dishwasher During Global HQ Tour (PR Newswire) - Aktiellt
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
 
 ## Technology
 
-- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- Tre år med AI: Vad har hänt med jobben? - Almega
-- AI-explosion på svenska arbetsplatser - Computer Sweden
-- Förordningen om artificiell intelligens - Council, European Union
-- Bästa AI-aktierna att köpa nu - Morningstar
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Data Centre Expo Sweden - Mynewsdesk
+- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
+- Timnit Gebru - Right Livelihood
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Northvolt tech revived as Carlsson launches Aris Machina - Norran
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
-- Lösningar för artificiell intelligens (AI) - SAS: Data and AI Solutions
-- Artificiell intelligens: Möjligheter och risker - European Parliament
-- Sandvik AI investments - smarter Industry solutions - Sandvik Group
-- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
-- Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
+- Konstgjord intelligens inom medicin och utbildning: blir läkare och lärare överflödiga? Hur AI förändrar yrken - Xpert.Digital - Konrad Wolfenstein
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Quang Ninh-provinsen inviger AI-forskningssamarbetscenter och utställningsområde för grön teknik och digitala energiprodukter. - Vietnam.vn
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Use of artificial intelligence by the police: MEPs oppose mass surveillance - European Parliament
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Svenska företag riskerar tappa i AI-racet - Techarenan News
+- Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
+- Metas tidigare AI-chef slår Europarekord – tar in 9 miljarder - Computer Sweden
+- Warum Künstliche Intelligenz-Modelle kein Bewusstsein haben können - Xpert.Digital - Konrad Wolfenstein
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
 
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Nam A Bank utökar grön finansiering för små och medelstora företag. - Vietnam.vn
 - Stödja företag i övergången till ESG, förbättra tillgången till grön finansiering. - Vietnam.vn
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
+- Nam A Bank stärker globala resursförbindelser och främjar ESG och teknologi på AEF 2026. - Vietnam.vn
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
+- Organon lanserar ett nytt företag för kvinnohälsa - Via TT
+- What are BIN sponsorships and how do they drive the digital economy - Mastercard
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Framtidens värdeskapande kräver resiliens - EY
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 
 ## Health
 
@@ -121,13 +132,23 @@ _Updated: 2026-10-30 01:29_
 
 ## Jordbruk
 
-- Sveriges förändrade lantbruk - SLU
-- Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Nestlé och BirdLife Europe inleder samarbete för att mäta hur regenerativt jordbruk kan stärka biologisk mångfald - Mynewsdesk
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Jordbrukspolitik - Naturvårdsverket
+- Framtidens jordbruk - European Commission
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- De gick från reko till eko - ST-tidningen
+- Intäkten upp för Pellbrants Farming - Västerbottens Mellanbygd
+- Framtidens jordbruk är här - Shaping Europe’s digital future
+- Kan agroekologi mätta världen? - SLU
 - Här är världens största jordbruk - ATL
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Jord, kor och klimat - SLU
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
