@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-31 03:02_
+_Updated: 2026-10-31 09:29_
 
-- Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case - NPR
-- 2026 Elections Live Updates: Court Rejects Latest Trump Effort to Impound California Ballots - The New York Times
-- Obamacare Dealt Yet Another Blow as Premiums Rise Again - The New York Times
-- Justice Department requests separating Alaska ballots that rank Dan J. Sullivan in Senate race - NBC News
-- Police secure Poland’s Constitutional Tribunal as protests erupt over court chief’s suspension - AP News
-- Federal judge signals she may halt construction on Trump’s arch - The Washington Post
-- Grand jury indicts ICE officer for striking Houston immigrant with vehicle - Houston Public Media
-- ‘My Body Hurts’: Pike Describes Pain and Isolation After Botched Execution - The New York Times
-- Carney says he can wait out Trump for trade deal - Politico
-- Leo XIV has become the first pope in history to vote in a US general election - AP News
+- Alaska voters react to allegations of a spoiler in the U.S. Senate race - NPR
+- Court Rejects Latest Trump Effort to Impound California Ballots - The New York Times
+- El-Sayed asks Stevens to stay away as Democrats’ attempt at unity blows up - The Washington Post
+- 2026 midterms live updates: Battle for control of Congress heats up - Fox News
+- ICE agent appears to point gun at neighbor during tense North Hollywood arrest caught on video - ABC7 Los Angeles
+- Ranji Smile: The forgotten chef who opened America’s first Indian restaurant - BBC
+- Grand jury indicts ICE agent for hitting Houston immigrant with SUV during chase - Houston Chronicle
+- Pope Leo becomes first pontiff to vote in US general election - Al Jazeera
+- Mark Carney: Canada has 'learned we are overdependent on the US' - DW.com
+- Christa Pike describes constant pain in first statement since her failed execution - AP News
+- Burnham 'open' to calls for slavery apology but not reparations - BBC
+- Real estate CEO and family shot, attacked with hammer by masked intruders in home invasion robbery - Fox Business
+- US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia - The Guardian
 - Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says - The New York Times
-- Iran says 4 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news - AP News
-- Scoop: Trump blesses El Salvador strongman's troop surge in Haiti - Axios
-- Prominent Russian newspaper shuts down under pressure from authorities - BBC
-- Wall Street closes sharply lower as AI cash burn fears spark tech selloff - Reuters
-- Binance says user funds are safe after thieves make off with billions in largest-ever crypto hack - NBC News
-- AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal - TechCrunch
-- Think tank: 114 companies paid no current federal income tax but still aren’t biggest hit to deficit - Fortune
-- iOS 27.2 adds two FaceTime features, including a personal favorite - 9to5Mac
+- Why North Korea's 'elite' hackers are the prime suspect in major Binance hack - BBC
+- Stock Market News, Oct. 30, 2026: Tech Selloff Pushes Nasdaq to Its Worst Month in Over a Year - WSJ
+- California sisters among hundreds stranded in Asia after cruise ship halts operations over high fuel costs - Los Angeles Times
+- Gold prices plunge to one-year low below $3,900 as higher oil prices fuel fears of more pain ahead - Kitco
 - Apple Alerts Stores to iPhone Duo's Display Cracking Issue - MacRumors
+- iOS 27.3 release date: Here’s when to expect new iPhone features - 9to5Mac
