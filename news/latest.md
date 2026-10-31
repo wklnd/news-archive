@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-30 23:01_
+_Updated: 2026-10-31 03:02_
 
+- Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case - NPR
 - 2026 Elections Live Updates: Court Rejects Latest Trump Effort to Impound California Ballots - The New York Times
-- Trump uncancels weekend rallies in Iowa and Kansas with Senate control at stake - NBC News
-- Judge opens misconduct inquiry in Trump golf course case - Politico
+- Obamacare Dealt Yet Another Blow as Premiums Rise Again - The New York Times
+- Justice Department requests separating Alaska ballots that rank Dan J. Sullivan in Senate race - NBC News
+- Police secure Poland’s Constitutional Tribunal as protests erupt over court chief’s suspension - AP News
+- Federal judge signals she may halt construction on Trump’s arch - The Washington Post
+- Grand jury indicts ICE officer for striking Houston immigrant with vehicle - Houston Public Media
+- ‘My Body Hurts’: Pike Describes Pain and Isolation After Botched Execution - The New York Times
+- Carney says he can wait out Trump for trade deal - Politico
 - Leo XIV has become the first pope in history to vote in a US general election - AP News
-- 2026 midterms live updates: Battle for control of Congress heats up - Fox News
-- Alaska Senate: Judge fast tracks new bids to dismiss DOJ lawsuit over 2nd Sullivan candidacy - CNBC
-- Texas ICE agent indicted for striking fleeing Houston pedestrian with vehicle - The Texas Tribune
-- Christa Pike describes constant pain in first statement since her failed execution - AP News
-- Son in custody after Oberlin professor dad and stepmother shot dead in Ohio - The Guardian
-- Freed US Teacher Recounts 4 Years in Russian Prison - Newser
-- Binance says $6.3bn stolen in biggest crypto heist in history: What we know - Al Jazeera
 - Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says - The New York Times
+- Iran says 4 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news - AP News
 - Scoop: Trump blesses El Salvador strongman's troop surge in Haiti - Axios
-- Independent Russian newspaper Novaya Gazeta shuts down under state pressure - NBC News
-- Tech stocks wipe out $1 trillion in value as concerns deepen about the AI boom - NBC News
-- Exxon, Chevron profits beat forecasts, refining margins surge during wars - Reuters
-- Weil’s Ramona Nee in talks to join Kirkland & Ellis - Financial Times
-- Former Boulder couple among throngs of Americans left in Cambodia after residential cruise ends early - 9News
-- Google’s first data center satellite is online and writing poetry - TechCrunch
-- iOS 27.2 adds new Find My feature at just the right time - 9to5Mac
+- Prominent Russian newspaper shuts down under pressure from authorities - BBC
+- Wall Street closes sharply lower as AI cash burn fears spark tech selloff - Reuters
+- Binance says user funds are safe after thieves make off with billions in largest-ever crypto hack - NBC News
+- AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal - TechCrunch
+- Think tank: 114 companies paid no current federal income tax but still aren’t biggest hit to deficit - Fortune
+- iOS 27.2 adds two FaceTime features, including a personal favorite - 9to5Mac
+- Apple Alerts Stores to iPhone Duo's Display Cracking Issue - MacRumors
