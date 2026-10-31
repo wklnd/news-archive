@@ -1,35 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-30 23:39_
+_Updated: 2026-10-31 03:44_
 
 ## Top Stories
 
+- Protester efter att polsk chefsdomare stängts av - SVT Nyheter
+- DN Direkt – USA godkänner Patriot-försäljning till Ukraina - Dagens Nyheter
+- E4 avstängd till morgonen – lastbil välte - HD
+- Rån mot butik – polisen har avlossat skott - Aftonbladet
+- Interna gräl om EU:s samarbete med Kanada - Västerbottens-Kuriren
+- Över 5 000 döda i ebolautbrottet – Senaste nytt om ebolautbrottet i Kongo-Kinshasa - SVT Nyheter
 - Tomas Ramberg: 20 års kamp står på spel för Åkesson - Dagens Nyheter
-- Evakuerade Olesjkybor är framme på Krim - Dagens Nyheter
-- Tumult i Polen – domstolspresident avstängd - Göteborgs-Posten
-- USA godkänner Patriot-försäljning till Ukraina - Göteborgs-Posten
-- Uppgifter: Riks varslar personal – SD:s miljonstöd kan hotas - HurBra.se
-- Dubbeldäckare i diket på väg 161 - Bohusläningen
-- Polis avlossar varningsskott mot misstänkta rånare i Staffanstorp - SVT Nyheter
-- Securitas sålde kameror till ökänt turkiskt fängelse - Göteborgs-Posten
-- Svensk forskare stoppas från Storbritannien - Göteborgs-Posten
-- Håkan Boström: Bra att talmannen ökar tempot - Göteborgs-Posten
+- FN:s miljötoppmöte COP17 snart i mål – med urvattnat resultat - Dagens Nyheter
+- Man häktad för dödsskjutning i Stockholm - Västerbottens-Kuriren
+- Nyköpingsbornas tankar om besök på kyrkogården: "Stämningsfullt" - SN, Södermanlands Nyheter
 - Massdemonstrationer mot Meloni i Italien - Göteborgs-Posten
-- Påven har röstat i mellanårsvalet - Hufvudstadsbladet – HBL
+- Utredningen om valfusk i Alaska utvidgas - SVT Nyheter
+- Bolsonaro: ”Offer för förföljelse” - Västerbottens-Kuriren
 - DN Direkt – Carmen har överlevt två av Spaniens värsta tågolyckor - Dagens Nyheter
-- Fler broar byggs i Kiev efter ryska attacker - Göteborgs-Posten
-- Högkostnadsskyddet aktiveras för elområde 4 - Aftonbladet
 - Binance-grundaren rasar efter Elon Musks hån - DI
-- New York-börserna öppnar nedåt - Affärsvärlden
-- DN Direkt – Apple återigen störst – går om Nvidia - Dagens Nyheter
+- USA-börser faller – techbjässar rasar - Västerbottens-Kuriren
+- Regeringen aktiverar högkostnadsskydd för elområde 4 - Dagens Nyheter
+- Storbanken upprepar sälj på Volvo Cars – kapar riktkursen till 9 kronor - Börskollen
 - Hoppsan! Apple har satt sin första pekskärm på fel MacBook - TechRadar
-- Johannes fick i uppdrag att granska forskning– var plagiat av hans egen - Västerbottens-Kuriren
+- Amazon lägger till två nya gratisspel på Luna, däribland ett actionroguelike-spel - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
 - Första staden som bidrar till global fond för naturen - Aktuell Hållbarhet
 - Global hotellkedja med 141 hotell i Sverige byter namn - Realtid
-- Global Exploration Summit pågår just nu i Coimbra! - The Portugal News
 - Volvo Cars reports Q3 2026 sales - Volvo
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
@@ -37,8 +36,8 @@ _Updated: 2026-10-30 23:39_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Bildextra: NHL Global series med Icelandair - travelnews-se
@@ -47,21 +46,22 @@ _Updated: 2026-10-30 23:39_
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
 - Ögonblick vi minns från Global Series i Sverige - NHL.com
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
-- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
 - Tre år med AI: Vad har hänt med jobben? - Almega
 - Förordningen om artificiell intelligens - Council, European Union
+- AI-explosion på svenska arbetsplatser - Computer Sweden
 - Bästa AI-aktierna att köpa nu - Morningstar
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - 290 million for digitalisation of Swedish industry - Vinnova
-- AI-teknologi, chattbotar och digital säkerhet – vem kan svara på vad? - Stockholms universitet
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- AI-explosion på svenska arbetsplatser - Computer Sweden
+- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
 - Lösningar för artificiell intelligens (AI) - SAS: Data and AI Solutions
 - Artificiell intelligens: Möjligheter och risker - European Parliament
 - Sandvik AI investments - smarter Industry solutions - Sandvik Group
+- Minister Vu Hai Quan: AI är en nationell strategisk teknologi. - Vietnam.vn
 - AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
@@ -107,36 +107,58 @@ _Updated: 2026-10-30 23:39_
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Tre faktorer för en god psykisk hälsa - Läkartidningen
+- Matvanor för god hälsa och miljö - Läkartidningen
 - Anestesi – hörnsten i global hälsa - Läkartidningen
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Stort intresse för utbildning i global hälsa - Läkartidningen
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Vårddata för forskning – hinder och möjligheter - Läkartidningen
+- Naturvetenskapliga universitetet föreslår en modell för att koppla samman grundläggande vetenskaplig forskning med nationella strategiska teknologier - Naturvetenskapliga universitetet, VNU-HCM - Vietnam.vn
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Täta band mellan turism och forskning på Svalbard - SLU
+- Google investerar i Zuckerbergs Biohub. Ska utveckla dataset för biologisk forskning. - Feber
+- Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- 2026-10-20 Seminarium på KSLA: Forskning och innovation, hur motståndskraftiga grödor bidrar till global livsmedelsförsörjning - Mynewsdesk
+- Öppen vetenskap vid SLU - SLU
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Andrea del Valle - Karolinska Institutet
-- AI för vetenskaplig forskning och upptäckter - OpenAI
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
+- AI för vetenskaplig forskning och upptäckter - OpenAI
+- 5 myter om öppen vetenskap - Läkartidningen
+- Täta band mellan turism och forskning på Svalbard - SLU
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
-- Sveriges förändrade lantbruk - SLU
-- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Nestlé och BirdLife Europe inleder samarbete för att mäta hur regenerativt jordbruk kan stärka biologisk mångfald - Mynewsdesk
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Jordbrukspolitik - Naturvårdsverket
+- Framtidens jordbruk - European Commission
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- De gick från reko till eko - ST-tidningen
+- Intäkten upp för Pellbrants Farming - Västerbottens Mellanbygd
+- Sorseles sista mjölkgård till salu - Lokaltidningen
 - Här är världens största jordbruk - ATL
+- Kan agroekologi mätta världen? - SLU
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Jord, kor och klimat - SLU
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Markbristen: EUs unga bönders största utmaning - Land.se
