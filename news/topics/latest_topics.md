@@ -1,47 +1,47 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-31 21:28_
+_Updated: 2026-11-01 00:42_
 
 ## Top Stories
 
-- Tårgas och stora fredliga protester på Halloween i Frankrike - Dagens Nyheter
-- En död efter olycka på rallytävling utanför Nässjö - SVT Nyheter
-- Uppgifter: SD överväger att släppa ministerkrav - Göteborgs-Posten
-- USA:s ambassad varnar för dödligt dåd i Moskva - Corren
-- Här tänder hundratals ljus för dem som gått bort - Nya Wermlands-Tidningen
-- Evakuerade från krigshärjad stad framme i Ukraina - Västerbottens-Kuriren
+- Tårgas och stora protester på halloween i Frankrike - Dagens Nyheter
+- Tusentals besökte Kvibergs kyrkogård för att hedra sina döda - Göteborgs-Posten
+- Stenkastning vid tyska demonstrationer - Corren
+- Halloweenfesten spårade ur – pappan ber grannarna om ursäkt - Ekuriren
+- Evakuerade från krigshärjad stad framme i Ukraina - Göteborgs-Posten
+- Hon tänder ljus när anhöriga inte kan - Svenska Dagbladet
+- 31 oktober 14.16, Trafikolycka, Nässjö - polisen.se
+- Halloween tog plats i Stockholm – hundratals var med - Dagens Nyheter
+- Uppgifter: SD överväger att släppa ministerkrav - Corren
 - Studie: AI kan hjälpa fler med social ångest - Göteborgs-Posten
-- Besvikelse efter globala miljömötet: Tiden rinner ut - Västerbottens-Kuriren
-- DN Direkt – Misstänkt pyroman härjar i Stockholm - Dagens Nyheter
-- Tågstopp löst mellan Stockholm-Göteborg - SVT Nyheter
-- Man död i olycka på gym i Oslo - Göteborgs-Posten
-- DN Direkt – Stenkastning vid tyska demonstrationer - Dagens Nyheter
+- Trumps miljardstämning mot tidning avfärdas igen - Västerbottens-Kuriren
+- Man död i olycka på gym i Oslo - Corren
+- Analys: Förvirring och splittring under valspurten - Göteborgs-Posten
 - Stora protester i Polen – sågade sig in till domstolen - Göteborgs-Posten
-- Vill särskilja valsedlar från Alaska - Västerbottens-Kuriren
-- Binance: Täckt upp för 90 procent av det som stulits - Omni – Alla nyheter. Alla perspektiv.
-- Man död i brand i villa - Aftonbladet
+- Elon Musks hån mitt i kryptokrisen - Aftonbladet
+- Dubbla miljonvinster på Lotto till spelare i Göteborg och Markaryds kommun - Svenska Spel
 - INSÄNDARE: Fyra gånger dyrare el i Västernorrland – sänk skatten - Allehanda.se
-- Facken vädjar: höj inte styrräntan! - Svenska Dagbladet
-- Se det spektakulära mötet på himlen: Månen, Jupiter och Mars ligger på rad - Illustrerad Vetenskap
+- ”Marknaden osäker på vilka bolag som överlever” - Omni – Alla nyheter. Alla perspektiv.
+- Fyra äldre dog efter utbrott av vinterkräksjuka - Aftonbladet
 - Investerarna försvinner: ”Absolut svåraste tiden” - Svenska Dagbladet
 
 ## World News
 
+- Fondsparande oktober: Spararna säljer räntefonder medan breda global- och indexfonder dominerar köptoppen - Cision News
 - Första staden som bidrar till global fond för naturen - Aktuell Hållbarhet
-- Volvo Cars reports Q3 2026 sales - Volvo
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Volvo Cars reports Q3 2026 sales - Volvo
+- FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Bildextra: NHL Global series med Icelandair - travelnews-se
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Global hotellkedja med 141 hotell i Sverige byter namn - Realtid
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
@@ -83,58 +83,48 @@ _Updated: 2026-10-31 21:28_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - Världens viktigaste avtal för global hälsa har signerats - Läkartidningen
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Health-ISAC Hacking Healthcare 10-27-2026 - Health-ISAC
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Vi presenterar HealthBench - OpenAI
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Fonderna som investerar i megatrenden - Avanzabloggen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Blodtryckskontroll i primärvård blev bättre med E-hälsa - Läkartidningen
-- Matvanor för god hälsa och miljö - Läkartidningen
-- Anestesi – hörnsten i global hälsa - Läkartidningen
-- Stort intresse för utbildning i global hälsa - Läkartidningen
-- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
+- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 
 ## Science
 
+- Öppning av AI Research Collaboration Center och utställningsområde som visar upp grön teknik och digitala energiprodukter. - Vietnam.vn
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- Google investerar i Zuckerbergs Biohub. Ska utveckla dataset för biologisk forskning. - Feber
+- Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
+- Naturvetenskapliga universitetet föreslår en modell för att koppla samman grundläggande vetenskaplig forskning med nationella strategiska teknologier - Naturvetenskapliga universitetet, VNU-HCM - Vietnam.vn
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- 2026-10-20 Seminarium på KSLA: Forskning och innovation, hur motståndskraftiga grödor bidrar till global livsmedelsförsörjning - Mynewsdesk
 - Öppen vetenskap vid SLU - SLU
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- 5 myter om öppen vetenskap - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Andrea del Valle - Karolinska Institutet
-- AI för vetenskaplig forskning och upptäckter - OpenAI
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Täta band mellan turism och forskning på Svalbard - SLU
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
-- Nestlé och BirdLife Europe inleder samarbete för att mäta hur regenerativt jordbruk kan stärka biologisk mångfald - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
-- Jordbrukspolitik - Naturvårdsverket
-- Framtidens jordbruk - European Commission
+- Sveriges förändrade lantbruk - SLU
+- Jordbruk och landsbygdsutveckling - European Commission
+- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- De gick från reko till eko - ST-tidningen
-- Intäkten upp för Pellbrants Farming - Västerbottens Mellanbygd
-- Sorseles sista mjölkgård till salu - Lokaltidningen
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Här är världens största jordbruk - ATL
-- Kan agroekologi mätta världen? - SLU
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Jord, kor och klimat - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- Markbristen: EUs unga bönders största utmaning - Land.se
