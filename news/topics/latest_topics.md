@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-10-31 10:42_
+_Updated: 2026-10-31 17:27_
 
 ## Top Stories
 
-- Protester efter att polsk chefsdomare stängts av - SVT Nyheter
-- Man räddad ur älven – utreds som dråpförsök - Aftonbladet
-- Uppmaningen inför allhelgona: Tänd lagom med ljus - Göteborgs-Posten
-- Höggs i ryggen – misstänkt mordförsök på restaurang i Stockholm - Omni – Alla nyheter. Alla perspektiv.
+- DN Direkt – Uppgifter: SD överväger att släppa ministerkrav - Dagens Nyheter
+- Stora protester i Polen – sågade sig in till domstolen - Göteborgs-Posten
+- Man uppdragen ur älven – har livshotande skador - Aftonbladet
+- Sverige väntar längst mellan dödsfall och begravning - Göteborgs-Posten
+- Iran: Finns inga planerade samtal med USA - Västerbottens-Kuriren
+- Urspårade firanden över hela landet – 200 tonåringar dök upp på fest på Orust - Omni – Alla nyheter. Alla perspektiv.
+- En allvarligt skadad efter olycka på rallytävling utanför Nässjö - SVT Nyheter
+- Natträd mot fartyg vid Gottland – kopplas till Ryssland - Hufvudstadsbladet – HBL
+- Besvikelse efter globala miljömötet: Tiden rinner ut - Göteborgs-Posten
+- Tobias Pettersson Rödgrön röra gynnar högern i Sverige - Hufvudstadsbladet – HBL
+- Källor: USA kan attackera Iran dagen efter valet - Västerbottens-Kuriren
+- Evakuerade Olesjkybor är framme på Krim - Dagens Nyheter
+- Analys: Förvirring och splittring under valspurten - Göteborgs-Posten
 - 3 000 skelett grävs upp när Köpenhamn ska klimatanpassas - Dagens Nyheter
-- Vill särskilja valsedlar från Alaska - Västerbottens-Kuriren
-- Flera 14-åringar häktade efter historisk lagändring - Corren
-- 31 oktober 07.00, Sammanfattning natt, Hallands län - polisen.se
-- Tomas Ramberg: 20 års kamp står på spel för Åkesson - Dagens Nyheter
-- FN:s miljötoppmöte COP17 i mål – med urvattnat resultat - Dagens Nyheter
-- USA godkänner Patriot-försäljning till Ukraina - Corren
-- LEDARE: Arabernas röster avgör Israels framtid - Nya Wermlands-Tidningen
-- Massdemonstrationer mot Meloni i Italien - Göteborgs-Posten
-- Små barn drabbas hårdast av ebola i Kongo-Kinshasa - Västerbottens-Kuriren
-- Binance-grundaren rasar efter Elon Musks hån - DI
-- Swedavia storsatsar på Malmö Airport och Arlanda - News Øresund Sverige
-- Person allvarligt skadad vid knivbråk på krog - Aftonbladet
-- ALPHABET FÖLL PÅ RAPPORT, ELI LILLY UPP, S&P 500 -0,3% - Placera.se
-- Hoppsan! Apple har satt sin första pekskärm på fel MacBook - TechRadar
-- Dröm-TV för hemmabion? En OLED-TV på 111 tum kan vara på väg från LG – men hur bra blir bildkvaliteten? - TechRadar
+- Experten: Så kunde Nordkoreas cyberarmé utföra historiska kuppen - Aftonbladet
+- Man död i brand i villa - Aftonbladet
+- Nordea räknar med räntehöjning i november – ser styrräntan toppa på 2,25 procent - Börsvärlden
+- Kina satsar på att leverera lastbilar till Europa - Dagens Nyheter
+- Investerarna försvinner: ”Absolut svåraste tiden” - Svenska Dagbladet
+- Kolliderande kometer inte bakom livet på jorden - Dagens Nyheter
 
 ## World News
 
@@ -32,38 +32,39 @@ _Updated: 2026-10-31 10:42_
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Musiktest: Med vilken låt fick Right Said Fred en global listetta och varifrån kommer Ane Brun? - Yle
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Musiktest: Med vilken låt fick Right Said Fred en global listetta och varifrån kommer Ane Brun? - Yle
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Trump celebrates Messi, revels in Inter Miami’s “good looks” - Reuters
 - Ho Chi Minh-staden strävar efter att utvecklas till en global stad. - Vietnam.vn
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - 1 426 potential victims identified in global operation against human trafficking - Europol
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 
 ## Technology
 
-- Tre år med AI: Vad har hänt med jobben? - Almega
-- Förordningen om artificiell intelligens - Council, European Union
-- AI-explosion på svenska arbetsplatser - Computer Sweden
-- Bästa AI-aktierna att köpa nu - Morningstar
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Data Centre Expo Sweden - Mynewsdesk
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
+- Timnit Gebru - Right Livelihood
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
-- Lösningar för artificiell intelligens (AI) - SAS: Data and AI Solutions
-- Artificiell intelligens: Möjligheter och risker - European Parliament
-- Sandvik AI investments - smarter Industry solutions - Sandvik Group
-- Minister Vu Hai Quan: AI är en nationell strategisk teknologi. - Vietnam.vn
+- Konstgjord intelligens inom medicin och utbildning: blir läkare och lärare överflödiga? Hur AI förändrar yrken - Xpert.Digital - Konrad Wolfenstein
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
-- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Use of artificial intelligence by the police: MEPs oppose mass surveillance - European Parliament
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Svenska företag riskerar tappa i AI-racet - Techarenan News
+- Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
+- Metas tidigare AI-chef slår Europarekord – tar in 9 miljarder - Computer Sweden
+- ”AI:s gudfader” varnar – men ”AI:s fader” inte rädd - Omni – Alla nyheter. Alla perspektiv.
+- Warum Künstliche Intelligenz-Modelle kein Bewusstsein haben können - Xpert.Digital - Konrad Wolfenstein
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
+- Verkörperte Künstliche Intelligenz (Embodied AI) - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -80,8 +81,8 @@ _Updated: 2026-10-31 10:42_
 
 ## Health
 
-- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
@@ -92,47 +93,57 @@ _Updated: 2026-10-31 10:42_
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Blodtryckskontroll i primärvård blev bättre med E-hälsa - Läkartidningen
-- Tre faktorer för en god psykisk hälsa - Läkartidningen
 - Matvanor för god hälsa och miljö - Läkartidningen
+- Stort intresse för utbildning i global hälsa - Läkartidningen
 - Anestesi – hörnsten i global hälsa - Läkartidningen
+- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 
 ## Science
 
-- Vårddata för forskning – hinder och möjligheter - Läkartidningen
+- Öppen vetenskap vid SLU - SLU
 - Naturvetenskapliga universitetet föreslår en modell för att koppla samman grundläggande vetenskaplig forskning med nationella strategiska teknologier - Naturvetenskapliga universitetet, VNU-HCM - Vietnam.vn
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Google investerar i Zuckerbergs Biohub. Ska utveckla dataset för biologisk forskning. - Feber
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - 2026-10-20 Seminarium på KSLA: Forskning och innovation, hur motståndskraftiga grödor bidrar till global livsmedelsförsörjning - Mynewsdesk
-- Öppen vetenskap vid SLU - SLU
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Andrea del Valle - Karolinska Institutet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- 5 myter om öppen vetenskap - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Årets tio största vetenskapliga genombrott - Dagens Nyheter
 
 ## Jordbruk
 
-- Sveriges förändrade lantbruk - SLU
-- Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Nestlé och BirdLife Europe inleder samarbete för att mäta hur regenerativt jordbruk kan stärka biologisk mångfald - Mynewsdesk
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Jordbrukspolitik - Naturvårdsverket
+- Framtidens jordbruk - European Commission
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- De gick från reko till eko - ST-tidningen
+- Intäkten upp för Pellbrants Farming - Västerbottens Mellanbygd
+- Sorseles sista mjölkgård till salu - Lokaltidningen
 - Här är världens största jordbruk - ATL
+- Kan agroekologi mätta världen? - SLU
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Jord, kor och klimat - SLU
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Markbristen: EUs unga bönders största utmaning - Land.se
