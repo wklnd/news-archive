@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-31 09:29_
+_Updated: 2026-10-31 15:52_
 
-- Alaska voters react to allegations of a spoiler in the U.S. Senate race - NPR
-- Court Rejects Latest Trump Effort to Impound California Ballots - The New York Times
+- Judge blocks DOJ from threatening election workers before midterms - Axios
+- Evacuated Ukrainians from Russian-occupied Oleshky arrive in Belarus - BBC
+- Plans for a data center threaten scenic wilderness and dark skies in West Virginia - NPR
 - El-Sayed asks Stevens to stay away as Democrats’ attempt at unity blows up - The Washington Post
-- 2026 midterms live updates: Battle for control of Congress heats up - Fox News
-- ICE agent appears to point gun at neighbor during tense North Hollywood arrest caught on video - ABC7 Los Angeles
-- Ranji Smile: The forgotten chef who opened America’s first Indian restaurant - BBC
-- Grand jury indicts ICE agent for hitting Houston immigrant with SUV during chase - Houston Chronicle
-- Pope Leo becomes first pontiff to vote in US general election - Al Jazeera
-- Mark Carney: Canada has 'learned we are overdependent on the US' - DW.com
-- Christa Pike describes constant pain in first statement since her failed execution - AP News
-- Burnham 'open' to calls for slavery apology but not reparations - BBC
-- Real estate CEO and family shot, attacked with hammer by masked intruders in home invasion robbery - Fox Business
-- US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia - The Guardian
-- Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says - The New York Times
-- Why North Korea's 'elite' hackers are the prime suspect in major Binance hack - BBC
-- Stock Market News, Oct. 30, 2026: Tech Selloff Pushes Nasdaq to Its Worst Month in Over a Year - WSJ
-- California sisters among hundreds stranded in Asia after cruise ship halts operations over high fuel costs - Los Angeles Times
-- Gold prices plunge to one-year low below $3,900 as higher oil prices fuel fears of more pain ahead - Kitco
-- Apple Alerts Stores to iPhone Duo's Display Cracking Issue - MacRumors
-- iOS 27.3 release date: Here’s when to expect new iPhone features - 9to5Mac
+- 2026 Democratic candidates throw Joe Biden under the bus on the border - NBC News
+- Daniel J. Sullivan left his Alaska hometown before Senate election, sources say - CBS News
+- 1 dead, 6 others hurt in shooting at Spirit Halloween in Fairfield, police say - KCRA
+- US execution survivor Christa Pike says she is now in ‘constant pain’ - Al Jazeera
+- Daylight saving time ends Sunday. Here’s what to know as clocks ‘fall back’ - NBC News
+- Grand jury indicts ICE officer for striking Houston immigrant with vehicle - Houston Public Media
+- Mideast leaders call for calm as fears mount of a renewed war in the region, and other Mideast news - AP News
+- Taipei mayor gets angry reception at Pride after gay bar raid - Reuters
+- Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs! - NPR
+- Train Disaster Is a Blow to Spain’s Leader, Already an Election Underdog - The New York Times
+- How suspected North Korean hackers swiped billions in crypto in only minutes - The Washington Post
+- Oil company earnings skyrocket — again - NPR
+- Cracks are emerging in the AI spending boom - TechCrunch
+- Stocks Slide, Intel Plunges, Binance Hacked - WSJ
+- Apple takes “monumental step forward” with first touchscreen MacBook - Dezeen
+- Lenovo Googlebook 15 Review: Your Android Phone's New Best Friend - Engadget
