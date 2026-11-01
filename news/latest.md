@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-10-31 23:53_
+_Updated: 2026-11-01 03:40_
 
-- El-Sayed asks Stevens to stay away as Democrats’ attempt at unity blows up - The Washington Post
+- 2026 Elections Live Updates: Candidates Campaign in Battleground States on Final Weekend - The New York Times
+- Virginia and D.C. sue to block construction of Trump arch - NPR
+- Fairfield mass shooting: Pregnant woman killed, 6 others hurt at Spirit Halloween store - San Francisco Chronicle
 - Ukrainian evacuees reunite with family after years trapped in Russia-occupied city - BBC
-- Live Updates: Iran's supreme leader warns U.S., Israel against new attacks - CBS News
-- Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate - NPR
-- Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice - CNBC
-- Judge blocks DOJ from threatening election workers before midterms - Axios
-- 31-year-old pregnant woman identified as killed in Fairfield shooting at Spirit Halloween - KCRA
-- D.C. and Virginia sue to block Trump’s proposed triumphal arch - The Washington Post
-- Daylight saving time ends Sunday. Here’s what to know as clocks ‘fall back.’ - NBC News
-- 17 Disney and Universal employees among 281 arrested in Florida sex trafficking sting, sheriff says - CBS News
-- Thousands Expected to Protest in France on Halloween: Live Updates - The New York Times
-- Polish president in physical confrontation with judges amid power struggle at constitutional court - Notes From Poland
-- G20 foreign ministers end Atlanta meeting without consensus on key issues - AP News
+- Judge dismisses Trump’s $10 billion defamation suit over Jeffrey Epstein birthday card story - NBC News
+- Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news - AP News
+- Judge orders Trump administration to stop threatening US election officials - BBC
+- More than 50m Americans cast ballots in early voting with three days to go before midterms - The Guardian
+- US execution survivor Christa Pike says she is now in ‘constant pain’ - Al Jazeera
+- FBI visits Dan J. Sullivan donor in candidate’s hometown as Alaska Senate inquiry widens - AP News
+- Hundreds of Thousands Join Another Round of Protests in France - The New York Times
+- Tusk defends overhaul of Poland’s constitutional court despite protests - The Guardian
 - Thousands return to Lisbon square, press government to scrap rental bill - Reuters
-- A simple explainer of the massive $6.3 billion crypto heist at Binance - NPR
-- OpenAI reportedly lowers funding target for new round - TechCrunch
+- London police arrest 139 as hundreds protest Palestine Action ban - Al Jazeera
+- How Binance’s $6.3 Billion Hack Went Down - The New York Times
+- Anthropic's path to the Nasdaq just got a lot bumpier - CNBC
 - Investors trim growth bets over fears of US economy’s AI exposure - Financial Times
-- Trump called out Big Oil profits. Here’s how much their refining earnings have surged since - CNBC
-- I took two iPhones on vacation. The Duo won me over. - TechCrunch
-- Motorola Signature 27 specs detailed in new video, including Tandem OLED display - 9to5Google
+- Oil company earnings skyrocket — again - NPR
+- Keyboards of The Verge - The Verge
+- My Favorite Smartwatch Has Stayed on My Wrist for Years — No, It’s Not an Apple Watch - CNET
