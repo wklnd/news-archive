@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-01 11:31_
+_Updated: 2026-11-01 18:15_
 
 ## Top Stories
 
-- Kristersson får högst förtroende i ny mätning - Västerbottens-Kuriren
-- Misshandel på ungdomsfest – ”Spårade ur” - Borås Tidning
-- Tyska protester urartade – med våld och plundring - Göteborgs-Posten
-- Ny syn på Trump kan straffa henne - Svenska Dagbladet
-- Här sker flest olyckor i Göteborg – se värsta vägarna och gatorna - Göteborgs-Posten
-- Zelenskyj – från hyllad hjälte till sliten krigspresident - Dagens Nyheter
-- Statsvetare: Partierna ger sig först vid stupstocken - Göteborgs-Posten
-- Man anhållen efter misstänkt mordförsök i Sigtuna - SVT Nyheter
-- 1 november 07.34, Anträffad död, Linköping - polisen.se
-- KARL RYDÅ: Uppsalas politiker struntar i skolkaoset - UNT
-- Trump: Måste ”ta hand om” mål i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Varningen: Så kan Trump ge igen vid en valförlust - Västerbottens-Kuriren
+- David Druid tar paus från ”Morgonpasset” i P3 - Göteborgs-Posten
+- V: ”Dörren är helt stängd” om regeringskravet – Senaste nytt om valet 2026 - SVT Nyheter
+- Olle Lönnaeus Donald Trump sänker sina partivänner – påstår fusk om de förlorar valet - Sydsvenskan
+- Misshandel på ungdomsfest i natt – ”Spårade ur” - Borås Tidning
+- Katarina tog med tårta till jobbet – fick sparken - Göteborgs-Posten
+- Så ska vårdpersonal lockas att dra på sig uniform - Dagens Nyheter
+- Man med luftgevär på spårvagn stoppades av polis - NT
+- Man anhållen misstänkt för våldtäkt i Umeå - SVT Nyheter
+- Säkerhetsansvarige efter dödsolyckan utanför Nässjö: ”Platsen bedömdes inte vara en risk” - SVT Nyheter
+- Statsvetare: Partierna ger sig först vid stupstocken - Nya Wermlands-Tidningen
+- DN Direkt – 325 gripna vid propalestinsk protest i London - Dagens Nyheter
+- Ryskt raffinaderi uppges brinna efter attack - Hufvudstadsbladet – HBL
 - Tårgas vid nya protester i Frankrike - Corren
-- Dödliga drönarattacker kan avgöra presidentvalet i EU:s fattigaste land - Dagens Nyheter
-- FBI: Nordkorea bakom miljardkupp mot kryptobörs - Svenska Dagbladet
-- Hoten mot toppchefer ökar – Daniel Eks personliga säkerhet kostade 6,4 miljoner - Dagens PS
-- Dubbla miljonvinster på Lotto till spelare i Göteborg och Markaryds kommun - Svenska Spel
-- Konkurserna minskar – tryck ”tycks ha släppt” - Dagens industri
-- World of Warcrafts oväntade strategi för att locka fler spelare - SVT Nyheter
-- Den senaste Apple Watch-uppdateringen lovar bättre träningsregistrering på löpband än någonsin – så jag testade den på gymmet mot Coros Pod 2 - TechRadar
+- Trump: Måste ”ta hand om” mål i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- M: Stötta Volvo – låt Göteborgs anställda få leasa elbil billigt - Dagens Nyheter
+- FBI: Nordkorea bakom miljardkupp mot kryptobörs - DI
+- AI-frossan skakar börsen – miljardrullning oroar - Svenska Dagbladet
+- Konkurserna minskar – tryck ”tycks ha släppt” - Tidningen Näringslivet
+- Test: Bästa surfplattan under 6 000 kronor – vinnaren känns mer premium än budget - Expressen
+- Väntade förgäves – flyttfirman dök aldrig upp - Gefle Dagblad
 
 ## World News
 
 - Första staden som bidrar till global fond för naturen - Aktuell Hållbarhet
-- Global hotellkedja med 141 hotell i Sverige byter namn - Realtid
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Global hotellkedja med 141 hotell i Sverige byter namn - Realtid
 - Musiktest: Med vilken låt fick Right Said Fred en global listetta och varifrån kommer Ane Brun? - Yle
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- BREAKING NEWS. Putin kommenterar USA-valet! - Global Bar Magazine
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- ABB lanserar kampanjen Real Progress för att påskynda global hållbarhet - ABB
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
-- Trump celebrates Messi, revels in Inter Miami’s “good looks” - Reuters
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - 1 426 potential victims identified in global operation against human trafficking - Europol
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Failings in investigations of feminicides in the State of Mexico violate women’s rights - Amnesty International
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 
 ## Technology
 
@@ -75,59 +75,68 @@ _Updated: 2026-11-01 11:31_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Nam A Bank utökar grön finansiering för små och medelstora företag. - Vietnam.vn
 - Stödja företag i övergången till ESG, förbättra tillgången till grön finansiering. - Vietnam.vn
-- Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Nam A Bank stärker globala resursförbindelser och främjar ESG och teknologi på AEF 2026. - Vietnam.vn
+- Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Världens viktigaste avtal för global hälsa har signerats - Läkartidningen
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Health-ISAC Hacking Healthcare 10-27-2026 - Health-ISAC
-- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Fonderna som investerar i megatrenden - Avanzabloggen
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Blodtryckskontroll i primärvård blev bättre med E-hälsa - Läkartidningen
-- Matvanor för god hälsa och miljö - Läkartidningen
-- Anestesi – hörnsten i global hälsa - Läkartidningen
-- Stort intresse för utbildning i global hälsa - Läkartidningen
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Öppning av AI Research Collaboration Center och utställningsområde som visar upp grön teknik och digitala energiprodukter. - Vietnam.vn
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
+- Naturvetenskapliga universitetet föreslår en modell för att koppla samman grundläggande vetenskaplig forskning med nationella strategiska teknologier - Naturvetenskapliga universitetet, VNU-HCM - Vietnam.vn
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- 2026-10-20 Seminarium på KSLA: Forskning och innovation, hur motståndskraftiga grödor bidrar till global livsmedelsförsörjning - Mynewsdesk
 - Öppen vetenskap vid SLU - SLU
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- AI för vetenskaplig forskning och upptäckter - OpenAI
+- 5 myter om öppen vetenskap - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Andrea del Valle - Karolinska Institutet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- AI för vetenskaplig forskning och upptäckter - OpenAI
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- European School of Sustainability Science and Research - Åbo Akademi
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Årets tio största vetenskapliga genombrott - Dagens Nyheter
 
 ## Jordbruk
 
-- Sveriges förändrade lantbruk - SLU
-- Jordbruk och landsbygdsutveckling - European Commission
+- Nestlé och BirdLife Europe inleder samarbete för att mäta hur regenerativt jordbruk kan stärka biologisk mångfald - Mynewsdesk
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Jordbrukspolitik - Naturvårdsverket
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Odlingslandskapet - Naturvårdsverket
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- De gick från reko till eko - ST-tidningen
+- Intäkten upp för Pellbrants Farming - Västerbottens Mellanbygd
 - Här är världens största jordbruk - ATL
+- Jubileum för Mjau Gåvoshop – fem år av stöd till Sveriges hemlösa katter! - Mynewsdesk
+- Kan agroekologi mätta världen? - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Jord, kor och klimat - SLU
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Lantbrukarnas data blir en tillgång - Land.se
