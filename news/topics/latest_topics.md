@@ -1,131 +1,123 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-01 04:27_
+_Updated: 2026-11-01 11:31_
 
 ## Top Stories
 
-- Stenkastning vid tyska demonstrationer - Corren
-- Tårgas och stora protester på halloween i Frankrike - Dagens Nyheter
-- Tusentals besökte Kvibergs kyrkogård för att hedra sina döda - Göteborgs-Posten
-- Stora protester i Polen – sågade sig in till domstolen - Göteborgs-Posten
-- Evakuerade från krigshärjad stad framme i Ukraina - Västerbottens-Kuriren
-- Trump: Måste ”ta hand om” mål i Iran - Göteborgs-Posten
-- Halloween tog plats i Stockholm – hundratals var med - Dagens Nyheter
-- Uppgifter: SD överväger att släppa ministerkrav - Corren
-- 31 oktober 14.16, Trafikolycka, Nässjö - polisen.se
-- Besvikelse efter globala miljömötet: Tiden rinner ut - Göteborgs-Posten
-- Trumps miljardstämning mot tidning avfärdas igen - Corren
-- Man död i olycka på gym i Oslo - Västerbottens-Kuriren
-- Analys: Förvirring och splittring under valspurten - Göteborgs-Posten
-- Vänstervåg i USA: ”Söker nya typer av politiker” - Göteborgs-Posten
+- Kristersson får högst förtroende i ny mätning - Västerbottens-Kuriren
+- Misshandel på ungdomsfest – ”Spårade ur” - Borås Tidning
+- Tyska protester urartade – med våld och plundring - Göteborgs-Posten
+- Ny syn på Trump kan straffa henne - Svenska Dagbladet
+- Här sker flest olyckor i Göteborg – se värsta vägarna och gatorna - Göteborgs-Posten
+- Zelenskyj – från hyllad hjälte till sliten krigspresident - Dagens Nyheter
+- Statsvetare: Partierna ger sig först vid stupstocken - Göteborgs-Posten
+- Man anhållen efter misstänkt mordförsök i Sigtuna - SVT Nyheter
+- 1 november 07.34, Anträffad död, Linköping - polisen.se
+- KARL RYDÅ: Uppsalas politiker struntar i skolkaoset - UNT
+- Trump: Måste ”ta hand om” mål i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Varningen: Så kan Trump ge igen vid en valförlust - Västerbottens-Kuriren
+- Tårgas vid nya protester i Frankrike - Corren
+- Dödliga drönarattacker kan avgöra presidentvalet i EU:s fattigaste land - Dagens Nyheter
 - FBI: Nordkorea bakom miljardkupp mot kryptobörs - Svenska Dagbladet
+- Hoten mot toppchefer ökar – Daniel Eks personliga säkerhet kostade 6,4 miljoner - Dagens PS
 - Dubbla miljonvinster på Lotto till spelare i Göteborg och Markaryds kommun - Svenska Spel
-- INSÄNDARE: Fyra gånger dyrare el i Västernorrland – sänk skatten - Allehanda.se
-- Open AI tvingas sänka mål för att få in nya pengar - Omni – Alla nyheter. Alla perspektiv.
-- Investerarna försvinner: ”Absolut svåraste tiden” - Svenska Dagbladet
-- Oppo Find X10 vs Find X10 Pro Max – pris och skillnader - HurBra.se
+- Konkurserna minskar – tryck ”tycks ha släppt” - Dagens industri
+- World of Warcrafts oväntade strategi för att locka fler spelare - SVT Nyheter
+- Den senaste Apple Watch-uppdateringen lovar bättre träningsregistrering på löpband än någonsin – så jag testade den på gymmet mot Coros Pod 2 - TechRadar
 
 ## World News
 
-- Fondsparande oktober: Spararna säljer räntefonder medan breda global- och indexfonder dominerar köptoppen - Cision News
 - Första staden som bidrar till global fond för naturen - Aktuell Hållbarhet
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Volvo Cars reports Q3 2026 sales - Volvo
-- FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Ögonblick vi minns från Global Series i Sverige - NHL.com
+- Global hotellkedja med 141 hotell i Sverige byter namn - Realtid
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
+- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Musiktest: Med vilken låt fick Right Said Fred en global listetta och varifrån kommer Ane Brun? - Yle
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
+- Trump celebrates Messi, revels in Inter Miami’s “good looks” - Reuters
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Failings in investigations of feminicides in the State of Mexico violate women’s rights - Amnesty International
 
 ## Technology
 
-- Tre år med AI: Vad har hänt med jobben? - Almega
-- Förordningen om artificiell intelligens - Council, European Union
-- AI-explosion på svenska arbetsplatser - Computer Sweden
-- Bästa AI-aktierna att köpa nu - Morningstar
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Data Centre Expo Sweden - Mynewsdesk
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
+- Timnit Gebru - Right Livelihood
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- Lösningar för artificiell intelligens (AI) - SAS: Data and AI Solutions
-- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
-- Artificiell intelligens: Möjligheter och risker - European Parliament
-- Sandvik AI investments - smarter Industry solutions - Sandvik Group
+- Konstgjord intelligens inom medicin och utbildning: blir läkare och lärare överflödiga? Hur AI förändrar yrken - Xpert.Digital - Konrad Wolfenstein
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- Use of artificial intelligence by the police: MEPs oppose mass surveillance - European Parliament
-- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Svenska företag riskerar tappa i AI-racet - Techarenan News
+- Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
+- Metas tidigare AI-chef slår Europarekord – tar in 9 miljarder - Computer Sweden
+- ”AI:s gudfader” varnar – men ”AI:s fader” inte rädd - Omni – Alla nyheter. Alla perspektiv.
+- Warum Künstliche Intelligenz-Modelle kein Bewusstsein haben können - Xpert.Digital - Konrad Wolfenstein
+- Verkörperte Künstliche Intelligenz (Embodied AI) - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
-- Nam A Bank utökar grön finansiering för små och medelstora företag. - Vietnam.vn
-- Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
-- Nam A Bank stärker globala resursförbindelser och främjar ESG och teknologi på AEF 2026. - Vietnam.vn
-- Vilken framtid arbetar du för? - EY
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
-- Organon lanserar ett nytt företag för kvinnohälsa - Via TT
-- What are BIN sponsorships and how do they drive the digital economy - Mastercard
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- Redpill Linpro och Berget AI inleder samarbete för suverän AI - Mynewsdesk
+- Nam A Bank utökar grön finansiering för små och medelstora företag. - Vietnam.vn
+- Stödja företag i övergången till ESG, förbättra tillgången till grön finansiering. - Vietnam.vn
+- Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Nam A Bank stärker globala resursförbindelser och främjar ESG och teknologi på AEF 2026. - Vietnam.vn
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Världens viktigaste avtal för global hälsa har signerats - Läkartidningen
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Health-ISAC Hacking Healthcare 10-27-2026 - Health-ISAC
+- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Fonderna som investerar i megatrenden - Avanzabloggen
+- Vi presenterar HealthBench - OpenAI
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
+- Blodtryckskontroll i primärvård blev bättre med E-hälsa - Läkartidningen
+- Matvanor för god hälsa och miljö - Läkartidningen
+- Anestesi – hörnsten i global hälsa - Läkartidningen
+- Stort intresse för utbildning i global hälsa - Läkartidningen
+- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 
 ## Science
 
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap vid SLU - SLU
-- Naturvetenskapliga universitetet föreslår en modell för att koppla samman grundläggande vetenskaplig forskning med nationella strategiska teknologier - Naturvetenskapliga universitetet, VNU-HCM - Vietnam.vn
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Google investerar i Zuckerbergs Biohub. Ska utveckla dataset för biologisk forskning. - Feber
-- Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- 2026-10-20 Seminarium på KSLA: Forskning och innovation, hur motståndskraftiga grödor bidrar till global livsmedelsförsörjning - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Andrea del Valle - Karolinska Institutet
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Täta band mellan turism och forskning på Svalbard - SLU
+- Andrea del Valle - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Årets tio största vetenskapliga genombrott - Dagens Nyheter
+- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- European School of Sustainability Science and Research - Åbo Akademi
 
 ## Jordbruk
 
