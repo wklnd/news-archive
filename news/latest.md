@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-01 17:27_
+_Updated: 2026-11-01 21:53_
 
-- Attorneys for Alaska say 'meritless' Trump demand to set aside Senate ballots 'not even possible' - PBS
-- Gen Z protests turn violent in Germany - Financial Times
-- A Midterm Campaign Dominated by Concerns Over High Prices Nears Its End - The New York Times
-- Trump White House maps path to govern without Congress if Democrats win - Reuters
-- ‘Sea change’: Early voting numbers show Hispanic turnout exploding in Texas - NBC News
-- Why daylight saving time ended so early this year - The Hill
-- New video captures terrifying moments inside Fairfield Spirit Halloween store during deadly shooting - KCRA
-- D.C., Virginia sue to block Trump's 250-foot arch - Axios
-- Haley Stevens advised to stay away from Abdul El-Sayed campaign events to limit ‘distractions’ - The Guardian
-- Did the Peltola Campaign Seal the Fate of Alaska’s Ranked Choice Vote? - The New York Times
-- Netanyahu’s Bid to Stay in Power Will Test His Political Savvy - The New York Times
-- King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour - BBC
-- Thousands rally in New Delhi to demand India’s election chief resign - Al Jazeera
+- Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers - The Guardian
+- Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses - NPR
+- Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says - CNBC
+- German ministers vow tough response to Frankfurt riots and looting - Reuters
+- 2 days until midterms, Trump campaigns in Iowa and Kansas as both parties make final push - Fox News
+- It's ACA open enrollment time. Here are the changes for health insurance shoppers - NPR
+- 31-year-old pregnant woman identified as killed in Fairfield shooting at Spirit Halloween - KCRA
+- Transcript: David Becker on "Face the Nation with Margaret Brennan," Nov. 1, 2026 - CBS News
+- Rescues underway, evacuations ordered as Oak Creek floods parts of Sedona - AZ Family
+- Alamo no longer appears on Ken Paxton’s tour - The Washington Post
+- Israel’s president says parties need to engage with ‘open heart’ to avoid fresh election - NBC News
+- King to address slavery in Antigua as PM says he is open to possible UK apology - BBC
+- Senior Arab MK says Joint List ready to back anti-Netanyahu government from outside - The Times of Israel
 - Iran warns of 'geographically unrestricted response' if US attacks - Euronews.com
-- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist - CBS News
-- We’re Living in the Age of the Imperial CEO - WSJ
-- Is the economy better than before Trump retook office? See the data - USA Today
+- Binance withdrawals resume following $6 billion hack - CNN
 - OPEC+ keeps December oil output targets steady ahead of tougher call for 2027 - Reuters
-- New Android SMS of Death exploit can remotely crash unpatched phones - BleepingComputer
-- An AI Agent Injected Drugs Into a Live Mouse’s Brain - WIRED
+- Every eligible child under 18 now has a Trump Account - whether parents want one or not - The Independent
+- We’re Living in the Age of the Imperial CEO - WSJ
+- Apple Missed a Chance to Be Revolutionary With Touch-Screen Mac - Bloomberg.com
+- Apple's HomeView Ships With Six-Month-Old Software - MacRumors
