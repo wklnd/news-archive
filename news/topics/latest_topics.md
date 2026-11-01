@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-01 00:42_
+_Updated: 2026-11-01 04:27_
 
 ## Top Stories
 
+- Stenkastning vid tyska demonstrationer - Corren
 - Tårgas och stora protester på halloween i Frankrike - Dagens Nyheter
 - Tusentals besökte Kvibergs kyrkogård för att hedra sina döda - Göteborgs-Posten
-- Stenkastning vid tyska demonstrationer - Corren
-- Halloweenfesten spårade ur – pappan ber grannarna om ursäkt - Ekuriren
-- Evakuerade från krigshärjad stad framme i Ukraina - Göteborgs-Posten
-- Hon tänder ljus när anhöriga inte kan - Svenska Dagbladet
-- 31 oktober 14.16, Trafikolycka, Nässjö - polisen.se
+- Stora protester i Polen – sågade sig in till domstolen - Göteborgs-Posten
+- Evakuerade från krigshärjad stad framme i Ukraina - Västerbottens-Kuriren
+- Trump: Måste ”ta hand om” mål i Iran - Göteborgs-Posten
 - Halloween tog plats i Stockholm – hundratals var med - Dagens Nyheter
 - Uppgifter: SD överväger att släppa ministerkrav - Corren
-- Studie: AI kan hjälpa fler med social ångest - Göteborgs-Posten
-- Trumps miljardstämning mot tidning avfärdas igen - Västerbottens-Kuriren
-- Man död i olycka på gym i Oslo - Corren
+- 31 oktober 14.16, Trafikolycka, Nässjö - polisen.se
+- Besvikelse efter globala miljömötet: Tiden rinner ut - Göteborgs-Posten
+- Trumps miljardstämning mot tidning avfärdas igen - Corren
+- Man död i olycka på gym i Oslo - Västerbottens-Kuriren
 - Analys: Förvirring och splittring under valspurten - Göteborgs-Posten
-- Stora protester i Polen – sågade sig in till domstolen - Göteborgs-Posten
-- Elon Musks hån mitt i kryptokrisen - Aftonbladet
+- Vänstervåg i USA: ”Söker nya typer av politiker” - Göteborgs-Posten
+- FBI: Nordkorea bakom miljardkupp mot kryptobörs - Svenska Dagbladet
 - Dubbla miljonvinster på Lotto till spelare i Göteborg och Markaryds kommun - Svenska Spel
 - INSÄNDARE: Fyra gånger dyrare el i Västernorrland – sänk skatten - Allehanda.se
-- ”Marknaden osäker på vilka bolag som överlever” - Omni – Alla nyheter. Alla perspektiv.
-- Fyra äldre dog efter utbrott av vinterkräksjuka - Aftonbladet
+- Open AI tvingas sänka mål för att få in nya pengar - Omni – Alla nyheter. Alla perspektiv.
 - Investerarna försvinner: ”Absolut svåraste tiden” - Svenska Dagbladet
+- Oppo Find X10 vs Find X10 Pro Max – pris och skillnader - HurBra.se
 
 ## World News
 
@@ -33,20 +33,20 @@ _Updated: 2026-11-01 00:42_
 - Volvo Cars reports Q3 2026 sales - Volvo
 - FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Iranian foreign minister says negotiations with U.S. may be off the table - PBS
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Bildextra: NHL Global series med Icelandair - travelnews-se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
-- Ögonblick vi minns från Global Series i Sverige - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Ögonblick vi minns från Global Series i Sverige - NHL.com
 
 ## Technology
 
@@ -57,6 +57,7 @@ _Updated: 2026-11-01 00:42_
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
+- Lösningar för artificiell intelligens (AI) - SAS: Data and AI Solutions
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
 - Artificiell intelligens: Möjligheter och risker - European Parliament
 - Sandvik AI investments - smarter Industry solutions - Sandvik Group
@@ -69,15 +70,25 @@ _Updated: 2026-11-01 00:42_
 
 ## Business
 
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Nam A Bank utökar grön finansiering för små och medelstora företag. - Vietnam.vn
-- Stödja företag i övergången till ESG, förbättra tillgången till grön finansiering. - Vietnam.vn
 - Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Nam A Bank stärker globala resursförbindelser och främjar ESG och teknologi på AEF 2026. - Vietnam.vn
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
+- Organon lanserar ett nytt företag för kvinnohälsa - Via TT
+- What are BIN sponsorships and how do they drive the digital economy - Mastercard
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- Redpill Linpro och Berget AI inleder samarbete för suverän AI - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
@@ -95,14 +106,13 @@ _Updated: 2026-11-01 00:42_
 
 ## Science
 
-- Öppning av AI Research Collaboration Center och utställningsområde som visar upp grön teknik och digitala energiprodukter. - Vietnam.vn
+- Öppen vetenskap vid SLU - SLU
+- Naturvetenskapliga universitetet föreslår en modell för att koppla samman grundläggande vetenskaplig forskning med nationella strategiska teknologier - Naturvetenskapliga universitetet, VNU-HCM - Vietnam.vn
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Google investerar i Zuckerbergs Biohub. Ska utveckla dataset för biologisk forskning. - Feber
 - Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
-- Naturvetenskapliga universitetet föreslår en modell för att koppla samman grundläggande vetenskaplig forskning med nationella strategiska teknologier - Naturvetenskapliga universitetet, VNU-HCM - Vietnam.vn
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - 2026-10-20 Seminarium på KSLA: Forskning och innovation, hur motståndskraftiga grödor bidrar till global livsmedelsförsörjning - Mynewsdesk
-- Öppen vetenskap vid SLU - SLU
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
@@ -112,9 +122,10 @@ _Updated: 2026-11-01 00:42_
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Årets tio största vetenskapliga genombrott - Dagens Nyheter
 
 ## Jordbruk
 
