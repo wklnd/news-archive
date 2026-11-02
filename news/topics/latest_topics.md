@@ -1,69 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-01 22:42_
+_Updated: 2026-11-02 02:58_
 
 ## Top Stories
 
-- I Michigan har Trumps fuskmyter fått fäste bland väljarna - Dagens Nyheter
-- Explosion på Rosengård – boende hålls inne - SVT Nyheter
-- Gabrielsson (V): Tänker inte backa – dörren stängd - Västerbottens-Kuriren
+- DN Direkt – Flygkrasch i Florida – nio döda - Dagens Nyheter
+- Demokrater i bråk – stöttar Republikanernas kandidat – Mellanårsvalet i USA – följ senaste nytt - SVT Nyheter
+- Explosion på Rosengård – bombskyddet inkallat - Sydsvenskan
+- Kvinna död – man gripen misstänkt för mord - Aftonbladet
+- Kommer Trump peta Hegseth om Demokraterna vinner valet? - Dagens Nyheter
+- Olycka på E4 – däck från lastbil lossnade - Västerbotten | Folkbladet
+- V kommer rösta nej – även i sista omröstningen - Göteborgs-Posten
 - DN/Ipsos: Minskat stöd för att S och C ska sitta i regering - Dagens Nyheter
-- Kvinna död i Ludvika – man misstänkt för mord - Omni – Alla nyheter. Alla perspektiv.
-- Pojke skadad i motocrossolycka – får intensivvård - Göteborgs-Posten
-- Mörkret väcker oro hos kvinnor: ”Det kan hända vem som helst” - Dagens Nyheter
 - Man med luftgevär på spårvagn stoppades av polis - NT
-- Slagsmål, fester som spårar och en man puttad in i elden – tuff allhelgonanatt för polisen - Sydsvenskan
-- Just nu: Hjort på fel sida viltstängslet på E18 - Enköpingsposten
-- 325 gripna vid propalestinsk protest i London - Västerbottens-Kuriren
+- Just nu: Hjort på fel sida viltstängslet på E18 - eposten
+- Forskare förbluffade – ny spindelart upptäckt - Västerbottens-Kuriren
 - ”Falsk trygghet” skrämmer Demokraterna inför valet i USA - Göteborgs-Posten
+- Israels president: ”Sluta klättra i träd” - Västerbottens-Kuriren
 - Frankrike: Mordförsök utreds efter molotovcocktail - Hufvudstadsbladet – HBL
-- Trump: Måste ”ta hand om” mål i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- AI-frossan skakar börsen – miljardrullning oroar - Tidningen Näringslivet
-- FBI: Nordkorea bakom miljardkupp mot kryptobörs - DI
-- Konkurserna fortsätter minska: ”Tycks ha släppt” - Omni – Alla nyheter. Alla perspektiv.
 - Fyra gånger dyrare el i länet – sänk skatten nu - Jämtlands Tidning
-- Deras nya spel gör Sergels torg till en krigszon - Mitt i Stockholm
-- World of Warcrafts oväntade strategi för att locka fler spelare - SVT Nyheter
+- FBI: Nordkorea bakom miljardkupp mot kryptobörs - DI
+- Konkurserna minskar – tryck ”tycks ha släppt” - Tidningen Näringslivet
+- AI-frossan skakar börsen – miljardrullning oroar - Dagens Nyheter
+- Deras nya spel gör Sergels torg till en krigszon - Mitt i
+- ”World of Warcraft” verkar komma till konsol – 22 år senare - MovieZine
 
 ## World News
 
-- Första staden som bidrar till global fond för naturen - Aktuell Hållbarhet
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Volvo Cars reports Q3 2026 sales - Volvo
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Två fina priser till NTM i årets INMA Global Awards - NTM
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Musiktest: Med vilken låt fick Right Said Fred en global listetta och varifrån kommer Ane Brun? - Yle
-- BREAKING NEWS. Putin kommenterar USA-valet! - Global Bar Magazine
-- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
-- ABB lanserar kampanjen Real Progress för att påskynda global hållbarhet - ABB
-- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Failings in investigations of feminicides in the State of Mexico violate women’s rights - Amnesty International
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
+- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
+- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Första staden som bidrar till global fond för naturen - Aktuell Hållbarhet
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Fondsparande oktober: Spararna säljer räntefonder medan breda global- och indexfonder dominerar köptoppen - Cision News
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 
 ## Technology
 
-- Tre år med AI: Vad har hänt med jobben? - Almega
-- AI-explosion på svenska arbetsplatser - Computer Sweden
-- Förordningen om artificiell intelligens - Council, European Union
-- Bästa AI-aktierna att köpa nu - Morningstar
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Data Centre Expo Sweden - Mynewsdesk
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
+- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
+- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
+- Timnit Gebru - Right Livelihood
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
-- Sandvik AI investments - smarter Industry solutions - Sandvik Group
-- Artificiell intelligens: Möjligheter och risker - European Parliament
+- Konstgjord intelligens inom medicin och utbildning: blir läkare och lärare överflödiga? Hur AI förändrar yrken - Xpert.Digital - Konrad Wolfenstein
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Use of artificial intelligence by the police: MEPs oppose mass surveillance - European Parliament
-- Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Svenska företag riskerar tappa i AI-racet - Techarenan News
+- Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
+- Metas tidigare AI-chef slår Europarekord – tar in 9 miljarder - Computer Sweden
+- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
+- ”AI:s gudfader” varnar – men ”AI:s fader” inte rädd - Omni – Alla nyheter. Alla perspektiv.
+- Warum Künstliche Intelligenz-Modelle kein Bewusstsein haben können - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -71,8 +77,8 @@ _Updated: 2026-11-01 22:42_
 - Nam A Bank utökar grön finansiering för små och medelstora företag. - Vietnam.vn
 - Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
-- Nam A Bank stärker globala resursförbindelser och främjar ESG och teknologi på AEF 2026. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Nam A Bank stärker globala resursförbindelser och främjar ESG och teknologi på AEF 2026. - Vietnam.vn
 - 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
 - Organon lanserar ett nytt företag för kvinnohälsa - Via TT
 - What are BIN sponsorships and how do they drive the digital economy - Mastercard
@@ -92,24 +98,14 @@ _Updated: 2026-11-01 22:42_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Världens viktigaste avtal för global hälsa har signerats - Läkartidningen
-- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Health-ISAC Hacking Healthcare 10-27-2026 - Health-ISAC
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Fonderna som investerar i megatrenden - Avanzabloggen
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Blodtryckskontroll i primärvård blev bättre med E-hälsa - Läkartidningen
-- Matvanor för god hälsa och miljö - Läkartidningen
-- Anestesi – hörnsten i global hälsa - Läkartidningen
-- Stort intresse för utbildning i global hälsa - Läkartidningen
-- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 
 ## Science
 
@@ -134,15 +130,15 @@ _Updated: 2026-11-01 22:42_
 - Odlingslandskapet - Naturvårdsverket
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - De gick från reko till eko - ST-tidningen
 - Intäkten upp för Pellbrants Farming - Västerbottens Mellanbygd
 - Här är världens största jordbruk - ATL
-- Jubileum för Mjau Gåvoshop – fem år av stöd till Sveriges hemlösa katter! - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Jubileum för Mjau Gåvoshop – fem år av stöd till Sveriges hemlösa katter! - Mynewsdesk
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- Lantbrukarnas data blir en tillgång - Land.se
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
