@@ -1,50 +1,58 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-03 19:58_
+_Updated: 2026-11-04 01:34_
 
 ## Top Stories
 
-- Halvvägs till extra val efter Thand Ringqvists (C) fall - Göteborgs-Posten
-- DN Direkt – Uppgifter: Hot mot SAS-plan i luften - Dagens Nyheter
-- Träffade Daniel – minns inte hur han hamnat här - Expressen
-- Väljare i Detroit: ”Det är inte politik längre, det har blivit personligt” - Dagens Nyheter
-- DN Direkt – Mellanårsvalet är i gång i USA - Dagens Nyheter
-- Omskärelse-fallet i Uppsala – flera utredningar nedlagda - SVT Nyheter
-- Läkare dömd för våldtäkter – mot patienter - Göteborgs-Posten
-- Blåste jobbet på miljoner – köpte fina viner - Västerbottens-Kuriren
-- Anderssons (S) gest till Dadgostar (V) – Senaste nytt om valet 2026 - SVT Nyheter
-- Gängtopp inför rätta: ”Han ser sig själv som en lönnmördare” - Dagens Nyheter
+- Analys: De vill ta över efter Trump – nu börjar positioneringen - Göteborgs-Posten
+- DN Direkt – Efter valet: Svårt för Trump att påverka resultatet - Dagens Nyheter
+- DN Direkt – Bensinpriset i USA slår valrekord - Dagens Nyheter
+- Efter tågolyckan – Spaniens transportminister avgår - Göteborgs-Posten
+- ”Så trött på alla som kysser Trump där bak” - Expressen
+- Omskärelse i Uppsala – utredning nedlagd mot två - Göteborgs-Posten
+- C-ledaren föll i omröstningen – Kristersson får stafettpinnen - SVT Nyheter
+- LEDARE: Har man två röda linjer måste en vara lite mindre röd än den andra - Värmlands Folkblad
+- Inställda pendeltåg efter dubbla växelfel i morgontrafiken - SVT Nyheter
+- 3 november 22.01, Trafikkontroll, Västerbottens län - polisen.se
+- Abdul El-Sayed utmanar republikanerna i Michigan – Trump påverkar senatsvalet - SVT Nyheter
 - Rysk attack mot vårdinrättning – över 70 skadade - Västerbottens-Kuriren
-- Donald Trump vill sluta stödja Israel - Göteborgs-Posten
-- Samtal mellan Ryssland och Ukraina nästa vecka - Hufvudstadsbladet – HBL
-- Det israeliska valet har öppnat dörren till en alternativ framtid - Dagens Arena
-- Erik Magnusson Minst fem goda skäl till att räntan höjs - Sydsvenskan
-- DN Direkt – Efter magsjukeskandal – Taco Bells försäljning rasar - Dagens Nyheter
-- Hopp om avtal pressar oljepriset - Affärsvärlden
-- Regeringen aktiverar elstödet – runt 100 kronor till familj i villa - Ny Teknik
+- DN Direkt – Astronauter lade sina röster i rymden - Dagens Nyheter
+- Trump: Tjänat mer på Grönland än Irankriget kostat - Hufvudstadsbladet – HBL
+- Här är kreditkortet som ger mest bonuspoäng - Svenska Dagbladet
+- Nya ellarmet: 9 400 procent dyrare elpris i söder - Tidningen Näringslivet
+- Nordea räknar med minst två höjningar av styrräntan - Finanswatch.se
+- AI-aktier lyfte Wall Street – Apple tyngde - Västerbottens-Kuriren
 - GTA VI kräver hela 212 GB - då kan du börja ladda ner spelet - Dopest.se
-- Digitalt system följer massor från projekt till mottagare - Tidningen PROFFS
+- Oklart när leveransstrul för Iphone Duo kan vara över - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
-- Trustly får ny global HR-chef - Finanswatch.se
-- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
+- Analysguiden ser flera kursdrivare i VNV Global - upprepar motiverat värde (Finwire News) - Aktiellt
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- How sign languages shape the world of food - The Times of India
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Trustly får ny global HR-chef - Finanswatch.se
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- International Media Recognize FOTILE's Next-Generation In-Sink Dishwasher During Global HQ Tour (PR Newswire) - Aktiellt
+- Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
+- Ögonblick vi minns från Global Series i Sverige - NHL.com
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Data Centre Expo Sweden - Mynewsdesk
+- Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
 - 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
@@ -52,33 +60,43 @@ _Updated: 2026-11-03 19:58_
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Konstgjord intelligens inom medicin och utbildning: blir läkare och lärare överflödiga? Hur AI förändrar yrken - Xpert.Digital - Konrad Wolfenstein
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Svenska företag riskerar tappa i AI-racet - Techarenan News
-- Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Metas tidigare AI-chef slår Europarekord – tar in 9 miljarder - Computer Sweden
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - ”AI:s gudfader” varnar – men ”AI:s fader” inte rädd - Omni – Alla nyheter. Alla perspektiv.
-- Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
+- Warum Künstliche Intelligenz-Modelle kein Bewusstsein haben können - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Nam A Bank utökar grön finansiering för små och medelstora företag. - Vietnam.vn
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Stödja företag i övergången till ESG, förbättra tillgången till grön finansiering. - Vietnam.vn
 - Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Nam A Bank utökar grön finansiering för små och medelstora företag. - Vietnam.vn
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Nam A Bank stärker globala resursförbindelser och främjar ESG och teknologi på AEF 2026. - Vietnam.vn
+- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
+- What are BIN sponsorships and how do they drive the digital economy - Mastercard
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- Redpill Linpro och Berget AI inleder samarbete för suverän AI - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 
 ## Health
 
+- Health-ISAC Hacking Healthcare 10-27-2026 - Health-ISAC
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Hälso- och sjukvård - Moderaterna
 - NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
@@ -86,7 +104,6 @@ _Updated: 2026-11-03 19:58_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Health-ISAC Hacking Healthcare 10-27-2026 - Health-ISAC
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
@@ -96,22 +113,32 @@ _Updated: 2026-11-03 19:58_
 - Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Tre faktorer för en god psykisk hälsa - Läkartidningen
-- Anestesi – hörnsten i global hälsa - Läkartidningen
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Planetärt perspektiv på hälsa – viktigt att agera vist och långsiktigt - Läkartidningen
+- Stort intresse för utbildning i global hälsa - Läkartidningen
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 
 ## Science
 
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- ICEBA 2026: Kopplar samman forskning inom teknik, fysik och biomedicinsk sensorteknik - Naturvetenskapliga fakulteten, VNU-HCM - Vietnam.vn
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Täta band mellan turism och forskning på Svalbard - SLU
+- Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
+- Naturvetenskapliga universitetet föreslår en modell för att koppla samman grundläggande vetenskaplig forskning med nationella strategiska teknologier - Naturvetenskapliga universitetet, VNU-HCM - Vietnam.vn
+- 2026-10-20 Seminarium på KSLA: Forskning och innovation, hur motståndskraftiga grödor bidrar till global livsmedelsförsörjning - Mynewsdesk
+- Öppen vetenskap vid SLU - SLU
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- När praktisk problemlösning blir ett sätt att forska - Chalmers
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
+- AI och data science - Stockholms universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Andrea del Valle - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- 5 myter om öppen vetenskap - Läkartidningen
+- Täta band mellan turism och forskning på Svalbard - SLU
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
-- European School of Sustainability Science and Research - Åbo Akademi
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
