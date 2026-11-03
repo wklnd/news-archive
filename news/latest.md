@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-02 19:25_
+_Updated: 2026-11-03 02:01_
 
-- Judge dismisses case against ex-FBI agents accused on lying to Congress in Hunter Biden probe - NBC News
-- Midterm elections latest: Trump says he’ll become ‘Mr. Veto’ if Democrats win back control of Congress - CNN
-- Nine killed in fiery Florida Learjet crash in West Palm Beach County - BBC
-- Trump administration asks Supreme Court to hear California mail-in ballot appeal - CNBC
-- Prosecutors plan to retry Lindsay Clancy for deaths of her three children - BBC
-- Trump Will Make Final Midterm Pitch At Reflecting Pool—Which Remains Closed For Renovations - Forbes
-- Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan - The New York Times
-- Donald Trump’s imperial presidency faces a popular uprising - Financial Times
-- How the president’s party has fared in every US midterm election since 1946 - Al Jazeera
-- Two victims identified in deadly Deep Ellum shootings that left four dead and 15 wounded - FOX 4 News Dallas-Fort Worth
-- Supermarkets across Europe hit by new fridge cyberattacks - NBC News
-- Live Updates: Iran says "ball is in the U.S. court" on deal to end war as Trump keeps his intentions veiled - CBS News
-- Karl Bushby ends 28-year journey at mother's house in Hull - BBC
-- Ukraine and Russia report fake emergency alerts after cyberattack targets apps - AP News
-- Stocks jump as oil prices tumble before midterms, tech shares rebound: Live updates - CNBC
-- Anthropic Revenue Hits Nearly $17 Billion Before Blockbuster IPO - Bloomberg.com
-- Marvell to buy Lumentum in $115 billion deal in AI data-center bet - Reuters
-- Binance sees more than $4.6 billion in withdrawals after largest crypto hack in history - Yahoo Finance
-- Inside Apple’s Slog to Create Its First Robot - The Information
+- Supreme Court rejects Trump administration push to set aside thousands of California ballots - AP News
+- 20-Year-Old Co-Pilot Died In Florida Learjet Crash That Killed 9, Family Says - Forbes
+- El-Sayed campaign reports $2.4 million fundraising day as Stevens endorses GOP rival - The Washington Post
+- Trump focuses on Washington DC construction projects on eve of midterm election as Democrats climb in polls – live - The Guardian
+- Judge dismisses case against 2 ex-FBI officials in Hunter Biden probe - CBS News
+- Early Voting Turnout Surges, Offering Promising Signs for Democrats - The New York Times
+- Judge is weighing a retrial for Lindsay Clancy in the deaths of her three children - NBC News
+- Trump Is Playing Up Voter Fraud Prosecutions. Meet Some of the Accused. - The New York Times
+- In an Alaska fishing community, the Dan Sullivan episode takes an ominous turn - PBS
+- Trump says he had ‘very good talk’ with Netanyahu, discussed Iran - The Washington Post
+- British adventurer Karl Bushby returns home after 28-year walk around world - Al Jazeera
+- Ukrainian and Russian emergency alert apps send false warnings after hacks - The Washington Post
+- King's role is not policy making, says Palace in slavery apology row - BBC
+- Poland's constitutional crisis deepens as Prime Minister Tusk faces accusations of power grab - Fox News
+- Apple results beat Wall Street expectations on strong iPhone sales - Reuters
+- Anthropic Investors Push for Cautious Valuation Closer to $1.5 Trillion - WSJ
+- Shop freezers in seven European countries hit by cyber-attack - BBC
+- Frantic Binance Hackers Created Windfall for Fast Crypto Traders - Bloomberg.com
+- Apple CEO Ternus Says iPhone Duo Shortages Have No End Date in Sight - MacRumors
 - Dell XPS Googlebook Review: Beautiful Hardware For A Useless Platform - Engadget
