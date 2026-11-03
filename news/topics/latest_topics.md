@@ -1,55 +1,47 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-03 03:43_
+_Updated: 2026-11-03 11:53_
 
 ## Top Stories
 
-- Britt-Marie Mattsson Trumps slutspurt: ”Jag är president och kan säga vad jag vill” - Göteborgs-Posten
-- ”Jag skäms för att jag röstade på Trump två gånger” - Dagens Nyheter
-- Uppgifter: Hemliga amerikanska attacker i Iran - Västerbottens-Kuriren
-- Witkoff: Samtal Ryssland-Ukraina nästa vecka - SVT Nyheter
-- Zelenskyj: 18 döda i ryska attacker mot by - Corren
-- Finska Aki fångade dödliga flygkraschen på film - Hufvudstadsbladet – HBL
-- Cyklist förd till sjukhus med allvarliga skador - Expressen
-- Matbutiker hackade – 50 grader varmt i kyl och frys - Västerbottens-Kuriren
-- Ola Larsmo: Sprickan om svenskhet i SD är ren arbetsfördelning - Dagens Nyheter
-- 2 november 21.39, Trafikkontroll, Norrbottens län - polisen.se
-- Ingmar Nevéus: Inte säkert att triangeldramat i Michigan gynnar Trump - Dagens Nyheter
-- Direkt – Kriget i Ukraina – Ryssland förde in vapen under vapenvilan - Dagens Nyheter
-- Det israeliska valet har öppnat dörren till en alternativ framtid - Dagens Arena
-- Irans ayatolla stödjer indirekta samtal med USA - Västerbottens-Kuriren
-- Villapriserna faller – ovanligt stor nedgång - Nerikes Allehanda
-- Lägre löneökningskrav från facken – ”Positivt att frågan om sänkt arbetstid finns med som krav” - Journalisten
-- Högre rörliga boräntor när Riksbanken höjer styrräntan - Aktiellt
-- WALL STREET SLOG OM TILL RÖTT, S&P 500 -0,5% - Placera.se
+- Fotboll: Teneriffaspelaren Jesús de Miguel död efter hjärtstopp - SVT Nyheter
+- Elpriset rusar – stödet till södra Sverige aktiverat - Dagens Nyheter
+- Donald Trumps kampanjavslutning – och damminvigning - Göteborgs-Posten
+- C-ledaren går mot storförlust när riksdagen röstar om statsminister - Dagens Nyheter
+- 2 november 19.36, Trafikolycka, personskada, Norrtälje - polisen.se
+- ”Är i vårt livs kamp” – ilskan pyr i Texas - Hufvudstadsbladet – HBL
+- DN Direkt – IMY: Lexbase och Krimfup saknar lagstöd för uppgifter om brott - Dagens Nyheter
+- Dalentoppen Galiyev inför rätta i rekordstort åtal - Göteborgs-Posten
+- Larmet: Fler unga fastnar i spel om pengar - Aftonbladet
+- Regeringsbildningen steg för steg - SVT Nyheter
+- Barn i New York dött efter mässlingssmitta - Göteborgs-Posten
+- Uppgift: Nya USA-attacker mot iranska mål - SVT Nyheter
+- Helikoptrar kolliderade vid Mount Everest – en död - Västerbottens-Kuriren
+- Minst 26 döda i dubbla ryska attacker mot by - Göteborgs-Posten
+- Kocken Marion Ringborg: Enorma mängder vatten forsade ut - Dagens Nyheter
+- Spår höjd ränta redan imorgon: ”Jätteproblem” - Göteborgs-Posten
+- Fler högskolestuderande upplever att ekonomin är bra - CSN
+- Nöjesjätte planerar nya nedskärningar – tusentals tjänster ska bort - Sydsvenskan
+- 100 miljoner år gammalt dinosaurieblod hittat - Dagens Nyheter
 - Zelda: Ocarina of Time möter GTA VI i november - andra spel flyttar sina lanseringar - Dopest.se
-- Blizzards World of Warcraft: Forever-mockumentary i tre delar låter dig utforska Azeroths ”märkliga och fantastiska värld” med komikern Bill Bailey - TechRadar
 
 ## World News
 
 - Bubba Watson kommer till BMW International Open 2027 - www.golfpost.com
-- Volvo Cars reports Q3 2026 sales - Volvo
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Bildextra: NHL Global series med Icelandair - travelnews-se
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
-- Ögonblick vi minns från Global Series i Sverige - NHL.com
+- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
+- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 
 ## Technology
 
+- Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
 - Tre år med AI: Vad har hänt med jobben? - Almega
 - AI-explosion på svenska arbetsplatser - Computer Sweden
 - Förordningen om artificiell intelligens - Council, European Union
@@ -59,35 +51,25 @@ _Updated: 2026-11-03 03:43_
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
 - Here are the Swedish AI companies everyone is talking about - DI
+- Sandvik AI investments - smarter Industry solutions - Sandvik Group
 - Artificiell intelligens: Möjligheter och risker - European Parliament
 - Karim Jebari - Institutet för framtidsstudier
-- Sandvik AI investments - smarter Industry solutions - Sandvik Group
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- Use of artificial intelligence by the police: MEPs oppose mass surveillance - European Parliament
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
 
-- Stödja företag i övergången till ESG, förbättra tillgången till grön finansiering. - Vietnam.vn
-- Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Nam A Bank utökar grön finansiering för små och medelstora företag. - Vietnam.vn
-- Vilken framtid arbetar du för? - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Nam A Bank stärker globala resursförbindelser och främjar ESG och teknologi på AEF 2026. - Vietnam.vn
-- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
-- Organon lanserar ett nytt företag för kvinnohälsa - Via TT
-- What are BIN sponsorships and how do they drive the digital economy - Mastercard
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Sambla Group utser Martin Hjärne till Chief Compliance Officer - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- Redpill Linpro och Berget AI inleder samarbete för suverän AI - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
@@ -115,26 +97,36 @@ _Updated: 2026-11-03 03:43_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Naturvetenskapliga universitetet föreslår en modell för att koppla samman grundläggande vetenskaplig forskning med nationella strategiska teknologier - Naturvetenskapliga universitetet, VNU-HCM - Vietnam.vn
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Andrea del Valle - Karolinska Institutet
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Årets tio största vetenskapliga genombrott - Dagens Nyheter
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - 5 myter om öppen vetenskap - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Årets tio största vetenskapliga genombrott - Dagens Nyheter
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Sverige siktar mot världstoppen - 45 projekt inleder satsning på framtidens teknik - Vinnova
 
 ## Jordbruk
 
-- Sveriges förändrade lantbruk - SLU
-- Jordbruk och landsbygdsutveckling - European Commission
+- Nestlé och BirdLife Europe inleder samarbete för att mäta hur regenerativt jordbruk kan stärka biologisk mångfald - Mynewsdesk
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Odlingslandskapet - Naturvårdsverket
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- De gick från reko till eko - ST-tidningen
 - Här är världens största jordbruk - ATL
+- Jordbrukspolitik - Naturvårdsverket
+- Kan agroekologi mätta världen? - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Jord, kor och klimat - SLU
+- Jubileum för Mjau Gåvoshop – fem år av stöd till Sveriges hemlösa katter! - Mynewsdesk
+- Visning av uppkomst efter direktsådd - Land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land.se
