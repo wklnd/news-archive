@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-04 03:38_
+_Updated: 2026-11-04 10:00_
 
-- Democratic Sen. Jon Ossoff cruises to re-election in Georgia - NBC News
-- Election Day Live: 60% Disapprove Of Trump In Early Exit Poll - Forbes
-- Parts of jet's tail found more than a mile from plane crash site in South Florida, official says - PBS
-- The candidates who will decide the US midterm elections - The Guardian
-- Live Forecast: Senate and House - The New York Times
-- See where votes are being counted in Senate and House midterm races - The Washington Post
-- Veteran Election Guru Makes Disastrous Prediction for Trump - The Daily Beast
-- Gov. Josh Shapiro sails to a second term in battleground Pennsylvania - NBC News
-- LIVE UPDATES | Ohio governor, U.S. Senate races take center stage in midterm elections - WLWT
-- Scoop: Haley Stevens requests U.S. marshals' protection after death threats - Axios
-- King calls slave trade a 'shameful chapter' during Commonwealth address - BBC
-- Poland Beefs Up Security at Border With Russia - The New York Times
-- Bomb threats on flights, cruise ship cause disruption in Europe, no devices found - Reuters
-- 5 people rescued in South Pacific after months adrift at sea, 4 others missing - CBS News
-- Midterm election results 2026: Who’s winning and what’s at stake for stocks and the economy - MarketWatch
+- Democrats win control of Senate as US voters reject Trump’s agenda - The Guardian
+- Democrat Gina Hinojosa wins race for Texas governor, ousting Greg Abbott - NPR
+- Democratic Gov. JB Pritzker wins a third term in Illinois - NBC News
+- D.C. mayor election results 2026 - The Washington Post
+- Bottoms defeats Rick Jackson, turning Georgia governor’s office blue - The Hill
+- Trump turns his ire toward Fox News on election night - Axios
+- Abdul El-Sayed grows lead over Mike Rogers in Michigan US Senate race - Bridge Michigan
+- Jon Ossoff Wins Georgia Senate Race Against Mike Collins - The New York Times
+- Top Democrat tells Trump and Republicans to ‘lawyer up’ after US midterm defeats - The Guardian
+- ‘A big puzzle’: Key evidence in Learjet crash investigation found up to 3.8 miles away, NTSB says - Sun Sentinel
+- Poland Accuses Russia of ‘Flashlight’ Provocation Along Kaliningrad Border - The Moscow Times
+- Russia bombards Ukraine power grid before Abu Dhabi talks; Merz urges Moscow to engage - Reuters
+- N Korea fires multiple missiles, denies US claims on Binance hack - Al Jazeera
+- Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says - BBC
+- Stock futures mixed as Democrats win big in midterms, traders bet they will slow data center buildout: Live updates - CNBC
 - Google Curbs AI in School Accounts After Pushback - WSJ
-- How malware and a bogus job interview let attackers nab $6.3B from Binance - The Washington Post
-- Why the Anthropic IPO 'could be the swing vote' for Wall Street bank stocks - Yahoo Finance
-- Safari update brings vertical tabs, adaptive dark mode, AI integration - Six Colors
-- New iPad mini hands-on: Refreshed design, OLED display, more - 9to5Mac
+- McDonald’s Q3 sales seen slowing as spending cools, now value, drinks in focus - Yahoo Finance
+- Oil rises on Iran war uncertainty after Trump's Republicans face election rout - Reuters
+- Microsoft improves Windows 11 performance on 8 GB PCs as RAM prices keep climbing - The Register
+- Apple’s latest watchOS beta includes its new always-on Audio Intelligence features - The Verge
