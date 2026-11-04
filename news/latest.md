@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-03 23:16_
+_Updated: 2026-11-04 03:38_
 
-- 2026 Midterm Elections Live Updates: Divided Nation Votes on Election Day to Decide Control of Congress - The New York Times
-- The unlikely player in contentious Michigan Senate race: Stevens’s fiancé - The Washington Post
-- Austin tech founder killed with wife and children in Florida jet crash had reached a $10M business milestone - Fox News
-- From Florida to Alaska, the 14 Senate races that will decide control - USA Today
-- Supreme Court sympathetic to Catholic plea to participate in Colorado preschool program - NBC News
-- Bomb threats cause flight disruptions across Europe - Reuters
-- Authorities release 911 call from the man who killed a shooter inside an Oregon school last month - AP News
-- Trump’s Immigration Dragnet Sweeps Up Ukrainian Truckers Who Fled War - The New York Times
-- Oklahoma man charged with mailing letters with white powder to hundreds of officials - CBS News
-- As Americans vote, Trump says US will stop $4 billion in aid to Israel - Reuters
+- Democratic Sen. Jon Ossoff cruises to re-election in Georgia - NBC News
+- Election Day Live: 60% Disapprove Of Trump In Early Exit Poll - Forbes
+- Parts of jet's tail found more than a mile from plane crash site in South Florida, official says - PBS
+- The candidates who will decide the US midterm elections - The Guardian
+- Live Forecast: Senate and House - The New York Times
+- See where votes are being counted in Senate and House midterm races - The Washington Post
+- Veteran Election Guru Makes Disastrous Prediction for Trump - The Daily Beast
+- Gov. Josh Shapiro sails to a second term in battleground Pennsylvania - NBC News
+- LIVE UPDATES | Ohio governor, U.S. Senate races take center stage in midterm elections - WLWT
+- Scoop: Haley Stevens requests U.S. marshals' protection after death threats - Axios
 - King calls slave trade a 'shameful chapter' during Commonwealth address - BBC
-- Poland launches major border operation as activity in Russia fuels concern over possible "serious provocation" - CBS News
-- What are the planned changes to immigration rules? - BBC
-- America’s Arab Allies Brace for War as Trump’s Midterm Deadline Looms - The New York Times
-- Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’ - The Guardian
-- What the midterm elections could mean for markets, debt - Fox Business
-- US Stocks Waver as Election, AI Bubble Risks Weigh on Outlook - Bloomberg.com
-- Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries - BBC
+- Poland Beefs Up Security at Border With Russia - The New York Times
+- Bomb threats on flights, cruise ship cause disruption in Europe, no devices found - Reuters
+- 5 people rescued in South Pacific after months adrift at sea, 4 others missing - CBS News
+- Midterm election results 2026: Who’s winning and what’s at stake for stocks and the economy - MarketWatch
+- Google Curbs AI in School Accounts After Pushback - WSJ
+- How malware and a bogus job interview let attackers nab $6.3B from Binance - The Washington Post
+- Why the Anthropic IPO 'could be the swing vote' for Wall Street bank stocks - Yahoo Finance
+- Safari update brings vertical tabs, adaptive dark mode, AI integration - Six Colors
 - New iPad mini hands-on: Refreshed design, OLED display, more - 9to5Mac
-- iPhone Duo vs Galaxy Z Fold 8: Is $2,000 worth it? - Fox News
