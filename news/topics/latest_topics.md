@@ -1,86 +1,81 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-04 13:24_
+_Updated: 2026-11-04 20:45_
 
 ## Top Stories
 
-- ”Demokraternas triumf och Trumps nederlag inger hopp” - Västerbottens-Kuriren
-- Hackare höjde värmen i kylar med donerat blod - SVT Nyheter
-- Kommunchefens hemliga dubbelliv – porrproducent: ”Säkerhetsrisk” - SVT Nyheter
-- Talarico i Texas: Vi besegrade Goliat - Göteborgs-Posten
-- Demokraten Abdul El-Sayed tar hem segern i Michigan - Dagens Nyheter
-- Minskad brist på östrogenläkemedel - Svenska Dagbladet
-- DN Direkt – Dalahästen får skydd av EU - Dagens Nyheter
-- Man åtalad för mord i Örebro - Göteborgs-Posten
+- DN Direkt – Vance: Kriget i Iran avgjorde - Dagens Nyheter
+- Valet i USA i fyra punkter - Göteborgs-Posten
+- En död efter brand i fritidshus - Västerbottens-Kuriren
+- Kommunchef får sluta efter porrfilmsavslöjande - Dagens Nyheter
+- Polisinsats i Sollentuna – misstänkt grovt brott - Omni – Alla nyheter. Alla perspektiv.
+- Ingen bryr sig om ditt rosa pubishår när maten kostar multum - Arbetet
+- Dalahästen får skydd av EU - Västerbottens-Kuriren
+- SD: Ge inte en liten politisk minoritet vetorätt över Sveriges framtid - Altinget.se
 - Säpo varnar: Risken för ryskt sabotage har ökat - Göteborgs-Posten
-- Nyhetsshowen 4 november*Bevara oss från kommunala elsparkcyklar - Göteborgs-Posten
+- DN Direkt – Uppgifter: Talman Johnson lämnar som gruppledare - Dagens Nyheter
+- Vändningen: ”Bonusprinsen” släpps inte på fri fot - SVT Nyheter
+- Varm ånga sprutar ur marken i Oslo - Göteborgs-Posten
 - Inga tecken på valfusk i Israel - Västerbottens-Kuriren
-- Efter tågolyckan – Spaniens transportminister avgår - Göteborgs-Posten
-- Äldre kvinna befaras död i villabrand - Aftonbladet
-- Över 30 dödade i rysk attack mot Ukraina - Dagens Nyheter
-- Riksbanken höjer styrräntan till 2,0 procent – för första gången på tre år - Svenska Dagbladet
-- AI ritar om kartan för centralbankerna - Affärsvärlden
-- Analytiker: H&M måste öka bland influencers - Affärsvärlden
-- DEBATT: Företagarna: Fyra gånger dyrare el – sänk skatten nu - Östersunds-Posten
-- Raspberry Pi höjer priserna igen - Computer Sweden
+- Demokraten Abdul El-Sayed tar hem segern i Michigan - Dagens Nyheter
+- Styrräntan höjs – första gången på tre år - Dagens Nyheter
+- Jonathan Axelsson: Oundvikligt att sparka Hemnets vd - EFN
+- Efter AI-chocken: Nästa steg kan vara avgörande - Expressen
+- Wallenberg redo för nya storköp - DI
+- Windows 11 blir 40 procent snabbare på 8 GB-datorer - Computer Sweden
 - GTA VI:s storlek bekräftad - Aftonbladet
 
 ## World News
 
-- Analysguiden ser flera kursdrivare i VNV Global - upprepar motiverat värde (Finwire News) - Aktiellt
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- AstraZeneca opens new global strategic R&D centre in Kendall Square, Cambridge, Massachusetts - Cision News
+- Detta ger CMC en möjlighet att bryta igenom inom AI och molnfunktioner på global skala. - Vietnam.vn
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Kan Sheikh Hasina verkligen återvända till Bangladesh? - sydasien.se
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- Trustly får ny global HR-chef - Finanswatch.se
-- Iranian foreign minister says negotiations with U.S. may be off the table - PBS
-- Bildextra: NHL Global series med Icelandair - travelnews-se
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- International Media Recognize FOTILE's Next-Generation In-Sink Dishwasher During Global HQ Tour (PR Newswire) - Aktiellt
-- Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni – Alla nyheter. Alla perspektiv.
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Ögonblick vi minns från Global Series i Sverige - NHL.com
+- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
+- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
+- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 
 ## Technology
 
 - Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Data Centre Expo Sweden - Mynewsdesk
-- 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Timnit Gebru - Right Livelihood
+- Skapar en ny tillverkningsposition för Vietnam med industriell AI. - Vietnam.vn
+- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
+- Wall Street mot röd öppning – techfallet fortsätter - EFN
+- Tre år med AI: Vad har hänt med jobben? - Almega
+- AI-explosion på svenska arbetsplatser - Computer Sweden
+- Förordningen om artificiell intelligens - Council, European Union
+- Bästa AI-aktierna att köpa nu - Morningstar
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
-- Northvolt tech revived as Carlsson launches Aris Machina - Norran
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
+- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
+- Lösningar för artificiell intelligens (AI) - SAS: Data and AI Solutions
+- Artificiell intelligens: Möjligheter och risker - European Parliament
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Metas tidigare AI-chef slår Europarekord – tar in 9 miljarder - Computer Sweden
-- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
-- ”AI:s gudfader” varnar – men ”AI:s fader” inte rädd - Omni – Alla nyheter. Alla perspektiv.
+- Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
+- När ”human in the loop” ger en falsk trygghet - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
+- Utvecklare gömde fälla för AI-agenter i öppen källkod - Computer Sweden
+- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Nam A Bank utökar grön finansiering för små och medelstora företag. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
@@ -99,46 +94,25 @@ _Updated: 2026-11-04 13:24_
 
 ## Science
 
-- ICEBA 2026: Kopplar samman forskning inom teknik, fysik och biomedicinsk sensorteknik - Naturvetenskapliga fakulteten, VNU-HCM - Vietnam.vn
-- När praktisk problemlösning blir ett sätt att forska - Chalmers
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
-- 2026-10-20 Seminarium på KSLA: Forskning och innovation, hur motståndskraftiga grödor bidrar till global livsmedelsförsörjning - Mynewsdesk
-- Öppen vetenskap vid SLU - SLU
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Andrea del Valle - Karolinska Institutet
-- Årets tio största vetenskapliga genombrott - Dagens Nyheter
-- AI och data science - Stockholms universitet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Täta band mellan turism och forskning på Svalbard - SLU
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- 5 myter om öppen vetenskap - Läkartidningen
+- European School of Sustainability Science and Research - Åbo Akademi
 
 ## Jordbruk
 
-- Nestlé och BirdLife Europe inleder samarbete för att mäta hur regenerativt jordbruk kan stärka biologisk mångfald - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Framtidens jordbruk - European Commission
+- Sveriges förändrade lantbruk - SLU
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Odlingslandskapet - Naturvårdsverket
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- De gick från reko till eko - ST-tidningen
-- Intäkten upp för Pellbrants Farming - Västerbottens Mellanbygd
-- Kan agroekologi mätta världen? - SLU
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Här är världens största jordbruk - ATL
-- Jordbrukspolitik - Naturvårdsverket
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Visning av uppkomst efter direktsådd - Land.se
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Jord, kor och klimat - SLU
 - Hellre plöjningsfri odling än ekologisk - Land.se
