@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-04 10:00_
+_Updated: 2026-11-04 18:33_
 
-- Democrats win control of Senate as US voters reject Trump’s agenda - The Guardian
-- Democrat Gina Hinojosa wins race for Texas governor, ousting Greg Abbott - NPR
-- Democratic Gov. JB Pritzker wins a third term in Illinois - NBC News
-- D.C. mayor election results 2026 - The Washington Post
-- Bottoms defeats Rick Jackson, turning Georgia governor’s office blue - The Hill
-- Trump turns his ire toward Fox News on election night - Axios
-- Abdul El-Sayed grows lead over Mike Rogers in Michigan US Senate race - Bridge Michigan
-- Jon Ossoff Wins Georgia Senate Race Against Mike Collins - The New York Times
-- Top Democrat tells Trump and Republicans to ‘lawyer up’ after US midterm defeats - The Guardian
+- House Speaker Mike Johnson will not stay on as Republican leader after GOP losses - NBC News
+- 2026 Midterm Election Live Updates: Democrats Win Control of Congress as Voters Rebuke Trump - The New York Times
+- Blue tsunami breaks MAGA: 5 takeaways from a blowout midterm election - Axios
+- SpaceX, Tesla stocks sink as analyst warns Democrats' victory will create 'major hurdles' for AI build-out - Yahoo Finance
+- Democrat Amy Acton wins Ohio governor's race, defeating Republican Vivek Ramaswamy - CBS News
+- Democratic socialist Janeese Lewis George elected mayor of Washington, D.C. - NBC News
 - ‘A big puzzle’: Key evidence in Learjet crash investigation found up to 3.8 miles away, NTSB says - Sun Sentinel
-- Poland Accuses Russia of ‘Flashlight’ Provocation Along Kaliningrad Border - The Moscow Times
-- Russia bombards Ukraine power grid before Abu Dhabi talks; Merz urges Moscow to engage - Reuters
-- N Korea fires multiple missiles, denies US claims on Binance hack - Al Jazeera
-- Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says - BBC
-- Stock futures mixed as Democrats win big in midterms, traders bet they will slow data center buildout: Live updates - CNBC
-- Google Curbs AI in School Accounts After Pushback - WSJ
-- McDonald’s Q3 sales seen slowing as spending cools, now value, drinks in focus - Yahoo Finance
-- Oil rises on Iran war uncertainty after Trump's Republicans face election rout - Reuters
-- Microsoft improves Windows 11 performance on 8 GB PCs as RAM prices keep climbing - The Register
-- Apple’s latest watchOS beta includes its new always-on Audio Intelligence features - The Verge
+- Former federal prosecutor to lead Cornell sex assault investigation - CNN
+- 3 dead, including suspect, and 2 deputies critically injured in eastern Washington state - CNN
+- James Talarico becomes first Democrat to win Texas Senate seat since 1988 - BBC
+- Israel’s President Could Play Key Role in Breaking Post-Election Deadlock - The New York Times
+- Blood banks targeted in latest European fridge cyberattacks - CNBC
+- Louise Haigh facing Alex Burghart at deputy PMQs - watch live - BBC
+- Despite calling Trump a “man of peace,” Africa’s most powerful leader issues chilling warning to the U.S. and Iran over what may come next - Business Insider Africa
+- Stock Market Today: Dow Jumps 1,000 Points On Democratic Sweep of Congress — Live Updates - WSJ
+- CVS falls 14% on plans to split off drugstore business in major breakup of healthcare giant - CNBC
+- Oil Prices Fall as Investors Weigh U.S. Midterm Results, Iran Risks - WSJ
+- McDonald's US sales decline for first time in six quarters despite value push - Reuters
+- Xbox Debuts the Series X-BITE: A Working Console Swallowed by an Alligator - Hypebeast
+- ‘The Legend Of Zelda: Ocarina Of Time’ Remake Metacritic Review Score Is Historic - Forbes
