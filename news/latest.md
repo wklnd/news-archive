@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-04 18:33_
+_Updated: 2026-11-05 00:12_
 
+- As GOP points fingers over stunning midterm losses, Trump admires his ballroom - Politico
+- Seven numbers that explain Democrats' US midterm triumph - Reuters
+- Talarico says his Texas Senate win sends message to Elon Musk: "Texas is not for sale" - CBS News
+- Abdul El-Sayed, Melat Kiros, Adrian Boafo: The politicians with African roots making history in the US midterms - BBC
+- Here are the latest results on all 9 of Massachusetts' ballot questions - WBUR
+- Ukraine says bodycam video shows deadly Russian double-tap bombing - BBC
+- ‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump - Financial Times
 - House Speaker Mike Johnson will not stay on as Republican leader after GOP losses - NBC News
-- 2026 Midterm Election Live Updates: Democrats Win Control of Congress as Voters Rebuke Trump - The New York Times
-- Blue tsunami breaks MAGA: 5 takeaways from a blowout midterm election - Axios
-- SpaceX, Tesla stocks sink as analyst warns Democrats' victory will create 'major hurdles' for AI build-out - Yahoo Finance
-- Democrat Amy Acton wins Ohio governor's race, defeating Republican Vivek Ramaswamy - CBS News
-- Democratic socialist Janeese Lewis George elected mayor of Washington, D.C. - NBC News
-- ‘A big puzzle’: Key evidence in Learjet crash investigation found up to 3.8 miles away, NTSB says - Sun Sentinel
-- Former federal prosecutor to lead Cornell sex assault investigation - CNN
-- 3 dead, including suspect, and 2 deputies critically injured in eastern Washington state - CNN
-- James Talarico becomes first Democrat to win Texas Senate seat since 1988 - BBC
-- Israel’s President Could Play Key Role in Breaking Post-Election Deadlock - The New York Times
-- Blood banks targeted in latest European fridge cyberattacks - CNBC
-- Louise Haigh facing Alex Burghart at deputy PMQs - watch live - BBC
-- Despite calling Trump a “man of peace,” Africa’s most powerful leader issues chilling warning to the U.S. and Iran over what may come next - Business Insider Africa
-- Stock Market Today: Dow Jumps 1,000 Points On Democratic Sweep of Congress — Live Updates - WSJ
-- CVS falls 14% on plans to split off drugstore business in major breakup of healthcare giant - CNBC
-- Oil Prices Fall as Investors Weigh U.S. Midterm Results, Iran Risks - WSJ
-- McDonald's US sales decline for first time in six quarters despite value push - Reuters
-- Xbox Debuts the Series X-BITE: A Working Console Swallowed by an Alligator - Hypebeast
+- Attorney General Appoints Outside Counsel to Lead Cornell Rape Case - The New York Times
+- Ken Paxton’s Teflon-esque run ends in loss to James Talarico - The Texas Tribune
+- Israel's president begins consultations with parties after election deadlock - BBC
+- French blood banks targeted by refrigerator cyberattack - DW.com
+- Ukraine falls behind Moldova on path to EU membership - Financial Times
+- UK ban on Palestine Action is challenged at top court, some protesters arrested - Reuters
+- Stock market today: Dow rallies 1,500 points, S&P 500 and Nasdaq gain after Democrats win control of Congress - Yahoo Finance
+- CVS Health plans to split itself up. Here's why a breakup could make sense now - CNBC
+- CoreWeave Bonds Hit New Lows as Texas Data Centers in Crosshairs - Bloomberg
+- Oil tumbles below $100 on post-election peace hopes - Financial Times
 - ‘The Legend Of Zelda: Ocarina Of Time’ Remake Metacritic Review Score Is Historic - Forbes
+- Xbox previews two new ways to control cloud games - The Verge
