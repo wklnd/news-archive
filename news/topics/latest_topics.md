@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-05 02:28_
+_Updated: 2026-11-05 09:11_
 
 ## Top Stories
 
-- Republikaner anklagar Trump för valfiaskot - Dagens Nyheter
-- Misstänkt mord och mordförsök i Sollentuna - Göteborgs-Posten
-- Trump om Hegseth: Gör ett bra jobb - Hufvudstadsbladet – HBL
-- DN Direkt – Tidig ledning för Abdul El-Sayed - Dagens Nyheter
-- Göteborgare riskerar 30 års fängelse i Polen - Göteborgs-Posten
-- Kreml ändrar strategi – vill öka pressen mot Ukraina när Trump tappar inflytande - Örebronyheter
-- DN Direkt – Svenskt stridsflyg i skarp Natoinsats i Polen - Dagens Nyheter
+- Två skadade i tågkrock utanför Stockholm – stopp i trafiken - Omni – Alla nyheter. Alla perspektiv.
+- ”Demokraternas triumf och Trumps nederlag inger hopp” - Västerbottens-Kuriren
+- Skyltar pekade fel – tio lastbilar fastnade utanför Bollebyggd - SVT Nyheter
+- Hotet: Elsparkcyklarna kan försvinna från Göteborg - Göteborgs-Posten
+- Lägenhet i Umeå totalförstörd i brand – fastigheten evakuerad - SVT Nyheter
+- Ryssland och Ukraina möts i Vita huset i dag - Hufvudstadsbladet – HBL
+- Resistenta bakterier frodas i sjukhusens avlopp - Göteborgs-Posten
 - Kritiken: ”Oerhört slöseri med skattepengar” - Västerbottens-Kuriren
-- Sveriges längsta skyddsvall testas – ska stå emot havet - Dagens Nyheter
-- Elevassistenten Dennis om våldet i skolan: ”Det har eskalerat” - SVT Nyheter
-- WHO godkänner test av två nya ebolavaccin - Västerbottens-Kuriren
-- Ånga sprutade ur marken i Oslo - Dagens Nyheter
-- Vita huset: Melania Trump värd för Ukrainasamtal - Göteborgs-Posten
-- Vändningen: ”Bonusprinsen” släpps inte på fri fot - Hufvudstadsbladet – HBL
-- Enkät: Så tycker människor i Alingsås om höjd styrränta - Alingsås Tidning
-- Hemnet byter vd – Jonas Gustafsson slutar - SVT Nyheter
-- Efter kritiken: Google stänger av AI i klassrummet - Dagens industri
-- Proryska hackare tar på sig attacker mot matbutiker - Expressen
-- Lasse Kronér om nya Zelda: ”Det vackraste de har gjort” - Aftonbladet
-- GTA VI kan laddas ner från 10 november - Teknikveckan
+- 52 kvadratmeter stort hus i Alingsås sålt för 1 500 000 kronor - Alingsås Tidning
+- Elevassistent: "Knivar, yxor, smällare" i skolan, våldet har eskalerat - https://morgonbladet.se/
+- Franska protester växer – generalstrejk i hela landet - Corren
+- Talarico i Texas: Vi besegrade Goliat - Sydsvenskan
+- DN Direkt – Trump kritiserar Fox News i flera inlägg - Dagens Nyheter
+- Abdul El-Sayed utropar seger i Michigan - Västerbottens-Kuriren
+- DN Direkt – Efter Riksbankens besked – storbanken höjer räntan - Dagens Nyheter
+- Inflationen sjönk i oktober - SVT Nyheter
+- Hemnet byter vd – Michael Hansen tar över som tf vd - Börsvärlden
+- Här är miljardärens taxibilar som lanseras i Stockholm - Dagens Nyheter
+- Windows 11 blir 40 procent snabbare på 8 GB-datorer - Computer Sweden
+- Aonuma: Så valdes designen för nya Zelda Ocarina of Time - Aftonbladet
 
 ## World News
 
@@ -47,6 +47,7 @@ _Updated: 2026-11-05 02:28_
 
 - Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
 - Skapar en ny tillverkningsposition för Vietnam med industriell AI. - Vietnam.vn
+- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - Wall Street mot röd öppning – techfallet fortsätter - EFN
 - Tre år med AI: Vad har hänt med jobben? - Almega
 - AI-explosion på svenska arbetsplatser - Computer Sweden
@@ -55,21 +56,19 @@ _Updated: 2026-11-05 02:28_
 - Artificiell intelligens: Möjligheter och risker - European Parliament
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
-- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- Lösningar för artificiell intelligens (AI) - SAS: Data and AI Solutions
+- Karim Jebari - Institutet för framtidsstudier
 - Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
 - AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - När ”human in the loop” ger en falsk trygghet - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Utvecklare gömde fälla för AI-agenter i öppen källkod - Computer Sweden
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Nam A Bank utökar grön finansiering för små och medelstora företag. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
@@ -77,14 +76,15 @@ _Updated: 2026-11-05 02:28_
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Hälso- och sjukvård - Moderaterna
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
@@ -107,7 +107,6 @@ _Updated: 2026-11-05 02:28_
 ## Jordbruk
 
 - Sveriges förändrade lantbruk - SLU
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
