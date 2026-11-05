@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-05 13:29_
+_Updated: 2026-11-05 20:57_
 
-- Democratic leaders reflect on midterm results and what's next for the party - NPR
-- Trump says Hegseth doing 'a very good job' as questions swirl about his future - Reuters
-- Elon Musk moved to Texas to escape Democrats — now they’re in charge - NBC News
-- Democrat leads by dozens of votes in surprisingly tight Mississippi Senate race - BBC
-- DSA’s Raman Beats Bass in Los Angeles Mayor Race, DDHQ Projects - Bloomberg.com
-- Trump faces reckoning, but focuses on ballroom, after devastating losses - The Hill
-- The blue wave swamped Trump’s redistricting wall - Politico
-- Indiana plans execution using drugs from pharmacy facing state probe, lawyer says - The Washington Post
-- Politics of fear failed to stop El-Sayed's historic US Senate win - Reuters
-- 2 Native American women make history in 2026 midterm elections - CBS News
-- Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison - The New York Times
-- Live: France braces for nationwide strikes in fresh test for Macron’s policies - France 24
-- Ukraine says bodycam video shows deadly Russian double-tap bombing - BBC
-- France: Cyberattack targets blood bank refrigerators - DW.com
-- Stock futures mixed, neocloud slump deepens after Democrats' midterm win rally - CNBC
-- Inside CVS’s Decision to Break Up a Healthcare Juggernaut - WSJ
-- China blocks SoftBank’s $5.4bn takeover of ABB’s robotics division - Financial Times
-- Trump approval rating sank as gas prices rose heading into midterms - USA Today
-- X says its updated web app is way faster - The Verge
-- ChatGPT will now make you animated GIFs - The Verge
+- Republicans begin post-election reckoning after Democrats surge to power - Fox News
+- Democratic socialist Nithya Raman defeats Karen Bass in the Los Angeles mayor’s race - NBC News
+- ‘Skip the TED talk’: Iran trolls Vance over midterm defeat analysis - POLITICO.eu
+- Mississippi has an unexpectedly close Senate race but no recount procedure - The Hill
+- 'Huge clue'? Experts unravel a mysterious, tragic nose-down jet crash - USA Today
+- Trump considers Ron DeSantis to replace Pete Hegseth at Pentagon, CBS News source says - WKMG
+- Harmeet Dhillon, controversial head of DoJ’s civil rights division, steps down - The Guardian
+- DeSantis: ‘No question’ midterms a ‘rebuke’ of Trump, Congress - The Hill
+- Six dead and others injured in fire at Brooklyn building - BBC
+- Indiana executes prisoner despite lawyers’ concerns over state’s lethal drug supplier - NBC News
+- Comedian Russell Brand found guilty by UK court of rape and sexual assaults - Reuters
+- Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts? - Al Jazeera
+- How one bank’s collapse is upending Paraguay, trapping savings and threatening its president - AP News
+- Mother, daughter found dead after suspected grizzly attack - USA Today
+- Stock Market Today: Nasdaq Sinks 4% as Investors Ditch Chip, Data-Center Stocks — Live Updates - WSJ
+- How the midterms could fuel the K-shaped AI trade - CNBC
+- Wendy's rejects buyout bid from activist investor and adopts 'poison pill' plan - ABC News - Breaking News, Latest News and Videos
+- Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep - The New York Times
+- MacBook Pro M6 Review: A Slight Upgrade, But Still The Most Accessible MacBook Pro - Engadget
+- Nintendo’s First-Half Profit Rose on Stronger Software Sales, New ‘Mario’ Movie - WSJ
