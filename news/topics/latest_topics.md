@@ -1,51 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-06 05:08_
+_Updated: 2026-11-06 13:21_
 
 ## Top Stories
 
-- Efter segern: Nu väntar maktkamp inom Demokraterna - Dagens Nyheter
-- Flera flygplan i Europa har tvingats landa efter bombhot - SVT Nyheter
-- SD ger besked om regeringsfrågan - Göteborgs-Posten
-- Rubio förnekar planer på avgång - Göteborgs-Posten
-- V-ledamot ångrar inlägg om Hamas terrorattack - Göteborgs-Posten
-- V-toppen pudlar efter kritiken - Västerbottens-Kuriren
-- Ung kvinna anhållen efter mord i Bagarmossen - Göteborgs-Posten
-- ”Gotland är inte ett lokalt problem” - Svenska Dagbladet
-- Saba-mordet: Häktning av 14-årig flicka kan avgöras av HD - Dagens Nyheter
-- Johnny minns slagen och förnedringen på Sigtunaskolan - Dagens Arena
-- Michael Winiarski: Dags för en ny generation i Vita huset - Dagens Nyheter
-- Melania Trump vill se ”varaktig vapenvila” i Ukraina - Västerbottens-Kuriren
-- Demonstrationer i Frankrike fortsätter – sammandrabbningar i Lyon - SVT Nyheter
-- Analys: Efter valförlusten – nu kan Hegseth offras av Trump - Göteborgs-Posten
-- Börsras i New York – Nasdaq föll drygt 5 procent - Västerbottens-Kuriren
-- Analyser: Ha is i magen – inte värt att binda räntan - Omni – Alla nyheter. Alla perspektiv.
-- Stockholmsbörsen stängde ned – teknikras på Wall Street - Affärsvärlden
-- Stormaktspolitik om ABB Robotics rör om i Västerås - EFN
-- Markus firar nya World of Warcraft – spelar i ett dygn - Sveriges Radio
-- Aonuma: Så valdes designen för nya Zelda Ocarina of Time - Aftonbladet
+- 19-åring åtalas för förberedelse till terroristbrott - SVT Nyheter
+- DN Direkt – Fem åtalas efter bussmordet i Tyresö - Dagens Nyheter
+- V-topp i Malmö spred konspiratoriskt material i sociala medier - SVT Nyheter
+- Skolbuss har krockat i östra Frankrike – flera skadade - SVT Nyheter
+- Staaf Bydéns släktband stoppar poliser från ny specialenhet - Dagens Nyheter
+- Så gynnas klimatomställningen av Demokraternas framgångar - Altinget.se
+- Spänt inför Jimmie Åkessons pressträff - Göteborgs-Posten
+- Polisens uppmaning: kör försiktigt – halt under morgontrafiken - Corren
+- 6 november 07.16, Trafikolycka, Nässjö - polisen.se
+- Ung kvinna anhållen efter mord i Bagarmossen - Västerbottens-Kuriren
+- Michelinkrog bestals på vin värt miljonbelopp - Sydsvenskan
+- Iran: Nya oljetankrar i brand i Hormuz - Göteborgs-Posten
+- Källor: USA:s utrikesminister överväger att lämna - Corren
+- DN Direkt – Efterlyst i fem år – åtalas för grova narkotikabrott - Dagens Nyheter
+- Högre boräntor det nya normala: ”Framtiden är osäker” - Dagens Nyheter
+- Stockholmsbörsen ser ut att öppna nedåt efter AI-rasen - Omni – Alla nyheter. Alla perspektiv.
+- Priserna på bostadsrätter ökade medan villor minskade i oktober - DI
+- Kaffet blir dyrare igen – så mycket mer kostar paketet - Oskarshamns-Nytt
+- Markus spelar World of Warcraft live i ett dygn - Sveriges Radio
+- Parham släpper nya singeln "Club Haram" - Dopest.se
 
 ## World News
 
-- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
+- 200 varumärken kommer att samlas på Hanoi International Food Festival 2026. - Vietnam.vn
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- News | Global Trends Affect the future of Lund - Future by Lund
 - Global coal demand forecast to rise by 1.2% in 2026 to a record 8.94 billion tonnes due to Middle East conflict, IEA says - Reuters
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - 1 426 potential victims identified in global operation against human trafficking - Europol
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 
 ## Technology
 
 - Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
-- Skapar en ny tillverkningsposition för Vietnam med industriell AI. - Vietnam.vn
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - Tre år med AI: Vad har hänt med jobben? - Almega
 - AI-explosion på svenska arbetsplatser - Computer Sweden
@@ -56,14 +54,15 @@ _Updated: 2026-11-06 05:08_
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
-- Karim Jebari - Institutet för framtidsstudier
 - Vietnams festival för artificiell intelligens: Främjar utvecklingen av AI-ekosystemet - Vietnam.vn
+- Here are the Swedish AI companies everyone is talking about - DI
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - AI4VN inspirerar den yngre generationen att sträva efter vetenskap och teknologi. - Vietnam.vn
 - När ”human in the loop” ger en falsk trygghet - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- 3DEXPERIENCE Vietnam 2026 Forum: Främjande av industriell AI och smart tillverkning - Vietnam.vn
 - Utvecklare gömde fälla för AI-agenter i öppen källkod - Computer Sweden
+- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
 
@@ -87,7 +86,7 @@ _Updated: 2026-11-06 05:08_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Capio kan få ägare i Abu Dhabi - Dagens Medicin
+- Fonderna som investerar i megatrenden - Avanzabloggen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Katrin Nerhag ny affärsutvecklingschef på CGM - Mynewsdesk
 
@@ -97,8 +96,8 @@ _Updated: 2026-11-06 05:08_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Science fiction i verkligheten - Forskning & Framsteg
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - 5 myter om öppen vetenskap - Läkartidningen
 - European School of Sustainability Science and Research - Åbo Akademi
@@ -106,7 +105,6 @@ _Updated: 2026-11-06 05:08_
 ## Jordbruk
 
 - Sveriges förändrade lantbruk - SLU
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
