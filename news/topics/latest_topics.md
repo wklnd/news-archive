@@ -1,68 +1,65 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-06 13:21_
+_Updated: 2026-11-06 20:14_
 
 ## Top Stories
 
-- 19-åring åtalas för förberedelse till terroristbrott - SVT Nyheter
-- DN Direkt – Fem åtalas efter bussmordet i Tyresö - Dagens Nyheter
-- V-topp i Malmö spred konspiratoriskt material i sociala medier - SVT Nyheter
-- Skolbuss har krockat i östra Frankrike – flera skadade - SVT Nyheter
-- Staaf Bydéns släktband stoppar poliser från ny specialenhet - Dagens Nyheter
+- Tomas Ramberg: Centern försöker prata upp sitt förhandlingsläge och får hjälp av Åkesson - Dagens Nyheter
+- Larm om nya hot mot flygtrafiken - Västerbottens-Kuriren
+- Tredje person misstänks efter mordet i Bagarmossen - Mitt i
+- Tidigare totalstopp på riksväg 55 efter olycka – flera fordon inblandade - SVT Nyheter
+- Miljontals ton potatis upp i rök i Finland - DI
 - Så gynnas klimatomställningen av Demokraternas framgångar - Altinget.se
-- Spänt inför Jimmie Åkessons pressträff - Göteborgs-Posten
-- Polisens uppmaning: kör försiktigt – halt under morgontrafiken - Corren
-- 6 november 07.16, Trafikolycka, Nässjö - polisen.se
-- Ung kvinna anhållen efter mord i Bagarmossen - Västerbottens-Kuriren
-- Michelinkrog bestals på vin värt miljonbelopp - Sydsvenskan
-- Iran: Nya oljetankrar i brand i Hormuz - Göteborgs-Posten
-- Källor: USA:s utrikesminister överväger att lämna - Corren
-- DN Direkt – Efterlyst i fem år – åtalas för grova narkotikabrott - Dagens Nyheter
-- Högre boräntor det nya normala: ”Framtiden är osäker” - Dagens Nyheter
-- Stockholmsbörsen ser ut att öppna nedåt efter AI-rasen - Omni – Alla nyheter. Alla perspektiv.
-- Priserna på bostadsrätter ökade medan villor minskade i oktober - DI
-- Kaffet blir dyrare igen – så mycket mer kostar paketet - Oskarshamns-Nytt
+- COP31 Antalya 2026 – följ senaste nytt om FN:s klimattoppmöte i Turkiet - SVT Nyheter
+- 19-åring åtalas – ska ha planerat terrordåd - Göteborgs-Posten
+- Nyckelperson i bilhärvan i Örnsköldsvik kopplas till 11 bilköp - SVT Nyheter
+- 6 november 11.50, Trafikkontroll, Norrbottens län - polisen.se
+- Bankkrasch skakar Paraguay – presidenten riskerar att avsättas - Dagens Nyheter
+- Israels president utser regeringsbildare i helgen - Göteborgs-Posten
+- Iran: Nya oljetankrar i brand i Hormuz - Västerbottens-Kuriren
+- Trump: Räknar med uppgörelse med Ryssland - Corren
+- Teknikaktier studsar upp efter AI-raset - Svenska Dagbladet
+- DN Direkt – Högre boräntor det nya normala: ”Framtiden är osäker” - Dagens Nyheter
+- Handelsbanken hakar på – höjer bolåneräntan - Omni – Alla nyheter. Alla perspektiv.
+- Nomura: Kinas AI-sektor kan gynnas kraftigt av demokraternas valframgångar i USA - Börsvärlden
+- Nya ”Ocarina of Time” är en dröm som blivit sann - Omni – Alla nyheter. Alla perspektiv.
 - Markus spelar World of Warcraft live i ett dygn - Sveriges Radio
-- Parham släpper nya singeln "Club Haram" - Dopest.se
 
 ## World News
 
-- 200 varumärken kommer att samlas på Hanoi International Food Festival 2026. - Vietnam.vn
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
+- Nyhetsshowen 6 november: Är Mölndalsfallen en global succé? - Göteborgs-Posten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- News | Global Trends Affect the future of Lund - Future by Lund
 - Global coal demand forecast to rise by 1.2% in 2026 to a record 8.94 billion tonnes due to Middle East conflict, IEA says - Reuters
-- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
+- Detta ger CMC en möjlighet att bryta igenom inom AI och molnfunktioner på global skala. - Vietnam.vn
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - 1 426 potential victims identified in global operation against human trafficking - Europol
+- 200 varumärken kommer att samlas på Hanoi International Food Festival 2026. - Vietnam.vn
 
 ## Technology
 
 - Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
-- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- Tre år med AI: Vad har hänt med jobben? - Almega
-- AI-explosion på svenska arbetsplatser - Computer Sweden
-- Wall Street mot röd öppning – techfallet fortsätter - EFN
-- Bästa AI-aktierna att köpa nu - Morningstar
-- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
-- Artificiell intelligens: Möjligheter och risker - European Parliament
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
-- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
 - Vietnams festival för artificiell intelligens: Främjar utvecklingen av AI-ekosystemet - Vietnam.vn
-- Here are the Swedish AI companies everyone is talking about - DI
+- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
+- Wall Street mot röd öppning – techfallet fortsätter - EFN
+- Skapar en ny tillverkningsposition för Vietnam med industriell AI. - Vietnam.vn
+- AI-explosion på svenska arbetsplatser - Computer Sweden
+- Tre år med AI: Vad har hänt med jobben? - Almega
+- Bästa AI-aktierna att köpa nu - Morningstar
+- Experter: Artificiell intelligens (AI) - Göteborgs universitet
+- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
+- 290 million for digitalisation of Swedish industry - Vinnova
+- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
+- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- AI4VN inspirerar den yngre generationen att sträva efter vetenskap och teknologi. - Vietnam.vn
 - När ”human in the loop” ger en falsk trygghet - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Utvecklare gömde fälla för AI-agenter i öppen källkod - Computer Sweden
-- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Mistral släpper vikterna till AI-modellen “Le Chonk” - Computer Sweden
 
 ## Business
 
@@ -92,12 +89,11 @@ _Updated: 2026-11-06 13:21_
 
 ## Science
 
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- AI för vetenskaplig forskning och upptäckter - OpenAI
+- Science fiction i verkligheten - Forskning & Framsteg
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - 5 myter om öppen vetenskap - Läkartidningen
 - European School of Sustainability Science and Research - Åbo Akademi
