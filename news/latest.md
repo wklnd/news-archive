@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-06 02:32_
+_Updated: 2026-11-06 09:23_
 
-- Democratic socialist Nithya Raman wins Los Angeles mayoral race over incumbent Karen Bass - The Guardian
-- The Machine, and the Messaging, That Won Texas for Democrats - The New York Times
-- Boebert, billionaires' tax and other midterms races still to watch - BBC
-- Colom v Hyde-Smith: What’s next in the Mississippi Senate race? - Mississippi Today
-- Melania Trump calls for ‘enduring’ Russia-Ukraine peace as she hosts top officials at the White House - NBC News
-- Newsom moves to empty California's death row as 2028 looms - Axios
-- Both parties plead for cash for the fight over Mississippi and Alaska’s Senate seats - Politico
-- Republicans hoping to succeed Trump in 2028 dissect midterm rout - The Guardian
-- Six dead and others injured in fire at Brooklyn building - BBC
-- What happens after the ‘blue wave’? Our reporters answer your midterm election results questions - The Guardian
-- Paraguay President Peña resigns under mounting pressure from bank collapse - Reuters
+- 2026 midterm election live updates as Democrats flip over 40 House seats, GOP grapples with stunning losses - CBS News
+- A judge blocks construction of Trump's arch moments after it won federal approval - NPR
+- Trump signs order to prevent future presidents from changing Oval Office - BBC
+- How the Texas blue wave came crashing down on Republicans - The Washington Post
+- Mississippi Senate: Colom, Hyde-Smith gird for ballot legal fight in razor-thin race - CNBC
+- Melania Trump touts rare agreement she brokered between Russia and Ukraine - NPR
+- California governor commutes sentences of more than 500 people on death row - Al Jazeera
+- Harmeet Dhillon resigns as head of Justice Dept.’s civil rights division - The Washington Post
+- Senate Democrats will not let Trump put a 'right-winger' on the Supreme Court, Schumer vows - AP News
+- Nithya Raman defeats Bass to become next L.A. mayor - Los Angeles Times
+- France strikes: largest day of protests in years as economy fuels unrest - CNN
+- 12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery - The New York Times
+- Paraguay's president is impeached minutes after resigning following a bank collapse - NPR
 - Russell Brand found guilty of rape and sexual assault in London trial - The Washington Post
-- Mother, daughter found dead after suspected grizzly attack - USA Today
-- Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say - The New York Times
-- Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech - The New York Times
-- Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms - CNBC
+- Stock futures mixed after Nasdaq correction; Japan's Nikkei 225 enters bear market: Live updates - CNBC
+- The IRS has announced new tax brackets for 2027: See where you land - 10TV
 - OpenAI kicks off charm offensive to change voters' view of data centers - Reuters
-- Wendy's rejects buyout bid and girds itself for a hostile takeover campaign - ABC News - Breaking News, Latest News and Videos
-- Meta says US users can now video chat with their Muse AI avatar - TechCrunch
-- MacBook Pro M6 Review: A Slight Upgrade, But Still The Most Accessible MacBook Pro - Engadget
+- Starbucks fans beg for return of missing holiday drink: ‘Please fix it’ - Yahoo
+- Apple explains how to turn off the new MacBook Pro’s glowing logo - 9to5Mac
+- Apple Surveys iPhone Duo Buyers About Crease and Camera - MacRumors
