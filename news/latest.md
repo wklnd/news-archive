@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-06 17:23_
+_Updated: 2026-11-06 23:02_
 
-- 2026 Election Results Live Updates: Size of Democratic Majorities Hinges On Close Races - The New York Times
-- Mississippi Senate: Colom, Hyde-Smith gird for ballot legal fight in razor-thin race - CNBC
-- Fed Up With Politics and Struggle, Young Voters Rose Up - The New York Times
-- ‘Total bloodbath’: Democrats‘ sweeping wins rock Wall Street over AI fears - Politico
-- The midterms blew open the 2028 map. Republicans are panicking. - Politico
-- Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials - BBC
-- 2026 midterm election live updates as Democrats flip over 40 House seats, GOP grapples with stunning losses - CBS News
+- Trump says Stephen Miller to replace Susie Wiles as White House chief of staff - CNBC
+- Democrat Scott Colom argues GOP rival ‘doesn’t have’ path to victory in Mississippi Senate race - CNN
+- Trump DOJ appointee who led ‘grand conspiracy’ probe of Trump foes resigns - NBC News
+- New wave of bomb threats hit European airlines - BBC
+- Jimmy Kimmel skewers Trump with two-word zinger after latest Oval Office proclamation - The Independent
+- Vance takes GOP hits as DeSantis, Cruz emerge as early GOP winners for 2028 - The Hill
+- Meghan Markle’s father arrested in Florida over alleged child sexual abuse material - NBC News
 - Texas Led the Conservative Overhaul of Education. What Now? - The New York Times
 - Jay Rockefeller, heir to famed dynasty and healthcare advocate in US Senate, dies at 89 - Reuters
-- Judge blocks construction of Trump's massive 'triumphal arch' - Euronews.com
-- Poised for breakout moment in Latin America, Pope Leo also faces test of health - The Washington Post
-- Kenyan cult leader sentenced to 200 years in prison for mass starvation murders of children - Reuters
-- Paraguay's president is impeached minutes after resigning following a bank collapse - NPR
-- US and Iran Edge Closer to Deal With Nuclear Issue Back in Play - Bloomberg.com
-- US job growth beats expectations in October; unemployment rate falls to 4.1% - Reuters
-- Stock market today: Nasdaq futures rebound after brutal sell-off, Dow and S&P 500 wobble as US adds 165K jobs - Yahoo Finance
-- Tesla will stop making the Cybertruck in 2027 - TechCrunch
-- OpenAI is stepping back from NDAs for data center projects - The Verge
-- Apple's First Touchscreen Mac is Now Arriving to Customers - MacRumors
-- OpenAI's new cyber model found ways to attack nearly 1000 Linux flaws - Axios
+- Chris Murphy released from hospital after stroke - Politico
+- Poised for breakout moment in Latin America, Pope Leo faces test of health - The Washington Post
+- Paraguay’s Peña loses top aides as impeachment trial resumes over failed bank - AP News
+- Activists breach Microsoft data centre construction site as protests spread in Europe - Reuters
+- Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder - The New York Times
+- Tesla Is Ending Production of Its Cybertruck and Refocusing on the Cybercab - The New York Times
+- AI stocks climb after trillions wiped from market values - BBC
+- US labor market regains ground as job growth surges, unemployment rate falls to 4.1% - Reuters
+- Crowded Hedge Fund Trades Are Unwinding Fast After Ugly October - Bloomberg.com
+- Meta introduces Spaces, a new way to collaborate with your Muse agent - TechCrunch
+- OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits - The Hacker News
