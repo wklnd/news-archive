@@ -1,40 +1,40 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-06 00:11_
+_Updated: 2026-11-06 05:08_
 
 ## Top Stories
 
-- Efter valet leds 17 delstater av kvinnliga guvernörer - Dagens Nyheter
+- Efter segern: Nu väntar maktkamp inom Demokraterna - Dagens Nyheter
 - Flera flygplan i Europa har tvingats landa efter bombhot - SVT Nyheter
-- Utredning om valfusk i Järva läggs ned - Göteborgs-Posten
+- SD ger besked om regeringsfrågan - Göteborgs-Posten
+- Rubio förnekar planer på avgång - Göteborgs-Posten
 - V-ledamot ångrar inlägg om Hamas terrorattack - Göteborgs-Posten
-- Källor: USA:s utrikesminister överväger att lämna - Göteborgs-Posten
-- Fyra hoten mot Trump efter valet - Expressen
-- SD ger besked om regeringsfrågan - Corren
-- Sverigedemokraterna kallar till pressträff om regeringsfrågan – Senaste nytt om valet 2026 - SVT Nyheter
-- 5 november 17.48, Misshandel, Stockholm - polisen.se
+- V-toppen pudlar efter kritiken - Västerbottens-Kuriren
+- Ung kvinna anhållen efter mord i Bagarmossen - Göteborgs-Posten
+- ”Gotland är inte ett lokalt problem” - Svenska Dagbladet
+- Saba-mordet: Häktning av 14-årig flicka kan avgöras av HD - Dagens Nyheter
 - Johnny minns slagen och förnedringen på Sigtunaskolan - Dagens Arena
 - Michael Winiarski: Dags för en ny generation i Vita huset - Dagens Nyheter
-- Dödsstraff i Kalifornien omvandlas till livstid - Göteborgs-Posten
-- Direkt – Kriget i Ukraina – Kiev vill skynda på förhandlingar om nytt Starshieldavtal - Dagens Nyheter
-- Armenien ska ansöka om EU-medlemskap - Sydsvenskan
-- AI-blodbad på USA-börsen: ”Panik” - Aftonbladet
-- Dyrare lån slår mot böndernas investeringar - ATL
-- Så stylas en bostad innan försäljning - Svenska Dagbladet
-- Så mycket energi går åt när du använder AI - Dagens Nyheter
+- Melania Trump vill se ”varaktig vapenvila” i Ukraina - Västerbottens-Kuriren
+- Demonstrationer i Frankrike fortsätter – sammandrabbningar i Lyon - SVT Nyheter
+- Analys: Efter valförlusten – nu kan Hegseth offras av Trump - Göteborgs-Posten
+- Börsras i New York – Nasdaq föll drygt 5 procent - Västerbottens-Kuriren
+- Analyser: Ha is i magen – inte värt att binda räntan - Omni – Alla nyheter. Alla perspektiv.
+- Stockholmsbörsen stängde ned – teknikras på Wall Street - Affärsvärlden
+- Stormaktspolitik om ABB Robotics rör om i Västerås - EFN
 - Markus firar nya World of Warcraft – spelar i ett dygn - Sveriges Radio
-- Långa midnattsköer till nya Zelda: ”Värt smärtan” - Omni – Alla nyheter. Alla perspektiv.
+- Aonuma: Så valdes designen för nya Zelda Ocarina of Time - Aftonbladet
 
 ## World News
 
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Global coal demand forecast to rise by 1.2% in 2026 to a record 8.94 billion tonnes due to Middle East conflict, IEA says - Reuters
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
@@ -52,8 +52,8 @@ _Updated: 2026-11-06 00:11_
 - Wall Street mot röd öppning – techfallet fortsätter - EFN
 - Bästa AI-aktierna att köpa nu - Morningstar
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
-- 290 million for digitalisation of Swedish industry - Vinnova
 - Artificiell intelligens: Möjligheter och risker - European Parliament
+- 290 million for digitalisation of Swedish industry - Vinnova
 - Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
 - Karim Jebari - Institutet för framtidsstudier
@@ -62,8 +62,8 @@ _Updated: 2026-11-06 00:11_
 - AI4VN inspirerar den yngre generationen att sträva efter vetenskap och teknologi. - Vietnam.vn
 - När ”human in the loop” ger en falsk trygghet - Computer Sweden
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
+- 3DEXPERIENCE Vietnam 2026 Forum: Främjande av industriell AI och smart tillverkning - Vietnam.vn
 - Utvecklare gömde fälla för AI-agenter i öppen källkod - Computer Sweden
-- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
 
@@ -98,7 +98,7 @@ _Updated: 2026-11-06 00:11_
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science fiction i verkligheten - Forskning & Framsteg
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - 5 myter om öppen vetenskap - Läkartidningen
 - European School of Sustainability Science and Research - Åbo Akademi
