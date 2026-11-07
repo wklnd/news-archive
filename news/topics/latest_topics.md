@@ -1,62 +1,67 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-07 12:35_
+_Updated: 2026-11-07 18:36_
 
 ## Top Stories
 
-- Direkt – Krisen i Mellanöstern – USA: 20 miljoner dollar för information om Iran - Dagens Nyheter
-- Tågkaos över Öresund efter dansk ölnatt - Västerbottens-Kuriren
-- Kristersson (M) om regeringsbeskeden: ”Gör det lite mindre svårt” - Göteborgs-Posten
+- Skottlossning i centrala Krakow - SVT Nyheter
+- Bonusprinsen överfallen i sitt eget hem - Hufvudstadsbladet – HBL
+- DN Direkt – Tågkaos över Öresund efter dansk ölnatt - Dagens Nyheter
+- Taxichaufförer misstänks ha låst in kunder - Aftonbladet
+- Man häktad misstänkt för mord i Sollentuna - Göteborgs-Posten
+- Tullen beslagtog 3 000 fågelspindlar – gömda i smutsiga strumpor - Expressen
+- Majoritet av väljarna tror att Andersson misslyckas - Dagens Nyheter
+- Fem bilar inblandade i krock - SVT Nyheter
 - Åkesson: ”En borgerlig regering är mindre dålig” - Göteborgs-Posten
-- Havererande hiss begränsar pensionären Gunillas liv: ”Jag har gett upp” - Göteborgs-Posten
-- Johanna får nej till adhd-utredning – fungerar för bra - Dagens Nyheter
-- DN Direkt – Person överbord på färja – sökinsats avbruten - Dagens Nyheter
-- Misstänkt grovt brott i Uppsala - en gripen - UNT
-- Han firar jul i Polen – för att skydda Ukrainastödet - Göteborgs-Posten
-- Fuktig luft och kalla nätter – risk för halka i Götaland och Svealand - Dagens Nyheter
-- Det har du rätt till om flyget ställs in vid hot - Dagens Nyheter
+- 7 november 14.16, Trafikkontroll, Västernorrlands län - polisen.se
+- Protester mot datacenter runtom i Europa - Göteborgs-Posten
 - Flera skadade i attacker mot Kiev - Västerbottens-Kuriren
-- DN Direkt – Hårfint i Alaska – kräver insyn i rösträkning - Dagens Nyheter
-- Valet i USA: En ny kristen vänster visar vägen i Kansas - Dagens Nyheter
-- Teknikaktier studsade upp efter AI-raset - Göteborgs-Posten
-- Uppgifter: Nvidias vd hade romantisk relation med utpekad spion - EFN
-- Han byggde eget vapen mot energitjuvarna - Svenska Dagbladet
-- Barn blev appberoende – förlikas med Snap - DI
+- Hårfint i Alaska – kräver insyn i rösträkning - Västerbottens-Kuriren
+- USA: Nya attacker mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Teknikaktier studsade upp efter AI-raset - Sydsvenskan
+- Tröttnade på elbolagen – tog hjälp av AI - Svenska Dagbladet
+- Tre tips – så kan du utmana bankerna - Dagens Nyheter
+- Barn blev appberoende – förlikas med Snap - Dagens industri
 - Nintendo Switch Online släpper gratisinnehåll till nyversionen av Zelda: Ocarina of Time - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
-- Smarta PS5-knepet frigör utrymme inför GTA 6 – utan att radera dina spel - Metro Mode
+- Sugen på att göra uppdrag på Steam Deck? WoW Forever fungerar “fantastiskt” – så här gör du - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
 - Nyhetsshowen 6 november: Är Mölndalsfallen en global succé? - Göteborgs-Posten
 - 200 varumärken kommer att samlas på Hanoi International Food Festival 2026. - Vietnam.vn
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
 - News | Global Trends Affect the future of Lund - Future by Lund
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Researchers Win Grants to Study Organized Crime and Transnational Actors' Global Influence - Stockholms universitet
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- BREAKING NEWS. Putin kommenterar USA-valet! - Global Bar Magazine
+- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
+- Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
+- Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
 - 1 426 potential victims identified in global operation against human trafficking - Europol
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 
 ## Technology
 
 - Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
-- Wall Street mot röd öppning – techfallet fortsätter - EFN
 - Tre år med AI: Vad har hänt med jobben? - Almega
+- AI-explosion på svenska arbetsplatser - Computer Sweden
 - Bästa AI-aktierna att köpa nu - Morningstar
 - Experter: Artificiell intelligens (AI) - Göteborgs universitet
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - Artificiell intelligens: Möjligheter och risker - European Parliament
 - 290 million for digitalisation of Swedish industry - Vinnova
-- AI-explosion på svenska arbetsplatser - Computer Sweden
+- Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
+- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
+- Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
 - AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - När ”human in the loop” ger en falsk trygghet - Computer Sweden
@@ -64,7 +69,6 @@ _Updated: 2026-11-07 12:35_
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Utvecklare gömde fälla för AI-agenter i öppen källkod - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Microsoft presenterar Memora – ska ge AI-agenter bättre långtidsminne - Computer Sweden
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
@@ -95,15 +99,15 @@ _Updated: 2026-11-07 12:35_
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- AI för vetenskaplig forskning och upptäckter - OpenAI
+- Andrea del Valle - Karolinska Institutet
+- AI och data science - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Science fiction i verkligheten - Forskning & Framsteg
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- 5 myter om öppen vetenskap - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - European School of Sustainability Science and Research - Åbo Akademi
+- Universitet fäller forskarna bakom studie om mikroplast för fusk - Stockholms universitet
 
 ## Jordbruk
 
