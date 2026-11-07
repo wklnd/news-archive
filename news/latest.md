@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-07 17:07_
+_Updated: 2026-11-07 21:36_
 
-- House GOP erupts at Stephen Miller as Trump elevates him after midterm massacre: 'Megalomaniac' - Fox News
-- ‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves millions broke - The Guardian
-- American war hero details dire living conditions US troops face as Hegseth taps him to 'fix' it - Fox News
-- Ukraine's power network suffers further damage after fresh Russian strikes - BBC
-- Scott Colom’s lead increases to over 2,000 votes ahead of Cindy Hyde-Smith in Senate race - WLBT
-- DOJ moves to drop its lawsuit asking California to set aside alleged noncitizen ballots - CBS News
+- Stephen Miller, Trump's new chief of staff, is the architect of his controversial immigration policies - CBS News
+- Six people killed, at least a dozen injured in shooting at main market square of Krakow, Poland - NBC News
+- Colom leads Mississippi Senate race, Hyde-Smith says she is 'not backing down' - Fox News
+- New Zealand faces weeks of uncertainty with election ‘too close to call’ - The Guardian
+- LA’s newer, bluer wave: Nithya Raman leads way as city’s progressives make their mark - The Guardian
+- Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island - CNBC
+- 2 licensed skydivers die after midair collision in California - CBS News
 - Texas remade education in the GOP’s image. Hinojosa plans to undo it. - The Washington Post
-- Armed man arrested near White House after saying voices told him to kill Trump - Politico
-- Houston mayor curbs cooperation of US city’s police with ICE - Al Jazeera
-- He took her flying when she was 12. Now the father is mourning the copilot killed in the Florida Learjet crash - CNN
-- New Zealand election too close to call with 95% votes in - DW.com
-- Pope Leo XIV arrives in Uruguay starting 12-day Latin America tour - Al Jazeera
-- This Israeli Vows to Oust Netanyahu. Here’s How. - The New York Times
-- Inside the Operation That Helped Ukraine Turn the Tables - The New York Times
+- A father who taught his daughter to love flying is mourning after her Learjet crashed in Florida - CNN
+- Rubio could prove a potential GOP savior — but he may not escape Congress’ ire - Politico
+- Pope Leo urges South America to bridge divides on Uruguay stop of 12-day tour - Reuters
+- ‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves millions broke - The Guardian
+- Dozens killed as humanitarian crisis mounts in Yemen: What next for war? - Al Jazeera
+- Ukraine's power network suffers further damage after fresh Russian strikes - BBC
 - The Cybertruck’s Death Is Actually Great News for EVs - WIRED
-- Berkshire Hathaway’s Operating Earnings Fall, Buybacks Rise - Bloomberg.com
-- From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street - AP News
 - Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers - CNBC
-- The Legend of Zelda: Ocarina of Time Remake Now Runs at 60 FPS on PC Emulators Lichii and Eglantine, a Day After Booting at 20-30 FPS - Wccftech
+- Berkshire Hathaway speeds up stock buybacks, though profit falls - Reuters
+- From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street - AP News
+- The iPhone Duo has more than 100,000 optimized apps, Apple says - The Verge
 - Android Circuit: Galaxy S27 Pro Features, RedMagic 12 Pro’s Terminal, Googlebook’s Tablet Future - Forbes
