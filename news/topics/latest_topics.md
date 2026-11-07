@@ -1,59 +1,62 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-07 05:02_
+_Updated: 2026-11-07 12:35_
 
 ## Top Stories
 
+- Direkt – Krisen i Mellanöstern – USA: 20 miljoner dollar för information om Iran - Dagens Nyheter
+- Tågkaos över Öresund efter dansk ölnatt - Västerbottens-Kuriren
+- Kristersson (M) om regeringsbeskeden: ”Gör det lite mindre svårt” - Göteborgs-Posten
 - Åkesson: ”En borgerlig regering är mindre dålig” - Göteborgs-Posten
-- Kvinna hittad död på hotell i Norrköping – misstänkt mord - SVT Nyheter
-- Kompisgänget åtalas för mord i Tyresö – ska ha beställts från utlandet - Sveriges Radio
-- Trump byter ut sin stabschef - Corren
-- Stor polisinsats i Uppsala – en gripen för grovt brott - Omni – Alla nyheter. Alla perspektiv.
-- Direkt – Krisen i Mellanöstern – Jemen: Tiotals dödade i attack mot marknad - Dagens Nyheter
-- Misstänkt mord i Jämtland – man gripen - Göteborgs-Posten
-- Kristersson får förlängd sondering – efter nya besked från SD och C - SVT Nyheter
-- COP31 Antalya 2026 – följ senaste nytt om FN:s klimattoppmöte i Turkiet - SVT Nyheter
-- Tredje person misstänks efter mord i Bagarmossen - Västerbottens-Kuriren
+- Havererande hiss begränsar pensionären Gunillas liv: ”Jag har gett upp” - Göteborgs-Posten
+- Johanna får nej till adhd-utredning – fungerar för bra - Dagens Nyheter
+- DN Direkt – Person överbord på färja – sökinsats avbruten - Dagens Nyheter
+- Misstänkt grovt brott i Uppsala - en gripen - UNT
+- Han firar jul i Polen – för att skydda Ukrainastödet - Göteborgs-Posten
+- Fuktig luft och kalla nätter – risk för halka i Götaland och Svealand - Dagens Nyheter
 - Det har du rätt till om flyget ställs in vid hot - Dagens Nyheter
-- Paraguays president avsatt – kan åtalas - Västerbottens-Kuriren
-- Så gynnas klimatomställningen av Demokraternas framgångar - Altinget.se
-- USA: Nya attacker mot Iran - Västerbottens-Kuriren
-- Handelsbanken hakar på – höjer bolåneräntan - Omni – Alla nyheter. Alla perspektiv.
-- Teknikaktier studsade upp efter AI-raset - Västerbottens-Kuriren
-- Linus Larsson: Trumps röda matta för AI-jättarna är inte självklar längre - Dagens Nyheter
-- Ta ryssen i frysen på allvar - Computer Sweden
+- Flera skadade i attacker mot Kiev - Västerbottens-Kuriren
+- DN Direkt – Hårfint i Alaska – kräver insyn i rösträkning - Dagens Nyheter
+- Valet i USA: En ny kristen vänster visar vägen i Kansas - Dagens Nyheter
+- Teknikaktier studsade upp efter AI-raset - Göteborgs-Posten
+- Uppgifter: Nvidias vd hade romantisk relation med utpekad spion - EFN
+- Han byggde eget vapen mot energitjuvarna - Svenska Dagbladet
+- Barn blev appberoende – förlikas med Snap - DI
 - Nintendo Switch Online släpper gratisinnehåll till nyversionen av Zelda: Ocarina of Time - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
-- Markus spelar World of Warcraft live i ett dygn - Sveriges Radio
+- Smarta PS5-knepet frigör utrymme inför GTA 6 – utan att radera dina spel - Metro Mode
 
 ## World News
 
 - Nyhetsshowen 6 november: Är Mölndalsfallen en global succé? - Göteborgs-Posten
-- Global coal demand forecast to rise by 1.2% in 2026 to a record 8.94 billion tonnes due to Middle East conflict, IEA says - Reuters
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- News | Global Trends Affect the future of Lund - Future by Lund
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Detta ger CMC en möjlighet att bryta igenom inom AI och molnfunktioner på global skala. - Vietnam.vn
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- 1 426 potential victims identified in global operation against human trafficking - Europol
 - 200 varumärken kommer att samlas på Hanoi International Food Festival 2026. - Vietnam.vn
+- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
+- News | Global Trends Affect the future of Lund - Future by Lund
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 
 ## Technology
 
 - Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
-- Vietnams festival för artificiell intelligens: Främjar utvecklingen av AI-ekosystemet - Vietnam.vn
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- Wall Street mot röd öppning – techfallet fortsätter - EFN
-- Skapar en ny tillverkningsposition för Vietnam med industriell AI. - Vietnam.vn
-- Tre år med AI: Vad har hänt med jobben? - Almega
-- AI-explosion på svenska arbetsplatser - Computer Sweden
-- Bästa AI-aktierna att köpa nu - Morningstar
-- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Artificiell intelligens: Möjligheter och risker - European Parliament
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
+- Wall Street mot röd öppning – techfallet fortsätter - EFN
+- Tre år med AI: Vad har hänt med jobben? - Almega
+- Bästa AI-aktierna att köpa nu - Morningstar
+- Experter: Artificiell intelligens (AI) - Göteborgs universitet
+- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
+- Artificiell intelligens: Möjligheter och risker - European Parliament
+- 290 million for digitalisation of Swedish industry - Vinnova
+- AI-explosion på svenska arbetsplatser - Computer Sweden
 - AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - När ”human in the loop” ger en falsk trygghet - Computer Sweden
@@ -61,7 +64,8 @@ _Updated: 2026-11-07 05:02_
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Utvecklare gömde fälla för AI-agenter i öppen källkod - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Mistral släpper vikterna till AI-modellen “Le Chonk” - Computer Sweden
+- Microsoft presenterar Memora – ska ge AI-agenter bättre långtidsminne - Computer Sweden
+- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
 
@@ -94,9 +98,9 @@ _Updated: 2026-11-07 05:02_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Science fiction i verkligheten - Forskning & Framsteg
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - 5 myter om öppen vetenskap - Läkartidningen
 - European School of Sustainability Science and Research - Åbo Akademi
@@ -112,4 +116,4 @@ _Updated: 2026-11-07 05:02_
 - Här är världens största jordbruk - ATL
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Jord, kor och klimat - SLU
-- Hellre plöjningsfri odling än ekologisk - Land.se
+- Visning av uppkomst efter direktsådd - Land.se
