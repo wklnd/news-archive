@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-06 23:02_
+_Updated: 2026-11-07 03:11_
 
-- Trump says Stephen Miller to replace Susie Wiles as White House chief of staff - CNBC
-- Democrat Scott Colom argues GOP rival ‘doesn’t have’ path to victory in Mississippi Senate race - CNN
+- Stephen Miller is named new White House chief of staff as Susie Wiles departs - The Washington Post
+- US midterms: What are the recount rules in tight Mississippi race? - BBC
+- Ousted Paraguayan president placed under house arrest after bank collapse - AP News
+- 34-Year Navy Veteran Eileen Laubaucher Is on Verge of Unseating Lauren Boebert in Colorado - Military.com
 - Trump DOJ appointee who led ‘grand conspiracy’ probe of Trump foes resigns - NBC News
-- New wave of bomb threats hit European airlines - BBC
-- Jimmy Kimmel skewers Trump with two-word zinger after latest Oval Office proclamation - The Independent
-- Vance takes GOP hits as DeSantis, Cruz emerge as early GOP winners for 2028 - The Hill
-- Meghan Markle’s father arrested in Florida over alleged child sexual abuse material - NBC News
-- Texas Led the Conservative Overhaul of Education. What Now? - The New York Times
-- Jay Rockefeller, heir to famed dynasty and healthcare advocate in US Senate, dies at 89 - Reuters
-- Chris Murphy released from hospital after stroke - Politico
-- Poised for breakout moment in Latin America, Pope Leo faces test of health - The Washington Post
-- Paraguay’s Peña loses top aides as impeachment trial resumes over failed bank - AP News
-- Activists breach Microsoft data centre construction site as protests spread in Europe - Reuters
-- Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder - The New York Times
+- Ex-RFK Jr. adviser alleges Trump admin corruption prompted resignation - Axios
+- Hegseth Faces Impeachment Effort and Bipartisan Scrutiny After Midterm Elections - The New York Times
+- Gina Hinojosa begins work to take office as Texas’ first Democratic governor in decades - AP News
+- Judge blocks construction of Trump's massive 'triumphal arch' - Euronews.com
+- Thomas Markle, father of Meghan, charged with possession of child sexual abuse photos - Reuters
+- Pope Leo XIV, who had cancer surgery just weeks ago, begins grueling South American tour - NBC News
+- Will New Zealand Join Voters’ Global Revolt Over Soaring Costs? - The New York Times
+- Hegseth calls US-Iran war a 'courageous and historic effort' - Fox News
+- Trump’s ‘big, beautiful’ European security plan isn’t convincing Europe - POLITICO.eu
+- Stock Market Today: Nasdaq Rallies In Tech Turnaround; Airbnb Rockets Higher - Investor's Business Daily
 - Tesla Is Ending Production of Its Cybertruck and Refocusing on the Cybercab - The New York Times
-- AI stocks climb after trillions wiped from market values - BBC
 - US labor market regains ground as job growth surges, unemployment rate falls to 4.1% - Reuters
-- Crowded Hedge Fund Trades Are Unwinding Fast After Ugly October - Bloomberg.com
+- OpenAI investing in AI data centers despite election results, CFO says - CNBC
+- Apple Rumored to Drop the iPhone's Action Button Next Year - MacRumors
 - Meta introduces Spaces, a new way to collaborate with your Muse agent - TechCrunch
-- OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits - The Hacker News
