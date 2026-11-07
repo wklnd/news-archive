@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-07 09:46_
+_Updated: 2026-11-07 17:07_
 
-- Stephen Miller’s promotion angers industries reeling from immigration enforcement - The Washington Post
-- Why it’s still too early to call the US Senate race in Mississippi - AP News
-- Paraguay's President Santiago Peña impeached and arrested after bank collapse - BBC
-- Houston Mayor Limits Cooperation With ICE: ‘Elections Matter’ - Rolling Stone
-- Multiple top officials exit DOJ after Dems’ midterm wave - Politico
-- Feds move to dismiss case over 20,000 California ballots after Supreme Court denied appeal - Los Angeles Times
-- Prosecutors Vow to Keep Pursuing Death Penalty in California - The New York Times
-- Meghan's estranged father arrested and charged with possessing child sexual abuse materials - AP News
-- Venezuelan man who said voices told him to kill Trump is arrested near White House, DHS says - NBC News
-- 2 lifelong singles had been happily unattached their entire adult lives. Then they found each other. - CBS News
+- House GOP erupts at Stephen Miller as Trump elevates him after midterm massacre: 'Megalomaniac' - Fox News
+- ‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves millions broke - The Guardian
+- American war hero details dire living conditions US troops face as Hegseth taps him to 'fix' it - Fox News
+- Ukraine's power network suffers further damage after fresh Russian strikes - BBC
+- Scott Colom’s lead increases to over 2,000 votes ahead of Cindy Hyde-Smith in Senate race - WLBT
+- DOJ moves to drop its lawsuit asking California to set aside alleged noncitizen ballots - CBS News
+- Texas remade education in the GOP’s image. Hinojosa plans to undo it. - The Washington Post
+- Armed man arrested near White House after saying voices told him to kill Trump - Politico
+- Houston mayor curbs cooperation of US city’s police with ICE - Al Jazeera
+- He took her flying when she was 12. Now the father is mourning the copilot killed in the Florida Learjet crash - CNN
+- New Zealand election too close to call with 95% votes in - DW.com
 - Pope Leo XIV arrives in Uruguay starting 12-day Latin America tour - Al Jazeera
-- Russian forces launch missile attack on Ukrainian capital Kyiv, mayor says - Reuters
-- Israel's Arab-led parties in spotlight after inconclusive election - NPR
-- Will New Zealand Join Voters’ Global Revolt Over Soaring Costs? - The New York Times
-- US stocks stage tepid recovery after $3.2tn rout fuelled by AI fears - Financial Times
+- This Israeli Vows to Oust Netanyahu. Here’s How. - The New York Times
+- Inside the Operation That Helped Ukraine Turn the Tables - The New York Times
 - The Cybertruck’s Death Is Actually Great News for EVs - WIRED
-- Elon Musk Staked His Empire on Texas. Now State Democrats Want to Rein Him In. - WSJ
-- US labor market regains ground as job growth surges, unemployment rate falls to 4.1% - Reuters
-- Future iPhones will have one less button, new rumor claims - GSMArena.com news - GSMArena.com
-- The iPhone Duo has more than 100,000 optimized apps, Apple says - The Verge
+- Berkshire Hathaway’s Operating Earnings Fall, Buybacks Rise - Bloomberg.com
+- From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street - AP News
+- Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers - CNBC
+- The Legend of Zelda: Ocarina of Time Remake Now Runs at 60 FPS on PC Emulators Lichii and Eglantine, a Day After Booting at 20-30 FPS - Wccftech
+- Android Circuit: Galaxy S27 Pro Features, RedMagic 12 Pro’s Terminal, Googlebook’s Tablet Future - Forbes
