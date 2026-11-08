@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-07 23:01_
+_Updated: 2026-11-08 02:50_
 
 ## Top Stories
 
-- Skottlossning i centrala Kraków - SVT Nyheter
+- Skottlossning på torg i Krakow – minst fem döda - Göteborgs-Posten
 - Man häktad för mord och mordförsök i Solltentuna - TV4 Nyheterna
-- ”Trumps hjärna” Stephen Miller blir ännu mäktigare - Dagens Nyheter
 - En månad efter mordet – ”Jag saknar henne varje dag” - Sydsvenskan
-- Åkesson: ”En borgerlig regering är mindre dålig” - Göteborgs-Posten
-- Tågkaos över Öresund efter dansk ölnatt - Västerbottens-Kuriren
-- Bråkdel av de skador sprängningar av nya t-banan orsakat har ersatts - Dagens Nyheter
-- Majoritet av väljarna tror att Andersson misslyckas - Dagens Nyheter
+- Full brand i företagslokal i Visby – stort område avspärrat - Helagotland
+- ”Trumps hjärna” Stephen Miller blir ännu mäktigare - Dagens Nyheter
+- Skrämmande orden före skräckfyndet - Expressen
+- Just nu: Stopp i ett körfält på grund av en stillastående personbil på E4 - Corren
 - Misstänkt mord i Jämtland – man anhållen - Västerbottens-Kuriren
-- Så såg den mytomspunna denisovamänniskan ut - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Eisenkot får uppdraget att bilda regering - Dagens Nyheter
-- Protester mot datacenter runtom i Europa - Göteborgs-Posten
+- Mats Knutson: ”Rört om i grytan ordentligt” – Senaste nytt om valet 2026 - SVT Nyheter
+- Trump kräver utredning av Demokraterna - Göteborgs-Posten
+- Netanyahus rival ska försöka bilda regering - Dagens Nyheter
 - Flera skadade i attacker mot Kiev - Västerbottens-Kuriren
-- Netanyahus rival får uppdrag att bilda regering i Israel - TV4 Nyheterna
+- Minst 35 flyg hotades – rysk koppling utreds - Corren
+- Person gripen efter händelse hos ”bonusprinsen” - Göteborgs-Posten
 - Experter: AI-bubblan tappar luft – men spricker inte - Omni – Alla nyheter. Alla perspektiv.
-- AI har inte snott jobben – än så länge - Svenska Dagbladet
-- Tre tips – så kan du utmana bankerna - Dagens Nyheter
-- Tröttnade på elbolagen – tog hjälp av AI - Svenska Dagbladet
+- ”Fullt av råttor” på Microsofts datacenter - Svenska Dagbladet
+- Ta ryssen i frysen på allvar - Computer Sweden
+- Barn blev appberoende – förlikas med Snap - DI
 - Nintendo Switch Online släpper gratisinnehåll till nyversionen av Zelda: Ocarina of Time - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 - Sugen på att göra uppdrag på Steam Deck? WoW Forever fungerar “fantastiskt” – så här gör du - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
@@ -34,6 +34,7 @@ _Updated: 2026-11-07 23:01_
 - Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
 - Karen Ellemann utsedd till global frontfigur i kampen mot matsvinn - The Nordic Co-operation
 - News | Global Trends Affect the future of Lund - Future by Lund
+- Global Eye missar Kanadas krav – oppositionen kräver granskning - Sveriges Radio
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -42,16 +43,14 @@ _Updated: 2026-11-07 23:01_
 - Norden vill samla stark global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- BREAKING NEWS. Putin kommenterar USA-valet! - Global Bar Magazine
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
 - Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
-- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
+- BREAKING NEWS. Putin kommenterar USA-valet! - Global Bar Magazine
 
 ## Technology
 
 - Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
-- Skapar en ny tillverkningsposition för Vietnam med industriell AI. - Vietnam.vn
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - Tre år med AI: Vad har hänt med jobben? - Almega
 - AI-explosion på svenska arbetsplatser - Computer Sweden
@@ -62,14 +61,13 @@ _Updated: 2026-11-07 23:01_
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
+- Skapar en ny tillverkningsposition för Vietnam med industriell AI. - Vietnam.vn
 - Karim Jebari - Institutet för framtidsstudier
-- Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
-- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- När ”human in the loop” ger en falsk trygghet - Computer Sweden
+- 3DEXPERIENCE Vietnam 2026 Forum: Främjande av industriell AI och smart tillverkning - Vietnam.vn
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
+- Artificial intelligence will not turn into a Frankenstein's monster | Alan Winfield - The Guardian
 - Utvecklare gömde fälla för AI-agenter i öppen källkod - Computer Sweden
-- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
 
@@ -101,10 +99,10 @@ _Updated: 2026-11-07 23:01_
 
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Andrea del Valle - Karolinska Institutet
 - AI och data science - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- ICEBA 2026: Kopplar samman forskning inom teknik, fysik och biomedicinsk sensorteknik - Naturvetenskapliga fakulteten, VNU-HCM - Vietnam.vn
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - European School of Sustainability Science and Research - Åbo Akademi
 - Universitet fäller forskarna bakom studie om mikroplast för fusk - Stockholms universitet
@@ -120,4 +118,4 @@ _Updated: 2026-11-07 23:01_
 - Här är världens största jordbruk - ATL
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Jord, kor och klimat - SLU
-- Hellre plöjningsfri odling än ekologisk - Land.se
+- Visning av uppkomst efter direktsådd - Land.se
