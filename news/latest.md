@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-08 11:28_
+_Updated: 2026-11-08 18:19_
 
-- Trump says he offered White House press secretary role to UFC’s Dana White - The Washington Post
-- At least six people killed in shooting in Poland’s Krakow main square - Al Jazeera
-- Trump's "war-time consigliere" and the Miller Doctrine - Axios
-- Ex-police officer accused of stabbing NYC jogger to death appears emotionless in new photos - Fox News
-- Israel's president taps opposition candidate, not Netanyahu, to form a government - NPR
-- After midterm rout, Vance tries to build his own 2028 brand - Reuters
-- Capital One Cycling Club: Patrick Turner killed, 7 cyclists injured after vehicle strikes group of bicyclists in Wake County - ABC11 News
-- 2 skydivers die after parachutes become tangled in midair - USA Today
-- Over 100,000 lose power as potent storm brings 60+ mph winds to Western Washington - Emerald City Weather Blog
-- Trump declares Alaska Senate race ‘over’ in favor of GOP candidate following ‘Decoy Dan’ scandal - New York Post
-- Pope Leo XIV champions universal healthcare during speech in Uruguay weeks after lung cancer surgery - CBS News
-- 'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years - BBC
-- Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid - The Guardian
-- Victims in rape cases must not feel like they are on trial, Burnham says - BBC
-- How midterm elections sent Wall Street from celebration to mayhem in just 24 hours / this week - Yahoo Finance
-- Good Riddance to the Cybertruck, the Chariot of the Dumbest Gods - Rolling Stone
-- Crypto industry braces for reckoning over Trump ties - Financial Times
-- $847M Powerball winner may stay anonymous forever thanks to New Jersey exception - New York Post
+- Kraków shooting that killed 6 was motivated by far-right views, authorities say - NBC News
+- Netanyahu rival Eisenkot tapped to form Israeli government - Axios
+- Dana White says he will meet with Trump to discuss White House press secretary role - The Hill
+- Potential Vance challengers smell blood in the water after brutal GOP losses - The Washington Post
+- Hakeem Jeffries has a plan for Donald Trump and for his Democratic critics - CNN
+- Why Stephen Miller Is Trump’s Most Dangerous Move Yet: Author - The Daily Beast
+- Capital Cycling Club: Patrick Turner killed, 7 cyclists injured after vehicle strikes group of bicyclists in Wake County - ABC11 News
+- SS United States will be sunk, becoming the world’s largest artificial reef - The Washington Post
+- Sen.-elect Adam Hamilton says he’d be ‘deeply disappointed’ if Democrats spent two years investigating Trump - NBC News
+- Democratic thrashing redraws the map of state power - Politico
+- Hiding in plain sight? Russell Brand’s conviction poses tough questions for UK entertainment industry - CNN
+- Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh - The New York Times
+- Hundreds of thousands left without power in Ukraine after Russian strikes, authorities say - CBS News
+- A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades - NPR
+- AI stocks like Nvidia, Micron, and Sandisk have been blown up, but keep this in mind - Yahoo Finance
+- Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty - CNBC
+- This Firefighter Built A $60 Million Secret Door Company With Customers Like Post Malone - Forbes
+- Berkshire Hathaway speeds up stock buybacks, though profit falls - Reuters
 - iPhone Duo vs. Galaxy Z Fold 8 Camera Comparison: Frolicking With Apple's and Samsung's Foldables - CNET
-- Ocarina of Time review: Does Nintendo's Zelda remake match its original? - BBC
+- Early Apple Black Friday Deals on Apple Watch, MacBook Air, and More - MacRumors
