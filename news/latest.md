@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-08 18:19_
+_Updated: 2026-11-08 22:45_
 
-- Kraków shooting that killed 6 was motivated by far-right views, authorities say - NBC News
-- Netanyahu rival Eisenkot tapped to form Israeli government - Axios
-- Dana White says he will meet with Trump to discuss White House press secretary role - The Hill
+- Nvidia CEO Jensen Huang admits affair, board to launch investigation - Axios
+- Poland mourns victims of Krakow mass shooting as terrorism probe launched - CBS News
+- Indiana Republican calls it 'a bad mistake' for Stephen Miller to be promoted - Politico
 - Potential Vance challengers smell blood in the water after brutal GOP losses - The Washington Post
-- Hakeem Jeffries has a plan for Donald Trump and for his Democratic critics - CNN
-- Why Stephen Miller Is Trump’s Most Dangerous Move Yet: Author - The Daily Beast
+- How a Mississippi election came down to the clerk’s office - The Washington Post
+- Top House Democrat Hakeem Jeffries 'a hard yes' on impeaching Pete Hegseth - BBC
+- School aide who briefly served as NYPD officer arrested in fatal stabbing of Brooklyn jogger - NBC News
+- The SS United States and her final destination - CBS News
 - Capital Cycling Club: Patrick Turner killed, 7 cyclists injured after vehicle strikes group of bicyclists in Wake County - ABC11 News
-- SS United States will be sunk, becoming the world’s largest artificial reef - The Washington Post
-- Sen.-elect Adam Hamilton says he’d be ‘deeply disappointed’ if Democrats spent two years investigating Trump - NBC News
-- Democratic thrashing redraws the map of state power - Politico
-- Hiding in plain sight? Russell Brand’s conviction poses tough questions for UK entertainment industry - CNN
-- Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh - The New York Times
-- Hundreds of thousands left without power in Ukraine after Russian strikes, authorities say - CBS News
-- A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades - NPR
-- AI stocks like Nvidia, Micron, and Sandisk have been blown up, but keep this in mind - Yahoo Finance
-- Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty - CNBC
-- This Firefighter Built A $60 Million Secret Door Company With Customers Like Post Malone - Forbes
-- Berkshire Hathaway speeds up stock buybacks, though profit falls - Reuters
-- iPhone Duo vs. Galaxy Z Fold 8 Camera Comparison: Frolicking With Apple's and Samsung's Foldables - CNET
-- Early Apple Black Friday Deals on Apple Watch, MacBook Air, and More - MacRumors
+- Hamilton says many people in Kansas view Schumer as ‘polarizing’ - The Hill
+- Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Milei’s Argentina - AP News
+- Egypt train crash: At least seven killed and dozens injured - BBC
+- Eisenkot open to Netanyahu joining Israel’s next government - Al Jazeera
+- After close vote, New Zealand must wait weeks for new government - Reuters
+- Poppi founder still thinks water's boring—her new beverage company is betting consumers feel the same - CNBC
+- Wall Street Races for Megadeals as Countdown Begins on Trump Era - Bloomberg.com
+- Peggy Johnson took humanoid robots to Wall Street. Now she has to make them profitable. - Business Insider
+- Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes - CNBC
+- Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy - Bloomberg.com
+- Apple Taking New Approach to Developing iOS 28 and macOS 28 - MacRumors
