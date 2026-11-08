@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-08 17:29_
+_Updated: 2026-11-08 21:52_
 
 ## Top Stories
 
-- S-ledaren: ”Går i full opposition mot en Tidö 2-regering” - Dagens Nyheter
-- Detta vet vi om skytten bakom dådet i Polen - Göteborgs-Posten
-- Rökutveckling på tåg – trafikstopp i Laxå kommun - SVT Nyheter
+- Andersson: S vill bilda regering utan V - NT
+- Demirok (C) var på torget i Kraków kort före terrordådet - Corren
+- Trump: ”Högst osannolikt” att kriget återupptas - Göteborgs-Posten
 - Många skadade när tåg spårade ur nära pyramiderna - SVT Nyheter
-- Tredje branden på kort tid: ”Bara ruiner kvar” - Svenska Dagbladet
-- Frankrike: Europa med vid Ukrainasamtalen - Hufvudstadsbladet – HBL
-- Rekordmånga fall av våld i skolan – ”ohållbart” - Göteborgs-Posten
+- M-topp lämnar efter att ha förmedlat illegal ip-tv - Göteborgs-Posten
 - Håkan Boström: Centern har gett Magdalena Andersson ett omöjligt uppdrag - Göteborgs-Posten
-- 8 november 02.47, Mord/dråp, försök, Sundbyberg - polisen.se
-- 8 november 14.03, Trafikkontroll, Norrbottens län - polisen.se
-- Läcka talar om 450 000 döda ryssar - Dagens Nyheter
-- Erik Esbjörnsson: ANC kollapsar i Sydafrika – blev utskrattade i valrörelsen - Dagens Nyheter
-- Stora kärnkraftverket går på reservström - Corren
-- Oljejättens skrapa träffad i ny attack mot Saudiarabien - Hufvudstadsbladet – HBL
-- Inför Black Friday: Se upp för lockpriser - Svenska Dagbladet
-- S-topp: ”Blir förbannad på villkoren på datacenter” - Omni – Alla nyheter. Alla perspektiv.
-- Experter: AI-bubblan tappar luft – men spricker inte - Omni – Alla nyheter. Alla perspektiv.
+- Gabrielsson om V-kravet: ”Går inte att påverka” - Västerbottens-Kuriren
+- Rökutveckling på SJ-tåg – passagerare evakuerade - Göteborgs-Posten
+- De germanska språken spreds till Europa från Sverige - Dagens Nyheter
+- Singelolycka stängde E4 - Västerbottens-Kuriren
+- Påven landar i Argentina – Milei håller andan - Dagens Nyheter
+- Valentyna flydde svälten i Olesjky – nu vill hon begrava sin man - Dagens Nyheter
+- Anna-Lena Laurén: Att rysk propaganda ändrar ton är aldrig en slump - Dagens Nyheter
+- Eisenkot: Netanyahu välkommen under mitt ledarskap - Västerbottens-Kuriren
 - Väntar du med däckskifte till sista stund? Du är inte ensam - Dagens Nyheter
-- Test: Iphone Duo – ”Inte ens Apple får vikbart att gå ihop” - Ny Teknik
+- Ryskspråkigt nätverk tvättade 385 miljoner åt byggföretag - Dagens Nyheter
+- Experter: AI-bubblan tappar luft – men spricker inte - Omni – Alla nyheter. Alla perspektiv.
+- Efter hackerattacken mot matbutiker – så skyddar du ditt smarta hem - Mariestads-Tidningen
 - Spår av dinosaurieblod överlevde 115 miljoner år i ett ben från Brasilien - Martin Cid Magazine
+- 10 Nintendo-spel som behöver en remake efter "Zelda" - MovieZine
 
 ## World News
 
@@ -37,8 +37,8 @@ _Updated: 2026-11-08 17:29_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Norden vill samla stark global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
