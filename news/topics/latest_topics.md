@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-08 09:47_
+_Updated: 2026-11-08 17:29_
 
 ## Top Stories
 
-- Detta vet vi om dödsskjutningen i Krakow - SVT Nyheter
-- Brand rasar i sporthall: ”Den är förlorad” - Aftonbladet
-- 8 november 02.47, Mord/dråp, försök, Sundbyberg - polisen.se
-- Direkt – Krisen i Mellanöstern – Huthirörelsen: 33 döda i attacker - Dagens Nyheter
-- Kvinna gripen misstänkt för mordförsök i Falköping - SVT Nyheter
+- S-ledaren: ”Går i full opposition mot en Tidö 2-regering” - Dagens Nyheter
+- Detta vet vi om skytten bakom dådet i Polen - Göteborgs-Posten
+- Rökutveckling på tåg – trafikstopp i Laxå kommun - SVT Nyheter
+- Många skadade när tåg spårade ur nära pyramiderna - SVT Nyheter
+- Tredje branden på kort tid: ”Bara ruiner kvar” - Svenska Dagbladet
+- Frankrike: Europa med vid Ukrainasamtalen - Hufvudstadsbladet – HBL
 - Rekordmånga fall av våld i skolan – ”ohållbart” - Göteborgs-Posten
-- ”Här betalar man för varenda droppe" - Dagens Nyheter
-- Bil rammade mitträcke på E4 – flera stolpar nedkörda - UNT
-- 8 november 08.17, Sammanfattning natt, Östergötlands län - polisen.se
-- Centerpartiet vill se totalpaket från både S och M - Dagens Nyheter
-- Så kan USA-valet gynna Ukraina: ”Kan börja bita” - Corren
-- ”Trumps hjärna” Stephen Miller blir ännu mäktigare - Dagens Nyheter
-- Björn Wiman: Äntligen en liten stund då Trump håller käften - Dagens Nyheter
-- Paraguays expresident häktad - Västerbottens-Kuriren
-- ”Fullt av råttor” på Microsofts datacenter - Svenska Dagbladet
-- Säkerhetschefen: Det finns många sårbarheter där ute - Omni – Alla nyheter. Alla perspektiv.
-- Teknikaktier studsade upp efter AI-raset - Västerbottens-Kuriren
-- Protester mot datacenter runtom i Europa - Aftonbladet
-- En recomp-port av en Zelda Ocarina of Time-remake är redan här - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
-- Nu överger jag Oled-hypen - FZ.se
+- Håkan Boström: Centern har gett Magdalena Andersson ett omöjligt uppdrag - Göteborgs-Posten
+- 8 november 02.47, Mord/dråp, försök, Sundbyberg - polisen.se
+- 8 november 14.03, Trafikkontroll, Norrbottens län - polisen.se
+- Läcka talar om 450 000 döda ryssar - Dagens Nyheter
+- Erik Esbjörnsson: ANC kollapsar i Sydafrika – blev utskrattade i valrörelsen - Dagens Nyheter
+- Stora kärnkraftverket går på reservström - Corren
+- Oljejättens skrapa träffad i ny attack mot Saudiarabien - Hufvudstadsbladet – HBL
+- Inför Black Friday: Se upp för lockpriser - Svenska Dagbladet
+- S-topp: ”Blir förbannad på villkoren på datacenter” - Omni – Alla nyheter. Alla perspektiv.
+- Experter: AI-bubblan tappar luft – men spricker inte - Omni – Alla nyheter. Alla perspektiv.
+- Väntar du med däckskifte till sista stund? Du är inte ensam - Dagens Nyheter
+- Test: Iphone Duo – ”Inte ens Apple får vikbart att gå ihop” - Ny Teknik
+- Spår av dinosaurieblod överlevde 115 miljoner år i ett ben från Brasilien - Martin Cid Magazine
 
 ## World News
 
+- Perfekt genrep inför Global Series för Hurricanes - NHL.com
 - Nyhetsshowen 6 november: Är Mölndalsfallen en global succé? - Göteborgs-Posten
 - Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - Karen Ellemann utsedd till global frontfigur i kampen mot matsvinn - The Nordic Co-operation
 - News | Global Trends Affect the future of Lund - Future by Lund
 - Global Eye missar Kanadas krav – oppositionen kräver granskning - Sveriges Radio
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Researchers Win Grants to Study Organized Crime and Transnational Actors' Global Influence - Stockholms universitet
-- Global Unions erkännande av staten Palestina - UNI Global Union
 - Norden vill samla stark global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
 - Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
-- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
+- Strategy vill bygga en Bitcoin-bank – möter motstånd - Trijo News
 
 ## Technology
 
@@ -63,11 +63,13 @@ _Updated: 2026-11-08 09:47_
 - Vietnams festival för artificiell intelligens: Främjar utvecklingen av AI-ekosystemet - Vietnam.vn
 - Here are the Swedish AI companies everyone is talking about - DI
 - Karim Jebari - Institutet för framtidsstudier
+- Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- Skapar en ny tillverkningsposition för Vietnam med industriell AI. - Vietnam.vn
-- Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
+- När ”human in the loop” ger en falsk trygghet - Computer Sweden
 - Artificial intelligence will not turn into a Frankenstein's monster | Alan Winfield - The Guardian
+- Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Utvecklare gömde fälla för AI-agenter i öppen källkod - Computer Sweden
+- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
 
@@ -79,8 +81,8 @@ _Updated: 2026-11-08 09:47_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 
 ## Health
 
@@ -100,10 +102,10 @@ _Updated: 2026-11-08 09:47_
 - ICEBA 2026: Kopplar samman forskning inom teknik, fysik och biomedicinsk sensorteknik - Naturvetenskapliga fakulteten, VNU-HCM - Vietnam.vn
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- AI och data science - Stockholms universitet
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - European School of Sustainability Science and Research - Åbo Akademi
 - Universitet fäller forskarna bakom studie om mikroplast för fusk - Stockholms universitet
 
