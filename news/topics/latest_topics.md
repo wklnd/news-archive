@@ -1,37 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-08 02:50_
+_Updated: 2026-11-08 09:47_
 
 ## Top Stories
 
-- Skottlossning på torg i Krakow – minst fem döda - Göteborgs-Posten
-- Man häktad för mord och mordförsök i Solltentuna - TV4 Nyheterna
-- En månad efter mordet – ”Jag saknar henne varje dag” - Sydsvenskan
-- Full brand i företagslokal i Visby – stort område avspärrat - Helagotland
+- Detta vet vi om dödsskjutningen i Krakow - SVT Nyheter
+- Brand rasar i sporthall: ”Den är förlorad” - Aftonbladet
+- 8 november 02.47, Mord/dråp, försök, Sundbyberg - polisen.se
+- Direkt – Krisen i Mellanöstern – Huthirörelsen: 33 döda i attacker - Dagens Nyheter
+- Kvinna gripen misstänkt för mordförsök i Falköping - SVT Nyheter
+- Rekordmånga fall av våld i skolan – ”ohållbart” - Göteborgs-Posten
+- ”Här betalar man för varenda droppe" - Dagens Nyheter
+- Bil rammade mitträcke på E4 – flera stolpar nedkörda - UNT
+- 8 november 08.17, Sammanfattning natt, Östergötlands län - polisen.se
+- Centerpartiet vill se totalpaket från både S och M - Dagens Nyheter
+- Så kan USA-valet gynna Ukraina: ”Kan börja bita” - Corren
 - ”Trumps hjärna” Stephen Miller blir ännu mäktigare - Dagens Nyheter
-- Skrämmande orden före skräckfyndet - Expressen
-- Just nu: Stopp i ett körfält på grund av en stillastående personbil på E4 - Corren
-- Misstänkt mord i Jämtland – man anhållen - Västerbottens-Kuriren
-- Mats Knutson: ”Rört om i grytan ordentligt” – Senaste nytt om valet 2026 - SVT Nyheter
-- Trump kräver utredning av Demokraterna - Göteborgs-Posten
-- Netanyahus rival ska försöka bilda regering - Dagens Nyheter
-- Flera skadade i attacker mot Kiev - Västerbottens-Kuriren
-- Minst 35 flyg hotades – rysk koppling utreds - Corren
-- Person gripen efter händelse hos ”bonusprinsen” - Göteborgs-Posten
-- Experter: AI-bubblan tappar luft – men spricker inte - Omni – Alla nyheter. Alla perspektiv.
+- Björn Wiman: Äntligen en liten stund då Trump håller käften - Dagens Nyheter
+- Paraguays expresident häktad - Västerbottens-Kuriren
 - ”Fullt av råttor” på Microsofts datacenter - Svenska Dagbladet
-- Ta ryssen i frysen på allvar - Computer Sweden
-- Barn blev appberoende – förlikas med Snap - DI
-- Nintendo Switch Online släpper gratisinnehåll till nyversionen av Zelda: Ocarina of Time - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
-- Sugen på att göra uppdrag på Steam Deck? WoW Forever fungerar “fantastiskt” – så här gör du - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
+- Säkerhetschefen: Det finns många sårbarheter där ute - Omni – Alla nyheter. Alla perspektiv.
+- Teknikaktier studsade upp efter AI-raset - Västerbottens-Kuriren
+- Protester mot datacenter runtom i Europa - Aftonbladet
+- En recomp-port av en Zelda Ocarina of Time-remake är redan här - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
+- Nu överger jag Oled-hypen - FZ.se
 
 ## World News
 
 - Nyhetsshowen 6 november: Är Mölndalsfallen en global succé? - Göteborgs-Posten
-- 200 varumärken kommer att samlas på Hanoi International Food Festival 2026. - Vietnam.vn
+- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
-- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
 - Karen Ellemann utsedd till global frontfigur i kampen mot matsvinn - The Nordic Co-operation
 - News | Global Trends Affect the future of Lund - Future by Lund
 - Global Eye missar Kanadas krav – oppositionen kräver granskning - Sveriges Radio
@@ -40,13 +39,14 @@ _Updated: 2026-11-08 02:50_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Researchers Win Grants to Study Organized Crime and Transnational Actors' Global Influence - Stockholms universitet
+- Global Unions erkännande av staten Palestina - UNI Global Union
 - Norden vill samla stark global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
 - Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
 - Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
-- BREAKING NEWS. Putin kommenterar USA-valet! - Global Bar Magazine
+- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
 
 ## Technology
 
@@ -54,17 +54,17 @@ _Updated: 2026-11-08 02:50_
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - Tre år med AI: Vad har hänt med jobben? - Almega
 - AI-explosion på svenska arbetsplatser - Computer Sweden
-- Wall Street mot röd öppning – techfallet fortsätter - EFN
 - Bästa AI-aktierna att köpa nu - Morningstar
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - Artificiell intelligens: Möjligheter och risker - European Parliament
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
-- Skapar en ny tillverkningsposition för Vietnam med industriell AI. - Vietnam.vn
+- Vietnams festival för artificiell intelligens: Främjar utvecklingen av AI-ekosystemet - Vietnam.vn
+- Here are the Swedish AI companies everyone is talking about - DI
 - Karim Jebari - Institutet för framtidsstudier
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- 3DEXPERIENCE Vietnam 2026 Forum: Främjande av industriell AI och smart tillverkning - Vietnam.vn
+- Skapar en ny tillverkningsposition för Vietnam med industriell AI. - Vietnam.vn
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Artificial intelligence will not turn into a Frankenstein's monster | Alan Winfield - The Guardian
 - Utvecklare gömde fälla för AI-agenter i öppen källkod - Computer Sweden
@@ -72,7 +72,6 @@ _Updated: 2026-11-08 02:50_
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
@@ -80,6 +79,7 @@ _Updated: 2026-11-08 02:50_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
@@ -97,12 +97,12 @@ _Updated: 2026-11-08 02:50_
 
 ## Science
 
+- ICEBA 2026: Kopplar samman forskning inom teknik, fysik och biomedicinsk sensorteknik - Naturvetenskapliga fakulteten, VNU-HCM - Vietnam.vn
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - AI och data science - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- ICEBA 2026: Kopplar samman forskning inom teknik, fysik och biomedicinsk sensorteknik - Naturvetenskapliga fakulteten, VNU-HCM - Vietnam.vn
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - European School of Sustainability Science and Research - Åbo Akademi
 - Universitet fäller forskarna bakom studie om mikroplast för fusk - Stockholms universitet
