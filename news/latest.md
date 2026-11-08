@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-08 00:59_
+_Updated: 2026-11-08 04:42_
 
-- Meet Stephen Miller, Trump’s new chief of staff: 5 things to know - The Hill
-- Poland in shock as six dead after mass shooting in Krakow - Reuters
-- 'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary - BBC
-- Israel’s president picks Yashar leader Gadi Eisenkot to form government - The Guardian
-- LA’s newer, bluer wave: Nithya Raman leads way as city’s progressives make their mark - The Guardian
-- New Zealand in political limbo after knife-edge election - CNN
-- 2 licensed skydivers die after midair collision in California - CBS News
-- A father who taught his daughter to love flying is mourning after her Learjet crashed in Florida - CNN
+- Susie Wiles’s exit adds to list of women leaving top roles in Trump administration - The Washington Post
+- Trump Asks Dana White of U.F.C. to Be His Press Secretary - The New York Times
+- Polish gunman who killed 6 people in Krakow has ‘ultranationalistic’ views, authorities say - AP News
+- After midterm rout, Vance tries to build his own 2028 brand - Reuters
+- Brooklyn Jogger Dies and a Man Is Charged With Murder in Her Stabbing - The New York Times
+- Israel’s president picks Eisenkot over Netanyahu to form next government - Al Jazeera
+- Capital One Cycling Club: 1 killed, 7 injured after vehicle strikes group of bicyclists in Wake County - ABC11 News
+- 2 women killed in California skydiving collision identified as new details emerge - KTLA
+- DeSantis' post-midterm media blitz renews 2028 chatter - Politico
 - Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on - PBS
-- Former Trump-appointed prosecutor may probe government attorney ethics in golf course case - Politico
-- Paraguay's President Santiago Peña impeached and under house arrest - BBC
-- With an ode to mate, pope urges faithful in Uruguay to build bridges of fraternity and faith - AP News
+- New Zealand’s two major parties are flatlining as dispirited voters seek transformational change - The Guardian
+- With an ode to mate tea, pope urges faithful in Uruguay to build bridges of fraternity and faith - AP News
+- Judge orders Paraguay's ex-president Peña held before trial - Reuters
 - Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US - AP News
-- More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War - The New York Times
-- Tesla to add Cybertruck shift to clear orders before dismantling line next year - Reuters
+- How midterm elections sent Wall Street from celebration to mayhem in just 24 hours / this week - Yahoo Finance
 - Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers - CNBC
-- Berkshire Hathaway buys back $9.6 billion of its own stock but its profits declined - AP News
-- Democrats Just Swept Congress — and 80 Years of Stock Market History Says This Happens Next - 24/7 Wall St.
+- Good Riddance to the Cybertruck, the Chariot of the Dumbest Gods - Rolling Stone
+- Berkshire Hathaway speeds up stock buybacks, though profit falls - Reuters
 - Early Apple Black Friday Deals on Apple Watch, MacBook Air, and More - MacRumors
-- The iPhone Duo has more than 100,000 optimized apps, Apple says - The Verge
+- iPhone Duo vs. Galaxy Z Fold 8 Camera Comparison: Frolicking With Apple's and Samsung's Foldables - CNET
