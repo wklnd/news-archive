@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-08 04:42_
+_Updated: 2026-11-08 11:28_
 
-- Susie Wiles’s exit adds to list of women leaving top roles in Trump administration - The Washington Post
-- Trump Asks Dana White of U.F.C. to Be His Press Secretary - The New York Times
-- Polish gunman who killed 6 people in Krakow has ‘ultranationalistic’ views, authorities say - AP News
+- Trump says he offered White House press secretary role to UFC’s Dana White - The Washington Post
+- At least six people killed in shooting in Poland’s Krakow main square - Al Jazeera
+- Trump's "war-time consigliere" and the Miller Doctrine - Axios
+- Ex-police officer accused of stabbing NYC jogger to death appears emotionless in new photos - Fox News
+- Israel's president taps opposition candidate, not Netanyahu, to form a government - NPR
 - After midterm rout, Vance tries to build his own 2028 brand - Reuters
-- Brooklyn Jogger Dies and a Man Is Charged With Murder in Her Stabbing - The New York Times
-- Israel’s president picks Eisenkot over Netanyahu to form next government - Al Jazeera
-- Capital One Cycling Club: 1 killed, 7 injured after vehicle strikes group of bicyclists in Wake County - ABC11 News
-- 2 women killed in California skydiving collision identified as new details emerge - KTLA
-- DeSantis' post-midterm media blitz renews 2028 chatter - Politico
-- Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on - PBS
-- New Zealand’s two major parties are flatlining as dispirited voters seek transformational change - The Guardian
-- With an ode to mate tea, pope urges faithful in Uruguay to build bridges of fraternity and faith - AP News
-- Judge orders Paraguay's ex-president Peña held before trial - Reuters
-- Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US - AP News
+- Capital One Cycling Club: Patrick Turner killed, 7 cyclists injured after vehicle strikes group of bicyclists in Wake County - ABC11 News
+- 2 skydivers die after parachutes become tangled in midair - USA Today
+- Over 100,000 lose power as potent storm brings 60+ mph winds to Western Washington - Emerald City Weather Blog
+- Trump declares Alaska Senate race ‘over’ in favor of GOP candidate following ‘Decoy Dan’ scandal - New York Post
+- Pope Leo XIV champions universal healthcare during speech in Uruguay weeks after lung cancer surgery - CBS News
+- 'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years - BBC
+- Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid - The Guardian
+- Victims in rape cases must not feel like they are on trial, Burnham says - BBC
 - How midterm elections sent Wall Street from celebration to mayhem in just 24 hours / this week - Yahoo Finance
-- Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers - CNBC
 - Good Riddance to the Cybertruck, the Chariot of the Dumbest Gods - Rolling Stone
-- Berkshire Hathaway speeds up stock buybacks, though profit falls - Reuters
-- Early Apple Black Friday Deals on Apple Watch, MacBook Air, and More - MacRumors
+- Crypto industry braces for reckoning over Trump ties - Financial Times
+- $847M Powerball winner may stay anonymous forever thanks to New Jersey exception - New York Post
 - iPhone Duo vs. Galaxy Z Fold 8 Camera Comparison: Frolicking With Apple's and Samsung's Foldables - CNET
+- Ocarina of Time review: Does Nintendo's Zelda remake match its original? - BBC
