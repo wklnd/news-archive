@@ -1,52 +1,44 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-09 09:01_
+_Updated: 2026-11-09 19:44_
 
 ## Top Stories
 
-- Skjutningen i Kraków – detta vet vi - SVT Nyheter
-- Det är Centerpartiet som är problemet för Magdalena Andersson - Arbetet
-- Håkan Boström: Centern har gett Magdalena Andersson ett omöjligt uppdrag - Göteborgs-Posten
-- Kraftig brand i lägenhet i Göteborg – en skadad - Omni – Alla nyheter. Alla perspektiv.
-- Ivo om Augusts vårdbehov: ”En eventuell olägenhet” - Dagens Nyheter
-- Misstänkt grov mordbrand i lägenhet i Malmö – man anhållen - SVT Nyheter
-- Alex Schulman: Jag måste vara mat-Sveriges mesta hatade man - Dagens Nyheter
-- Pressen ökar på Andersson (S) – då kan hon tvingas avgå - SVT Nyheter
-- Få koll på COP31 – det här behöver du veta - Göteborgs-Posten
-- Singelolycka stängde E4 - Västerbottens-Kuriren
-- Terrordådet skakar om i splittrat Polen - Göteborgs-Posten
-- GUNNAR HÖKMARK: De skador Trump orsakat kommer att bestå länge - NT
-- Trump: Sannolikt möte med Putin och Xi - Hufvudstadsbladet – HBL
-- Direkt – Krisen i Mellanöstern – Trump: Osannolikt med nya attacker mot Iran - Dagens Nyheter
-- Därför kommer Nvidias Jensen Huang tvingas avgå - DI
-- Elpriserna skenar – blir värre i veckan - Dagens Nyheter
-- Här är det lättast för unga att köpa hus - Expressen
-- Munter måndag bland börserna i Asien - Västerbottens-Kuriren
-- Snart är SJ:s liggvagnar renoverade - Järnvägar.nu
-- En recomp-port av en Zelda Ocarina of Time-remake är redan här - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
+- Centerns ungdomsförbund: Mitten är död - Västerbottens-Kuriren
+- DN Direkt – S-toppen om regeringsfrågan: ”Det ser tufft ut nu” - Dagens Nyheter
+- Frölundabacken var på torget i Krakow – minuter innan dådet - Göteborgs-Posten
+- Inte hängt med i regeringsbildningen? Detta har hänt - Dagens Nyheter
+- DN Direkt – Källor: Iran bakom kylattacker i Frankrike - Dagens Nyheter
+- Döende patient blev våldtagen – nu döms en sjuksköterska till fängelse - Aftonbladet
+- En anhållen efter misstänkt mordförsök i Falköping - SVT Nyheter
+- Max 25 elever per lågstadieklass i Stockholms stad - Dagens Nyheter
+- Sverige mot Finland i snuskrig i EU - Dagens Nyheter
+- Klimatmötet öppnar med Parismålet utom räckhåll - Europaportalen
+- Direkt – Kriget i Ukraina – Ukrainsk delegation på väg till fredsmöte - Dagens Nyheter
+- Joe Biden: Stormningen av Kapitolium borde följa Trump i graven - Dagens Nyheter
+- Trump ifrågasätter resultatet i mellanårsvalet - SVT Nyheter
+- Komysjuvacha: Räddare skadade 8 november 2026 - HurBra.se
+- Simon Campanello: Spionage och otrohet har satt världens viktigaste företag i gungning - Dagens Nyheter
+- Svenskt Näringsliv, LO och PTK överens om pension och försäkring - Svenskt Näringsliv
+- Skyll inte elpriserna bara på tyskarna – titta österut också - Omni – Alla nyheter. Alla perspektiv.
+- Kan skilja 11 000 kronor: ”Räkna med att det syns” - Svenska Dagbladet
+- Uppgifter: Apples Siri ska fungera som en AI-agent - Computer Sweden
+- Nu är mystiska frekvensdippen i världens elnät avslöjad - Ny Teknik
 
 ## World News
 
 - Perfekt genrep inför Global Series för Hurricanes - NHL.com
-- Nyhetsshowen 6 november: Är Mölndalsfallen en global succé? - Göteborgs-Posten
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
-- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
-- News | Global Trends Affect the future of Lund - Future by Lund
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Finnairs kunduppgifter kommit ut i global dataläcka - Yle
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- News | Global Trends Affect the future of Lund - Future by Lund
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
-- Ikea tappar miljarder i försäljning - DI
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- BREAKING NEWS. Putin kommenterar USA-valet! - Global Bar Magazine
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - 1 426 potential victims identified in global operation against human trafficking - Europol
-- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
-- Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
-- Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
+- Global Series – en chans för Kraken att bonda - NHL.com
+- Brasilien lanserar global kampanj för damernas VM 2027 - VM-fotboll.se
 
 ## Technology
 
@@ -61,7 +53,6 @@ _Updated: 2026-11-09 09:01_
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
-- Vietnams festival för artificiell intelligens: Främjar utvecklingen av AI-ekosystemet - Vietnam.vn
 - Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
 - AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
@@ -69,6 +60,7 @@ _Updated: 2026-11-09 09:01_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Utvecklare gömde fälla för AI-agenter i öppen källkod - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
