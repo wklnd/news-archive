@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-09 01:54_
+_Updated: 2026-11-09 09:01_
 
 ## Top Stories
 
-- Just nu: Andersson vill bilda regering utan V - Västerbottens-Kuriren
-- Demirok (C) var på torget i Kraków kort före terrordådet - Corren
-- Gabrielsson (V): ”Kan inte ändra det här kravet” – Senaste nytt om valet 2026 - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Trump: Osannolikt med nya attacker mot Iran - Dagens Nyheter
+- Skjutningen i Kraków – detta vet vi - SVT Nyheter
+- Det är Centerpartiet som är problemet för Magdalena Andersson - Arbetet
 - Håkan Boström: Centern har gett Magdalena Andersson ett omöjligt uppdrag - Göteborgs-Posten
-- Meteorolog: Mellansverige kan få snö i slutet av veckan - Omni – Alla nyheter. Alla perspektiv.
-- Tågvagn evakuerad efter rökutveckling - Västerbottens-Kuriren
-- Bil rammade mitträcke på E4 – flera stolpar nedkörda - UNT
+- Kraftig brand i lägenhet i Göteborg – en skadad - Omni – Alla nyheter. Alla perspektiv.
+- Ivo om Augusts vårdbehov: ”En eventuell olägenhet” - Dagens Nyheter
+- Misstänkt grov mordbrand i lägenhet i Malmö – man anhållen - SVT Nyheter
+- Alex Schulman: Jag måste vara mat-Sveriges mesta hatade man - Dagens Nyheter
+- Pressen ökar på Andersson (S) – då kan hon tvingas avgå - SVT Nyheter
 - Få koll på COP31 – det här behöver du veta - Göteborgs-Posten
-- 8 november 14.03, Trafikkontroll, Norrbottens län - polisen.se
-- Toppdemokrat: Hegseth måste ställas inför riksrätt - Dagens Nyheter
-- I denna europeiska huvudstad hålls människor åtskilda av taggtrådsmurar - Dagens Nyheter
-- Eisenkot: Netanyahu välkommen under mitt ledarskap - Västerbottens-Kuriren
-- Påven landar i Argentina – Milei håller andan - Dagens Nyheter
-- Nvidias vd Jensen Huang antas ha haft kärleksaffär med kinesisk spion - Expressen
-- Ryskspråkigt nätverk tvättade 385 miljoner åt byggföretag - Dagens Nyheter
-- Var fjärde bilist chansar med vinterdäcken: ”Oroväckande siffra” - Oskarshamns-Nytt
-- Experter: AI-bubblan tappar luft – men spricker inte - Omni – Alla nyheter. Alla perspektiv.
-- 10 Nintendo-spel som behöver en remake efter "Zelda" - MovieZine
-- Svenska Minecraftskaparen säljer sitt enorma lyxhem i Beverly Hills - Göteborgs-Posten
+- Singelolycka stängde E4 - Västerbottens-Kuriren
+- Terrordådet skakar om i splittrat Polen - Göteborgs-Posten
+- GUNNAR HÖKMARK: De skador Trump orsakat kommer att bestå länge - NT
+- Trump: Sannolikt möte med Putin och Xi - Hufvudstadsbladet – HBL
+- Direkt – Krisen i Mellanöstern – Trump: Osannolikt med nya attacker mot Iran - Dagens Nyheter
+- Därför kommer Nvidias Jensen Huang tvingas avgå - DI
+- Elpriserna skenar – blir värre i veckan - Dagens Nyheter
+- Här är det lättast för unga att köpa hus - Expressen
+- Munter måndag bland börserna i Asien - Västerbottens-Kuriren
+- Snart är SJ:s liggvagnar renoverade - Järnvägar.nu
+- En recomp-port av en Zelda Ocarina of Time-remake är redan här - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
@@ -32,26 +32,27 @@ _Updated: 2026-11-09 01:54_
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
 - News | Global Trends Affect the future of Lund - Future by Lund
-- Norden vill samla stark global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
 - Ikea tappar miljarder i försäljning - DI
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
-- Exportföretaget undviker tullar i global handel: "Finns en parentes" - Siljan News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Strategy vill bygga en Bitcoin-bank – möter motstånd - Trijo News
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
-- Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- BREAKING NEWS. Putin kommenterar USA-valet! - Global Bar Magazine
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
+- Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
+- Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
 
 ## Technology
 
 - Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
+- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Tre år med AI: Vad har hänt med jobben? - Almega
 - AI-explosion på svenska arbetsplatser - Computer Sweden
 - Bästa AI-aktierna att köpa nu - Morningstar
@@ -60,13 +61,12 @@ _Updated: 2026-11-09 01:54_
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
-- Here are the Swedish AI companies everyone is talking about - DI
-- Karim Jebari - Institutet för framtidsstudier
+- Vietnams festival för artificiell intelligens: Främjar utvecklingen av AI-ekosystemet - Vietnam.vn
 - Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
 - AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
-- Artificial intelligence will not turn into a Frankenstein's monster | Alan Winfield - The Guardian
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 - När ”human in the loop” ger en falsk trygghet - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Utvecklare gömde fälla för AI-agenter i öppen källkod - Computer Sweden
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
@@ -81,8 +81,8 @@ _Updated: 2026-11-09 01:54_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -107,6 +107,7 @@ _Updated: 2026-11-09 01:54_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - European School of Sustainability Science and Research - Åbo Akademi
+- Universitet fäller forskarna bakom studie om mikroplast för fusk - Stockholms universitet
 
 ## Jordbruk
 
@@ -119,3 +120,4 @@ _Updated: 2026-11-09 01:54_
 - Här är världens största jordbruk - ATL
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Jord, kor och klimat - SLU
+- Visning av uppkomst efter direktsådd - Land.se
