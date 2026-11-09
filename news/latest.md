@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-09 03:12_
+_Updated: 2026-11-09 10:39_
 
-- Trump says 'only kidding' about naming UFC CEO as White House press secretary - Reuters
-- House Minority Leader Hakeem Jeffries says he’s a ‘hard yes’ on impeaching Defense Secretary Pete Hegseth - NBC News
-- How a Mississippi election came down to the clerk’s office - The Washington Post
-- Eisenkot open to Netanyahu joining Israel’s next government - Al Jazeera
-- Potential Vance challengers smell blood in the water after brutal GOP losses - The Washington Post
-- Sen.-elect Adam Hamilton says he’d be disappointed if Democrats focus on investigating Trump - NBC News
-- Gina Hinojosa Takes on the Texas Government Republicans Built - The New York Times
-- Former RFK Jr. adviser accuses Susie Wiles, other Trump officials of corruption, blocking MAHA policies - CBS News
-- Boycott Bike Ride: Boycott of Jewish-owned Philly businesses draws counterprotest - 6abc Philadelphia
+- Trump tells 60 Minutes that deportation policy was ‘too tough’ - The Guardian
+- Top House Democrat 'a hard yes' on impeaching Hegseth - BBC
+- Trump says he was ‘only kidding’ about offering UFC’s Dana White press secretary job - The Washington Post
+- Two Washington deputies killed trying to rescue possible hostages after woman shot - Fox News
+- Trump’s war against Iran not 'necessarily popular' but needed to stop a nuclear threat, Rubio says - AP News
+- Diners Support Jewish-Owned Eateries in Philadelphia After Boycott Call - The New York Times
+- Oregon man charged with taking Utah teen had been accused of sexually abusing 6-year-old - NBC News
 - Deputy White House Chief of Staff Richard Walters exits job ahead of Stephen Miller takeover - Fox News
-- A Missionary Pope Faces a Chain Saw-Wielding Populist in Argentina - WSJ
-- Collision between 2 trains in Egypt kills 7 and injures at least 125 - AP News
-- Parents, sister of far-right Kraków shooter found dead in family home - NBC News
-- No clear winner in New Zealand election, as leaders prepare for weeks of talks - NPR
-- Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy - The New York Times
-- Dow Jones Futures Loom For Damaged Market; Nvidia Probes Huang Spying Case - Investor's Business Daily
-- Binance names new CFO days after $6.3 billion cryptocurrency hack - Fox Business
-- TechCrunch Mobility: The Cybertruck experiment is over - TechCrunch
-- Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy - Bloomberg
-- Apple Taking New Approach to Developing iOS 28 and macOS 28 - MacRumors
+- Former RFK Jr. adviser accuses Susie Wiles, other Trump officials of corruption, blocking MAHA policies - CBS News
+- El Niño-fueled storm unleashes rain, dangerous flood threat across South Texas through early part of the week - FOX Weather
+- Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit - The Guardian
+- Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say - The Washington Post
+- Gunman who carried out Poland mass shooting has died, police say - CBS News
+- Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections - NPR
+- Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50” - TechCrunch
+- Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap - Bloomberg.com
+- SA Asks: Is SpaceX a buy, sell or hold right now? (SPCX:NASDAQ) - Seeking Alpha
+- China Producer Inflation Accelerates to Over Four-Year High - WSJ
+- Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy - Bloomberg.com
+- AMD Acknowledges Radeon Driver Bug Causing Constant SSD Writes, Fix In The Works - Wccftech
