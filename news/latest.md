@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-09 10:39_
+_Updated: 2026-11-09 21:06_
 
-- Trump tells 60 Minutes that deportation policy was ‘too tough’ - The Guardian
-- Top House Democrat 'a hard yes' on impeaching Hegseth - BBC
-- Trump says he was ‘only kidding’ about offering UFC’s Dana White press secretary job - The Washington Post
-- Two Washington deputies killed trying to rescue possible hostages after woman shot - Fox News
-- Trump’s war against Iran not 'necessarily popular' but needed to stop a nuclear threat, Rubio says - AP News
-- Diners Support Jewish-Owned Eateries in Philadelphia After Boycott Call - The New York Times
-- Oregon man charged with taking Utah teen had been accused of sexually abusing 6-year-old - NBC News
-- Deputy White House Chief of Staff Richard Walters exits job ahead of Stephen Miller takeover - Fox News
-- Former RFK Jr. adviser accuses Susie Wiles, other Trump officials of corruption, blocking MAHA policies - CBS News
-- El Niño-fueled storm unleashes rain, dangerous flood threat across South Texas through early part of the week - FOX Weather
-- Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit - The Guardian
-- Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say - The Washington Post
-- Gunman who carried out Poland mass shooting has died, police say - CBS News
-- Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections - NPR
-- Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50” - TechCrunch
-- Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap - Bloomberg.com
-- SA Asks: Is SpaceX a buy, sell or hold right now? (SPCX:NASDAQ) - Seeking Alpha
-- China Producer Inflation Accelerates to Over Four-Year High - WSJ
-- Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy - Bloomberg.com
-- AMD Acknowledges Radeon Driver Bug Causing Constant SSD Writes, Fix In The Works - Wccftech
+- Congress returns for lame-duck sprint after bruising midterm losses for GOP - CBS News
+- Trump says his deportation policy ‘might have been too tough’ for voters in the election - AP News
+- Senate Republican calls for delayed leadership election - The Hill
+- Supreme Court weighs effort to shield federal law enforcement as ICE complaints rise - NPR
+- Jeffries says Democrats will not work with Trump's new chief of staff - USA Today
+- Democrats won big. Can they lower your grocery bill? - NPR
+- Hegseth announces rare press conference to discuss expected impeachment resolution in Congress - AP News
+- Boycott and Counterprotest Over Jewish Eateries Stir Tension in Philadelphia - The New York Times
+- Murkowski plans to lead Senate Republicans on spending panel - Politico
+- Court Orders NYC to Give Names of Shelter Residents to ICE - WSJ
+- UK's Russell Brand sentenced to 10-and-a-half years in jail for rape, sexual assault - Reuters
+- Gunman with far-right views who killed 6 in Poland shooting rampage dies in hospital, police say - NBC News
+- France accuses Iran of supermarket fridge hacking - BBC
+- Pope Leo delivers veiled rebuke of austerity measures in predecessor’s homeland - The Washington Post
+- Nvidia live updates: Nvidia stock falls 5% as board investigates CEO's affair with alleged Chinese spy - Yahoo Finance
+- Stock Market Today: Dow jumps 1,000 points, S&P 500 and Nasdaq surge after last week’s selloff; Nvidia stock drops as CEO probe launched: live updates - MarketWatch
+- Boeing to cut 5% of commercial airplane workforce as production increase is slower than expected - CNBC
+- Honda to invest $3 billion in new vehicle assembly plant in Ohio - CNBC
+- Apple Launching Two More New Products This Friday - MacRumors
+- Epic Games Launcher is coming to SteamOS - The Verge
