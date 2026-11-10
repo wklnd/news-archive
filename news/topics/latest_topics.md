@@ -1,43 +1,42 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-10 12:14_
+_Updated: 2026-11-10 20:05_
 
 ## Top Stories
 
-- Polispådrag vid kommunhuset i Kungälv - SVT Nyheter
-- Insändare. Vänsterpartiet bör nöja sig med att få igenom sakpolitik - Dagens Nyheter
-- Kristersson till Zelenskyjmöte i Danmark i dag - Göteborgs-Posten
-- Skjutna poliserna i Kraków har vaknat ur koman - Göteborgs-Posten
-- Färre fall av ångest bland unga – men mer adhd - Göteborgs-Posten
-- TOVE HOVEMYR: Tar Thand Ringqvist betet kan hon sänka Centerpartiet - UNT
-- 57 dagar utan ny regering – detta har hänt - Corren
-- Frankrike: Iran bakom attacken mot matbutiker - Västerbottens-Kuriren
-- Klimatmötet öppnar med Parismålet utom räckhåll - Europaportalen
-- Singelolycka på E4 – ett körfält blockerat - Norran
-- Förnybar energi och Irankriget får utsläppen att minska - Dagens Nyheter
-- Nya stjärnnamnen gjorde sin första dag i kongressen - Dagens Nyheter
-- Samtalen i gång – Zelenskyj vill inte ge upp mark - Västerbottens-Kuriren
-- Explosioner har hörts i Riyad – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Nvidia och Jensen Huang stäms av aktieägare - Affärsvärlden
-- Elpriset rusar – hoppet finns i Stilla havet - Svenska Dagbladet
-- Svenskt Näringsliv, LO och PTK överens om pension och försäkring - Svenskt Näringsliv
-- Förvaltare: Förtroendekris för Swedencare – VD duckar - Affärsvärlden
-- Så bra är nya The Legend of Zelda - Göteborgs-Posten
-- 22 år senare gör “World of Warcraft” historisk comeback - MovieZine
+- Källor: Rödgrön regering utan C togs upp i fyrpartisamtalen - Dagens Nyheter
+- Gul varning för snöfall: ”Mycket försiktig” - SVT Nyheter
+- Kristersson får sondera en vecka till - Altinget.se
+- Tomas Ramberg: Därför vill Åkesson så gärna ha Centern i regeringen - Dagens Nyheter
+- Gent, 19, sköts till döds – nu faller domen - Aftonbladet
+- Polisens gryningsräd: Slog till på flera adresser - Göteborgs-Posten
+- DN Direkt – Svensk möbeljätte hackad – fabriker stoppades - Dagens Nyheter
+- Felaktiga uppgifter i Mohamed Alis cv - Göteborgs-Posten
+- Sigtunaskolan lägger ner sitt veckointernat - SVT Nyheter
+- 9 november 18.00, Bedrägeri, Norrbottens län - polisen.se
+- Michael Winiarski: Putin kan vara nöjd med Trumps plan för säkerhet i Europa - Dagens Nyheter
+- Nej till ”miljardärsskatt” i Kalifornien - Göteborgs-Posten
+- Hegseth om riksrättshotet: Politiskt spektakel - Västerbottens-Kuriren
+- Frankrike hotar med vedergällning mot Iran efter cyberattacker – ”utesluter ingenting” - Dagens Nyheter
+- Karlshamnsverket igång efter skenande elpriserna - SVT Nyheter
+- Kristofer Ahlström: Tänk – världens smartaste AI-kung är ett däggdjur med drifter - Dagens Nyheter
+- Peter Hedlund: Det gör Anthropics aktie oinvesterbar - EFN
+- Ny överenskommelse ska ge högre pension för de som arbetar länge - Arbetsvärlden
+- GTA VI går nu att förladda - Tove Lo hörs i ny video - Dopest.se
+- Ocarina of Time – ett tidlöst mästerverk - Aftonbladet
 
 ## World News
 
 - Perfekt genrep inför Global Series för Hurricanes - NHL.com
 - Global Series – en chans för Kraken att bonda - NHL.com
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Rejält vinstlyft för Enad Global - DI
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Finnairs kunduppgifter kom ut i global dataläcka - Yle
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Nästan hemmaplan för Ehlers under Global Series - NHL.com
 - 1 426 potential victims identified in global operation against human trafficking - Europol
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Brasilien lanserar global kampanj för damernas VM 2027 - VM-fotboll.se
 
 ## Technology
@@ -80,23 +79,23 @@ _Updated: 2026-11-10 12:14_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Hälso- och sjukvård - Moderaterna
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Brist på finansiering blev slutet för Leading Health Care - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Vi presenterar HealthBench - OpenAI
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Capio kan få ägare i Abu Dhabi - Dagens Medicin
 - Fonderna som investerar i megatrenden - Avanzabloggen
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 
 ## Science
 
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- AI för vetenskaplig forskning och upptäckter - OpenAI
+- AI och data science - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - European School of Sustainability Science and Research - Åbo Akademi
 - Universitet fäller forskarna bakom studie om mikroplast för fusk - Stockholms universitet
 
