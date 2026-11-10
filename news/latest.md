@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-10 04:23_
+_Updated: 2026-11-10 12:24_
 
-- Republican Thomas Massie will force impeachment vote on Defence Secretary Pete Hegseth - BBC
+- Hegseth impeachment effort begins in House, focused on Iran war - The Washington Post
+- California Voters Reject Prop. 40 Billionaire Tax Measure - The New York Times
 - US supreme court clears way for Trump’s border wall in Texas’s Big Bend - The Guardian
-- Trump casts doubt on Democrats’ historic midterm wins - The Washington Post
-- Trump holds White House briefing with UFC's Dana White, warns reporters he'll 'beat the hell out of you' in wild presser - New York Post
+- Investigators recover the voice recorder from a jet crash in Florida that killed 9 - AP News
+- After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily - Al Jazeera
+- Ohio State University investigating fraternity after video appears to show two people on fire - NBC News
+- Lindsay Clancy loses bid to dismiss murder charges, retrial looms - Reuters
+- UFC chief declines Trump's White House job offer - Yahoo Sports
 - Eileen Laubacher nears victory in Congressional District 4 race, attends orientation in Washington, D.C. - Colorado Public Radio
-- White House doubles down after Trump angers base by floating illegal alien deal with Dems - Fox News
-- ‘Curb your antisemitism’: Anti-Israel bike protesters met with Philly boos and humor - The Times of Israel
-- Senate advances sweeping energy legislation in first major action since midterm elections - AP News
-- Erika Kirk on Tyler Robinson’s murder trial date: ‘Disappointing’ - The Hill
-- Ohio State Suspends Fraternity After 2 Men Catch Fire at a Chapter Gathering - The New York Times
-- France accuses Iran of cyber 'sabotage' in fridge attacks - NPR
-- UK's Russell Brand sentenced to 10-and-a-half years in jail for rape, sexual assault - Reuters
-- Ukraine peace talks resume in Abu Dhabi after months-long pause - BBC
-- Pope urges Argentina to protect the vulnerable from Milei’s austerity measures - AP News
-- Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago - TechCrunch
-- The Iran War Unexpectedly Drove Down Carbon Emissions This Year - The New York Times
-- Skydance Details Cost Savings and Plans HBO Max-Paramount+ Bundle in First Post-Deal Earnings Report - The Hollywood Reporter
-- Dow surges 1,100 points, Nasdaq climbs more than 2% as tech rebounds from last week’s tumult: Live updates - CNBC
-- iOS 27.2.1 has fixes for security issues in Messages, AirPlay, and more - 9to5Mac
-- iPhone 18e Could Feature Bigger Display and Battery - MacRumors
+- Pressure builds on Thune ahead of GOP leadership elections - Axios
+- Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post
+- Russia, Ukraine and US officials hold talks in Abu Dhabi - Al Jazeera
+- Russell Brand sentenced to 10 years, 6 months in prison for rape and sexual assault - CBS News
+- Hungary detains Viktor Orban's brother in people-smuggling probe, PM says - Reuters
+- What we know about the mystery woman at the center of Nvidia's spy scandal - Axios
+- China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times
+- Investors Brush Off Election, Selloff and Even Nvidia’s Spy Scandal to Buy Stocks - WSJ
+- Anthropic Filing Snafu Jolts Investors in Run-Up to Mega IPO - Bloomberg.com
+- Meet Drops, the new music app bringing back the fun of sharing songs with friends - TechCrunch
+- Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026 - The Hacker News
