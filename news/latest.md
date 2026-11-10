@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-09 21:06_
+_Updated: 2026-11-10 04:23_
 
-- Congress returns for lame-duck sprint after bruising midterm losses for GOP - CBS News
-- Trump says his deportation policy ‘might have been too tough’ for voters in the election - AP News
-- Senate Republican calls for delayed leadership election - The Hill
-- Supreme Court weighs effort to shield federal law enforcement as ICE complaints rise - NPR
-- Jeffries says Democrats will not work with Trump's new chief of staff - USA Today
-- Democrats won big. Can they lower your grocery bill? - NPR
-- Hegseth announces rare press conference to discuss expected impeachment resolution in Congress - AP News
-- Boycott and Counterprotest Over Jewish Eateries Stir Tension in Philadelphia - The New York Times
-- Murkowski plans to lead Senate Republicans on spending panel - Politico
-- Court Orders NYC to Give Names of Shelter Residents to ICE - WSJ
+- Republican Thomas Massie will force impeachment vote on Defence Secretary Pete Hegseth - BBC
+- US supreme court clears way for Trump’s border wall in Texas’s Big Bend - The Guardian
+- Trump casts doubt on Democrats’ historic midterm wins - The Washington Post
+- Trump holds White House briefing with UFC's Dana White, warns reporters he'll 'beat the hell out of you' in wild presser - New York Post
+- Eileen Laubacher nears victory in Congressional District 4 race, attends orientation in Washington, D.C. - Colorado Public Radio
+- White House doubles down after Trump angers base by floating illegal alien deal with Dems - Fox News
+- ‘Curb your antisemitism’: Anti-Israel bike protesters met with Philly boos and humor - The Times of Israel
+- Senate advances sweeping energy legislation in first major action since midterm elections - AP News
+- Erika Kirk on Tyler Robinson’s murder trial date: ‘Disappointing’ - The Hill
+- Ohio State Suspends Fraternity After 2 Men Catch Fire at a Chapter Gathering - The New York Times
+- France accuses Iran of cyber 'sabotage' in fridge attacks - NPR
 - UK's Russell Brand sentenced to 10-and-a-half years in jail for rape, sexual assault - Reuters
-- Gunman with far-right views who killed 6 in Poland shooting rampage dies in hospital, police say - NBC News
-- France accuses Iran of supermarket fridge hacking - BBC
-- Pope Leo delivers veiled rebuke of austerity measures in predecessor’s homeland - The Washington Post
-- Nvidia live updates: Nvidia stock falls 5% as board investigates CEO's affair with alleged Chinese spy - Yahoo Finance
-- Stock Market Today: Dow jumps 1,000 points, S&P 500 and Nasdaq surge after last week’s selloff; Nvidia stock drops as CEO probe launched: live updates - MarketWatch
-- Boeing to cut 5% of commercial airplane workforce as production increase is slower than expected - CNBC
-- Honda to invest $3 billion in new vehicle assembly plant in Ohio - CNBC
-- Apple Launching Two More New Products This Friday - MacRumors
-- Epic Games Launcher is coming to SteamOS - The Verge
+- Ukraine peace talks resume in Abu Dhabi after months-long pause - BBC
+- Pope urges Argentina to protect the vulnerable from Milei’s austerity measures - AP News
+- Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago - TechCrunch
+- The Iran War Unexpectedly Drove Down Carbon Emissions This Year - The New York Times
+- Skydance Details Cost Savings and Plans HBO Max-Paramount+ Bundle in First Post-Deal Earnings Report - The Hollywood Reporter
+- Dow surges 1,100 points, Nasdaq climbs more than 2% as tech rebounds from last week’s tumult: Live updates - CNBC
+- iOS 27.2.1 has fixes for security issues in Messages, AirPlay, and more - 9to5Mac
+- iPhone 18e Could Feature Bigger Display and Battery - MacRumors
