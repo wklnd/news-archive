@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-10 20:14_
+_Updated: 2026-11-11 01:43_
 
-- Hegseth calls Republican’s bid to impeach him a ‘stunt’ by critics of Trump - The Guardian
+- Republican-led House rejects Hegseth impeachment effort - NBC News
+- US Army soldier suspected of spying for Russia arrested in UK - BBC
 - First snow, coldest air in months headed for eastern US in wake of storm - CNN
-- Republicans, reeling from an election drubbing, will choose their leadership in Congress - NBC News
-- Man charged with murder on cruise that left Texas says he ‘snapped’ and choked woman, complaint says - NBC News
-- Boebert says ‘fat lady hasn’t sung yet’ in her House race - The Hill
-- Billionaire tax rejected on concern squeezing California's ultra-rich would harm the economy - Los Angeles Times
-- Why Nearly 2,000 Dead Seabirds Have Washed Up on the California Coast - The New York Times
-- Live Updates: Trump says U.S. keeping Iran war at "status quo" but warns American military "locked and loaded" - CBS News
-- Ohio State suspends fraternity while investigating a video showing men engulfed in flames - AP News
-- U.S. moves military aircraft from British base amid Iran threats - NBC News
+- Matthew Farwell convicted of killing Sandra Birchmore and unborn child in Massachusetts murder trial - CBS News
+- New Trump statue in DC mocks his draft deferment for bone spurs - USA Today
+- Sanders says he won’t support Schumer as majority leader - Politico
+- Ole Miss Investigates White Students Who Made Racist Gestures in Video - The New York Times
+- Thomas Markle, Meghan’s father, jailed after cutting off ankle monitor, DoJ says - The Guardian
+- US charges 3 men with plotting terror attacks, including planned assault on UK airbase - AP News
+- US federal authorities could have prevented Epstein crimes, report finds - BBC
 - Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi - AP News
-- Met Police investigating more 'potential criminal allegations' about Brand - BBC
-- Indonesia's VP offers resignation as questions mount over his eligibility - NPR
-- Nvidia CEO’s affair with an alleged Chinese spy could be a problem for the economy - The Washington Post
-- Here's the inflation breakdown for October 2026 — in one chart - CNBC
-- EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor - Reuters
-- Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap - Bloomberg.com
-- Google releases Gemini 4 Carbon with agent ‘swarm’ feature - The Verge
-- AMD Zen 6 Technical Deep Dive - TechPowerUp
-- Ableton Live 13 hands-on: ARA 2, Drum Synth, new effects, more - CDM Create Digital Music
+- The Lights Go Out at Novaya Gazeta, Russia’s Bravest Newspaper - The New York Times
+- Arrests made in Mohamed Al Fayed probe in France, police say - BBC
+- U.S. moves military aircraft from British base amid Iran threats - NBC News
+- House Republicans consider issuing subpoena to Nvidia CEO Jensen Huang - ABC News - Breaking News, Latest News and Videos
+- CoreWeave Earnings Beat Expectations, Assuaging Market Nervousness - Barron's
+- Stock Market Today: Yields Jump as Inflation Comes in Hotter Than Expected — Live Updates - WSJ
+- With Its Giant I.P.O., Anthropic Ties Itself Closer to Nvidia - The New York Times
+- AMD Zen 6 Architecture Brings A Phenomenal 27% IPC Increase Over Zen 5: Full Architecture Breakdown – Up To 256 Cores, 12.8 GT/s MRDIMMs, A New ISA & More - Wccftech
+- Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop - Ars Technica
