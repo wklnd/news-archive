@@ -1,43 +1,44 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-09 19:44_
+_Updated: 2026-11-10 03:43_
 
 ## Top Stories
 
-- Centerns ungdomsförbund: Mitten är död - Västerbottens-Kuriren
-- DN Direkt – S-toppen om regeringsfrågan: ”Det ser tufft ut nu” - Dagens Nyheter
+- DN Direkt – DN erfar: Partiledarna för S, C och MP i möte - Dagens Nyheter
+- Dementerar: C röstar inte om vägval imorgon - ETC.se
 - Frölundabacken var på torget i Krakow – minuter innan dådet - Göteborgs-Posten
-- Inte hängt med i regeringsbildningen? Detta har hänt - Dagens Nyheter
-- DN Direkt – Källor: Iran bakom kylattacker i Frankrike - Dagens Nyheter
-- Döende patient blev våldtagen – nu döms en sjuksköterska till fängelse - Aftonbladet
-- En anhållen efter misstänkt mordförsök i Falköping - SVT Nyheter
-- Max 25 elever per lågstadieklass i Stockholms stad - Dagens Nyheter
-- Sverige mot Finland i snuskrig i EU - Dagens Nyheter
+- Spädbarn skadat – två gripna för grov misshandel - Aftonbladet
+- Tobias Pettersson Åkesson sprängde fältet – nu finns förlorarna till vänster - Hufvudstadsbladet – HBL
+- Då kommer snön till Stockholm: "Kan bli rejält" - Mitt i
+- Sjuksköterska utsatte döende kvinna för grov våldtäkt på sjukhus i Jönköping – döms till fängelse - Göteborgs-Posten
+- LEDARE: Socialdemokraterna börjar bli desperata - Nya Wermlands-Tidningen
+- En stillastående fordon ger stopp i ett körfält på E4 - UNT
 - Klimatmötet öppnar med Parismålet utom räckhåll - Europaportalen
-- Direkt – Kriget i Ukraina – Ukrainsk delegation på väg till fredsmöte - Dagens Nyheter
-- Joe Biden: Stormningen av Kapitolium borde följa Trump i graven - Dagens Nyheter
-- Trump ifrågasätter resultatet i mellanårsvalet - SVT Nyheter
-- Komysjuvacha: Räddare skadade 8 november 2026 - HurBra.se
-- Simon Campanello: Spionage och otrohet har satt världens viktigaste företag i gungning - Dagens Nyheter
+- DN Direkt – Rättegång spikad för misstänkt Kirk-mördare - Dagens Nyheter
+- Ryssland: Nej till Europa vid förhandlingsbordet - Västerbottens-Kuriren
+- Läcka: Hundratusentals döda ryska soldater - Hufvudstadsbladet – HBL
+- DN Direkt – C:s ungdomsförbund: Kristersson ligger bäst till - Dagens Nyheter
+- DN Direkt – Trump skulle stötta Hegseth i riksrätt - Dagens Nyheter
 - Svenskt Näringsliv, LO och PTK överens om pension och försäkring - Svenskt Näringsliv
 - Skyll inte elpriserna bara på tyskarna – titta österut också - Omni – Alla nyheter. Alla perspektiv.
-- Kan skilja 11 000 kronor: ”Räkna med att det syns” - Svenska Dagbladet
-- Uppgifter: Apples Siri ska fungera som en AI-agent - Computer Sweden
-- Nu är mystiska frekvensdippen i världens elnät avslöjad - Ny Teknik
+- Qliro vinnare på stigande börs - Affärsvärlden
+- 22 år senare gör “World of Warcraft” historisk comeback - MovieZine
+- Så bra är nya The Legend of Zelda - Göteborgs-Posten
 
 ## World News
 
 - Perfekt genrep inför Global Series för Hurricanes - NHL.com
-- Finnairs kunduppgifter kommit ut i global dataläcka - Yle
+- Global Series – en chans för Kraken att bonda - NHL.com
+- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- News | Global Trends Affect the future of Lund - Future by Lund
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - 1 426 potential victims identified in global operation against human trafficking - Europol
-- Global Series – en chans för Kraken att bonda - NHL.com
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Brasilien lanserar global kampanj för damernas VM 2027 - VM-fotboll.se
 
 ## Technology
@@ -53,14 +54,14 @@ _Updated: 2026-11-09 19:44_
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
+- Vietnams festival för artificiell intelligens: Främjar utvecklingen av AI-ekosystemet - Vietnam.vn
+- Karim Jebari - Institutet för framtidsstudier
 - Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
 - AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - När ”human in the loop” ger en falsk trygghet - Computer Sweden
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Utvecklare gömde fälla för AI-agenter i öppen källkod - Computer Sweden
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
@@ -73,8 +74,8 @@ _Updated: 2026-11-09 19:44_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 
 ## Health
 
@@ -91,13 +92,13 @@ _Updated: 2026-11-09 19:44_
 
 ## Science
 
-- ICEBA 2026: Kopplar samman forskning inom teknik, fysik och biomedicinsk sensorteknik - Naturvetenskapliga fakulteten, VNU-HCM - Vietnam.vn
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- AI och data science - Stockholms universitet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - European School of Sustainability Science and Research - Åbo Akademi
 - Universitet fäller forskarna bakom studie om mikroplast för fusk - Stockholms universitet
 
@@ -112,4 +113,3 @@ _Updated: 2026-11-09 19:44_
 - Här är världens största jordbruk - ATL
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Jord, kor och klimat - SLU
-- Visning av uppkomst efter direktsådd - Land.se
