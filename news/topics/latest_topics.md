@@ -1,37 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-11 01:38_
+_Updated: 2026-11-11 08:57_
 
 ## Top Stories
 
-- Nya detaljer – så stor är snöchansen i Jönköping - Jönköpings-Posten
-- DN Direkt – Andersson: ”Rädd att det kan fattas beslut som man sen kan ångra” - Dagens Nyheter
-- Republikaner stoppar försök att ställa USA:s krigsminister inför riksrätt - SVT Nyheter
-- Ministern har opererats för bröstcancer - Göteborgs-Posten
-- Amerikansk soldat anklagas för spioneri - Västerbottens-Kuriren
-- ”Centerpartiets vägval kan ge Jimmie Åkesson precis det han vill ha” - Arbetet
-- Kristoffer Wolke (V): ”Kravet är att sitta med i en regering” - SVT Nyheter
-- Möbeljätten Kinnarps hackad – stopp för all produktion i tre fabriker - SVT Nyheter
-- DN Direkt – Sex tonåringar häktade för gruppvåldtäkt - Dagens Nyheter
-- Felaktiga uppgifter i Mohamed Alis cv - Göteborgs-Posten
+- Karl Dalén: Demokraterna lät Pete Hegseth komma undan - Dagens Nyheter
+- Trossamfund granskas efter uppgifter om månggifte - Göteborgs-Posten
+- Drönarlarm i baltiska länder – Natoplan skickades upp - SVT Nyheter
+- DN Direkt – Jämställdhetsministern har fått bröstcancer - Dagens Nyheter
+- Vittnesmålen inifrån: Sexuella övergrepp och trakasserier inom Ungsvenskarna - Dagens Nyheter
+- Ambulans och personbil i olycka – en till sjukhus - SVT Nyheter
+- Jimmie Åkesson vill vara oppositionsparti i mitten - SVT Nyheter
+- En kompromiss som både V och C kan acceptera - Dagens Arena
+- Larm om trafikolycka med flera fordon på E4: ”Bil blev rammad” - Norran
+- Tillsammans för ett Alingsås fritt från våld - Notified
+- Förhandlingen en ”teater” som gynnar Putin - Göteborgs-Posten
+- Bebis begravdes i hundbur – hittad vid liv - Aftonbladet
+- De är bäst på klimatarbete – därför tappar Sverige - Göteborgs-Posten
 - Zelenskyj om svensk hjälp: Vill ha Gripen snarast - Västerbottens-Kuriren
-- Michael Winiarski: Putin kan vara nöjd med Trumps plan för säkerhet i Europa - Dagens Nyheter
-- Trumps hemliga brev till Biden: ”Älskar folket” - Dagens Nyheter
-- Flera dödade i israeliska anfall mot Gaza - Göteborgs-Posten
-- Bästa bensinkortet – ett alternativ sticker ut - Svenska Dagbladet
-- Peter Hedlund: Det gör Anthropics aktie oinvesterbar - EFN
-- Karlshamnsverket igång efter skenande elpriserna - SVT Nyheter
-- Inflationen pressar börs och räntor – Nvidia leder nedgången - EFN
+- Därför älskar vi att andra är otrogna | Joanna Górecka - Svenska Dagbladet
+- DEBATT: Fem gånger dyrare el i Värmland – sänk skatten nu - Värmlands Folkblad
+- Så mycket skiljer sig aktiva fonder från index - Finansinspektionen
+- Rekordmånga bostäder i mångmiljonklassen - Västerbottens-Kuriren
 - GTA 6 orsakade rusningstrafik i natt - Expressen
-- Ocarina of Time – ett tidlöst mästerverk - Aftonbladet
+- Smart teknik kan rädda tomater från torka - Svenska Dagbladet
 
 ## World News
 
-- Perfekt genrep inför Global Series för Hurricanes - NHL.com
+- Global Series – en chans för Kraken att bonda - NHL.com
 - Enad Global 7 ökar omsättningen kraftigt - Placera.se
 - Rejält vinstlyft för Enad Global - DI
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global Series – en chans för Kraken att bonda - NHL.com
+- Perfekt genrep inför Global Series för Hurricanes - NHL.com
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Nästan hemmaplan för Ehlers under Global Series - NHL.com
@@ -65,13 +64,13 @@ _Updated: 2026-11-11 01:38_
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
@@ -83,18 +82,18 @@ _Updated: 2026-11-11 01:38_
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Vi presenterar HealthBench - OpenAI
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Capio kan få ägare i Abu Dhabi - Dagens Medicin
 - Fonderna som investerar i megatrenden - Avanzabloggen
 - Gör ChatGPT gratis for vårdpersonal - OpenAI
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - AI och data science - Stockholms universitet
+- Andrea del Valle - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- 5 myter om öppen vetenskap - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - European School of Sustainability Science and Research - Åbo Akademi
 - Universitet fäller forskarna bakom studie om mikroplast för fusk - Stockholms universitet
