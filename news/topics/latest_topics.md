@@ -1,64 +1,69 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-11 08:57_
+_Updated: 2026-11-11 17:30_
 
 ## Top Stories
 
-- Karl Dalén: Demokraterna lät Pete Hegseth komma undan - Dagens Nyheter
+- DN Direkt – Dadgostar: Inga nya besked om ministerposter - Dagens Nyheter
+- Regeringskaoset: Skarpare röda linjer i Sverige än övriga Norden - Dagens Nyheter
+- Röda linjen mot SD blev ”för populär” för C – Statsvetaren: ”Blev inlåsta” - Göteborgs-Posten
+- Andersson (S): ”Det viktiga är inte vem som blir statsminister” – Senaste nytt om valet 2026 - SVT Nyheter
+- Förälder utanför Katolska skolan: ”Chockad” - Göteborgs-Posten
+- Mördade på fest – nu döms 30-åringen - UNT
+- Orange snövarning – risk för 40 centimeter snö - SVT Nyheter
 - Trossamfund granskas efter uppgifter om månggifte - Göteborgs-Posten
-- Drönarlarm i baltiska länder – Natoplan skickades upp - SVT Nyheter
-- DN Direkt – Jämställdhetsministern har fått bröstcancer - Dagens Nyheter
-- Vittnesmålen inifrån: Sexuella övergrepp och trakasserier inom Ungsvenskarna - Dagens Nyheter
-- Ambulans och personbil i olycka – en till sjukhus - SVT Nyheter
-- Jimmie Åkesson vill vara oppositionsparti i mitten - SVT Nyheter
-- En kompromiss som både V och C kan acceptera - Dagens Arena
-- Larm om trafikolycka med flera fordon på E4: ”Bil blev rammad” - Norran
-- Tillsammans för ett Alingsås fritt från våld - Notified
-- Förhandlingen en ”teater” som gynnar Putin - Göteborgs-Posten
-- Bebis begravdes i hundbur – hittad vid liv - Aftonbladet
-- De är bäst på klimatarbete – därför tappar Sverige - Göteborgs-Posten
-- Zelenskyj om svensk hjälp: Vill ha Gripen snarast - Västerbottens-Kuriren
-- Därför älskar vi att andra är otrogna | Joanna Górecka - Svenska Dagbladet
-- DEBATT: Fem gånger dyrare el i Värmland – sänk skatten nu - Värmlands Folkblad
-- Så mycket skiljer sig aktiva fonder från index - Finansinspektionen
-- Rekordmånga bostäder i mångmiljonklassen - Västerbottens-Kuriren
+- Efter branden i Rättvik – pappan får straffet sänkt i hovrätten - SVT Nyheter
+- Man tog sig in i kvinnas lägenhet i Haninge - SVT Nyheter
+- Direkt – Kriget i Ukraina – Trumps sändebud träffar Putin i morgon - Dagens Nyheter
+- Skolor i flera länder evakuerades efter bombhot - SVT Nyheter
+- Finska ambassaden blev viral – enorma responsen - Dagens Nyheter
+- Riksrättsprocess mot Hegseth stoppas - Hufvudstadsbladet – HBL
+- Advokatbyrå sänkte Elon Musk – ska nu utreda Jensen Huang - DI
+- Energimyndigheten varnar för höga elpriser – men ingen effektbrist - Ny Teknik
+- Nya regler för influencers - Vimmerby Tidning
+- Daniel Ek tar upp kampen med Peter Thiel - DI
+- ”Zelda: Ocarina of time” har sålt 5,2 miljoner ex på fyra dagar - Aftonbladet
 - GTA 6 orsakade rusningstrafik i natt - Expressen
-- Smart teknik kan rädda tomater från torka - Svenska Dagbladet
 
 ## World News
 
+- Perfekt genrep inför Global Series för Hurricanes - NHL.com
+- Nästan hemmaplan för Ehlers under Global Series - NHL.com
 - Global Series – en chans för Kraken att bonda - NHL.com
 - Enad Global 7 ökar omsättningen kraftigt - Placera.se
 - Rejält vinstlyft för Enad Global - DI
-- Perfekt genrep inför Global Series för Hurricanes - NHL.com
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Finnairs kunduppgifter kom ut i global dataläcka - Yle
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Nästan hemmaplan för Ehlers under Global Series - NHL.com
 - 1 426 potential victims identified in global operation against human trafficking - Europol
 - Trump celebrates Messi, revels in Inter Miami’s “good looks” - Reuters
+- Kraken balanserar nytta med nöje under Global Series - NHL.com
+- Tests in Italy, Spain come back negative in global hunt for hantavirus - Reuters
 
 ## Technology
 
-- Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
+- Vietnam rankas som nummer 37 i världen inom digital konkurrenskraft och AI. - Vietnam.vn
+- DeepSeek's Superagent flyttar den uppmärksamhetsflaskhalsen från ditt flöde till dina agenter - HackerNoon
+- Vietnam ansluter sig till de 50 största ekonomierna inom digital och AI-konkurrenskraft. - Vietnam.vn
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - AI-explosion på svenska arbetsplatser - Computer Sweden
 - Tre år med AI: Vad har hänt med jobben? - Almega
 - Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
+- Förordningen om artificiell intelligens - Council, European Union
 - Bästa AI-aktierna att köpa nu - Morningstar
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
-- Artificiell intelligens: Möjligheter och risker - European Parliament
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
-- Vietnams festival för artificiell intelligens: Främjar utvecklingen av AI-ekosystemet - Vietnam.vn
-- Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
-- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
+- Artificiell intelligens: Möjligheter och risker - European Parliament
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- När ”human in the loop” ger en falsk trygghet - Computer Sweden
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Vietnam rankas som nummer 37 i världen inom digital konkurrenskraft och artificiell intelligens. - Vietnam.vn
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Vietnams festival för artificiell intelligens: Främjar utvecklingen av AI-ekosystemet - Vietnam.vn
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
+- Vietnam rankas som nummer 37 i världen när det gäller digital och AI-konkurrenskraft. - Vietnam.vn
 
 ## Business
 
@@ -90,11 +95,11 @@ _Updated: 2026-11-11 08:57_
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- AI och data science - Stockholms universitet
-- Andrea del Valle - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science fiction i verkligheten - Forskning & Framsteg
+- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- 5 myter om öppen vetenskap - Läkartidningen
 - European School of Sustainability Science and Research - Åbo Akademi
 - Universitet fäller forskarna bakom studie om mikroplast för fusk - Stockholms universitet
 
