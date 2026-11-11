@@ -1,53 +1,54 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-11 17:30_
+_Updated: 2026-11-12 00:08_
 
 ## Top Stories
 
-- DN Direkt – Dadgostar: Inga nya besked om ministerposter - Dagens Nyheter
-- Regeringskaoset: Skarpare röda linjer i Sverige än övriga Norden - Dagens Nyheter
+- Uppgifter: Ex-politiker slog yxa i huvudet på man - Omni – Alla nyheter. Alla perspektiv.
+- Uppgifter: Ryskt krigsfartyg attackerat i Finska viken - Dagens Nyheter
+- Rödgrönt möte om ny regering: ”Konstruktivt” - Corren
+- Ingen försvarade de ofödda barnen vid debatt om abort i grundlagen - Världen idag
+- Klen tröst att V stod på sig om vi får Tidö 2.0 - Aftonbladet
+- Göteborgsimamen uppmuntrar månggifte trots lagbrott - Göteborgs-Posten
+- Rödgröna toppar på barhäng: ”God stämning” – Senaste nytt om valet 2026 - SVT Nyheter
+- DN Direkt – Försvarare i Brattåsfallet byts ut – anses jävig - Dagens Nyheter
 - Röda linjen mot SD blev ”för populär” för C – Statsvetaren: ”Blev inlåsta” - Göteborgs-Posten
-- Andersson (S): ”Det viktiga är inte vem som blir statsminister” – Senaste nytt om valet 2026 - SVT Nyheter
-- Förälder utanför Katolska skolan: ”Chockad” - Göteborgs-Posten
-- Mördade på fest – nu döms 30-åringen - UNT
-- Orange snövarning – risk för 40 centimeter snö - SVT Nyheter
-- Trossamfund granskas efter uppgifter om månggifte - Göteborgs-Posten
-- Efter branden i Rättvik – pappan får straffet sänkt i hovrätten - SVT Nyheter
-- Man tog sig in i kvinnas lägenhet i Haninge - SVT Nyheter
-- Direkt – Kriget i Ukraina – Trumps sändebud träffar Putin i morgon - Dagens Nyheter
-- Skolor i flera länder evakuerades efter bombhot - SVT Nyheter
-- Finska ambassaden blev viral – enorma responsen - Dagens Nyheter
-- Riksrättsprocess mot Hegseth stoppas - Hufvudstadsbladet – HBL
+- Nu letar alla efter nyckeln – här är låsningarna i regeringsfrågan - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Uppgift: Kushner och Witkoff träffar Putin på torsdag - Dagens Nyheter
+- Ingmar Nevéus: JD Vance måste ta avstånd från Trump och samtidigt hylla honom - Dagens Nyheter
+- Hotet från Iran: Slå till mot amerikanska baser i Europa - Göteborgs-Posten
+- Påvens mässa lockade tre miljoner troende - Västerbotten | Folkbladet
 - Advokatbyrå sänkte Elon Musk – ska nu utreda Jensen Huang - DI
-- Energimyndigheten varnar för höga elpriser – men ingen effektbrist - Ny Teknik
-- Nya regler för influencers - Vimmerby Tidning
-- Daniel Ek tar upp kampen med Peter Thiel - DI
-- ”Zelda: Ocarina of time” har sålt 5,2 miljoner ex på fyra dagar - Aftonbladet
-- GTA 6 orsakade rusningstrafik i natt - Expressen
+- Lessebo Paper tvingas pausa produktionen på grund av elpriserna - SVT Nyheter
+- DN Direkt – Uppgifter: Svenskar får delta i Anthropics notering - Dagens Nyheter
+- Ny överenskommelse om pension och trygghet - Vårdförbundet
+- GTA VI kommer vara 30 FPS - går att spela via molnet på Xbox One - Dopest.se
+- Geologer gör en överraskande upptäckt: Okänd supervulkan i hjärtat av Europa - Illustrerad Vetenskap
 
 ## World News
 
-- Perfekt genrep inför Global Series för Hurricanes - NHL.com
+- Kraken balanserar nytta med nöje under Global Series - NHL.com
 - Nästan hemmaplan för Ehlers under Global Series - NHL.com
 - Global Series – en chans för Kraken att bonda - NHL.com
 - Enad Global 7 ökar omsättningen kraftigt - Placera.se
 - Rejält vinstlyft för Enad Global - DI
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Finnairs kunduppgifter kom ut i global dataläcka - Yle
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Larsson unik under Global Series – ende svensken - NHL.com
 - 1 426 potential victims identified in global operation against human trafficking - Europol
 - Trump celebrates Messi, revels in Inter Miami’s “good looks” - Reuters
-- Kraken balanserar nytta med nöje under Global Series - NHL.com
+- Perfekt genrep inför Global Series för Hurricanes - NHL.com
+- Saab nära stororder från Kanada – upp till sex Global Eye-plan - cedarnews.net
 - Tests in Italy, Spain come back negative in global hunt for hantavirus - Reuters
 
 ## Technology
 
 - Vietnam rankas som nummer 37 i världen inom digital konkurrenskraft och AI. - Vietnam.vn
 - DeepSeek's Superagent flyttar den uppmärksamhetsflaskhalsen från ditt flöde till dina agenter - HackerNoon
-- Vietnam ansluter sig till de 50 största ekonomierna inom digital och AI-konkurrenskraft. - Vietnam.vn
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
+- Vietnam ansluter sig till de 50 största ekonomierna inom digital och AI-konkurrenskraft. - Vietnam.vn
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - AI-explosion på svenska arbetsplatser - Computer Sweden
 - Tre år med AI: Vad har hänt med jobben? - Almega
@@ -68,9 +69,8 @@ _Updated: 2026-11-11 17:30_
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
@@ -83,11 +83,11 @@ _Updated: 2026-11-11 17:30_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Hälso- och sjukvård - Moderaterna
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Vi presenterar HealthBench - OpenAI
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Capio kan få ägare i Abu Dhabi - Dagens Medicin
 - Fonderna som investerar i megatrenden - Avanzabloggen
 - Gör ChatGPT gratis for vårdpersonal - OpenAI
 
@@ -101,7 +101,6 @@ _Updated: 2026-11-11 17:30_
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - 5 myter om öppen vetenskap - Läkartidningen
 - European School of Sustainability Science and Research - Åbo Akademi
-- Universitet fäller forskarna bakom studie om mikroplast för fusk - Stockholms universitet
 
 ## Jordbruk
 
@@ -114,3 +113,4 @@ _Updated: 2026-11-11 17:30_
 - Här är världens största jordbruk - ATL
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Jord, kor och klimat - SLU
+- Visning av uppkomst efter direktsådd - Land.se
