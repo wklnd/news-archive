@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-11 13:26_
+_Updated: 2026-11-11 20:52_
 
-- Hegseth Impeachment Effort Is Derailed by House Republicans - The New York Times
-- U.S. charges 3 men with plotting multiple terrorist attacks, including planned attack against U.K. air base - NBC News
-- 3 dead after car crashes into street vendors, pedestrians near Metro station in North Hollywood - ABC7 Los Angeles
-- In Mississippi, voters await cliffhanger Senate result with hope and frustration - BBC
-- Jim Jordan picked as new minority leader for House GOP - Roll Call
-- The new darling of the Democratic left is … Chris Van Hollen? - Politico
-- Kennedy family members seek to block construction of Trump’s arch - NBC News
-- Ole Miss student under fire for doorbell video issues public apology, leaves university - CBS58
-- U.S. Army officer arrested in U.K. on suspicion of trying to steal secrets for Russia - The Washington Post
-- Tennessee moves to prevent Christa Pike's attorneys from examining drug used in failed execution - CBS News
-- From the Vatican to Chiclayo, Peru: the pope of the trenches returns to his adopted homeland - CNN
-- Spain’s first general strike in 14 years brings clashing social and political desires to the fore - AP News
-- Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement - The New York Times
-- Israel’s newly elected parliament is already moving against Netanyahu - The Washington Post
-- Nvidia shares rebound 4% as Huang faces scrutiny ahead of earnings - CNBC
-- Anthropic Bankers Look to Increase IPO Valuation, Report Says - Bloomberg.com
-- CoreWeave earnings; OpenAI’s revenue reportedly spikes - what’s moving markets - Investing.com
-- Toyota brings Japan’s tiny trucks that Trump loves to America - Financial Times
-- Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode - The Verge
-- Gemini 4 Carbon rolling out to Gemini app for AI Ultra, Argon remains - 9to5Google
+- White House threatens criminal investigation into Democrats’ oversight efforts - Politico
+- Colom widens lead over Hyde-Smith as Mississippi Senate count continues - WAPT
+- House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks - NPR
+- Trump Visits Arlington Cemetery as His Proposed Arch Faces Growing Opposition - The New York Times
+- 3 dead after SUV crashes into pedestrians in Los Angeles, driver charged with murder - ABC News - Breaking News, Latest News and Videos
+- Peltola surpasses combined Dan Sullivan votes after latest drop - The Hill
+- Sanders won’t support Schumer for Senate Democratic leader, Hegseth impeachment effort blocked by GOP - AP News
+- ICE Officer Involved in Maine Shooting Expressed Hatred of Immigrants - The New York Times
+- SS United States live updates: How to watch intentional sinking of historic vessel off Florida coast - 6abc Philadelphia
+- For Families of Those Who Died in the Iran War, a Veterans Day of Profound Loss - The New York Times
+- Ukraine peace talks end with prisoner swap but no breakthrough - Financial Times
+- Workers in Spain Stage a General Strike for the First Time in 14 Years - The New York Times
+- Hoax bomb alerts sent to schools in Italy, UK and Ireland in latest disruption - Reuters
+- Iran War Updates: Iran vows not to part with "single particle of enriched nuclear material" as standoff continues - CBS News
+- China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway - WIRED
+- Stock Market Today: Nasdaq Jumps at Open After CoreWeave Earnings — Live Updates - WSJ
+- What 400 years of hot IPOs say about buying Anthropic on day one: Chart of the Day - Yahoo Finance
+- As higher prices seep into broader economy, Fed officials consider faster hikes - AP News
+- Adobe’s AI experiments let you walk around in photos and interview your characters - The Verge
+- ‘GTA 6’ Pre-Loads Are Slowing Down The Internet, Warns ISP - Forbes
