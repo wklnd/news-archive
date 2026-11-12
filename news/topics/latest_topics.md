@@ -1,38 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-12 05:15_
+_Updated: 2026-11-12 13:41_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Uppgift: Kushner och Witkoff träffar Putin på torsdag - Dagens Nyheter
-- Trevåningshus har rasat i USA - Göteborgs-Posten
-- Beskedet från C: Står fast vid det vi gick till val på – Senaste nytt om valet 2026 - SVT Nyheter
-- Rödgrönt möte om ny regering: ”Konstruktivt” - Corren
-- Demokrat mot seger i Mississippi - Västerbottens-Kuriren
-- Inga amerikanska företag vill köpa rysk diesel – trots Trumps tillåtelse - Omni – Alla nyheter. Alla perspektiv.
-- Försvarare i Brattåsfallet byts ut – anses jävig - Göteborgs-Posten
-- 30-årig man döms för knivmordet i Sala backe - SVT Nyheter
-- TOVE HOVEMYR: Centerpartiet har allt att förlora på en ny ”alliansregering” - UNT
-- Riksdagen öppnar för återkallande av medborgarskap - Göteborgs-Posten
-- Påvens mässa lockade tre miljoner troende - Västerbottens-Kuriren
-- Uppgifter: Ryskt krigsfartyg attackerat i Finska viken - Dagens Nyheter
-- Karin Eriksson: Zelenskyj vill ha mer än bara vapen - Dagens Nyheter
-- Henriksson stängde in sig efter dådet: "Overkligt" - Fotbollskanalen
-- Källor: Jensen Huang kan tvingas bort som Nvidias vd - SVT Nyheter
-- Vart går Anthropics intäkter, och varför det är viktigt - Morningstar
-- DN Direkt – Börsen fortsatte stiga – vikande AI-oro i USA - Dagens Nyheter
-- Ny överenskommelse om pension och trygghet - Vårdförbundet
-- GTA 6: Enorm hajp inför släppet – Tove Lo med i trailern - TV4 Nyheterna
-- ”Vad datorspel gör med människor” - Västerbottens-Kuriren
+- DN Direkt – Birgitta Ohlsson om eventuellt SD-samarbete - Dagens Nyheter
+- Andersson (S): Ska självklart garanteras inflytande – Senaste nytt om valet 2026 - SVT Nyheter
+- Röd snövarning – kan komma nära en meter - Göteborgs-Posten
+- Kulturbudgeten: Inga nya pengar till museerna - Västerbottens-Kuriren
+- Spädbarn i Lund svårt skadat – två begärs häktade - HD
+- Pojke döms för masskjutning - polisen.se
+- Bil krockade med träd vid E22 utanför Torsås - SVT Nyheter
+- Uppgifter: Nytt rödgrönt möte i dag – Senaste nytt om valet 2026 - SVT Nyheter
+- Vänsterpartiet kallar till pressträff - Corren
+- Snabbguide: Vad betyder COP, IPCC och Parisavtalet? - Dagens Nyheter
+- Minst två döda och flera skadade efter husras i Brooklyn - SVT Nyheter
+- Witkoff och Kushner i Ryssland – ska möta Putin - Hufvudstadsbladet – HBL
+- Linus Larsson: Kinas råa styrka visar sig i AI-boomen - Dagens Nyheter
+- Tusentals skolor i flera länder bombhotas - Västerbottens-Kuriren
+- Musk: Vore en ära att anställa Jensen Huang - Omni – Alla nyheter. Alla perspektiv.
+- Kinas utsläpp minskar – största nedgången sedan pandemin - Tidningen Syre
+- Handels får miljoner – vem får makten? - Svenska Dagbladet
+- Lägsta arbetslösheten på tre år: ”Rätt håll” - Tidningen Näringslivet
+- KRÖNIKA: Frihet, våld och satir – så blev ”Grand theft auto” världens största spel - Sydsvenskan
+- Så undviker du att GTA går ut över din kärleksrelation - Sveriges Radio
 
 ## World News
 
 - Kraken balanserar nytta med nöje under Global Series - NHL.com
 - Nästan hemmaplan för Ehlers under Global Series - NHL.com
 - Global Series – en chans för Kraken att bonda - NHL.com
-- Enad Global 7 ökar omsättningen kraftigt - Placera.se
-- Rejält vinstlyft för Enad Global - DI
+- Hon blir ny global hållbarhetschef på Securitas - Aktuell Hållbarhet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Finnairs kunduppgifter kom ut i global dataläcka - Yle
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
@@ -40,16 +40,15 @@ _Updated: 2026-11-12 05:15_
 - 1 426 potential victims identified in global operation against human trafficking - Europol
 - Trump celebrates Messi, revels in Inter Miami’s “good looks” - Reuters
 - Perfekt genrep inför Global Series för Hurricanes - NHL.com
-- Tests in Italy, Spain come back negative in global hunt for hantavirus - Reuters
-- Saab nära stororder från Kanada – upp till sex Global Eye-plan - cedarnews.net
+- Larsson inför första nedsläpp i Global Series: ”Tuff utmaning" - NHL.com
 
 ## Technology
 
-- Vietnam rankas som nummer 37 i världen inom digital konkurrenskraft och AI. - Vietnam.vn
-- DeepSeek's Superagent flyttar den uppmärksamhetsflaskhalsen från ditt flöde till dina agenter - HackerNoon
+- Omvandla rankningar av digital konkurrenskraft till konkreta resultat. - Vietnam.vn
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- Vietnam ansluter sig till de 50 största ekonomierna inom digital och AI-konkurrenskraft. - Vietnam.vn
+- Vietnam rankas som nummer 37 i världen inom digital konkurrenskraft och AI. - Vietnam.vn
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
+- Vietnam ansluter sig till de 50 största ekonomierna inom digital och AI-konkurrenskraft. - Vietnam.vn
 - AI-explosion på svenska arbetsplatser - Computer Sweden
 - Tre år med AI: Vad har hänt med jobben? - Almega
 - Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
@@ -59,16 +58,17 @@ _Updated: 2026-11-12 05:15_
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
 - Artificiell intelligens: Möjligheter och risker - European Parliament
+- När ”human in the loop” ger en falsk trygghet - Computer Sweden
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Vietnam rankas som nummer 37 i världen inom digital konkurrenskraft och artificiell intelligens. - Vietnam.vn
 - Utvecklare gömde fälla för AI-agenter i öppen källkod - Computer Sweden
-- Vietnams festival för artificiell intelligens: Främjar utvecklingen av AI-ekosystemet - Vietnam.vn
-- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 - Vietnam rankas som nummer 37 i världen när det gäller digital och AI-konkurrenskraft. - Vietnam.vn
+- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
@@ -83,11 +83,11 @@ _Updated: 2026-11-12 05:15_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Hälso- och sjukvård - Moderaterna
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Vi presenterar HealthBench - OpenAI
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - Fonderna som investerar i megatrenden - Avanzabloggen
 - Gör ChatGPT gratis for vårdpersonal - OpenAI
 
@@ -95,13 +95,12 @@ _Updated: 2026-11-12 05:15_
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science fiction i verkligheten - Forskning & Framsteg
+- AI för vetenskaplig forskning och upptäckter - OpenAI
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - 5 myter om öppen vetenskap - Läkartidningen
 - European School of Sustainability Science and Research - Åbo Akademi
-- Universitet fäller forskarna bakom studie om mikroplast för fusk - Stockholms universitet
 
 ## Jordbruk
 
