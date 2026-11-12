@@ -1,53 +1,53 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-12 13:41_
+_Updated: 2026-11-12 22:16_
 
 ## Top Stories
 
-- DN Direkt – Birgitta Ohlsson om eventuellt SD-samarbete - Dagens Nyheter
-- Andersson (S): Ska självklart garanteras inflytande – Senaste nytt om valet 2026 - SVT Nyheter
-- Röd snövarning – kan komma nära en meter - Göteborgs-Posten
-- Kulturbudgeten: Inga nya pengar till museerna - Västerbottens-Kuriren
-- Spädbarn i Lund svårt skadat – två begärs häktade - HD
-- Pojke döms för masskjutning - polisen.se
-- Bil krockade med träd vid E22 utanför Torsås - SVT Nyheter
-- Uppgifter: Nytt rödgrönt möte i dag – Senaste nytt om valet 2026 - SVT Nyheter
-- Vänsterpartiet kallar till pressträff - Corren
-- Snabbguide: Vad betyder COP, IPCC och Parisavtalet? - Dagens Nyheter
-- Minst två döda och flera skadade efter husras i Brooklyn - SVT Nyheter
-- Witkoff och Kushner i Ryssland – ska möta Putin - Hufvudstadsbladet – HBL
-- Linus Larsson: Kinas råa styrka visar sig i AI-boomen - Dagens Nyheter
-- Tusentals skolor i flera länder bombhotas - Västerbottens-Kuriren
-- Musk: Vore en ära att anställa Jensen Huang - Omni – Alla nyheter. Alla perspektiv.
-- Kinas utsläpp minskar – största nedgången sedan pandemin - Tidningen Syre
-- Handels får miljoner – vem får makten? - Svenska Dagbladet
-- Lägsta arbetslösheten på tre år: ”Rätt håll” - Tidningen Näringslivet
-- KRÖNIKA: Frihet, våld och satir – så blev ”Grand theft auto” världens största spel - Sydsvenskan
+- Michael Winiarski: Putin vägrar ge upp ryska krav för fred i Ukraina - Dagens Nyheter
+- Tjejer i Ungsvenskarna varnar varandra för Rasmus Giertz (SD) - Dagens Nyheter
+- SAS-plan till Skellefteå fick vända - Aftonbladet
+- Man allvarligt skadad efter masskrock - Göteborgs-Posten
+- Muthärvan: Kungälvs kommun sålde mark – dagar senare gick tomterna för jättevinst - Göteborgs-Posten
+- Dödssiffran stiger efter husras i Brooklyn - SVT Nyheter
+- V-källor: S ”totalpaket” till Centerpartiet är oseriöst - Dagens Nyheter
+- Skolor i Skellefteå stänger – på grund av snöoväder - SVT Nyheter
+- Mjölkbil körde av vägen – 13 000 liter mjölk har läckt ut - SVT Nyheter
+- Ulrika Lindahl: Står still i regeringsfrågan efter palatsmöte - ETC.se
+- Danmark: Klart nästa vecka med läger för utvisade - Göteborgs-Posten
+- Frankrike: Bombhot mot tågstation - Västerbottens-Kuriren
+- Nytt bostadspaket i Spanien efter protester - Göteborgs-Posten
+- Zelenskyj vill ha Europa vid bordet – oenighet om Putinförhandlare - Europaportalen
+- Nvidias vd Jensen Huang avgår efter otrohetsaffärer - Dagens Nyheter
+- Oro på bageriet inför vinterns elpriser: ”Vi är maktlösa” - SVT Nyheter
+- SJ kör nattågen till Tyskland igen – med färre avgångar - Tidningen Syre
+- Flat Capital investerar 10 MSEK i TypeSafe – grundat av en av forskarna bakom ChatGPT (MFN) - Aktiellt
 - Så undviker du att GTA går ut över din kärleksrelation - Sveriges Radio
+- ”Zelda: Ocarina of time” har sålt 5,2 miljoner ex på fyra dagar - Aftonbladet
 
 ## World News
 
+- Aho en hyllad värd under Global Series - NHL.com
+- Larsson inför första nedsläpp i Global Series: ”Tuff utmaning" - NHL.com
 - Kraken balanserar nytta med nöje under Global Series - NHL.com
 - Nästan hemmaplan för Ehlers under Global Series - NHL.com
-- Global Series – en chans för Kraken att bonda - NHL.com
-- Hon blir ny global hållbarhetschef på Securitas - Aktuell Hållbarhet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Finnairs kunduppgifter kom ut i global dataläcka - Yle
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Larsson unik under Global Series – ende svensken - NHL.com
 - 1 426 potential victims identified in global operation against human trafficking - Europol
 - Trump celebrates Messi, revels in Inter Miami’s “good looks” - Reuters
+- Larsson unik under Global Series – ende svensken - NHL.com
 - Perfekt genrep inför Global Series för Hurricanes - NHL.com
-- Larsson inför första nedsläpp i Global Series: ”Tuff utmaning" - NHL.com
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Global Series – en chans för Kraken att bonda - NHL.com
 
 ## Technology
 
 - Omvandla rankningar av digital konkurrenskraft till konkreta resultat. - Vietnam.vn
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - Vietnam rankas som nummer 37 i världen inom digital konkurrenskraft och AI. - Vietnam.vn
-- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Vietnam ansluter sig till de 50 största ekonomierna inom digital och AI-konkurrenskraft. - Vietnam.vn
 - AI-explosion på svenska arbetsplatser - Computer Sweden
 - Tre år med AI: Vad har hänt med jobben? - Almega
@@ -57,25 +57,26 @@ _Updated: 2026-11-12 13:41_
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
+- Sandvik AI investments - smarter Industry solutions - Sandvik Group
 - Artificiell intelligens: Möjligheter och risker - European Parliament
-- När ”human in the loop” ger en falsk trygghet - Computer Sweden
+- Karim Jebari - Institutet för framtidsstudier
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- Vietnam rankas som nummer 37 i världen inom digital konkurrenskraft och artificiell intelligens. - Vietnam.vn
 - Utvecklare gömde fälla för AI-agenter i öppen källkod - Computer Sweden
-- Vietnam rankas som nummer 37 i världen när det gäller digital och AI-konkurrenskraft. - Vietnam.vn
+- Vietnam rankas som nummer 37 i världen inom digital konkurrenskraft och artificiell intelligens. - Vietnam.vn
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
+- Vietnam rankas som nummer 37 i världen när det gäller digital och AI-konkurrenskraft. - Vietnam.vn
 
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
@@ -86,20 +87,20 @@ _Updated: 2026-11-12 13:41_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Vi presenterar HealthBench - OpenAI
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Fonderna som investerar i megatrenden - Avanzabloggen
 - Gör ChatGPT gratis for vårdpersonal - OpenAI
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Science fiction i verkligheten - Forskning & Framsteg
-- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- AI för vetenskaplig forskning och upptäckter - OpenAI
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- 5 myter om öppen vetenskap - Läkartidningen
 - European School of Sustainability Science and Research - Åbo Akademi
 
 ## Jordbruk
