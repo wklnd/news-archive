@@ -1,69 +1,69 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-13 03:21_
+_Updated: 2026-11-13 10:33_
 
 ## Top Stories
 
-- Orange vädervarning för snöfall - Harnosand.se
-- Då kan det snöa i Göteborg - Göteborgs-Posten
-- Direkt – Kriget i Ukraina – Uppgift: Kushner och Witkoff träffar Putin på torsdag - Dagens Nyheter
-- En stillastående lastbil orsakar ett körfält blockerat på E4 - Västerbottningen
-- Riksdagsledamoten Rasmus Giertz (SD) avgår efter anklagelser - SVT Nyheter
-- Skottlossning i Washington – minst en död - Göteborgs-Posten
-- V-källor: S ”totalpaket” till Centerpartiet är oseriöst - Dagens Nyheter
-- Villainbrotten fortsätter – polisens larm: ”Risk för nya inbrott” - Norran
-- Så mycket kommer SL-kortet kosta 2027 - Dagens Nyheter
-- Regeringskrisens verkliga namn är Thand Ringqvist - Dagens Arena
-- Expert: Valfiaskot öppnar dörren för Ron DeSantis - Dagens Nyheter
-- Danmark: Klart nästa vecka med läger för utvisade - Göteborgs-Posten
-- Zelenskyj: ”Den ryske bossen är arg” - Corren
-- Frankrike: Bombhot mot tågstation - Västerbottens-Kuriren
-- Uppgifter: Jensen Huang hade relation med ytterligare en medarbetare - EFN
-- Höga elpriser oroar villaägarna - Tidningen Energi
-- Anthropic ”unik på alla sätt” för Tioex - Finanswatch.se
-- Börsen på nytt rekord – trots Nvidiahärvan - Västerbottens-Kuriren
+- Stort snökaos – Trafikverket och SMHI varnar - Aftonbladet
+- Fastkörda lastbilar norr om Sundsvall – helt stopp söderut på E4 - Omni – Alla nyheter. Alla perspektiv.
+- Ryssland: Moskva under attack - Hufvudstadsbladet – HBL
+- Ukraina och USA: Europas närvaro avgörande - Göteborgs-Posten
+- DN Direkt – Ensamseglare i sjönöd utanför Trelleborg - Dagens Nyheter
+- Barn dog under förlossningen – mamman anmäler barnmorskan på BB Gårda - Göteborgs-Posten
+- Melinda Jacobs: ”Det jag varit med om har gjort mig hård” - Dagens Nyheter
+- ”Vill Centerpartiet ha sänkta utsläpp, jobb och välfärd är valet självklart” - Aktuell Hållbarhet
+- LEDARE: Månggifte har ingen plats i Sverige - Nya Wermlands-Tidningen
+- V: Andersson öppnade för en regering med oss - Göteborgs-Posten
+- Sigrid Melchior: Tiden rinner ut för EU – vem ska förhandla med Putin? - Dagens Nyheter
+- Svåra regn oroar i Gaza: ”Livrädd för vintern” - Hufvudstadsbladet – HBL
+- Pakistan: Tiotals dödade i räder vid gränsen - Göteborgs-Posten
+- DN Direkt – Hegseth blev tillrättavisad – ger soldaten medalj - Dagens Nyheter
+- Omfattande driftstörningar hos Microsoft - Affärsvärlden
+- Tredje gången gillt för Jensen Huang? - Svenska Dagbladet
+- SJ kör åter nattåg till Tyskland - Järnvägar.nu
+- Befintliga ägare får gräddfil i Anthropic-notering - Göteborgs-Posten
 - Så undviker du att GTA går ut över din kärleksrelation - Sveriges Radio
-- ”Zelda: Ocarina of time” har sålt 5,2 miljoner ex på fyra dagar - Aftonbladet
+- Över 100 miljoner Playstation 5 sålda - Expressen
 
 ## World News
 
 - Hurricanes vann första Global Series-ronden - NHL.com
 - Aho en hyllad värd under Global Series - NHL.com
 - Larsson inför första nedsläpp i Global Series: ”Tuff utmaning" - NHL.com
-- Kraken balanserar nytta med nöje under Global Series - NHL.com
+- Larsson unik under Global Series – ende svensken - NHL.com
 - Nästan hemmaplan för Ehlers under Global Series - NHL.com
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - 1 426 potential victims identified in global operation against human trafficking - Europol
 - Trump celebrates Messi, revels in Inter Miami’s “good looks” - Reuters
-- Larsson unik under Global Series – ende svensken - NHL.com
 - Ehlers prickar in första Global Series-målet - NHL.com
+- Kraken balanserar nytta med nöje under Global Series - NHL.com
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Global Series – en chans för Kraken att bonda - NHL.com
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 
 ## Technology
 
-- Omvandla rankningar av digital konkurrenskraft till konkreta resultat. - Vietnam.vn
-- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - Vietnam rankas som nummer 37 i världen inom digital konkurrenskraft och AI. - Vietnam.vn
+- Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - Vietnam ansluter sig till de 50 största ekonomierna inom digital och AI-konkurrenskraft. - Vietnam.vn
+- Omvandla rankningar av digital konkurrenskraft till konkreta resultat. - Vietnam.vn
 - AI-explosion på svenska arbetsplatser - Computer Sweden
 - Tre år med AI: Vad har hänt med jobben? - Almega
-- Förordningen om artificiell intelligens - Council, European Union
 - Bästa AI-aktierna att köpa nu - Morningstar
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
+- Artificiell intelligens: Möjligheter och risker - European Parliament
 - 290 million for digitalisation of Swedish industry - Vinnova
+- Anthropic och OpenAI stäms för påstådda patentintrång - Placera.se
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
 - Sandvik AI investments - smarter Industry solutions - Sandvik Group
-- Artificiell intelligens: Möjligheter och risker - European Parliament
 - Karim Jebari - Institutet för framtidsstudier
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- Utvecklare gömde fälla för AI-agenter i öppen källkod - Computer Sweden
 - Vietnam rankas som nummer 37 i världen inom digital konkurrenskraft och artificiell intelligens. - Vietnam.vn
 - Artificial intelligence will not turn into a Frankenstein's monster | Alan Winfield - The Guardian
-- Vietnam rankas som nummer 37 i världen när det gäller digital och AI-konkurrenskraft. - Vietnam.vn
 - Vice premiärminister: Vietnam rankas som 37:e i digital konkurrenskraft, men vi får inte vara självbelåtna. - Vietnam.vn
 
 ## Business
@@ -84,8 +84,8 @@ _Updated: 2026-11-13 03:21_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Hälso- och sjukvård - Moderaterna
-- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Vi presenterar HealthBench - OpenAI
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Fonderna som investerar i megatrenden - Avanzabloggen
@@ -97,10 +97,10 @@ _Updated: 2026-11-13 03:21_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Science fiction i verkligheten - Forskning & Framsteg
-- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- AI för vetenskaplig forskning och upptäckter - OpenAI
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- 5 myter om öppen vetenskap - Läkartidningen
 - European School of Sustainability Science and Research - Åbo Akademi
 
 ## Jordbruk
@@ -112,6 +112,6 @@ _Updated: 2026-11-13 03:21_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Här är världens största jordbruk - ATL
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Jord, kor och klimat - SLU
 - Visning av uppkomst efter direktsådd - Land.se
+- Jord, kor och klimat - SLU
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
