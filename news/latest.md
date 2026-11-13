@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-13 05:34_
+_Updated: 2026-11-13 13:32_
 
-- Sen. Chris Van Hollen says he will challenge Sen. Chuck Schumer for majority leader - NBC News
-- Matt Lambert, 55, identified as gunman after 1 killed and 4 injured in DC shooting - CNN
-- Before Scott Colom, these two men were the last black US senators from Mississippi - BBC
-- Officials End Rescue Operations at Site of Fatal Building Collapse in Brooklyn - The New York Times
+- Van Hollen will challenge Schumer to lead Senate Democrats - The Washington Post
+- Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy - BBC
+- From Emmett Till to Robert Johnson, the Delta powered Scott Colom's historic Senate bid - Axios
 - Cindy Holscher wins in Kansas, holding governor’s office for Democrats - NPR
-- Hegseth awards medal to soldier who admonished him, his team at Tomb of the Unknowns - The Washington Post
-- Tim Scott summons Jensen Huang, Howard Lutnick to testify over Nvidia saga - Politico
-- Oklahoma dismisses murder charge against former death row inmate Richard Glossip - NBC News
-- Cities Have a New Tactic to Block ICE Jails: Run Out the Clock - The New York Times
+- Matt Lambert, 55, identified as gunman after 1 killed and 4 injured in DC shooting - CNN
+- Brooklyn building collapse: 2 children, 6 men killed in Flatbush - ABC7 New York
 - Trump bluntly tells JD Vance to shift focus from Iran to targeting 'corruption and crime' at home - AP News
-- After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war - The Washington Post
-- Indonesia's VP resigns as his eligibility and academic credentials are questioned - NPR
-- Burnham is blasted over Piddington migrant camp approval by council boss: ‘Any sexual violence will be on your head’ - The Sun
-- Watch: 17-year-old camper rescued after going missing for nearly a week in the Australian wilderness - FOX Weather
-- ‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return - WIRED
-- Is Outlook down? Widespread outage hits Microsoft email and other apps - NPR
-- Home sales hit 16-year low in October amid record-high mortgage rates - The Guardian
-- Stock futures rise after market dips amid Nvidia woes: Live updates - CNBC
-- Apple HomeView Review: A Versatile Smart Display And Siri-Powered Home Hub - Engadget
-- Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash - Ars Technica
+- California Could Face 50-Foot Waves as Storms Slam Its Coast - The New York Times
+- Peltola, Kreiss-Tomkins grow leads after latest ballot counts in Alaska - Anchorage Daily News
+- US envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin - AP News
+- US Army officer involved in alleged Russian spying scheme identified: Reports - The Hill
+- China stages unannounced Pacific drills in 'silent intimidation' of Taiwan, officials say - Reuters
+- Kim Jong Un Remakes North Korea’s Flag, Ditching Soviet-Era Version - WSJ
+- Trump says he spoke to Jensen Huang on Wednesday: ‘He’s going through hell’ - Business Insider
+- Global Microsoft outage leaves millions without access to Outlook email, Teams and other tools - CNN
+- Stock futures mixed after markets slide amid Nvidia woes: Live updates - CNBC
+- Alice Huang-Linked Firm Procured Banned Nvidia Chips in China - Bloomberg.com
+- I reviewed the Apple HomeView, ask me anything - The Verge
+- Wolfenstein 3 Is Now "Officially In Production" At MachineGames - Nintendo Life
+- Logitech Gives Its Employees a Day Off for Grand Theft Auto 6 Launch - CNET
