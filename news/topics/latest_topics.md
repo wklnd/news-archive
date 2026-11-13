@@ -1,45 +1,45 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-12 22:16_
+_Updated: 2026-11-13 03:21_
 
 ## Top Stories
 
-- Michael Winiarski: Putin vägrar ge upp ryska krav för fred i Ukraina - Dagens Nyheter
-- Tjejer i Ungsvenskarna varnar varandra för Rasmus Giertz (SD) - Dagens Nyheter
-- SAS-plan till Skellefteå fick vända - Aftonbladet
-- Man allvarligt skadad efter masskrock - Göteborgs-Posten
-- Muthärvan: Kungälvs kommun sålde mark – dagar senare gick tomterna för jättevinst - Göteborgs-Posten
-- Dödssiffran stiger efter husras i Brooklyn - SVT Nyheter
+- Orange vädervarning för snöfall - Harnosand.se
+- Då kan det snöa i Göteborg - Göteborgs-Posten
+- Direkt – Kriget i Ukraina – Uppgift: Kushner och Witkoff träffar Putin på torsdag - Dagens Nyheter
+- En stillastående lastbil orsakar ett körfält blockerat på E4 - Västerbottningen
+- Riksdagsledamoten Rasmus Giertz (SD) avgår efter anklagelser - SVT Nyheter
+- Skottlossning i Washington – minst en död - Göteborgs-Posten
 - V-källor: S ”totalpaket” till Centerpartiet är oseriöst - Dagens Nyheter
-- Skolor i Skellefteå stänger – på grund av snöoväder - SVT Nyheter
-- Mjölkbil körde av vägen – 13 000 liter mjölk har läckt ut - SVT Nyheter
-- Ulrika Lindahl: Står still i regeringsfrågan efter palatsmöte - ETC.se
+- Villainbrotten fortsätter – polisens larm: ”Risk för nya inbrott” - Norran
+- Så mycket kommer SL-kortet kosta 2027 - Dagens Nyheter
+- Regeringskrisens verkliga namn är Thand Ringqvist - Dagens Arena
+- Expert: Valfiaskot öppnar dörren för Ron DeSantis - Dagens Nyheter
 - Danmark: Klart nästa vecka med läger för utvisade - Göteborgs-Posten
+- Zelenskyj: ”Den ryske bossen är arg” - Corren
 - Frankrike: Bombhot mot tågstation - Västerbottens-Kuriren
-- Nytt bostadspaket i Spanien efter protester - Göteborgs-Posten
-- Zelenskyj vill ha Europa vid bordet – oenighet om Putinförhandlare - Europaportalen
-- Nvidias vd Jensen Huang avgår efter otrohetsaffärer - Dagens Nyheter
-- Oro på bageriet inför vinterns elpriser: ”Vi är maktlösa” - SVT Nyheter
-- SJ kör nattågen till Tyskland igen – med färre avgångar - Tidningen Syre
-- Flat Capital investerar 10 MSEK i TypeSafe – grundat av en av forskarna bakom ChatGPT (MFN) - Aktiellt
+- Uppgifter: Jensen Huang hade relation med ytterligare en medarbetare - EFN
+- Höga elpriser oroar villaägarna - Tidningen Energi
+- Anthropic ”unik på alla sätt” för Tioex - Finanswatch.se
+- Börsen på nytt rekord – trots Nvidiahärvan - Västerbottens-Kuriren
 - Så undviker du att GTA går ut över din kärleksrelation - Sveriges Radio
 - ”Zelda: Ocarina of time” har sålt 5,2 miljoner ex på fyra dagar - Aftonbladet
 
 ## World News
 
+- Hurricanes vann första Global Series-ronden - NHL.com
 - Aho en hyllad värd under Global Series - NHL.com
 - Larsson inför första nedsläpp i Global Series: ”Tuff utmaning" - NHL.com
 - Kraken balanserar nytta med nöje under Global Series - NHL.com
 - Nästan hemmaplan för Ehlers under Global Series - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Finnairs kunduppgifter kom ut i global dataläcka - Yle
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - 1 426 potential victims identified in global operation against human trafficking - Europol
 - Trump celebrates Messi, revels in Inter Miami’s “good looks” - Reuters
 - Larsson unik under Global Series – ende svensken - NHL.com
-- Perfekt genrep inför Global Series för Hurricanes - NHL.com
+- Ehlers prickar in första Global Series-målet - NHL.com
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Global Series – en chans för Kraken att bonda - NHL.com
 
@@ -51,7 +51,6 @@ _Updated: 2026-11-12 22:16_
 - Vietnam ansluter sig till de 50 största ekonomierna inom digital och AI-konkurrenskraft. - Vietnam.vn
 - AI-explosion på svenska arbetsplatser - Computer Sweden
 - Tre år med AI: Vad har hänt med jobben? - Almega
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Förordningen om artificiell intelligens - Council, European Union
 - Bästa AI-aktierna att köpa nu - Morningstar
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
@@ -63,8 +62,9 @@ _Updated: 2026-11-12 22:16_
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Utvecklare gömde fälla för AI-agenter i öppen källkod - Computer Sweden
 - Vietnam rankas som nummer 37 i världen inom digital konkurrenskraft och artificiell intelligens. - Vietnam.vn
-- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
+- Artificial intelligence will not turn into a Frankenstein's monster | Alan Winfield - The Guardian
 - Vietnam rankas som nummer 37 i världen när det gäller digital och AI-konkurrenskraft. - Vietnam.vn
+- Vice premiärminister: Vietnam rankas som 37:e i digital konkurrenskraft, men vi får inte vara självbelåtna. - Vietnam.vn
 
 ## Business
 
@@ -84,8 +84,8 @@ _Updated: 2026-11-12 22:16_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Hälso- och sjukvård - Moderaterna
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Fonderna som investerar i megatrenden - Avanzabloggen
@@ -97,10 +97,10 @@ _Updated: 2026-11-12 22:16_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Science fiction i verkligheten - Forskning & Framsteg
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - AI för vetenskaplig forskning och upptäckter - OpenAI
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- 5 myter om öppen vetenskap - Läkartidningen
 - European School of Sustainability Science and Research - Åbo Akademi
 
 ## Jordbruk
