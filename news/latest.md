@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-13 00:52_
+_Updated: 2026-11-13 05:34_
 
-- Brooklyn building collapse in Flatbush live updates: 2 kids among 8 dead - ABC7 New York
-- Live updates: D.C. gunman had long-running disputes with condo building, police say - The Washington Post
-- Hegseth awards medal to soldier who reprimanded his group at Tomb of the Unknown Soldier - CBS News
-- Trump says US does not need Iran deal, directs Vance to focus on domestic corruption - Reuters
+- Sen. Chris Van Hollen says he will challenge Sen. Chuck Schumer for majority leader - NBC News
+- Matt Lambert, 55, identified as gunman after 1 killed and 4 injured in DC shooting - CNN
 - Before Scott Colom, these two men were the last black US senators from Mississippi - BBC
-- The SS United States takes its final voyage to the bottom of the Gulf of Mexico - NPR
-- With Jim Jordan as leader, House Republicans signal they're ready to fight - CBS News
+- Officials End Rescue Operations at Site of Fatal Building Collapse in Brooklyn - The New York Times
+- Cindy Holscher wins in Kansas, holding governor’s office for Democrats - NPR
+- Hegseth awards medal to soldier who admonished him, his team at Tomb of the Unknowns - The Washington Post
+- Tim Scott summons Jensen Huang, Howard Lutnick to testify over Nvidia saga - Politico
+- Oklahoma dismisses murder charge against former death row inmate Richard Glossip - NBC News
 - Cities Have a New Tactic to Block ICE Jails: Run Out the Clock - The New York Times
-- Hegseth survives the battle. Democrats aren’t done with the war - The Hill
-- Putin takes hard line in US talks as Ukraine says Starlink disrupted again - The Guardian
+- Trump bluntly tells JD Vance to shift focus from Iran to targeting 'corruption and crime' at home - AP News
+- After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war - The Washington Post
 - Indonesia's VP resigns as his eligibility and academic credentials are questioned - NPR
-- Israel hits Gaza hospital and France turns away a settler leader, and other Mideast news - AP News
-- Two guards collapse beside Macron during official welcoming ceremony - Euronews.com
-- Nvidia live updates: Following Jensen Huang's resignation as CEO, allegations of a third affair emerge - Yahoo Finance
-- Stock market has a 'worrisome' focus on Anthropic IPO, Ariel Investments' Mellody Hobson says - Yahoo Finance
-- US home sales fall to lowest level since 2010 as mortgage rates soar - Financial Times
-- Data Centers Will Continue to Be Built, Despite Midterm Elections - The New York Times
-- Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email - WIRED
+- Burnham is blasted over Piddington migrant camp approval by council boss: ‘Any sexual violence will be on your head’ - The Sun
+- Watch: 17-year-old camper rescued after going missing for nearly a week in the Australian wilderness - FOX Weather
+- ‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return - WIRED
+- Is Outlook down? Widespread outage hits Microsoft email and other apps - NPR
+- Home sales hit 16-year low in October amid record-high mortgage rates - The Guardian
+- Stock futures rise after market dips amid Nvidia woes: Live updates - CNBC
 - Apple HomeView Review: A Versatile Smart Display And Siri-Powered Home Hub - Engadget
-- One UI 9.5 might finally fix the one thing I hate about Samsung Keyboard - PhoneArena
+- Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash - Ars Technica
