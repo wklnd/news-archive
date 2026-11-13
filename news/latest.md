@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-13 13:32_
+_Updated: 2026-11-13 20:45_
 
-- Van Hollen will challenge Schumer to lead Senate Democrats - The Washington Post
-- Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy - BBC
-- From Emmett Till to Robert Johnson, the Delta powered Scott Colom's historic Senate bid - Axios
-- Cindy Holscher wins in Kansas, holding governor’s office for Democrats - NPR
-- Matt Lambert, 55, identified as gunman after 1 killed and 4 injured in DC shooting - CNN
-- Brooklyn building collapse: 2 children, 6 men killed in Flatbush - ABC7 New York
-- Trump bluntly tells JD Vance to shift focus from Iran to targeting 'corruption and crime' at home - AP News
-- California Could Face 50-Foot Waves as Storms Slam Its Coast - The New York Times
-- Peltola, Kreiss-Tomkins grow leads after latest ballot counts in Alaska - Anchorage Daily News
-- US envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin - AP News
-- US Army officer involved in alleged Russian spying scheme identified: Reports - The Hill
+- Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed - The New York Times
+- Van Hollen to challenge Schumer for Senate Democratic leader - AP News
+- Trump on Colom’s Mississippi Senate win: ‘I give him a lot of credit’ - The Hill
+- D.C. gunman attributed attack to frustrations with building maintenance - The Washington Post
+- Hegseth awards medal to soldier who chastised him - NPR
+- Jeffries shredded over Hegseth impeachment snafu as Dem jockeys for speaker’s gavel - Fox News
+- Alex Murdaugh wants murder indictments dismissed, saying agent lied to grand jury - ABC News - Breaking News, Latest News and Videos
+- El Niño Drives Record-Shattering Ocean Heat off San Francisco Coast - KQED
+- A Restaurant Hosted Ramaswamy After His Attack Ad. It’s Paying a Price. - The New York Times
+- Brooklyn building collapse has residents questioning pace of development - Gothamist
+- Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ - NBC News
+- The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It. - The New York Times
+- Scoop: Israeli spy chief in D.C. as Netanyahu presses Trump to resume war - Axios
 - China stages unannounced Pacific drills in 'silent intimidation' of Taiwan, officials say - Reuters
-- Kim Jong Un Remakes North Korea’s Flag, Ditching Soviet-Era Version - WSJ
-- Trump says he spoke to Jensen Huang on Wednesday: ‘He’s going through hell’ - Business Insider
-- Global Microsoft outage leaves millions without access to Outlook email, Teams and other tools - CNN
-- Stock futures mixed after markets slide amid Nvidia woes: Live updates - CNBC
-- Alice Huang-Linked Firm Procured Banned Nvidia Chips in China - Bloomberg.com
-- I reviewed the Apple HomeView, ask me anything - The Verge
-- Wolfenstein 3 Is Now "Officially In Production" At MachineGames - Nintendo Life
-- Logitech Gives Its Employees a Day Off for Grand Theft Auto 6 Launch - CNET
+- Jensen Huang Lost His Job. Wall Street Lost Its Biggest Prize. - The New York Times
+- Stock Market Today: Nvidia Slides Again as Investors Brace for More Fallout; Nasdaq Slumps— Live Updates - WSJ
+- Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years - CNBC
+- Anthropic IPO Share Orders From China Are Said to Be Rebuffed - Bloomberg.com
+- Why Apple's HomeView Relies So Heavily On Your iPhone - Engadget
+- The Motorola Signature 27 Is A Beast - Engadget
