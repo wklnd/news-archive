@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-14 21:28_
+_Updated: 2026-11-15 01:23_
 
-- Peltola holds nearly 4-point lead on Sullivan in latest ballot drop - The Hill
-- US has floated Ukraine ceding Donbas for Nato membership, Zelensky says - BBC
+- Bomb found near ethanol plant in central Illinois forces evacuations - NPR
+- 'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision - BBC
+- Democrat Mary Peltola is likely to win Alaska’s Senate race, as vote counting continues - NBC News
 - Stephen Miller faces first crisis as White House chief of staff - The Washington Post
-- Hegseth's failed impeachment was a warning to Democrats. Where will they go from here? - NPR
 - Trump-Xi-Putin trilateral meeting at APEC: What to expect - Al Jazeera
-- Peoria police urge evacuations after 'credible' bomb threat at Illinois plant - ABC News - Breaking News, Latest News and Videos
+- California’s battered beaches are getting giant waves - The Washington Post
 - Thousands of Flights Are Canceled After Friday’s Nationwide Ground Stop: Live Updates - The New York Times
-- Port of New Orleans sues tanker owners for over $1M after cruise ship crash - WWLTV.com
-- Van Hollen rules out 2028 presidential run - Politico
-- MAGA turns on Lutnick amid China spy scandal - Axios
-- Italy fines Meta $887 million over Android users' data access - Reuters
+- Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop - The New York Times
+- ‘We must deliver’: jubilant Democrats gather in Denver to chart way forward - The Guardian
+- Perhaps the Rumors of Democracy’s Demise Were Premature - The New York Times
 - Pope’s visit to hub of Afro-Peruvian community casts spotlight on African slave trade to Peru - AP News
-- Fuel crisis and protests pressure Chile's far-right president - NPR
-- 2 Americans die in suspected drowning incident in the Bahamas - CBS News
-- Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors - CNBC
-- The Microsoft outage didn’t lose your email — here’s what it does mean for you - Yahoo Finance
-- SpaceX Starship Flight 15 live updates: Starship heat shield looks good for landing attempt today - Space
-- Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home - CNBC
-- Razer's New Gaming Chair Rattles Your Spine and Blasts Your Ears in Pursuit of 'Immersion' - Gizmodo
-- Zelda: Ocarina of Time Remake Sells 5 Million in Four Days, Yet Former Nintendo Leads Say The Series Sold "Like Nothing" Before Breath of the Wild - Wccftech
+- Italy fines Meta €805m over accessing users' photos - BBC
+- Live Updates: Netanyahu says it's time to remove Iran threat "once and for all" - CBS News
+- U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says - CBS News
+- 'Now everything changes': SpaceX catches Starship upper stage for 1st time ever - Space
+- Tech Leaders Rally Behind Jensen Huang - The New York Times
+- Microsoft says services fully restored after hourslong global outage - AP News
+- Blumenthal says Lutnick ‘must go’ following Nvidia scandal - The Hill
+- Apple Black Friday Starts Early: Save on Apple Watch, MacBook Air, and More - MacRumors
+- How I Used AI to Make My Grandson a Children’s Book for Less Than $200 - WSJ
