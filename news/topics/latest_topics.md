@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-14 05:27_
+_Updated: 2026-11-14 12:47_
 
 ## Top Stories
 
-- Totalt flygstopp i USA - SVT Nyheter
-- Krock mellan oljetanker och kryssningsfartyg i USA - Göteborgs-Posten
-- 44 dödade i eboladrabbade Kongo-Kinshasa - Göteborgs-Posten
-- DN Direkt – Skottlossning mot flerfamiljshus i Stockholm - Dagens Nyheter
-- Möte mellan Putin, Xi och Trump i nästa vecka - SVT Nyheter
-- Alla lokalbussar i Umeå inställda i snöovädret - Sveriges Radio
-- Thand Ringqvist (C) har tagit emot totalpaket av S och M - Göteborgs-Posten
-- Andersson: Ny regering ligger inom räckhåll - UNT
-- Pojke begärs häktad efter dödsskjutning - SVT Nyheter
-- Mats Knutson: C är djupt splittrat – Senaste nytt om valet 2026 - SVT Nyheter
-- Direkt – Kriget i Ukraina – Fem länder och EU talar för Europa i förhandlingarna - Dagens Nyheter
-- Påven om sin hälsa: ”Håller på att övervinna” - Göteborgs-Posten
-- Ryssland: Fyra dödade i ukrainsk attack - Hufvudstadsbladet – HBL
-- Nederländernas regering räddad – tillfälligt - SVT Nyheter
+- Trafikkaos och besvärligt väglag efter snösmockan - Omni – Alla nyheter. Alla perspektiv.
+- Flygstopp i hela USA: ”Inga tecken på fientlig attack” - Dagens Nyheter
+- Vill Elisabeth Thand Ringqvist sätta eld på sitt eget parti? - Arbetet
+- 14 november 07.03, Trafikolycka, Örkelljunga - polisen.se
+- Zelenskyj: Putin lär ta upp Sverige i samtalen - Dagens Nyheter
+- USA förlorar sin status som mässlingsfritt - SVT Nyheter
+- Idrottsledare dömd för våldtäkt mot barn - Göteborgs-Posten
+- 14 november 00.53, Försvunnen person, Kristianstad - polisen.se
+- VERONICA PALM: Partierna sonderar – men väntan har ett pris - Corren
+- Två gripna misstänkta för mord på kvinna - Västerbottens-Kuriren
+- Direkt – Kriget i Ukraina – Möte mellan Putin, Xi och Trump i nästa vecka - Dagens Nyheter
+- ”Magas ideolog” – här är Trumps nye stabschef - Göteborgs-Posten
+- Viktigast i veckan: Europas sändebud redo – Sveriges klimatpolitik får bakläxa - Europaportalen
+- DN Direkt – Meteorologen: Här blev det snörekord - Dagens Nyheter
 - Bessent pekar ut Lutnick för AI-läckage till Kina - Svenska Dagbladet
-- Anders Hägerstrand: Dags att ta krafttag mot elpriserna - EFN
-- Simon Campanello: Så drabbas världen av Microsofts it-haveri - Dagens Nyheter
-- Anthropics IPO stoppar investerare från Kina och Hongkong - Affärsvärlden
-- GTA VI lanseras nästa vecka – Elgigantens gamingexpert tipsar om hur du förbereder dig inför spelstarten - Via TT
-- Spelstudion gör nytt ”Wolfenstein” - Västerbotten | Folkbladet
+- DN Direkt – Facket: Hemarbete får fler att jobba heltid - Dagens Nyheter
+- Saab-bolaget anställer upp till 600 nästa år – AI-kompetens söks - Dagens PS
+- Microsofts problem fortsätter – ber om ursäkt - Hufvudstadsbladet – HBL
+- GTA VI lanseras nästa vecka – gamingexpert tipsar om hur man förbereder sig - Örebronyheter
+- Bioljud i tv-soffan – vi har testat 13 soundbars - Expressen
 
 ## World News
 
 - Krönika: Global Series lyser upp höstmörkret - NHL.com
+- Egna spelet ska ge Kraken revansch i Global Series - NHL.com
 - Hurricanes vann första Global Series-ronden - NHL.com
-- DeChambeau och Rahm i Eichenried? Vad som är möjligt för BMW International Open efter LIV-utträdet - www.golfpost.com
 - Aho en hyllad värd under Global Series - NHL.com
-- Larsson unik under Global Series – ende svensken - NHL.com
 - Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
 - Larsson inför första nedsläpp i Global Series: ”Tuff utmaning" - NHL.com
-- Nästan hemmaplan för Ehlers under Global Series - NHL.com
+- Dräkten som tog Kaj från Delsbo till global Cosplayfinal - SVT Nyheter
+- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Nästan hemmaplan för Ehlers under Global Series - NHL.com
 - NHL-kommentaren: Inget Global Series-lag har landat i Finland i lika stark form som Carolina Hurricanes - Yle
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Trump celebrates Messi, revels in Inter Miami’s “good looks” - Reuters
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
-- Egna spelet ska ge Kraken revansch i Global Series - NHL.com
-- Kraken balanserar nytta med nöje under Global Series - NHL.com
+- Larsson unik under Global Series – ende svensken - NHL.com
 - Ehlers prickar in första Global Series-målet - NHL.com
+- Kraken balanserar nytta med nöje under Global Series - NHL.com
+- SEA-CAR | Global Series-höjdpunkter - NHL.com
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Global Series – en chans för Kraken att bonda - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 
 ## Technology
 
@@ -54,15 +54,14 @@ _Updated: 2026-11-14 05:27_
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - AI-explosion på svenska arbetsplatser - Computer Sweden
 - Tre år med AI: Vad har hänt med jobben? - Almega
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Förordningen om artificiell intelligens - Council, European Union
 - Bästa AI-aktierna att köpa nu - Morningstar
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
 - AI och halvledare: Drivkraften bakom att förverkliga målet med "Make in Vietnam"-chips. - Vietnam.vn
-- Sandvik AI investments - smarter Industry solutions - Sandvik Group
 - Artificiell intelligens: Möjligheter och risker - European Parliament
+- Sandvik AI investments - smarter Industry solutions - Sandvik Group
 - Karim Jebari - Institutet för framtidsstudier
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Boosting AI with supercomputers - Council, European Union
@@ -97,7 +96,6 @@ _Updated: 2026-11-14 05:27_
 
 ## Science
 
-- Öppen vetenskap vid SLU - SLU
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - AI för vetenskaplig forskning och upptäckter - OpenAI
@@ -105,6 +103,7 @@ _Updated: 2026-11-14 05:27_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- 5 myter om öppen vetenskap - Läkartidningen
 - European School of Sustainability Science and Research - Åbo Akademi
 
 ## Jordbruk
@@ -117,4 +116,5 @@ _Updated: 2026-11-14 05:27_
 - Jord, kor och klimat - SLU
 - Här är världens största jordbruk - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Visning av uppkomst efter direktsådd - Land.se
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
