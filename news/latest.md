@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-14 09:00_
+_Updated: 2026-11-14 16:30_
 
-- River cruise ship, tanker crash in New Orleans on Mississippi River; passengers rescued - CBS News
-- Bessent accuses Lutnick of failing to prevent China from obtaining Nvidia chips - PBS
+- Hegseth's failed impeachment was a warning to Democrats. Where will they go from here? - NPR
+- 'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision - BBC
+- The senators who could join Van Hollen's insurgency against Schumer - Axios
+- Mary Peltola’s Lead Widens as Alaska Senate Vote Count Continues - The New York Times
+- 'He was a light' | Those who knew Logan Circle shooting victim James 'Jimmy' Stuart vow to never forget him - WUSA9
+- Bomb threat prompts mandatory evacuation order in one-mile radius in and near Peoria, Illinois - CBS News
+- Disruptions Persist as Air Travel Recovers from Nationwide Ground Stop: Live Updates - The New York Times
 - Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican - NPR
-- Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ - NBC News
-- Sixth victim confirmed in DC condo-related shooting in US, police say - Al Jazeera
-- ‘A long conversation’: Senate Democrats gird for protracted Schumer-Van Hollen fight - Politico
-- Nationwide Ground Stop Lifted At Airports—Here’s What We Know After Flights Halted - Forbes
-- Developer Avoided Stricter Oversight Before Fatal Building Collapse - The New York Times
-- How "Banana Man" took a small Indiana town by storm: "I didn't expect to be a banana" - CBS News
-- Woman in truck that crashed into soccer field, killing 2, won’t face charges - The Washington Post
-- Trump to have first trilateral meeting with Putin, Xi - The Washington Post
-- What's Trump's strategy now with Iran? To keep things as they are - NPR
-- Europe and Ukraine get a boost in peace talks, but Putin is playing for time - CNN
-- China stages unannounced Pacific drills in 'silent intimidation' of Taiwan, officials say - Reuters
-- Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China - The Washington Post
-- Microsoft 'deeply sorry' for global outage as it reports broad recovery - BBC
-- Setback for SpaceX reusable rocket system despite successful launch - DW.com
-- Family Dollar to pay $63 million to settle claims it overcharged customers - CBS News
-- Why Apple's HomeView Relies So Heavily On Your iPhone - Engadget
-- Apple Releases tvOS 27.2.1 With Siri AI for Older Apple TVs - MacRumors
+- Man whose wife, son were injured in Brooklyn building collapse wants answers: "The building had no reason to fall on its own" - CBS News
+- MAGA turns on Lutnick amid China spy scandal - Axios
+- A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting - Reuters
+- Pope’s visit to hub of Afro-Peruvian community casts spotlight on African slave trade to Peru - AP News
+- US floats Nato membership for Donbas withdrawal deal, Zelenskyy says - Financial Times
+- Live Updates: 3 oil tankers hit mines in Strait of Hormuz, Iran says - CBS News
+- In Jensen Huang’s Ouster, Tech Billionaires See a Mistake—and a Lesson - WSJ
+- Microsoft says services fully restored after global outage hits governments - The Guardian
+- Should You Really Buy Nvidia Stock After CEO Jensen Huang's Exit? Wall Street Has a Clear Answer for Investors. - Yahoo Finance
+- SpaceX Starship Flight 15 live updates: Starship heat shield looks good for landing attempt today - Space
+- Hands on with Home Assistant’s new ‘smart home multi-tool’ - The Verge
+- Space Shuttle Endeavour new LA home opens at California Science Center in Exposition Park - ABC7 Los Angeles
