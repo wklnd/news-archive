@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-13 20:45_
+_Updated: 2026-11-14 02:27_
 
-- Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed - The New York Times
-- Van Hollen to challenge Schumer for Senate Democratic leader - AP News
-- Trump on Colom’s Mississippi Senate win: ‘I give him a lot of credit’ - The Hill
-- D.C. gunman attributed attack to frustrations with building maintenance - The Washington Post
-- Hegseth awards medal to soldier who chastised him - NPR
-- Jeffries shredded over Hegseth impeachment snafu as Dem jockeys for speaker’s gavel - Fox News
-- Alex Murdaugh wants murder indictments dismissed, saying agent lied to grand jury - ABC News - Breaking News, Latest News and Videos
-- El Niño Drives Record-Shattering Ocean Heat off San Francisco Coast - KQED
-- A Restaurant Hosted Ramaswamy After His Attack Ad. It’s Paying a Price. - The New York Times
-- Brooklyn building collapse has residents questioning pace of development - Gothamist
+- Live updates: No timeline for resolving nationwide ground stop as flight cancellations climb - CNN
+- River cruise ship, tanker crash in New Orleans on Mississippi River; rescues are underway - CBS News
+- Trump’s top economic advisers clash over Lutnick’s handling of Nvidia - The Washington Post
+- Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race - The Guardian
+- Colom: ‘Not accurate’ to say Schumer recruited him - The Hill
+- Supreme Court will consider Trump’s executive order suspending asylum access at the southern border - AP News
+- Weekend storm brings season’s first widespread freeze to millions across U.S. - NBC News
+- The senators who could join Van Hollen's insurgency against Schumer - Axios
+- The historic El Niño is bringing huge waves — and could reshape California beaches - San Francisco Chronicle
+- Fearing deportation, immigrant family killed in Brooklyn building collapse felt safest at home - Gothamist
 - Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ - NBC News
-- The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It. - The New York Times
-- Scoop: Israeli spy chief in D.C. as Netanyahu presses Trump to resume war - Axios
-- China stages unannounced Pacific drills in 'silent intimidation' of Taiwan, officials say - Reuters
-- Jensen Huang Lost His Job. Wall Street Lost Its Biggest Prize. - The New York Times
-- Stock Market Today: Nvidia Slides Again as Investors Brace for More Fallout; Nasdaq Slumps— Live Updates - WSJ
-- Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years - CNBC
-- Anthropic IPO Share Orders From China Are Said to Be Rebuffed - Bloomberg.com
+- US Army names officer held on ‘allegations of espionage’ - Defense News
+- Russia Revives Demand That NATO Retrench to Secure Ukraine Deal - The New York Times
+- Man dies after eating crude bomb disguised as traditional Indian sweet - CBS News
+- Microsoft outage shows the risks of relying on a single technology provider for essential services - AP News
+- It’s Clear Who’s Ultimately to Blame for the Nvidia Scandal. And It Isn’t Jensen Huang. - Slate Magazine
+- Nvidia stock slips as investors digest CEO exit, broader chip sell-off accelerates - Yahoo Finance
+- Anthropic CEO Calls Computing Power ‘Deepest Business Dilemma’ - Bloomberg.com
 - Why Apple's HomeView Relies So Heavily On Your iPhone - Engadget
-- The Motorola Signature 27 Is A Beast - Engadget
+- Gmail’s Material 3 Expressive settings redesign is starting to reach Android users - Android Authority
