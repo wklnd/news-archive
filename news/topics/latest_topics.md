@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-14 19:15_
+_Updated: 2026-11-14 23:38_
 
 ## Top Stories
 
+- DN Direkt – Ministern: Flygtrafiken helt i gång - Dagens Nyheter
 - V säger emot Andersson: ”Tolkningen felaktig” - Göteborgs-Posten
-- DN Direkt – S, MP och C vill riva upp Tidös regler för arbetskraftsinvandring - Dagens Nyheter
-- Larm om bilbrand – Emporia utryms - Sydsvenskan
+- Man hittad skadad i skog i Karlskrona – en gripen - Omni – Alla nyheter. Alla perspektiv.
+- En död efter röktuveckling på båt på Tjörn - SVT Nyheter
 - Vill Elisabeth Thand Ringqvist sätta eld på sitt eget parti? - Arbetet
-- En person död efter tågolycka - Skillingaryd.nu
-- 14 november 07.03, Trafikolycka, Örkelljunga - polisen.se
-- Damberg: Vi kommer att stoppa en borgerlig budget - Västerbottens-Kuriren
+- ”Vi kan starta massproduktion av ballistiska missiler om några månader” - Dagens Nyheter
+- S, MP och C vill riva upp Tidös regler för arbetskraftsinvandring - Dagens Nyheter
+- Damberg: Vi kommer att stoppa en borgerlig budget - Göteborgs-Posten
+- Svaret förbluffar forskarna – därifrån kom vikingarna - Västerbottens-Kuriren
 - Pojke begärs häktad efter dödsskjutning - SVT Nyheter
-- DN Direkt – Misstänkt mordförsök i Karlskrona - Dagens Nyheter
-- I dag: Halva byn blev utan ström - Västerbottens-Kuriren
-- USA förlorar status som mässlingsfritt land - Hufvudstadsbladet – HBL
-- Zelenskyj: Putin lär ta upp Sverige i samtalen - Dagens Nyheter
-- Viktigast i veckan: Europas sändebud redo – Sveriges klimatpolitik får bakläxa - Europaportalen
 - Trump, Xi och Putin i historiskt toppmöte - Dagens Nyheter
-- Experten efter strulet: ”Kan smälla hårt” - Göteborgs-Posten
+- Unga söker hopp – ber om fast jobb vid templet i Peking - Dagens Nyheter
+- EU kräver att Israel tillåter nödhjälp till Gaza – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Viktigast i veckan: Europas sändebud redo – Sveriges klimatpolitik får bakläxa - Europaportalen
 - Stoppet på Forsmark 3 kan ge ”dubbel effekt” på elpriset - Omni – Alla nyheter. Alla perspektiv.
-- Förvaltaren ser inte köpläge i Nvidia: ”Vänta och se” - DI
-- Googlechef öppnar för kärnkraft för el till datacentret i Torsboda - SVT Nyheter
-- GTA VI lanseras nästa vecka – gamingexpert tipsar om hur man förbereder sig - Örebronyheter
-- Spelstudion gör nytt ”Wolfenstein” - Västerbottens-Kuriren
+- Pensionsfonder tunga i AI-bolag – miljarder upp i rök - Dagens Nyheter
+- BMW återkallar drygt 720 000 bilar: Brandrisk - SVT Nyheter
+- Italienska jätteböter för Meta - Hufvudstadsbladet – HBL
+- Därför är GTA mer än ett våldsamt spel – det är en spegel av vår tid - Borås Tidning
+- Mobilen står åtalad i flera processer – nu faller domarna - Illustrerad Vetenskap
 
 ## World News
 
@@ -31,16 +31,16 @@ _Updated: 2026-11-14 19:15_
 - Egna spelet ska ge Kraken revansch i Global Series - NHL.com
 - Hurricanes vann första Global Series-ronden - NHL.com
 - Aho en hyllad värd under Global Series - NHL.com
+- PRESS RELEASE: Global Finance Names The World’s 50 Safest Commercial Banks 2026 - Global Finance Magazine
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
 - Larsson inför första nedsläpp i Global Series: ”Tuff utmaning" - NHL.com
 - Dräkten som tog Kaj från Delsbo till global Cosplayfinal - SVT Nyheter
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Ehlers prickar in första Global Series-målet - NHL.com
 - Larsson unik under Global Series – ende svensken - NHL.com
-- Nästan hemmaplan för Ehlers under Global Series - NHL.com
 - Kraken balanserar nytta med nöje under Global Series - NHL.com
+- Nästan hemmaplan för Ehlers under Global Series - NHL.com
 - SEA-CAR | Global Series-höjdpunkter - NHL.com
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
@@ -54,15 +54,14 @@ _Updated: 2026-11-14 19:15_
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - AI-explosion på svenska arbetsplatser - Computer Sweden
 - Bästa AI-aktierna att köpa nu - Morningstar
-- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - Artificiell intelligens: Möjligheter och risker - European Parliament
+- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Anthropic och OpenAI stäms för påstådda patentintrång - Placera.se
-- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Karim Jebari - Institutet för framtidsstudier
 - Sandvik AI investments - smarter Industry solutions - Sandvik Group
 - Boosting AI with supercomputers - Council, European Union
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Artificial intelligence will not turn into a Frankenstein's monster | Alan Winfield - The Guardian
 
@@ -84,10 +83,10 @@ _Updated: 2026-11-14 19:15_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Hälso- och sjukvård - Moderaterna
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Global katastrofmedicin - hälsobehov och insatser – Johan von Schreebs forskargrupp - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Fonderna som investerar i megatrenden - Avanzabloggen
 - Gör ChatGPT gratis for vårdpersonal - OpenAI
