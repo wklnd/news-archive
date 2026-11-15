@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-15 19:59_
+_Updated: 2026-11-16 01:10_
 
-- Trump breaks silence on nationwide ground stop and demand more money from Congress - AP News
+- Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history' - BBC
 - Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business - The New York Times
-- Video: Dangerous waves, biggest in a decade, flood Bay Area streets and threaten homes - San Francisco Chronicle
-- El Niño still growing stronger. Here's what could happen next - USA Today
-- Age of consent: Pat McFadden says changes to law will be discussed after Brand allegations - BBC
+- Photos, videos show mammoth waves hitting Bay Area shoreline - SFGATE
+- Iran vows ‘we will find you’ to 2 US Navy officers the day warship returns from Middle East - Fox News
 - US judge blocks Trump’s plan to renovate historic DC golf course - The Guardian
-- Transportation secretary says he doesn’t apologize for FAA’s nationwide ground stop - NBC News
+- Trump breaks silence about FAA nationwide ground stop, blames Biden administration - CNBC
+- Thousands of US flights cancelled or delayed two days after grounding of planes nationwide - BBC
 - Two planes collide on taxiway at Miami airport one day after national grounding - The Guardian
-- Van Hollen says ‘bunch of nonsense’ that he can’t win Senate majority leader - The Hill
-- Poll: Midterm losses deepen divide between MAGA and non-MAGA Trump voters - Politico
-- Pope crosses Peru in finale of trip home to visit flock high in Andes and deep in Amazon - Politico
-- In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park - The New York Times
-- ‘It is not unusual to go 48 hours with little sleep’: what it’s like to cover a Cop climate summit - The Guardian
+- Sen. Bill Cassidy slams RFK Jr. for "series of failures" as Health Secretary - CBS News
+- After Her Baby Was Buried Alive, a South Carolina Mother Wonders Why - The New York Times
+- 3 Men Sentenced to Death Over Church Attack in Jordan - The New York Times
 - Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia? - Al Jazeera
-- ‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick - The Guardian
-- Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot - CNBC
-- Bessent Says Nvidia Needs ‘Dramatic Shakeup’ After Huang Ouster - Bloomberg.com
-- South Korea's top scorer in tax accountancy exam admits cheating - BBC
+- Hundreds of Thousands Protest Cuts to Public Broadcasting - Newser
+- Foreign leaders look beyond Trump on his Asian meeting spree - Politico
+- Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports - Reuters
+- Bessent questions did Nvidia "goose" earnings with suspect China chip sales - Axios
+- Anthropic Is About to Become the World’s Most Important AI Stock - Bloomberg.com
+- Megaspeed Says Alice Huang Left Company in August 2025 - The New York Times
 - The tech products we enthusiastically recommend this holiday season - TechCrunch
-- The Motorola Signature 27 Is A Beast - Engadget
+- Windows 11 “SignDrop” Zero-Day Exploit Turns Microsoft’s Own Security Fix Against Itself, Grants SYSTEM Privileges - Wccftech
