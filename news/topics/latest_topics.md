@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-15 11:45_
+_Updated: 2026-11-15 19:20_
 
 ## Top Stories
 
-- Elisabeth Thand Ringqvist är van att leda kupper mot Centerpartiet - Arbetet
-- Mamma och son rånade två personer i natt - Corren
-- Man påkörd i centrala Stockholm – polisen utreder mordförsök - SVT Nyheter
-- Körde in i stillastående bil – en allvarligt skadad - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Iran: Attackerat militärbas i Bahrain - Dagens Nyheter
-- Drev och stalkers nära att knäcka Linnéa Claeson - Göteborgs-Posten
-- Lärarlag sjukskrevs efter våldsamma 8-åringar - Dagens Nyheter
-- Pojke begärs häktad efter dödsskjutning - SVT Nyheter
-- Just nu: Stopp i ett körfält på grund av en stillastående lastbil på E4 - NT
-- DN Direkt – Uppgifter: Det ingår i S ”totalförslag” till C - Dagens Nyheter
+- DN Direkt – Centern möts i dag - ska fatta beslut om regeringsfrågan - Dagens Nyheter
+- Estland stänger gränsen mot Ryssland i december - SVT Nyheter
+- Torbjörn Petersson: Xi Jinping deltar bara i möten om han vet hur de slutar - Dagens Nyheter
+- Dansk butik rånad på Pokémonkort för miljonbelopp - Göteborgs-Posten
+- Misstänkt häktad för medhjälp till Älvsjömord - TV4 Nyheterna
+- Iran: Tankfartyg sjönk i Hormuz - Göteborgs-Posten
+- 74-årig kvinna i Kortedala fortfarande försvunnen - Göteborgs-Posten
+- Forssmeds attack mot S: Försöker skrämma C och V till underkastelse – Senaste nytt om valet 2026 - SVT Nyheter
+- Just nu: Stopp i ett körfält på grund av en stillastående personbil på E4 - NT
+- Svenska soldater reser till Nato-uppdrag: Avskräcka ryska angrepp - Dagens Nyheter
+- Dubbla olyckor i Göteborgsbacken i Jönköping – krockade med tappat hjul - SVT Nyheter
+- Bussåkande hästar väckte förvåning - Dagens Nyheter
+- Hamastopp död i israelisk attack - Västerbottens-Kuriren
 - Adam Cwejman: Tvåtusen år av kristen historia i Mellanöstern blir en fotnot - Göteborgs-Posten
-- ”Västvärldens uppgift är att sätta busen Putin på plats” - Dagens Nyheter
-- Experten: Så sabbar du ett klimattoppmöte - Göteborgs-Posten
-- Viktigast i veckan: Europas sändebud redo – Sveriges klimatpolitik får bakläxa - Europaportalen
 - Nya kreditlagen – lön och boende måste anges - Dagens Nyheter
-- Här är jobben där personal saknas – lön upp till 98 000 kronor - Dagens PS
-- Historisk rymdfärd för Elon Musks Space X - Omni – Alla nyheter. Alla perspektiv.
-- Pensionsfonder tunga i AI-bolag – miljarder upp i rök - Dagens Nyheter
-- Är vi alla utomjordingar? Tänk om livet är en galaktisk pandemi | Kvanthopp - Yle Arenan
+- Anthropic till börsen: Stresstest för AI-marknaden - Svenska Dagbladet
+- Jätten satsar på segel – för att klara klimatmål - Svenska Dagbladet
+- Uppgift: Lutnick kan hänga löst efter Nvidia-soppan - Omni – Alla nyheter. Alla perspektiv.
 - Därför är GTA mer än ett våldsamt spel: ”Satir” - Borås Tidning
+- Koraller kan rädda varandra från döden – ”donerar” alger - SVT Nyheter
 
 ## World News
 
-- Andra raka Global Series-segern för Hurricanes - NHL.com
+- Aho, Hurricanes glänste under Global Series - NHL.com
 - Dräkten som tog Kaj från Delsbo till global Cosplayfinal - SVT Nyheter
+- Andra raka Global Series-segern för Hurricanes - NHL.com
 - Krönika: Global Series lyser upp höstmörkret - NHL.com
-- Egna spelet ska ge Kraken revansch i Global Series - NHL.com
 - VIFC-HCMC:s ambition att bli en global talangportal. - Vietnam.vn
 - Hurricanes vann första Global Series-ronden - NHL.com
+- Egna spelet ska ge Kraken revansch i Global Series - NHL.com
 - PRESS RELEASE: Global Finance Names The World’s 50 Safest Commercial Banks 2026 - Global Finance Magazine
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
 - Aho en hyllad värd under Global Series - NHL.com
+- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
 - Larsson inför första nedsläpp i Global Series: ”Tuff utmaning" - NHL.com
-- Kraken balanserar nytta med nöje under Global Series - NHL.com
 - Larsson unik under Global Series – ende svensken - NHL.com
 - Ehlers prickar in första Global Series-målet - NHL.com
-- Nästan hemmaplan för Ehlers under Global Series - NHL.com
+- SEA-CAR | Global Series-höjdpunkter - NHL.com
+- Kraken balanserar nytta med nöje under Global Series - NHL.com
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 
 ## Technology
 
@@ -55,23 +55,25 @@ _Updated: 2026-11-15 11:45_
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Bästa AI-aktierna att köpa nu - Morningstar
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
+- Artificiell intelligens: Möjligheter och risker - European Parliament
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Boosting AI with supercomputers - Council, European Union
 - Anthropic och OpenAI stäms för påstådda patentintrång - Placera.se
+- Karim Jebari - Institutet för framtidsstudier
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- Från digital konkurrenskraft till att bemästra strategiska teknologier. - Vietnam.vn
 - Sandvik AI investments - smarter Industry solutions - Sandvik Group
+- Från digital konkurrenskraft till att bemästra strategiska teknologier. - Vietnam.vn
+- Boosting AI with supercomputers - Council, European Union
 - Artificial intelligence will not turn into a Frankenstein's monster | Alan Winfield - The Guardian
 
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
-- Organon lanserar ett nytt företag för kvinnohälsa - Via TT
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
+- Organon lanserar ett nytt företag för kvinnohälsa - Via TT
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -93,8 +95,8 @@ _Updated: 2026-11-15 11:45_
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Science fiction i verkligheten - Forskning & Framsteg
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
