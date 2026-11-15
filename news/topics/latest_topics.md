@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-15 19:20_
+_Updated: 2026-11-15 23:59_
 
 ## Top Stories
 
-- DN Direkt – Centern möts i dag - ska fatta beslut om regeringsfrågan - Dagens Nyheter
-- Estland stänger gränsen mot Ryssland i december - SVT Nyheter
-- Torbjörn Petersson: Xi Jinping deltar bara i möten om han vet hur de slutar - Dagens Nyheter
+- Välkommen tillbaka till verkligheten, Elisabeth Thand Ringqvist! - Arbetet
+- Ida Gabrielsson (V) efter C-beskedet: V ska ingå i regeringen – Senaste nytt om valet 2026 - SVT Nyheter
 - Dansk butik rånad på Pokémonkort för miljonbelopp - Göteborgs-Posten
+- SMHI varnar för plötslig ishalka längs del av Norrlandskusten - SVT Nyheter
 - Misstänkt häktad för medhjälp till Älvsjömord - TV4 Nyheterna
-- Iran: Tankfartyg sjönk i Hormuz - Göteborgs-Posten
+- Misstänkt mord i Göteborg – två gripna - Aftonbladet
 - 74-årig kvinna i Kortedala fortfarande försvunnen - Göteborgs-Posten
-- Forssmeds attack mot S: Försöker skrämma C och V till underkastelse – Senaste nytt om valet 2026 - SVT Nyheter
 - Just nu: Stopp i ett körfält på grund av en stillastående personbil på E4 - NT
-- Svenska soldater reser till Nato-uppdrag: Avskräcka ryska angrepp - Dagens Nyheter
-- Dubbla olyckor i Göteborgsbacken i Jönköping – krockade med tappat hjul - SVT Nyheter
-- Bussåkande hästar väckte förvåning - Dagens Nyheter
-- Hamastopp död i israelisk attack - Västerbottens-Kuriren
-- Adam Cwejman: Tvåtusen år av kristen historia i Mellanöstern blir en fotnot - Göteborgs-Posten
-- Nya kreditlagen – lön och boende måste anges - Dagens Nyheter
-- Anthropic till börsen: Stresstest för AI-marknaden - Svenska Dagbladet
-- Jätten satsar på segel – för att klara klimatmål - Svenska Dagbladet
-- Uppgift: Lutnick kan hänga löst efter Nvidia-soppan - Omni – Alla nyheter. Alla perspektiv.
+- Just nu: Halva byn utan ström efter snökaoset - Västerbottens-Kuriren
+- Ukraina: Europa ska samlas för att ena fronten - Göteborgs-Posten
+- Direkt – Kriget i Ukraina – Ryssland om estniska beskedet: russofobi - Dagens Nyheter
+- Iran: Tankfartyg sjönk i Hormuz - Västerbottens-Kuriren
+- Massiv protest i Prag för public service oberoende - Hufvudstadsbladet – HBL
+- DIREKT: Få senaste nytt från VLT här - VLT
+- Experten: Därför växer ilskan mot datacenter - Svenska Dagbladet
+- Efter skandalen – Jensen Huang överväger comeback - DI
+- Historisk rymdfärd för Elon Musks Space X - Omni – Alla nyheter. Alla perspektiv.
 - Därför är GTA mer än ett våldsamt spel: ”Satir” - Borås Tidning
-- Koraller kan rädda varandra från döden – ”donerar” alger - SVT Nyheter
+- Asus lanserar ny 14-tums bärbar dator med lägre pris och över 24 timmars batteritid - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
+- Den här mobiltillverkaren startade en gång en revolution - Vi har testat dess senaste mobil - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
@@ -32,8 +32,8 @@ _Updated: 2026-11-15 19:20_
 - Andra raka Global Series-segern för Hurricanes - NHL.com
 - Krönika: Global Series lyser upp höstmörkret - NHL.com
 - VIFC-HCMC:s ambition att bli en global talangportal. - Vietnam.vn
-- Hurricanes vann första Global Series-ronden - NHL.com
 - Egna spelet ska ge Kraken revansch i Global Series - NHL.com
+- Hurricanes vann första Global Series-ronden - NHL.com
 - PRESS RELEASE: Global Finance Names The World’s 50 Safest Commercial Banks 2026 - Global Finance Magazine
 - Aho en hyllad värd under Global Series - NHL.com
 - Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
@@ -53,16 +53,15 @@ _Updated: 2026-11-15 19:20_
 - Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Bästa AI-aktierna att köpa nu - Morningstar
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
-- Artificiell intelligens: Möjligheter och risker - European Parliament
+- Boosting AI with supercomputers - Council, European Union
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Anthropic och OpenAI stäms för påstådda patentintrång - Placera.se
 - Karim Jebari - Institutet för framtidsstudier
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Sandvik AI investments - smarter Industry solutions - Sandvik Group
-- Från digital konkurrenskraft till att bemästra strategiska teknologier. - Vietnam.vn
-- Boosting AI with supercomputers - Council, European Union
 - Artificial intelligence will not turn into a Frankenstein's monster | Alan Winfield - The Guardian
 
 ## Business
@@ -73,8 +72,8 @@ _Updated: 2026-11-15 19:20_
 - Organon lanserar ett nytt företag för kvinnohälsa - Via TT
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
@@ -111,7 +110,7 @@ _Updated: 2026-11-15 19:20_
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jord, kor och klimat - SLU
-- Här är världens största jordbruk - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Här är världens största jordbruk - ATL
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Visning av uppkomst efter direktsådd - Land.se
