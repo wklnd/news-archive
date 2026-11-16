@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-16 05:06_
+_Updated: 2026-11-16 14:02_
 
-- Lutnick under fire: How Trump’s commerce secretary cultivated Nvidia’s CEO while chip controls slipped - CNN
-- Iran vows ‘we will find you’ to 2 US Navy officers the day warship returns from Middle East - Fox News
-- Foreign leaders look beyond Trump on his Asian meeting spree - Politico
-- Steering failure preceded New Orleans cruise ship collision, says NTSB - BBC
-- DeSantis knocks Republicans resisting Trump judicial appointment push - The Hill
+- China confirms Xi-Trump-Putin historic summit. What will be on the agenda? - CNBC
+- Mexican drug lord Miguel Ángel Félix Gallardo dies age 80 - BBC
+- Fewer students are traveling from abroad to study at US universities, report shows - AP News
+- U.S. attorney warns Sen. Elizabeth Warren against investigating Trump associates - NBC News
+- Koh blames Trump for blocking Biden-era infrastructure, FAA funding - The Hill
+- Trump Heads to the ASEAN and APEC Summits With Big Plans and Slim Prospects - Council on Foreign Relations
+- Questions swirl around FAA's new SMART AI system, though officials say no link to ground stop - AP News
+- Trump vows appeal of East Potomac ruling as golf operations remain unclear - The Washington Post
+- Bahrain intercepts Iranian strikes on US airbase - The Hill
 - Huge waves pummel California coast, forcing closure of popular piers - The Guardian
-- Flight Delays and Cancellations Persist as System Recovers From Ground Stop - The New York Times
-- Trump says Interior will appeal ruling delaying golf course renovations - The Hill
-- US colleges struggle as international students turn away - Politico
-- Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown - PBS
-- Mexican drug lord Miguel Angel Felix Gallardo dies age 80 - BBC
-- Jordan Sentences 3 to Death Over Greek Orthodox Church Attack - The New York Times
-- Pope Leo heads to the Amazon on the final leg of his South American tour - DW.com
-- Who makes Sydney Sweeney's American Eagle jeans — and under what conditions? - NPR
-- Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter - The Guardian
-- Anthropic Is About to Become the World’s Most Important AI Stock - Bloomberg
-- Bessent questions did Nvidia "goose" earnings with suspect China chip sales - Axios
-- Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years - MarketWatch
-- 'The Ultimate Gaming Machine' - Xbox Reveals Tons Of New Project Helix Information - Pure Xbox
-- Astronauts including Sen. Mark Kelly celebrate the opening of L.A.'s new air and space museum with plenty of kids - Los Angeles Times
+- Yemen: Anti-Houthi forces pull back from Bab el-Mandeb Strait as rebels advance towards Aden - DW.com
+- South Africa shootings: 17 killed in Pietermaritzburg and Pretoria - BBC
+- War May Answer Longtime Riddle of Iranian Dams Built for No Clear Reason - The New York Times
+- UK PM Burnham ready to confront 'obvious truth' of Brexit's costs - Reuters
+- Stock futures mixed as traders brace for Nvidia earnings, Anthropic IPO this week: Live updates - CNBC
+- The Campaign to Bring Back Jensen Huang as Nvidia CEO - WSJ
+- The Investors Set to Win Big in Anthropic’s IPO - WSJ
+- Oil falls as recovering Middle East exports bolster surplus outlook - Reuters
+- Apple launches an AI health tool as part of a research study - ABC News - Breaking News, Latest News and Videos
+- Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI - The Guardian
