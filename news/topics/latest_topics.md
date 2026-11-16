@@ -1,56 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-16 12:02_
+_Updated: 2026-11-16 22:37_
 
 ## Top Stories
 
-- LKAB krävs på 180 miljoner för grovt miljöbrott - Affärsvärlden
-- DN Direkt – Thand Ringqvist stänger inte dörren för M - Dagens Nyheter
-- Man hittad död vid lastbil i Biskopsgården – två anhållna - SVT Nyheter
-- DN Direkt – SMHI varnar för plötslig ishalka - Dagens Nyheter
-- Man död i lägenhetsbrand utanför Värnamo i natt - Omni – Alla nyheter. Alla perspektiv.
-- Ryssland: 600 drönare mot Moskva - Corren
-- Rikspolischefen knackar dörr under Orange Week - polisen.se
-- Ny brand på Söder – två gripna - Mitt i
-- Svensk tonåring skyldig – tog på sig morduppdrag - Västerbottens-Kuriren
-- Nu måste de rödgröna prata - Dagens Arena
-- Bekräftat: Trump, Xi och Putin möts i veckan - Västerbottens-Kuriren
-- DN Direkt – Två massmord i Sydafrika – minst 17 dödade - Dagens Nyheter
-- Utrikesministern: ”Absurda” krav från Putin - Västerbottens-Kuriren
-- Ukraina: Europa ska samlas för att ena fronten - Hufvudstadsbladet – HBL
-- Upprop för att Jensen Huang ska återvända till Nvidia - Dagens Nyheter
-- Stockholmsbörsen ser ut att inleda avvaktande - Omni – Alla nyheter. Alla perspektiv.
-- Ny vd för ICA Sverige hämtad från Hemköpskedjan - Livsmedelsnyheter
-- Anthropic till börsen: ”Blir lite av ett stresstest för marknaden” - Ny Teknik
-- Så laddar profilerna för GTA 6: ”Tagit en vecka ledigt” - SVT Nyheter
-- Apples smarta glasögon släpps nästa år enligt färska uppgifter - Expressen
-
-## World News
-
-- Aho, Hurricanes glänste under Global Series - NHL.com
-- Krönika: Global Series lyser upp höstmörkret - NHL.com
-- Egna spelet ska ge Kraken revansch i Global Series - NHL.com
-- Andra raka Global Series-segern för Hurricanes - NHL.com
-- Hurricanes vann första Global Series-ronden - NHL.com
-- PRESS RELEASE: Global Finance Names The World’s 50 Safest Commercial Banks 2026 - Global Finance Magazine
-- Larsson inför första nedsläpp i Global Series: ”Tuff utmaning" - NHL.com
-- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
-- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- NHL-kommentaren: Inget Global Series-lag har landat i Finland i lika stark form som Carolina Hurricanes - Yle
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- Höjdpunkter: Global Series | Hurricanes-Kraken - NHL.com
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- C-ledaren stänger inte dörren till Kristersson: ”Då får vi fatta nytt beslut” - Göteborgs-Posten
+- Stora förseningar i tågtrafiken mellan Göteborg och Stockholm - SVT Nyheter
+- 16 november 14.41, Trafikolycka, Smedjebacken - polisen.se
+- Tågvärdens sista resa – med kokain för miljoner - Sydsvenskan
+- Källor: Regeringsfrågan långt ifrån löst - Dagens Nyheter
+- Påven ryter ifrån mot skövlingen av Amazonas - Dagens Nyheter
+- 14-årig flicka släppt från häktet – fortsatt misstänkt i Älvsjömordet - SVT Nyheter
+- 200 000 höns avlivad i Halmstad efter virusutbrott - SVT Nyheter
+- Två barn påkörda i Arlöv – förare misshandlad - SVT Nyheter
+- Landerholm överklagar till Högsta domstolen - Göteborgs-Posten
+- Tungviktare i EU vill skicka migranter till Rwanda – tidigare försök har slutat i fiasko - Dagens Nyheter
+- Le Pens vallöfte: Stoppa stödet till Ukraina - Hufvudstadsbladet – HBL
+- Zelenskyj: Pratat med europeiska medlare - Göteborgs-Posten
+- Anna-Lena Laurén: Den stängda gränsen sätter punkt för estnisk pragmatism - Dagens Nyheter
+- Fortnox varslar 200 tjänster – satsar fem miljarder på AI - Tidningen Balans
+- Buffett skänker Berkshire-aktier för 5,5 miljarder till familjens stiftelser - Affärsvärlden
+- Nu kommer räkningarna till Swish - Expressen
+- Betsson-vd:ns tips till Jensen Huang: ”Samla vänner i viken” - EFN
+- Take-Two stiger på börsen inför GTA 6-släppet - Affärsvärlden
+- Uppgifter: Apple släpper smarta glasögon nästa år - Omni – Alla nyheter. Alla perspektiv.
 
 ## Technology
 
 - Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
+- Anthropic och OpenAI stäms för påstådda patentintrång - Placera.se
+- Från digital konkurrenskraft till att bemästra strategiska teknologier. - Vietnam.vn
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - AI-explosion på svenska arbetsplatser - Computer Sweden
 - Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
@@ -60,23 +39,22 @@ _Updated: 2026-11-16 12:02_
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Anthropic och OpenAI stäms för påstådda patentintrång - Placera.se
+- Lösningar för artificiell intelligens (AI) - SAS: Data and AI Solutions
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
-- Karim Jebari - Institutet för framtidsstudier
 - Artificiell intelligens: Möjligheter och risker - European Parliament
-- Sandvik AI investments - smarter Industry solutions - Sandvik Group
+- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
+- Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- Boosting AI with supercomputers - Council, European Union
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- Artificial intelligence will not turn into a Frankenstein's monster | Alan Winfield - The Guardian
+- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Organon lanserar ett nytt företag för kvinnohälsa - Via TT
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Lendo integrerar Kreddy under sitt varumärke – vässar erbjudandet som Sveriges största jämförelsetjänst för lån - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
@@ -103,7 +81,6 @@ _Updated: 2026-11-16 12:02_
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Science fiction i verkligheten - Forskning & Framsteg
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - 5 myter om öppen vetenskap - Läkartidningen
 - European School of Sustainability Science and Research - Åbo Akademi
