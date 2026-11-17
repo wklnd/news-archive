@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-17 16:53_
+_Updated: 2026-11-18 01:08_
 
-- Trump arrives in Philippines to kick off Asia trip with economic deals and talks with allies - AP News
-- Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine - BBC
-- Nvidia turmoil exposes growing rift inside Trump’s White House - The Washington Post
-- Do school cellphone bans work? New study says yes – but it's complicated - NPR
-- A 2-month lull ends with Iran’s third strike on U.S. targets in Bahrain - NBC News
-- DoJ warns Elizabeth Warren of ‘consequences’ unless she preserves Trump records - The Guardian
-- New York Mayor Mamdani disbands divisive NYPD unit - NBC News
-- Democrats see an immigration opening despite Stephen Miller’s rise - Politico
-- 3 dead after plane crash in Grand Canyon National Park - Syracuse.com
-- Storm system could bring 12+ inches of rain, flooding to Central Florida this week, models show - WESH
-- Melbourne Cup horse So You Are found dead in a waste facility, sparking an inquiry - CNN
-- Well-known journalist who reported death threats is gunned down on street in Costa Rica - CBS News
-- Cargo ship capsizes off Bulgaria’s Black Sea coast - Al Jazeera
-- Tracking China’s War of Words Against Japan - The New York Times
-- Dow futures slide 400 points weighed by Home Depot; traders await Nvidia earnings: Live updates - CNBC
-- Trump’s New A.I. Chip Rules Rattle Southeast Asia - The New York Times
-- Nvidia shares set for $335 billion swing after earnings, options show - Reuters
-- Nvidia Forms Export Control Board Committee After Chip Curbs - Bloomberg.com
-- The Galaxy S27 Ultra could finally kill Samsung's most iconic feature - Android Police
-- 'iPhone 20 Pro' Rumored to Be Based on iPhone Air - MacRumors
+- Classified N.S.A. Network Goes Down, Causing Work Disruptions - The New York Times
+- FEMA will test its Emergency Alert System today. Here’s what to expect. - The Washington Post
+- Trump arrives in Philippines to kick off Asia trip - NPR
+- School Phone Bans Are Gradually Improving Test Scores, New Evidence Shows - The New York Times
+- Trump says US taking 'very seriously' any Iranian plot against Washington - BBC
+- Illinois man charged in connection with bomb found at Peoria ethanol plant - NBC News
+- US Navy chief says Iran war has put ‘strain’ on maritime forces - Al Jazeera
+- Sea turtles laid eggs on a California beach, a first. Now they’ve hatched. - The Washington Post
+- Mike Johnson backs crackdown on House GOP holdouts - Politico
+- City of New Orleans closes assistance center for capsized cruise ship passengers - WDSU
+- How Ukraine struck the Kerch bridge, a symbol of Putin’s rule - The Guardian
+- A 2-month lull ends with Iran’s third strike on US targets in Bahrain, and US retaliation - AP News
+- Europe fears what Trump, Xi and Putin might discuss behind closed doors in China - CNN
+- American soldier accused of spying now in U.S. military custody after U.K. arrest - CBS News
+- Nvidia earnings live: Nvidia posts Q3 beat, board says it will not reinstate Jensen Huang as CEO - Yahoo Finance
+- Jensen Huang breaks silence after resigning from Nvidia, says he "would be honored" to return as CEO - CBS News
+- Sean Duffy’s attacks on past FAA ground stop resurface - CNN
+- Apple services, including iCloud, App Store, Apple Music, and more, hit by outage - TechCrunch
+- Hacker Who Leaked Grand Theft Auto VI Clips Pleads Guilty to Cybercrimes - The New York Times
+- Meta launches Direct, a stand-alone messaging app for Instagram - TechCrunch
