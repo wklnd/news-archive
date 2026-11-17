@@ -1,47 +1,47 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-17 06:05_
+_Updated: 2026-11-17 15:44_
 
 ## Top Stories
 
-- Uppgifter: Iran förbereder bombdåd mot Washington - Dagens Nyheter
-- Jeffrey Epstein – Forskare: Sannolikt att han ströps till döds - Svenska Dagbladet
-- Två personer döda i bilolycka i Dalarna - Omni – Alla nyheter. Alla perspektiv.
-- A-traktor och skåpbil i krock utanför Stenungsund – tre till sjukhus - SVT Nyheter
-- Vita huset slår tillbaka mot granskningar - Dagens Nyheter
-- SD-ledamot ändrar sig – tänker inte hoppa av - Göteborgs-Posten
-- Håkan Boström: Full fart mot stupet med V och C - Göteborgs-Posten
-- C-toppen: Vänsterpartiet vill ingå äktenskap direkt - Dagens Nyheter
-- Det här kan V kräva i förhandlingar - Göteborgs-Posten
-- Just nu: Stopp i ett körfält på grund av en stillastående fordon på E18 - Enköpingsposten
-- Burnham: Behandla brexit som Kejsarens nya kläder - Göteborgs-Posten
-- Le Pens vallöfte: Stoppa stödet till Ukraina - Corren
-- Ukraina: Stora broar träffade i Kiev - Göteborgs-Posten
-- Anfall med över tusen drönare – Krimbron träffad - Västerbottens-Kuriren
-- Fortnox satsar på AI och varslar 200 anställda - Omni – Alla nyheter. Alla perspektiv.
-- Uppgifter: Jensen Huang kan bli Nvidias vd på nytt - Computer Sweden
-- Finanstopp: AI-bubblan kan utlösa lågkonjunktur - Omni – Alla nyheter. Alla perspektiv.
-- AI-aktier pressas nedåt - Västerbotten | Folkbladet
-- Take-Two stiger på börsen inför GTA 6-släppet - Affärsvärlden
-- Apple siktar på att visa upp AI-glasögon i juni 2027 – BN - Börsvärlden
+- Krimbron uppges skadad efter ukrainska attacker - Dagens Nyheter
+- Inget beslut om samkönade vigslar – skjuts upp - Göteborgs-Posten
+- Forskare: Epstein kan ha mördats i sin cell - SVT Nyheter
+- Radhuslänga brinner i Södertälje - Västerbottens-Kuriren
+- C-ledaren stänger inte dörren till Kristersson: ”Då får vi fatta nytt beslut” - Göteborgs-Posten
+- Rasmus Giertz framtid osäker: ”I frysboxen” - Dagens Nyheter
+- Tyst i många telefoner när larm testades - Hufvudstadsbladet – HBL
+- Här är Sveriges roll i Natos segerteori om Ryssland - Dagens Nyheter
+- V-toppens pik mot C: Beter sig som offer - Expressen
+- Chatta med Bert Sundström – slutar efter 36 år på SVT - SVT Nyheter
+- Ännu ett fartyg har sjunkit i Svarta havet - Göteborgs-Posten
+- Källor: Iran planerar dåd mot Washington DC - Corren
+- Smällar i Bahrain vid nytt iranskt anfall - Västerbottens-Kuriren
+- Burnham: Behandla brexit som Kejsarens nya kläder - Corren
+- Chatt: Risk för ovanligt höga elpriser i vinter – hur rustar du? - SVT Nyheter
+- Nibe faller trots vinstlyft – förvaltare har storköpt - Placera.se
+- Här byggs Sveriges största fängelse - Dagens Nyheter
+- Varningen – inför Black Week: "Bluffbutiker svårare att avslöja" - Ekuriren
+- Apple lägger till varningar för AI-appar i Mac OS - Computer Sweden
+- Historiska Voyager 1 når ännu en milstolpe – ett ljusdygn från jorden - Ny Teknik
 
 ## World News
 
+- SEB behåller aktieövervikt – ser fortsatt global tillväxt trots ökade risker (Finwire News) - Aktiellt
 - Aho, Hurricanes glänste under Global Series - NHL.com
 - Krönika: Global Series lyser upp höstmörkret - NHL.com
-- Andra raka Global Series-segern för Hurricanes - NHL.com
-- Egna spelet ska ge Kraken revansch i Global Series - NHL.com
 - PRESS RELEASE: Global Finance Names The World’s 50 Safest Commercial Banks 2026 - Global Finance Magazine
 - Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
+- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
+- Egna spelet ska ge Kraken revansch i Global Series - NHL.com
+- Låt oss bygga Hanoi till en "global lärstad". - Vietnam.vn
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- VIFC-HCMC:s ambition att bli en global talangportal. - Vietnam.vn
-- Oslo Cancer Cluster wants to put Norway on the global biotech map - www.lifesciencefocus.com
-- 1 426 potential victims identified in global operation against human trafficking - Europol
 - Hurricanes vann första Global Series-ronden - NHL.com
-- Höjdpunkter: Global Series | Hurricanes-Kraken - NHL.com
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Andra raka Global Series-segern för Hurricanes - NHL.com
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 
@@ -54,17 +54,19 @@ _Updated: 2026-11-17 06:05_
 - Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Tre år med AI: Vad har hänt med jobben? - Almega
 - Förordningen om artificiell intelligens - Council, European Union
+- AI: EU:s medlemsstater planerar en ”digital expropriering” av européerna till förmån för AI-företag - noyb.eu
 - Bästa AI-aktierna att köpa nu - Morningstar
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
-- Från digital konkurrenskraft till att bemästra strategiska teknologier. - Vietnam.vn
-- Sandvik AI investments - smarter Industry solutions - Sandvik Group
+- Experter: Artificiell intelligens (AI) - Göteborgs universitet
 - Artificiell intelligens: Möjligheter och risker - European Parliament
-- Karim Jebari - Institutet för framtidsstudier
+- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 
 ## Business
 
@@ -83,14 +85,14 @@ _Updated: 2026-11-17 06:05_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Hälso- och sjukvård - Moderaterna
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
-- Gör ChatGPT gratis for vårdpersonal - OpenAI
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Fonderna som investerar i megatrenden - Avanzabloggen
+- Gör ChatGPT gratis for vårdpersonal - OpenAI
 
 ## Science
 
@@ -99,10 +101,10 @@ _Updated: 2026-11-17 06:05_
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Science fiction i verkligheten - Forskning & Framsteg
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - European School of Sustainability Science and Research - Åbo Akademi
+- Universitet fäller forskarna bakom studie om mikroplast för fusk - Stockholms universitet
 
 ## Jordbruk
 
@@ -112,7 +114,6 @@ _Updated: 2026-11-17 06:05_
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jord, kor och klimat - SLU
-- Lantbrukslogik – nu och i framtiden - SLU
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Här är världens största jordbruk - ATL
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
