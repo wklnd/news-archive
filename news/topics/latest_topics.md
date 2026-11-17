@@ -1,88 +1,107 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-16 22:37_
+_Updated: 2026-11-17 06:05_
 
 ## Top Stories
 
-- C-ledaren stänger inte dörren till Kristersson: ”Då får vi fatta nytt beslut” - Göteborgs-Posten
-- Stora förseningar i tågtrafiken mellan Göteborg och Stockholm - SVT Nyheter
-- 16 november 14.41, Trafikolycka, Smedjebacken - polisen.se
-- Tågvärdens sista resa – med kokain för miljoner - Sydsvenskan
-- Källor: Regeringsfrågan långt ifrån löst - Dagens Nyheter
-- Påven ryter ifrån mot skövlingen av Amazonas - Dagens Nyheter
-- 14-årig flicka släppt från häktet – fortsatt misstänkt i Älvsjömordet - SVT Nyheter
-- 200 000 höns avlivad i Halmstad efter virusutbrott - SVT Nyheter
-- Två barn påkörda i Arlöv – förare misshandlad - SVT Nyheter
-- Landerholm överklagar till Högsta domstolen - Göteborgs-Posten
-- Tungviktare i EU vill skicka migranter till Rwanda – tidigare försök har slutat i fiasko - Dagens Nyheter
-- Le Pens vallöfte: Stoppa stödet till Ukraina - Hufvudstadsbladet – HBL
-- Zelenskyj: Pratat med europeiska medlare - Göteborgs-Posten
-- Anna-Lena Laurén: Den stängda gränsen sätter punkt för estnisk pragmatism - Dagens Nyheter
-- Fortnox varslar 200 tjänster – satsar fem miljarder på AI - Tidningen Balans
-- Buffett skänker Berkshire-aktier för 5,5 miljarder till familjens stiftelser - Affärsvärlden
-- Nu kommer räkningarna till Swish - Expressen
-- Betsson-vd:ns tips till Jensen Huang: ”Samla vänner i viken” - EFN
+- Uppgifter: Iran förbereder bombdåd mot Washington - Dagens Nyheter
+- Jeffrey Epstein – Forskare: Sannolikt att han ströps till döds - Svenska Dagbladet
+- Två personer döda i bilolycka i Dalarna - Omni – Alla nyheter. Alla perspektiv.
+- A-traktor och skåpbil i krock utanför Stenungsund – tre till sjukhus - SVT Nyheter
+- Vita huset slår tillbaka mot granskningar - Dagens Nyheter
+- SD-ledamot ändrar sig – tänker inte hoppa av - Göteborgs-Posten
+- Håkan Boström: Full fart mot stupet med V och C - Göteborgs-Posten
+- C-toppen: Vänsterpartiet vill ingå äktenskap direkt - Dagens Nyheter
+- Det här kan V kräva i förhandlingar - Göteborgs-Posten
+- Just nu: Stopp i ett körfält på grund av en stillastående fordon på E18 - Enköpingsposten
+- Burnham: Behandla brexit som Kejsarens nya kläder - Göteborgs-Posten
+- Le Pens vallöfte: Stoppa stödet till Ukraina - Corren
+- Ukraina: Stora broar träffade i Kiev - Göteborgs-Posten
+- Anfall med över tusen drönare – Krimbron träffad - Västerbottens-Kuriren
+- Fortnox satsar på AI och varslar 200 anställda - Omni – Alla nyheter. Alla perspektiv.
+- Uppgifter: Jensen Huang kan bli Nvidias vd på nytt - Computer Sweden
+- Finanstopp: AI-bubblan kan utlösa lågkonjunktur - Omni – Alla nyheter. Alla perspektiv.
+- AI-aktier pressas nedåt - Västerbotten | Folkbladet
 - Take-Two stiger på börsen inför GTA 6-släppet - Affärsvärlden
-- Uppgifter: Apple släpper smarta glasögon nästa år - Omni – Alla nyheter. Alla perspektiv.
+- Apple siktar på att visa upp AI-glasögon i juni 2027 – BN - Börsvärlden
+
+## World News
+
+- Aho, Hurricanes glänste under Global Series - NHL.com
+- Krönika: Global Series lyser upp höstmörkret - NHL.com
+- Andra raka Global Series-segern för Hurricanes - NHL.com
+- Egna spelet ska ge Kraken revansch i Global Series - NHL.com
+- PRESS RELEASE: Global Finance Names The World’s 50 Safest Commercial Banks 2026 - Global Finance Magazine
+- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- VIFC-HCMC:s ambition att bli en global talangportal. - Vietnam.vn
+- Oslo Cancer Cluster wants to put Norway on the global biotech map - www.lifesciencefocus.com
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Hurricanes vann första Global Series-ronden - NHL.com
+- Höjdpunkter: Global Series | Hurricanes-Kraken - NHL.com
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 
 ## Technology
 
 - Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
 - Anthropic och OpenAI stäms för påstådda patentintrång - Placera.se
-- Från digital konkurrenskraft till att bemästra strategiska teknologier. - Vietnam.vn
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - AI-explosion på svenska arbetsplatser - Computer Sweden
 - Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Tre år med AI: Vad har hänt med jobben? - Almega
 - Förordningen om artificiell intelligens - Council, European Union
 - Bästa AI-aktierna att köpa nu - Morningstar
-- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
+- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Lösningar för artificiell intelligens (AI) - SAS: Data and AI Solutions
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
+- Från digital konkurrenskraft till att bemästra strategiska teknologier. - Vietnam.vn
+- Sandvik AI investments - smarter Industry solutions - Sandvik Group
 - Artificiell intelligens: Möjligheter och risker - European Parliament
-- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
-- Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
+- Karim Jebari - Institutet för framtidsstudier
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Organon lanserar ett nytt företag för kvinnohälsa - Via TT
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Lendo integrerar Kreddy under sitt varumärke – vässar erbjudandet som Sveriges största jämförelsetjänst för lån - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Hälso- och sjukvård - Moderaterna
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Fonderna som investerar i megatrenden - Avanzabloggen
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - Gör ChatGPT gratis for vårdpersonal - OpenAI
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 
 ## Science
 
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Science fiction i verkligheten - Forskning & Framsteg
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- AI för vetenskaplig forskning och upptäckter - OpenAI
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- 5 myter om öppen vetenskap - Läkartidningen
 - European School of Sustainability Science and Research - Åbo Akademi
 
 ## Jordbruk
@@ -93,7 +112,7 @@ _Updated: 2026-11-16 22:37_
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jord, kor och klimat - SLU
-- Hur man tjänar pengar på lantbruk: 10 sätt för små gårdar - Shopify
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Lantbrukslogik – nu och i framtiden - SLU
 - Här är världens största jordbruk - ATL
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
