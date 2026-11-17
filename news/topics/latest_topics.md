@@ -1,48 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-17 15:44_
+_Updated: 2026-11-18 00:33_
 
 ## Top Stories
 
-- Krimbron uppges skadad efter ukrainska attacker - Dagens Nyheter
-- Inget beslut om samkönade vigslar – skjuts upp - Göteborgs-Posten
-- Forskare: Epstein kan ha mördats i sin cell - SVT Nyheter
-- Radhuslänga brinner i Södertälje - Västerbottens-Kuriren
-- C-ledaren stänger inte dörren till Kristersson: ”Då får vi fatta nytt beslut” - Göteborgs-Posten
-- Rasmus Giertz framtid osäker: ”I frysboxen” - Dagens Nyheter
-- Tyst i många telefoner när larm testades - Hufvudstadsbladet – HBL
-- Här är Sveriges roll i Natos segerteori om Ryssland - Dagens Nyheter
-- V-toppens pik mot C: Beter sig som offer - Expressen
-- Chatta med Bert Sundström – slutar efter 36 år på SVT - SVT Nyheter
-- Ännu ett fartyg har sjunkit i Svarta havet - Göteborgs-Posten
-- Källor: Iran planerar dåd mot Washington DC - Corren
-- Smällar i Bahrain vid nytt iranskt anfall - Västerbottens-Kuriren
-- Burnham: Behandla brexit som Kejsarens nya kläder - Corren
-- Chatt: Risk för ovanligt höga elpriser i vinter – hur rustar du? - SVT Nyheter
-- Nibe faller trots vinstlyft – förvaltare har storköpt - Placera.se
-- Här byggs Sveriges största fängelse - Dagens Nyheter
-- Varningen – inför Black Week: "Bluffbutiker svårare att avslöja" - Ekuriren
-- Apple lägger till varningar för AI-appar i Mac OS - Computer Sweden
-- Historiska Voyager 1 når ännu en milstolpe – ett ljusdygn från jorden - Ny Teknik
+- Giertz informerade inte SD om svängningen: ”Har läst i media” - Dagens Nyheter
+- USA: Hemligt nätverk ligger nere - Corren
+- Talmannen: Ett slut i god tid före jul - Västerbottens-Kuriren
+- Haidar försvann spårlöst till havs: ”Vi dör tusen gånger om dagen” - Dagens Nyheter
+- Tunnelbanestrul på Gröna linjen – åtgärdat - SVT Nyheter
+- Kremlkälla: Ryssland hoppas på ett nytt Jalta - Omni – Alla nyheter. Alla perspektiv.
+- Jordbruksverket varnar för fågelinfluensa - SVT Nyheter
+- Man häktad för mord på kvinna i Luleå - Göteborgs-Posten
+- Insändare. Släpp på ministerkravet innan det är för sent - Dagens Nyheter
+- Kyrkomötet avslår motion om gemensam vigselordning - Göteborgs-Posten
+- Enorma utsläpp från amerikanska datacenter - Göteborgs-Posten
+- Uppgift: Ny amerikansk attack mot Iran - Corren
+- Krimbron skadad vid nytt stort anfall - Hufvudstadsbladet – HBL
+- Sverige villkorar EU-budget med Ukrainastöd - DI
+- Nu är Nvidia mitt i en politisk kris | Björn Jeffery - Svenska Dagbladet
+- Wall Street backar inför Nvidias rapport - Omni – Alla nyheter. Alla perspektiv.
+- Börsen straffar Deutsche Bank efter läckan - Finanswatch.se
+- Hampus ska snart flytta hemifrån: Hoppas på billigare el – Chatt: Risk för ovanligt höga elpriser i vinter – hur rustar du? - SVT Nyheter
+- Kult och kontroverser – så har ”GTA” gasat genom spelvärlden - Dagens Nyheter
+- Sheriff rasar mot GTA: ”Det vi arbetar för att förhindra” - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
-- SEB behåller aktieövervikt – ser fortsatt global tillväxt trots ökade risker (Finwire News) - Aktiellt
 - Aho, Hurricanes glänste under Global Series - NHL.com
-- Krönika: Global Series lyser upp höstmörkret - NHL.com
+- Andra raka Global Series-segern för Hurricanes - NHL.com
 - PRESS RELEASE: Global Finance Names The World’s 50 Safest Commercial Banks 2026 - Global Finance Magazine
 - Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
-- Egna spelet ska ge Kraken revansch i Global Series - NHL.com
-- Låt oss bygga Hanoi till en "global lärstad". - Vietnam.vn
+- Krönika: Global Series lyser upp höstmörkret - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Hurricanes vann första Global Series-ronden - NHL.com
+- Låt oss bygga Hanoi till en "global lärstad". - Vietnam.vn
 - 1 426 potential victims identified in global operation against human trafficking - Europol
-- Andra raka Global Series-segern för Hurricanes - NHL.com
+- Egna spelet ska ge Kraken revansch i Global Series - NHL.com
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 
 ## Technology
@@ -60,13 +61,13 @@ _Updated: 2026-11-17 15:44_
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
-- Experter: Artificiell intelligens (AI) - Göteborgs universitet
 - Artificiell intelligens: Möjligheter och risker - European Parliament
 - AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
+- Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
 
@@ -84,14 +85,14 @@ _Updated: 2026-11-17 15:44_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Hälso- och sjukvård - Moderaterna
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Fonderna som investerar i megatrenden - Avanzabloggen
+- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - Gör ChatGPT gratis for vårdpersonal - OpenAI
 
 ## Science
