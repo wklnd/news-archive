@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-18 00:33_
+_Updated: 2026-11-18 05:48_
 
 ## Top Stories
 
-- Giertz informerade inte SD om svängningen: ”Har läst i media” - Dagens Nyheter
-- USA: Hemligt nätverk ligger nere - Corren
-- Talmannen: Ett slut i god tid före jul - Västerbottens-Kuriren
-- Haidar försvann spårlöst till havs: ”Vi dör tusen gånger om dagen” - Dagens Nyheter
-- Tunnelbanestrul på Gröna linjen – åtgärdat - SVT Nyheter
-- Kremlkälla: Ryssland hoppas på ett nytt Jalta - Omni – Alla nyheter. Alla perspektiv.
-- Jordbruksverket varnar för fågelinfluensa - SVT Nyheter
-- Man häktad för mord på kvinna i Luleå - Göteborgs-Posten
-- Insändare. Släpp på ministerkravet innan det är för sent - Dagens Nyheter
+- Attacken på Krimbron ”otroligt genant” för Putin - Västerbottens-Kuriren
+- Iranska attacker mot Bahrain och Kuwait - Göteborgs-Posten
+- USA: Hemligt nätverk ligger nere - Västerbottens-Kuriren
+- Därför ska polisen knacka dörr i Hultsfred och Vimmerby - Vimmerby Tidning
+- Flera döda i olycka med ryskt militärflyg - Göteborgs-Posten
+- S totalpaket kan bli dyrt – finansiering saknas - TV4 Nyheterna
+- Hans Rosén: Kristersson serverar salami – och blir en vinnare - Dagens Nyheter
+- ERIK AF MALMBORG: Månggifte som aldrig får bli norm i Sverige - NT
 - Kyrkomötet avslår motion om gemensam vigselordning - Göteborgs-Posten
+- Just nu: En stillastående personbil orsakar stopp i ett körfält på E4 - UNT
+- Fler än 70 dödades i rysk flygbombning - Hufvudstadsbladet – HBL
 - Enorma utsläpp från amerikanska datacenter - Göteborgs-Posten
-- Uppgift: Ny amerikansk attack mot Iran - Corren
-- Krimbron skadad vid nytt stort anfall - Hufvudstadsbladet – HBL
+- DN Direkt – Putin är i Kina - Dagens Nyheter
 - Sverige villkorar EU-budget med Ukrainastöd - DI
-- Nu är Nvidia mitt i en politisk kris | Björn Jeffery - Svenska Dagbladet
-- Wall Street backar inför Nvidias rapport - Omni – Alla nyheter. Alla perspektiv.
-- Börsen straffar Deutsche Bank efter läckan - Finanswatch.se
-- Hampus ska snart flytta hemifrån: Hoppas på billigare el – Chatt: Risk för ovanligt höga elpriser i vinter – hur rustar du? - SVT Nyheter
+- Nvidias styrelse bekräftar: Nej till comeback för Jensen Huang - EFN
+- Wall Street backade inför Nvidias rapport - Omni – Alla nyheter. Alla perspektiv.
+- Rekordhöga elpriser väntar skånska hushåll i vinter – priset rusar - laholmstidning.se
+- Källor: Banker pausar lån på 480 miljoner dollar till Nvidia-chip för Bytedance - BN - Börsvärlden
 - Kult och kontroverser – så har ”GTA” gasat genom spelvärlden - Dagens Nyheter
 - Sheriff rasar mot GTA: ”Det vi arbetar för att förhindra” - Omni – Alla nyheter. Alla perspektiv.
 
@@ -32,22 +32,23 @@ _Updated: 2026-11-18 00:33_
 - PRESS RELEASE: Global Finance Names The World’s 50 Safest Commercial Banks 2026 - Global Finance Magazine
 - Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
 - Krönika: Global Series lyser upp höstmörkret - NHL.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Låt oss bygga Hanoi till en "global lärstad". - Vietnam.vn
 - 1 426 potential victims identified in global operation against human trafficking - Europol
 - Egna spelet ska ge Kraken revansch i Global Series - NHL.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 
 ## Technology
 
+- Vietnam-Sydkorea: Från att koppla samman investeringar till att gemensamt skapa AI och halvledarteknik. - Vietnam.vn
 - Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
 - Anthropic och OpenAI stäms för påstådda patentintrång - Placera.se
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
@@ -61,11 +62,10 @@ _Updated: 2026-11-18 00:33_
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
+- Sandvik AI investments - smarter Industry solutions - Sandvik Group
 - Artificiell intelligens: Möjligheter och risker - European Parliament
-- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
-- Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
+- Karim Jebari - Institutet för framtidsstudier
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
@@ -115,6 +115,7 @@ _Updated: 2026-11-18 00:33_
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jord, kor och klimat - SLU
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Lantbrukslogik – nu och i framtiden - SLU
 - Här är världens största jordbruk - ATL
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
