@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-18 15:19_
+_Updated: 2026-11-18 23:30_
 
 ## Top Stories
 
-- Historiskt möte mellan Xi, Trump och Putin i Shenzhen - Dagens Nyheter
-- Expert: Osannolikt att bron kan lagas under kriget - Göteborgs-Posten
-- DN Direkt – Ebba Busch: ”Det finns bara ett paket” - Dagens Nyheter
-- Partierna överens om nytt kvittningssystem – Senaste nytt om valet 2026 - SVT Nyheter
-- Brand på återvinningsanläggning – spridningsrisk - Västerbottens-Kuriren
-- Hemliga övervakningskameror avslöjar kycklingindustrins djurplågeri - Djurrättsalliansen
-- Efter attacken: Läget stabilt för medarbetaren på Kalix hälsocentral - SVT Nyheter
-- DN Direkt – Domkapitlet pausar utredning av Birgitta Ed - Dagens Nyheter
-- Nio av tio trygga vid förlossning – sämre stöd efteråt - Göteborgs-Posten
-- 18 november 04.19, Brand, Trollhättan - polisen.se
-- 500 miljarder kronor i nytt EU-lån till Ukraina - Västerbottens-Kuriren
-- Ökad risk för terrorattacker i Norge - Östersunds-Posten
-- DN Direkt – Ilska på toppmötet: ”Skitsnack och luft” - Dagens Nyheter
-- Grönland skär ner på danskundervisning - Västerbottens-Kuriren
-- Nvidias styrelse bekräftar: Nej till comeback för Jensen Huang - EFN
-- Slagigt i Asien – chipjättar lyfter efter Nvidias rapport - EFN
-- ”Kommer aldrig gå tillbaka till kontoret” - Svenska Dagbladet
-- Oktober stark månad för svensk vindkraft - Sydsvenskan
+- Puts och betong har ramlat ner i förlossningsrum på Södersjukhuset - SVT Nyheter
+- Olycka på E20 – fånge försökte fly - Aftonbladet
+- DN Direkt – Två vuxna och ett barn hittade döda i Danmark - Dagens Nyheter
+- Oron i S: Ledningen sjabblar bort regeringsmakten - Dagens Nyheter
+- Ebba Busch: Då kan Mohamed Ali bli minister - Expressen
+- Försenade tåg efter kommunikationsproblem hos Trafikverket - SVT Nyheter
+- C-ledaren: Fokus på att få Andersson vald - Göteborgs-Posten
+- DN Direkt – Svenskar bäst på att förstå engelska - Dagens Nyheter
+- Mina Asp Romefors: Mobbarjulen 2026 närmar sig – tacka årets julklapp - Dagens Nyheter
+- Tidigare skolanställd dömd för barnpornografibrott - Göteborgs-Posten
+- EU-förslag: 45 miljarder euro i nya lån till Ukraina - Dagens Nyheter
+- Varför attackerar Ukraina Krimbron? Chatta med militärexperten - Dagens Nyheter
+- Polen: Chefsdomare förlorar immunitet - Göteborgs-Posten
+- Gerillakrigaren: ”Priset för ett misstag är alldeles för högt” - Dagens Nyheter
+- Nvidias aktie faller efter stark rapport - TV4 Nyheterna
+- Jensen Huang ska vittna inför senatens bankutskott - CNBC - Placera.se
+- Rutger Selin ser köpläge i AI-raset - Placera.se
+- Kan döda oss alla – ändå lär AI-jätten rusa - Aftonbladet
 - Voyager 1 blir historisk – ett ljusdygn från jorden - Svenska Dagbladet
-- GTA 6 drar in över 1,4 miljarder dollar före den officiella lanseringen - bättre stadsdel
+- James Bond, Zelda och GTA – De tävlar om att bli Årets spel - SVT Nyheter
 
 ## World News
 
+- Booking satsar på AI och B2B i ny global division (Finwire News) - Aktiellt
 - Aho, Hurricanes glänste under Global Series - NHL.com
 - PRESS RELEASE: Global Finance Names The World’s 50 Safest Commercial Banks 2026 - Global Finance Magazine
 - Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
@@ -43,7 +44,6 @@ _Updated: 2026-11-18 15:19_
 
 ## Technology
 
-- Vietnam-Sydkorea: Från att koppla samman investeringar till att gemensamt skapa AI och halvledarteknik. - Vietnam.vn
 - Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
 - Anthropic och OpenAI stäms för påstådda patentintrång - Placera.se
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
@@ -57,8 +57,9 @@ _Updated: 2026-11-18 15:19_
 - 290 million for digitalisation of Swedish industry - Vinnova
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
-- Artificiell intelligens: Möjligheter och risker - European Parliament
 - Öppningsceremoni för Vietnams forum för artificiell intelligens - AI360 2026 - Vietnam.vn
+- Sandvik AI investments - smarter Industry solutions - Sandvik Group
+- Artificiell intelligens: Möjligheter och risker - European Parliament
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - När ”human in the loop” ger en falsk trygghet - Computer Sweden
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
@@ -66,14 +67,14 @@ _Updated: 2026-11-18 15:19_
 
 ## Business
 
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Organon lanserar ett nytt företag för kvinnohälsa - Via TT
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Lendo integrerar Kreddy under sitt varumärke – vässar erbjudandet som Sveriges största jämförelsetjänst för lån - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
