@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-18 01:08_
+_Updated: 2026-11-18 06:42_
 
-- Classified N.S.A. Network Goes Down, Causing Work Disruptions - The New York Times
-- FEMA will test its Emergency Alert System today. Here’s what to expect. - The Washington Post
-- Trump arrives in Philippines to kick off Asia trip - NPR
-- School Phone Bans Are Gradually Improving Test Scores, New Evidence Shows - The New York Times
-- Trump says US taking 'very seriously' any Iranian plot against Washington - BBC
-- Illinois man charged in connection with bomb found at Peoria ethanol plant - NBC News
-- US Navy chief says Iran war has put ‘strain’ on maritime forces - Al Jazeera
-- Sea turtles laid eggs on a California beach, a first. Now they’ve hatched. - The Washington Post
-- Mike Johnson backs crackdown on House GOP holdouts - Politico
-- City of New Orleans closes assistance center for capsized cruise ship passengers - WDSU
+- Democrat Mary Peltola flips Alaska Senate seat, defeating GOP Sen. Dan Sullivan - NBC News
+- Scoop: White House drops Heidi Overton's FDA nomination - Axios
+- Trump in Asia ahead of talks with Russian and Chinese presidents - BBC
+- NSA says internal systems outage caused by ‘scheduled routine maintenance’ - Politico
+- Rubio says ‘zero’ information that US outages are linked or caused by a malign actor - AP News
+- Markwayne Mullin Defends Flight to L.S.U.-Texas Game After Ground Stop - The New York Times
+- Kelly knocks Hun Cao’s analogy about food shortages on Navy ships - The Hill
+- Explosive trash geyser heightens fear of health crisis around troubled L.A. area landfill - Los Angeles Times
+- Trump administration signals plan for seawall work at Washington golf course as legal fight drags on - AP News
+- Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain - Al Jazeera
 - How Ukraine struck the Kerch bridge, a symbol of Putin’s rule - The Guardian
-- A 2-month lull ends with Iran’s third strike on US targets in Bahrain, and US retaliation - AP News
-- Europe fears what Trump, Xi and Putin might discuss behind closed doors in China - CNN
-- American soldier accused of spying now in U.S. military custody after U.K. arrest - CBS News
-- Nvidia earnings live: Nvidia posts Q3 beat, board says it will not reinstate Jensen Huang as CEO - Yahoo Finance
-- Jensen Huang breaks silence after resigning from Nvidia, says he "would be honored" to return as CEO - CBS News
-- Sean Duffy’s attacks on past FAA ground stop resurface - CNN
-- Apple services, including iCloud, App Store, Apple Music, and more, hit by outage - TechCrunch
-- Hacker Who Leaked Grand Theft Auto VI Clips Pleads Guilty to Cybercrimes - The New York Times
+- American soldier arrested in UK taken into US military custody - BBC
+- Home secretary plans to tackle 'perception of two-tier policing' - BBC
+- What does China’s massive warplane build-up say about its combat readiness? - South China Morning Post
+- Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates - CNBC
+- Nvidia rejects Jensen Huang’s offer to return as CEO despite pressure from Silicon Valley - AP News
+- Sean Duffy’s $50 billion demand for air travel fixes is met with yelling and skepticism in Congress - NBC News
+- Hawley calls explanation for FAA outage ‘a little hard to believe’ - The Hill
+- Satya Nadella says he’s AGI-pilled now - The Verge
 - Meta launches Direct, a stand-alone messaging app for Instagram - TechCrunch
