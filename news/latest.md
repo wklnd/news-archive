@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-18 06:42_
+_Updated: 2026-11-18 15:27_
 
-- Democrat Mary Peltola flips Alaska Senate seat, defeating GOP Sen. Dan Sullivan - NBC News
-- Scoop: White House drops Heidi Overton's FDA nomination - Axios
-- Trump in Asia ahead of talks with Russian and Chinese presidents - BBC
-- NSA says internal systems outage caused by ‘scheduled routine maintenance’ - Politico
-- Rubio says ‘zero’ information that US outages are linked or caused by a malign actor - AP News
-- Markwayne Mullin Defends Flight to L.S.U.-Texas Game After Ground Stop - The New York Times
-- Kelly knocks Hun Cao’s analogy about food shortages on Navy ships - The Hill
-- Explosive trash geyser heightens fear of health crisis around troubled L.A. area landfill - Los Angeles Times
-- Trump administration signals plan for seawall work at Washington golf course as legal fight drags on - AP News
-- Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain - Al Jazeera
+- Fish and High Prices: How Mary Peltola Triumphed in Alaska’s Senate Race - The New York Times
+- APEC summit latest: Trump greeted at airport by Xi in extremely rare move ahead of meeting with Putin - CNN
+- Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait - WSJ
+- Xi says Asia-Pacific needs open trade and Putin condemns sanctions as Trump arrives in China - AP News
+- White House pulls FDA nominee amid political pushback - The Washington Post
+- Oversight Dems put Trump family, top aides on notice - Politico
+- ‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio - The Guardian
+- Acting Navy secretary faces scrutiny over communication with Congress - Federal News Network
+- Trump Administration Presses Ahead in Legal Battle Over U.S. Attorneys - The New York Times
+- Police to reinvestigate case against man charged in Tasia Fortune’s killing - CNN
+- Trump Briefly Met an Old Friend in Manila: Imelda Marcos - The New York Times
+- ADNOC Ship Attacked in Hormuz as Maritime Security Risks Rise - Crude Oil Prices Today | OilPrice.com
 - How Ukraine struck the Kerch bridge, a symbol of Putin’s rule - The Guardian
-- American soldier arrested in UK taken into US military custody - BBC
-- Home secretary plans to tackle 'perception of two-tier policing' - BBC
-- What does China’s massive warplane build-up say about its combat readiness? - South China Morning Post
-- Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates - CNBC
-- Nvidia rejects Jensen Huang’s offer to return as CEO despite pressure from Silicon Valley - AP News
-- Sean Duffy’s $50 billion demand for air travel fixes is met with yelling and skepticism in Congress - NBC News
-- Hawley calls explanation for FAA outage ‘a little hard to believe’ - The Hill
-- Satya Nadella says he’s AGI-pilled now - The Verge
-- Meta launches Direct, a stand-alone messaging app for Instagram - TechCrunch
+- Zelensky calls on allies to exchange missiles, provide 40 more F-16 jets for Ukraine - The Kyiv Independent
+- Nasdaq futures rise as Nvidia gains on earnings beat and solid outlook: Live updates - CNBC
+- Wall Street prepares for Anthropic IPO frenzy, despite broader AI stock slump - Reuters
+- Target earnings squash estimates as inflation-weary shoppers see great deals - Yahoo Finance
+- Nvidia bought itself a little breathing room in the Jensen Huang comeback fight - Business Insider
+- Grand Theft Auto 6: Reviews come in as worldwide release begins - BBC
+- New Grand Theft Auto Sparks Unprecedented Gamer Frenzy - Newser
