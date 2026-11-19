@@ -1,49 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-18 23:30_
+_Updated: 2026-11-19 04:43_
 
 ## Top Stories
 
-- Puts och betong har ramlat ner i förlossningsrum på Södersjukhuset - SVT Nyheter
-- Olycka på E20 – fånge försökte fly - Aftonbladet
-- DN Direkt – Två vuxna och ett barn hittade döda i Danmark - Dagens Nyheter
-- Oron i S: Ledningen sjabblar bort regeringsmakten - Dagens Nyheter
-- Ebba Busch: Då kan Mohamed Ali bli minister - Expressen
-- Försenade tåg efter kommunikationsproblem hos Trafikverket - SVT Nyheter
-- C-ledaren: Fokus på att få Andersson vald - Göteborgs-Posten
-- DN Direkt – Svenskar bäst på att förstå engelska - Dagens Nyheter
-- Mina Asp Romefors: Mobbarjulen 2026 närmar sig – tacka årets julklapp - Dagens Nyheter
-- Tidigare skolanställd dömd för barnpornografibrott - Göteborgs-Posten
-- EU-förslag: 45 miljarder euro i nya lån till Ukraina - Dagens Nyheter
-- Varför attackerar Ukraina Krimbron? Chatta med militärexperten - Dagens Nyheter
+- Ryssland: Krimbron attackerad igen – Senaste nytt om kriget i Ukraina - SVT Nyheter
+- Del av tak rasade in på förlossningsavdelning - Göteborgs-Posten
+- Israel startar ny offensiv i Gaza - Göteborgs-Posten
+- Fem till sjukhus efter frontalkrock – en allvarligt skadad - Sveriges Radio
+- DN Direkt – Uppgift: Trump och Putin ska träffas enskilt - Dagens Nyheter
+- DN Direkt – Thand Ringqvist: Förhandlingarna går bra - Dagens Nyheter
+- M större än S i ny mätning: ”Det är spektakulärt” - Göteborgs-Posten
+- Stillastående personbil skapar problem i trafiken på E18 - UNT
+- Engelbrektsloppet jublar över årets julklapp: ”Otroligt kul överraskning” - SVT Nyheter
+- Varning för blixthalka i Västerbottens kustland - Norran
+- 500 miljarder kronor i nytt EU-lån till Ukraina - Västerbottens-Kuriren
 - Polen: Chefsdomare förlorar immunitet - Göteborgs-Posten
-- Gerillakrigaren: ”Priset för ett misstag är alldeles för högt” - Dagens Nyheter
-- Nvidias aktie faller efter stark rapport - TV4 Nyheterna
-- Jensen Huang ska vittna inför senatens bankutskott - CNBC - Placera.se
-- Rutger Selin ser köpläge i AI-raset - Placera.se
+- Kändis-flodhästen Fiona åt mössa – får akut vård - Göteborgs-Posten
+- Peter Alestig: Hyckleriet på klimatmötet – fossilaffärer sker under förhandlingarna - Dagens Nyheter
 - Kan döda oss alla – ändå lär AI-jätten rusa - Aftonbladet
+- Nvidias aktie föll trots stark rapport - Göteborgs-Posten
+- Lyko har hackats – så många kunder drabbades - Sveriges Radio
+- Uppgifter: Nvidias rekryterare har kontaktat Rene Haas - EFN
+- Jättelanseringen är här – GTA VI släppt i Sverige - TV4 Nyheterna
 - Voyager 1 blir historisk – ett ljusdygn från jorden - Svenska Dagbladet
-- James Bond, Zelda och GTA – De tävlar om att bli Årets spel - SVT Nyheter
 
 ## World News
 
-- Booking satsar på AI och B2B i ny global division (Finwire News) - Aktiellt
 - Aho, Hurricanes glänste under Global Series - NHL.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - PRESS RELEASE: Global Finance Names The World’s 50 Safest Commercial Banks 2026 - Global Finance Magazine
 - Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Andra raka Global Series-segern för Hurricanes - NHL.com
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Låt oss bygga Hanoi till en "global lärstad". - Vietnam.vn
 - 1 426 potential victims identified in global operation against human trafficking - Europol
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 
 ## Technology
 
+- Vietnam-Sydkorea: Från att koppla samman investeringar till att gemensamt skapa AI och halvledarteknik. - Vietnam.vn
 - Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
 - Anthropic och OpenAI stäms för påstådda patentintrång - Placera.se
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
@@ -57,13 +59,12 @@ _Updated: 2026-11-18 23:30_
 - 290 million for digitalisation of Swedish industry - Vinnova
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
-- Öppningsceremoni för Vietnams forum för artificiell intelligens - AI360 2026 - Vietnam.vn
 - Sandvik AI investments - smarter Industry solutions - Sandvik Group
 - Artificiell intelligens: Möjligheter och risker - European Parliament
+- Karim Jebari - Institutet för framtidsstudier
+- Öppningsceremoni för Vietnams forum för artificiell intelligens - AI360 2026 - Vietnam.vn
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- När ”human in the loop” ger en falsk trygghet - Computer Sweden
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
 
