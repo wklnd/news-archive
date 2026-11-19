@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-18 23:35_
+_Updated: 2026-11-19 04:48_
 
-- Trump shakes hands with Putin and Xi ahead of historic talks in China - BBC
-- Democrats formally nominate Rep. Hakeem Jeffries, paving way for him to be the first Black speaker - NBC News
+- Trump, Xi and Putin set to hold historic meeting on Apec sidelines - BBC
 - Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang - NPR
-- DOJ charges former Penn State student at center of fraternity drug bust - NBC News
-- Leading House Democrat targets Trump’s inner circle for first investigations - The Washington Post
-- Inside the old gas pipeline where Ukraine is fighting an underground war - BBC
-- Markwayne Mullin Is in Hot Seat After String of Glitches (and a Football Game) - WSJ
+- House Democrats Cast Wide Net as They Prepare Trump Investigations - The New York Times
+- Kerch attack: Bridge connecting Russia to occupied Crimea has been hit again - CNN
+- Democrat Hakeem Jeffries nominated to be first Black speaker of House next year - The Washington Post
+- NSA outage disrupts key intel hub that supports Middle East intelligence and operations, sources say - CNN
 - 12+ inches of rain possible by Friday night along coast; 18 inches in isolated areas - WESH
-- Feds arrest alleged Russian agent they say stalked employees of Silicon Valley tech and defense firm - ABC News - Breaking News, Latest News and Videos
+- Cornyn blocks Trump’s nomination to federal district court because he didn’t choose a Texan - The Hill
+- Boyd, Williams indicted on murder charges in Scott Spivey’s death - WMBF
 - Jensen Huang and Howard Lutnick will appear publicly before a powerful Senate panel - Yahoo Finance
+- Xi Jinping rallies against protectionism as he welcomes Trump to Apec summit - The Guardian
+- Israeli military launches rare ground operation in Gaza beyond Yellow Line - BBC
 - Iran War Updates: Gulf states and tankers under fire as U.S. and Iran ramp back up tit-for-tat strikes - CBS News
-- Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion - The New York Times
-- Trump touts ‘landmark’ trade deal with Philippines - The Hill
-- ‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge - Al Jazeera
-- Anthropic IPO live: Company said to price stock at $83, begin trading Thursday - Yahoo Finance
-- DOT Secretary Sean Duffy keeps blaming L3Harris after FAA ground stop, even as cause remains unknown - AP News
-- Stock Market Today: Dow Falls as Nvidia Earnings Fail to Soothe Investors' Nerves - WSJ
+- Islam will overtake Christianity as world's largest religion by 2035: Pew - Axios
+- Asian Stocks Set to Fall Ahead of Anthropic Debut: Markets Wrap - Bloomberg
+- Anthropic to go public at $83 per share with jaw-dropping $1.5 trillion valuation - New York Post
+- DealBook Summit: Elon Musk Paints Himself as Political Moderate, Says He Is ‘Not MAGA’ - The New York Times
 - Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit - CNBC
-- GTA 6 reviews say highly-anticipated game is a masterpiece - BBC
-- Nvidia’s RTX Spark Desktops Imagine They Can Actually Compete With the Mac Studio - Gizmodo
+- Grand Theft Auto VI is here. The EU has 6 reasons to pay attention. - POLITICO.eu
+- The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI - The Verge
