@@ -1,86 +1,88 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-19 13:59_
+_Updated: 2026-11-19 22:53_
 
 ## Top Stories
 
-- Trump efter unika mötet: ”På ny väg” - Hufvudstadsbladet – HBL
-- Elever åtalas för sexualbrott mot kamrater på Sigtunaskolan - Dagens Nyheter
-- En död i trafikolycka på riksväg 40 utanför Vimmerby - Sveriges Radio
-- 19 november 09.32, Farligt föremål, misstänkt, Göteborg - polisen.se
-- Del av tak rasade in på förlossningsavdelning - Göteborgs-Posten
+- Explosion nära Sveriges ambassad i Kiev - Göteborgs-Posten
+- Trump ringde in – överraskade Europas ledare - Svenska Dagbladet
+- Martin Ådahl (C): Satsar med full kraft på Magdalena Anderssons regering – Senaste nytt om valet 2026 - SVT Nyheter
+- DN Direkt – Kristersson om Kinamötet: Långt ifrån vår uppfattning - Dagens Nyheter
+- Man död i arbetsplatsolycka i Västerviks kommun - Sveriges Radio
+- Tåg utrymt i Katrineholm efter mystiskt hotlarm - Omni – Alla nyheter. Alla perspektiv.
+- Kontroversiell teknik plötsligt i fokus på klimatmötet - Dagens Nyheter
+- Anställd attackerad med tillhyggen på hälsocentral i Kalix: ”Fruktansvärt” - Arbetet
+- 19 november 16.47, Trafikolycka, Avesta - polisen.se
+- Gul varning för snöfall i Stockholm - Göteborgs-Posten
+- Putin: Europeiska företrädare välkomna till Moskva - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Gazabor återvänder efter israelisk insats - Dagens Nyheter
 - FN-domstol fäller Myanmar för folkmord - SVT Nyheter
-- Skrev att han skulle döda femton elever – ställs inför rätta för terrorbrott - Dagens Nyheter
-- Polisinsats på tåg i Katrineholm - Göteborgs-Posten
-- Så beväpnade en bosnisk polisanställd Foxtrot - Dagens Nyheter
-- KU går vidare med Landerholmgranskning - Altinget.se
-- Sanna Torén Björling: Andra länder kan dra lärdom av Flamingoattackerna mot Krimbron - Dagens Nyheter
 - Sverige om Ukrainastöd: Alla bör delta - Göteborgs-Posten
-- COP 31: Oljelobbyister överallt – men miljökämpar ger hopp - Dagens Arena
-- AFP: Explosion i Riyad – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Stort intresse för Anthropics börsnotering bland svenska småsparare - Placera.se
-- Nvidias jakt på ny vd – han pekas ut - Sydsvenskan
-- Trump öppnar för försäljning av Nvidias Blackwell-chip till Kina om två till tre år - Affärsvärlden
-- Varnar för bensinbrist inför höjda drivmedelsskatten - SVT Nyheter
-- Just nu Sony stiger efter stark GTA VI-försäljning - Placera.se
-- Oxelösundare nominerad till samma spelgala som GTA 6 - SN, Södermanlands Nyheter
+- Analytiker: Så mycket tjänar Avanza och Nordnet på Anthropics notering - EFN
+- Trump öppnar för försäljning av Nvidias Blackwell-chip till Kina om två till tre år - Placera.se
+- Dataintrång hos taxibolaget Cabonline – kunduppgifter kan ha läckt - SVT Nyheter
+- Stänger restaurangen för vintern på grund av elpriserna: ”Sjukt” - Dagens Nyheter
+- Rekordbetyg för GTA VI – nu ska miljarderna in - Placera.se
+- Influensasäsongen igång - Corren
 
 ## World News
 
 - Aho, Hurricanes glänste under Global Series - NHL.com
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - PRESS RELEASE: Global Finance Names The World’s 50 Safest Commercial Banks 2026 - Global Finance Magazine
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
-- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
-- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Andra raka Global Series-segern för Hurricanes - NHL.com
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- Låt oss bygga Hanoi till en "global lärstad". - Vietnam.vn
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- ABB lanserar kampanjen Real Progress för att påskynda global hållbarhet - ABB
+- BREAKING NEWS. Putin kommenterar USA-valet! - Global Bar Magazine
+- Låt oss bygga Hanoi till en "global lärstad". - Vietnam.vn
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
+- Hockeyn förenade under NHL Global Series - NHL.com
 
 ## Technology
 
 - Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
-- Vietnam-Sydkorea: Från att koppla samman investeringar till att gemensamt skapa AI och halvledarteknik. - Vietnam.vn
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - AI-explosion på svenska arbetsplatser - Computer Sweden
-- Tre år med AI: Vad har hänt med jobben? - Almega
 - Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
-- AI: EU:s medlemsstater planerar en ”digital expropriering” av européerna till förmån för AI-företag - noyb.eu
+- Tre år med AI: Vad har hänt med jobben? - Almega
 - Förordningen om artificiell intelligens - Council, European Union
+- AI: EU:s medlemsstater planerar en ”digital expropriering” av européerna till förmån för AI-företag - noyb.eu
 - Bästa AI-aktierna att köpa nu - Morningstar
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
-- 290 million for digitalisation of Swedish industry - Vinnova
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
+- 290 million for digitalisation of Swedish industry - Vinnova
+- AI och människor: Anpassning för att blomstra i den digitala tidsåldern - Vietnam.vn
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
 - Sandvik AI investments - smarter Industry solutions - Sandvik Group
 - Artificiell intelligens: Möjligheter och risker - European Parliament
 - Karim Jebari - Institutet för framtidsstudier
-- AI och människor: Anpassning för att blomstra i den digitala tidsåldern - Vietnam.vn
-- Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Öppningsceremoni för Vietnams forum för artificiell intelligens - AI360 2026 - Vietnam.vn
+- Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
+- Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
 - Tillkännagivandet av Vietnams digitala teknologikarta 2026 - Vietnam.vn
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Lendo integrerar Kreddy under sitt varumärke – vässar erbjudandet som Sveriges största jämförelsetjänst för lån - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
 
 ## Health
 
@@ -97,14 +99,26 @@ _Updated: 2026-11-19 13:59_
 
 ## Science
 
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Öppen vetenskap vid SLU - SLU
+- När praktisk problemlösning blir ett sätt att forska - Chalmers tekniska högskola
+- Boklansering: ”Väterikt vatten – Vetenskap och hälsa” - Vietnam.vn
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Science fiction i verkligheten - Forskning & Framsteg
+- Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
+- ”Dagens peer review-system är inte värt att bevara” - Forskning & Framsteg
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- AI för vetenskaplig forskning och upptäckter - OpenAI
-- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- European School of Sustainability Science and Research - Åbo Akademi
+- AI och data science - Stockholms universitet
+- 5 myter om öppen vetenskap - Läkartidningen
+- Täta band mellan turism och forskning på Svalbard - SLU
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Årets tio största vetenskapliga genombrott - Dagens Nyheter
+- ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
 
 ## Jordbruk
 
@@ -114,7 +128,6 @@ _Updated: 2026-11-19 13:59_
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jord, kor och klimat - SLU
-- Lantbrukslogik – nu och i framtiden - SLU
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Här är världens största jordbruk - ATL
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
