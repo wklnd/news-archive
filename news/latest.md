@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-19 04:48_
+_Updated: 2026-11-19 14:07_
 
-- Trump, Xi and Putin set to hold historic meeting on Apec sidelines - BBC
-- Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang - NPR
+- Xi Hosts ‘Groundbreaking’ Trilateral Meeting With Trump, Putin - Bloomberg
+- L.A. County issues evacuation warnings as storm nears; snow, flooding expected - Los Angeles Times
 - House Democrats Cast Wide Net as They Prepare Trump Investigations - The New York Times
-- Kerch attack: Bridge connecting Russia to occupied Crimea has been hit again - CNN
-- Democrat Hakeem Jeffries nominated to be first Black speaker of House next year - The Washington Post
-- NSA outage disrupts key intel hub that supports Middle East intelligence and operations, sources say - CNN
-- 12+ inches of rain possible by Friday night along coast; 18 inches in isolated areas - WESH
-- Cornyn blocks Trump’s nomination to federal district court because he didn’t choose a Texan - The Hill
-- Boyd, Williams indicted on murder charges in Scott Spivey’s death - WMBF
-- Jensen Huang and Howard Lutnick will appear publicly before a powerful Senate panel - Yahoo Finance
-- Xi Jinping rallies against protectionism as he welcomes Trump to Apec summit - The Guardian
-- Israeli military launches rare ground operation in Gaza beyond Yellow Line - BBC
-- Iran War Updates: Gulf states and tankers under fire as U.S. and Iran ramp back up tit-for-tat strikes - CBS News
-- Islam will overtake Christianity as world's largest religion by 2035: Pew - Axios
-- Asian Stocks Set to Fall Ahead of Anthropic Debut: Markets Wrap - Bloomberg
-- Anthropic to go public at $83 per share with jaw-dropping $1.5 trillion valuation - New York Post
-- DealBook Summit: Elon Musk Paints Himself as Political Moderate, Says He Is ‘Not MAGA’ - The New York Times
-- Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit - CNBC
-- Grand Theft Auto VI is here. The EU has 6 reasons to pay attention. - POLITICO.eu
-- The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI - The Verge
+- Democrats flipped 9 U.S. Senate seats — the most in almost 70 years - PBS
+- Myanmar faces historic genocide verdict at UN court over Rohingya massacres - BBC
+- Crimea bridge has been attacked again, says Russian-installed governor - The Guardian
+- Heavy rain, flash flooding threaten Central Florida as storm system moves through - WESH
+- Elon Musk says record $446m spending on US midterms was 'pretty foolish' - BBC
+- Brother of American killed in Costa Rica says he's focused on justice after arrest of former girlfriend - CBS News
+- More than 5,500 still without power as rain drenches the Bay Area - SFGATE
+- Taiwan eyeing US-China-Russia talks - Taipei Times
+- Google declines UK request for Russell Brand YouTube video to be removed, sources say - BBC
+- Iran widens Gulf attacks by targeting U.S. air base in Kuwait and sites in Bahrain - PBS
+- Japan scrambles fighter jets after Russian aircraft breach airspace amid rising Pacific tensions - Fox News
+- Anthropic raises $81bn in record-breaking stock market debut - BBC
+- The Iran War Could Permanently Slash Reliance on Hormuz, IEA Says - WSJ
+- Duffy keeps blaming L3Harris after FAA ground stop, even as cause remains unknown - PBS
+- Walmart is set to report earnings before the bell. Here's what to expect - CNBC
+- Grand Theft Auto VI launches to global fanfare - DW.com
+- Instagram finally lets users edit Stories after publishing, but there’s a catch - 9to5Mac
