@@ -1,53 +1,55 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-19 04:43_
+_Updated: 2026-11-19 13:59_
 
 ## Top Stories
 
-- Ryssland: Krimbron attackerad igen – Senaste nytt om kriget i Ukraina - SVT Nyheter
+- Trump efter unika mötet: ”På ny väg” - Hufvudstadsbladet – HBL
+- Elever åtalas för sexualbrott mot kamrater på Sigtunaskolan - Dagens Nyheter
+- En död i trafikolycka på riksväg 40 utanför Vimmerby - Sveriges Radio
+- 19 november 09.32, Farligt föremål, misstänkt, Göteborg - polisen.se
 - Del av tak rasade in på förlossningsavdelning - Göteborgs-Posten
-- Israel startar ny offensiv i Gaza - Göteborgs-Posten
-- Fem till sjukhus efter frontalkrock – en allvarligt skadad - Sveriges Radio
-- DN Direkt – Uppgift: Trump och Putin ska träffas enskilt - Dagens Nyheter
-- DN Direkt – Thand Ringqvist: Förhandlingarna går bra - Dagens Nyheter
-- M större än S i ny mätning: ”Det är spektakulärt” - Göteborgs-Posten
-- Stillastående personbil skapar problem i trafiken på E18 - UNT
-- Engelbrektsloppet jublar över årets julklapp: ”Otroligt kul överraskning” - SVT Nyheter
-- Varning för blixthalka i Västerbottens kustland - Norran
-- 500 miljarder kronor i nytt EU-lån till Ukraina - Västerbottens-Kuriren
-- Polen: Chefsdomare förlorar immunitet - Göteborgs-Posten
-- Kändis-flodhästen Fiona åt mössa – får akut vård - Göteborgs-Posten
-- Peter Alestig: Hyckleriet på klimatmötet – fossilaffärer sker under förhandlingarna - Dagens Nyheter
-- Kan döda oss alla – ändå lär AI-jätten rusa - Aftonbladet
-- Nvidias aktie föll trots stark rapport - Göteborgs-Posten
-- Lyko har hackats – så många kunder drabbades - Sveriges Radio
-- Uppgifter: Nvidias rekryterare har kontaktat Rene Haas - EFN
-- Jättelanseringen är här – GTA VI släppt i Sverige - TV4 Nyheterna
-- Voyager 1 blir historisk – ett ljusdygn från jorden - Svenska Dagbladet
+- FN-domstol fäller Myanmar för folkmord - SVT Nyheter
+- Skrev att han skulle döda femton elever – ställs inför rätta för terrorbrott - Dagens Nyheter
+- Polisinsats på tåg i Katrineholm - Göteborgs-Posten
+- Så beväpnade en bosnisk polisanställd Foxtrot - Dagens Nyheter
+- KU går vidare med Landerholmgranskning - Altinget.se
+- Sanna Torén Björling: Andra länder kan dra lärdom av Flamingoattackerna mot Krimbron - Dagens Nyheter
+- Sverige om Ukrainastöd: Alla bör delta - Göteborgs-Posten
+- COP 31: Oljelobbyister överallt – men miljökämpar ger hopp - Dagens Arena
+- AFP: Explosion i Riyad – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Stort intresse för Anthropics börsnotering bland svenska småsparare - Placera.se
+- Nvidias jakt på ny vd – han pekas ut - Sydsvenskan
+- Trump öppnar för försäljning av Nvidias Blackwell-chip till Kina om två till tre år - Affärsvärlden
+- Varnar för bensinbrist inför höjda drivmedelsskatten - SVT Nyheter
+- Just nu Sony stiger efter stark GTA VI-försäljning - Placera.se
+- Oxelösundare nominerad till samma spelgala som GTA 6 - SN, Södermanlands Nyheter
 
 ## World News
 
 - Aho, Hurricanes glänste under Global Series - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - PRESS RELEASE: Global Finance Names The World’s 50 Safest Commercial Banks 2026 - Global Finance Magazine
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Andra raka Global Series-segern för Hurricanes - NHL.com
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
+- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Andra raka Global Series-segern för Hurricanes - NHL.com
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Låt oss bygga Hanoi till en "global lärstad". - Vietnam.vn
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Låt oss bygga Hanoi till en "global lärstad". - Vietnam.vn
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
-- Vietnam-Sydkorea: Från att koppla samman investeringar till att gemensamt skapa AI och halvledarteknik. - Vietnam.vn
 - Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
-- Anthropic och OpenAI stäms för påstådda patentintrång - Placera.se
+- Vietnam-Sydkorea: Från att koppla samman investeringar till att gemensamt skapa AI och halvledarteknik. - Vietnam.vn
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - AI-explosion på svenska arbetsplatser - Computer Sweden
 - Tre år med AI: Vad har hänt med jobben? - Almega
@@ -62,17 +64,18 @@ _Updated: 2026-11-19 04:43_
 - Sandvik AI investments - smarter Industry solutions - Sandvik Group
 - Artificiell intelligens: Möjligheter och risker - European Parliament
 - Karim Jebari - Institutet för framtidsstudier
-- Öppningsceremoni för Vietnams forum för artificiell intelligens - AI360 2026 - Vietnam.vn
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
+- AI och människor: Anpassning för att blomstra i den digitala tidsåldern - Vietnam.vn
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
+- Öppningsceremoni för Vietnams forum för artificiell intelligens - AI360 2026 - Vietnam.vn
+- Tillkännagivandet av Vietnams digitala teknologikarta 2026 - Vietnam.vn
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Lendo integrerar Kreddy under sitt varumärke – vässar erbjudandet som Sveriges största jämförelsetjänst för lån - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
@@ -86,11 +89,11 @@ _Updated: 2026-11-19 04:43_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Google Cloud öppnar förhandsversionen av Gemini for Healthcare i USA - Unite.AI
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
-- Gör ChatGPT gratis for vårdpersonal - OpenAI
 
 ## Science
 
@@ -99,9 +102,8 @@ _Updated: 2026-11-19 04:43_
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Science fiction i verkligheten - Forskning & Framsteg
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- AI och data science - Stockholms universitet
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - European School of Sustainability Science and Research - Åbo Akademi
 
 ## Jordbruk
