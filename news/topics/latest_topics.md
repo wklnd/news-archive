@@ -1,115 +1,122 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-20 04:30_
+_Updated: 2026-11-20 12:18_
 
 ## Top Stories
 
-- Martin Ådahl (C): Satsar med full kraft på Magdalena Anderssons regering – Senaste nytt om valet 2026 - SVT Nyheter
-- Explosion nära Sveriges ambassad i Kiev - Göteborgs-Posten
-- Kändis-flodhästen Fiona död - Göteborgs-Posten
+- Långa köer E6 efter lastbilskrock - SVT Nyheter
+- SMHI varnar för snö i östra Svealand - Sveriges Radio
+- DN Direkt – Man åtalas för dödskörning på Östermalm - Dagens Nyheter
+- Panama hotar att blockera klimatuppgörelse - Corren
+- Svensk kvinna hittad död i Filippinerna - Västerbottens-Kuriren
+- Ryssland attackerar broar i Kiev – flera döda - Göteborgs-Posten
+- DN Direkt – 21-årig svensk ny på Europols ”most wanted-lista” - Dagens Nyheter
+- Fertilitetshämmande ämne sprids till svenskt vatten: ”Oroväckande” - Dagens Nyheter
+- Just nu: Trafiken påverkas av stillastående fordon på E4 – stopp i ett körfält - UNT
+- Brukare blev utan tillsyn i dagar – avled senare - Sveriges Radio
+- Burnham vill återuppbygga broar till EU – men britterna vill fortfarande inte betala priset - Altinget.se
+- Butiker om protesterna: Inte som i Frankrike - Göteborgs-Posten
+- Niinistö: Mötet är en seger för Putin - Hufvudstadsbladet – HBL
 - Många paroller i Berlin, medan de tre mäktiga i Kina höll tyst - Hufvudstadsbladet – HBL
-- Fyra män döms för övergrepp i ”brittiskt Pelicotfall” - Dagens Nyheter
-- 19 november 16.57, Trafikolycka, Linköping - polisen.se
-- DN Direkt – En död i brand utanför Gnosjö - Dagens Nyheter
-- Gul varning för snöfall i Stockholm - Göteborgs-Posten
-- Just nu: Trafikolycka med flera fordon på E18 - UNT
-- DN Direkt – Kvinna hittad död – kollega mordmisstänkt - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Gazabor återvänder efter israelisk insats - Dagens Nyheter
-- Sanna Torén Björling: Andra länder kan dra lärdom av Flamingoattackerna mot Krimbron - Dagens Nyheter
-- FN-domstolen slår fast att Myanmar begick folkmord - Göteborgs-Posten
-- Putin: Europeiska företrädare välkomna till Moskva - Dagens Nyheter
-- Sparekonomen: Anthropic kan locka AI-bolag till börsen - Sveriges Radio
-- Norwegian ber 5 000 kunder spärra sina bankkort efter dataintrång - SVT Nyheter
-- Dataintrång hos Cabonline – hackare försöker sprida uppgifter - Aftonbladet
-- Kinesisk AI-jätte bryter storaffär med Nvidia - Omni – Alla nyheter. Alla perspektiv.
-- Erik tog semester för GTA 6: ”En glädjefest” - SVT Nyheter
-- GTA kan bli dyr affär – konsolpriser pressas av AI-boomen - Sveriges Radio
+- PODD: Lyssna: Elpriserna hotar Lindab på Bjäre - HD
+- Just nu Börsen backar – Atlas Copco och ABB bland förlorarna - Placera.se
+- Harald Mix Polarium ansöker om konkurs - DI
+- Anthropics aktiekurs rusade efter Nasdaqnoteringen - Sveriges Radio
+- SHB: GTA VI väntas lyfta spelbranschen på sikt - men stör svenska utvecklare kortsiktigt - Placera.se
+- RAM-bristen slår mot spelskolan i Falun: ”Kan bli en halv miljon extra” - SVT Nyheter
 
 ## World News
 
-- Aho, Hurricanes glänste under Global Series - NHL.com
-- PRESS RELEASE: Global Finance Names The World’s 50 Safest Commercial Banks 2026 - Global Finance Magazine
+- Musiktest: Med vilken låt fick James Blunt en global listetta och varifrån kommer U2? - Yle
 - Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- PRESS RELEASE: Global Finance Names The World’s 50 Safest Commercial Banks 2026 - Global Finance Magazine
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
+- Karen Ellemann utsedd till global frontfigur i kampen mot matsvinn - The Nordic Co-operation
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
+- Exportföretaget undviker tullar i global handel: "Finns en parentes" - Siljan News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Perfekt genrep inför Global Series för Hurricanes - NHL.com
 - BREAKING NEWS. Putin kommenterar USA-valet! - Global Bar Magazine
-- Låt oss bygga Hanoi till en "global lärstad". - Vietnam.vn
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Aho, Hurricanes glänste under Global Series - NHL.com
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Hockeyn förenade under NHL Global Series - NHL.com
+- Succébandet Bolaget på plats för Global Series - NHL.com
+- Kungsträdgården arrangerar NHL Global Fan Tour 15-19 nov - NHL.com
 
 ## Technology
 
 - Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - AI-explosion på svenska arbetsplatser - Computer Sweden
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Tre år med AI: Vad har hänt med jobben? - Almega
-- Förordningen om artificiell intelligens - Council, European Union
+- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - AI: EU:s medlemsstater planerar en ”digital expropriering” av européerna till förmån för AI-företag - noyb.eu
+- Förordningen om artificiell intelligens - Council, European Union
 - Bästa AI-aktierna att köpa nu - Morningstar
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - 290 million for digitalisation of Swedish industry - Vinnova
-- AI och människor: Anpassning för att blomstra i den digitala tidsåldern - Vietnam.vn
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
+- Öppningsceremoni för Vietnams forum för artificiell intelligens - AI360 2026 - Vietnam.vn
+- Karim Jebari - Institutet för framtidsstudier
 - Sandvik AI investments - smarter Industry solutions - Sandvik Group
 - Artificiell intelligens: Möjligheter och risker - European Parliament
-- Karim Jebari - Institutet för framtidsstudier
-- Öppningsceremoni för Vietnams forum för artificiell intelligens - AI360 2026 - Vietnam.vn
-- Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
+- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
-- Tillkännagivandet av Vietnams digitala teknologikarta 2026 - Vietnam.vn
+- Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
+- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
 
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Lendo integrerar Kreddy under sitt varumärke – vässar erbjudandet som Sveriges största jämförelsetjänst för lån - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
+- Ukrainska borgmästare till finländska företag: Hjälp oss bygga upp landet - Yle
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Four European takes on open banking - Mastercard Data and Services - Mastercard
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Redpill Linpro och Berget AI inleder samarbete för suverän AI - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
-- Flexibel kapacitetsökning i katastrofer och allvarliga händelser - Göteborgs universitet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Google Cloud öppnar förhandsversionen av Gemini for Healthcare i USA - Unite.AI
-- Standarder för medicinskt innehåll hos Kantesti - Kantesti - AI Blood Test Analyzer
+- Vi presenterar HealthBench - OpenAI
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
-- Hormonspiral förbättrar livskvaliteten hos kvinnor med riklig mens - Mynewsdesk
+- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 
 ## Science
 
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Täta band mellan turism och forskning på Svalbard - SLU
-- Science fiction i verkligheten - Forskning & Framsteg
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- AI och data science - Stockholms universitet
-- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Täta band mellan turism och forskning på Svalbard - SLU
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- AI och data science - Stockholms universitet
 - European School of Sustainability Science and Research - Åbo Akademi
 
 ## Jordbruk
@@ -120,7 +127,7 @@ _Updated: 2026-11-20 04:30_
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jord, kor och klimat - SLU
-- Lantbrukslogik – nu och i framtiden - SLU
 - Här är världens största jordbruk - ATL
+- Lantbrukslogik – nu och i framtiden - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
