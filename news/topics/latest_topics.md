@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-19 22:53_
+_Updated: 2026-11-20 04:30_
 
 ## Top Stories
 
-- Explosion nära Sveriges ambassad i Kiev - Göteborgs-Posten
-- Trump ringde in – överraskade Europas ledare - Svenska Dagbladet
 - Martin Ådahl (C): Satsar med full kraft på Magdalena Anderssons regering – Senaste nytt om valet 2026 - SVT Nyheter
-- DN Direkt – Kristersson om Kinamötet: Långt ifrån vår uppfattning - Dagens Nyheter
-- Man död i arbetsplatsolycka i Västerviks kommun - Sveriges Radio
-- Tåg utrymt i Katrineholm efter mystiskt hotlarm - Omni – Alla nyheter. Alla perspektiv.
-- Kontroversiell teknik plötsligt i fokus på klimatmötet - Dagens Nyheter
-- Anställd attackerad med tillhyggen på hälsocentral i Kalix: ”Fruktansvärt” - Arbetet
-- 19 november 16.47, Trafikolycka, Avesta - polisen.se
+- Explosion nära Sveriges ambassad i Kiev - Göteborgs-Posten
+- Kändis-flodhästen Fiona död - Göteborgs-Posten
+- Många paroller i Berlin, medan de tre mäktiga i Kina höll tyst - Hufvudstadsbladet – HBL
+- Fyra män döms för övergrepp i ”brittiskt Pelicotfall” - Dagens Nyheter
+- 19 november 16.57, Trafikolycka, Linköping - polisen.se
+- DN Direkt – En död i brand utanför Gnosjö - Dagens Nyheter
 - Gul varning för snöfall i Stockholm - Göteborgs-Posten
-- Putin: Europeiska företrädare välkomna till Moskva - Dagens Nyheter
+- Just nu: Trafikolycka med flera fordon på E18 - UNT
+- DN Direkt – Kvinna hittad död – kollega mordmisstänkt - Dagens Nyheter
 - Direkt – Krisen i Mellanöstern – Gazabor återvänder efter israelisk insats - Dagens Nyheter
-- FN-domstol fäller Myanmar för folkmord - SVT Nyheter
-- Sverige om Ukrainastöd: Alla bör delta - Göteborgs-Posten
-- Analytiker: Så mycket tjänar Avanza och Nordnet på Anthropics notering - EFN
-- Trump öppnar för försäljning av Nvidias Blackwell-chip till Kina om två till tre år - Placera.se
-- Dataintrång hos taxibolaget Cabonline – kunduppgifter kan ha läckt - SVT Nyheter
-- Stänger restaurangen för vintern på grund av elpriserna: ”Sjukt” - Dagens Nyheter
-- Rekordbetyg för GTA VI – nu ska miljarderna in - Placera.se
-- Influensasäsongen igång - Corren
+- Sanna Torén Björling: Andra länder kan dra lärdom av Flamingoattackerna mot Krimbron - Dagens Nyheter
+- FN-domstolen slår fast att Myanmar begick folkmord - Göteborgs-Posten
+- Putin: Europeiska företrädare välkomna till Moskva - Dagens Nyheter
+- Sparekonomen: Anthropic kan locka AI-bolag till börsen - Sveriges Radio
+- Norwegian ber 5 000 kunder spärra sina bankkort efter dataintrång - SVT Nyheter
+- Dataintrång hos Cabonline – hackare försöker sprida uppgifter - Aftonbladet
+- Kinesisk AI-jätte bryter storaffär med Nvidia - Omni – Alla nyheter. Alla perspektiv.
+- Erik tog semester för GTA 6: ”En glädjefest” - SVT Nyheter
+- GTA kan bli dyr affär – konsolpriser pressas av AI-boomen - Sveriges Radio
 
 ## World News
 
@@ -38,13 +38,12 @@ _Updated: 2026-11-19 22:53_
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- ABB lanserar kampanjen Real Progress för att påskynda global hållbarhet - ABB
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - BREAKING NEWS. Putin kommenterar USA-valet! - Global Bar Magazine
 - Låt oss bygga Hanoi till en "global lärstad". - Vietnam.vn
 - 1 426 potential victims identified in global operation against human trafficking - Europol
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Hockeyn förenade under NHL Global Series - NHL.com
 
@@ -74,51 +73,44 @@ _Updated: 2026-11-19 22:53_
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Lendo integrerar Kreddy under sitt varumärke – vässar erbjudandet som Sveriges största jämförelsetjänst för lån - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Google Cloud öppnar förhandsversionen av Gemini for Healthcare i USA - Unite.AI
 - Vi presenterar HealthBench - OpenAI
+- Flexibel kapacitetsökning i katastrofer och allvarliga händelser - Göteborgs universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Google Cloud öppnar förhandsversionen av Gemini for Healthcare i USA - Unite.AI
+- Standarder för medicinskt innehåll hos Kantesti - Kantesti - AI Blood Test Analyzer
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
+- Sjukvård i gråzonen – hybridkrigets utmaningar för svensk akutsjukvård - Läkartidningen
+- Hormonspiral förbättrar livskvaliteten hos kvinnor med riklig mens - Mynewsdesk
 
 ## Science
 
-- Öppen vetenskap vid SLU - SLU
-- När praktisk problemlösning blir ett sätt att forska - Chalmers tekniska högskola
-- Boklansering: ”Väterikt vatten – Vetenskap och hälsa” - Vietnam.vn
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
-- ”Dagens peer review-system är inte värt att bevara” - Forskning & Framsteg
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- Täta band mellan turism och forskning på Svalbard - SLU
+- Science fiction i verkligheten - Forskning & Framsteg
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - AI och data science - Stockholms universitet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Täta band mellan turism och forskning på Svalbard - SLU
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Årets tio största vetenskapliga genombrott - Dagens Nyheter
-- ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
+- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- European School of Sustainability Science and Research - Åbo Akademi
 
 ## Jordbruk
 
@@ -128,6 +120,7 @@ _Updated: 2026-11-19 22:53_
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jord, kor och klimat - SLU
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Lantbrukslogik – nu och i framtiden - SLU
 - Här är världens största jordbruk - ATL
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
