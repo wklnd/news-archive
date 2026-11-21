@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-21 02:56_
+_Updated: 2026-11-21 10:45_
 
-- Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles - CNN
-- Trump threatens ban on US firms building AI data centres overseas - BBC
-- WATCH: After calling Putin his friend, Trump 'can't speak to' whether Putin is a friend to America - PBS
-- A second judge blocks Trump's arch, saying it's unlikely to succeed in court - NPR
-- Britain Announces Brexit Reset Deal at E.U. Summit: What to Know - The New York Times
-- 'Potent' storm will hit a huge stretch of the East Coast - USA Today
-- Texas Prisoner Moaned as Drugs Flowed During Execution, Witnesses Say - The New York Times
-- Scalise backs Senate-passed permitting bill - Politico
-- NYC Mayor Mamdani announces plan to shut down Rikers Island - CBS News
-- Removal of hat inside Fiona the hippo was 'impossible', Cincinnati Zoo says - BBC
+- How the White House lost faith in Sean Cairncross - Politico
+- Mamdani reveals plan for closure of New York's Rikers Island jail - BBC
+- Fiona's caretakers and fans mourn the beloved hippo after her death at Cincinnati Zoo - PBS
+- Palisades arson retrial ends with conviction of man accused of sparking deadly wildfire - Los Angeles Times
+- Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad - The Guardian
+- Officials Find Cascade of Problems With ICE Training in Trump’s Immigration Crackdown - The New York Times
+- Texas prisoner moans in pain for minutes during unusual lethal injection, witnesses say - Reuters
+- They shared their glamorous life online. Then one was killed — and the other was charged. - NBC News
+- As He Leaves Office, Ken Paxton Drops Suits Against Political Opponents - The New York Times
+- US Vice President Vance declines to say he would have ordered Iran strikes - Reuters
+- 10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU - Al Jazeera
+- Ukraine war briefing: European leaders react with anger and alarm after Russian missiles crash in Poland - The Guardian
+- States agree to UN talks aiming to regulate 'killer robots' by 2028 - The Jerusalem Post
 - Trump touts Asia deals and meeting with Xi and Putin at White House press conference - CBS News
-- Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation - AP News
-- Donald Trump seeks Ukraine peace deal before January - Financial Times
-- Iraqi security forces deploy in Iran-backed militia stronghold - NBC News
-- S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam - CNBC
-- Treasury secretary says no further restrictions are needed for Nvidia chip exports to China - AP News
-- Tech stock sell-off drags markets down as Anthropic shares slide - BBC
-- Nvidia stock extends $2.7 trillion rout as SEC probe reportedly investigates its accounting - Yahoo Finance
+- Nasdaq 100 Ends Worst Week Since 2020, S&P 500 In Correction Territory As AI Rout Sours Sentiment — ANT, NVDA, TTWO, ZS, CRWD In Focus - Yahoo Finance
+- Prediction markets outlook for stocks in 2026 dims amid AI sell-off - CNBC
+- Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer - The New York Times
+- Anthropic And Nvidia Are Saying The AI Bubble Is Finally Popping - Seeking Alpha
+- ‘Grand Theft Auto VI’ Sells $3.79 Billion, Making It Biggest Entertainment Launch Ever - Bloomberg.com
 - Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More - MacRumors
-- 'What happens in GTA 6 stays in GTA 6': Police across US warn fans about taking the game to their real lives - BBC
