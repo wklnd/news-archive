@@ -1,34 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-21 18:54_
+_Updated: 2026-11-22 00:16_
 
 ## Top Stories
 
-- Drönarattack mot fraktfartyg i Finska viken - SVT Nyheter
 - C-profil vill samarbeta med Kristersson: Låst läge - Göteborgs-Posten
-- Man häktas för mordet på kollega i Enköping - Omni – Alla nyheter. Alla perspektiv.
-- DN Direkt – Dataintrång mot Gothia Towers - Dagens Nyheter
-- COP31 Antalya 2026 – följ senaste nytt om FN:s klimattoppmöte i Turkiet - SVT Nyheter
-- Svårt för de rödgröna att hinna bygga tillit i förhandlingarna - Dagens Nyheter
-- När Ferrari och Hugo Boss gick på skånska småföretagarna slog opinionen tillbaka - Sydsvenskan
-- Snöväder och trafikläge i Uppsala län live - UNT
-- Stillastående lastbil ger ett körfält blockerat på E4 - UNT
-- Alice Landerholm ny ordförande för Muf – Senaste nytt om valet 2026 - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Minst fyra döda i israeliskt angrepp i Gaza - Dagens Nyheter
-- Svenska Gripenplan i insats över Polen - Göteborgs-Posten
+- Drönarattack mot fraktfartyg i Finska viken - SVT Nyheter
+- Farligt föremål hanterat i Hyllie – ingen misstänkt - Sveriges Radio
+- Här slukas hotellet i lågarna på paradisön - Göteborgs-Posten
+- Reglering av ”mördarrobotar” uteblir på FN-möte - Göteborgs-Posten
+- Pourmokhtari: ”Stor risk att det brister” - Dagens Nyheter
+- Snövarning redan under lördagskvällen: ”Kraftiga stråk” - Dagens Nyheter
+- VIKTOR BARTH-KRON: Centerns elände har bara börjat - Expressen
+- Man häktad för mord på kollega - Västerbottens-Kuriren
+- Bilbrand stänger E18 – långa köer - TV4 Nyheterna
+- Minst fyra döda i israeliskt angrepp i Gaza - Göteborgs-Posten
 - Knarkboss gripen i Mexiko – efterlyst i USA - Västerbottens-Kuriren
-- Viktigast i veckan: EU och Storbritannien knyter band – Sverige föll från jämställdhetstoppen - Europaportalen
+- Explosioner i Riyad – robotar sköts ned – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Rubio pekas ut som ett starkare kort än Vance - Dagens Nyheter
 - Knut Kainz Rognerud: AI-pianot har slutat spela - Sveriges Radio
-- Största börsnoteringen i historien – då dök Legora-vd:n upp - Breakit
-- Elkostnader väntas öka – partier vill reglera avgifter - Sveriges Radio
-- Nytt bakslag för Harald Mix – batteribolaget Polarium ansöker om konkurs - ENERGInyheter.se
-- Kulturkrönika: Har din kille köpt nya GTA? Grattis! - Göteborgs-Posten
-- AI-datacenter driver upp priserna på datorminnen - DagensNaringsliv.se
+- Bilbrand på E18 stoppade trafik mot Stockholm - Svenska Dagbladet
+- Varningen: Lån till Black week-köp kan bli skuldfälla - Dagens Nyheter
+- Skyddade identiteter kan ha läckt från Cabonline - Omni – Alla nyheter. Alla perspektiv.
+- Influencerns dom: ”Ick” med killar som spelar ”GTA VI” - Aftonbladet
+- Säljer tom Playstation-kartong – för tusentals kronor - Expressen
 
 ## World News
 
-- Varför stiger Global Payments Inc-aktien idag? - Investing.com Sverige
 - Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
+- Varför stiger Global Payments Inc-aktien idag? - Investing.com Sverige
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -40,13 +40,13 @@ _Updated: 2026-11-21 18:54_
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
 - ABB lanserar kampanjen Real Progress för att påskynda global hållbarhet - ABB
+- Perfekt genrep inför Global Series för Hurricanes - NHL.com
 - BREAKING NEWS. Putin kommenterar USA-valet! - Global Bar Magazine
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - 1 426 potential victims identified in global operation against human trafficking - Europol
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Hockeyn förenade under NHL Global Series - NHL.com
 - Kungsträdgården arrangerar NHL Global Fan Tour 15-19 nov - NHL.com
-- Global Series: Tidslinje NHL i Sverige - NHL.com
 
 ## Technology
 
@@ -99,14 +99,13 @@ _Updated: 2026-11-21 18:54_
 
 ## Science
 
-- Öppen vetenskap vid SLU - SLU
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - European School of Sustainability Science and Research - Åbo Akademi
 
 ## Jordbruk
@@ -117,7 +116,6 @@ _Updated: 2026-11-21 18:54_
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jord, kor och klimat - SLU
-- Lantbrukslogik – nu och i framtiden - SLU
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Här är världens största jordbruk - ATL
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
