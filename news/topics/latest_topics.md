@@ -1,70 +1,74 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-21 02:54_
+_Updated: 2026-11-21 10:38_
 
 ## Top Stories
 
-- Efter attacken: ”Tar år att bygga upp den” - Svenska Dagbladet
+- Explosioner och bränder i Kiev - Göteborgs-Posten
+- DN Direkt – Svensk polisstation öppnas i Irak för att jaga gängkriminella - Dagens Nyheter
+- CNN: FBI hackade igen – databaser angripna - Sveriges Radio
+- Här vill Moderaterna förbjuda kamphundar i Göteborg - Göteborgs-Posten
+- Direkt – Kriget i Ukraina – Drönarlarm i Finland och Estland – Natoflyg i luften - Dagens Nyheter
+- ”Malmö blottlägger en antisemitism i Anderssons regeringsunderlag.” - Sydsvenskan
+- Så gjorde Moskvas agent för att få ut propaganda i Sverige - Dagens Nyheter
 - Källor: C blockerar vänsterpolitik – förhandlingarna har kört fast - Dagens Nyheter
-- DN Direkt – Kristersson om extraval: Be prepared - Dagens Nyheter
-- C-kommunalråd öppnar för V i regering: ”Kan inte flytta ett berg” - ETC.se
-- Trump efter möte med Putin: Vill avsluta kriget - Västerbottens-Kuriren
-- SMHI varnar för snö och blåst - Aftonbladet
-- Universeum hackat: 280 000 gäster drabbade - Göteborgs-Posten
-- Klimatmötet på övertid – möte i gång - Västerbottens-Kuriren
-- Just nu: Störningar i trafiken på grund av stillastående personbil på E4 - UNT
-- Personbil står still på E18 – ett körfält blockerat - UNT
-- Direkt – Kriget i Ukraina – Svenska Jas följde ryska robotar i Polen - Dagens Nyheter
-- Tio år efter brexitomröstning: EU och Storbritannien knyter närmare band - Europaportalen
-- AFP: Explosioner hörda i Riyad - Västerbottens-Kuriren
-- Ola Larsmo: Människorättens dödgrävare strävar efter ”ingenting alls” - Dagens Nyheter
+- SMHI varnar för snö och halka – besvärligt på flera håll - SVT Nyheter
+- Stillastående lastbil ger ett körfält blockerat på E4 - UNT
+- DN Direkt – Harry Kane skadad – borta ”närmaste månaderna” - Dagens Nyheter
+- Trump efter möte med Putin: Vill avsluta kriget - Göteborgs-Posten
+- Karin Eriksson: Avslöjandet kan förklara Mette Frederiksens vrede mot Moskva - Dagens Nyheter
+- Historisk dom kan påverka folkmordsmål mot Israel - Göteborgs-Posten
 - Kainz Rognerud om börsraset: AI-pianot har slutat spela - Sveriges Radio
-- USA-börserna tydligt nedåt - Anthopric rasar - Placera.se
-- Börsraset: Här ser analytikerna mer nedsida - Affärsvärlden
-- Nedlagda flyg slår mot försvarsjätte: ”Pinsamt” - Omni – Alla nyheter. Alla perspektiv.
-- Mångmiljardsuccé för nya ”GTA” - Svenska Dagbladet
+- ”Nu får vi skylla oss själva” - Nerikes Allehanda
+- JP Morgan varnar för ökat AI-hot i Hemnet - EFN (Finwire News) - Aktiellt
+- Globala teknikaktier faller när Anthropic upplever en nedgång även den andra dagen - Morningstar
+- Kulturkrönika: Har din kille köpt nya GTA? Grattis! - Göteborgs-Posten
 - AI-datacenter driver upp priserna på datorminnen - DagensNaringsliv.se
 
 ## World News
 
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Booking satsar på AI och B2B i ny global division (Finwire News) - Aktiellt
+- SEB behåller aktieövervikt – ser fortsatt global tillväxt trots ökade risker (Finwire News) - Aktiellt
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
+- FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
 - PRESS RELEASE: Global Finance Names The World’s 50 Safest Commercial Banks 2026 - Global Finance Magazine
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
+- UNESCO statement on Ukraine - UNESCO
+- Mellan talibanerna, Indien och Irankriget - Kvartal
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
-- Musiktest: Med vilken låt fick James Blunt en global listetta och varifrån kommer U2? - Yle
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
-- Varför stiger Global Payments Inc-aktien idag? - Investing.com Sverige
-- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- International Media Recognize FOTILE's Next-Generation In-Sink Dishwasher During Global HQ Tour (PR Newswire) - Aktiellt
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 
 ## Technology
 
+- Vietnamesiska teknikföretag accelererar sin behärskning av teknologi och rör sig djupare in i den digitala värdekedjan. - Vietnam.vn
 - Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
-- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
-- AI: EU:s medlemsstater planerar en ”digital expropriering” av européerna till förmån för AI-företag - noyb.eu
+- Senaste nytt om AI-förordningen och ändringar genom digital omnibus - Legal 500
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- Tre år med AI: Vad har hänt med jobben? - Almega
+- AI-explosion på svenska arbetsplatser - Computer Sweden
 - Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
+- Tre år med AI: Vad har hänt med jobben? - Almega
 - Förordningen om artificiell intelligens - Council, European Union
+- AI: EU:s medlemsstater planerar en ”digital expropriering” av européerna till förmån för AI-företag - noyb.eu
 - Artificiell intelligens i Sverige 2025 - Statistikmyndigheten SCB
 - Bästa AI-aktierna att köpa nu - Morningstar
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - 290 million for digitalisation of Swedish industry - Vinnova
-- AI-teknologi, chattbotar och digital säkerhet – vem kan svara på vad? - Stockholms universitet
-- AI-explosion på svenska arbetsplatser - Computer Sweden
+- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
 - Artificiell intelligens: Möjligheter och risker - European Parliament
 - AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
@@ -87,25 +91,21 @@ _Updated: 2026-11-21 02:54_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Google Cloud öppnar förhandsversionen av Gemini for Healthcare i USA - Unite.AI
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Google Cloud öppnar förhandsversionen av Gemini for Healthcare i USA - Unite.AI
-- Standarder för medicinskt innehåll hos Kantesti - Kantesti - AI Blood Test Analyzer
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
-- Matvanor för god hälsa och miljö - Läkartidningen
-- Hormonspiral förbättrar livskvaliteten hos kvinnor med riklig mens - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Medicinska födelseregistret 50 år - Läkartidningen
 
 ## Science
 
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- AI för vetenskaplig forskning och upptäckter - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
 - AI och data science - Stockholms universitet
 - European School of Sustainability Science and Research - Åbo Akademi
 
