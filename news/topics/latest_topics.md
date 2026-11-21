@@ -1,57 +1,57 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-21 10:38_
+_Updated: 2026-11-21 18:54_
 
 ## Top Stories
 
-- Explosioner och bränder i Kiev - Göteborgs-Posten
-- DN Direkt – Svensk polisstation öppnas i Irak för att jaga gängkriminella - Dagens Nyheter
-- CNN: FBI hackade igen – databaser angripna - Sveriges Radio
-- Här vill Moderaterna förbjuda kamphundar i Göteborg - Göteborgs-Posten
-- Direkt – Kriget i Ukraina – Drönarlarm i Finland och Estland – Natoflyg i luften - Dagens Nyheter
-- ”Malmö blottlägger en antisemitism i Anderssons regeringsunderlag.” - Sydsvenskan
-- Så gjorde Moskvas agent för att få ut propaganda i Sverige - Dagens Nyheter
-- Källor: C blockerar vänsterpolitik – förhandlingarna har kört fast - Dagens Nyheter
-- SMHI varnar för snö och halka – besvärligt på flera håll - SVT Nyheter
+- Drönarattack mot fraktfartyg i Finska viken - SVT Nyheter
+- C-profil vill samarbeta med Kristersson: Låst läge - Göteborgs-Posten
+- Man häktas för mordet på kollega i Enköping - Omni – Alla nyheter. Alla perspektiv.
+- DN Direkt – Dataintrång mot Gothia Towers - Dagens Nyheter
+- COP31 Antalya 2026 – följ senaste nytt om FN:s klimattoppmöte i Turkiet - SVT Nyheter
+- Svårt för de rödgröna att hinna bygga tillit i förhandlingarna - Dagens Nyheter
+- När Ferrari och Hugo Boss gick på skånska småföretagarna slog opinionen tillbaka - Sydsvenskan
+- Snöväder och trafikläge i Uppsala län live - UNT
 - Stillastående lastbil ger ett körfält blockerat på E4 - UNT
-- DN Direkt – Harry Kane skadad – borta ”närmaste månaderna” - Dagens Nyheter
-- Trump efter möte med Putin: Vill avsluta kriget - Göteborgs-Posten
-- Karin Eriksson: Avslöjandet kan förklara Mette Frederiksens vrede mot Moskva - Dagens Nyheter
-- Historisk dom kan påverka folkmordsmål mot Israel - Göteborgs-Posten
-- Kainz Rognerud om börsraset: AI-pianot har slutat spela - Sveriges Radio
-- ”Nu får vi skylla oss själva” - Nerikes Allehanda
-- JP Morgan varnar för ökat AI-hot i Hemnet - EFN (Finwire News) - Aktiellt
-- Globala teknikaktier faller när Anthropic upplever en nedgång även den andra dagen - Morningstar
+- Alice Landerholm ny ordförande för Muf – Senaste nytt om valet 2026 - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Minst fyra döda i israeliskt angrepp i Gaza - Dagens Nyheter
+- Svenska Gripenplan i insats över Polen - Göteborgs-Posten
+- Knarkboss gripen i Mexiko – efterlyst i USA - Västerbottens-Kuriren
+- Viktigast i veckan: EU och Storbritannien knyter band – Sverige föll från jämställdhetstoppen - Europaportalen
+- Knut Kainz Rognerud: AI-pianot har slutat spela - Sveriges Radio
+- Största börsnoteringen i historien – då dök Legora-vd:n upp - Breakit
+- Elkostnader väntas öka – partier vill reglera avgifter - Sveriges Radio
+- Nytt bakslag för Harald Mix – batteribolaget Polarium ansöker om konkurs - ENERGInyheter.se
 - Kulturkrönika: Har din kille köpt nya GTA? Grattis! - Göteborgs-Posten
 - AI-datacenter driver upp priserna på datorminnen - DagensNaringsliv.se
 
 ## World News
 
-- Booking satsar på AI och B2B i ny global division (Finwire News) - Aktiellt
-- SEB behåller aktieövervikt – ser fortsatt global tillväxt trots ökade risker (Finwire News) - Aktiellt
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- “Healing Journey Thailand” – TAT Prepares Global Campaign to Position Thailand as a World-Class Healing Destination - Via TT
-- FIS Council concludes two-day meeting in Thun - International Ski and Snowboard Federation (FIS)
-- PRESS RELEASE: Global Finance Names The World’s 50 Safest Commercial Banks 2026 - Global Finance Magazine
-- UNESCO statement on Ukraine - UNESCO
-- Mellan talibanerna, Indien och Irankriget - Kvartal
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- BBC fyller 100 år – äldsta public service i världen - Omni – Alla nyheter. Alla perspektiv.
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- International Media Recognize FOTILE's Next-Generation In-Sink Dishwasher During Global HQ Tour (PR Newswire) - Aktiellt
+- Varför stiger Global Payments Inc-aktien idag? - Investing.com Sverige
+- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- PRESS RELEASE: Global Finance Names The World’s 50 Safest Commercial Banks 2026 - Global Finance Magazine
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
+- Musiktest: Med vilken låt fick James Blunt en global listetta och varifrån kommer U2? - Yle
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
+- ABB lanserar kampanjen Real Progress för att påskynda global hållbarhet - ABB
+- BREAKING NEWS. Putin kommenterar USA-valet! - Global Bar Magazine
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
+- Hockeyn förenade under NHL Global Series - NHL.com
+- Kungsträdgården arrangerar NHL Global Fan Tour 15-19 nov - NHL.com
+- Global Series: Tidslinje NHL i Sverige - NHL.com
 
 ## Technology
 
-- Vietnamesiska teknikföretag accelererar sin behärskning av teknologi och rör sig djupare in i den digitala värdekedjan. - Vietnam.vn
 - Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
+- Vietnamesiska teknikföretag accelererar sin behärskning av teknologi och rör sig djupare in i den digitala värdekedjan. - Vietnam.vn
 - Senaste nytt om AI-förordningen och ändringar genom digital omnibus - Legal 500
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - AI-explosion på svenska arbetsplatser - Computer Sweden
@@ -64,11 +64,11 @@ _Updated: 2026-11-21 10:38_
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
+- Sandvik AI investments - smarter Industry solutions - Sandvik Group
 - Artificiell intelligens: Möjligheter och risker - European Parliament
-- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
-- Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Öppningsceremoni för Vietnams forum för artificiell intelligens - AI360 2026 - Vietnam.vn
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
+- Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
@@ -99,6 +99,7 @@ _Updated: 2026-11-21 10:38_
 
 ## Science
 
+- Öppen vetenskap vid SLU - SLU
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
@@ -106,7 +107,6 @@ _Updated: 2026-11-21 10:38_
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- AI och data science - Stockholms universitet
 - European School of Sustainability Science and Research - Åbo Akademi
 
 ## Jordbruk
@@ -117,6 +117,7 @@ _Updated: 2026-11-21 10:38_
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jord, kor och klimat - SLU
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Lantbrukslogik – nu och i framtiden - SLU
 - Här är världens största jordbruk - ATL
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
