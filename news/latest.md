@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-22 12:17_
+_Updated: 2026-11-22 20:01_
 
-- Eleven killed in burst of violence during Mexican cartel leader’s capture - Al Jazeera
-- Trump says latest FBI hack could have ‘positive’ impacts - Politico
-- Trump says Cornyn blocked judicial pick because his ‘feelings were hurt’ - The Washington Post
-- Trump orders federal contractors to check with White House before responding to Congress - NPR
-- ICE Officers Arrest 2 Passengers Boarding a Flight at Seattle Airport - The New York Times
-- Abdul El-Sayed catches Trump’s attention with pitch for ‘Trumpcare’ - NBC News
-- USDA Quietly Releases Bigfoot Files, Included Cases in the Pacific Northwest - KTVZ
-- Princeton University student detained by ICE at Reagan Airport after conference - CBS News
-- SFO will flood this week from huge tides, federal expert says - San Francisco Chronicle
-- More rain Saturday after days of flooding along Central Florida coast - WESH
-- Russian cargo ship still on fire off Finland after attack - Reuters
+- International climate talks end in disappointment - NPR
+- US: ICE arrests two at Seattle airport as governor slams 'chilling' scenes - DW.com
+- Russian cargo ship still on fire off Finland after drone attack - Al Jazeera
+- US Army to detonate tonnes of unstable explosives in Iowa despite court order - BBC
+- Illegal immigrant avoids charges after Florida grandmother killed outside grocery store, enraging family - Fox News
+- Trump keeps losing in court. Here’s how he gets what he wants anyway. - The Washington Post
+- Time is running out for Trump’s unconfirmed nominees. Some GOP senators say they haven’t heard a peep. - Politico
+- US releases files on suspected Bigfoot sightings in Montana and Oregon - The Guardian
+- Director of National Intelligence defends Trump saying Putin is his ‘friend’ - Politico
+- Hakeem Jeffries outlines healthcare areas where Democrats "can explore coming together" with Trump - CBS News
+- It will soon be too late to regulate use of autonomous weapons, warns Red Cross - The Guardian
+- How Kim Jong Un Gets Away With Building Nukes and Ghosting Trump - WSJ
 - Athlete swims Strait of Hormuz to raise awareness of Iran war's toll on wildlife - CBS News
-- South Korea education minister resigns over exam cheating scandal - BBC
-- Turkey's final draft at UN climate talks doesn't mention the fossil fuels that cause global warming - AP News
-- Anthropic IPO signals ‘beginning of a gold rush’ for small businesses, biz tech CEO says - Fox Business
-- What smart people are saying about the market sell-off ripping through tech and AI - Business Insider
-- Powerball winning numbers for Nov. 21: $114M jackpot - USA Today
-- Micron Stock Just Hit Its Lowest Price Since May. I'd Buy More Now. - Yahoo Finance
-- These iPhone Customizations Can Make Your Lock Screen Look Cooler - BGR
-- Motorola Moto Tag 3 listed on Amazon - GSMArena.com news - GSMArena.com
+- What’s behind Iran’s escalation of attacks in the Gulf? - Al Jazeera
+- F.A.A. Says All Delta Flights Delayed as Automated System Falters - The New York Times
+- EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers - Reuters
+- Strong Earnings Prove No Match for the Crumbling AI Trade - Bloomberg.com
+- Trump’s meme coin gala raises eyebrows — even in MAGA circles - MS NOW
+- Can a TV be too large? An investigation - TechCrunch
+- Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More - MacRumors
