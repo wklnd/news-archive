@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-21 23:53_
+_Updated: 2026-11-22 04:53_
 
+- Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead - NPR
 - Trump says FBI hack might expose Russia "hoax" - Axios
+- Russia-bound ship attacked in Gulf of Finland - BBC
 - Storms expected on both coasts threatens Thanksgiving travel - NPR
-- Republican hopes fade for one last party-line bill before GOP loses majorities - NBC News
-- Second judge blocks construction of Trump's massive 'triumphal arch' - Euronews.com
-- Mexico arrests drug kingpin on FBI's 10 Most Wanted, sparking violence in Sinaloa - CBS News
-- Russian crew evacuating ship hit by drones off coast of Finland - Al Jazeera
-- Fiona's caretakers and fans mourn the beloved hippo after her death at Cincinnati Zoo - PBS
-- Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon - The Guardian
 - Monster king tides are set to flood the Bay Area. Here are days and times they’ll be highest - San Francisco Chronicle
-- The Army Plans to Blow Up Tons of Toxic Explosives in Iowa. It Rejected a Safer Option. - The New York Times
-- Kate Middleton Documentary 'Heal': Release Date & Trailer For NBC & BBC - Deadline
-- Nations agree to extend talks on AI killer robots but no firm commitment to rein them in - AP News
-- Live Updates: Trump says he wants "permanent" deal with Iran; warns next move may not come until 2027 - CBS News
-- Costa revives EU digital tax proposal in bid to reach agreement on budget - Financial Times
+- Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military - The New York Times
+- ICE officers arrest 2 passengers boarding Alaska Airlines flight in Seattle - CBS News
+- Princeton neuroscientist detained by ICE at D.C. airport after leaving conference - NBC News
+- Lock of former US President George Washington's hair sells for $4,000 - BBC
+- The Army Rejected a Cleaner Option to Destroy Lead-Laced Explosives in Iowa - The New York Times
+- Kate Middleton opens up about cancer journey in surprise documentary 'Heal' - ABC News - Breaking News, Latest News and Videos
+- Killer robots: U.N. talks fall short of hopes for legally binding rules - NPR
+- Diplomats race to compromise on fossil fuels as Cop31 teeters on brink of failure – as it happened - The Guardian
+- Poland says Russian missiles hit its territory; Trump calls it a mistake - The Washington Post
 - What smart people are saying about the market sell-off ripping through tech and AI - Business Insider
-- Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020 - CNBC
-- The Outages Are Just Getting Started - WIRED
+- Anthropic IPO signals ‘beginning of a gold rush’ for small businesses, biz tech CEO says - Fox Business
 - Trump vows to work with Democrats to cap credit card interest rates - CBS News
-- ‘GTA 6’ live updates: Record $3.8 billion launch, viral clips and the secrets players are finding in Leonida - Yahoo Tech
-- Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More - MacRumors
+- Bayer reaches Roundup settlement that could cost the company billions - NPR
+- Grand Theft Auto VI shatters entertainment records with staggering $3.79B debut - Fox Business
+- Intel Nova Lake-H Spec Sheet Shows Up With a 4.8 GHz Boost and 25 W TDP - TechPowerUp
