@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-22 00:16_
+_Updated: 2026-11-22 04:53_
 
 ## Top Stories
 
-- C-profil vill samarbeta med Kristersson: Låst läge - Göteborgs-Posten
+- DN Direkt – DN erfar: V har erbjudits statssekreterare - Dagens Nyheter
 - Drönarattack mot fraktfartyg i Finska viken - SVT Nyheter
-- Farligt föremål hanterat i Hyllie – ingen misstänkt - Sveriges Radio
-- Här slukas hotellet i lågarna på paradisön - Göteborgs-Posten
-- Reglering av ”mördarrobotar” uteblir på FN-möte - Göteborgs-Posten
-- Pourmokhtari: ”Stor risk att det brister” - Dagens Nyheter
-- Snövarning redan under lördagskvällen: ”Kraftiga stråk” - Dagens Nyheter
-- VIKTOR BARTH-KRON: Centerns elände har bara börjat - Expressen
-- Man häktad för mord på kollega - Västerbottens-Kuriren
-- Bilbrand stänger E18 – långa köer - TV4 Nyheterna
-- Minst fyra döda i israeliskt angrepp i Gaza - Göteborgs-Posten
+- Klimattoppmöte drar ut på tiden - Göteborgs-Posten
+- C-profil vill samarbeta med Kristersson: Låst läge - Göteborgs-Posten
 - Knarkboss gripen i Mexiko – efterlyst i USA - Västerbottens-Kuriren
-- Explosioner i Riyad – robotar sköts ned – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Rubio pekas ut som ett starkare kort än Vance - Dagens Nyheter
-- Knut Kainz Rognerud: AI-pianot har slutat spela - Sveriges Radio
-- Bilbrand på E18 stoppade trafik mot Stockholm - Svenska Dagbladet
-- Varningen: Lån till Black week-köp kan bli skuldfälla - Dagens Nyheter
+- Bil körde in i parkerade bilar - Sydsvenskan
+- Körde ihjäl kvinna under vansinnesfärd: ”Minns ingenting” - Dagens Nyheter
+- Störningar i trafiken på grund av stillastående fordon på E4 - UNT
+- V-toppen kritisk efter uppgifter om bud: ”Inte sett skymten” – Senaste nytt om valet 2026 - SVT Nyheter
+- Man häktad för mord på kollega - Västerbottens-Kuriren
+- Viktigast i veckan: EU och Storbritannien knyter band – Sverige föll från jämställdhetstoppen - Europaportalen
+- Direkt – Kriget i Ukraina – Explosioner och bränder i Kiev - Dagens Nyheter
+- 21 november 21.49, Misshandel, grov, Stockholm - polisen.se
+- Fortsatt protester i Frankrike – avtar i styrka - Göteborgs-Posten
 - Skyddade identiteter kan ha läckt från Cabonline - Omni – Alla nyheter. Alla perspektiv.
+- Dyrare el hotar tvätteri på Öland: ”Känns som att straffas” - Sveriges Radio
+- Blodig fredag med AI-slakt på Wall Street - TV4 Nyheterna
+- Stockholmsbörsen stängde kraftigt ner på fortsatt AI-oro - Affärsvärlden
 - Influencerns dom: ”Ick” med killar som spelar ”GTA VI” - Aftonbladet
 - Säljer tom Playstation-kartong – för tusentals kronor - Expressen
 
 ## World News
 
+- Musiktest: Med vilken låt fick James Blunt en global listetta och varifrån kommer U2? - Yle
 - Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
 - Varför stiger Global Payments Inc-aktien idag? - Investing.com Sverige
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
@@ -36,39 +37,38 @@ _Updated: 2026-11-22 00:16_
 - PRESS RELEASE: Global Finance Names The World’s 50 Safest Commercial Banks 2026 - Global Finance Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
-- Musiktest: Med vilken låt fick James Blunt en global listetta och varifrån kommer U2? - Yle
+- Exportföretaget undviker tullar i global handel: "Finns en parentes" - Siljan News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
-- ABB lanserar kampanjen Real Progress för att påskynda global hållbarhet - ABB
 - Perfekt genrep inför Global Series för Hurricanes - NHL.com
 - BREAKING NEWS. Putin kommenterar USA-valet! - Global Bar Magazine
-- 1 426 potential victims identified in global operation against human trafficking - Europol
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Hockeyn förenade under NHL Global Series - NHL.com
+- Succébandet Bolaget på plats för Global Series - NHL.com
 - Kungsträdgården arrangerar NHL Global Fan Tour 15-19 nov - NHL.com
 
 ## Technology
 
 - Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
-- Vietnamesiska teknikföretag accelererar sin behärskning av teknologi och rör sig djupare in i den digitala värdekedjan. - Vietnam.vn
 - Senaste nytt om AI-förordningen och ändringar genom digital omnibus - Legal 500
+- AI: EU:s medlemsstater planerar en ”digital expropriering” av européerna till förmån för AI-företag - noyb.eu
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
 - AI-explosion på svenska arbetsplatser - Computer Sweden
 - Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Tre år med AI: Vad har hänt med jobben? - Almega
 - Förordningen om artificiell intelligens - Council, European Union
-- AI: EU:s medlemsstater planerar en ”digital expropriering” av européerna till förmån för AI-företag - noyb.eu
 - Artificiell intelligens i Sverige 2025 - Statistikmyndigheten SCB
 - Bästa AI-aktierna att köpa nu - Morningstar
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
-- Sandvik AI investments - smarter Industry solutions - Sandvik Group
-- Artificiell intelligens: Möjligheter och risker - European Parliament
+- Princess Madeleine: “Standing still is not an option” - Via TT
 - Öppningsceremoni för Vietnams forum för artificiell intelligens - AI360 2026 - Vietnam.vn
-- Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
+- Artificiell intelligens: Möjligheter och risker - European Parliament
+- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
+- Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
@@ -99,13 +99,14 @@ _Updated: 2026-11-22 00:16_
 
 ## Science
 
+- Öppen vetenskap vid SLU - SLU
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - AI för vetenskaplig forskning och upptäckter - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - European School of Sustainability Science and Research - Åbo Akademi
 
 ## Jordbruk
