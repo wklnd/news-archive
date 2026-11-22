@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-22 19:58_
+_Updated: 2026-11-23 01:44_
 
 ## Top Stories
 
 - Andersson: S, C och MP ger nytt bud till V – Senaste nytt om valet 2026 - SVT Nyheter
 - Orange snövarning – risk för trafikkaos - Dagens Nyheter
-- KARL RYDÅ: Får vi någonsin en ny regering i det här landet? - UNT
-- Klimatforskaren om nederlaget på COP31 - Göteborgs-Posten
-- Rajabi kan inte bli utvisad: Då måste jag ljuga - Aftonbladet
-- Expert: Andersson vill inte avrättas offentligt - Omni – Alla nyheter. Alla perspektiv.
-- DN Direkt – Invasiv sjöpung sprids – akutinsats på västkusten - Dagens Nyheter
-- Lastbil i krock – helikopter på väg - Aftonbladet
-- Trafiken påverkas av stillastående flera stillastående fordon på E4 – ett körfält blockerat - UNT
-- Halt på E4 – flera bilar av vägen mellan Nyköping och Tystberga - SVT Nyheter
-- Ryska fartyget bogseras bort - Hufvudstadsbladet – HBL
-- Direkt – Kriget i Ukraina – Femvåningshus träffat i rysk attack mot Kiev - Dagens Nyheter
-- Trump framhärdar: ”Min vän” Putin - Göteborgs-Posten
-- Byar satta i brand på Västbanken: ”Judisk terror” - Västerbottens-Kuriren
+- Stopp på E4 på grund av en olycka - UNT
+- Mordet i Älvsjö: Misstänkt 18-åring gripen i Kroatien - Sveriges Radio
+- Ukraina: Ryssland saknar kapacitet att laga Krimbron - Dagens Nyheter
+- Försvarsmakten stör Hovåsbor: ”Håller på att få ett psykbryt” - Göteborgs-Posten
+- Tomas Ramberg: Thand Ringqvist har nu bara obehagliga alternativ att välja på - Dagens Nyheter
+- ”Klimatmötet COP31 totalkraschade – kan öppna för ny väg framåt” - SVT Nyheter
+- Just nu: Störningar i trafiken på grund av stillastående personbil på E4 - NT
+- Just nu: Problem i trafiken efter nedfallna träd på väg 1132 - UNT
+- Ryska fartyget har bogserats bort från Finland - Hufvudstadsbladet – HBL
+- Dödstalet stiger efter ryska attacker – Senaste nytt om kriget i Ukraina - SVT Nyheter
+- DN Direkt – Bekräftat: Sverige lämnar klimatmöte – EU skriver inte under - Dagens Nyheter
+- DN Direkt – Demokraterna får sin största majoritet på 34 år - Dagens Nyheter
 - Ratade aktierna krossar börsen – rusar när AI-rallyt tappar fart - EFN
-- Fällorna i Black Week-rean: ”Är för att lura hjärnan” - TV4 Nyheterna
-- Frysarna i hackerattacken på Ica låg ute på internet: "Det är ett stort misstag" - Skånes Folkblad
-- Här är fjällstugorna billigare än under pandemin - Dagens Nyheter
+- Högt elpris kan ge guldläge för bluffmakare - Dagens Nyheter
+- Bessent mjuknar om eventuell Jensen Huang-comeback - DI
+- Anthropics rekordnotering väcker nya frågor när stödköpen försvinner - Traders Union
 - Hanna Fribergs nya ick: Vuxna män som spelar tv-spel - Omni – Alla nyheter. Alla perspektiv.
-- Efter åtta år – europeisk rymdfarkost nära Merkurius - DI
+- Rymdfarkosten BepiColombo har nått Merkurius - Sveriges Radio
 
 ## World News
 
-- Musiktest: Med vilken låt fick James Blunt en global listetta och varifrån kommer U2? - Yle
 - Varför stiger Global Payments Inc-aktien idag? - Investing.com Sverige
 - München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
@@ -46,7 +45,8 @@ _Updated: 2026-11-22 19:58_
 - Perfekt genrep inför Global Series för Hurricanes - NHL.com
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Hockeyn förenade under NHL Global Series - NHL.com
-- Kungsträdgården arrangerar NHL Global Fan Tour 15-19 nov - NHL.com
+- Succébandet Bolaget på plats för Global Series - NHL.com
+- Musiktest: Med vilken låt fick James Blunt en global listetta och varifrån kommer U2? - Yle
 
 ## Technology
 
@@ -63,13 +63,13 @@ _Updated: 2026-11-22 19:58_
 - 290 million for digitalisation of Swedish industry - Vinnova
 - AI-teknologi, chattbotar och digital säkerhet – vem kan svara på vad? - Stockholms universitet
 - AI-explosion på svenska arbetsplatser - Computer Sweden
-- Experter: Artificiell intelligens (AI) - Göteborgs universitet
 - AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
 - När ”human in the loop” ger en falsk trygghet - Computer Sweden
 - Google varnar för AI-styrda cyberattacker - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
 
@@ -88,13 +88,13 @@ _Updated: 2026-11-22 19:58_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Google Cloud öppnar förhandsversionen av Gemini for Healthcare i USA - Unite.AI
+- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Vi presenterar HealthBench - OpenAI
+- Google Cloud öppnar förhandsversionen av Gemini for Healthcare i USA - Unite.AI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 
 ## Science
 
@@ -103,9 +103,9 @@ _Updated: 2026-11-22 19:58_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- AI för vetenskaplig forskning och upptäckter - OpenAI
-- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- AI och data science - Stockholms universitet
 - European School of Sustainability Science and Research - Åbo Akademi
 
 ## Jordbruk
@@ -114,9 +114,8 @@ _Updated: 2026-11-22 19:58_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
-- Lantbrukslogik – nu och i framtiden - SLU
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jord, kor och klimat - SLU
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Här är världens största jordbruk - ATL
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
