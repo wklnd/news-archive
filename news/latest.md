@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-22 04:53_
+_Updated: 2026-11-22 12:17_
 
-- Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead - NPR
-- Trump says FBI hack might expose Russia "hoax" - Axios
-- Russia-bound ship attacked in Gulf of Finland - BBC
-- Storms expected on both coasts threatens Thanksgiving travel - NPR
-- Monster king tides are set to flood the Bay Area. Here are days and times they’ll be highest - San Francisco Chronicle
-- Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military - The New York Times
-- ICE officers arrest 2 passengers boarding Alaska Airlines flight in Seattle - CBS News
-- Princeton neuroscientist detained by ICE at D.C. airport after leaving conference - NBC News
-- Lock of former US President George Washington's hair sells for $4,000 - BBC
-- The Army Rejected a Cleaner Option to Destroy Lead-Laced Explosives in Iowa - The New York Times
-- Kate Middleton opens up about cancer journey in surprise documentary 'Heal' - ABC News - Breaking News, Latest News and Videos
-- Killer robots: U.N. talks fall short of hopes for legally binding rules - NPR
-- Diplomats race to compromise on fossil fuels as Cop31 teeters on brink of failure – as it happened - The Guardian
-- Poland says Russian missiles hit its territory; Trump calls it a mistake - The Washington Post
-- What smart people are saying about the market sell-off ripping through tech and AI - Business Insider
+- Eleven killed in burst of violence during Mexican cartel leader’s capture - Al Jazeera
+- Trump says latest FBI hack could have ‘positive’ impacts - Politico
+- Trump says Cornyn blocked judicial pick because his ‘feelings were hurt’ - The Washington Post
+- Trump orders federal contractors to check with White House before responding to Congress - NPR
+- ICE Officers Arrest 2 Passengers Boarding a Flight at Seattle Airport - The New York Times
+- Abdul El-Sayed catches Trump’s attention with pitch for ‘Trumpcare’ - NBC News
+- USDA Quietly Releases Bigfoot Files, Included Cases in the Pacific Northwest - KTVZ
+- Princeton University student detained by ICE at Reagan Airport after conference - CBS News
+- SFO will flood this week from huge tides, federal expert says - San Francisco Chronicle
+- More rain Saturday after days of flooding along Central Florida coast - WESH
+- Russian cargo ship still on fire off Finland after attack - Reuters
+- Athlete swims Strait of Hormuz to raise awareness of Iran war's toll on wildlife - CBS News
+- South Korea education minister resigns over exam cheating scandal - BBC
+- Turkey's final draft at UN climate talks doesn't mention the fossil fuels that cause global warming - AP News
 - Anthropic IPO signals ‘beginning of a gold rush’ for small businesses, biz tech CEO says - Fox Business
-- Trump vows to work with Democrats to cap credit card interest rates - CBS News
-- Bayer reaches Roundup settlement that could cost the company billions - NPR
-- Grand Theft Auto VI shatters entertainment records with staggering $3.79B debut - Fox Business
-- Intel Nova Lake-H Spec Sheet Shows Up With a 4.8 GHz Boost and 25 W TDP - TechPowerUp
+- What smart people are saying about the market sell-off ripping through tech and AI - Business Insider
+- Powerball winning numbers for Nov. 21: $114M jackpot - USA Today
+- Micron Stock Just Hit Its Lowest Price Since May. I'd Buy More Now. - Yahoo Finance
+- These iPhone Customizations Can Make Your Lock Screen Look Cooler - BGR
+- Motorola Moto Tag 3 listed on Amazon - GSMArena.com news - GSMArena.com
