@@ -1,24 +1,4 @@
 # Top News Headlines
 
-_Updated: 2026-11-23 10:13_
+_Updated: 2026-11-23 22:32_
 
-- Democrats win largest House majority since 1992 after flipping North Carolina seat - BBC
-- Finance, fossil fuels and the ‘overshoot’: six key takeaways from Cop31 - The Guardian
-- ‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores - Al Jazeera
-- ICE airport arrests: Attorney says detainees have pending asylum, no criminal record - KOMO
-- West Coast bracing for more coastal flooding as Thanksgiving travel week begins - ABC News - Breaking News, Latest News and Videos
-- Russian warship hit by suspected Ukrainian drone at Benghazi naval base, Libyan officials say - France 24
-- After Schumer led US Democrats to big Senate win, some say he should now step aside - The Times of Israel
-- Do not feed the animals. Vets explain why hats, coins and shoes can be deadly. - NPR
-- Putin is ‘not America’s friend in Ukraine,’ DNI Jay Clayton says - The Washington Post
-- With ‘TrumpCare,’ a Progressive Democrat Plays to the President’s Ego - The New York Times
-- Burnham to tell MPs 'landmark' EU deal could make next decade 'much better' - BBC
-- Ukraine deals major blow to Putin’s Crimea lifeline, European intel assessment claims - Fox News
-- A Landmark Genocide Ruling - The New York Times
-- Off the Record: Europe shrugs as Trump's Yalta knockoff flops - Euronews.com
-- Wall Street set to rebound after AI stock sell-off - Financial Times
-- Trump to host private dinner for largest owners of his meme coin - Al Jazeera
-- Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving - AP News
-- Trump administration approved shipment of nearly 900,000 AI chips to China - Yahoo
-- 'Grand Theft Auto VI' sets record with $3.79B in first-day retail sales, Rockstar Games reports - KSL
-- Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker - The Verge
