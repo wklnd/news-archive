@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-23 01:44_
+_Updated: 2026-11-23 10:00_
 
 ## Top Stories
 
+- 23 november 06.59, Trafikolycka, Jönköping - polisen.se
 - Andersson: S, C och MP ger nytt bud till V – Senaste nytt om valet 2026 - SVT Nyheter
-- Orange snövarning – risk för trafikkaos - Dagens Nyheter
-- Stopp på E4 på grund av en olycka - UNT
-- Mordet i Älvsjö: Misstänkt 18-åring gripen i Kroatien - Sveriges Radio
+- SMHI utfärdar orange varning för snö i norra Uppsala län - Sveriges Radio
+- Flera döda i ryska attacker mot Kiev - Hufvudstadsbladet – HBL
+- KARL RYDÅ: Får vi någonsin en ny regering i det här landet? - UNT
+- Delar av skolbusstrafiken i Norduppland ställs in - Via TT
+- 18-åring gripen i Kroatien för mordet i Älvsjö - Göteborgs-Posten
+- DN Direkt – Man med koppling till Älvsjömordet gripen - Dagens Nyheter
+- Familjens sorg efter Rönningemordet: Smärta varje dag - SVT Nyheter
+- Besvikelse efter haveriet på klimatmötet: ”Ytterligare ett förlorat år” - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Ryskt krigsfartyg sänkt av sjödrönare vid libysk marinbas - Dagens Nyheter
+- Aleksandr Litvinenkos änka: ”Till och med min man underskattade Putin” - Dagens Nyheter
 - Ukraina: Ryssland saknar kapacitet att laga Krimbron - Dagens Nyheter
-- Försvarsmakten stör Hovåsbor: ”Håller på att få ett psykbryt” - Göteborgs-Posten
-- Tomas Ramberg: Thand Ringqvist har nu bara obehagliga alternativ att välja på - Dagens Nyheter
-- ”Klimatmötet COP31 totalkraschade – kan öppna för ny väg framåt” - SVT Nyheter
-- Just nu: Störningar i trafiken på grund av stillastående personbil på E4 - NT
-- Just nu: Problem i trafiken efter nedfallna träd på väg 1132 - UNT
 - Ryska fartyget har bogserats bort från Finland - Hufvudstadsbladet – HBL
-- Dödstalet stiger efter ryska attacker – Senaste nytt om kriget i Ukraina - SVT Nyheter
-- DN Direkt – Bekräftat: Sverige lämnar klimatmöte – EU skriver inte under - Dagens Nyheter
-- DN Direkt – Demokraterna får sin största majoritet på 34 år - Dagens Nyheter
-- Ratade aktierna krossar börsen – rusar när AI-rallyt tappar fart - EFN
-- Högt elpris kan ge guldläge för bluffmakare - Dagens Nyheter
-- Bessent mjuknar om eventuell Jensen Huang-comeback - DI
-- Anthropics rekordnotering väcker nya frågor när stödköpen försvinner - Traders Union
-- Hanna Fribergs nya ick: Vuxna män som spelar tv-spel - Omni – Alla nyheter. Alla perspektiv.
+- Polisens varning inför Black week – så undviker du bedrägeri - Göteborgs-Posten
+- USA följde Alice Huang – nya uppgifter om honungsfälla - Omni – Alla nyheter. Alla perspektiv.
+- Så mycket dyrare blir CSN-lånet nästa år - Svenska Dagbladet
+- Boolis vd slår tillbaka mot Hemnets kritik - Svenska Dagbladet
+- GTA VI internettrafik: +35 % i Sverige vid midnatt - shattered.io
 - Rymdfarkosten BepiColombo har nått Merkurius - Sveriges Radio
 
 ## World News
 
 - Varför stiger Global Payments Inc-aktien idag? - Investing.com Sverige
-- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
-- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
 - PRESS RELEASE: Global Finance Names The World’s 50 Safest Commercial Banks 2026 - Global Finance Magazine
-- Karen Ellemann utsedd till global frontfigur i kampen mot matsvinn - The Nordic Co-operation
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - EU:s ekonomi väntas växa måttligt i tider av global ekonomisk osäkerhet - European Commission
-- Global Eye missar Kanadas krav – oppositionen kräver granskning - Sveriges Radio
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Global Unions erkännande av staten Palestina - UNI Global Union
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Krönika: Global Series lyser upp höstmörkret - NHL.com
+- Musiktest: Med vilken låt fick James Blunt en global listetta och varifrån kommer U2? - Yle
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- ABB lanserar kampanjen Real Progress för att påskynda global hållbarhet - ABB
 - Perfekt genrep inför Global Series för Hurricanes - NHL.com
+- BREAKING NEWS. Putin kommenterar USA-valet! - Global Bar Magazine
+- Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
 - Hockeyn förenade under NHL Global Series - NHL.com
 - Succébandet Bolaget på plats för Global Series - NHL.com
-- Musiktest: Med vilken låt fick James Blunt en global listetta och varifrån kommer U2? - Yle
+- Kungsträdgården arrangerar NHL Global Fan Tour 15-19 nov - NHL.com
 
 ## Technology
 
@@ -54,21 +54,21 @@ _Updated: 2026-11-23 01:44_
 - Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
 - AI: EU:s medlemsstater planerar en ”digital expropriering” av européerna till förmån för AI-företag - noyb.eu
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- Tre år med AI: Vad har hänt med jobben? - Almega
-- Artificiell intelligens i Sverige 2025 - Statistikmyndigheten SCB
 - Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
+- Tre år med AI: Vad har hänt med jobben? - Almega
 - Förordningen om artificiell intelligens - Council, European Union
+- Artificiell intelligens i Sverige 2025 - Statistikmyndigheten SCB
 - Bästa AI-aktierna att köpa nu - Morningstar
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
 - 290 million for digitalisation of Swedish industry - Vinnova
-- AI-teknologi, chattbotar och digital säkerhet – vem kan svara på vad? - Stockholms universitet
 - AI-explosion på svenska arbetsplatser - Computer Sweden
+- Mätning av AI genom resultat: Den offentliga sektorn strävar efter 7 investeringsprinciper, medan företag prioriterar kontroll. - Vietnam.vn
+- Princess Madeleine: “Standing still is not an option” - Via TT
+- Artificiell intelligens: Möjligheter och risker - European Parliament
 - AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
+- Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
 - När ”human in the loop” ger en falsk trygghet - Computer Sweden
-- Google varnar för AI-styrda cyberattacker - Computer Sweden
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
@@ -88,34 +88,45 @@ _Updated: 2026-11-23 01:44_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Google Cloud öppnar förhandsversionen av Gemini for Healthcare i USA - Unite.AI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
+- Starten på det yrkeslivslånga lärandet som läkare - Läkartidningen
 
 ## Science
 
-- Öppen vetenskap vid SLU - SLU
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap vid SLU - SLU
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- AI och data science - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - European School of Sustainability Science and Research - Åbo Akademi
+- AI och data science - Stockholms universitet
 
 ## Jordbruk
 
 - Sveriges förändrade lantbruk - SLU
-- Jordbruk och landsbygdsutveckling - European Commission
+- Lantbrukslogik – nu och i framtiden - SLU
+- Odlingslandskapet - Naturvårdsverket
+- Jord, kor och klimat - SLU
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Framtidens jordbruk - European Commission
+- Klimatanpassning på gotländska gårdar - Länsstyrelsen
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jord, kor och klimat - SLU
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Producenterna slår larm om S-gruppens makt – här är alternativet från Sydkorea - Yle
+- De gick från reko till eko - ST-tidningen
 - Här är världens största jordbruk - ATL
+- Visning av uppkomst efter direktsådd - Land.se
+- Jordbrukspolitik - Naturvårdsverket
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Släktskapet mellan regenerativt, ekologiskt och andra berättelser om hållbart jordbruk - SLU
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
