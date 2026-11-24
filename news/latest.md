@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-24 06:58_
+_Updated: 2026-11-24 18:24_
 
+- ‘Extreme’ Flooding Is Feared in California as King Tides Near Records - The New York Times
 - Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know - PBS
-- Rep. Jimmy Gomez to resign following sexual misconduct findings - The Washington Post
-- Judge unseals documents related to search of Rep. Ilhan Omar’s home - NBC News
-- Trump: DOJ working to overturn Newsom’s death row commutations - The Hill
-- Nato chief vows defence against space threat after Russian nuclear satellite reports - BBC
-- Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya - NPR
+- ‘We’ll keep sinking Russian ships’: Ukraine challenges Putin’s global reach - Al Jazeera
+- Judge demanded safeguards before search of Rep. Omar’s home, records show - The Washington Post
+- Thanksgiving travel forecast: Storms to batter US coasts with heavy rain and flooding - BBC
+- ‘Unilaterally disarming’: Dems fret over DNC’s super PAC pledge - Politico
 - Husband of woman detained in viral ICE arrest at Seattle airport calls episode "unjust" - CBS News
-- Rough weather expected to hit both coasts, may disrupt Thanksgiving travel - NBC News
-- Rain Storms Overwhelm San Francisco’s Sewers, Sending Wastewater Into the Streets - The New York Times
-- Federal appeals court hands Trump way out of conviction in hush-money case - The Guardian
-- Poland to get NATO early-warning aircraft after Russian missiles hit country - NBC News
-- My approach to EU is pragmatic, says Burnham - BBC
-- North Korea to consider shutting down Swiss diplomatic office in Pyongyang, KCNA says - Reuters
-- Australia's Pauline Hanson faces biggest test as debt and anger align in state vote - Reuters
-- The Frantic White House Push to Get Jensen Huang Back - WSJ
-- U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy - CNBC
-- S&P 500, Nasdaq End Best Session Since April Last Year On Optimism Led By Jensen Huang’s Reinstatement — NVDA, NASA, TTWO, AMZN In Focus - Yahoo Finance
-- Thanksgiving travel could be messy with storms coming after a week filled with airline glitches - AP News
-- Google alternative Kagi launches an email service - The Verge
-- AI Mode adding Google Drive, Wallet, & Gemini app integration - 9to5Google
+- House Democrat expands investigation into Donald Trump Jr.'s investment firm - AP News
+- Trump urges justice department to speed up federal executions in dig at Gavin Newsom - The Guardian
+- Senate leadership vote tests newly elected Democrats' promise of change - PBS
+- Prince William’s country residence in eastern England broken into, British media report - AP News
+- Shanghai’s Party Leader Is Put Under Investigation as Xi’s Purges Expand - The New York Times
+- Russian Warplanes Trigger Alarm Among U.S. Partners in Asia - WSJ
+- Japan’s Leader, in Break with U.S., Defends International Criminal Court - The New York Times
+- Jensen Huang Divorce Speculation Amid New Affair Report: Why Wife Lori Huang Could Walk Away With Half - Forbes
+- Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal - The New York Times
+- Anthropic Shares Plunge 6% Below IPO Price in Fourth Trading Day - Bloomberg
+- They attended Trump’s meme coin dinner. It didn't go well - NPR
+- Apple’s AirPods Pro 3 are a whopping $100 off ahead of Black Friday - The Verge
+- Samsung mentions Galaxy Fit 4 publicly for the first time - SamMobile
