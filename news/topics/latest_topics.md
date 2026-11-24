@@ -1,71 +1,65 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-24 06:54_
+_Updated: 2026-11-24 18:09_
 
 ## Top Stories
 
-- Thand Ringqvist: Tillbaka till samtal med M, L och KD - SVT Nyheter
-- Smittrisk vid tandvårdsbesök – erbjuds hivtest - Göteborgs-Posten
-- Misstänkt mord i Heby – en anhållen - Västerbottens-Kuriren
-- Minst tre döda i israelisk flyganfall mot Gaza – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Nya chocksiffror om antalet döda ryssar i kriget - Expressen
-- Huthimedier: Många drabbade i saudiska attacker - Göteborgs-Posten
-- V svarar på C-besked: Borde ”synat” Centerpartiet – Senaste nytt om valet 2026 - SVT Nyheter
-- Gustav Fridolin: Magdalena Anderssons erbjudande till Vänsterpartiet är inte vad det säger sig vara - Arbetet
-- DN Direkt – Gabrielsson: Då kan V pröva kravet på ministerposter - Dagens Nyheter
-- Just nu: Singelolycka på E4 – stopp i ett körfält - UNT
-- Elva skadade i rysk attack mot Zaporizjzja – Senaste nytt om kriget i Ukraina - SVT Nyheter
-- Ukraina sänkte rysk korvett i libysk hamn - Hufvudstadsbladet – HBL
-- Finland kallar upp ryske ambassadören - Västerbottens-Kuriren
-- Flera döda i ryska attacker mot Kiev - Hufvudstadsbladet – HBL
-- Källa: Trump ingrep i Nvidias styrelsemöte för att få tillbaka Jensen Huang – Semafor - Placera.se
-- USA vill svartlista Megaspeed - Svenska Dagbladet
-- Kastrups 30-åriga plan för jättebygge - HD
-- Börsen studsar upp efter AI-frossan - DI
-- BofA höjer riktkursen för Take-Two efter rekordstart för GTA 6 (Finwire News) - Aktiellt
-- Därför har adventskalendrarna blivit en miljardindustri - Sveriges Radio
+- DN Direkt – Magdalena Andersson höll pressträff - Dagens Nyheter
+- M ökar i regeringskaoset - Göteborgs-Posten
+- Läkare häktad – misstänkt för våldtäkt på sjukhuset i Västerås - SVT Nyheter
+- Larm om grovt brott på äldreboende – en gripen - Västerbottens-Kuriren
+- Just nu: "Det är sjukt mycket spån" - Västerbottningen
+- Efter fiaskot vid klimattoppmötet – EU vill ändra beslutsreglerna - Dagens Nyheter
+- C-profilens interna kritik: ”Man kanske är i fel parti” - Omni – Alla nyheter. Alla perspektiv.
+- Därför sabbar de rödgröna för sig själva – hela tiden - Sydsvenskan
+- C om samarbete med SD: ”Det vet vi inte än” – Senaste nytt om valet 2026 - SVT Nyheter
+- Stillastående fordon skapar problem i trafiken på E4 - UNT
+- Milslång kö av lastbilar vid Iranska gränsen: ”Aldrig sett något liknande” - Dagens Nyheter
+- Många skadade i bilbomb i Colombia - Göteborgs-Posten
+- Zelenskyj: Ryska fartyget transporterade vapen - Hufvudstadsbladet – HBL
+- Ukraina: Nära 50 skadade i rysk attack - Corren
+- DN Direkt – Börsen på rött efter Nvidia-rallyt - Dagens Nyheter
+- Peter Hedlund: Substans utan substans i SBB - EFN
+- Lundbergs substansvärde 644 kronor per aktie 23 nov, tar stor nedskrivning på Husqvarna (uppdatering) - Aktiellt
+- It-chef på Riksbanken arbetsbefriad - TV4 Nyheterna
+- GTA 6 största spellanseringen i Playstations historia – över 39 miljoner spelare - Börsvärlden
+- Allt började med en liten röd prick i avlägsna universum – nu har astronomer upptäckt något som ligger långt utanför gränsen för deras kunskaper - Illustrerad Vetenskap
 
 ## World News
 
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - PRESS RELEASE: Global Finance Names The World’s 50 Safest Commercial Banks 2026 - Global Finance Magazine
 - Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
-- Från kreativt samarbete till daglig följeslagare: LEPAS Global Elegant Lifestyle Partners ger liv åt det eleganta livet - EIN News
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- BREAKING NEWS. Putin kommenterar USA-valet! - Global Bar Magazine
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - 1 426 potential victims identified in global operation against human trafficking - Europol
-- München, Köln värdstäder för 2027 NHL Global Series Germany - NHL.com
-- Hockeyn förenade under NHL Global Series - NHL.com
 
 ## Technology
 
 - Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
-- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
+- Senaste nytt om AI-förordningen och ändringar genom digital omnibus - Legal 500
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- Tre år med AI: Vad har hänt med jobben? - Almega
-- Mistral släpper vikterna till AI-modellen “Le Chonk” - Computer Sweden
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
-- IPCEI: Delta i Europas teknikutveckling inom AI och halvledare - Vinnova
-- Förordningen om artificiell intelligens - Council, European Union
-- Artificiell intelligens i Sverige 2025 - Statistikmyndigheten SCB
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Data Centre Expo Sweden - Mynewsdesk
+- Leidos taps leading AI tech executive Ted Tanner as chief technology officer (PR Newswire) - Aktiellt
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- 7 sätt att använda AI i den fysiska världen - Computer Sweden
 - Bästa AI-aktierna att köpa nu - Morningstar
+- Timnit Gebru - Right Livelihood
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
-- Mätning av AI genom resultat: Den offentliga sektorn strävar efter 7 investeringsprinciper, medan företag prioriterar kontroll. - Vietnam.vn
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Artificiell intelligens: Möjligheter och risker - European Parliament
-- AI-explosion på svenska arbetsplatser - Computer Sweden
-- Vad är artificiell intelligens och hur används det? | Ämnen - European Parliament
-- AI-inferens blir billigare, men dina agenter blir dyrare - Computer Sweden
-- När ”human in the loop” ger en falsk trygghet - Computer Sweden
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
+- GIBO Announces Strategic Collaboration with E Total Technology Sdn Bhd to Accelerate Deployment of AI Compute Centers Featuring NVIDIA's Most Advanced Chips (PR Newswire) - Aktiellt
+- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
+- Holly Picano Launches AI On-Demand Course to Help Small Businesses Reclaim Time and Compete in an AI-Driven Economy (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -96,23 +90,34 @@ _Updated: 2026-11-24 06:54_
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Global katastrofmedicin - hälsobehov och insatser – Johan von Schreebs forskargrupp - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 
 ## Science
 
 - Öppen vetenskap vid SLU - SLU
+- När praktisk problemlösning blir ett sätt att forska - Chalmers tekniska högskola
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- ICEBA 2026: Kopplar samman forskning inom teknik, fysik och biomedicinsk sensorteknik - Naturvetenskapliga fakulteten, VNU-HCM - Vietnam.vn
+- Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Sherry Nakhaeizadeh - Uppsala universitet
+- ”Dagens peer review-system är inte värt att bevara” - Forskning & Framsteg
+- Kvinnors karriärer i vetenskap och teknik undersöks i nytt nordiskt forskningsprojekt - Lunds universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- AI för vetenskaplig forskning och upptäckter - OpenAI
+- Andrea del Valle - Karolinska Institutet
 - AI och data science - Stockholms universitet
-- European School of Sustainability Science and Research - Åbo Akademi
+- 5 myter om öppen vetenskap - Läkartidningen
+- Täta band mellan turism och forskning på Svalbard - SLU
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -128,8 +133,8 @@ _Updated: 2026-11-24 06:54_
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Producenterna slår larm om S-gruppens makt – här är alternativet från Sydkorea - Yle
-- De gick från reko till eko - ST-tidningen
 - Här är världens största jordbruk - ATL
 - Visning av uppkomst efter direktsådd - Land.se
 - Jordbrukspolitik - Naturvårdsverket
