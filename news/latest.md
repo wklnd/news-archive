@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-24 18:24_
+_Updated: 2026-11-25 03:03_
 
-- ‘Extreme’ Flooding Is Feared in California as King Tides Near Records - The New York Times
-- Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know - PBS
-- ‘We’ll keep sinking Russian ships’: Ukraine challenges Putin’s global reach - Al Jazeera
-- Judge demanded safeguards before search of Rep. Omar’s home, records show - The Washington Post
-- Thanksgiving travel forecast: Storms to batter US coasts with heavy rain and flooding - BBC
-- ‘Unilaterally disarming’: Dems fret over DNC’s super PAC pledge - Politico
-- Husband of woman detained in viral ICE arrest at Seattle airport calls episode "unjust" - CBS News
-- House Democrat expands investigation into Donald Trump Jr.'s investment firm - AP News
-- Trump urges justice department to speed up federal executions in dig at Gavin Newsom - The Guardian
-- Senate leadership vote tests newly elected Democrats' promise of change - PBS
-- Prince William’s country residence in eastern England broken into, British media report - AP News
-- Shanghai’s Party Leader Is Put Under Investigation as Xi’s Purges Expand - The New York Times
-- Russian Warplanes Trigger Alarm Among U.S. Partners in Asia - WSJ
-- Japan’s Leader, in Break with U.S., Defends International Criminal Court - The New York Times
-- Jensen Huang Divorce Speculation Amid New Affair Report: Why Wife Lori Huang Could Walk Away With Half - Forbes
-- Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal - The New York Times
-- Anthropic Shares Plunge 6% Below IPO Price in Fourth Trading Day - Bloomberg
-- They attended Trump’s meme coin dinner. It didn't go well - NPR
-- Apple’s AirPods Pro 3 are a whopping $100 off ahead of Black Friday - The Verge
-- Samsung mentions Galaxy Fit 4 publicly for the first time - SamMobile
+- Kilmar Ábrego García, man at center of Trump deportation battle, leaving US - The Guardian
+- Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate - The Washington Post
+- Records show how DOJ, judge debated constitutional implications of searching Rep. Ilhan Omar's home - PBS
+- China's Huawei convicted in sprawling US criminal trial over Iran business - Reuters
+- Live storm updates: Record king tides leave Bay Area roads flooded - ABC7 Bay Area
+- U.S. Spy Agencies Suffer Breach of Some Unclassified Information - The New York Times
+- Three Fort Hood shooting survivors lose final appeal to witness Nidal Hasan’s execution - AP News
+- Severe Thanksgiving storms threaten millions of travelers nationwide and Macy’s parade - NBC News
+- Family of teen killed by Georgia police officer demands release of body camera footage - NBC News
+- Democrats clinch a historic House majority of at least 259 seats, the largest since 1990 - AP News
+- 11 injured in Houthi drone attack on Riyadh tower, Saudi civil defence says - Al Jazeera
+- Hostages held in Cartagena, Colombia, supermarket after failed armored car hijacking - Reuters
+- Venezuela unveils $240bn debt pile ahead of historic restructuring - Financial Times
+- China investigates Politburo member and Shanghai party chief Chen Jining - AP News
+- Jensen Huang Apologizes to Nvidia Employees and Says He Is in Therapy - The New York Times
+- Stock Market Today: Tech Stocks Slide Back After Epic Rally - WSJ
+- Utah asks to drop charges against Kalshi and its founders after Kalshi halts trading there - AP News
+- Shein to pay $100 million to settle federal claims that it deceived U.S. customers - CBS News
+- Every Great Black Friday Apple Deal We’ve Found on iPads, AirPods, and More - The New York Times
+- GTA6 buyers pay up to $100 for a game they can't resell — and Rockstar can take it away - Yahoo
