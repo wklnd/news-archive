@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-25 12:28_
+_Updated: 2026-11-25 22:09_
 
-- Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate - The Washington Post
-- Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle - BBC
-- Shenzhou 24: Pakistan's first astronaut goes to space aboard Chinese rocket - BBC
-- US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business - CNN
-- Live storm updates: Record king tides leave Bay Area roads flooded - ABC7 Bay Area
-- US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says - Reuters
-- Two children among six dead after plane crash off Mississippi coast - BBC
-- Fort Hood shooter Nidal Hasan will petition to delay his execution, court documents show - CBS News
-- ‘Political payback:’ Trump admin warns Dems with same criminal charge Jack Smith brought against Trump - Politico
-- One lame duck and two turkeys as Trump plays the hits at Thanksgiving ceremony - The Guardian
-- China: Xi Jinping's anti-corruption campaign ensnares rising star and Shanghai party chief Chen Jining - BBC
-- North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War - The New York Times
-- Australia signs treaty with Solomon Islands, a blow for China’s ambitions in the Pacific - Politico
-- Ten hostages released in standoff with gunmen at Colombia supermarket - Al Jazeera
-- Jensen Huang says he’s thankful for second chance at Nvidia employee meeting - NBC News
-- Asia’s markets dive as return of Nvidia’s Huang fails to quell AI doubts - Al Jazeera
-- Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates - CNBC
-- EXCLUSIVE: Alice Huang-linked firms listed $270 million in AI servers in China, records show - Reuters
-- Missed That $149 AirPods Pro 3 Deal? Amazon Just Brought It Back - MacRumors
-- GTA VI’s jaw-dropping success: in figures - The Guardian
+- Army calls detonation of bomb chemicals in Iowa a success after earlier fears of a toxic plume - AP News
+- Trump proposing new tariffs on 14 partners including China and EU - The Guardian
+- California’s Tides Are in ‘Uncharted Territory’ as Water Surges Higher - The New York Times
+- Live updates: Thanksgiving storms target 250M+ with intense winds, heavy rain, flooding - FOX Weather
+- Records show how DOJ, judge debated constitutional implications of searching Rep. Ilhan Omar's home - PBS
+- Kilmar Ábrego García arrives in Spain, ending Trump deportation battle - BBC
+- Father of Florida teen killed while camping with friends says shooting was a "deliberate act" - CBS News
+- Divers recover bodies of six people after plane crash off coast of Mississippi - The Guardian
+- Bessent insulted Democrats. Now he needs to make a deal with them. - Politico
+- Fort Hood shooter asks court to delay execution scheduled for next week - The Washington Post
+- One Killed in Samara Region as Ukraine Strikes Oil Refinery - The Moscow Times
+- Exclusive | Inside the Scramble to Avert Conflict With Russia in the Baltic - WSJ
+- A rising star in China is the latest victim of Xi’s purge - NBC News
+- South African President Averts Impeachment Inquiry Over Cash Hidden in Couch - The New York Times
+- Inside Trump's effort to reinstate Jensen Huang as Nvidia's CEO - CBS News
+- Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return - CNBC
+- Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again - The New York Times
+- What to know before using AI agents for Black Friday shopping - NPR
+- Samsung promises One UI 9.5 will fix rapidly declining battery health on Galaxy phones - Android Authority
+- Apple Has iPads Running macOS Internally, Says Gurman - MacRumors
