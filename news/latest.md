@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-25 22:09_
+_Updated: 2026-11-26 05:05_
 
-- Army calls detonation of bomb chemicals in Iowa a success after earlier fears of a toxic plume - AP News
-- Trump proposing new tariffs on 14 partners including China and EU - The Guardian
-- California’s Tides Are in ‘Uncharted Territory’ as Water Surges Higher - The New York Times
-- Live updates: Thanksgiving storms target 250M+ with intense winds, heavy rain, flooding - FOX Weather
-- Records show how DOJ, judge debated constitutional implications of searching Rep. Ilhan Omar's home - PBS
-- Kilmar Ábrego García arrives in Spain, ending Trump deportation battle - BBC
-- Father of Florida teen killed while camping with friends says shooting was a "deliberate act" - CBS News
-- Divers recover bodies of six people after plane crash off coast of Mississippi - The Guardian
-- Bessent insulted Democrats. Now he needs to make a deal with them. - Politico
-- Fort Hood shooter asks court to delay execution scheduled for next week - The Washington Post
-- One Killed in Samara Region as Ukraine Strikes Oil Refinery - The Moscow Times
-- Exclusive | Inside the Scramble to Avert Conflict With Russia in the Baltic - WSJ
-- A rising star in China is the latest victim of Xi’s purge - NBC News
-- South African President Averts Impeachment Inquiry Over Cash Hidden in Couch - The New York Times
-- Inside Trump's effort to reinstate Jensen Huang as Nvidia's CEO - CBS News
-- Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return - CNBC
-- Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again - The New York Times
-- What to know before using AI agents for Black Friday shopping - NPR
-- Samsung promises One UI 9.5 will fix rapidly declining battery health on Galaxy phones - Android Authority
-- Apple Has iPads Running macOS Internally, Says Gurman - MacRumors
+- Live Updates: Macy’s Thanksgiving Day Parade Postponed as NYC Faces Storm - The New York Times
+- Blindsided by lead-based explosives in Iowa, White House now searching for accountability, sources say - CBS News
+- US announces new tariffs on host of countries including China - BBC
+- Bay Area weather live updates: King tides, coastal flood warning - NBC Bay Area
+- Mississippi plane crash victims were members of a Florida family returning from a fishing trip - NBC News
+- Judge Sides With ABC In First Amendment Lawsuit Against FCC, Puts Halt On Early License Renewal Proceeding - Deadline
+- A man in Boston won $1 million in the lottery. Then ICE arrested him - CNN
+- Judge declines to issue a long-term ban on taxpayer-funded, pro-Trump ads critics called propaganda - AP News
+- Dangerous winds, rains expected in NYC and NJ for Thanksgiving Day - Gothamist
+- Mamdani Wins Against Landlords in Rent Freeze Lawsuit - The New York Times
+- Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway - BBC
+- Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu - The New York Times
+- Ukraine tells Putin to ‘stop complaining’ about oil refinery attacks - The Hill
+- Wang Fuk Court: Renovation to upgrade Hong Kong homes ended in huge fire that killed 168 - BBC
+- Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO - The Washington Post
+- Markets News, Nov. 25, 2026: Nasdaq, S&P 500 Close Lower as AI Trade Remains Under Pressure; Nvidia Falls 4% - Investopedia
+- Fed’s preferred inflation gauge jumps to 3.8% as Wall Street braces for rate hike - New York Post
+- EXCLUSIVE: Billionaire Boehly signs US-backed share swap deal to buy Lukoil global assets - Reuters
+- Samsung might repeat its biggest Galaxy Z TriFold mistake - PhoneArena
+- Acer Predator Atlas 8 Review: Potent Performance At A Slightly Better Price - Engadget
