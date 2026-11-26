@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-26 05:05_
+_Updated: 2026-11-26 15:08_
 
-- Live Updates: Macy’s Thanksgiving Day Parade Postponed as NYC Faces Storm - The New York Times
-- Blindsided by lead-based explosives in Iowa, White House now searching for accountability, sources say - CBS News
-- US announces new tariffs on host of countries including China - BBC
-- Bay Area weather live updates: King tides, coastal flood warning - NBC Bay Area
-- Mississippi plane crash victims were members of a Florida family returning from a fishing trip - NBC News
-- Judge Sides With ABC In First Amendment Lawsuit Against FCC, Puts Halt On Early License Renewal Proceeding - Deadline
-- A man in Boston won $1 million in the lottery. Then ICE arrested him - CNN
+- Powerful storms disrupt holiday travel, as Macy's Thanksgiving Day Parade is postponed - NPR
+- Bay Area weather recap: Flood cleanup underway after waves slam Pacifica - NBC Bay Area
+- Trump's new tariffs would put rates right back where they were before the Supreme Court stepped in - Yahoo Finance
+- Trump, FCC illegally sought to punish ABC in free speech case, judge rules - Los Angeles Times
+- US Army says controlled blast of explosives in Iowa was 'huge success' - BBC
+- Nor'easter brings howling winds, rain to huge swath of US - USA Today
+- Six killed, including children, in plane crash off Mississippi coast - Al Jazeera
 - Judge declines to issue a long-term ban on taxpayer-funded, pro-Trump ads critics called propaganda - AP News
-- Dangerous winds, rains expected in NYC and NJ for Thanksgiving Day - Gothamist
-- Mamdani Wins Against Landlords in Rent Freeze Lawsuit - The New York Times
-- Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway - BBC
-- Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu - The New York Times
+- New York declares emergency as Thanksgiving storm threatens East Coast - ABC News - Breaking News, Latest News and Videos
+- North Korea’s Kim vows to build more nuclear weapons after ignoring Trump’s overture - AP News
+- Road Fire Near Cairo Kills Dozens After Petroleum-Laden Truck Crashes - The New York Times
 - Ukraine tells Putin to ‘stop complaining’ about oil refinery attacks - The Hill
-- Wang Fuk Court: Renovation to upgrade Hong Kong homes ended in huge fire that killed 168 - BBC
+- Live - EU summit: Budget deal 'light years away', Meloni says as talks begin - Euronews.com
+- After Cyberattacks and Bomb Threats Hit Europe, Survivalism Goes Mainstream - The New York Times
+- Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap - Bloomberg.com
 - Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO - The Washington Post
-- Markets News, Nov. 25, 2026: Nasdaq, S&P 500 Close Lower as AI Trade Remains Under Pressure; Nvidia Falls 4% - Investopedia
-- Fed’s preferred inflation gauge jumps to 3.8% as Wall Street braces for rate hike - New York Post
-- EXCLUSIVE: Billionaire Boehly signs US-backed share swap deal to buy Lukoil global assets - Reuters
-- Samsung might repeat its biggest Galaxy Z TriFold mistake - PhoneArena
-- Acer Predator Atlas 8 Review: Potent Performance At A Slightly Better Price - Engadget
+- Necessities join gifts in Black Friday shopping carts as AI and higher costs steer spending - AP News
+- US approves SpaceX plan to send a million data satellites to space - BBC
+- Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too - The Verge
+- I tested TCL, Hisense and LG’s budget-friendly TVs side by side to compare mini-LED with affordable OLED — here’s the one I’d buy this Black Friday - TechRadar
