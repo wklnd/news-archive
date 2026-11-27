@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-11-27 00:34_
+_Updated: 2026-11-27 06:55_
 
-- Flight delays, flooding and outages grow as storm batters East Coast - The Washington Post
+- Major Thanksgiving storm brings flooding, flight delays across US - BBC
 - Texas band raises $350,000 to stay for delayed Macy's Thanksgiving parade: "Outpouring of kindness" - CBS News
-- Trump rips Obama, CNN as he touts ‘perfect’ Iowa detonation - The Hill
+- Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say - The New York Times
 - Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government - Reuters
-- Med Emre: Diesel tanker carrying tonnes capsizes near Ibiza, killing one - BBC
-- As king tides pummel California coast, leaders fear what's next - ABC News - Breaking News, Latest News and Videos
-- Thanksgiving weather live: Hundreds of flights cancelled and thousands without power in US - BBC
-- ICE detains man in Massachusetts after he picks up lottery winnings - CBS News
-- Lost power on Thanksgiving? What to know as 125,000 homes in St. Louis region wait for crews - STLPR
-- Kilmar Ábrego García leaves for Spain. But the Trump administration got what it wanted - The Guardian
-- Trump’s Latest Tariffs Revive Focus on Pressuring China - The New York Times
-- Spain’s far right hasn’t governed since Franco. Immigration fears could change that - AP News
-- Egypt tanker explosion kills 31 people as driver crashes into fuel truck in fiery highway crash - CBS News
-- Trump says he asked Putin to 'pull back' military aggression throughout Europe - Reuters
-- Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence - The Guardian
-- Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say - CNBC
-- Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO - The Washington Post
-- Norse Atlantic suspends all flights as it faces potential collapse - BBC
-- Ford unveils the GT41 as it hopes to win Le Mans again - Ars Technica
-- MacBook Air Black Friday Deals Now Live With Massive $399 Savings - MacRumors
+- Zelensky tells BBC US too focused on Middle East and not pushing Russia hard enough - BBC
+- Trump’s Eyebrow-Raising Mar-a-Lago Thanksgiving Guest List Exposed - Yahoo
+- What are king tides? These exceptionally high tides are increasingly flooding coastal communities - PBS
+- Trump rips Obama, CNN as he touts ‘perfect’ Iowa detonation - The Hill
+- After the Iowa Detonation, a Family Gathered for an Unusual Thanksgiving - The New York Times
+- Strobe Talbott, who helped shape Clinton-era foreign policy, dies at 80 - The Washington Post
+- Final count in New Zealand’s election gives neither right nor left bloc enough seats for a majority - AP News
+- UK to pay 'participation' fee to deliver EU deals - BBC
+- ICC outlines Duterte’s trial schedule - Inquirer.net
+- Congo Ebola outbreak reaches 12,000 cases as some responders evacuate - NPR
+- Trump calls pre-election GDP figures ‘fake’ and demands probe of Commerce Department - MS NOW
+- Global stocks climb after volatile US trading over AI risks - Financial Times
+- Nvidia CEO's comeback fuels debate over misogyny and impunity for the rich and powerful - PBS
+- We Found the Very Best Black Friday Deals So You Don’t Have To - The New York Times
+- The 50+ Best Apple Black Friday Deals on AirPods, iPads, MacBooks, and More - MacRumors
+- Matt Damon Narrates Ford Racing’s ‘Go Like Hell’ Thanksgiving Day Ad Directed by Zack Snyder - Variety
