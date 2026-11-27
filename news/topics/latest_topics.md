@@ -1,117 +1,126 @@
 # Latest News - All Topics
 
-_Updated: 2026-11-27 06:25_
+_Updated: 2026-11-27 16:09_
 
 ## Top Stories
 
-- C-politikern i tårar efter partiets högersväng – Senaste nytt om valet 2026 - SVT Nyheter
-- Stormar i USA – 900 000 strömlösa - Göteborgs-Posten
-- DN Direkt – Trump: Putin borde dra tillbaka hoten mot Europa - Dagens Nyheter
+- DN Direkt – Birgitta Ohlsson (C): Kommer trycka rött åt Ulf Kristersson - Dagens Nyheter
+- C:s värdegrund kan bara respekteras i en rödgrön regering - Dagens Arena
+- Uppgifter: USA:s flygvapen utsatt för hackerattack - SVT Nyheter
+- Svensk officer misstänks för brott mot rikets säkerhet - Hufvudstadsbladet – HBL
+- Guldgruva utryms efter brand - Göteborgs-Posten
+- Mer klimatfokus i borgerlig överenskommelse – SVT har tagit del av dokumentet - SVT Nyheter
+- Just nu: Störningar i trafiken på grund av stillastående personbil på E4 - Corren
+- New Swedish ID card for residents without citizenship - Sveriges Radio
+- Hot om extraval i norr – ”Knivigt uppdrag” - Dagens Nyheter
 - DN Direkt – Inget beslut om nya EU-lån till Ukraina - Dagens Nyheter
-- Stillastående personbil på E4 – ett körfält blockerat - UNT
-- Direkt – Kriget i Ukraina – Zelenskyj: Ryssland förbereder nya massiva anfall - Dagens Nyheter
-- Hallengren (S): Ett oerhört stort svek – Senaste nytt om valet 2026 - SVT Nyheter
-- Sverigedemokraterna har pulvriserat den politiska mitten - Dagens Arena
-- Kristersson slår tillbaka: Inte extraval - Aftonbladet
-- UD kallade upp Rysslands ambassadör - Göteborgs-Posten
-- Peking varnar för vedergällning, vapenvilaavtal rubbas, spänningarna mellan USA och Kina eskalerar igen? - Vietnam.vn
-- Zelenskyjs kritik mot Trump: ”Har många frågor” - Göteborgs-Posten
-- 72-åring gripen för Pokémonrån - TV4 Nyheterna
-- Spaniens ”comeback king” kan förlora makten – vad betyder det för EU? - Altinget.se
-- Trump insisterar: Huang inget säkerhetshot - Göteborgs-Posten
-- Stockholmsbörsen steg kraftigt under torsdagen, OMXS30 upp 2 procent (Finwire News) - Aktiellt
-- Väntat höga elpriser – även i norra Sverige - Jordbruksaktuellt
-- HGF: Uppemot 140 000 pensionärer kan missa bostadstillägg - Fastighetstidningen
+- Nato-stridsflyg skickades upp efter drönarlarm - Hufvudstadsbladet – HBL
+- Man drogade sin fru i över 20 år – nio män inför rätta i Storbritannien - Dagens Nyheter
+- Svenska storaffären: stridsfordon för 60 miljarder - Dagens Nyheter
+- LO-facken går samman inför avtalsrörelsen: ”Vi tänker inte backa” - EFN
+- Novos Wegovy i pillerform – lanseras på julafton - EFN
+- Elpriserna rusar i söder – högkostnadsskydd slår in - Omni – Alla nyheter. Alla perspektiv.
+- Afv-analytikerna: Här är 10 fynd-aktier - Affärsvärlden
+- Whatsapp börjar låta användare schemalägga meddelanden - Computer Sweden
 - Nya ägare till tomt i Sala kommun - Sala Allehanda
-- Skal och attrapper för Galaxy S27-serien bekräftar designen inför lanseringen - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
+- Första bilderna från Nasa:s asteroidkrock - Sveriges Radio
 
 ## World News
 
 - Lysa lanserar global ETF - Finanswatch.se
-- Lågprisfond ska locka globalsparare - DI
 - PRESS RELEASE: Global Finance Names The World’s 50 Safest Commercial Banks 2026 - Global Finance Magazine
-- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Lågprisfond ska locka globalsparare - Dagens industri
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Lyft för global- och indexfonder hos nätbankerna - Finanswatch.se
 - Increased ERC funding for top global researchers moving to Europe now confirmed|ERC - European Research Council (ERC)
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
-- 1 426 potential victims identified in global operation against human trafficking - Europol
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- 1 426 potential victims identified in global operation against human trafficking - Europol
 
 ## Technology
 
 - Staff Scientist inom AI och Data Engineering vid Institutionen för datavetenskap - Umeå universitet
 - Investera i AI-aktier – Bästa bolagen & tipsen 2026 - Börskollen
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Leidos taps leading AI tech executive Ted Tanner as chief technology officer (PR Newswire) - Aktiellt
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Data Centre Expo Sweden - Mynewsdesk
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- 7 sätt att använda AI i den fysiska världen - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Senaste nytt om AI-förordningen och ändringar genom digital omnibus - Legal 500
-- Timnit Gebru - Right Livelihood
+- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
+- AI-explosion på svenska arbetsplatser - Computer Sweden
+- Tre år med AI: Vad har hänt med jobben? - Almega
+- IPCEI: Delta i Europas teknikutveckling inom AI och halvledare - Vinnova
+- Förordningen om artificiell intelligens - Council, European Union
+- Bästa AI-aktierna att köpa nu - Morningstar
 - Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - SLU
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- GIBO Announces Strategic Collaboration with E Total Technology Sdn Bhd to Accelerate Deployment of AI Compute Centers Featuring NVIDIA's Most Advanced Chips (PR Newswire) - Aktiellt
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Metas tidigare AI-chef slår Europarekord – tar in 9 miljarder - Computer Sweden
-- Net Health NEXT 2026 Sets the Stage for AI-Powered, Human-Centered Care (PR Newswire) - Aktiellt
+- Techtoppar följer Trump – börjar kalla AI för “superintellligens” - Computer Sweden
+- Mätning av AI genom resultat: Den offentliga sektorn strävar efter 7 investeringsprinciper, medan företag prioriterar kontroll. - Vietnam.vn
+- Sandvik AI investments - smarter Industry solutions - Sandvik Group
+- 290 million for digitalisation of Swedish industry - Vinnova
+- Artificiell intelligens: Möjligheter och risker - European Parliament
+- Karim Jebari - Institutet för framtidsstudier
 - Litar du på AI? Över hälften av användarna gör inte det - Computer Sweden
-- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
+- Microsoft-studie: mer AI-användning betyder mindre kritiskt tänkande - Computer Sweden
 
 ## Business
 
-- Lendo integrerar Kreddy under sitt varumärke – vässar erbjudandet som Sveriges största jämförelsetjänst för lån - Mynewsdesk
-- 16 företag får utmärkelsen Sweden’s Best Managed Companies 2026 - Deloitte
-- Ukrainska borgmästare till finländska företag: Hjälp oss bygga upp landet - Yle
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Four European takes on open banking - Mastercard Data and Services - Mastercard
-- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Redpill Linpro och Berget AI inleder samarbete för suverän AI - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Startupbolaget Abundry lanseras för att bygga intelligenslagret för energiomställningen - Mynewsdesk
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- Lendo integrerar Kreddy under sitt varumärke – vässar erbjudandet som Sveriges största jämförelsetjänst för lån - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Sharon Lavie blir Lendos sparekonom - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Hälso- och sjukvård - Moderaterna
+- NEKO HEALTH ÖPPNAR I NEW YORK OCH TAR DEN MEST VÄRDEFULLA TIMMEN INOM HÄLSOVÅRDEN TILL USA - PR Newswire
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
+- Kan en hjärtpacemaker hjälpa till att hitta en försvunnen person? - Health-ISAC
 - Vi presenterar HealthBench - OpenAI
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Verktyg möjliggör jämförelser av rapportering av kliniska studier - Läkartidningen
+- Påminnelse ​pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - CGM har tecknat avtal med Zymego för ännu effektivare vårdflöden med journalsystemet CGM J4 - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kvinnlig student från keramikbyn har internationellt projekt och vinner vetenskaps- och teknikpris. - Vietnam.vn
+- Öppen vetenskap vid SLU - SLU
+- När praktisk problemlösning blir ett sätt att forska - Chalmers tekniska högskola
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science fiction i verkligheten - Forskning & Framsteg
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Från AI till honungsbin – ForskarFredag väcker nyfikenhet hos unga - Mynewsdesk
+- Täta band mellan turism och forskning på Svalbard - SLU
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk nationell datatjänst
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskningen ska vara fri - European Commission
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Kvinnors karriärer i vetenskap och teknik undersöks i nytt nordiskt forskningsprojekt - Lunds universitet
+- Andrea del Valle - Karolinska Institutet
+- En heldag för kvinnors hälsa i forskningen - Göteborgs universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- 5 myter om öppen vetenskap - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- European School of Sustainability Science and Research - Åbo Akademi
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
 
+- Bozita lanserar nytt torrfoder med kycklingfritt recept – efter önskemål från konsumenter - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Sveriges förändrade lantbruk - SLU
 - Lantbrukslogik – nu och i framtiden - SLU
@@ -123,12 +132,11 @@ _Updated: 2026-11-27 06:25_
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Lista: 8 innovationsprojekt för hållbart lantbruk - Miljö & Utveckling
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
 - Jordbrukets framtid är här - Shaping Europe’s digital future
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Släktskapet mellan regenerativt, ekologiskt och andra berättelser om hållbart jordbruk - SLU
